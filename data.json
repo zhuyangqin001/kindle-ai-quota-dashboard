@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T14:09:54.197+08:00",
+  "updatedAt": "2026-10-25T14:20:13.257+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 26.6,
     "feelsLikeC": 26.5,
     "humidity": 49,
-    "windKph": 11.9,
+    "windKph": 11.8,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T14:09:54.197+08:00",
+    "observedAt": "2026-10-25T14:15:00.000+08:00",
+    "fetchedAt": "2026-10-25T14:20:13.258+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "北京交通部门推出多条“赏叶专线”和通游专线",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720656.shtml",
-        "publishedAt": "2026-10-25T14:02:49.000+08:00"
+        "title": "“红星照耀中国·90年后我站在何家冲”网络主题宣传活动在河南信阳启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720641.shtml",
+        "publishedAt": "2026-10-25T14:12:26.000+08:00"
       },
       {
-        "title": "广西探索“民族文艺+健康科普”创新传播路径",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720653.shtml",
-        "publishedAt": "2026-10-25T14:01:39.000+08:00"
+        "title": "5.2万名客商“中国丝网之都”觅商机 3天成交额达15.7亿元",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/10-25/10720664.shtml",
+        "publishedAt": "2026-10-25T14:11:24.000+08:00"
       },
       {
-        "title": "中国发射卫星互联网低轨28组卫星",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720640.shtml",
-        "publishedAt": "2026-10-25T13:56:13.000+08:00"
+        "title": "主场气氛热烈 常州挺进“苏超”决赛将战无锡",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720642.shtml",
+        "publishedAt": "2026-10-25T14:10:56.000+08:00"
       },
       {
-        "title": "2026穗港澳工会献礼祖国艺术展演交流活动在广州举行",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720644.shtml",
-        "publishedAt": "2026-10-25T13:49:45.000+08:00"
+        "title": "7000名跑者齐聚 2026北京房山良乡大学城半程马拉松鸣枪开跑",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720637.shtml",
+        "publishedAt": "2026-10-25T14:09:16.000+08:00"
       },
       {
-        "title": "从单品到成套供给 广交会家居外贸跑出增长新曲线",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720648.shtml",
-        "publishedAt": "2026-10-25T13:48:43.000+08:00"
+        "title": "76年了，我们永远不能忘记！",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720667.shtml",
+        "publishedAt": "2026-10-25T14:08:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T14:09:51.803+08:00",
+    "fetchedAt": "2026-10-25T14:20:10.543+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T14:09:52.267+08:00",
+      "fetchedAt": "2026-10-25T14:20:10.996+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 38,
-          "resetAt": "2026-10-25T14:23:09.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-25T19:20:12.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 31,
-          "resetAt": "2026-10-31T11:11:39.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-01T14:20:12.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T14:09:52.269+08:00",
+      "fetchedAt": "2026-10-25T14:20:10.999+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T14:09:52.276+08:00",
+      "fetchedAt": "2026-10-25T14:20:11.006+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T14:09:52.276+08:00",
+      "fetchedAt": "2026-10-25T14:20:11.006+08:00",
       "error": "未启用",
       "disabled": true
     }
