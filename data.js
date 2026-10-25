@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T07:19:48.681+08:00",
+  "updatedAt": "2026-10-26T07:30:00.647+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-26T07:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T07:19:48.681+08:00",
+    "fetchedAt": "2026-10-26T07:30:00.647+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "优质托育服务正在走进更多家庭",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720881.shtml",
+        "publishedAt": "2026-10-26T07:24:15.000+08:00"
+      },
+      {
+        "title": "私有产权文物建筑，坏了谁来修",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720880.shtml",
+        "publishedAt": "2026-10-26T07:20:38.000+08:00"
+      },
+      {
+        "title": "10分钟就冒出“99+”群消息，职场人如何不为“群”所困？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720879.shtml",
+        "publishedAt": "2026-10-26T07:16:34.000+08:00"
+      },
       {
         "title": "日本小笠原群岛附近海域发生5.6级地震 震源深度500千米",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720878.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "对净水器“坑老”骗局说不",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720877.shtml",
         "publishedAt": "2026-10-26T07:04:09.000+08:00"
-      },
-      {
-        "title": "10月26日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-26/10720876.shtml",
-        "publishedAt": "2026-10-26T06:57:51.000+08:00"
-      },
-      {
-        "title": "“仅靠道歉无法了事” 蒙古国考虑就草原火灾向日企索赔",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720875.shtml",
-        "publishedAt": "2026-10-26T06:51:57.000+08:00"
-      },
-      {
-        "title": "特朗普：美俄乌三方会谈“很快”就会举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720874.shtml",
-        "publishedAt": "2026-10-26T06:40:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T07:19:46.508+08:00",
+    "fetchedAt": "2026-10-26T07:29:58.153+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T07:19:47.250+08:00",
+      "fetchedAt": "2026-10-26T07:29:58.899+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T07:19:47.253+08:00",
+      "fetchedAt": "2026-10-26T07:29:58.903+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T07:19:47.264+08:00",
+      "fetchedAt": "2026-10-26T07:29:58.913+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T07:19:47.264+08:00",
+      "fetchedAt": "2026-10-26T07:29:58.913+08:00",
       "error": "未启用",
       "disabled": true
     }
