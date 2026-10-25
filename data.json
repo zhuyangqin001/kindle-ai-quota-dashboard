@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T22:26:35.249+08:00",
+  "updatedAt": "2026-10-25T22:36:58.446+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.9,
-    "feelsLikeC": 22.8,
-    "humidity": 80,
-    "windKph": 3.9,
+    "tempC": 20.7,
+    "feelsLikeC": 22.6,
+    "humidity": 81,
+    "windKph": 4.1,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-25T22:26:35.249+08:00",
+    "observedAt": "2026-10-25T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-25T22:36:58.446+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "银杏果落地发臭还能捡吗？这些食用误区一定要避开",
+        "url": "https://www.chinanews.com.cn/life/2026/10-25/10720861.shtml",
+        "publishedAt": "2026-10-25T22:31:39.000+08:00"
+      },
+      {
+        "title": "今晚不再睡帐篷！西藏巴青7.0级震后 安置板房迎来新主人",
+        "url": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/10-25/news1072949.shtml",
+        "publishedAt": "2026-10-25T22:22:30.000+08:00"
+      },
       {
         "title": "西藏那曲巴青7.0级地震震区玛如乡二村受灾群众安置点活动板房顺利通电",
         "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720856.shtml",
@@ -33,19 +43,9 @@
         "title": "两岸同忆台静农：渡海传薪续文脉 “歇脚庵”里话古今",
         "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720855.shtml",
         "publishedAt": "2026-10-25T22:09:08.000+08:00"
-      },
-      {
-        "title": "守千年技艺 绘傣陶新章：一位西双版纳女陶艺师的“新纹样”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720844.shtml",
-        "publishedAt": "2026-10-25T21:14:01.000+08:00"
-      },
-      {
-        "title": "在榕台青于非遗与新媒体碰撞中感悟闽都文脉",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720843.shtml",
-        "publishedAt": "2026-10-25T21:13:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T22:26:32.570+08:00",
+    "fetchedAt": "2026-10-25T22:36:55.148+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T22:26:33.317+08:00",
+      "fetchedAt": "2026-10-25T22:36:55.888+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T03:26:35.000+08:00"
+          "resetAt": "2026-10-26T03:36:57.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T22:26:35.000+08:00"
+          "resetAt": "2026-11-01T22:36:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T22:26:33.320+08:00",
+      "fetchedAt": "2026-10-25T22:36:55.891+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T22:26:33.330+08:00",
+      "fetchedAt": "2026-10-25T22:36:55.901+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T22:26:33.330+08:00",
+      "fetchedAt": "2026-10-25T22:36:55.902+08:00",
       "error": "未启用",
       "disabled": true
     }
