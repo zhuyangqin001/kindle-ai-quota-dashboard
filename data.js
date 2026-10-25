@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T16:35:22.484+08:00",
+  "updatedAt": "2026-10-25T16:45:43.359+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.5,
-    "feelsLikeC": 26.6,
-    "humidity": 50,
-    "windKph": 11.1,
+    "tempC": 26.3,
+    "feelsLikeC": 26.5,
+    "humidity": 51,
+    "windKph": 10.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T16:35:22.485+08:00",
+    "observedAt": "2026-10-25T16:45:00.000+08:00",
+    "fetchedAt": "2026-10-25T16:45:43.359+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "最高法：过去三年全国法院累计聘请退休法官9500余人",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720717.shtml",
+        "publishedAt": "2026-10-25T16:34:15.000+08:00"
+      },
+      {
+        "title": "樟溪服务区焕新迎客 以工夫茶承载潮闽同源文脉",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720714.shtml",
+        "publishedAt": "2026-10-25T16:33:11.000+08:00"
+      },
+      {
+        "title": "陕西杨凌：田间地头变“科技秀场”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720715.shtml",
+        "publishedAt": "2026-10-25T16:31:33.000+08:00"
+      },
       {
         "title": "东西问丨丁新豹：香港孙中山纪念馆为何选址这座百年豪宅？",
         "url": "https://www.chinanews.com.cn/dxw/2026/10-25/10720711.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "（走进中国乡村）从集散中心到海外餐桌 湖南汝城小黄姜“种”出大产业",
         "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720713.shtml",
         "publishedAt": "2026-10-25T16:06:40.000+08:00"
-      },
-      {
-        "title": "粤桂琼开展2026年第三次海上联合执法行动",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720705.shtml",
-        "publishedAt": "2026-10-25T16:04:42.000+08:00"
-      },
-      {
-        "title": "探访第三十三届杨凌农高会：迭代升级 亮点纷呈",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-25/10720707.shtml",
-        "publishedAt": "2026-10-25T16:04:08.000+08:00"
-      },
-      {
-        "title": "西藏巴青震后48小时：海拔4800米的生命救援",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720712.shtml",
-        "publishedAt": "2026-10-25T16:02:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T16:35:19.972+08:00",
+    "fetchedAt": "2026-10-25T16:45:40.185+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T16:35:20.661+08:00",
+      "fetchedAt": "2026-10-25T16:45:40.899+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T21:35:22.000+08:00"
+          "resetAt": "2026-10-25T21:45:42.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T16:35:22.000+08:00"
+          "resetAt": "2026-11-01T16:45:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T16:35:20.664+08:00",
+      "fetchedAt": "2026-10-25T16:45:40.902+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T16:35:20.674+08:00",
+      "fetchedAt": "2026-10-25T16:45:40.913+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T16:35:20.674+08:00",
+      "fetchedAt": "2026-10-25T16:45:40.913+08:00",
       "error": "未启用",
       "disabled": true
     }
