@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T17:06:17.592+08:00",
+  "updatedAt": "2026-10-25T17:16:30.301+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26,
-    "feelsLikeC": 26.4,
-    "humidity": 52,
-    "windKph": 9.7,
+    "tempC": 25.7,
+    "feelsLikeC": 26.2,
+    "humidity": 53,
+    "windKph": 9.2,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T17:06:17.592+08:00",
+    "observedAt": "2026-10-25T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-25T17:16:30.301+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中外企业绿色发展与全球贡献国际传播研讨会举行，平安集团盛瑞生发表主题演讲",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720724.shtml",
+        "publishedAt": "2026-10-25T17:06:21.000+08:00"
+      },
       {
         "title": "让数据要素更“有温度” “数据要素×”大赛绽放创新活力",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720720.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（走进中国乡村）贵州“银匠村”：年轻人进村学艺 老匠人赶订单忙创新",
         "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720716.shtml",
         "publishedAt": "2026-10-25T16:37:20.000+08:00"
-      },
-      {
-        "title": "许镜清：“篡改行为不制止，原创音乐人路在何方？”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720719.shtml",
-        "publishedAt": "2026-10-25T16:36:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T17:06:13.511+08:00",
+    "fetchedAt": "2026-10-25T17:16:27.674+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T17:06:14.241+08:00",
+      "fetchedAt": "2026-10-25T17:16:28.439+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T22:06:17.000+08:00"
+          "resetAt": "2026-10-25T22:16:29.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T17:06:17.000+08:00"
+          "resetAt": "2026-11-01T17:16:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T17:06:14.244+08:00",
+      "fetchedAt": "2026-10-25T17:16:28.441+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T17:06:14.255+08:00",
+      "fetchedAt": "2026-10-25T17:16:28.449+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T17:06:14.255+08:00",
+      "fetchedAt": "2026-10-25T17:16:28.449+08:00",
       "error": "未启用",
       "disabled": true
     }
