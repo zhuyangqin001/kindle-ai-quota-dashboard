@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T19:40:37.954+08:00",
+  "updatedAt": "2026-10-25T19:50:51.168+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.6,
-    "feelsLikeC": 24.4,
-    "humidity": 69,
-    "windKph": 3.5,
+    "tempC": 22.3,
+    "feelsLikeC": 24.1,
+    "humidity": 70,
+    "windKph": 3.3,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T19:40:37.954+08:00",
+    "observedAt": "2026-10-25T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-25T19:50:51.168+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国地震局：追踪调查首次发现西藏巴青7.0级地震地表破裂带",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720784.shtml",
-        "publishedAt": "2026-10-25T19:30:51.000+08:00"
+        "title": "当代舞《禾戏剧·大师之夜》走进清华大学",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720796.shtml",
+        "publishedAt": "2026-10-25T19:49:10.000+08:00"
       },
       {
-        "title": "沙特首都机场拟恢复运营 也门胡塞武装紧急警告",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720739.shtml",
-        "publishedAt": "2026-10-25T19:27:07.000+08:00"
+        "title": "台湾民间团体纪念台湾光复81周年",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720781.shtml",
+        "publishedAt": "2026-10-25T19:45:12.000+08:00"
       },
       {
-        "title": "把学校“嵌”进养老园区 浙江温州探索产教融合新模式",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720783.shtml",
-        "publishedAt": "2026-10-25T19:24:03.000+08:00"
+        "title": "江西景德镇：三宝村特色陶瓷装置成年轻人打卡热点",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720786.shtml",
+        "publishedAt": "2026-10-25T19:45:00.000+08:00"
       },
       {
-        "title": "海归在大湾区人才大会看到另一种可能",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720780.shtml",
-        "publishedAt": "2026-10-25T19:22:01.000+08:00"
+        "title": "河南汝阳：“巧媳妇”蒸馍比赛尽显乡村烟火气",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720785.shtml",
+        "publishedAt": "2026-10-25T19:43:56.000+08:00"
       },
       {
-        "title": "广西推介水果新品种 为不同气候带产区提供特色品种",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720775.shtml",
-        "publishedAt": "2026-10-25T19:20:25.000+08:00"
+        "title": "第35届金犊奖在北京颁奖 逾半数作品应用AI辅助创作",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720778.shtml",
+        "publishedAt": "2026-10-25T19:39:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T19:40:35.783+08:00",
+    "fetchedAt": "2026-10-25T19:50:48.530+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T19:40:36.501+08:00",
+      "fetchedAt": "2026-10-25T19:50:49.277+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T00:40:37.000+08:00"
+          "resetAt": "2026-10-26T00:50:50.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T19:40:37.000+08:00"
+          "resetAt": "2026-11-01T19:50:50.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T19:40:36.504+08:00",
+      "fetchedAt": "2026-10-25T19:50:49.280+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T19:40:36.515+08:00",
+      "fetchedAt": "2026-10-25T19:50:49.291+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T19:40:36.515+08:00",
+      "fetchedAt": "2026-10-25T19:50:49.291+08:00",
       "error": "未启用",
       "disabled": true
     }
