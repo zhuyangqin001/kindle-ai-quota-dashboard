@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T09:30:10.065+08:00",
+  "updatedAt": "2026-10-25T09:25:29.686+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 21.3,
-    "feelsLikeC": 20.8,
-    "humidity": 76,
-    "windKph": 20.5,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 22.7,
+    "feelsLikeC": 24,
+    "humidity": 66,
+    "windKph": 5.1,
     "windDir": "北风",
-    "place": "杭州",
-    "observedAt": "2026-10-25T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T09:30:10.065+08:00",
+    "place": "江西鹰潭",
+    "observedAt": "2026-10-25T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-25T09:25:29.686+08:00",
     "error": null
   },
   "news": {
@@ -45,23 +45,17 @@
         "publishedAt": "2026-10-25T08:59:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T09:30:03.816+08:00",
+    "fetchedAt": "2026-10-25T09:25:22.838+08:00",
     "error": null
   },
   "sources": {
     "copilot": {
-      "ok": true,
+      "ok": false,
       "label": "GitHub Copilot",
-      "windows": [
-        {
-          "name": "月度 AIC",
-          "usedPct": 85,
-          "resetAt": "2026-11-01T08:00:00.000+08:00",
-          "detailText": "剩余 226 / 1500 AIC"
-        }
-      ],
-      "fetchedAt": "2026-10-25T09:30:08.883+08:00",
-      "error": null
+      "windows": [],
+      "fetchedAt": "2026-10-25T09:25:28.469+08:00",
+      "error": "未启用",
+      "disabled": true
     },
     "codex": {
       "ok": true,
@@ -69,36 +63,37 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-25T14:30:09.000+08:00"
+          "usedPct": 12,
+          "resetAt": "2026-10-25T14:23:09.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 13,
-          "resetAt": "2026-10-31T08:09:17.000+08:00"
+          "usedPct": 27,
+          "resetAt": "2026-10-31T11:11:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T09:30:09.162+08:00",
+      "fetchedAt": "2026-10-25T09:25:28.470+08:00",
       "error": null
     },
     "mimo": {
-      "ok": true,
+      "ok": false,
       "label": "Xiaomi MiMo",
-      "balance": 20.47,
+      "balance": null,
       "currency": "CNY",
-      "detail": "余额 ¥20.47",
-      "fetchedAt": "2026-10-09T16:30:09.585+08:00",
-      "stale": true,
-      "error": "MiMo 控制台余额快照已过期"
+      "detail": null,
+      "fetchedAt": "2026-10-25T09:25:28.474+08:00",
+      "error": "未启用",
+      "disabled": true
     },
     "deepseek": {
-      "ok": true,
+      "ok": false,
       "label": "DeepSeek",
-      "balance": 24.8,
+      "balance": null,
       "currency": "CNY",
-      "detail": "余额 ¥24.80",
-      "fetchedAt": "2026-10-25T09:30:09.170+08:00",
-      "error": null
+      "detail": null,
+      "fetchedAt": "2026-10-25T09:25:28.474+08:00",
+      "error": "未启用",
+      "disabled": true
     }
   }
 }
