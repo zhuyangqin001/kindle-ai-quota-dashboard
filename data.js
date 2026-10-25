@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T12:47:13.780+08:00",
+  "updatedAt": "2026-10-25T12:57:31.918+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-25T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-25T12:47:13.780+08:00",
+    "fetchedAt": "2026-10-25T12:57:31.918+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "新疆图木舒克：产业富民“润”戈壁 三餐一线“织”幸福",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720617.shtml",
+        "publishedAt": "2026-10-25T12:45:01.000+08:00"
+      },
       {
         "title": "“2026年致敬经典·国际修复电影展”苏州启幕",
         "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720612.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中国队包揽速度攀岩世界杯收官战冠军 赵一程获年度总冠军",
         "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720614.shtml",
         "publishedAt": "2026-10-25T12:19:00.000+08:00"
-      },
-      {
-        "title": "比利时“撒尿小童”换唐装庆祝中比建交55周年",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720602.shtml",
-        "publishedAt": "2026-10-25T12:17:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T12:47:10.948+08:00",
+    "fetchedAt": "2026-10-25T12:57:28.547+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T12:47:11.318+08:00",
+      "fetchedAt": "2026-10-25T12:57:29.082+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T11:11:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T12:47:11.321+08:00",
+      "fetchedAt": "2026-10-25T12:57:29.084+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T12:47:11.327+08:00",
+      "fetchedAt": "2026-10-25T12:57:29.091+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T12:47:11.327+08:00",
+      "fetchedAt": "2026-10-25T12:57:29.093+08:00",
       "error": "未启用",
       "disabled": true
     }
