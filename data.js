@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T12:26:31.733+08:00",
+  "updatedAt": "2026-10-25T12:36:52.316+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.7,
+    "tempC": 26.8,
     "feelsLikeC": 26.5,
-    "humidity": 48,
-    "windKph": 12.5,
+    "humidity": 47,
+    "windKph": 12.7,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-25T12:26:31.733+08:00",
+    "observedAt": "2026-10-25T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-25T12:36:52.316+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“2026年致敬经典·国际修复电影展”苏州启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720612.shtml",
+        "publishedAt": "2026-10-25T12:28:54.000+08:00"
+      },
       {
         "title": "专家：“十五五”美丽中国建设应抓住窗口期向“深绿”转型",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720611.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "比利时“撒尿小童”换唐装庆祝中比建交55周年",
         "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720602.shtml",
         "publishedAt": "2026-10-25T12:17:46.000+08:00"
-      },
-      {
-        "title": "2026伦敦世界旅游交易会：中国展区规模创历届新高",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720600.shtml",
-        "publishedAt": "2026-10-25T12:16:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T12:26:29.596+08:00",
+    "fetchedAt": "2026-10-25T12:36:50.309+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T12:26:30.060+08:00",
+      "fetchedAt": "2026-10-25T12:36:50.782+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T11:11:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T12:26:30.061+08:00",
+      "fetchedAt": "2026-10-25T12:36:50.784+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T12:26:30.067+08:00",
+      "fetchedAt": "2026-10-25T12:36:50.790+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T12:26:30.067+08:00",
+      "fetchedAt": "2026-10-25T12:36:50.791+08:00",
       "error": "未启用",
       "disabled": true
     }
