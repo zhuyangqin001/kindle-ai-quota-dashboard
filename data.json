@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T23:39:13.325+08:00",
+  "updatedAt": "2026-10-25T23:49:43.121+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 20.3,
-    "feelsLikeC": 21.7,
-    "humidity": 81,
-    "windKph": 7.2,
+    "feelsLikeC": 21.5,
+    "humidity": 80,
+    "windKph": 8.3,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T23:39:13.325+08:00",
+    "observedAt": "2026-10-25T23:45:00.000+08:00",
+    "fetchedAt": "2026-10-25T23:49:43.121+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国短池游泳锦标赛：潘展乐赢百米“飞鱼大战”",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720863.shtml",
+        "publishedAt": "2026-10-25T23:41:59.000+08:00"
+      },
       {
         "title": "银杏果落地发臭还能捡吗？这些食用误区一定要避开",
         "url": "https://www.chinanews.com.cn/life/2026/10-25/10720861.shtml",
@@ -38,14 +43,9 @@
         "title": "27支队伍角逐2026年中国—东盟国际龙舟公开赛",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-25/10720854.shtml",
         "publishedAt": "2026-10-25T22:10:28.000+08:00"
-      },
-      {
-        "title": "两岸同忆台静农：渡海传薪续文脉 “歇脚庵”里话古今",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720855.shtml",
-        "publishedAt": "2026-10-25T22:09:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T23:39:10.397+08:00",
+    "fetchedAt": "2026-10-25T23:49:40.437+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T23:39:11.145+08:00",
+      "fetchedAt": "2026-10-25T23:49:41.156+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T04:39:13.000+08:00"
+          "resetAt": "2026-10-26T04:49:42.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T23:39:13.000+08:00"
+          "resetAt": "2026-11-01T23:49:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T23:39:11.148+08:00",
+      "fetchedAt": "2026-10-25T23:49:41.158+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T23:39:11.159+08:00",
+      "fetchedAt": "2026-10-25T23:49:41.167+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T23:39:11.159+08:00",
+      "fetchedAt": "2026-10-25T23:49:41.167+08:00",
       "error": "未启用",
       "disabled": true
     }
