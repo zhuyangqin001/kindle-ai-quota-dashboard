@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T18:38:59.181+08:00",
+  "updatedAt": "2026-10-25T18:49:18.651+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 23.7,
-    "feelsLikeC": 25.1,
-    "humidity": 63,
-    "windKph": 5.5,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 23.4,
+    "feelsLikeC": 24.9,
+    "humidity": 65,
+    "windKph": 4.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T18:38:59.181+08:00",
+    "observedAt": "2026-10-25T18:45:00.000+08:00",
+    "fetchedAt": "2026-10-25T18:49:18.651+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "内蒙古霍林郭勒开通至上海航线 “绿电铝之城”空中连通长三角",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720763.shtml",
+        "publishedAt": "2026-10-25T18:40:52.000+08:00"
+      },
+      {
+        "title": "2026全球治理论坛（雄安）闭幕 圆满完成所有既定议程",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720767.shtml",
+        "publishedAt": "2026-10-25T18:33:50.000+08:00"
+      },
       {
         "title": "习近平同比利时国王菲利普就中比建交55周年互致贺信",
         "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720753.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "上合组织国家“亮相”陕西杨凌 “双展”启幕深化农业国际合作",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720755.shtml",
         "publishedAt": "2026-10-25T17:57:32.000+08:00"
-      },
-      {
-        "title": "2026石家庄环城绿道徒步大会举行",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720745.shtml",
-        "publishedAt": "2026-10-25T17:52:38.000+08:00"
-      },
-      {
-        "title": "童声唱响青城：2600余名学生用歌声传递红色记忆",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720756.shtml",
-        "publishedAt": "2026-10-25T17:50:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T18:38:56.485+08:00",
+    "fetchedAt": "2026-10-25T18:49:15.779+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T18:38:57.223+08:00",
+      "fetchedAt": "2026-10-25T18:49:16.472+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T23:38:58.000+08:00"
+          "resetAt": "2026-10-25T23:49:18.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T18:38:58.000+08:00"
+          "resetAt": "2026-11-01T18:49:18.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T18:38:57.226+08:00",
+      "fetchedAt": "2026-10-25T18:49:16.474+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T18:38:57.236+08:00",
+      "fetchedAt": "2026-10-25T18:49:16.487+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T18:38:57.236+08:00",
+      "fetchedAt": "2026-10-25T18:49:16.487+08:00",
       "error": "未启用",
       "disabled": true
     }
