@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T07:09:37.309+08:00",
+  "updatedAt": "2026-10-26T07:19:48.681+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.4,
-    "feelsLikeC": 19.6,
-    "humidity": 80,
+    "tempC": 19.8,
+    "feelsLikeC": 20,
+    "humidity": 78,
     "windKph": 12.3,
-    "windDir": "东风",
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T07:09:37.309+08:00",
+    "observedAt": "2026-10-26T07:15:00.000+08:00",
+    "fetchedAt": "2026-10-26T07:19:48.681+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日本小笠原群岛附近海域发生5.6级地震 震源深度500千米",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720878.shtml",
+        "publishedAt": "2026-10-26T07:11:16.000+08:00"
+      },
       {
         "title": "对净水器“坑老”骗局说不",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720877.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "特朗普：美俄乌三方会谈“很快”就会举行",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720874.shtml",
         "publishedAt": "2026-10-26T06:40:50.000+08:00"
-      },
-      {
-        "title": "巴西总统选举第二轮投票结束",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720873.shtml",
-        "publishedAt": "2026-10-26T06:39:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T07:09:35.015+08:00",
+    "fetchedAt": "2026-10-26T07:19:46.508+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T07:09:35.859+08:00",
+      "fetchedAt": "2026-10-26T07:19:47.250+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-26T12:09:36.000+08:00"
+          "usedPct": 5,
+          "resetAt": "2026-10-26T12:17:52.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 0,
-          "resetAt": "2026-11-02T07:09:36.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T07:09:35.862+08:00",
+      "fetchedAt": "2026-10-26T07:19:47.253+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T07:09:35.873+08:00",
+      "fetchedAt": "2026-10-26T07:19:47.264+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T07:09:35.873+08:00",
+      "fetchedAt": "2026-10-26T07:19:47.264+08:00",
       "error": "未启用",
       "disabled": true
     }
