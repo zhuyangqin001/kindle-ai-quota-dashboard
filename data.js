@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T16:45:43.359+08:00",
+  "updatedAt": "2026-10-25T16:56:03.233+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-25T16:45:00.000+08:00",
-    "fetchedAt": "2026-10-25T16:45:43.359+08:00",
+    "fetchedAt": "2026-10-25T16:56:03.233+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "最高法：过去三年全国法院累计聘请退休法官9500余人",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720717.shtml",
-        "publishedAt": "2026-10-25T16:34:15.000+08:00"
+        "title": "让数据要素更“有温度” “数据要素×”大赛绽放创新活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720720.shtml",
+        "publishedAt": "2026-10-25T16:46:56.000+08:00"
       },
       {
-        "title": "樟溪服务区焕新迎客 以工夫茶承载潮闽同源文脉",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720714.shtml",
-        "publishedAt": "2026-10-25T16:33:11.000+08:00"
+        "title": "“不干正事”的AI，卖爆了",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720722.shtml",
+        "publishedAt": "2026-10-25T16:44:32.000+08:00"
       },
       {
-        "title": "陕西杨凌：田间地头变“科技秀场”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720715.shtml",
-        "publishedAt": "2026-10-25T16:31:33.000+08:00"
+        "title": "岐黄进万家 广西举办中医药文化服务周活动",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720718.shtml",
+        "publishedAt": "2026-10-25T16:42:38.000+08:00"
       },
       {
-        "title": "东西问丨丁新豹：香港孙中山纪念馆为何选址这座百年豪宅？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-25/10720711.shtml",
-        "publishedAt": "2026-10-25T16:16:18.000+08:00"
+        "title": "（走进中国乡村）贵州“银匠村”：年轻人进村学艺 老匠人赶订单忙创新",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720716.shtml",
+        "publishedAt": "2026-10-25T16:37:20.000+08:00"
       },
       {
-        "title": "（走进中国乡村）从集散中心到海外餐桌 湖南汝城小黄姜“种”出大产业",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720713.shtml",
-        "publishedAt": "2026-10-25T16:06:40.000+08:00"
+        "title": "许镜清：“篡改行为不制止，原创音乐人路在何方？”",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720719.shtml",
+        "publishedAt": "2026-10-25T16:36:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T16:45:40.185+08:00",
+    "fetchedAt": "2026-10-25T16:56:00.268+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T16:45:40.899+08:00",
+      "fetchedAt": "2026-10-25T16:56:01.009+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T21:45:42.000+08:00"
+          "resetAt": "2026-10-25T21:56:03.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T16:45:42.000+08:00"
+          "resetAt": "2026-11-01T16:56:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T16:45:40.902+08:00",
+      "fetchedAt": "2026-10-25T16:56:01.012+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T16:45:40.913+08:00",
+      "fetchedAt": "2026-10-25T16:56:01.022+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T16:45:40.913+08:00",
+      "fetchedAt": "2026-10-25T16:56:01.022+08:00",
       "error": "未启用",
       "disabled": true
     }
