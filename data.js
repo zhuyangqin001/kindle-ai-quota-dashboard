@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T18:07:55.183+08:00",
+  "updatedAt": "2026-10-25T18:18:22.239+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.4,
-    "feelsLikeC": 25.4,
-    "humidity": 59,
-    "windKph": 7.2,
+    "tempC": 24.1,
+    "feelsLikeC": 25.2,
+    "humidity": 61,
+    "windKph": 6.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T18:07:55.183+08:00",
+    "observedAt": "2026-10-25T18:15:00.000+08:00",
+    "fetchedAt": "2026-10-25T18:18:22.239+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "习近平同比利时国王菲利普就中比建交55周年互致贺信",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720753.shtml",
+        "publishedAt": "2026-10-25T18:00:58.000+08:00"
+      },
       {
         "title": "广交会观察：中国绿色建材以“新”吸引境外采购商",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720758.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "童声唱响青城：2600余名学生用歌声传递红色记忆",
         "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720756.shtml",
         "publishedAt": "2026-10-25T17:50:36.000+08:00"
-      },
-      {
-        "title": "云南云临高速公路20公里特长隧道左幅贯通",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720743.shtml",
-        "publishedAt": "2026-10-25T17:48:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T18:07:51.755+08:00",
+    "fetchedAt": "2026-10-25T18:18:18.799+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T18:07:52.511+08:00",
+      "fetchedAt": "2026-10-25T18:18:19.549+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T23:07:55.000+08:00"
+          "resetAt": "2026-10-25T23:18:21.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T18:07:55.000+08:00"
+          "resetAt": "2026-11-01T18:18:21.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T18:07:52.515+08:00",
+      "fetchedAt": "2026-10-25T18:18:19.553+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T18:07:52.525+08:00",
+      "fetchedAt": "2026-10-25T18:18:19.564+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T18:07:52.525+08:00",
+      "fetchedAt": "2026-10-25T18:18:19.564+08:00",
       "error": "未启用",
       "disabled": true
     }
