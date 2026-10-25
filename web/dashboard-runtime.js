@@ -222,9 +222,9 @@
     }
 
     if (!state.latest || age > 15) {
-      ui.textNode(status, state.latest ? '离线 · 最近一次更新 ' + age + ' 分钟前' : '离线 · 等待数据');
+      ui.textNode(status, state.latest ? '本地数据 · 最近一次更新 ' + age + ' 分钟前' : '等待数据');
       ui.className(status, 'warn');
-      ui.textNode(alert, '电脑或数据链路已离线 · 最后在线 ' + lastClock);
+      ui.textNode(alert, state.latest ? '采集端暂未刷新 · 最后采集 ' + lastClock : '尚未收到采集数据');
       ui.className(alert, 'data-alert on');
       return;
     }
@@ -321,17 +321,21 @@
     return '↻ ' + minutes + 'm';
   }
 
-  function showUnavailableQuota(rows) {
+  function showUnavailableQuota(rows, source) {
     var labels;
+    var disabled = source && source.disabled;
     if (!rows.length) return;
     ui.style(rows[0], 'display', 'block');
     labels = rows[0].querySelectorAll('.q-label span');
     if (labels.length > 1) {
-      ui.textNode(labels[0], '获取失败');
+      ui.textNode(labels[0], disabled ? '未配置' : '获取失败');
       ui.textNode(labels[1], '--');
     }
     ui.style(rows[0].querySelector('.q-bar-fill'), 'width', '0%');
-    ui.textNode(rows[0].querySelector('.q-refresh'), '↻ 等待下次采集');
+    ui.textNode(
+      rows[0].querySelector('.q-refresh'),
+      disabled ? '需要启用后采集' : '↻ 等待下次采集'
+    );
   }
 
   function updateQuotaCard(cardId, source) {
@@ -379,7 +383,7 @@
           (quotaWindow.detailText || remainingTime(quotaWindow.resetAt))
       );
     }
-    if (!windows.length) showUnavailableQuota(rows);
+    if (!windows.length) showUnavailableQuota(rows, source);
   }
 
   function selectWeatherIcon(key, description) {
@@ -419,7 +423,10 @@
       return;
     }
     ui.text(balanceId, '¥ --');
-    ui.text(detailId, '获取失败 · 等待下次采集');
+    ui.text(
+      detailId,
+      source && source.disabled ? '未配置 · 需要启用后采集' : '获取失败 · 等待下次采集'
+    );
   }
 
   function escapeHtml(value) {
