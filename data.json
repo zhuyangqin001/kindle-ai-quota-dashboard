@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T10:01:33.363+08:00",
+  "updatedAt": "2026-10-25T10:12:25.389+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-25T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T10:01:33.363+08:00",
+    "fetchedAt": "2026-10-25T10:12:25.389+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "陕西网球公开赛古城开拍 海内外近三百名选手切磋技艺",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720581.shtml",
+        "publishedAt": "2026-10-25T10:02:34.000+08:00"
+      },
+      {
+        "title": "2026全国茉莉花茶产销形势分析会在广西横州举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720580.shtml",
+        "publishedAt": "2026-10-25T10:01:06.000+08:00"
+      },
+      {
+        "title": "纪念台湾光复81周年座谈会在福建福州举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720584.shtml",
+        "publishedAt": "2026-10-25T10:00:24.000+08:00"
+      },
       {
         "title": "中新网直播：挑战机车水上漂纪录 17年后张雪为梦再冲锋！",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-25/10720583.shtml",
@@ -28,24 +43,9 @@
         "title": "2026年全国游泳锦标赛（25米）：张雨霏获得女子50米蝶泳冠军",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-25/1208787.shtml",
         "publishedAt": "2026-10-25T09:56:58.000+08:00"
-      },
-      {
-        "title": "西藏巴青地震灾区安置保障从“安全过夜”向“住得暖”推进",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720575.shtml",
-        "publishedAt": "2026-10-25T09:49:46.000+08:00"
-      },
-      {
-        "title": "广西马山通报“水柜内发现多只猴子溺亡”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720574.shtml",
-        "publishedAt": "2026-10-25T09:48:52.000+08:00"
-      },
-      {
-        "title": "2026年京津冀豫菊花联展在天津启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720569.shtml",
-        "publishedAt": "2026-10-25T09:39:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T10:01:31.555+08:00",
+    "fetchedAt": "2026-10-25T10:12:21.516+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T10:01:32.014+08:00",
+      "fetchedAt": "2026-10-25T10:12:21.985+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-10-31T11:11:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T10:01:32.017+08:00",
+      "fetchedAt": "2026-10-25T10:12:21.987+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T10:01:32.024+08:00",
+      "fetchedAt": "2026-10-25T10:12:21.993+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T10:01:32.024+08:00",
+      "fetchedAt": "2026-10-25T10:12:21.994+08:00",
       "error": "未启用",
       "disabled": true
     }
