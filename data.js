@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T09:41:06.940+08:00",
+  "updatedAt": "2026-10-25T09:51:17.686+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.3,
-    "feelsLikeC": 24.5,
-    "humidity": 64,
-    "windKph": 5.7,
+    "tempC": 23.8,
+    "feelsLikeC": 24.8,
+    "humidity": 61,
+    "windKph": 6.6,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T09:41:06.940+08:00",
+    "observedAt": "2026-10-25T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-25T09:51:17.686+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "线上线下同步揽才 山西太原人才智力交流大会达成初步就业意向逾6000人次",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720570.shtml",
-        "publishedAt": "2026-10-25T09:31:19.000+08:00"
+        "title": "2026年京津冀豫菊花联展在天津启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720569.shtml",
+        "publishedAt": "2026-10-25T09:39:39.000+08:00"
       },
       {
-        "title": "医学领域专家齐聚重庆 共探新时代医学创新发展新路径",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720561.shtml",
-        "publishedAt": "2026-10-25T09:30:41.000+08:00"
+        "title": "2026年全国游泳锦标赛（25米）：徐嘉余打破男子50米仰泳世界纪录",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-25/1208783.shtml",
+        "publishedAt": "2026-10-25T09:38:02.000+08:00"
       },
       {
-        "title": "广西香米产业联盟启动 以品牌建设筑牢粮食安全防线",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720554.shtml",
-        "publishedAt": "2026-10-25T09:30:09.000+08:00"
+        "title": "2026读者·领读者大会启幕 探寻AI时代全民阅读新路径",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720566.shtml",
+        "publishedAt": "2026-10-25T09:37:29.000+08:00"
       },
       {
-        "title": "福建团队牵头研究登上《新英格兰医学杂志》 为轻型卒中大血管闭塞治疗提供中国证据",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720552.shtml",
-        "publishedAt": "2026-10-25T09:28:18.000+08:00"
+        "title": "中国第20届国际摄影艺术展览在浙江丽水莲都开幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720567.shtml",
+        "publishedAt": "2026-10-25T09:36:37.000+08:00"
       },
       {
-        "title": "也门胡塞武装：对沙特境内多处目标发动7次袭击",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720572.shtml",
-        "publishedAt": "2026-10-25T09:27:44.000+08:00"
+        "title": "暨南文史学科创建100周年系列活动拉开序幕",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720568.shtml",
+        "publishedAt": "2026-10-25T09:35:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T09:41:05.146+08:00",
+    "fetchedAt": "2026-10-25T09:51:15.200+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T09:41:05.716+08:00",
+      "fetchedAt": "2026-10-25T09:51:16.001+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 33,
-          "resetAt": "2026-10-25T14:23:09.000+08:00"
+          "usedPct": 38,
+          "resetAt": "2026-10-25T14:23:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 30,
-          "resetAt": "2026-10-31T11:11:39.000+08:00"
+          "usedPct": 31,
+          "resetAt": "2026-10-31T11:11:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T09:41:05.718+08:00",
+      "fetchedAt": "2026-10-25T09:51:16.003+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T09:41:05.726+08:00",
+      "fetchedAt": "2026-10-25T09:51:16.013+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T09:41:05.726+08:00",
+      "fetchedAt": "2026-10-25T09:51:16.013+08:00",
       "error": "未启用",
       "disabled": true
     }
