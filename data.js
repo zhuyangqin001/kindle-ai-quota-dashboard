@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T11:55:46.333+08:00",
+  "updatedAt": "2026-10-25T12:05:55.862+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.5,
-    "feelsLikeC": 26.4,
+    "tempC": 26.6,
+    "feelsLikeC": 26.5,
     "humidity": 48,
-    "windKph": 11.6,
+    "windKph": 12.1,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-25T11:55:46.333+08:00",
+    "observedAt": "2026-10-25T12:00:00.000+08:00",
+    "fetchedAt": "2026-10-25T12:05:55.862+08:00",
     "error": null
   },
   "news": {
@@ -20,9 +20,19 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "秋粮收获过八成 新技术助力提质增效",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720613.shtml",
+        "publishedAt": "2026-10-25T12:03:19.000+08:00"
+      },
+      {
+        "title": "三载深耕，向产业出发：相干科技的量子求索之路",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720608.shtml",
+        "publishedAt": "2026-10-25T11:54:04.000+08:00"
+      },
+      {
         "title": "我国成功发射卫星互联网低轨28组卫星",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720607.shtml",
-        "publishedAt": "2026-10-25T11:44:40.000+08:00"
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720609.shtml",
+        "publishedAt": "2026-10-25T11:51:38.000+08:00"
       },
       {
         "title": "浙江调整防台风应急响应为Ⅳ级",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "云南省第十三届少数民族传统体育运动会开幕",
         "url": "https://www.chinanews.com.cn/mz/2026/10-25/10720599.shtml",
         "publishedAt": "2026-10-25T11:30:37.000+08:00"
-      },
-      {
-        "title": "第三届“华侨华人学研究”学术研讨会在温州开幕",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-25/10720604.shtml",
-        "publishedAt": "2026-10-25T11:29:53.000+08:00"
-      },
-      {
-        "title": "河南粮食总产有望连续10年保持在1300亿斤以上",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720605.shtml",
-        "publishedAt": "2026-10-25T11:22:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T11:55:43.980+08:00",
+    "fetchedAt": "2026-10-25T12:05:54.039+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T11:55:44.438+08:00",
+      "fetchedAt": "2026-10-25T12:05:54.498+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T11:11:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T11:55:44.441+08:00",
+      "fetchedAt": "2026-10-25T12:05:54.501+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T11:55:44.447+08:00",
+      "fetchedAt": "2026-10-25T12:05:54.507+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T11:55:44.447+08:00",
+      "fetchedAt": "2026-10-25T12:05:54.508+08:00",
       "error": "未启用",
       "disabled": true
     }
