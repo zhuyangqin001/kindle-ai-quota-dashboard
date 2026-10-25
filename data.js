@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T07:30:00.647+08:00",
+  "updatedAt": "2026-10-26T07:40:12.209+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.8,
-    "feelsLikeC": 20,
-    "humidity": 78,
+    "tempC": 20.4,
+    "feelsLikeC": 20.6,
+    "humidity": 75,
     "windKph": 12.3,
-    "windDir": "东北风",
+    "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T07:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T07:30:00.647+08:00",
+    "observedAt": "2026-10-26T07:30:00.000+08:00",
+    "fetchedAt": "2026-10-26T07:40:12.209+08:00",
     "error": null
   },
   "news": {
@@ -20,7 +20,17 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "优质托育服务正在走进更多家庭",
+        "title": "护航对外投资高质量发展，新办法12月1日起施行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720883.shtml",
+        "publishedAt": "2026-10-26T07:32:47.000+08:00"
+      },
+      {
+        "title": "从“工具”跃升为“生产力”， AI重构电影生产逻辑",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720882.shtml",
+        "publishedAt": "2026-10-26T07:27:13.000+08:00"
+      },
+      {
+        "title": "从“有人带”到“托得好” 优质托育服务正在走进更多家庭",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720881.shtml",
         "publishedAt": "2026-10-26T07:24:15.000+08:00"
       },
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "10分钟就冒出“99+”群消息，职场人如何不为“群”所困？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720879.shtml",
         "publishedAt": "2026-10-26T07:16:34.000+08:00"
-      },
-      {
-        "title": "日本小笠原群岛附近海域发生5.6级地震 震源深度500千米",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720878.shtml",
-        "publishedAt": "2026-10-26T07:11:16.000+08:00"
-      },
-      {
-        "title": "对净水器“坑老”骗局说不",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720877.shtml",
-        "publishedAt": "2026-10-26T07:04:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T07:29:58.153+08:00",
+    "fetchedAt": "2026-10-26T07:40:10.052+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T07:29:58.899+08:00",
+      "fetchedAt": "2026-10-26T07:40:10.804+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T07:29:58.903+08:00",
+      "fetchedAt": "2026-10-26T07:40:10.808+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T07:29:58.913+08:00",
+      "fetchedAt": "2026-10-26T07:40:10.819+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T07:29:58.913+08:00",
+      "fetchedAt": "2026-10-26T07:40:10.819+08:00",
       "error": "未启用",
       "disabled": true
     }
