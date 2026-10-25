@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T11:34:46.285+08:00",
+  "updatedAt": "2026-10-25T11:45:15.564+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.4,
-    "feelsLikeC": 26.6,
-    "humidity": 49,
-    "windKph": 10.7,
+    "tempC": 26.5,
+    "feelsLikeC": 26.4,
+    "humidity": 48,
+    "windKph": 11.6,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T11:34:46.285+08:00",
+    "observedAt": "2026-10-25T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-25T11:45:15.564+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "浙江调整防台风应急响应为Ⅳ级",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720606.shtml",
+        "publishedAt": "2026-10-25T11:36:45.000+08:00"
+      },
+      {
+        "title": "云南省第十三届少数民族传统体育运动会开幕",
+        "url": "https://www.chinanews.com.cn/mz/2026/10-25/10720599.shtml",
+        "publishedAt": "2026-10-25T11:30:37.000+08:00"
+      },
+      {
+        "title": "第三届“华侨华人学研究”学术研讨会在温州开幕",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-25/10720604.shtml",
+        "publishedAt": "2026-10-25T11:29:53.000+08:00"
+      },
       {
         "title": "河南粮食总产有望连续10年保持在1300亿斤以上",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720605.shtml",
@@ -28,24 +43,9 @@
         "title": "重要调整！修订后的上证系列综合指数26日起实施",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720603.shtml",
         "publishedAt": "2026-10-25T11:10:52.000+08:00"
-      },
-      {
-        "title": "中国经济面面观｜出口首破8万亿：“新”字挑大梁",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720601.shtml",
-        "publishedAt": "2026-10-25T11:09:16.000+08:00"
-      },
-      {
-        "title": "亚行批准1742万美元融资支持不丹应对物价上涨",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720586.shtml",
-        "publishedAt": "2026-10-25T11:03:08.000+08:00"
-      },
-      {
-        "title": "2026中韩经济发展论坛开幕",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720585.shtml",
-        "publishedAt": "2026-10-25T11:02:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T11:34:44.082+08:00",
+    "fetchedAt": "2026-10-25T11:45:13.638+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T11:34:44.540+08:00",
+      "fetchedAt": "2026-10-25T11:45:14.101+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-10-31T11:11:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T11:34:44.542+08:00",
+      "fetchedAt": "2026-10-25T11:45:14.104+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T11:34:44.548+08:00",
+      "fetchedAt": "2026-10-25T11:45:14.110+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T11:34:44.548+08:00",
+      "fetchedAt": "2026-10-25T11:45:14.110+08:00",
       "error": "未启用",
       "disabled": true
     }
