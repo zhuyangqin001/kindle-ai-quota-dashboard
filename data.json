@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T20:11:28.085+08:00",
+  "updatedAt": "2026-10-25T20:22:03.498+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.1,
-    "feelsLikeC": 23.9,
-    "humidity": 71,
-    "windKph": 3.4,
+    "tempC": 22.6,
+    "feelsLikeC": 24.7,
+    "humidity": 72,
+    "windKph": 3.2,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-25T20:11:28.085+08:00",
+    "observedAt": "2026-10-25T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-25T20:22:03.498+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "三千余人张家界七星山徒步 亲子健走乐享云端山水",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720805.shtml",
-        "publishedAt": "2026-10-25T20:08:41.000+08:00"
+        "title": "六大议题90余场活动 2026进博会上海会议活动蓄势待发",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720810.shtml",
+        "publishedAt": "2026-10-25T20:18:52.000+08:00"
       },
       {
-        "title": "巴西总统选举第二轮投票开始",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720807.shtml",
-        "publishedAt": "2026-10-25T20:08:09.000+08:00"
+        "title": "2026年“绿水青山”中国休闲运动挑战赛在黔江开赛 桨板高手逐浪阿蓬江",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720809.shtml",
+        "publishedAt": "2026-10-25T20:17:26.000+08:00"
       },
       {
-        "title": "“出海”加速 广州新沙港国产新能源汽车出口创新高",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720800.shtml",
-        "publishedAt": "2026-10-25T20:08:01.000+08:00"
+        "title": "“10后”中国小将孙心然：永远把目光盯在下一分",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720811.shtml",
+        "publishedAt": "2026-10-25T20:15:54.000+08:00"
       },
       {
-        "title": "范稳《青云梯》：从百年铁路到时代与人",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720803.shtml",
-        "publishedAt": "2026-10-25T20:05:23.000+08:00"
+        "title": "江苏南通：列车穿行金色稻田间",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-25/1208854.shtml",
+        "publishedAt": "2026-10-25T20:14:09.000+08:00"
       },
       {
-        "title": "“哈铁”开行今年首趟外籍研学专列",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720802.shtml",
-        "publishedAt": "2026-10-25T20:02:11.000+08:00"
+        "title": "全球治理论坛发布愿景文件 呼吁提升全球南方国家发言权和代表性",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720799.shtml",
+        "publishedAt": "2026-10-25T20:12:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T20:11:25.742+08:00",
+    "fetchedAt": "2026-10-25T20:22:00.709+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T20:11:26.487+08:00",
+      "fetchedAt": "2026-10-25T20:22:01.471+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T01:11:27.000+08:00"
+          "resetAt": "2026-10-26T01:22:03.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T20:11:27.000+08:00"
+          "resetAt": "2026-11-01T20:22:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T20:11:26.491+08:00",
+      "fetchedAt": "2026-10-25T20:22:01.474+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T20:11:26.501+08:00",
+      "fetchedAt": "2026-10-25T20:22:01.486+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T20:11:26.501+08:00",
+      "fetchedAt": "2026-10-25T20:22:01.486+08:00",
       "error": "未启用",
       "disabled": true
     }
