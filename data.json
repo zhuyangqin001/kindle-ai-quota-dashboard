@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T17:47:17.488+08:00",
+  "updatedAt": "2026-10-25T17:57:41.746+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-25T17:45:00.000+08:00",
-    "fetchedAt": "2026-10-25T17:47:17.488+08:00",
+    "fetchedAt": "2026-10-25T17:57:41.746+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "震中一夜（在现场）",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720750.shtml",
-        "publishedAt": "2026-10-25T17:40:57.000+08:00"
+        "title": "童声唱响青城：2600余名学生用歌声传递红色记忆",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720756.shtml",
+        "publishedAt": "2026-10-25T17:50:36.000+08:00"
       },
       {
-        "title": "探索外交话语的“区域国别转向” 专家学者在沪研讨对外话语体系建设",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720735.shtml",
-        "publishedAt": "2026-10-25T17:32:39.000+08:00"
+        "title": "云南云临高速公路20公里特长隧道左幅贯通",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720743.shtml",
+        "publishedAt": "2026-10-25T17:48:30.000+08:00"
       },
       {
-        "title": "2026青科会大健康论坛：瓯江实验室发布联合攻关计划",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720731.shtml",
-        "publishedAt": "2026-10-25T17:31:31.000+08:00"
+        "title": "以球为媒聚侨心 全球华人高尔夫邀请赛海口开球",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-25/10720748.shtml",
+        "publishedAt": "2026-10-25T17:46:51.000+08:00"
       },
       {
-        "title": "研学旅游市场升温 海南高校发力培育专业人才",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720732.shtml",
-        "publishedAt": "2026-10-25T17:30:45.000+08:00"
+        "title": "2026年云南省城市篮球联赛总决赛昭通启幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720742.shtml",
+        "publishedAt": "2026-10-25T17:44:03.000+08:00"
       },
       {
-        "title": "非遗铜雕技艺饰品广交会受追捧 中东客商现场下单买买买！",
-        "url": "http://www.chinanews.com.cn/cul/shipin/cns-d/2026/10-25/news1072909.shtml",
-        "publishedAt": "2026-10-25T17:30:23.000+08:00"
+        "title": "济枣铁路重点工程安子岭隧道顺利贯通",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720746.shtml",
+        "publishedAt": "2026-10-25T17:42:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T17:47:14.109+08:00",
+    "fetchedAt": "2026-10-25T17:57:38.901+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T17:47:14.841+08:00",
+      "fetchedAt": "2026-10-25T17:57:39.600+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T22:47:16.000+08:00"
+          "resetAt": "2026-10-25T22:57:41.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T17:47:16.000+08:00"
+          "resetAt": "2026-11-01T17:57:41.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T17:47:14.844+08:00",
+      "fetchedAt": "2026-10-25T17:57:39.603+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T17:47:14.854+08:00",
+      "fetchedAt": "2026-10-25T17:57:39.613+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T17:47:14.854+08:00",
+      "fetchedAt": "2026-10-25T17:57:39.613+08:00",
       "error": "未启用",
       "disabled": true
     }
