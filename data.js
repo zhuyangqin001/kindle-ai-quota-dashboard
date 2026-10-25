@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T11:45:15.564+08:00",
+  "updatedAt": "2026-10-25T11:55:46.333+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-25T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-25T11:45:15.564+08:00",
+    "fetchedAt": "2026-10-25T11:55:46.333+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "我国成功发射卫星互联网低轨28组卫星",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720607.shtml",
+        "publishedAt": "2026-10-25T11:44:40.000+08:00"
+      },
       {
         "title": "浙江调整防台风应急响应为Ⅳ级",
         "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720606.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "河南粮食总产有望连续10年保持在1300亿斤以上",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720605.shtml",
         "publishedAt": "2026-10-25T11:22:03.000+08:00"
-      },
-      {
-        "title": "重要调整！修订后的上证系列综合指数26日起实施",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720603.shtml",
-        "publishedAt": "2026-10-25T11:10:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T11:45:13.638+08:00",
+    "fetchedAt": "2026-10-25T11:55:43.980+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T11:45:14.101+08:00",
+      "fetchedAt": "2026-10-25T11:55:44.438+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T11:11:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T11:45:14.104+08:00",
+      "fetchedAt": "2026-10-25T11:55:44.441+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T11:45:14.110+08:00",
+      "fetchedAt": "2026-10-25T11:55:44.447+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T11:45:14.110+08:00",
+      "fetchedAt": "2026-10-25T11:55:44.447+08:00",
       "error": "未启用",
       "disabled": true
     }
