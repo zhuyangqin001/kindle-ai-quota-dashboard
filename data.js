@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T10:22:38.978+08:00",
+  "updatedAt": "2026-10-25T10:33:03.972+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.8,
-    "feelsLikeC": 25.8,
-    "humidity": 56,
-    "windKph": 7.9,
+    "tempC": 25.3,
+    "feelsLikeC": 26.2,
+    "humidity": 54,
+    "windKph": 8.4,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T10:15:00.000+08:00",
-    "fetchedAt": "2026-10-25T10:22:38.978+08:00",
+    "observedAt": "2026-10-25T10:30:00.000+08:00",
+    "fetchedAt": "2026-10-25T10:33:03.972+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "日本小笠原群岛附近海域发生7.0级地震",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720593.shtml",
+        "publishedAt": "2026-10-25T10:25:25.000+08:00"
+      },
+      {
+        "title": "50余名缅甸青年在云南临沧记录陶韵舞魅",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720590.shtml",
+        "publishedAt": "2026-10-25T10:24:19.000+08:00"
+      },
+      {
+        "title": "外媒：保加利亚商人兼政治家斯拉维·比涅夫在家中中枪身亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720592.shtml",
+        "publishedAt": "2026-10-25T10:23:45.000+08:00"
+      },
+      {
+        "title": "宁波网球公开赛：莱巴金娜晋级决赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720578.shtml",
+        "publishedAt": "2026-10-25T10:22:33.000+08:00"
+      },
+      {
         "title": "湖北宜昌：峡江山水间 尽展土家风情",
         "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720577.shtml",
         "publishedAt": "2026-10-25T10:15:13.000+08:00"
-      },
-      {
-        "title": "中超联赛：成都蓉城队0比1负于大连英博海发队",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720563.shtml",
-        "publishedAt": "2026-10-25T10:13:29.000+08:00"
-      },
-      {
-        "title": "探访内蒙古霍林郭勒高端铝板带箔生产线",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720560.shtml",
-        "publishedAt": "2026-10-25T10:10:17.000+08:00"
-      },
-      {
-        "title": "陕西网球公开赛古城开拍 海内外近三百名选手切磋技艺",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720581.shtml",
-        "publishedAt": "2026-10-25T10:02:34.000+08:00"
-      },
-      {
-        "title": "2026全国茉莉花茶产销形势分析会在广西横州举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720580.shtml",
-        "publishedAt": "2026-10-25T10:01:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T10:22:37.085+08:00",
+    "fetchedAt": "2026-10-25T10:33:02.107+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T10:22:37.540+08:00",
+      "fetchedAt": "2026-10-25T10:33:02.582+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T11:11:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T10:22:37.542+08:00",
+      "fetchedAt": "2026-10-25T10:33:02.584+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T10:22:37.548+08:00",
+      "fetchedAt": "2026-10-25T10:33:02.591+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T10:22:37.548+08:00",
+      "fetchedAt": "2026-10-25T10:33:02.591+08:00",
       "error": "未启用",
       "disabled": true
     }
