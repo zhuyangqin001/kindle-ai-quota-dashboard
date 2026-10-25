@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T17:16:30.301+08:00",
+  "updatedAt": "2026-10-25T17:26:43.515+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-25T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-25T17:16:30.301+08:00",
+    "fetchedAt": "2026-10-25T17:26:43.515+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（结图纪事）走进贵州都匀",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-25/1208820.shtml",
+        "publishedAt": "2026-10-25T17:16:34.000+08:00"
+      },
+      {
+        "title": "习近平同比利时国王菲利普就中比建交55周年互致贺信",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720728.shtml",
+        "publishedAt": "2026-10-25T17:12:58.000+08:00"
+      },
+      {
+        "title": "纪念台湾光复81周年座谈会在福州举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720723.shtml",
+        "publishedAt": "2026-10-25T17:07:11.000+08:00"
+      },
       {
         "title": "中外企业绿色发展与全球贡献国际传播研讨会举行，平安集团盛瑞生发表主题演讲",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720724.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "让数据要素更“有温度” “数据要素×”大赛绽放创新活力",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720720.shtml",
         "publishedAt": "2026-10-25T16:46:56.000+08:00"
-      },
-      {
-        "title": "“不干正事”的AI，卖爆了",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720722.shtml",
-        "publishedAt": "2026-10-25T16:44:32.000+08:00"
-      },
-      {
-        "title": "岐黄进万家 广西举办中医药文化服务周活动",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720718.shtml",
-        "publishedAt": "2026-10-25T16:42:38.000+08:00"
-      },
-      {
-        "title": "（走进中国乡村）贵州“银匠村”：年轻人进村学艺 老匠人赶订单忙创新",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720716.shtml",
-        "publishedAt": "2026-10-25T16:37:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T17:16:27.674+08:00",
+    "fetchedAt": "2026-10-25T17:26:40.846+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T17:16:28.439+08:00",
+      "fetchedAt": "2026-10-25T17:26:41.509+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T22:16:29.000+08:00"
+          "resetAt": "2026-10-25T22:26:43.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T17:16:29.000+08:00"
+          "resetAt": "2026-11-01T17:26:43.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T17:16:28.441+08:00",
+      "fetchedAt": "2026-10-25T17:26:41.513+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T17:16:28.449+08:00",
+      "fetchedAt": "2026-10-25T17:26:41.523+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T17:16:28.449+08:00",
+      "fetchedAt": "2026-10-25T17:26:41.523+08:00",
       "error": "未启用",
       "disabled": true
     }
