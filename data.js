@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T12:57:31.918+08:00",
+  "updatedAt": "2026-10-25T13:07:57.901+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 26.9,
-    "feelsLikeC": 26.5,
+    "feelsLikeC": 26.6,
     "humidity": 47,
-    "windKph": 12.8,
+    "windKph": 12.9,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-25T12:57:31.918+08:00",
+    "observedAt": "2026-10-25T13:00:00.000+08:00",
+    "fetchedAt": "2026-10-25T13:07:57.901+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "西藏巴青7.0级地震：中国地震局全力应急处置 产出系列技术图件",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720618.shtml",
+        "publishedAt": "2026-10-25T12:51:43.000+08:00"
+      },
       {
         "title": "新疆图木舒克：产业富民“润”戈壁 三餐一线“织”幸福",
         "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720617.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中新网评：洁厕剂包装越像饮料，安全警示越不能像摆设",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720610.shtml",
         "publishedAt": "2026-10-25T12:22:12.000+08:00"
-      },
-      {
-        "title": "中国队包揽速度攀岩世界杯收官战冠军 赵一程获年度总冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720614.shtml",
-        "publishedAt": "2026-10-25T12:19:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T12:57:28.547+08:00",
+    "fetchedAt": "2026-10-25T13:07:54.356+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T12:57:29.082+08:00",
+      "fetchedAt": "2026-10-25T13:07:54.967+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T11:11:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T12:57:29.084+08:00",
+      "fetchedAt": "2026-10-25T13:07:54.970+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T12:57:29.091+08:00",
+      "fetchedAt": "2026-10-25T13:07:54.979+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T12:57:29.093+08:00",
+      "fetchedAt": "2026-10-25T13:07:54.979+08:00",
       "error": "未启用",
       "disabled": true
     }
