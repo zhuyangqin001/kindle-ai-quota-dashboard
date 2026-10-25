@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T20:22:03.498+08:00",
+  "updatedAt": "2026-10-25T20:32:17.923+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.6,
-    "feelsLikeC": 24.7,
-    "humidity": 72,
-    "windKph": 3.2,
+    "tempC": 22.3,
+    "feelsLikeC": 24.4,
+    "humidity": 74,
+    "windKph": 3.1,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T20:15:00.000+08:00",
-    "fetchedAt": "2026-10-25T20:22:03.498+08:00",
+    "observedAt": "2026-10-25T20:30:00.000+08:00",
+    "fetchedAt": "2026-10-25T20:32:17.923+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "四川成都：“向内生长——2026当代女性艺术家群展”吸引参观者",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720801.shtml",
+        "publishedAt": "2026-10-25T20:28:52.000+08:00"
+      },
+      {
+        "title": "宁夏引黄灌区2026年度冬灌启动 31天计划引水9.71亿立方米保越冬用水",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720820.shtml",
+        "publishedAt": "2026-10-25T20:27:32.000+08:00"
+      },
+      {
+        "title": "陈熠3-0战胜张本美和 夺得亚锦赛女单冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720817.shtml",
+        "publishedAt": "2026-10-25T20:22:34.000+08:00"
+      },
+      {
+        "title": "2026泰宁半程马拉松鸣枪 近万名跑者创赛事新高",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720812.shtml",
+        "publishedAt": "2026-10-25T20:19:44.000+08:00"
+      },
+      {
         "title": "六大议题90余场活动 2026进博会上海会议活动蓄势待发",
         "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720810.shtml",
         "publishedAt": "2026-10-25T20:18:52.000+08:00"
-      },
-      {
-        "title": "2026年“绿水青山”中国休闲运动挑战赛在黔江开赛 桨板高手逐浪阿蓬江",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720809.shtml",
-        "publishedAt": "2026-10-25T20:17:26.000+08:00"
-      },
-      {
-        "title": "“10后”中国小将孙心然：永远把目光盯在下一分",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720811.shtml",
-        "publishedAt": "2026-10-25T20:15:54.000+08:00"
-      },
-      {
-        "title": "江苏南通：列车穿行金色稻田间",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-25/1208854.shtml",
-        "publishedAt": "2026-10-25T20:14:09.000+08:00"
-      },
-      {
-        "title": "全球治理论坛发布愿景文件 呼吁提升全球南方国家发言权和代表性",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720799.shtml",
-        "publishedAt": "2026-10-25T20:12:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T20:22:00.709+08:00",
+    "fetchedAt": "2026-10-25T20:32:15.022+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T20:22:01.471+08:00",
+      "fetchedAt": "2026-10-25T20:32:15.813+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T01:22:03.000+08:00"
+          "resetAt": "2026-10-26T01:32:17.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T20:22:03.000+08:00"
+          "resetAt": "2026-11-01T20:32:17.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T20:22:01.474+08:00",
+      "fetchedAt": "2026-10-25T20:32:15.817+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T20:22:01.486+08:00",
+      "fetchedAt": "2026-10-25T20:32:15.827+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T20:22:01.486+08:00",
+      "fetchedAt": "2026-10-25T20:32:15.827+08:00",
       "error": "未启用",
       "disabled": true
     }
