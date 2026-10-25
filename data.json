@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T09:51:17.686+08:00",
+  "updatedAt": "2026-10-25T10:01:33.363+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.8,
-    "feelsLikeC": 24.8,
-    "humidity": 61,
-    "windKph": 6.6,
+    "tempC": 24.3,
+    "feelsLikeC": 25.3,
+    "humidity": 59,
+    "windKph": 7.3,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-25T09:51:17.686+08:00",
+    "observedAt": "2026-10-25T10:00:00.000+08:00",
+    "fetchedAt": "2026-10-25T10:01:33.363+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "中新网直播：挑战机车水上漂纪录 17年后张雪为梦再冲锋！",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-25/10720583.shtml",
+        "publishedAt": "2026-10-25T09:57:10.000+08:00"
+      },
+      {
+        "title": "2026年全国游泳锦标赛（25米）：张雨霏获得女子50米蝶泳冠军",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-25/1208787.shtml",
+        "publishedAt": "2026-10-25T09:56:58.000+08:00"
+      },
+      {
+        "title": "西藏巴青地震灾区安置保障从“安全过夜”向“住得暖”推进",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720575.shtml",
+        "publishedAt": "2026-10-25T09:49:46.000+08:00"
+      },
+      {
+        "title": "广西马山通报“水柜内发现多只猴子溺亡”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720574.shtml",
+        "publishedAt": "2026-10-25T09:48:52.000+08:00"
+      },
+      {
         "title": "2026年京津冀豫菊花联展在天津启幕",
         "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720569.shtml",
         "publishedAt": "2026-10-25T09:39:39.000+08:00"
-      },
-      {
-        "title": "2026年全国游泳锦标赛（25米）：徐嘉余打破男子50米仰泳世界纪录",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-25/1208783.shtml",
-        "publishedAt": "2026-10-25T09:38:02.000+08:00"
-      },
-      {
-        "title": "2026读者·领读者大会启幕 探寻AI时代全民阅读新路径",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720566.shtml",
-        "publishedAt": "2026-10-25T09:37:29.000+08:00"
-      },
-      {
-        "title": "中国第20届国际摄影艺术展览在浙江丽水莲都开幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720567.shtml",
-        "publishedAt": "2026-10-25T09:36:37.000+08:00"
-      },
-      {
-        "title": "暨南文史学科创建100周年系列活动拉开序幕",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720568.shtml",
-        "publishedAt": "2026-10-25T09:35:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T09:51:15.200+08:00",
+    "fetchedAt": "2026-10-25T10:01:31.555+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T09:51:16.001+08:00",
+      "fetchedAt": "2026-10-25T10:01:32.014+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-10-31T11:11:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T09:51:16.003+08:00",
+      "fetchedAt": "2026-10-25T10:01:32.017+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T09:51:16.013+08:00",
+      "fetchedAt": "2026-10-25T10:01:32.024+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T09:51:16.013+08:00",
+      "fetchedAt": "2026-10-25T10:01:32.024+08:00",
       "error": "未启用",
       "disabled": true
     }
