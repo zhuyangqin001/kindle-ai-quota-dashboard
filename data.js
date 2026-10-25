@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T17:37:03.905+08:00",
+  "updatedAt": "2026-10-25T17:47:17.488+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.3,
-    "feelsLikeC": 25.9,
-    "humidity": 55,
-    "windKph": 8.6,
+    "tempC": 24.8,
+    "feelsLikeC": 25.6,
+    "humidity": 57,
+    "windKph": 7.8,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T17:37:03.905+08:00",
+    "observedAt": "2026-10-25T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-25T17:47:17.488+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "震中一夜（在现场）",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720750.shtml",
+        "publishedAt": "2026-10-25T17:40:57.000+08:00"
+      },
+      {
+        "title": "探索外交话语的“区域国别转向” 专家学者在沪研讨对外话语体系建设",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-25/10720735.shtml",
+        "publishedAt": "2026-10-25T17:32:39.000+08:00"
+      },
       {
         "title": "2026青科会大健康论坛：瓯江实验室发布联合攻关计划",
         "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720731.shtml",
@@ -30,22 +40,12 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-25T17:30:45.000+08:00"
       },
       {
-        "title": "乌兹别克斯坦艺术家：希望中亚五国与中国的艺术家能够同台演出",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-25/10720730.shtml",
-        "publishedAt": "2026-10-25T17:29:09.000+08:00"
-      },
-      {
-        "title": "九三学社首届“德赛杯”书法大赛优秀作品展在宁波开幕",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-25/10720727.shtml",
-        "publishedAt": "2026-10-25T17:26:42.000+08:00"
-      },
-      {
-        "title": "陕西：气排球赋能群众体育 全民健身绘就运动画卷",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720726.shtml",
-        "publishedAt": "2026-10-25T17:25:00.000+08:00"
+        "title": "非遗铜雕技艺饰品广交会受追捧 中东客商现场下单买买买！",
+        "url": "http://www.chinanews.com.cn/cul/shipin/cns-d/2026/10-25/news1072909.shtml",
+        "publishedAt": "2026-10-25T17:30:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T17:37:00.367+08:00",
+    "fetchedAt": "2026-10-25T17:47:14.109+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T17:37:01.050+08:00",
+      "fetchedAt": "2026-10-25T17:47:14.841+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-25T22:37:02.000+08:00"
+          "resetAt": "2026-10-25T22:47:16.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T17:37:02.000+08:00"
+          "resetAt": "2026-11-01T17:47:16.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T17:37:01.054+08:00",
+      "fetchedAt": "2026-10-25T17:47:14.844+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T17:37:01.065+08:00",
+      "fetchedAt": "2026-10-25T17:47:14.854+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T17:37:01.065+08:00",
+      "fetchedAt": "2026-10-25T17:47:14.854+08:00",
       "error": "未启用",
       "disabled": true
     }
