@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T20:42:58.420+08:00",
+  "updatedAt": "2026-10-25T20:53:13.288+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.3,
-    "feelsLikeC": 24.4,
-    "humidity": 74,
-    "windKph": 3.1,
+    "tempC": 21.9,
+    "feelsLikeC": 24.1,
+    "humidity": 75,
+    "windKph": 2.8,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-25T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-25T20:42:58.420+08:00",
+    "observedAt": "2026-10-25T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-25T20:53:13.288+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "粤桂共治九洲江 跨界守护一江清水",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-25/10720826.shtml",
-        "publishedAt": "2026-10-25T20:37:07.000+08:00"
+        "title": "云南耿马傣族造纸焕新畅销",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720831.shtml",
+        "publishedAt": "2026-10-25T20:49:37.000+08:00"
       },
       {
-        "title": "2026成都金秋菊事活动启幕 超14万盆菊花扮靓蓉城",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720824.shtml",
-        "publishedAt": "2026-10-25T20:35:05.000+08:00"
+        "title": "全国总工会拨付200万元支援西藏灾区救灾救助工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720838.shtml",
+        "publishedAt": "2026-10-25T20:49:13.000+08:00"
       },
       {
-        "title": "边关稻熟壮乡风情醉游人 广西大新明仕田园丰收节启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720825.shtml",
-        "publishedAt": "2026-10-25T20:32:35.000+08:00"
+        "title": "AI赋能、丝弦入药：上海推动音乐疗愈纳入临床多学科治疗",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-25/10720814.shtml",
+        "publishedAt": "2026-10-25T20:48:41.000+08:00"
       },
       {
-        "title": "云南省第十三届少数民族传统体育运动会：陀螺赛场画同心",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720819.shtml",
-        "publishedAt": "2026-10-25T20:31:50.000+08:00"
+        "title": "宁夏知识产权保护和运用“十五五”规划获批 锚定2030年知识产权强区建设目标",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720828.shtml",
+        "publishedAt": "2026-10-25T20:48:05.000+08:00"
       },
       {
-        "title": "小菌菇撑起富民大产业",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-25/10720808.shtml",
-        "publishedAt": "2026-10-25T20:30:48.000+08:00"
+        "title": "2026年武台定光文化交流活动在福建武平举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720823.shtml",
+        "publishedAt": "2026-10-25T20:45:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T20:42:55.352+08:00",
+    "fetchedAt": "2026-10-25T20:53:09.550+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T20:42:56.031+08:00",
+      "fetchedAt": "2026-10-25T20:53:10.308+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T01:42:58.000+08:00"
+          "resetAt": "2026-10-26T01:53:13.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-01T20:42:58.000+08:00"
+          "resetAt": "2026-11-01T20:53:13.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T20:42:56.034+08:00",
+      "fetchedAt": "2026-10-25T20:53:10.311+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T20:42:56.043+08:00",
+      "fetchedAt": "2026-10-25T20:53:10.318+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T20:42:56.043+08:00",
+      "fetchedAt": "2026-10-25T20:53:10.318+08:00",
       "error": "未启用",
       "disabled": true
     }
