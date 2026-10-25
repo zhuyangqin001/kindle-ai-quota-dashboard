@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T06:49:14.054+08:00",
+  "updatedAt": "2026-10-26T06:59:25.994+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-26T06:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T06:49:14.054+08:00",
+    "fetchedAt": "2026-10-26T06:59:25.994+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“仅靠道歉无法了事” 蒙古国考虑就草原火灾向日企索赔",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720875.shtml",
+        "publishedAt": "2026-10-26T06:51:57.000+08:00"
+      },
       {
         "title": "特朗普：美俄乌三方会谈“很快”就会举行",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720874.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "塞尔维亚“学生名单-学生获胜”宣布议会选举获胜",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720871.shtml",
         "publishedAt": "2026-10-26T06:29:18.000+08:00"
-      },
-      {
-        "title": "中朝举行中国人民志愿军烈士陵园修缮工程竣工仪式",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720870.shtml",
-        "publishedAt": "2026-10-26T06:25:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T06:49:11.898+08:00",
+    "fetchedAt": "2026-10-26T06:59:23.910+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T06:49:12.612+08:00",
+      "fetchedAt": "2026-10-26T06:59:24.569+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T11:49:13.000+08:00"
+          "resetAt": "2026-10-26T11:59:25.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T06:49:13.000+08:00"
+          "resetAt": "2026-11-02T06:59:25.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T06:49:12.615+08:00",
+      "fetchedAt": "2026-10-26T06:59:24.572+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T06:49:12.622+08:00",
+      "fetchedAt": "2026-10-26T06:59:24.583+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T06:49:12.623+08:00",
+      "fetchedAt": "2026-10-26T06:59:24.583+08:00",
       "error": "未启用",
       "disabled": true
     }
