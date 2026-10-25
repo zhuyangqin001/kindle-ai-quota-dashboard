@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-25T12:16:15.910+08:00",
+  "updatedAt": "2026-10-25T12:26:31.733+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-25T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-25T12:16:15.911+08:00",
+    "fetchedAt": "2026-10-25T12:26:31.733+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "秋粮收获过八成 新技术助力提质增效",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720613.shtml",
-        "publishedAt": "2026-10-25T12:03:19.000+08:00"
+        "title": "专家：“十五五”美丽中国建设应抓住窗口期向“深绿”转型",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720611.shtml",
+        "publishedAt": "2026-10-25T12:24:28.000+08:00"
       },
       {
-        "title": "三载深耕，向产业出发：相干科技的量子求索之路",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720608.shtml",
-        "publishedAt": "2026-10-25T11:54:04.000+08:00"
+        "title": "中新网评：洁厕剂包装越像饮料，安全警示越不能像摆设",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720610.shtml",
+        "publishedAt": "2026-10-25T12:22:12.000+08:00"
       },
       {
-        "title": "我国成功发射卫星互联网低轨28组卫星",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720609.shtml",
-        "publishedAt": "2026-10-25T11:51:38.000+08:00"
+        "title": "中国队包揽速度攀岩世界杯收官战冠军 赵一程获年度总冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-25/10720614.shtml",
+        "publishedAt": "2026-10-25T12:19:00.000+08:00"
       },
       {
-        "title": "浙江调整防台风应急响应为Ⅳ级",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720606.shtml",
-        "publishedAt": "2026-10-25T11:36:45.000+08:00"
+        "title": "比利时“撒尿小童”换唐装庆祝中比建交55周年",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720602.shtml",
+        "publishedAt": "2026-10-25T12:17:46.000+08:00"
       },
       {
-        "title": "云南省第十三届少数民族传统体育运动会开幕",
-        "url": "https://www.chinanews.com.cn/mz/2026/10-25/10720599.shtml",
-        "publishedAt": "2026-10-25T11:30:37.000+08:00"
+        "title": "2026伦敦世界旅游交易会：中国展区规模创历届新高",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720600.shtml",
+        "publishedAt": "2026-10-25T12:16:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-25T12:16:13.578+08:00",
+    "fetchedAt": "2026-10-25T12:26:29.596+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-25T12:16:14.475+08:00",
+      "fetchedAt": "2026-10-25T12:26:30.060+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-10-31T11:11:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-25T12:16:14.477+08:00",
+      "fetchedAt": "2026-10-25T12:26:30.061+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T12:16:14.485+08:00",
+      "fetchedAt": "2026-10-25T12:26:30.067+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-25T12:16:14.486+08:00",
+      "fetchedAt": "2026-10-25T12:26:30.067+08:00",
       "error": "未启用",
       "disabled": true
     }
