@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T07:11:09.007+08:00",
+  "updatedAt": "2026-10-27T07:21:20.486+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19,
-    "feelsLikeC": 18.5,
-    "humidity": 72,
-    "windKph": 11.9,
+    "tempC": 19.4,
+    "feelsLikeC": 18.9,
+    "humidity": 70,
+    "windKph": 11.8,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T07:11:09.007+08:00",
+    "observedAt": "2026-10-27T07:15:00.000+08:00",
+    "fetchedAt": "2026-10-27T07:21:20.487+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中期选举倒计时 特朗普称举报选举舞弊可获100万美元",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721441.shtml",
+        "publishedAt": "2026-10-27T07:16:27.000+08:00"
+      },
+      {
+        "title": "中央纪委国家监委通报2026年1至9月全国纪检监察机关监督检查审查调查情况",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721440.shtml",
+        "publishedAt": "2026-10-27T07:16:03.000+08:00"
+      },
       {
         "title": "10月27日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-27/10721439.shtml",
@@ -33,19 +43,9 @@
         "title": "古巴常驻联合国代表：联大将审议要求美结束对古封锁的决议草案",
         "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721437.shtml",
         "publishedAt": "2026-10-27T06:48:09.000+08:00"
-      },
-      {
-        "title": "纪念东京审判开庭80周年图片展在联合国总部举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721436.shtml",
-        "publishedAt": "2026-10-27T06:42:27.000+08:00"
-      },
-      {
-        "title": "景区NPC爆火背后，藏着怎样的文旅消费密码？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721435.shtml",
-        "publishedAt": "2026-10-27T06:40:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T07:11:06.945+08:00",
+    "fetchedAt": "2026-10-27T07:21:18.074+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T07:11:07.677+08:00",
+      "fetchedAt": "2026-10-27T07:21:18.845+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T12:11:08.000+08:00"
+          "resetAt": "2026-10-27T12:21:19.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T07:11:07.680+08:00",
+      "fetchedAt": "2026-10-27T07:21:18.849+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T07:11:07.690+08:00",
+      "fetchedAt": "2026-10-27T07:21:18.861+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T07:11:07.690+08:00",
+      "fetchedAt": "2026-10-27T07:21:18.861+08:00",
       "error": "未启用",
       "disabled": true
     }
