@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T13:17:47.322+08:00",
+  "updatedAt": "2026-10-26T13:28:02.254+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-26T13:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T13:17:47.322+08:00",
+    "fetchedAt": "2026-10-26T13:28:02.254+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "清迈大学孔子学院：湄公河畔二十载 中文花开泰北香",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721050.shtml",
+        "publishedAt": "2026-10-26T13:16:28.000+08:00"
+      },
+      {
+        "title": "华侨大学新传学院建院十周年：聚焦自主知识体系建设 探索国际传播创新路径",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721031.shtml",
+        "publishedAt": "2026-10-26T13:15:36.000+08:00"
+      },
+      {
+        "title": "“养砖头”为什么戳中年轻人",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721053.shtml",
+        "publishedAt": "2026-10-26T13:14:46.000+08:00"
+      },
       {
         "title": "银川至西安航线正式复航 搭建高效空中国际中转通道",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721032.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "日本前首相福田康夫去世 终年90岁",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721052.shtml",
         "publishedAt": "2026-10-26T13:07:41.000+08:00"
-      },
-      {
-        "title": "日本前首相福田康夫去世",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721051.shtml",
-        "publishedAt": "2026-10-26T13:03:29.000+08:00"
-      },
-      {
-        "title": "海南交通规费征稽新模式助力自贸港“二线口岸”通关提效",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721033.shtml",
-        "publishedAt": "2026-10-26T12:57:03.000+08:00"
-      },
-      {
-        "title": "前三季度广西新能源发电量超600亿千瓦时 成发电量增量主力",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721037.shtml",
-        "publishedAt": "2026-10-26T12:55:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T13:17:44.563+08:00",
+    "fetchedAt": "2026-10-26T13:27:58.862+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T13:17:45.316+08:00",
+      "fetchedAt": "2026-10-26T13:27:59.683+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 29,
-          "resetAt": "2026-11-02T07:17:52.000+08:00"
+          "resetAt": "2026-11-02T07:17:53.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T13:17:45.319+08:00",
+      "fetchedAt": "2026-10-26T13:27:59.686+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T13:17:45.330+08:00",
+      "fetchedAt": "2026-10-26T13:27:59.699+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T13:17:45.330+08:00",
+      "fetchedAt": "2026-10-26T13:27:59.700+08:00",
       "error": "未启用",
       "disabled": true
     }
