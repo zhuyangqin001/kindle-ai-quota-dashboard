@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T15:41:24.732+08:00",
+  "updatedAt": "2026-10-26T15:51:36.998+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 28.5,
-    "feelsLikeC": 28,
-    "humidity": 38,
-    "windKph": 10.1,
+    "tempC": 28.4,
+    "feelsLikeC": 27.7,
+    "humidity": 39,
+    "windKph": 10.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T15:41:24.732+08:00",
+    "observedAt": "2026-10-26T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-26T15:51:36.998+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外交部：愿继续同朝方一道推动中朝关系不断向前发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721145.shtml",
-        "publishedAt": "2026-10-26T15:35:21.000+08:00"
+        "title": "重庆涪陵培育文旅新质生产力 以“一梁连世界”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721152.shtml",
+        "publishedAt": "2026-10-26T15:47:04.000+08:00"
       },
       {
-        "title": "外交部：中方祝贺卢拉在巴西总统大选中获胜",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721144.shtml",
-        "publishedAt": "2026-10-26T15:33:53.000+08:00"
+        "title": "通道赋能 “甘味”香飘东盟市场",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721157.shtml",
+        "publishedAt": "2026-10-26T15:46:20.000+08:00"
       },
       {
-        "title": "云岭动态第二十六期",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721140.shtml",
-        "publishedAt": "2026-10-26T15:32:49.000+08:00"
+        "title": "沈阳举行首届宠物繁育产业对接活动 八项标准为宠物全生命周期立规",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721151.shtml",
+        "publishedAt": "2026-10-26T15:46:16.000+08:00"
       },
       {
-        "title": "日本前首相福田康夫逝世 外交部：沉痛哀悼",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721143.shtml",
-        "publishedAt": "2026-10-26T15:32:21.000+08:00"
+        "title": "中方祝贺卢拉在巴西总统大选中获胜",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721154.shtml",
+        "publishedAt": "2026-10-26T15:44:08.000+08:00"
       },
       {
-        "title": "美国将孔子学院列为“国家安全威胁” 中方：反对针对孔子学院的抹黑和污名化",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721142.shtml",
-        "publishedAt": "2026-10-26T15:31:43.000+08:00"
+        "title": "正当季！主食中加点它，有助稳血糖、控血压、护血管、增强免疫力",
+        "url": "https://www.chinanews.com.cn/life/2026/10-26/10721150.shtml",
+        "publishedAt": "2026-10-26T15:39:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T15:41:21.944+08:00",
+    "fetchedAt": "2026-10-26T15:51:33.920+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T15:41:22.494+08:00",
+      "fetchedAt": "2026-10-26T15:51:34.685+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T20:41:24.000+08:00"
+          "resetAt": "2026-10-26T20:51:36.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T15:41:24.000+08:00"
+          "resetAt": "2026-11-02T15:51:36.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T15:41:22.501+08:00",
+      "fetchedAt": "2026-10-26T15:51:34.688+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T15:41:22.510+08:00",
+      "fetchedAt": "2026-10-26T15:51:34.698+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T15:41:22.511+08:00",
+      "fetchedAt": "2026-10-26T15:51:34.699+08:00",
       "error": "未启用",
       "disabled": true
     }
