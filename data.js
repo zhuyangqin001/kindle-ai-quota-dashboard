@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T16:12:19.149+08:00",
+  "updatedAt": "2026-10-26T16:22:40.166+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 28.2,
-    "feelsLikeC": 27.4,
-    "humidity": 39,
+    "tempC": 28,
+    "feelsLikeC": 27.2,
+    "humidity": 40,
     "windKph": 11.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T16:12:19.149+08:00",
+    "observedAt": "2026-10-26T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-26T16:22:40.166+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "抖音持续治理涉未成年人不良内容，近一个月处置违规内容20.1万条",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721160.shtml",
-        "publishedAt": "2026-10-26T16:03:23.000+08:00"
+        "title": "中方：愿推动中朝关系不断向前发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721168.shtml",
+        "publishedAt": "2026-10-26T16:18:20.000+08:00"
       },
       {
-        "title": "中方：反对任何势力绑架东盟、搅局生事",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721176.shtml",
-        "publishedAt": "2026-10-26T16:02:07.000+08:00"
+        "title": "一枚书签 串起千年龟兹乐舞",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721182.shtml",
+        "publishedAt": "2026-10-26T16:17:30.000+08:00"
       },
       {
-        "title": "2026年01月-09月广西进口主要商品量值表（按海关总署2026年进口重点商品参数）",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721174.shtml",
-        "publishedAt": "2026-10-26T16:00:51.000+08:00"
+        "title": "国家药监局批准阿舒克森片上市",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721181.shtml",
+        "publishedAt": "2026-10-26T16:17:16.000+08:00"
       },
       {
-        "title": "外交部：欢迎更多国家加入世界人工智能合作组织",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721172.shtml",
-        "publishedAt": "2026-10-26T15:59:51.000+08:00"
+        "title": "南蔗北种 桂疆共甜",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721180.shtml",
+        "publishedAt": "2026-10-26T16:15:20.000+08:00"
       },
       {
-        "title": "向骑手销售抢单“外挂”被判赔300万元，一个硬件为何触碰法律红线？",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-26/10721171.shtml",
-        "publishedAt": "2026-10-26T15:59:09.000+08:00"
+        "title": "这样走路的人，你的骨头可能在“求救”！如何自测股骨头是否健康？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-26/10721178.shtml",
+        "publishedAt": "2026-10-26T16:14:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T16:12:15.599+08:00",
+    "fetchedAt": "2026-10-26T16:22:35.429+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T16:12:16.357+08:00",
+      "fetchedAt": "2026-10-26T16:22:36.177+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T21:12:18.000+08:00"
+          "resetAt": "2026-10-26T21:22:40.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T16:12:18.000+08:00"
+          "resetAt": "2026-11-02T16:22:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T16:12:16.360+08:00",
+      "fetchedAt": "2026-10-26T16:22:36.180+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T16:12:16.371+08:00",
+      "fetchedAt": "2026-10-26T16:22:36.191+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T16:12:16.371+08:00",
+      "fetchedAt": "2026-10-26T16:22:36.191+08:00",
       "error": "未启用",
       "disabled": true
     }
