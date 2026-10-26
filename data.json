@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T10:33:55.828+08:00",
+  "updatedAt": "2026-10-26T10:44:14.708+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-26T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T10:33:55.828+08:00",
+    "fetchedAt": "2026-10-26T10:44:14.708+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026第八届郑州种业博览会举办 6000余新优品种亮相",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720975.shtml",
-        "publishedAt": "2026-10-26T10:28:25.000+08:00"
+        "title": "中国教育学话语传播体系构建推进会在京召开",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720986.shtml",
+        "publishedAt": "2026-10-26T10:38:21.000+08:00"
       },
       {
-        "title": "八千跑者逐梦洪泽湖畔 2026江苏泗洪马拉松落幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10720968.shtml",
-        "publishedAt": "2026-10-26T10:26:02.000+08:00"
+        "title": "全国劳动模范和大国工匠代表团近日启程赴港澳交流",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10720973.shtml",
+        "publishedAt": "2026-10-26T10:32:17.000+08:00"
       },
       {
-        "title": "TCR中国锦标赛总决赛：李光华本场夺冠 朱戴维卫冕赛季总冠军",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10720940.shtml",
-        "publishedAt": "2026-10-26T10:26:02.000+08:00"
+        "title": "U17女足世界杯：中国队三连胜小组头名出线",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10720976.shtml",
+        "publishedAt": "2026-10-26T10:30:53.000+08:00"
       },
       {
-        "title": "“工经智媒·‘正本’GEO解决方案”发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720983.shtml",
-        "publishedAt": "2026-10-26T10:25:30.000+08:00"
+        "title": "湖北宜昌：从三个场景，看江与城共生",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10720972.shtml",
+        "publishedAt": "2026-10-26T10:29:53.000+08:00"
       },
       {
-        "title": "两岸音乐家北京同台纪念孙中山诞辰160周年",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720971.shtml",
-        "publishedAt": "2026-10-26T10:25:16.000+08:00"
+        "title": "我国造船业持续领跑全球",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720984.shtml",
+        "publishedAt": "2026-10-26T10:29:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T10:33:54.152+08:00",
+    "fetchedAt": "2026-10-26T10:44:12.835+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T10:33:54.584+08:00",
+      "fetchedAt": "2026-10-26T10:44:13.268+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 15,
+          "usedPct": 50,
           "resetAt": "2026-10-26T12:17:52.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 2,
+          "usedPct": 8,
           "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T10:33:54.585+08:00",
+      "fetchedAt": "2026-10-26T10:44:13.270+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T10:33:54.591+08:00",
+      "fetchedAt": "2026-10-26T10:44:13.279+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T10:33:54.591+08:00",
+      "fetchedAt": "2026-10-26T10:44:13.279+08:00",
       "error": "未启用",
       "disabled": true
     }
