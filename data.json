@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T11:14:54.675+08:00",
+  "updatedAt": "2026-10-26T11:25:06.240+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.6,
-    "feelsLikeC": 27.4,
-    "humidity": 49,
+    "tempC": 26.9,
+    "feelsLikeC": 27.8,
+    "humidity": 48,
     "windKph": 11.2,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T11:14:54.675+08:00",
+    "observedAt": "2026-10-26T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-26T11:25:06.240+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "水利部制定出台跨省河湖生态流量保障目标",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720993.shtml",
-        "publishedAt": "2026-10-26T11:02:46.000+08:00"
+        "title": "椰城海关2026-2028年公务用车保险服务采购项目第二次比选公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721010.shtml",
+        "publishedAt": "2026-10-26T11:16:29.000+08:00"
       },
       {
-        "title": "我爱我家2026前三季度归母净利润同比增长155.4%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720907.shtml",
-        "publishedAt": "2026-10-26T11:02:18.000+08:00"
+        "title": "第三届华侨华人学研究学术研讨会闭幕",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721000.shtml",
+        "publishedAt": "2026-10-26T11:16:17.000+08:00"
       },
       {
-        "title": "大熊猫“冉冉”将赴比参加保护研究合作",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720988.shtml",
-        "publishedAt": "2026-10-26T11:02:16.000+08:00"
+        "title": "中国男子三人篮球联赛首支连冠队伍诞生",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721008.shtml",
+        "publishedAt": "2026-10-26T11:15:19.000+08:00"
       },
       {
-        "title": "“华夏遇见·诗琳画卷——光明行·锦绣章 李小琳诗书画展”走进四川成都",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208908.shtml",
-        "publishedAt": "2026-10-26T10:59:16.000+08:00"
+        "title": "快速行动！农业银行全力配合做好西藏巴青7.0级地震抢险救灾工作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720915.shtml",
+        "publishedAt": "2026-10-26T11:13:23.000+08:00"
       },
       {
-        "title": "台湾抗日志士后人：纪念光复 捍卫历史",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720974.shtml",
-        "publishedAt": "2026-10-26T10:58:24.000+08:00"
+        "title": "“零经验”年轻人扎堆闯野山 徒步乱象该如何治理？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721007.shtml",
+        "publishedAt": "2026-10-26T11:12:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T11:14:51.698+08:00",
+    "fetchedAt": "2026-10-26T11:25:03.840+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T11:14:52.310+08:00",
+      "fetchedAt": "2026-10-26T11:25:04.408+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T11:14:52.312+08:00",
+      "fetchedAt": "2026-10-26T11:25:04.416+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T11:14:52.317+08:00",
+      "fetchedAt": "2026-10-26T11:25:04.429+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T11:14:52.318+08:00",
+      "fetchedAt": "2026-10-26T11:25:04.429+08:00",
       "error": "未启用",
       "disabled": true
     }
