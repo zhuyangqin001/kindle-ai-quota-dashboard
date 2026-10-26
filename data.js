@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T09:01:55.279+08:00",
+  "updatedAt": "2026-10-26T09:12:06.568+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-26T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T09:01:55.279+08:00",
+    "fetchedAt": "2026-10-26T09:12:06.568+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从“视听之窗”到“合作之桥” 中国—东盟视听周推动“视界”同频",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10720905.shtml",
+        "publishedAt": "2026-10-26T09:03:12.000+08:00"
+      },
       {
         "title": "10亿千瓦时背后：中老电力互联的价值不止于跨境送电",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10720903.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "国家数据集团成立 如何加快释放数据要素价值",
         "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720900.shtml",
         "publishedAt": "2026-10-26T08:18:49.000+08:00"
-      },
-      {
-        "title": "西湖申遗成功十五年，交出保护发展的独特答卷",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720899.shtml",
-        "publishedAt": "2026-10-26T08:16:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T09:01:52.872+08:00",
+    "fetchedAt": "2026-10-26T09:12:04.390+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T09:01:53.620+08:00",
+      "fetchedAt": "2026-10-26T09:12:04.976+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T09:01:53.623+08:00",
+      "fetchedAt": "2026-10-26T09:12:04.980+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T09:01:53.634+08:00",
+      "fetchedAt": "2026-10-26T09:12:04.991+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T09:01:53.634+08:00",
+      "fetchedAt": "2026-10-26T09:12:04.991+08:00",
       "error": "未启用",
       "disabled": true
     }
