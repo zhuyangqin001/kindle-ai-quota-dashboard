@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T22:20:38.090+08:00",
+  "updatedAt": "2026-10-26T22:30:52.236+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.8,
-    "feelsLikeC": 22.1,
-    "humidity": 75,
-    "windKph": 5.7,
+    "tempC": 20.5,
+    "feelsLikeC": 21.9,
+    "humidity": 77,
+    "windKph": 5.3,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T22:20:38.090+08:00",
+    "observedAt": "2026-10-26T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-26T22:30:52.237+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东5位代表分享奋斗故事：如何走好我们这一代人的长征路？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721411.shtml",
-        "publishedAt": "2026-10-26T22:10:07.000+08:00"
+        "title": "郑州市主城区，如何实现旧城新貌、老区新业？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721423.shtml",
+        "publishedAt": "2026-10-26T22:23:03.000+08:00"
       },
       {
-        "title": "全国劳动模范和大国工匠代表团访港 寄语青年立足岗位持续精进",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721410.shtml",
-        "publishedAt": "2026-10-26T22:08:17.000+08:00"
+        "title": "山河同根 烈士后人与台青北京话家国传承",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721422.shtml",
+        "publishedAt": "2026-10-26T22:22:49.000+08:00"
       },
       {
-        "title": "四川成都：商品房预售门槛提高 购房款全部纳入监管账户",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721409.shtml",
-        "publishedAt": "2026-10-26T22:08:11.000+08:00"
+        "title": "《青海省促进民族团结进步“十五五”规划》系统部署未来五年民族工作",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721421.shtml",
+        "publishedAt": "2026-10-26T22:22:25.000+08:00"
       },
       {
-        "title": "前三季度中国国内居民出游人次超53亿",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721407.shtml",
-        "publishedAt": "2026-10-26T22:03:40.000+08:00"
+        "title": "北师大教授郑日昌新书《辩证观心》发布 建言提升自我心理觉察",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721420.shtml",
+        "publishedAt": "2026-10-26T22:21:35.000+08:00"
       },
       {
-        "title": "宁夏泾源：做强“精字号” 让山里好物身价看涨",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721406.shtml",
-        "publishedAt": "2026-10-26T22:02:46.000+08:00"
+        "title": "青海：把民族事务治理全面纳入法治轨道",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721419.shtml",
+        "publishedAt": "2026-10-26T22:21:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T22:20:35.735+08:00",
+    "fetchedAt": "2026-10-26T22:30:48.148+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T22:20:36.231+08:00",
+      "fetchedAt": "2026-10-26T22:30:48.885+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 28,
-          "resetAt": "2026-10-27T02:13:57.000+08:00"
+          "resetAt": "2026-10-27T02:13:58.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 4,
-          "resetAt": "2026-11-02T21:13:57.000+08:00"
+          "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T22:20:36.232+08:00",
+      "fetchedAt": "2026-10-26T22:30:48.887+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T22:20:36.236+08:00",
+      "fetchedAt": "2026-10-26T22:30:48.893+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T22:20:36.237+08:00",
+      "fetchedAt": "2026-10-26T22:30:48.893+08:00",
       "error": "未启用",
       "disabled": true
     }
