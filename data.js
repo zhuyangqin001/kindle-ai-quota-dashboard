@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T07:40:12.209+08:00",
+  "updatedAt": "2026-10-26T08:00:30.468+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.4,
-    "feelsLikeC": 20.6,
-    "humidity": 75,
-    "windKph": 12.3,
+    "tempC": 21.5,
+    "feelsLikeC": 21.7,
+    "humidity": 70,
+    "windKph": 12.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T07:40:12.209+08:00",
+    "observedAt": "2026-10-26T08:00:00.000+08:00",
+    "fetchedAt": "2026-10-26T08:00:30.468+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "护航对外投资高质量发展，新办法12月1日起施行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720883.shtml",
-        "publishedAt": "2026-10-26T07:32:47.000+08:00"
+        "title": "2026年全国游泳锦标赛（25米）：于子迪获得女子200米蝶泳冠军",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208858.shtml",
+        "publishedAt": "2026-10-26T07:52:43.000+08:00"
       },
       {
-        "title": "从“工具”跃升为“生产力”， AI重构电影生产逻辑",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720882.shtml",
-        "publishedAt": "2026-10-26T07:27:13.000+08:00"
+        "title": "响应式运营、接驳提质、适老化升级 多地探索公交新模式",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720887.shtml",
+        "publishedAt": "2026-10-26T07:48:58.000+08:00"
       },
       {
-        "title": "从“有人带”到“托得好” 优质托育服务正在走进更多家庭",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720881.shtml",
-        "publishedAt": "2026-10-26T07:24:15.000+08:00"
+        "title": "不靠海的内陆城市，如何把锂电池卖向全球？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720886.shtml",
+        "publishedAt": "2026-10-26T07:44:02.000+08:00"
       },
       {
-        "title": "私有产权文物建筑，坏了谁来修",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720880.shtml",
-        "publishedAt": "2026-10-26T07:20:38.000+08:00"
+        "title": "占比超50% 年轻人正成为红色旅游主力军",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720885.shtml",
+        "publishedAt": "2026-10-26T07:42:19.000+08:00"
       },
       {
-        "title": "10分钟就冒出“99+”群消息，职场人如何不为“群”所困？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720879.shtml",
-        "publishedAt": "2026-10-26T07:16:34.000+08:00"
+        "title": "工厂、商超都在用！年产量冲刺10万台！重大“机”遇，如何抓住？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720884.shtml",
+        "publishedAt": "2026-10-26T07:39:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T07:40:10.052+08:00",
+    "fetchedAt": "2026-10-26T08:00:27.647+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T07:40:10.804+08:00",
+      "fetchedAt": "2026-10-26T08:00:28.393+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T07:40:10.808+08:00",
+      "fetchedAt": "2026-10-26T08:00:28.396+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T07:40:10.819+08:00",
+      "fetchedAt": "2026-10-26T08:00:28.407+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T07:40:10.819+08:00",
+      "fetchedAt": "2026-10-26T08:00:28.407+08:00",
       "error": "未启用",
       "disabled": true
     }
