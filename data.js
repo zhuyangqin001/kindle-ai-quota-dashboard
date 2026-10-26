@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T08:51:43.961+08:00",
+  "updatedAt": "2026-10-26T09:01:55.279+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.1,
-    "feelsLikeC": 22.9,
-    "humidity": 63,
+    "tempC": 23.5,
+    "feelsLikeC": 23.3,
+    "humidity": 61,
     "windKph": 14.1,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T08:51:43.961+08:00",
+    "observedAt": "2026-10-26T09:00:00.000+08:00",
+    "fetchedAt": "2026-10-26T09:01:55.279+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10亿千瓦时背后：中老电力互联的价值不止于跨境送电",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10720903.shtml",
+        "publishedAt": "2026-10-26T08:49:49.000+08:00"
+      },
       {
         "title": "外媒：巴西总统卢拉赢得连任",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720902.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "西湖申遗成功十五年，交出保护发展的独特答卷",
         "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720899.shtml",
         "publishedAt": "2026-10-26T08:16:01.000+08:00"
-      },
-      {
-        "title": "直击巴西大选：选情胶着 投票有序",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720889.shtml",
-        "publishedAt": "2026-10-26T08:13:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T08:51:41.477+08:00",
+    "fetchedAt": "2026-10-26T09:01:52.872+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T08:51:42.223+08:00",
+      "fetchedAt": "2026-10-26T09:01:53.620+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 5,
-          "resetAt": "2026-10-26T12:17:53.000+08:00"
+          "resetAt": "2026-10-26T12:17:52.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 1,
-          "resetAt": "2026-11-02T07:17:53.000+08:00"
+          "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T08:51:42.227+08:00",
+      "fetchedAt": "2026-10-26T09:01:53.623+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T08:51:42.238+08:00",
+      "fetchedAt": "2026-10-26T09:01:53.634+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T08:51:42.239+08:00",
+      "fetchedAt": "2026-10-26T09:01:53.634+08:00",
       "error": "未启用",
       "disabled": true
     }
