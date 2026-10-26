@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T17:44:39.250+08:00",
+  "updatedAt": "2026-10-26T17:54:53.598+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26,
-    "feelsLikeC": 25.8,
-    "humidity": 48,
-    "windKph": 10.3,
+    "tempC": 25.4,
+    "feelsLikeC": 25.3,
+    "humidity": 50,
+    "windKph": 10.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T17:44:39.250+08:00",
+    "observedAt": "2026-10-26T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-26T17:54:53.598+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "李强签署国务院令 公布《事业单位登记管理条例》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721222.shtml",
-        "publishedAt": "2026-10-26T17:31:10.000+08:00"
+        "title": "外国留学生的“中国妈妈”",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721141.shtml",
+        "publishedAt": "2026-10-26T17:49:31.000+08:00"
       },
       {
-        "title": "习近平《在纪念中国工农红军长征胜利90周年大会上的讲话》单行本出版",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721224.shtml",
-        "publishedAt": "2026-10-26T17:31:08.000+08:00"
+        "title": "中国地震局发布西藏巴青7.0级地震烈度图",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721233.shtml",
+        "publishedAt": "2026-10-26T17:47:11.000+08:00"
       },
       {
-        "title": "受权发布｜事业单位登记管理条例",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721217.shtml",
-        "publishedAt": "2026-10-26T17:30:58.000+08:00"
+        "title": "事关保护中国商业秘密 商务部公开征求意见",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721230.shtml",
+        "publishedAt": "2026-10-26T17:46:33.000+08:00"
       },
       {
-        "title": "“新阶层”焕发活力 “建设力”闪耀滨城",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721167.shtml",
-        "publishedAt": "2026-10-26T17:27:51.000+08:00"
+        "title": "我国风电、太阳能发电装机规模约占全球新能源总装机的一半",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721228.shtml",
+        "publishedAt": "2026-10-26T17:45:42.000+08:00"
       },
       {
-        "title": "胡塞武装再次袭击沙特首都机场 “麦加协议”三国高官将赴伊朗磋商",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721203.shtml",
-        "publishedAt": "2026-10-26T17:19:47.000+08:00"
+        "title": "东西问丨黄煌：用听得懂的语言，把经方带给世界",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-26/10721227.shtml",
+        "publishedAt": "2026-10-26T17:44:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T17:44:36.452+08:00",
+    "fetchedAt": "2026-10-26T17:54:50.460+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T17:44:37.209+08:00",
+      "fetchedAt": "2026-10-26T17:54:51.185+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T22:44:39.000+08:00"
+          "resetAt": "2026-10-26T22:54:53.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T17:44:39.000+08:00"
+          "resetAt": "2026-11-02T17:54:53.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T17:44:37.212+08:00",
+      "fetchedAt": "2026-10-26T17:54:51.188+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T17:44:37.224+08:00",
+      "fetchedAt": "2026-10-26T17:54:51.199+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T17:44:37.224+08:00",
+      "fetchedAt": "2026-10-26T17:54:51.199+08:00",
       "error": "未启用",
       "disabled": true
     }
