@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T09:52:48.900+08:00",
+  "updatedAt": "2026-10-26T10:03:05.637+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25,
-    "feelsLikeC": 24.8,
-    "humidity": 55,
-    "windKph": 13.2,
+    "tempC": 25.4,
+    "feelsLikeC": 25.4,
+    "humidity": 53,
+    "windKph": 12.8,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T09:52:48.900+08:00",
+    "observedAt": "2026-10-26T10:00:00.000+08:00",
+    "fetchedAt": "2026-10-26T10:03:05.637+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "田间有课堂 球场学成长 山村小学探索育人新路径",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720936.shtml",
-        "publishedAt": "2026-10-26T09:45:14.000+08:00"
+        "title": "湖北宜昌：石料场变观猴地 生态村引八方客",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10720917.shtml",
+        "publishedAt": "2026-10-26T09:57:13.000+08:00"
       },
       {
-        "title": "“避雷”之前，别避开自己的判断",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720933.shtml",
-        "publishedAt": "2026-10-26T09:44:48.000+08:00"
+        "title": "首届“中韩大学生校园足球友谊赛”举办",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10720949.shtml",
+        "publishedAt": "2026-10-26T09:56:51.000+08:00"
       },
       {
-        "title": "在闽西，青春这样“接力”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720932.shtml",
-        "publishedAt": "2026-10-26T09:38:28.000+08:00"
+        "title": "2026青科会量子信息技术论坛：搭建产学研交流平台",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720942.shtml",
+        "publishedAt": "2026-10-26T09:56:13.000+08:00"
       },
       {
-        "title": "党的二十届五中全会今起至29日在北京召开",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720929.shtml",
-        "publishedAt": "2026-10-26T09:36:38.000+08:00"
+        "title": "2026宁波网球公开赛落幕 莱巴金娜连续两年捧杯",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10720939.shtml",
+        "publishedAt": "2026-10-26T09:55:33.000+08:00"
       },
       {
-        "title": "AI算账“双十一” 算得出优惠算不透套路",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720919.shtml",
-        "publishedAt": "2026-10-26T09:31:47.000+08:00"
+        "title": "刘震云荣获马来西亚花踪世界华文文学奖",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10720934.shtml",
+        "publishedAt": "2026-10-26T09:54:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T09:52:46.747+08:00",
+    "fetchedAt": "2026-10-26T10:03:03.314+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T09:52:47.357+08:00",
+      "fetchedAt": "2026-10-26T10:03:04.027+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T09:52:47.360+08:00",
+      "fetchedAt": "2026-10-26T10:03:04.030+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T09:52:47.372+08:00",
+      "fetchedAt": "2026-10-26T10:03:04.040+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T09:52:47.372+08:00",
+      "fetchedAt": "2026-10-26T10:03:04.041+08:00",
       "error": "未启用",
       "disabled": true
     }
