@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T22:00:10.669+08:00",
+  "updatedAt": "2026-10-26T22:10:24.111+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-26T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T22:00:10.669+08:00",
+    "fetchedAt": "2026-10-26T22:10:24.112+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“制止餐饮浪费”青少年志愿服务行动特别活动在北京举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721386.shtml",
-        "publishedAt": "2026-10-26T21:52:36.000+08:00"
+        "title": "宁夏泾源：做强“精字号” 让山里好物身价看涨",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721406.shtml",
+        "publishedAt": "2026-10-26T22:02:46.000+08:00"
       },
       {
-        "title": "浙江杭州：CBD稻田丰收在望",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721363.shtml",
-        "publishedAt": "2026-10-26T21:52:04.000+08:00"
+        "title": "侨乡江门对APEC其他经济体出口逾740亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721405.shtml",
+        "publishedAt": "2026-10-26T22:02:46.000+08:00"
       },
       {
-        "title": "香港故宫文化博物馆与荷兰国家博物馆达成合作 明年将联合办展",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721367.shtml",
-        "publishedAt": "2026-10-26T21:51:08.000+08:00"
+        "title": "11万吨铁矿粉进口 福建漳州破单船铁矿载运量纪录",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721404.shtml",
+        "publishedAt": "2026-10-26T22:01:38.000+08:00"
       },
       {
-        "title": "广西三江：油茶满枝富侗乡",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721349.shtml",
-        "publishedAt": "2026-10-26T21:50:40.000+08:00"
+        "title": "青海：拓宽各民族全方位嵌入路径 推动广泛交往全面交流深度交融",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721401.shtml",
+        "publishedAt": "2026-10-26T22:01:04.000+08:00"
       },
       {
-        "title": "海峡两岸青年精英网球团体公开赛收官 两岸选手以球会友",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721376.shtml",
-        "publishedAt": "2026-10-26T21:50:24.000+08:00"
+        "title": "中国援赤几医疗队开展抗疟专项培训",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721403.shtml",
+        "publishedAt": "2026-10-26T22:01:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T22:00:08.033+08:00",
+    "fetchedAt": "2026-10-26T22:10:20.408+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T22:00:08.754+08:00",
+      "fetchedAt": "2026-10-26T22:10:21.121+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 28,
-          "resetAt": "2026-10-27T02:13:57.000+08:00"
+          "resetAt": "2026-10-27T02:13:58.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 4,
-          "resetAt": "2026-11-02T21:13:57.000+08:00"
+          "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T22:00:08.758+08:00",
+      "fetchedAt": "2026-10-26T22:10:21.124+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T22:00:08.770+08:00",
+      "fetchedAt": "2026-10-26T22:10:21.134+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T22:00:08.770+08:00",
+      "fetchedAt": "2026-10-26T22:10:21.134+08:00",
       "error": "未启用",
       "disabled": true
     }
