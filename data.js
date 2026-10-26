@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T10:54:31.742+08:00",
+  "updatedAt": "2026-10-26T11:04:42.717+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.3,
-    "feelsLikeC": 26.9,
-    "humidity": 50,
-    "windKph": 11.5,
+    "tempC": 26.6,
+    "feelsLikeC": 27.4,
+    "humidity": 49,
+    "windKph": 11.2,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T10:54:31.742+08:00",
+    "observedAt": "2026-10-26T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-26T11:04:42.717+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“华夏遇见·诗琳画卷——光明行·锦绣章 李小琳诗书画展”走进四川成都",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208908.shtml",
+        "publishedAt": "2026-10-26T10:59:16.000+08:00"
+      },
+      {
+        "title": "台湾抗日志士后人：纪念光复 捍卫历史",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720974.shtml",
+        "publishedAt": "2026-10-26T10:58:24.000+08:00"
+      },
+      {
+        "title": "在湾区一线，看到先进制造“链动”亚太的力量",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10720999.shtml",
+        "publishedAt": "2026-10-26T10:54:12.000+08:00"
+      },
+      {
+        "title": "全国一刻钟便民生活圈提质升级",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720997.shtml",
+        "publishedAt": "2026-10-26T10:50:42.000+08:00"
+      },
+      {
         "title": "10月26日央行开展560亿元7天期逆回购操作",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720955.shtml",
         "publishedAt": "2026-10-26T10:49:08.000+08:00"
-      },
-      {
-        "title": "汇智聚力，共谋改革完善全球治理之道——2026全球治理论坛（雄安）综述",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720995.shtml",
-        "publishedAt": "2026-10-26T10:48:40.000+08:00"
-      },
-      {
-        "title": "健身时总不自觉咬牙？当心颞下颌关节在“硬扛”",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-26/10720994.shtml",
-        "publishedAt": "2026-10-26T10:48:14.000+08:00"
-      },
-      {
-        "title": "将有气旋撞击喜马拉雅山脉？中国气象局辟谣",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720991.shtml",
-        "publishedAt": "2026-10-26T10:45:43.000+08:00"
-      },
-      {
-        "title": "粤桂优化协作 助力乡村全面振兴",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720992.shtml",
-        "publishedAt": "2026-10-26T10:44:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T10:54:28.661+08:00",
+    "fetchedAt": "2026-10-26T11:04:40.603+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T10:54:29.450+08:00",
+      "fetchedAt": "2026-10-26T11:04:41.218+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 74,
+          "usedPct": 92,
           "resetAt": "2026-10-26T12:17:52.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 12,
+          "usedPct": 14,
           "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T10:54:29.452+08:00",
+      "fetchedAt": "2026-10-26T11:04:41.219+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T10:54:29.462+08:00",
+      "fetchedAt": "2026-10-26T11:04:41.225+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T10:54:29.463+08:00",
+      "fetchedAt": "2026-10-26T11:04:41.225+08:00",
       "error": "未启用",
       "disabled": true
     }
