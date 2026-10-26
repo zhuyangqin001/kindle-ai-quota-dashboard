@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T10:03:05.637+08:00",
+  "updatedAt": "2026-10-26T10:13:19.439+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-26T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T10:03:05.637+08:00",
+    "fetchedAt": "2026-10-26T10:13:19.440+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "湖北宜昌：石料场变观猴地 生态村引八方客",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10720917.shtml",
-        "publishedAt": "2026-10-26T09:57:13.000+08:00"
+        "title": "2026前三季度汽车企业影响力指数发布 比亚迪登顶乘用车榜首",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720945.shtml",
+        "publishedAt": "2026-10-26T10:07:15.000+08:00"
       },
       {
-        "title": "首届“中韩大学生校园足球友谊赛”举办",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10720949.shtml",
-        "publishedAt": "2026-10-26T09:56:51.000+08:00"
+        "title": "全球媒体聚焦丨中国从“世界工厂”转为“技术与能力输出高地”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720965.shtml",
+        "publishedAt": "2026-10-26T10:06:43.000+08:00"
       },
       {
-        "title": "2026青科会量子信息技术论坛：搭建产学研交流平台",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720942.shtml",
-        "publishedAt": "2026-10-26T09:56:13.000+08:00"
+        "title": "2026年中国—东盟国际龙舟公开赛在广西藤县举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10720927.shtml",
+        "publishedAt": "2026-10-26T10:06:41.000+08:00"
       },
       {
-        "title": "2026宁波网球公开赛落幕 莱巴金娜连续两年捧杯",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10720939.shtml",
-        "publishedAt": "2026-10-26T09:55:33.000+08:00"
+        "title": "“文明交流视野下的新时代中国考古学科建设”学术研讨会举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720922.shtml",
+        "publishedAt": "2026-10-26T10:06:33.000+08:00"
       },
       {
-        "title": "刘震云荣获马来西亚花踪世界华文文学奖",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10720934.shtml",
-        "publishedAt": "2026-10-26T09:54:31.000+08:00"
+        "title": "首届则柔邀请展演活动在青海西宁落幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10720924.shtml",
+        "publishedAt": "2026-10-26T10:00:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T10:03:03.314+08:00",
+    "fetchedAt": "2026-10-26T10:13:16.835+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T10:03:04.027+08:00",
+      "fetchedAt": "2026-10-26T10:13:17.720+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T10:03:04.030+08:00",
+      "fetchedAt": "2026-10-26T10:13:17.726+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T10:03:04.040+08:00",
+      "fetchedAt": "2026-10-26T10:13:17.734+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T10:03:04.041+08:00",
+      "fetchedAt": "2026-10-26T10:13:17.734+08:00",
       "error": "未启用",
       "disabled": true
     }
