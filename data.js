@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T08:00:30.468+08:00",
+  "updatedAt": "2026-10-26T08:10:45.651+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-26T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T08:00:30.468+08:00",
+    "fetchedAt": "2026-10-26T08:10:45.651+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年全国游泳锦标赛（25米）：潘展乐获得男子100米自由泳冠军",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208861.shtml",
+        "publishedAt": "2026-10-26T08:00:12.000+08:00"
+      },
       {
         "title": "2026年全国游泳锦标赛（25米）：于子迪获得女子200米蝶泳冠军",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208858.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "占比超50% 年轻人正成为红色旅游主力军",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720885.shtml",
         "publishedAt": "2026-10-26T07:42:19.000+08:00"
-      },
-      {
-        "title": "工厂、商超都在用！年产量冲刺10万台！重大“机”遇，如何抓住？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720884.shtml",
-        "publishedAt": "2026-10-26T07:39:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T08:00:27.647+08:00",
+    "fetchedAt": "2026-10-26T08:10:43.120+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T08:00:28.393+08:00",
+      "fetchedAt": "2026-10-26T08:10:43.817+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T08:00:28.396+08:00",
+      "fetchedAt": "2026-10-26T08:10:43.821+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T08:00:28.407+08:00",
+      "fetchedAt": "2026-10-26T08:10:43.832+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T08:00:28.407+08:00",
+      "fetchedAt": "2026-10-26T08:10:43.832+08:00",
       "error": "未启用",
       "disabled": true
     }
