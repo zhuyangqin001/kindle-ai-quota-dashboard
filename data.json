@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T22:10:24.111+08:00",
+  "updatedAt": "2026-10-26T22:20:38.090+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21,
-    "feelsLikeC": 22.2,
-    "humidity": 74,
-    "windKph": 6.2,
-    "windDir": "北风",
+    "tempC": 20.8,
+    "feelsLikeC": 22.1,
+    "humidity": 75,
+    "windKph": 5.7,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T22:10:24.112+08:00",
+    "observedAt": "2026-10-26T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-26T22:20:38.090+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "广东5位代表分享奋斗故事：如何走好我们这一代人的长征路？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721411.shtml",
+        "publishedAt": "2026-10-26T22:10:07.000+08:00"
+      },
+      {
+        "title": "全国劳动模范和大国工匠代表团访港 寄语青年立足岗位持续精进",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721410.shtml",
+        "publishedAt": "2026-10-26T22:08:17.000+08:00"
+      },
+      {
+        "title": "四川成都：商品房预售门槛提高 购房款全部纳入监管账户",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721409.shtml",
+        "publishedAt": "2026-10-26T22:08:11.000+08:00"
+      },
+      {
+        "title": "前三季度中国国内居民出游人次超53亿",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721407.shtml",
+        "publishedAt": "2026-10-26T22:03:40.000+08:00"
+      },
+      {
         "title": "宁夏泾源：做强“精字号” 让山里好物身价看涨",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721406.shtml",
         "publishedAt": "2026-10-26T22:02:46.000+08:00"
-      },
-      {
-        "title": "侨乡江门对APEC其他经济体出口逾740亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721405.shtml",
-        "publishedAt": "2026-10-26T22:02:46.000+08:00"
-      },
-      {
-        "title": "11万吨铁矿粉进口 福建漳州破单船铁矿载运量纪录",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721404.shtml",
-        "publishedAt": "2026-10-26T22:01:38.000+08:00"
-      },
-      {
-        "title": "青海：拓宽各民族全方位嵌入路径 推动广泛交往全面交流深度交融",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721401.shtml",
-        "publishedAt": "2026-10-26T22:01:04.000+08:00"
-      },
-      {
-        "title": "中国援赤几医疗队开展抗疟专项培训",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721403.shtml",
-        "publishedAt": "2026-10-26T22:01:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T22:10:20.408+08:00",
+    "fetchedAt": "2026-10-26T22:20:35.735+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T22:10:21.121+08:00",
+      "fetchedAt": "2026-10-26T22:20:36.231+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 28,
-          "resetAt": "2026-10-27T02:13:58.000+08:00"
+          "resetAt": "2026-10-27T02:13:57.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 4,
-          "resetAt": "2026-11-02T21:13:58.000+08:00"
+          "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T22:10:21.124+08:00",
+      "fetchedAt": "2026-10-26T22:20:36.232+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T22:10:21.134+08:00",
+      "fetchedAt": "2026-10-26T22:20:36.236+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T22:10:21.134+08:00",
+      "fetchedAt": "2026-10-26T22:20:36.237+08:00",
       "error": "未启用",
       "disabled": true
     }
