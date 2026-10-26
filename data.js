@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T19:06:25.126+08:00",
+  "updatedAt": "2026-10-26T19:26:43.798+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.7,
-    "feelsLikeC": 24.1,
-    "humidity": 59,
-    "windKph": 8.9,
+    "tempC": 23.4,
+    "feelsLikeC": 23.8,
+    "humidity": 60,
+    "windKph": 9,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T19:06:25.126+08:00",
+    "observedAt": "2026-10-26T19:15:00.000+08:00",
+    "fetchedAt": "2026-10-26T19:26:43.798+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "加拿大渥太华侨学界举办纪念孙中山诞辰160周年系列活动",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721254.shtml",
-        "publishedAt": "2026-10-26T19:03:03.000+08:00"
+        "title": "全国40支合唱团齐聚羊城唱响动人旋律",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721273.shtml",
+        "publishedAt": "2026-10-26T19:24:12.000+08:00"
       },
       {
-        "title": "二十届中央第八轮巡视完成进驻",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721252.shtml",
-        "publishedAt": "2026-10-26T19:00:11.000+08:00"
+        "title": "尹锡悦夫妇狱中代管金近22亿韩元 韩法务部门称需设限",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721278.shtml",
+        "publishedAt": "2026-10-26T19:23:02.000+08:00"
       },
       {
-        "title": "世界泉州青年联谊会澳大利亚分会成立仪式在墨尔本举行",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721248.shtml",
-        "publishedAt": "2026-10-26T18:54:46.000+08:00"
+        "title": "京张公路自行车公开赛总决赛收官 600余名选手骑游世园",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721272.shtml",
+        "publishedAt": "2026-10-26T19:22:34.000+08:00"
       },
       {
-        "title": "12306今日上线新功能 买团体票更方便",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721251.shtml",
-        "publishedAt": "2026-10-26T18:41:24.000+08:00"
+        "title": "全球首创，中国率先批准！拜耳FXIa抑制剂舒华博（阿舒克森片）获批，开启卒中管理新纪元",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-26/10721265.shtml",
+        "publishedAt": "2026-10-26T19:21:58.000+08:00"
       },
       {
-        "title": "中国风光累计装机容量突破20亿千瓦",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721244.shtml",
-        "publishedAt": "2026-10-26T18:35:33.000+08:00"
+        "title": "多名消费者称寿司郎传送带窜出大只活老鼠，涉事门店回应",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721264.shtml",
+        "publishedAt": "2026-10-26T19:20:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T19:06:21.869+08:00",
+    "fetchedAt": "2026-10-26T19:26:41.456+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T19:06:22.610+08:00",
+      "fetchedAt": "2026-10-26T19:26:42.211+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T00:06:24.000+08:00"
+          "resetAt": "2026-10-27T00:26:43.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T19:06:24.000+08:00"
+          "resetAt": "2026-11-02T19:26:43.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T19:06:22.613+08:00",
+      "fetchedAt": "2026-10-26T19:26:42.214+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T19:06:22.624+08:00",
+      "fetchedAt": "2026-10-26T19:26:42.225+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T19:06:22.625+08:00",
+      "fetchedAt": "2026-10-26T19:26:42.226+08:00",
       "error": "未启用",
       "disabled": true
     }
