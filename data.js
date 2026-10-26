@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T22:30:52.236+08:00",
+  "updatedAt": "2026-10-26T22:41:05.301+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-26T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T22:30:52.237+08:00",
+    "fetchedAt": "2026-10-26T22:41:05.301+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "马来西亚总理：国际投资者拟在马投资500亿美元 发展AI与数据中心",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721427.shtml",
+        "publishedAt": "2026-10-26T22:33:22.000+08:00"
+      },
+      {
+        "title": "第一观察｜以信心汇聚力量，以合作破解难题",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721375.shtml",
+        "publishedAt": "2026-10-26T22:31:42.000+08:00"
+      },
+      {
+        "title": "河北滦州小花生“长”出富民大产业",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721425.shtml",
+        "publishedAt": "2026-10-26T22:31:16.000+08:00"
+      },
+      {
+        "title": "尼泊尔公布水文气象白皮书 拟加强洪水预警和冰湖风险治理",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721424.shtml",
+        "publishedAt": "2026-10-26T22:29:42.000+08:00"
+      },
+      {
         "title": "郑州市主城区，如何实现旧城新貌、老区新业？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721423.shtml",
         "publishedAt": "2026-10-26T22:23:03.000+08:00"
-      },
-      {
-        "title": "山河同根 烈士后人与台青北京话家国传承",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721422.shtml",
-        "publishedAt": "2026-10-26T22:22:49.000+08:00"
-      },
-      {
-        "title": "《青海省促进民族团结进步“十五五”规划》系统部署未来五年民族工作",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721421.shtml",
-        "publishedAt": "2026-10-26T22:22:25.000+08:00"
-      },
-      {
-        "title": "北师大教授郑日昌新书《辩证观心》发布 建言提升自我心理觉察",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721420.shtml",
-        "publishedAt": "2026-10-26T22:21:35.000+08:00"
-      },
-      {
-        "title": "青海：把民族事务治理全面纳入法治轨道",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721419.shtml",
-        "publishedAt": "2026-10-26T22:21:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T22:30:48.148+08:00",
+    "fetchedAt": "2026-10-26T22:41:01.604+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T22:30:48.885+08:00",
+      "fetchedAt": "2026-10-26T22:41:02.094+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T22:30:48.887+08:00",
+      "fetchedAt": "2026-10-26T22:41:02.097+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T22:30:48.893+08:00",
+      "fetchedAt": "2026-10-26T22:41:02.108+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T22:30:48.893+08:00",
+      "fetchedAt": "2026-10-26T22:41:02.108+08:00",
       "error": "未启用",
       "disabled": true
     }
