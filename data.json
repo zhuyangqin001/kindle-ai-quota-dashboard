@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T11:45:37.124+08:00",
+  "updatedAt": "2026-10-26T11:55:49.118+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-26T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T11:45:37.124+08:00",
+    "fetchedAt": "2026-10-26T11:55:49.118+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "【财金视野】发挥超长期特别国债资金效益",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721040.shtml",
+        "publishedAt": "2026-10-26T11:49:47.000+08:00"
+      },
+      {
+        "title": "自然资源部：完成巴青县地震震中50公里范围内地灾隐患点排查",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721016.shtml",
+        "publishedAt": "2026-10-26T11:49:05.000+08:00"
+      },
+      {
+        "title": "我国协作帮扶已实现消费帮扶2400多亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721039.shtml",
+        "publishedAt": "2026-10-26T11:46:13.000+08:00"
+      },
       {
         "title": "快手举办1024嘉年华 程一笑称AI时代仍要保持独立思考",
         "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720910.shtml",
@@ -28,24 +43,9 @@
         "title": "酸奶为什么会沾盖？咸蛋黄为什么会分层？这些小知识你知道几个",
         "url": "https://www.chinanews.com.cn/life/2026/10-26/10721014.shtml",
         "publishedAt": "2026-10-26T11:22:11.000+08:00"
-      },
-      {
-        "title": "硬核装备、特色鲜果齐亮相 第九届进博会首批展品进馆",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721011.shtml",
-        "publishedAt": "2026-10-26T11:19:49.000+08:00"
-      },
-      {
-        "title": "椰城海关2026-2028年公务用车保险服务采购项目第二次比选公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721010.shtml",
-        "publishedAt": "2026-10-26T11:16:29.000+08:00"
-      },
-      {
-        "title": "第三届华侨华人学研究学术研讨会闭幕",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721000.shtml",
-        "publishedAt": "2026-10-26T11:16:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T11:45:34.342+08:00",
+    "fetchedAt": "2026-10-26T11:55:46.984+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T11:45:35.018+08:00",
+      "fetchedAt": "2026-10-26T11:55:47.653+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T11:45:35.020+08:00",
+      "fetchedAt": "2026-10-26T11:55:47.656+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T11:45:35.030+08:00",
+      "fetchedAt": "2026-10-26T11:55:47.669+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T11:45:35.031+08:00",
+      "fetchedAt": "2026-10-26T11:55:47.670+08:00",
       "error": "未启用",
       "disabled": true
     }
