@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T22:41:05.301+08:00",
+  "updatedAt": "2026-10-26T22:51:20.553+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.5,
-    "feelsLikeC": 21.9,
-    "humidity": 77,
-    "windKph": 5.3,
-    "windDir": "东北风",
+    "tempC": 20.3,
+    "feelsLikeC": 21.7,
+    "humidity": 78,
+    "windKph": 5,
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T22:41:05.301+08:00",
+    "observedAt": "2026-10-26T22:45:00.000+08:00",
+    "fetchedAt": "2026-10-26T22:51:20.553+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美官员透露称美军已准备好再次大规模打击伊朗",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721428.shtml",
+        "publishedAt": "2026-10-26T22:37:18.000+08:00"
+      },
       {
         "title": "马来西亚总理：国际投资者拟在马投资500亿美元 发展AI与数据中心",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721427.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "尼泊尔公布水文气象白皮书 拟加强洪水预警和冰湖风险治理",
         "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721424.shtml",
         "publishedAt": "2026-10-26T22:29:42.000+08:00"
-      },
-      {
-        "title": "郑州市主城区，如何实现旧城新貌、老区新业？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721423.shtml",
-        "publishedAt": "2026-10-26T22:23:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T22:41:01.604+08:00",
+    "fetchedAt": "2026-10-26T22:51:15.611+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T22:41:02.094+08:00",
+      "fetchedAt": "2026-10-26T22:51:16.308+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 28,
-          "resetAt": "2026-10-27T02:13:58.000+08:00"
+          "resetAt": "2026-10-27T02:13:57.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 4,
-          "resetAt": "2026-11-02T21:13:58.000+08:00"
+          "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T22:41:02.097+08:00",
+      "fetchedAt": "2026-10-26T22:51:16.311+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T22:41:02.108+08:00",
+      "fetchedAt": "2026-10-26T22:51:16.321+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T22:41:02.108+08:00",
+      "fetchedAt": "2026-10-26T22:51:16.321+08:00",
       "error": "未启用",
       "disabled": true
     }
