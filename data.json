@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T14:29:45.110+08:00",
+  "updatedAt": "2026-10-26T14:39:59.841+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 28.5,
-    "feelsLikeC": 28.5,
+    "tempC": 28.7,
+    "feelsLikeC": 28.6,
     "humidity": 40,
     "windKph": 8.5,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T14:29:45.110+08:00",
+    "observedAt": "2026-10-26T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-26T14:39:59.842+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“双十一”促销季警惕降价假象！中消协发布消费提示",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721096.shtml",
-        "publishedAt": "2026-10-26T14:12:25.000+08:00"
+        "title": "贵阳国际陆港把“出海口”搬到“家门口”",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721101.shtml",
+        "publishedAt": "2026-10-26T14:32:06.000+08:00"
       },
       {
-        "title": "土耳其“泛突厥”野心的虚妄历史与骨感现实",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721091.shtml",
-        "publishedAt": "2026-10-26T13:59:40.000+08:00"
+        "title": "港澳会客厅｜专访陈国基：香港“一五”规划最重要目标就是让老百姓安定、开心",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721093.shtml",
+        "publishedAt": "2026-10-26T14:31:12.000+08:00"
       },
       {
-        "title": "第九届进博会首批展品进馆",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721084.shtml",
-        "publishedAt": "2026-10-26T13:55:30.000+08:00"
+        "title": "“双十一”促销季警惕降价假象 中消协发布消费提示",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721097.shtml",
+        "publishedAt": "2026-10-26T14:24:55.000+08:00"
       },
       {
-        "title": "前三季度郑州GDP逾11862亿元 同比增长4.9％",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721085.shtml",
-        "publishedAt": "2026-10-26T13:55:06.000+08:00"
+        "title": "南通城市建设集团有限公司党委副书记、总经理朱峭嵘被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721065.shtml",
+        "publishedAt": "2026-10-26T14:24:45.000+08:00"
       },
       {
-        "title": "25年累计发行超1700万册 《中国儿童百科全书》打造“中国孩子自己的百科全书”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721082.shtml",
-        "publishedAt": "2026-10-26T13:54:24.000+08:00"
+        "title": "中方将举办联合国维和高级战略研讨班",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721062.shtml",
+        "publishedAt": "2026-10-26T14:24:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T14:29:41.174+08:00",
+    "fetchedAt": "2026-10-26T14:39:55.813+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T14:29:41.870+08:00",
+      "fetchedAt": "2026-10-26T14:39:56.556+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T19:29:44.000+08:00"
+          "resetAt": "2026-10-26T19:39:59.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T14:29:44.000+08:00"
+          "resetAt": "2026-11-02T14:39:59.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T14:29:41.873+08:00",
+      "fetchedAt": "2026-10-26T14:39:56.559+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T14:29:41.884+08:00",
+      "fetchedAt": "2026-10-26T14:39:56.568+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T14:29:41.884+08:00",
+      "fetchedAt": "2026-10-26T14:39:56.568+08:00",
       "error": "未启用",
       "disabled": true
     }
