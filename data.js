@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T10:13:19.439+08:00",
+  "updatedAt": "2026-10-26T10:23:36.110+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.4,
-    "feelsLikeC": 25.4,
-    "humidity": 53,
-    "windKph": 12.8,
-    "windDir": "东风",
+    "tempC": 25.7,
+    "feelsLikeC": 26,
+    "humidity": 52,
+    "windKph": 12.3,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T10:13:19.440+08:00",
+    "observedAt": "2026-10-26T10:15:00.000+08:00",
+    "fetchedAt": "2026-10-26T10:23:36.110+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026前三季度汽车企业影响力指数发布 比亚迪登顶乘用车榜首",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720945.shtml",
-        "publishedAt": "2026-10-26T10:07:15.000+08:00"
+        "title": "中美教育界人士北京话合作 吁为下一代敞开大门",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720969.shtml",
+        "publishedAt": "2026-10-26T10:17:52.000+08:00"
       },
       {
-        "title": "全球媒体聚焦丨中国从“世界工厂”转为“技术与能力输出高地”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720965.shtml",
-        "publishedAt": "2026-10-26T10:06:43.000+08:00"
+        "title": "阿尔及利亚议会批准向尼日尔派遣军队",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720977.shtml",
+        "publishedAt": "2026-10-26T10:17:36.000+08:00"
       },
       {
-        "title": "2026年中国—东盟国际龙舟公开赛在广西藤县举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10720927.shtml",
-        "publishedAt": "2026-10-26T10:06:41.000+08:00"
+        "title": "卢拉：感谢人民支持 巴西“不是任何人的后院”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720980.shtml",
+        "publishedAt": "2026-10-26T10:17:14.000+08:00"
       },
       {
-        "title": "“文明交流视野下的新时代中国考古学科建设”学术研讨会举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720922.shtml",
-        "publishedAt": "2026-10-26T10:06:33.000+08:00"
+        "title": "肯尼亚发生严重车祸致24人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720946.shtml",
+        "publishedAt": "2026-10-26T10:16:58.000+08:00"
       },
       {
-        "title": "首届则柔邀请展演活动在青海西宁落幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10720924.shtml",
-        "publishedAt": "2026-10-26T10:00:53.000+08:00"
+        "title": "武契奇承认前进党在塞议会选举中败选",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720943.shtml",
+        "publishedAt": "2026-10-26T10:16:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T10:13:16.835+08:00",
+    "fetchedAt": "2026-10-26T10:23:34.225+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T10:13:17.720+08:00",
+      "fetchedAt": "2026-10-26T10:23:34.819+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T10:13:17.726+08:00",
+      "fetchedAt": "2026-10-26T10:23:34.822+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T10:13:17.734+08:00",
+      "fetchedAt": "2026-10-26T10:23:34.832+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T10:13:17.734+08:00",
+      "fetchedAt": "2026-10-26T10:23:34.833+08:00",
       "error": "未启用",
       "disabled": true
     }
