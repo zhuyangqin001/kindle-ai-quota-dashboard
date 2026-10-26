@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-26T16:22:40.166+08:00",
+  "updatedAt": "2026-10-26T16:32:57.122+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 28,
-    "feelsLikeC": 27.2,
-    "humidity": 40,
-    "windKph": 11.3,
+    "tempC": 27.7,
+    "feelsLikeC": 27,
+    "humidity": 41,
+    "windKph": 11.2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T16:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T16:22:40.166+08:00",
+    "observedAt": "2026-10-26T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-26T16:32:57.122+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "书香民进 悦读三晋——民进山西省委会“开明阅读”专项社会服务活动纪实",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721190.shtml",
+        "publishedAt": "2026-10-26T16:23:34.000+08:00"
+      },
+      {
+        "title": "中国红十字会总会调拨应急救灾厕所和救灾卫生包送往西藏地震受灾地区",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721179.shtml",
+        "publishedAt": "2026-10-26T16:22:56.000+08:00"
+      },
+      {
+        "title": "上海“MAX爸爸”诞生记：从“家长圈”到“超级家长团”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721177.shtml",
+        "publishedAt": "2026-10-26T16:21:22.000+08:00"
+      },
       {
         "title": "中方：愿推动中朝关系不断向前发展",
         "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721168.shtml",
@@ -28,24 +43,9 @@
         "title": "一枚书签 串起千年龟兹乐舞",
         "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721182.shtml",
         "publishedAt": "2026-10-26T16:17:30.000+08:00"
-      },
-      {
-        "title": "国家药监局批准阿舒克森片上市",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721181.shtml",
-        "publishedAt": "2026-10-26T16:17:16.000+08:00"
-      },
-      {
-        "title": "南蔗北种 桂疆共甜",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-26/10721180.shtml",
-        "publishedAt": "2026-10-26T16:15:20.000+08:00"
-      },
-      {
-        "title": "这样走路的人，你的骨头可能在“求救”！如何自测股骨头是否健康？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-26/10721178.shtml",
-        "publishedAt": "2026-10-26T16:14:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T16:22:35.429+08:00",
+    "fetchedAt": "2026-10-26T16:32:52.992+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T16:22:36.177+08:00",
+      "fetchedAt": "2026-10-26T16:32:53.683+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T21:22:40.000+08:00"
+          "resetAt": "2026-10-26T21:32:55.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T16:22:40.000+08:00"
+          "resetAt": "2026-11-02T16:32:55.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T16:22:36.180+08:00",
+      "fetchedAt": "2026-10-26T16:32:53.687+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T16:22:36.191+08:00",
+      "fetchedAt": "2026-10-26T16:32:53.698+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T16:22:36.191+08:00",
+      "fetchedAt": "2026-10-26T16:32:53.699+08:00",
       "error": "未启用",
       "disabled": true
     }
