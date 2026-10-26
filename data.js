@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T20:48:27.325+08:00",
+  "updatedAt": "2026-10-26T20:58:44.538+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 22,
-    "feelsLikeC": 22.6,
-    "humidity": 70,
+    "feelsLikeC": 22.4,
+    "humidity": 68,
     "windKph": 10.8,
-    "windDir": "西北风",
+    "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-26T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T20:48:27.325+08:00",
+    "fetchedAt": "2026-10-26T20:58:44.538+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国央行设立债市非银大额赎回互换便利",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721334.shtml",
-        "publishedAt": "2026-10-26T20:42:24.000+08:00"
+        "title": "阿木尔林业局点烧防火阻隔带318公里",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721337.shtml",
+        "publishedAt": "2026-10-26T20:54:45.000+08:00"
       },
       {
-        "title": "浙江：到2030年抹茶全产业链综合产值达百亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721332.shtml",
-        "publishedAt": "2026-10-26T20:42:16.000+08:00"
+        "title": "东盟留学生人工智能+创业孵化训练营开营",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721335.shtml",
+        "publishedAt": "2026-10-26T20:43:28.000+08:00"
       },
       {
-        "title": "2026年“互联网之光”博览会即将启幕 这场博览会可看可感可玩可购",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721336.shtml",
-        "publishedAt": "2026-10-26T20:42:04.000+08:00"
+        "title": "俄罗斯地方官员：俄中教育年旨在为双边合作注入全新动力",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721323.shtml",
+        "publishedAt": "2026-10-26T20:43:22.000+08:00"
       },
       {
-        "title": "中尼联合科考队启动陈塘—阿润河实地科考",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721258.shtml",
-        "publishedAt": "2026-10-26T20:41:54.000+08:00"
+        "title": "中国留德学者计算机学会2026年年会在法兰克福举办",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-26/10721279.shtml",
+        "publishedAt": "2026-10-26T20:42:52.000+08:00"
       },
       {
-        "title": "2026中国国际农业机械展览会在天津开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721300.shtml",
-        "publishedAt": "2026-10-26T20:40:42.000+08:00"
+        "title": "2026全球华人高尔夫邀请赛在海南海口开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721314.shtml",
+        "publishedAt": "2026-10-26T20:42:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T20:48:24.809+08:00",
+    "fetchedAt": "2026-10-26T20:58:39.897+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T20:48:25.323+08:00",
+      "fetchedAt": "2026-10-26T20:58:40.654+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T01:48:27.000+08:00"
+          "resetAt": "2026-10-27T01:58:44.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T20:48:27.000+08:00"
+          "resetAt": "2026-11-02T20:58:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T20:48:25.326+08:00",
+      "fetchedAt": "2026-10-26T20:58:40.657+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T20:48:25.332+08:00",
+      "fetchedAt": "2026-10-26T20:58:40.667+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T20:48:25.332+08:00",
+      "fetchedAt": "2026-10-26T20:58:40.667+08:00",
       "error": "未启用",
       "disabled": true
     }
