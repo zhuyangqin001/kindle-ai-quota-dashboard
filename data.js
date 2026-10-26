@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T11:25:06.240+08:00",
+  "updatedAt": "2026-10-26T11:35:18.405+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.9,
-    "feelsLikeC": 27.8,
-    "humidity": 48,
+    "tempC": 27.3,
+    "feelsLikeC": 28.2,
+    "humidity": 46,
     "windKph": 11.2,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-26T11:25:06.240+08:00",
+    "observedAt": "2026-10-26T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-26T11:35:18.405+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "快手举办1024嘉年华 程一笑称AI时代仍要保持独立思考",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720910.shtml",
+        "publishedAt": "2026-10-26T11:26:54.000+08:00"
+      },
+      {
+        "title": "酸奶为什么会沾盖？咸蛋黄为什么会分层？这些小知识你知道几个",
+        "url": "https://www.chinanews.com.cn/life/2026/10-26/10721014.shtml",
+        "publishedAt": "2026-10-26T11:22:11.000+08:00"
+      },
+      {
+        "title": "硬核装备、特色鲜果齐亮相 第九届进博会首批展品进馆",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721011.shtml",
+        "publishedAt": "2026-10-26T11:19:49.000+08:00"
+      },
       {
         "title": "椰城海关2026-2028年公务用车保险服务采购项目第二次比选公告",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-26/10721010.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "第三届华侨华人学研究学术研讨会闭幕",
         "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721000.shtml",
         "publishedAt": "2026-10-26T11:16:17.000+08:00"
-      },
-      {
-        "title": "中国男子三人篮球联赛首支连冠队伍诞生",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721008.shtml",
-        "publishedAt": "2026-10-26T11:15:19.000+08:00"
-      },
-      {
-        "title": "快速行动！农业银行全力配合做好西藏巴青7.0级地震抢险救灾工作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720915.shtml",
-        "publishedAt": "2026-10-26T11:13:23.000+08:00"
-      },
-      {
-        "title": "“零经验”年轻人扎堆闯野山 徒步乱象该如何治理？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721007.shtml",
-        "publishedAt": "2026-10-26T11:12:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T11:25:03.840+08:00",
+    "fetchedAt": "2026-10-26T11:35:14.988+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T11:25:04.408+08:00",
+      "fetchedAt": "2026-10-26T11:35:15.716+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T11:25:04.416+08:00",
+      "fetchedAt": "2026-10-26T11:35:15.719+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T11:25:04.429+08:00",
+      "fetchedAt": "2026-10-26T11:35:15.726+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T11:25:04.429+08:00",
+      "fetchedAt": "2026-10-26T11:35:15.726+08:00",
       "error": "未启用",
       "disabled": true
     }
