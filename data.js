@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T19:47:08.410+08:00",
+  "updatedAt": "2026-10-26T19:57:20.275+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-26T19:45:00.000+08:00",
-    "fetchedAt": "2026-10-26T19:47:08.410+08:00",
+    "fetchedAt": "2026-10-26T19:57:20.275+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "网传“热带气旋撞击喜马拉雅山脉”不实（2026·10·26）",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721302.shtml",
+        "publishedAt": "2026-10-26T19:49:45.000+08:00"
+      },
+      {
+        "title": "陕西岚皋：小匹克挥拍，点燃赛事新赛道",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721298.shtml",
+        "publishedAt": "2026-10-26T19:49:45.000+08:00"
+      },
+      {
+        "title": "河紫高速开工建设 计划2029年建成通车",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721289.shtml",
+        "publishedAt": "2026-10-26T19:48:13.000+08:00"
+      },
+      {
+        "title": "海内外青年学子湾区“Citywalk”感受城市脉动",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721288.shtml",
+        "publishedAt": "2026-10-26T19:47:19.000+08:00"
+      },
+      {
         "title": "澳门特奥陪跑计划迎六周年 健跑同乐日促社区共融",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-26/10721282.shtml",
         "publishedAt": "2026-10-26T19:39:49.000+08:00"
-      },
-      {
-        "title": "中国人民大学家书博物馆成立十周年 获赠多组重要家书",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721268.shtml",
-        "publishedAt": "2026-10-26T19:39:45.000+08:00"
-      },
-      {
-        "title": "《我爱北京》2026全球征稿活动颁奖典礼举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-26/10721286.shtml",
-        "publishedAt": "2026-10-26T19:38:49.000+08:00"
-      },
-      {
-        "title": "童心绘山河 213件少儿美术作品亮相内蒙古额济纳旗",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721285.shtml",
-        "publishedAt": "2026-10-26T19:38:15.000+08:00"
-      },
-      {
-        "title": "狮子洋通道虎门港互通下部结构完工",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721284.shtml",
-        "publishedAt": "2026-10-26T19:37:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T19:47:05.496+08:00",
+    "fetchedAt": "2026-10-26T19:57:18.034+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T19:47:06.245+08:00",
+      "fetchedAt": "2026-10-26T19:57:18.788+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T00:47:08.000+08:00"
+          "resetAt": "2026-10-27T00:57:20.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T19:47:08.000+08:00"
+          "resetAt": "2026-11-02T19:57:20.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T19:47:06.248+08:00",
+      "fetchedAt": "2026-10-26T19:57:18.791+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T19:47:06.259+08:00",
+      "fetchedAt": "2026-10-26T19:57:18.803+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T19:47:06.259+08:00",
+      "fetchedAt": "2026-10-26T19:57:18.803+08:00",
       "error": "未启用",
       "disabled": true
     }
