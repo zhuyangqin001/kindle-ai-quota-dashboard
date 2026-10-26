@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T09:42:36.580+08:00",
+  "updatedAt": "2026-10-26T09:52:48.900+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.5,
-    "feelsLikeC": 24.3,
-    "humidity": 57,
-    "windKph": 13.6,
+    "tempC": 25,
+    "feelsLikeC": 24.8,
+    "humidity": 55,
+    "windKph": 13.2,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T09:42:36.580+08:00",
+    "observedAt": "2026-10-26T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-26T09:52:48.900+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "田间有课堂 球场学成长 山村小学探索育人新路径",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720936.shtml",
+        "publishedAt": "2026-10-26T09:45:14.000+08:00"
+      },
+      {
+        "title": "“避雷”之前，别避开自己的判断",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720933.shtml",
+        "publishedAt": "2026-10-26T09:44:48.000+08:00"
+      },
+      {
+        "title": "在闽西，青春这样“接力”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720932.shtml",
+        "publishedAt": "2026-10-26T09:38:28.000+08:00"
+      },
       {
         "title": "党的二十届五中全会今起至29日在北京召开",
         "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720929.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "AI算账“双十一” 算得出优惠算不透套路",
         "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720919.shtml",
         "publishedAt": "2026-10-26T09:31:47.000+08:00"
-      },
-      {
-        "title": "合肥出台楼市新政：全面推行新建商品住房“交房即发证”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720911.shtml",
-        "publishedAt": "2026-10-26T09:28:55.000+08:00"
-      },
-      {
-        "title": "冷空气来袭！多地陆续供暖，这几件事要提前了解",
-        "url": "https://www.chinanews.com.cn/life/2026/10-26/10720914.shtml",
-        "publishedAt": "2026-10-26T09:26:03.000+08:00"
-      },
-      {
-        "title": "HYROX火了，凭什么？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10720913.shtml",
-        "publishedAt": "2026-10-26T09:24:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T09:42:33.284+08:00",
+    "fetchedAt": "2026-10-26T09:52:46.747+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T09:42:34.457+08:00",
+      "fetchedAt": "2026-10-26T09:52:47.357+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T09:42:34.460+08:00",
+      "fetchedAt": "2026-10-26T09:52:47.360+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T09:42:34.472+08:00",
+      "fetchedAt": "2026-10-26T09:52:47.372+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T09:42:34.472+08:00",
+      "fetchedAt": "2026-10-26T09:52:47.372+08:00",
       "error": "未启用",
       "disabled": true
     }
