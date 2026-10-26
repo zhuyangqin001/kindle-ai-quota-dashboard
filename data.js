@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T13:38:15.480+08:00",
+  "updatedAt": "2026-10-26T13:48:30.701+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 28.2,
-    "feelsLikeC": 28.1,
+    "tempC": 28.3,
+    "feelsLikeC": 28.2,
     "humidity": 42,
-    "windKph": 9.4,
+    "windKph": 8.9,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-26T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-26T13:38:15.480+08:00",
+    "observedAt": "2026-10-26T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-26T13:48:30.701+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "结果“一键输出”，科研过程还重要吗",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-26/10721061.shtml",
+        "publishedAt": "2026-10-26T13:31:52.000+08:00"
+      },
       {
         "title": "2026桂林艺术节：梦游仙境音乐节火热上演",
         "url": "https://www.chinanews.com.cn/tp/2026/10-26/10721054.shtml",
@@ -35,17 +40,12 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-26T13:26:52.000+08:00"
       },
       {
-        "title": "清迈大学孔子学院：湄公河畔二十载 中文花开泰北香",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721050.shtml",
-        "publishedAt": "2026-10-26T13:16:28.000+08:00"
-      },
-      {
-        "title": "华侨大学新传学院建院十周年：聚焦自主知识体系建设 探索国际传播创新路径",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-26/10721031.shtml",
-        "publishedAt": "2026-10-26T13:15:36.000+08:00"
+        "title": "贵州六盘水：秋意渐浓 山水怡人",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-26/1208918.shtml",
+        "publishedAt": "2026-10-26T13:18:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T13:38:12.073+08:00",
+    "fetchedAt": "2026-10-26T13:48:27.201+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T13:38:12.741+08:00",
+      "fetchedAt": "2026-10-26T13:48:27.960+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T07:17:52.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T13:38:12.743+08:00",
+      "fetchedAt": "2026-10-26T13:48:27.964+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T13:38:12.753+08:00",
+      "fetchedAt": "2026-10-26T13:48:27.974+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T13:38:12.753+08:00",
+      "fetchedAt": "2026-10-26T13:48:27.974+08:00",
       "error": "未启用",
       "disabled": true
     }
