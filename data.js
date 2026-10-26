@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-26T15:00:32.834+08:00",
+  "updatedAt": "2026-10-26T15:10:45.326+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 28.9,
-    "feelsLikeC": 28.6,
+    "tempC": 28.7,
+    "feelsLikeC": 28.5,
     "humidity": 39,
-    "windKph": 9,
+    "windKph": 8.4,
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-26T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-26T15:00:32.834+08:00",
+    "fetchedAt": "2026-10-26T15:10:45.326+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "今年前三季度河源市进出口同比增长7.8%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721104.shtml",
-        "publishedAt": "2026-10-26T14:57:29.000+08:00"
+        "title": "我国风光累计装机容量突破20亿千瓦",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721128.shtml",
+        "publishedAt": "2026-10-26T15:06:54.000+08:00"
       },
       {
-        "title": "广东茂名前三季度外贸增速全省第一",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721102.shtml",
-        "publishedAt": "2026-10-26T14:57:27.000+08:00"
+        "title": "甲状腺癌患者为何越来越年轻，医生提示这3个因素",
+        "url": "https://www.chinanews.com.cn/life/2026/10-26/10721126.shtml",
+        "publishedAt": "2026-10-26T15:04:56.000+08:00"
       },
       {
-        "title": "重庆组建首批30名民营企业现代治理专家 “一企一策”服务19家试点企业",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721106.shtml",
-        "publishedAt": "2026-10-26T14:56:05.000+08:00"
+        "title": "金观平：“四个坚持”促科技和产业双向奔赴",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721123.shtml",
+        "publishedAt": "2026-10-26T15:02:41.000+08:00"
       },
       {
-        "title": "更加积极的财政政策发力提效——中国经济三季报亮点解析",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721119.shtml",
-        "publishedAt": "2026-10-26T14:54:57.000+08:00"
+        "title": "太阳活动如何影响地球？院士解码太阳风暴",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-26/10721122.shtml",
+        "publishedAt": "2026-10-26T15:02:29.000+08:00"
       },
       {
-        "title": "斯诺克北爱尔兰公开赛落幕 凯伦·威尔逊强势夺冠",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-26/10721108.shtml",
-        "publishedAt": "2026-10-26T14:54:39.000+08:00"
+        "title": "红星照耀中国丨两代人接力，黄土坡结出“幸福果”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721121.shtml",
+        "publishedAt": "2026-10-26T15:01:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-26T15:00:29.686+08:00",
+    "fetchedAt": "2026-10-26T15:10:42.341+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-26T15:00:30.428+08:00",
+      "fetchedAt": "2026-10-26T15:10:43.087+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-26T20:00:32.000+08:00"
+          "resetAt": "2026-10-26T20:10:45.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-02T15:00:32.000+08:00"
+          "resetAt": "2026-11-02T15:10:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-26T15:00:30.431+08:00",
+      "fetchedAt": "2026-10-26T15:10:43.090+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T15:00:30.441+08:00",
+      "fetchedAt": "2026-10-26T15:10:43.100+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-26T15:00:30.441+08:00",
+      "fetchedAt": "2026-10-26T15:10:43.100+08:00",
       "error": "未启用",
       "disabled": true
     }
