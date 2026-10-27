@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T13:48:48.372+08:00",
+  "updatedAt": "2026-10-27T13:59:02.578+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-27T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T13:48:48.372+08:00",
+    "fetchedAt": "2026-10-27T13:59:02.579+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "接住年轻人的表达，红色旅游才能跳出走马观花",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721565.shtml",
-        "publishedAt": "2026-10-27T13:12:10.000+08:00"
+        "title": "国内首座内河无人值守智慧锚地通过竣工验收",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721578.shtml",
+        "publishedAt": "2026-10-27T13:51:34.000+08:00"
       },
       {
-        "title": "激发巾帼创客力量，年度第47个矩阵项目→",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721488.shtml",
-        "publishedAt": "2026-10-27T13:10:52.000+08:00"
+        "title": "从空中植保到地面耕作：90后“女飞手”秋收记",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721576.shtml",
+        "publishedAt": "2026-10-27T13:49:56.000+08:00"
       },
       {
-        "title": "前9月中国电力市场交易电量同比增长18.9%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721564.shtml",
-        "publishedAt": "2026-10-27T13:03:28.000+08:00"
+        "title": "哈尔滨市中央大街49号一栋市级历史建筑启动解危修缮",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721575.shtml",
+        "publishedAt": "2026-10-27T13:49:46.000+08:00"
       },
       {
-        "title": "苍洱放歌：院地文艺协作在大理唱响民族团结同心曲",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721505.shtml",
-        "publishedAt": "2026-10-27T12:57:27.000+08:00"
+        "title": "河北省第十一届残运会暨第七届特奥会在唐山开幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721574.shtml",
+        "publishedAt": "2026-10-27T13:49:14.000+08:00"
       },
       {
-        "title": "云岭动态第二十七期",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721480.shtml",
-        "publishedAt": "2026-10-27T12:54:13.000+08:00"
+        "title": "杨凌农高会国际客商云集 双向“掘金”西部市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721573.shtml",
+        "publishedAt": "2026-10-27T13:48:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T13:48:45.357+08:00",
+    "fetchedAt": "2026-10-27T13:58:59.003+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T13:48:46.068+08:00",
+      "fetchedAt": "2026-10-27T13:58:59.623+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T18:48:48.000+08:00"
+          "resetAt": "2026-10-27T18:59:01.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T13:48:46.071+08:00",
+      "fetchedAt": "2026-10-27T13:58:59.626+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T13:48:46.081+08:00",
+      "fetchedAt": "2026-10-27T13:58:59.634+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T13:48:46.081+08:00",
+      "fetchedAt": "2026-10-27T13:58:59.634+08:00",
       "error": "未启用",
       "disabled": true
     }
