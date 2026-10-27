@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T12:16:57.278+08:00",
+  "updatedAt": "2026-10-27T12:27:08.140+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-27T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T12:16:57.278+08:00",
+    "fetchedAt": "2026-10-27T12:27:08.140+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "为两国合作带来新机遇 我国首条至冰岛定期客运航线开通",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721553.shtml",
+        "publishedAt": "2026-10-27T12:19:21.000+08:00"
+      },
       {
         "title": "A股午评：超3700只个股飘绿，三大指数收跌",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721550.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "不能忘，常思量！84岁宋楚瑜忆唱《台湾光复纪念歌》",
         "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721460.shtml",
         "publishedAt": "2026-10-27T11:37:37.000+08:00"
-      },
-      {
-        "title": "星河湾：产业入村筑根基 教育扶智育未来",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721544.shtml",
-        "publishedAt": "2026-10-27T11:32:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T12:16:55.173+08:00",
+    "fetchedAt": "2026-10-27T12:27:06.247+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T12:16:55.937+08:00",
+      "fetchedAt": "2026-10-27T12:27:06.877+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T17:16:57.000+08:00"
+          "resetAt": "2026-10-27T17:27:07.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T12:16:55.941+08:00",
+      "fetchedAt": "2026-10-27T12:27:06.880+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T12:16:55.951+08:00",
+      "fetchedAt": "2026-10-27T12:27:06.890+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T12:16:55.951+08:00",
+      "fetchedAt": "2026-10-27T12:27:06.890+08:00",
       "error": "未启用",
       "disabled": true
     }
