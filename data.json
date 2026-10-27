@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T21:59:09.665+08:00",
+  "updatedAt": "2026-10-27T22:09:23.302+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.8,
-    "feelsLikeC": 20.1,
+    "tempC": 20.7,
+    "feelsLikeC": 20,
     "humidity": 65,
-    "windKph": 13.6,
+    "windKph": 13.5,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T21:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T21:59:09.665+08:00",
+    "observedAt": "2026-10-27T22:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T22:09:23.302+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "杭州马拉松即将开跑 报名人数首次突破30万",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721928.shtml",
-        "publishedAt": "2026-10-27T21:51:34.000+08:00"
+        "title": "欧洲华文媒体走进湖南湘江新区 探访机器人产业“出海”之路",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721913.shtml",
+        "publishedAt": "2026-10-27T22:03:43.000+08:00"
       },
       {
-        "title": "供销合作社科技成果在山东集中推介 促科研成果与产业需求精准对接",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721926.shtml",
-        "publishedAt": "2026-10-27T21:51:32.000+08:00"
+        "title": "重庆酉阳南腰界红三军革命旧址群整体对外展示开放",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721930.shtml",
+        "publishedAt": "2026-10-27T22:03:07.000+08:00"
       },
       {
-        "title": "北大怀密医学中心启用 打造首都生命健康产业新增长极",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721929.shtml",
-        "publishedAt": "2026-10-27T21:51:30.000+08:00"
+        "title": "甘肃省博物馆“扩容”：丝路展品数量实现翻番",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721916.shtml",
+        "publishedAt": "2026-10-27T22:02:27.000+08:00"
       },
       {
-        "title": "江西南康“村超”开赛 绿茵“小”场激活家具产业“大”文章",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721924.shtml",
-        "publishedAt": "2026-10-27T21:51:30.000+08:00"
+        "title": "从挖掘机穿针到人形机器人训练 欧洲华媒感受湖南智造硬核实力",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721934.shtml",
+        "publishedAt": "2026-10-27T22:01:39.000+08:00"
       },
       {
-        "title": "江西省第七届百县农耕健身大赛开赛 选手田野间乐享竞技",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721925.shtml",
-        "publishedAt": "2026-10-27T21:51:28.000+08:00"
+        "title": "《给阿嬷的情书》等8部中国内地优秀电影在澳门展映",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721932.shtml",
+        "publishedAt": "2026-10-27T22:01:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T21:59:06.180+08:00",
+    "fetchedAt": "2026-10-27T22:09:20.347+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T21:59:06.819+08:00",
+      "fetchedAt": "2026-10-27T22:09:21.075+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T02:59:08.000+08:00"
+          "resetAt": "2026-10-28T03:09:23.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 20,
-          "resetAt": "2026-11-02T21:13:57.000+08:00"
+          "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T21:59:06.821+08:00",
+      "fetchedAt": "2026-10-27T22:09:21.079+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T21:59:06.827+08:00",
+      "fetchedAt": "2026-10-27T22:09:21.088+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T21:59:06.828+08:00",
+      "fetchedAt": "2026-10-27T22:09:21.089+08:00",
       "error": "未启用",
       "disabled": true
     }
