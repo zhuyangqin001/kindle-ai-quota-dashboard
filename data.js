@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T10:55:21.533+08:00",
+  "updatedAt": "2026-10-27T11:05:33.388+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.7,
-    "feelsLikeC": 25,
-    "humidity": 43,
-    "windKph": 13.7,
+    "tempC": 26,
+    "feelsLikeC": 25.4,
+    "humidity": 42,
+    "windKph": 13.5,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T10:55:21.533+08:00",
+    "observedAt": "2026-10-27T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T11:05:33.388+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "平台“错位竞争” “双11”从份额战转向护城河之争",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721518.shtml",
-        "publishedAt": "2026-10-27T10:45:04.000+08:00"
+        "title": "四卷本《近代海河流域航运历史档案选编》面世",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721525.shtml",
+        "publishedAt": "2026-10-27T10:58:25.000+08:00"
       },
       {
-        "title": "凯恩首次荣膺金球奖 西班牙将帅大丰收",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721510.shtml",
-        "publishedAt": "2026-10-27T10:44:10.000+08:00"
+        "title": "广东举办智能制造系统运维员职业技能竞赛",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721523.shtml",
+        "publishedAt": "2026-10-27T10:57:37.000+08:00"
       },
       {
-        "title": "“观念通了，路才走得敞亮”（经济聚焦·东西部协作）",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721517.shtml",
-        "publishedAt": "2026-10-27T10:43:54.000+08:00"
+        "title": "湘江“对话”塞纳河：中欧嘉宾长沙共探精准国际传播",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721522.shtml",
+        "publishedAt": "2026-10-27T10:54:37.000+08:00"
       },
       {
-        "title": "加拿大总理指加美贸易谈判出现“轻微升温”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721498.shtml",
-        "publishedAt": "2026-10-27T10:43:06.000+08:00"
+        "title": "曼飞龙傣寨：千年慢轮陶转动“慢”生活",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721520.shtml",
+        "publishedAt": "2026-10-27T10:53:51.000+08:00"
       },
       {
-        "title": "第三届尼泊尔板球超级联赛揭幕 商业规模有望扩大",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721471.shtml",
-        "publishedAt": "2026-10-27T10:42:10.000+08:00"
+        "title": "金观平：政策接续发力激发经济动能",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721526.shtml",
+        "publishedAt": "2026-10-27T10:49:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T10:55:18.708+08:00",
+    "fetchedAt": "2026-10-27T11:05:30.642+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T10:55:19.331+08:00",
+      "fetchedAt": "2026-10-27T11:05:31.378+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T15:55:20.000+08:00"
+          "resetAt": "2026-10-27T16:05:32.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T10:55:19.334+08:00",
+      "fetchedAt": "2026-10-27T11:05:31.381+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T10:55:19.342+08:00",
+      "fetchedAt": "2026-10-27T11:05:31.391+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T10:55:19.343+08:00",
+      "fetchedAt": "2026-10-27T11:05:31.391+08:00",
       "error": "未启用",
       "disabled": true
     }
