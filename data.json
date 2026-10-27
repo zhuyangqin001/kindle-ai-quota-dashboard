@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T14:29:43.865+08:00",
+  "updatedAt": "2026-10-27T14:39:57.766+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 28,
-    "feelsLikeC": 27.3,
-    "humidity": 38,
-    "windKph": 9.6,
-    "windDir": "北风",
+    "tempC": 28.2,
+    "feelsLikeC": 27.4,
+    "humidity": 37,
+    "windKph": 9.5,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T14:29:43.865+08:00",
+    "observedAt": "2026-10-27T14:30:00.000+08:00",
+    "fetchedAt": "2026-10-27T14:39:57.766+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“巴掌好物”带来更好旅行体验",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721597.shtml",
+        "publishedAt": "2026-10-27T14:28:33.000+08:00"
+      },
+      {
+        "title": "中新健康｜植入3年，全球首例微创硬膜外脑机接口受试者康复情况公布",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721569.shtml",
+        "publishedAt": "2026-10-27T14:28:17.000+08:00"
+      },
+      {
+        "title": "畅通外籍人员来华“第一站” 中国银行多维金融创新护航2026深圳APEC盛会",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721570.shtml",
+        "publishedAt": "2026-10-27T14:25:38.000+08:00"
+      },
+      {
+        "title": "中新健康 | 34岁女士子宫里长满肌瘤，到底得了啥病？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721567.shtml",
+        "publishedAt": "2026-10-27T14:23:18.000+08:00"
+      },
+      {
         "title": "逾340家展商汇聚香港第21届国际环保博览 展示环球绿色科技",
         "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-27/1208990.shtml",
         "publishedAt": "2026-10-27T14:13:18.000+08:00"
-      },
-      {
-        "title": "APEC采购商广交会“淘金” 中国智能家居热销亚太",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721566.shtml",
-        "publishedAt": "2026-10-27T13:59:15.000+08:00"
-      },
-      {
-        "title": "2026青科会AI时代青年科学家创业创新生态论坛举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721584.shtml",
-        "publishedAt": "2026-10-27T13:58:23.000+08:00"
-      },
-      {
-        "title": "“十五五”期间四川从四方面拓宽农民工就业增收渠道",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721582.shtml",
-        "publishedAt": "2026-10-27T13:55:07.000+08:00"
-      },
-      {
-        "title": "解读《重庆市城市规划管理规定》：让山城“显山露水”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721581.shtml",
-        "publishedAt": "2026-10-27T13:54:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T14:29:39.595+08:00",
+    "fetchedAt": "2026-10-27T14:39:54.659+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T14:29:40.401+08:00",
+      "fetchedAt": "2026-10-27T14:39:55.424+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,7 +63,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 47,
+          "usedPct": 50,
           "resetAt": "2026-10-27T19:03:06.000+08:00"
         },
         {
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T14:29:40.405+08:00",
+      "fetchedAt": "2026-10-27T14:39:55.427+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T14:29:40.416+08:00",
+      "fetchedAt": "2026-10-27T14:39:55.437+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T14:29:40.416+08:00",
+      "fetchedAt": "2026-10-27T14:39:55.437+08:00",
       "error": "未启用",
       "disabled": true
     }
