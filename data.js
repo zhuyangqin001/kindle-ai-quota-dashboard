@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T12:57:41.643+08:00",
+  "updatedAt": "2026-10-27T13:07:53.413+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 27.2,
-    "feelsLikeC": 26.9,
+    "tempC": 27.3,
+    "feelsLikeC": 27,
     "humidity": 39,
-    "windKph": 12.4,
+    "windKph": 12.1,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T12:57:41.643+08:00",
+    "observedAt": "2026-10-27T13:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T13:07:53.413+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "前9月中国电力市场交易电量同比增长18.9%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721564.shtml",
+        "publishedAt": "2026-10-27T13:03:28.000+08:00"
+      },
+      {
+        "title": "苍洱放歌：院地文艺协作在大理唱响民族团结同心曲",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721505.shtml",
+        "publishedAt": "2026-10-27T12:57:27.000+08:00"
+      },
       {
         "title": "云岭动态第二十七期",
         "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721480.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "新疆地毯织造技艺专题展在山东省文化馆启幕",
         "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721495.shtml",
         "publishedAt": "2026-10-27T12:51:57.000+08:00"
-      },
-      {
-        "title": "竹叶青“聆竹”进驻钟楼街 让草本露酒重新成为东方生活接口",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721478.shtml",
-        "publishedAt": "2026-10-27T12:48:35.000+08:00"
-      },
-      {
-        "title": "民盟辽宁省委会赴天德镇开展“烛光行动”中考备考辅导活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721463.shtml",
-        "publishedAt": "2026-10-27T12:45:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T12:57:38.855+08:00",
+    "fetchedAt": "2026-10-27T13:07:51.105+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T12:57:39.456+08:00",
+      "fetchedAt": "2026-10-27T13:07:51.830+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T17:57:41.000+08:00"
+          "resetAt": "2026-10-27T18:07:53.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T12:57:39.459+08:00",
+      "fetchedAt": "2026-10-27T13:07:51.834+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T12:57:39.466+08:00",
+      "fetchedAt": "2026-10-27T13:07:51.844+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T12:57:39.467+08:00",
+      "fetchedAt": "2026-10-27T13:07:51.844+08:00",
       "error": "未启用",
       "disabled": true
     }
