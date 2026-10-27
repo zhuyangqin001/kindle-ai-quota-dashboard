@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T13:59:02.578+08:00",
+  "updatedAt": "2026-10-27T14:09:16.528+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 27.7,
-    "feelsLikeC": 27.3,
-    "humidity": 39,
-    "windKph": 10.3,
+    "tempC": 27.8,
+    "feelsLikeC": 27.4,
+    "humidity": 38,
+    "windKph": 9.9,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T13:59:02.579+08:00",
+    "observedAt": "2026-10-27T14:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T14:09:16.528+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国内首座内河无人值守智慧锚地通过竣工验收",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721578.shtml",
-        "publishedAt": "2026-10-27T13:51:34.000+08:00"
+        "title": "APEC采购商广交会“淘金” 中国智能家居热销亚太",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721566.shtml",
+        "publishedAt": "2026-10-27T13:59:15.000+08:00"
       },
       {
-        "title": "从空中植保到地面耕作：90后“女飞手”秋收记",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721576.shtml",
-        "publishedAt": "2026-10-27T13:49:56.000+08:00"
+        "title": "2026青科会AI时代青年科学家创业创新生态论坛举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721584.shtml",
+        "publishedAt": "2026-10-27T13:58:23.000+08:00"
       },
       {
-        "title": "哈尔滨市中央大街49号一栋市级历史建筑启动解危修缮",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721575.shtml",
-        "publishedAt": "2026-10-27T13:49:46.000+08:00"
+        "title": "“十五五”期间四川从四方面拓宽农民工就业增收渠道",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721582.shtml",
+        "publishedAt": "2026-10-27T13:55:07.000+08:00"
       },
       {
-        "title": "河北省第十一届残运会暨第七届特奥会在唐山开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721574.shtml",
-        "publishedAt": "2026-10-27T13:49:14.000+08:00"
+        "title": "解读《重庆市城市规划管理规定》：让山城“显山露水”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721581.shtml",
+        "publishedAt": "2026-10-27T13:54:37.000+08:00"
       },
       {
-        "title": "杨凌农高会国际客商云集 双向“掘金”西部市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721573.shtml",
-        "publishedAt": "2026-10-27T13:48:30.000+08:00"
+        "title": "“十五五”期间四川将加快推进农业农村现代化",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721580.shtml",
+        "publishedAt": "2026-10-27T13:53:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T13:58:59.003+08:00",
+    "fetchedAt": "2026-10-27T14:09:13.191+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T13:58:59.623+08:00",
+      "fetchedAt": "2026-10-27T14:09:13.824+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-27T18:59:01.000+08:00"
+          "usedPct": 5,
+          "resetAt": "2026-10-27T19:03:06.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 4,
-          "resetAt": "2026-11-02T21:13:57.000+08:00"
+          "usedPct": 5,
+          "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T13:58:59.626+08:00",
+      "fetchedAt": "2026-10-27T14:09:13.826+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T13:58:59.634+08:00",
+      "fetchedAt": "2026-10-27T14:09:13.834+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T13:58:59.634+08:00",
+      "fetchedAt": "2026-10-27T14:09:13.834+08:00",
       "error": "未启用",
       "disabled": true
     }
