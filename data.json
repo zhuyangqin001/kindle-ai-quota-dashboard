@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T22:40:11.289+08:00",
+  "updatedAt": "2026-10-27T23:00:32.203+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.4,
-    "feelsLikeC": 19.7,
-    "humidity": 67,
-    "windKph": 14,
+    "tempC": 20.2,
+    "feelsLikeC": 19.3,
+    "humidity": 68,
+    "windKph": 14.8,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T22:40:11.290+08:00",
+    "observedAt": "2026-10-27T23:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T23:00:32.203+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "首届“飞阅中国”低空经济应用场景大赛决赛在重庆梁平举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721955.shtml",
+        "publishedAt": "2026-10-27T22:49:34.000+08:00"
+      },
+      {
+        "title": "全球和合文化实践案例发布 “和合之花”跨越山海次第开",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721954.shtml",
+        "publishedAt": "2026-10-27T22:49:04.000+08:00"
+      },
+      {
+        "title": "从佛塔到酒香：泰国东北部传统文化焕发新活力",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721953.shtml",
+        "publishedAt": "2026-10-27T22:37:47.000+08:00"
+      },
+      {
+        "title": "2026中欧企业家青岛论坛在青岛西海岸新区举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721952.shtml",
+        "publishedAt": "2026-10-27T22:36:33.000+08:00"
+      },
+      {
         "title": "贵州：“爱心厨房”暖了医院门口 百余份午餐免费送病患",
         "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721950.shtml",
         "publishedAt": "2026-10-27T22:24:54.000+08:00"
-      },
-      {
-        "title": "九旬老兵大别山守墓58年：“他们没有亲人，我就做他们的亲人”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721947.shtml",
-        "publishedAt": "2026-10-27T22:22:52.000+08:00"
-      },
-      {
-        "title": "以质量强链赋能产业升级 多省区齐聚宁夏共探煤化工绿色转型之路",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721946.shtml",
-        "publishedAt": "2026-10-27T22:22:42.000+08:00"
-      },
-      {
-        "title": "女子网坛传奇选手大威廉姆斯征战广网女单正赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721876.shtml",
-        "publishedAt": "2026-10-27T22:22:40.000+08:00"
-      },
-      {
-        "title": "山东企业谋“抱团出海”新路径 中亚绿色经济赛道受关注",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721945.shtml",
-        "publishedAt": "2026-10-27T22:22:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T22:40:06.595+08:00",
+    "fetchedAt": "2026-10-27T23:00:28.058+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T22:40:07.303+08:00",
+      "fetchedAt": "2026-10-27T23:00:28.705+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T03:40:09.000+08:00"
+          "resetAt": "2026-10-28T04:00:32.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 20,
-          "resetAt": "2026-11-02T21:13:58.000+08:00"
+          "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T22:40:07.306+08:00",
+      "fetchedAt": "2026-10-27T23:00:28.708+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T22:40:07.316+08:00",
+      "fetchedAt": "2026-10-27T23:00:28.718+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T22:40:07.317+08:00",
+      "fetchedAt": "2026-10-27T23:00:28.718+08:00",
       "error": "未启用",
       "disabled": true
     }
