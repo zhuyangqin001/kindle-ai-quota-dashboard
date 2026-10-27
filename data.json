@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T20:57:38.702+08:00",
+  "updatedAt": "2026-10-27T21:07:51.535+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.4,
-    "feelsLikeC": 20.6,
-    "humidity": 63,
+    "tempC": 21.2,
+    "feelsLikeC": 20.5,
+    "humidity": 64,
     "windKph": 14,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T20:57:38.702+08:00",
+    "observedAt": "2026-10-27T21:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T21:07:51.535+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "四川蒲江：把“好气候”变成城市“贵资产”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721851.shtml",
-        "publishedAt": "2026-10-27T20:51:49.000+08:00"
+        "title": "南开大学启动“主辅一体”人才培养新模式 2027年秋季起逐步面向全校本科生铺开",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721872.shtml",
+        "publishedAt": "2026-10-27T21:03:22.000+08:00"
       },
       {
-        "title": "3.43万亿元！今年前三季度中部地区外贸进出口值创新高 “亮点”涌现",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721858.shtml",
-        "publishedAt": "2026-10-27T20:49:27.000+08:00"
+        "title": "跨越山海赴太极之约 俄罗斯友人山西新绛拜师习拳",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721871.shtml",
+        "publishedAt": "2026-10-27T21:03:20.000+08:00"
       },
       {
-        "title": "从29.1%的增速，感受智能制造的澎湃动能",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721857.shtml",
-        "publishedAt": "2026-10-27T20:47:39.000+08:00"
+        "title": "湖南省这家“不卖商品”的超市：用真实场景为新技术“找婆家”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721869.shtml",
+        "publishedAt": "2026-10-27T21:03:16.000+08:00"
       },
       {
-        "title": "没有“农村”的深圳，正成为农业出海“接口”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721855.shtml",
-        "publishedAt": "2026-10-27T20:41:37.000+08:00"
+        "title": "话剧《主角》亮相桂林艺术节 秦腔沉浮动人",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721865.shtml",
+        "publishedAt": "2026-10-27T21:03:14.000+08:00"
       },
       {
-        "title": "“生命三角区”存误区 科学避险记牢这几点",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721856.shtml",
-        "publishedAt": "2026-10-27T20:40:05.000+08:00"
+        "title": "中国科学家揭示“理论禁区”幸存系外行星",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721866.shtml",
+        "publishedAt": "2026-10-27T21:03:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T20:57:34.701+08:00",
+    "fetchedAt": "2026-10-27T21:07:48.458+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T20:57:35.407+08:00",
+      "fetchedAt": "2026-10-27T21:07:49.109+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T01:57:37.000+08:00"
+          "resetAt": "2026-10-28T02:07:51.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T20:57:35.410+08:00",
+      "fetchedAt": "2026-10-27T21:07:49.111+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T20:57:35.415+08:00",
+      "fetchedAt": "2026-10-27T21:07:49.121+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T20:57:35.415+08:00",
+      "fetchedAt": "2026-10-27T21:07:49.122+08:00",
       "error": "未启用",
       "disabled": true
     }
