@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T17:33:25.402+08:00",
+  "updatedAt": "2026-10-27T17:43:37.904+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-27T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T17:33:25.402+08:00",
+    "fetchedAt": "2026-10-27T17:43:37.904+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "俄乌在奥列什基地区实施停火",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721746.shtml",
-        "publishedAt": "2026-10-27T17:28:58.000+08:00"
+        "title": "塞尔维亚议会选举初步结果公布",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721696.shtml",
+        "publishedAt": "2026-10-27T17:39:03.000+08:00"
       },
       {
-        "title": "中国—东盟“玩数学”STEM创新实践学生作品表彰活动在渝举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721741.shtml",
-        "publishedAt": "2026-10-27T17:28:22.000+08:00"
+        "title": "2026年9月全国查处违反中央八项规定精神问题32940起",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721751.shtml",
+        "publishedAt": "2026-10-27T17:38:31.000+08:00"
       },
       {
-        "title": "大医生来了｜郭人花：让肺癌患者活得长，也活得好",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721737.shtml",
-        "publishedAt": "2026-10-27T17:25:32.000+08:00"
+        "title": "30余件名家力作与将帅墨宝亮相荣宝斋 一展书画里的长征",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721744.shtml",
+        "publishedAt": "2026-10-27T17:34:11.000+08:00"
       },
       {
-        "title": "半夜被冻醒？全国加被子地图登场 看你家盖多厚的被子好入眠",
-        "url": "https://www.chinanews.com.cn/life/2026/10-27/10721748.shtml",
-        "publishedAt": "2026-10-27T17:25:26.000+08:00"
+        "title": "第七届中国—中东欧国家中小企业跨境撮合对接会举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721745.shtml",
+        "publishedAt": "2026-10-27T17:33:21.000+08:00"
       },
       {
-        "title": "新规来了！不得播放开机广告，看电视更省心",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721740.shtml",
-        "publishedAt": "2026-10-27T17:18:38.000+08:00"
+        "title": "山西孝义皮影戏古村开演 方寸幕布演绎非遗魅力",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721743.shtml",
+        "publishedAt": "2026-10-27T17:30:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T17:33:23.226+08:00",
+    "fetchedAt": "2026-10-27T17:43:35.051+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T17:33:23.919+08:00",
+      "fetchedAt": "2026-10-27T17:43:35.914+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T17:33:23.922+08:00",
+      "fetchedAt": "2026-10-27T17:43:35.917+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T17:33:23.931+08:00",
+      "fetchedAt": "2026-10-27T17:43:35.927+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T17:33:23.931+08:00",
+      "fetchedAt": "2026-10-27T17:43:35.928+08:00",
       "error": "未启用",
       "disabled": true
     }
