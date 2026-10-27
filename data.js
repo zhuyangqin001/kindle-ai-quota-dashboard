@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T21:18:09.218+08:00",
+  "updatedAt": "2026-10-27T21:28:23.322+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-27T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T21:18:09.218+08:00",
+    "fetchedAt": "2026-10-27T21:28:23.322+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "委内瑞拉推进司法改革 最高法院改组工作取得进展",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721868.shtml",
-        "publishedAt": "2026-10-27T21:12:30.000+08:00"
+        "title": "智能建造产业链先进成果在湖北集中展示",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721890.shtml",
+        "publishedAt": "2026-10-27T21:22:57.000+08:00"
       },
       {
-        "title": "宁夏实现公募REITs“零的突破”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721877.shtml",
-        "publishedAt": "2026-10-27T21:10:54.000+08:00"
+        "title": "海外华文媒体走进上合示范区 解码文旅科创融合发展路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721892.shtml",
+        "publishedAt": "2026-10-27T21:21:11.000+08:00"
       },
       {
-        "title": "远离传销守护幸福 2026长三角禁传宣传季在沪启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721875.shtml",
-        "publishedAt": "2026-10-27T21:10:52.000+08:00"
+        "title": "四川金堂：一池秋蟹鲜 乡村产业兴",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721883.shtml",
+        "publishedAt": "2026-10-27T21:20:37.000+08:00"
       },
       {
-        "title": "云南举行纪念长征胜利90周年网络主题宣传活动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721879.shtml",
-        "publishedAt": "2026-10-27T21:10:40.000+08:00"
+        "title": "场上拼搏场下相拥 云南各族健儿携手共赴民族大联欢",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721891.shtml",
+        "publishedAt": "2026-10-27T21:19:45.000+08:00"
       },
       {
-        "title": "南航新开广州至亳州直飞航线",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721880.shtml",
-        "publishedAt": "2026-10-27T21:10:06.000+08:00"
+        "title": "从智能监测到天然甜苷 欧洲华媒代表长沙观察湘企“控糖”实践",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721887.shtml",
+        "publishedAt": "2026-10-27T21:18:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T21:18:03.177+08:00",
+    "fetchedAt": "2026-10-27T21:28:19.150+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T21:18:03.910+08:00",
+      "fetchedAt": "2026-10-27T21:28:19.878+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T02:18:08.000+08:00"
+          "resetAt": "2026-10-28T02:28:22.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T21:18:03.913+08:00",
+      "fetchedAt": "2026-10-27T21:28:19.881+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T21:18:03.923+08:00",
+      "fetchedAt": "2026-10-27T21:28:19.890+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T21:18:03.923+08:00",
+      "fetchedAt": "2026-10-27T21:28:19.890+08:00",
       "error": "未启用",
       "disabled": true
     }
