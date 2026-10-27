@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T21:38:39.200+08:00",
+  "updatedAt": "2026-10-27T21:48:54.628+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.9,
-    "feelsLikeC": 20.2,
-    "humidity": 64,
+    "tempC": 20.8,
+    "feelsLikeC": 20.1,
+    "humidity": 65,
     "windKph": 13.6,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T21:38:39.200+08:00",
+    "observedAt": "2026-10-27T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-27T21:48:54.628+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "海外侨青走进云南智慧工厂 近距离感知中国“智造”",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-27/10721903.shtml",
-        "publishedAt": "2026-10-27T21:33:17.000+08:00"
+        "title": "印尼与新加坡将成立联合工作组追查涉林火企业",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721914.shtml",
+        "publishedAt": "2026-10-27T21:43:10.000+08:00"
       },
       {
-        "title": "天津：2030年PM2.5年均浓度控制在32.9微克/立方米",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721904.shtml",
-        "publishedAt": "2026-10-27T21:33:11.000+08:00"
+        "title": "西藏航空西宁至西双版纳直飞航线通航",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721905.shtml",
+        "publishedAt": "2026-10-27T21:42:16.000+08:00"
       },
       {
-        "title": "广东出台深化金融支持现代化农业产业高质量发展举措十三条",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721898.shtml",
-        "publishedAt": "2026-10-27T21:33:01.000+08:00"
+        "title": "中俄基础教育界代表在渝交流 发布《AI赋能基础教育合作倡议》",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-27/10721908.shtml",
+        "publishedAt": "2026-10-27T21:40:28.000+08:00"
       },
       {
-        "title": "从“走直线”到“会感知” 智能农机“看”向田间",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721897.shtml",
-        "publishedAt": "2026-10-27T21:32:53.000+08:00"
+        "title": "宁夏织密支农资金监管防线 推动惠农资金从“拨得出”转向“管得好”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721909.shtml",
+        "publishedAt": "2026-10-27T21:39:04.000+08:00"
       },
       {
-        "title": "广西友谊关口岸今年进出境车辆已逾100万",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-27/10721900.shtml",
-        "publishedAt": "2026-10-27T21:32:47.000+08:00"
+        "title": "聚焦水生态环境保护 第十二期环境新闻茶座在北京举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721911.shtml",
+        "publishedAt": "2026-10-27T21:38:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T21:38:35.592+08:00",
+    "fetchedAt": "2026-10-27T21:48:51.038+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T21:38:36.346+08:00",
+      "fetchedAt": "2026-10-27T21:48:51.783+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T02:38:39.000+08:00"
+          "resetAt": "2026-10-28T02:48:54.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T21:38:36.349+08:00",
+      "fetchedAt": "2026-10-27T21:48:51.786+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T21:38:36.359+08:00",
+      "fetchedAt": "2026-10-27T21:48:51.793+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T21:38:36.359+08:00",
+      "fetchedAt": "2026-10-27T21:48:51.793+08:00",
       "error": "未启用",
       "disabled": true
     }
