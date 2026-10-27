@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T16:42:35.476+08:00",
+  "updatedAt": "2026-10-27T17:13:00.537+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 26.8,
-    "feelsLikeC": 25.1,
-    "humidity": 42,
-    "windKph": 17.8,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 25.3,
+    "feelsLikeC": 23.4,
+    "humidity": 50,
+    "windKph": 21.2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T16:42:35.476+08:00",
+    "observedAt": "2026-10-27T17:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T17:13:00.538+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "【外链】通栏图：中国共产党第二十届中央委员会第五次全体会议",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-27/10721721.shtml",
-        "publishedAt": "2026-10-27T16:38:02.000+08:00"
+        "title": "“奔乡游”何以热起来",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721738.shtml",
+        "publishedAt": "2026-10-27T17:08:53.000+08:00"
       },
       {
-        "title": "贵州威宁：智能分选助力苹果精准分级销往海内外",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721701.shtml",
-        "publishedAt": "2026-10-27T16:37:14.000+08:00"
+        "title": "从长征足迹里读懂中国发展智慧（国际论坛）",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721736.shtml",
+        "publishedAt": "2026-10-27T17:04:33.000+08:00"
       },
       {
-        "title": "各族青年同心守护景迈山",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721722.shtml",
-        "publishedAt": "2026-10-27T16:36:29.000+08:00"
+        "title": "中国证监会原党委委员王会民一审被判死缓",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721735.shtml",
+        "publishedAt": "2026-10-27T17:01:01.000+08:00"
       },
       {
-        "title": "青海德令哈光热发电示范（试点）项目三座吸热塔同步封顶",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721714.shtml",
-        "publishedAt": "2026-10-27T16:35:23.000+08:00"
+        "title": "金秋好“丰”景！智能农机助力多地秋收跑出“加速度”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721734.shtml",
+        "publishedAt": "2026-10-27T16:58:33.000+08:00"
       },
       {
-        "title": "刚果（金）本轮埃博拉疫情确诊病例超1万例",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721720.shtml",
-        "publishedAt": "2026-10-27T16:33:35.000+08:00"
+        "title": "西安让外贸增长扎根产业沃土",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721730.shtml",
+        "publishedAt": "2026-10-27T16:58:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T16:42:31.727+08:00",
+    "fetchedAt": "2026-10-27T17:12:57.116+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T16:42:32.421+08:00",
+      "fetchedAt": "2026-10-27T17:12:57.855+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 97,
-          "resetAt": "2026-10-27T19:03:06.000+08:00"
+          "resetAt": "2026-10-27T19:03:07.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T16:42:32.423+08:00",
+      "fetchedAt": "2026-10-27T17:12:57.858+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T16:42:32.431+08:00",
+      "fetchedAt": "2026-10-27T17:12:57.868+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T16:42:32.432+08:00",
+      "fetchedAt": "2026-10-27T17:12:57.868+08:00",
       "error": "未启用",
       "disabled": true
     }
