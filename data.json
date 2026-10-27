@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27T21:28:23.322+08:00",
+  "updatedAt": "2026-10-27T21:38:39.200+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.1,
-    "feelsLikeC": 20.3,
+    "tempC": 20.9,
+    "feelsLikeC": 20.2,
     "humidity": 64,
-    "windKph": 13.9,
+    "windKph": 13.6,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T21:28:23.322+08:00",
+    "observedAt": "2026-10-27T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-27T21:38:39.200+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "智能建造产业链先进成果在湖北集中展示",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721890.shtml",
-        "publishedAt": "2026-10-27T21:22:57.000+08:00"
+        "title": "海外侨青走进云南智慧工厂 近距离感知中国“智造”",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-27/10721903.shtml",
+        "publishedAt": "2026-10-27T21:33:17.000+08:00"
       },
       {
-        "title": "海外华文媒体走进上合示范区 解码文旅科创融合发展路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721892.shtml",
-        "publishedAt": "2026-10-27T21:21:11.000+08:00"
+        "title": "天津：2030年PM2.5年均浓度控制在32.9微克/立方米",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721904.shtml",
+        "publishedAt": "2026-10-27T21:33:11.000+08:00"
       },
       {
-        "title": "四川金堂：一池秋蟹鲜 乡村产业兴",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721883.shtml",
-        "publishedAt": "2026-10-27T21:20:37.000+08:00"
+        "title": "广东出台深化金融支持现代化农业产业高质量发展举措十三条",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721898.shtml",
+        "publishedAt": "2026-10-27T21:33:01.000+08:00"
       },
       {
-        "title": "场上拼搏场下相拥 云南各族健儿携手共赴民族大联欢",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721891.shtml",
-        "publishedAt": "2026-10-27T21:19:45.000+08:00"
+        "title": "从“走直线”到“会感知” 智能农机“看”向田间",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721897.shtml",
+        "publishedAt": "2026-10-27T21:32:53.000+08:00"
       },
       {
-        "title": "从智能监测到天然甜苷 欧洲华媒代表长沙观察湘企“控糖”实践",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721887.shtml",
-        "publishedAt": "2026-10-27T21:18:31.000+08:00"
+        "title": "广西友谊关口岸今年进出境车辆已逾100万",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-27/10721900.shtml",
+        "publishedAt": "2026-10-27T21:32:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T21:28:19.150+08:00",
+    "fetchedAt": "2026-10-27T21:38:35.592+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T21:28:19.878+08:00",
+      "fetchedAt": "2026-10-27T21:38:36.346+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T02:28:22.000+08:00"
+          "resetAt": "2026-10-28T02:38:39.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T21:28:19.881+08:00",
+      "fetchedAt": "2026-10-27T21:38:36.349+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T21:28:19.890+08:00",
+      "fetchedAt": "2026-10-27T21:38:36.359+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T21:28:19.890+08:00",
+      "fetchedAt": "2026-10-27T21:38:36.359+08:00",
       "error": "未启用",
       "disabled": true
     }
