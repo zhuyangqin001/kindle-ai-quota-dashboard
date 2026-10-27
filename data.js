@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T20:47:24.900+08:00",
+  "updatedAt": "2026-10-27T20:57:38.702+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-27T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T20:47:24.900+08:00",
+    "fetchedAt": "2026-10-27T20:57:38.702+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "四川蒲江：把“好气候”变成城市“贵资产”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721851.shtml",
+        "publishedAt": "2026-10-27T20:51:49.000+08:00"
+      },
+      {
+        "title": "3.43万亿元！今年前三季度中部地区外贸进出口值创新高 “亮点”涌现",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721858.shtml",
+        "publishedAt": "2026-10-27T20:49:27.000+08:00"
+      },
+      {
+        "title": "从29.1%的增速，感受智能制造的澎湃动能",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721857.shtml",
+        "publishedAt": "2026-10-27T20:47:39.000+08:00"
+      },
+      {
+        "title": "没有“农村”的深圳，正成为农业出海“接口”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721855.shtml",
+        "publishedAt": "2026-10-27T20:41:37.000+08:00"
+      },
+      {
         "title": "“生命三角区”存误区 科学避险记牢这几点",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721856.shtml",
         "publishedAt": "2026-10-27T20:40:05.000+08:00"
-      },
-      {
-        "title": "甘肃省博物馆扩容亮相吐谷浑珍贵文物：展唐代丝路文明交融之美",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721837.shtml",
-        "publishedAt": "2026-10-27T20:30:58.000+08:00"
-      },
-      {
-        "title": "河北邯郸：谷物文创赋能乡村 校地协作助农增收",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721809.shtml",
-        "publishedAt": "2026-10-27T20:26:10.000+08:00"
-      },
-      {
-        "title": "校企携手共育数智企业法务人才",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-27/10721854.shtml",
-        "publishedAt": "2026-10-27T20:26:02.000+08:00"
-      },
-      {
-        "title": "广西桂北“粮仓”丰收在即",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721804.shtml",
-        "publishedAt": "2026-10-27T20:23:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T20:47:21.027+08:00",
+    "fetchedAt": "2026-10-27T20:57:34.701+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T20:47:21.736+08:00",
+      "fetchedAt": "2026-10-27T20:57:35.407+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T01:47:23.000+08:00"
+          "resetAt": "2026-10-28T01:57:37.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T20:47:21.739+08:00",
+      "fetchedAt": "2026-10-27T20:57:35.410+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T20:47:21.749+08:00",
+      "fetchedAt": "2026-10-27T20:57:35.415+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T20:47:21.749+08:00",
+      "fetchedAt": "2026-10-27T20:57:35.415+08:00",
       "error": "未启用",
       "disabled": true
     }
