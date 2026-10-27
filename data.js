@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T07:30:44.604+08:00",
+  "updatedAt": "2026-10-28T07:40:55.692+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-28T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T07:30:44.605+08:00",
+    "fetchedAt": "2026-10-28T07:40:55.692+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "微短剧出海：融入当地语境，才能走得更远",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721973.shtml",
+        "publishedAt": "2026-10-28T07:33:05.000+08:00"
+      },
       {
         "title": "全球AI投资持续升温，增长与风险如何平衡",
         "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721972.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "我的消费交给陌生人“审批”？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721969.shtml",
         "publishedAt": "2026-10-28T07:10:33.000+08:00"
-      },
-      {
-        "title": "以色列大选出口民调出炉！两大阵营均未过半，谁能组阁成悬念",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721968.shtml",
-        "publishedAt": "2026-10-28T07:05:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T07:30:42.362+08:00",
+    "fetchedAt": "2026-10-28T07:40:53.689+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T07:30:43.120+08:00",
+      "fetchedAt": "2026-10-28T07:40:54.421+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T12:30:44.000+08:00"
+          "resetAt": "2026-10-28T12:40:55.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T07:30:43.123+08:00",
+      "fetchedAt": "2026-10-28T07:40:54.424+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T07:30:43.132+08:00",
+      "fetchedAt": "2026-10-28T07:40:54.434+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T07:30:43.133+08:00",
+      "fetchedAt": "2026-10-28T07:40:54.434+08:00",
       "error": "未启用",
       "disabled": true
     }
