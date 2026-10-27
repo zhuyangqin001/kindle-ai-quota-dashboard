@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T09:13:23.678+08:00",
+  "updatedAt": "2026-10-27T09:23:34.798+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23,
-    "feelsLikeC": 21.6,
-    "humidity": 53,
-    "windKph": 15.4,
+    "tempC": 23.5,
+    "feelsLikeC": 22.1,
+    "humidity": 51,
+    "windKph": 15.3,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T09:13:23.679+08:00",
+    "observedAt": "2026-10-27T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-27T09:23:34.798+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2027年AI值得关注的五大趋势",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721464.shtml",
+        "publishedAt": "2026-10-27T09:12:09.000+08:00"
+      },
       {
         "title": "量质齐升，中国外贸何以表现强劲？",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721461.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "【我的天涯海角】“坦克兵王”丁辉：5次阅兵打头车，坦克是“有生命的”",
         "url": "http://www.chinanews.com.cn/mil/shipin/cns/2026/10-27/news1073044.shtml",
         "publishedAt": "2026-10-27T08:34:47.000+08:00"
-      },
-      {
-        "title": "哈里·凯恩斩获2026年金球奖",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-27/1208963.shtml",
-        "publishedAt": "2026-10-27T08:30:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T09:13:21.316+08:00",
+    "fetchedAt": "2026-10-27T09:23:32.520+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T09:13:22.054+08:00",
+      "fetchedAt": "2026-10-27T09:23:33.234+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T14:13:23.000+08:00"
+          "resetAt": "2026-10-27T14:23:34.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 4,
-          "resetAt": "2026-11-02T21:13:57.000+08:00"
+          "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T09:13:22.058+08:00",
+      "fetchedAt": "2026-10-27T09:23:33.238+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T09:13:22.067+08:00",
+      "fetchedAt": "2026-10-27T09:23:33.248+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T09:13:22.068+08:00",
+      "fetchedAt": "2026-10-27T09:23:33.248+08:00",
       "error": "未启用",
       "disabled": true
     }
