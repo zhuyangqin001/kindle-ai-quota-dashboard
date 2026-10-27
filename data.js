@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T12:27:08.140+08:00",
+  "updatedAt": "2026-10-27T12:37:22.336+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 27,
-    "feelsLikeC": 26.6,
+    "tempC": 27.1,
+    "feelsLikeC": 26.7,
     "humidity": 39,
-    "windKph": 13,
+    "windKph": 12.7,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T12:27:08.140+08:00",
+    "observedAt": "2026-10-27T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-27T12:37:22.336+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "牛肉连涨16周，涨价核心原因是啥？后市如何？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721558.shtml",
+        "publishedAt": "2026-10-27T12:31:34.000+08:00"
+      },
+      {
+        "title": "日本防灾大臣拟发“紧急呼吁” 敦促民众做好防灾准备",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721557.shtml",
+        "publishedAt": "2026-10-27T12:29:04.000+08:00"
+      },
+      {
+        "title": "“零食运动法”受到追捧，真的管用吗？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721555.shtml",
+        "publishedAt": "2026-10-27T12:27:12.000+08:00"
+      },
+      {
+        "title": "约旦空军袭击叙利亚南部致7死3伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721551.shtml",
+        "publishedAt": "2026-10-27T12:25:24.000+08:00"
+      },
+      {
         "title": "为两国合作带来新机遇 我国首条至冰岛定期客运航线开通",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721553.shtml",
         "publishedAt": "2026-10-27T12:19:21.000+08:00"
-      },
-      {
-        "title": "A股午评：超3700只个股飘绿，三大指数收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721550.shtml",
-        "publishedAt": "2026-10-27T12:07:11.000+08:00"
-      },
-      {
-        "title": "日本福岛县近海发生4.6级地震 多地有震感",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721547.shtml",
-        "publishedAt": "2026-10-27T11:40:35.000+08:00"
-      },
-      {
-        "title": "俄罗斯新西伯利亚直飞成都首个航班飞抵",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721524.shtml",
-        "publishedAt": "2026-10-27T11:39:47.000+08:00"
-      },
-      {
-        "title": "不能忘，常思量！84岁宋楚瑜忆唱《台湾光复纪念歌》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721460.shtml",
-        "publishedAt": "2026-10-27T11:37:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T12:27:06.247+08:00",
+    "fetchedAt": "2026-10-27T12:37:18.312+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T12:27:06.877+08:00",
+      "fetchedAt": "2026-10-27T12:37:18.952+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T17:27:07.000+08:00"
+          "resetAt": "2026-10-27T17:37:21.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T12:27:06.880+08:00",
+      "fetchedAt": "2026-10-27T12:37:18.954+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T12:27:06.890+08:00",
+      "fetchedAt": "2026-10-27T12:37:18.963+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T12:27:06.890+08:00",
+      "fetchedAt": "2026-10-27T12:37:18.963+08:00",
       "error": "未启用",
       "disabled": true
     }
