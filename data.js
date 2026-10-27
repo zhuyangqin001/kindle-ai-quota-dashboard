@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T23:41:31.566+08:00",
+  "updatedAt": "2026-10-27T23:51:48.329+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20,
-    "feelsLikeC": 18.9,
+    "tempC": 19.9,
+    "feelsLikeC": 18.7,
     "humidity": 68,
-    "windKph": 15.9,
+    "windKph": 16.5,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T23:41:31.566+08:00",
+    "observedAt": "2026-10-27T23:45:00.000+08:00",
+    "fetchedAt": "2026-10-27T23:51:48.329+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "韩国前总统尹锡悦妻子金建希将被羁押至年底",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721958.shtml",
+        "publishedAt": "2026-10-27T23:48:23.000+08:00"
+      },
       {
         "title": "【长征胜利90周年】重庆酉阳南腰界红三军革命旧址群整体对外展示开放",
         "url": "http://www.chinanews.com.cn/gn/shipin/cns-d/2026/10-27/news1073132.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "从佛塔到酒香：泰国东北部传统文化焕发新活力",
         "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721953.shtml",
         "publishedAt": "2026-10-27T22:37:47.000+08:00"
-      },
-      {
-        "title": "2026中欧企业家青岛论坛在青岛西海岸新区举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721952.shtml",
-        "publishedAt": "2026-10-27T22:36:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T23:41:27.167+08:00",
+    "fetchedAt": "2026-10-27T23:51:44.510+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T23:41:27.916+08:00",
+      "fetchedAt": "2026-10-27T23:51:45.272+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T04:41:30.000+08:00"
+          "resetAt": "2026-10-28T04:51:47.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 20,
-          "resetAt": "2026-11-02T21:13:58.000+08:00"
+          "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T23:41:27.919+08:00",
+      "fetchedAt": "2026-10-27T23:51:45.275+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T23:41:27.928+08:00",
+      "fetchedAt": "2026-10-27T23:51:45.285+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T23:41:27.929+08:00",
+      "fetchedAt": "2026-10-27T23:51:45.286+08:00",
       "error": "未启用",
       "disabled": true
     }
