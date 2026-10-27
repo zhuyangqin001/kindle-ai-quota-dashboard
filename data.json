@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T06:19:29.367+08:00",
+  "updatedAt": "2026-10-28T06:29:40.716+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-28T06:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T06:19:29.367+08:00",
+    "fetchedAt": "2026-10-28T06:29:40.716+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "民政部部署“寒冬送温暖”专项救助行动",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721963.shtml",
+        "publishedAt": "2026-10-28T06:26:21.000+08:00"
+      },
+      {
+        "title": "矿产资源“户口簿”30年来首次大修订 174个矿种为何要重新登记",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721962.shtml",
+        "publishedAt": "2026-10-28T06:23:03.000+08:00"
+      },
       {
         "title": "天然气出口国论坛第八次峰会发表《莫斯科宣言》",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721961.shtml",
@@ -33,19 +43,9 @@
         "title": "全国短池游泳锦标赛：张雨霏、张展硕创新纪录 徐嘉余率队破纪录",
         "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721959.shtml",
         "publishedAt": "2026-10-27T23:53:13.000+08:00"
-      },
-      {
-        "title": "韩国前总统尹锡悦妻子金建希将被羁押至年底",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721958.shtml",
-        "publishedAt": "2026-10-27T23:48:23.000+08:00"
-      },
-      {
-        "title": "【长征胜利90周年】重庆酉阳南腰界红三军革命旧址群整体对外展示开放",
-        "url": "http://www.chinanews.com.cn/gn/shipin/cns-d/2026/10-27/news1073132.shtml",
-        "publishedAt": "2026-10-27T22:57:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T06:19:26.994+08:00",
+    "fetchedAt": "2026-10-28T06:29:38.422+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T06:19:27.733+08:00",
+      "fetchedAt": "2026-10-28T06:29:39.169+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T11:19:29.000+08:00"
+          "resetAt": "2026-10-28T11:29:40.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T06:19:27.736+08:00",
+      "fetchedAt": "2026-10-28T06:29:39.172+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T06:19:27.746+08:00",
+      "fetchedAt": "2026-10-28T06:29:39.182+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T06:19:27.746+08:00",
+      "fetchedAt": "2026-10-28T06:29:39.182+08:00",
       "error": "未启用",
       "disabled": true
     }
