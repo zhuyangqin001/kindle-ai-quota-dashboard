@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T09:43:58.484+08:00",
+  "updatedAt": "2026-10-27T09:54:10.368+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.9,
-    "feelsLikeC": 22.6,
-    "humidity": 49,
-    "windKph": 14.9,
+    "tempC": 24.3,
+    "feelsLikeC": 23,
+    "humidity": 48,
+    "windKph": 14.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T09:43:58.484+08:00",
+    "observedAt": "2026-10-27T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-27T09:54:10.369+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“修补牙洞、抗幽门螺杆菌”宣传别轻信！买牙膏认准这8类",
-        "url": "https://www.chinanews.com.cn/life/2026/10-27/10721472.shtml",
-        "publishedAt": "2026-10-27T09:31:58.000+08:00"
+        "title": "10月27日央行开展4120亿元7天期逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721477.shtml",
+        "publishedAt": "2026-10-27T09:51:41.000+08:00"
       },
       {
-        "title": "机构：运营力正成为衡量住房租赁资产长期价值新尺度",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721454.shtml",
-        "publishedAt": "2026-10-27T09:31:06.000+08:00"
+        "title": "10月27日人民币对美元中间价报6.7171 下调9个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721474.shtml",
+        "publishedAt": "2026-10-27T09:51:33.000+08:00"
       },
       {
-        "title": "2026大理情歌会在“有风的地方”上演“山海和鸣”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721468.shtml",
-        "publishedAt": "2026-10-27T09:29:18.000+08:00"
+        "title": "外媒这样看长征精神——读懂长征 读懂当代中国（国际论道）",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721484.shtml",
+        "publishedAt": "2026-10-27T09:49:45.000+08:00"
       },
       {
-        "title": "前三季度广州地区生产总值同比增长5.7% 增速创五年来同期新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721466.shtml",
-        "publishedAt": "2026-10-27T09:28:32.000+08:00"
+        "title": "坚持人民至上，中国共产党的成功密码——一位西班牙共产党员的中国见闻与思考",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721482.shtml",
+        "publishedAt": "2026-10-27T09:46:43.000+08:00"
       },
       {
-        "title": "安徽法援“老黄牛”9年帮困难民众挽回损失10.32亿元",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721465.shtml",
-        "publishedAt": "2026-10-27T09:27:50.000+08:00"
+        "title": "2026年1—9月份全国规模以上工业企业利润增长15.5%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721476.shtml",
+        "publishedAt": "2026-10-27T09:39:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T09:43:56.021+08:00",
+    "fetchedAt": "2026-10-27T09:54:08.182+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T09:43:56.367+08:00",
+      "fetchedAt": "2026-10-27T09:54:08.912+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T14:43:58.000+08:00"
+          "resetAt": "2026-10-27T14:54:10.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T09:43:56.368+08:00",
+      "fetchedAt": "2026-10-27T09:54:08.915+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T09:43:56.373+08:00",
+      "fetchedAt": "2026-10-27T09:54:08.924+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T09:43:56.373+08:00",
+      "fetchedAt": "2026-10-27T09:54:08.924+08:00",
       "error": "未启用",
       "disabled": true
     }
