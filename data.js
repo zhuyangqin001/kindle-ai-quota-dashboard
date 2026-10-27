@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T19:15:28.336+08:00",
+  "updatedAt": "2026-10-27T19:25:42.001+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-27T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T19:15:28.336+08:00",
+    "fetchedAt": "2026-10-27T19:25:42.002+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "央行推出稳债市新工具 如何使用？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721805.shtml",
+        "publishedAt": "2026-10-27T19:14:28.000+08:00"
+      },
       {
         "title": "习近平向日本前首相福田康夫遗属致唁电",
         "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721788.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "汇聚全球领军企业 2026世界智能制造大会开幕在即",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721790.shtml",
         "publishedAt": "2026-10-27T18:50:11.000+08:00"
-      },
-      {
-        "title": "未来三天我国中东部大部多晴好天气 适宜秋收扫尾和秋播",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721799.shtml",
-        "publishedAt": "2026-10-27T18:49:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T19:15:24.787+08:00",
+    "fetchedAt": "2026-10-27T19:25:39.318+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T19:15:25.517+08:00",
+      "fetchedAt": "2026-10-27T19:25:40.040+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T00:15:27.000+08:00"
+          "resetAt": "2026-10-28T00:25:41.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T19:15:25.520+08:00",
+      "fetchedAt": "2026-10-27T19:25:40.043+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T19:15:25.530+08:00",
+      "fetchedAt": "2026-10-27T19:25:40.053+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T19:15:25.530+08:00",
+      "fetchedAt": "2026-10-27T19:25:40.053+08:00",
       "error": "未启用",
       "disabled": true
     }
