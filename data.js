@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T15:00:17.722+08:00",
+  "updatedAt": "2026-10-27T15:10:32.528+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-27T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T15:00:17.722+08:00",
+    "fetchedAt": "2026-10-27T15:10:32.528+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "陕西省历史文献数据库正式上线",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721625.shtml",
-        "publishedAt": "2026-10-27T14:51:34.000+08:00"
+        "title": "青甘联合巡查祁连山国家公园候选区德令哈片区",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721639.shtml",
+        "publishedAt": "2026-10-27T15:01:24.000+08:00"
       },
       {
-        "title": "2026桂林艺术节话剧《守护》走进校园 关注青少年成长",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721626.shtml",
-        "publishedAt": "2026-10-27T14:50:48.000+08:00"
+        "title": "企步新长征·红色精神护发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721641.shtml",
+        "publishedAt": "2026-10-27T15:01:18.000+08:00"
       },
       {
-        "title": "（粤港澳大湾区）广东推出“湾区注册线上服务专区”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721617.shtml",
-        "publishedAt": "2026-10-27T14:50:40.000+08:00"
+        "title": "印度东北部发生枪击事件致5死1伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721596.shtml",
+        "publishedAt": "2026-10-27T14:59:18.000+08:00"
       },
       {
-        "title": "企步新长征·初心为民 匠心赓续",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721629.shtml",
-        "publishedAt": "2026-10-27T14:50:38.000+08:00"
+        "title": "“蛟龙”号实现迭代升级 顺利完成7000米级海试",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721638.shtml",
+        "publishedAt": "2026-10-27T14:58:04.000+08:00"
       },
       {
-        "title": "第七届中国—中东欧国家中小企业跨境撮合对接会举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721621.shtml",
-        "publishedAt": "2026-10-27T14:50:04.000+08:00"
+        "title": "企步新长征·向新前行富民生",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721640.shtml",
+        "publishedAt": "2026-10-27T14:58:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T15:00:14.711+08:00",
+    "fetchedAt": "2026-10-27T15:10:29.016+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T15:00:15.446+08:00",
+      "fetchedAt": "2026-10-27T15:10:29.688+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 70,
+          "usedPct": 76,
           "resetAt": "2026-10-27T19:03:06.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 15,
-          "resetAt": "2026-11-02T21:13:57.000+08:00"
+          "usedPct": 16,
+          "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T15:00:15.448+08:00",
+      "fetchedAt": "2026-10-27T15:10:29.691+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T15:00:15.458+08:00",
+      "fetchedAt": "2026-10-27T15:10:29.701+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T15:00:15.459+08:00",
+      "fetchedAt": "2026-10-27T15:10:29.701+08:00",
       "error": "未启用",
       "disabled": true
     }
