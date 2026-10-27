@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T03:36:24.853+08:00",
+  "updatedAt": "2026-10-28T03:46:36.052+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@
     "tempC": 18.5,
     "feelsLikeC": 16,
     "humidity": 60,
-    "windKph": 18.4,
+    "windKph": 18.3,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T03:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T03:36:24.853+08:00",
+    "observedAt": "2026-10-28T03:45:00.000+08:00",
+    "fetchedAt": "2026-10-28T03:46:36.052+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-10-27T22:49:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T03:36:22.759+08:00",
+    "fetchedAt": "2026-10-28T03:46:33.887+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T03:36:23.405+08:00",
+      "fetchedAt": "2026-10-28T03:46:34.608+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T08:36:24.000+08:00"
+          "resetAt": "2026-10-28T08:46:35.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T03:36:23.408+08:00",
+      "fetchedAt": "2026-10-28T03:46:34.611+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T03:36:23.418+08:00",
+      "fetchedAt": "2026-10-28T03:46:34.621+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T03:36:23.418+08:00",
+      "fetchedAt": "2026-10-28T03:46:34.622+08:00",
       "error": "未启用",
       "disabled": true
     }
