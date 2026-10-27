@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T19:56:18.819+08:00",
+  "updatedAt": "2026-10-27T20:06:32.257+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.2,
-    "feelsLikeC": 21.4,
-    "humidity": 61,
-    "windKph": 14.7,
+    "tempC": 22.1,
+    "feelsLikeC": 21.2,
+    "humidity": 60,
+    "windKph": 14.8,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T19:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T19:56:18.819+08:00",
+    "observedAt": "2026-10-27T20:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T20:06:32.257+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "广东积极打造“粤港澳协同创新2.0版”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721834.shtml",
+        "publishedAt": "2026-10-27T20:00:41.000+08:00"
+      },
+      {
+        "title": "数字赋能高原产业 青海布局 “十五五” 信息通信业",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721827.shtml",
+        "publishedAt": "2026-10-27T19:53:54.000+08:00"
+      },
+      {
+        "title": "（乡村行·看振兴）寒地农业的“破季”样本：北安市通北镇智能温室助农增收",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721828.shtml",
+        "publishedAt": "2026-10-27T19:52:08.000+08:00"
+      },
       {
         "title": "中泰校企共建实训基地 培养新能源汽车人才",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-27/10721821.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "宁夏援外医疗队成功救治危重感染婴儿",
         "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721830.shtml",
         "publishedAt": "2026-10-27T19:48:14.000+08:00"
-      },
-      {
-        "title": "澳大利亚音乐家约翰·休伊：在中国旋律里寻找知音",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721819.shtml",
-        "publishedAt": "2026-10-27T19:47:34.000+08:00"
-      },
-      {
-        "title": "广交会二期“绿美”对话 让模块化搭建成为会展业绿色常态",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721832.shtml",
-        "publishedAt": "2026-10-27T19:46:46.000+08:00"
-      },
-      {
-        "title": "中介承诺“精准荐岗”却货不对板 消费者终获全额退款",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-27/10721836.shtml",
-        "publishedAt": "2026-10-27T19:45:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T19:56:15.896+08:00",
+    "fetchedAt": "2026-10-27T20:06:29.392+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T19:56:16.601+08:00",
+      "fetchedAt": "2026-10-27T20:06:30.107+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T00:56:18.000+08:00"
+          "resetAt": "2026-10-28T01:06:31.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 20,
-          "resetAt": "2026-11-02T21:13:58.000+08:00"
+          "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T19:56:16.604+08:00",
+      "fetchedAt": "2026-10-27T20:06:30.110+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T19:56:16.613+08:00",
+      "fetchedAt": "2026-10-27T20:06:30.120+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T19:56:16.614+08:00",
+      "fetchedAt": "2026-10-27T20:06:30.121+08:00",
       "error": "未启用",
       "disabled": true
     }
