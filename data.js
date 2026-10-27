@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T07:00:10.583+08:00",
+  "updatedAt": "2026-10-28T07:10:22.116+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-28T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T07:00:10.584+08:00",
+    "fetchedAt": "2026-10-28T07:10:22.116+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "以色列大选出口民调出炉！两大阵营均未过半，谁能组阁成悬念",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721968.shtml",
+        "publishedAt": "2026-10-28T07:05:15.000+08:00"
+      },
+      {
+        "title": "10月28日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-28/10721967.shtml",
+        "publishedAt": "2026-10-28T07:00:07.000+08:00"
+      },
       {
         "title": "中方呼吁各方推进美伊止战促谈",
         "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721966.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "出口民调显示两大阵营席位均未过半 利库德集团仍为以议会最大党",
         "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721964.shtml",
         "publishedAt": "2026-10-28T06:42:12.000+08:00"
-      },
-      {
-        "title": "民政部部署“寒冬送温暖”专项救助行动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721963.shtml",
-        "publishedAt": "2026-10-28T06:26:21.000+08:00"
-      },
-      {
-        "title": "矿产资源“户口簿”30年来首次大修订 174个矿种为何要重新登记",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721962.shtml",
-        "publishedAt": "2026-10-28T06:23:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T07:00:08.185+08:00",
+    "fetchedAt": "2026-10-28T07:10:19.936+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T07:00:08.864+08:00",
+      "fetchedAt": "2026-10-28T07:10:20.696+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T12:00:10.000+08:00"
+          "resetAt": "2026-10-28T12:10:21.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T07:00:08.866+08:00",
+      "fetchedAt": "2026-10-28T07:10:20.700+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T07:00:08.874+08:00",
+      "fetchedAt": "2026-10-28T07:10:20.706+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T07:00:08.874+08:00",
+      "fetchedAt": "2026-10-28T07:10:20.706+08:00",
       "error": "未启用",
       "disabled": true
     }
