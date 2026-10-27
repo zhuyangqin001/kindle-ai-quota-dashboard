@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T15:41:12.999+08:00",
+  "updatedAt": "2026-10-27T15:51:24.735+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 28.5,
-    "feelsLikeC": 27.2,
+    "tempC": 28.4,
+    "feelsLikeC": 27,
     "humidity": 36,
-    "windKph": 12.5,
+    "windKph": 13.4,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T15:41:12.999+08:00",
+    "observedAt": "2026-10-27T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-27T15:51:24.735+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "海南出台十一项举措强化要素保障 提速通信网络建设",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721672.shtml",
-        "publishedAt": "2026-10-27T15:38:20.000+08:00"
+        "title": "南昌GDP五年连迈三个千亿级台阶 冲刺“万亿城市”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721661.shtml",
+        "publishedAt": "2026-10-27T15:43:45.000+08:00"
       },
       {
-        "title": "外交部：希望欧方尊重市场经济和公平竞争原则 推动中欧关系健康稳定发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721679.shtml",
-        "publishedAt": "2026-10-27T15:37:36.000+08:00"
+        "title": "前9月中国规上工业企业利润同比增长15.5%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721676.shtml",
+        "publishedAt": "2026-10-27T15:42:47.000+08:00"
       },
       {
-        "title": "新疆前三季度外送电量超1300亿千瓦时",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721667.shtml",
-        "publishedAt": "2026-10-27T15:37:08.000+08:00"
+        "title": "7人建群练“薄肌”，仅一天就有4个人受伤送医！普通人该如何锻炼？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721687.shtml",
+        "publishedAt": "2026-10-27T15:42:35.000+08:00"
       },
       {
-        "title": "2026年前三季度中山市外贸进出口 同比增长16.1%",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-27/10721674.shtml",
-        "publishedAt": "2026-10-27T15:35:50.000+08:00"
+        "title": "成都ITF青网女单冠军孙心然亮相广网 期待主场出战",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721662.shtml",
+        "publishedAt": "2026-10-27T15:41:51.000+08:00"
       },
       {
-        "title": "中国首个规模化商用卵内胚胎性别鉴定技术在银川发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721659.shtml",
-        "publishedAt": "2026-10-27T15:35:44.000+08:00"
+        "title": "中国科研人员发现蜘蛛新物种“张氏雷文蛛”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721677.shtml",
+        "publishedAt": "2026-10-27T15:40:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T15:41:09.101+08:00",
+    "fetchedAt": "2026-10-27T15:51:21.772+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T15:41:09.497+08:00",
+      "fetchedAt": "2026-10-27T15:51:22.512+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T15:41:09.499+08:00",
+      "fetchedAt": "2026-10-27T15:51:22.516+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T15:41:09.503+08:00",
+      "fetchedAt": "2026-10-27T15:51:22.525+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T15:41:09.504+08:00",
+      "fetchedAt": "2026-10-27T15:51:22.525+08:00",
       "error": "未启用",
       "disabled": true
     }
