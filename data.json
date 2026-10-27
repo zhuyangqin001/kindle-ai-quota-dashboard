@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T08:02:05.466+08:00",
+  "updatedAt": "2026-10-27T08:12:16.399+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-27T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T08:02:05.467+08:00",
+    "fetchedAt": "2026-10-27T08:12:16.399+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "用人造钻石散热，为啥“热”起来",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721449.shtml",
+        "publishedAt": "2026-10-27T07:59:47.000+08:00"
+      },
       {
         "title": "读懂了“和合文化”，就读懂了年轻人，也读懂了世界",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721448.shtml",
@@ -38,14 +43,9 @@
         "title": "救人反被索赔46万元？“好人条款”守住朴素正义",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721445.shtml",
         "publishedAt": "2026-10-27T07:34:42.000+08:00"
-      },
-      {
-        "title": "“三步一公主，五步一贵妃”之后，汉服生意如何火下去？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721444.shtml",
-        "publishedAt": "2026-10-27T07:33:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T08:02:03.342+08:00",
+    "fetchedAt": "2026-10-27T08:12:14.175+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T08:02:04.067+08:00",
+      "fetchedAt": "2026-10-27T08:12:14.933+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T13:02:05.000+08:00"
+          "resetAt": "2026-10-27T13:12:15.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T08:02:04.071+08:00",
+      "fetchedAt": "2026-10-27T08:12:14.936+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T08:02:04.080+08:00",
+      "fetchedAt": "2026-10-27T08:12:14.946+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T08:02:04.081+08:00",
+      "fetchedAt": "2026-10-27T08:12:14.946+08:00",
       "error": "未启用",
       "disabled": true
     }
