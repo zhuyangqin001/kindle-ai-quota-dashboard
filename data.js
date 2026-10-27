@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T17:23:12.139+08:00",
+  "updatedAt": "2026-10-27T17:33:25.402+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.6,
-    "feelsLikeC": 22.9,
-    "humidity": 53,
-    "windKph": 21.1,
+    "tempC": 23.9,
+    "feelsLikeC": 22.5,
+    "humidity": 57,
+    "windKph": 20.2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T17:23:12.139+08:00",
+    "observedAt": "2026-10-27T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-27T17:33:25.402+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "俄乌在奥列什基地区实施停火",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721746.shtml",
+        "publishedAt": "2026-10-27T17:28:58.000+08:00"
+      },
+      {
+        "title": "中国—东盟“玩数学”STEM创新实践学生作品表彰活动在渝举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721741.shtml",
+        "publishedAt": "2026-10-27T17:28:22.000+08:00"
+      },
+      {
+        "title": "大医生来了｜郭人花：让肺癌患者活得长，也活得好",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-27/10721737.shtml",
+        "publishedAt": "2026-10-27T17:25:32.000+08:00"
+      },
+      {
+        "title": "半夜被冻醒？全国加被子地图登场 看你家盖多厚的被子好入眠",
+        "url": "https://www.chinanews.com.cn/life/2026/10-27/10721748.shtml",
+        "publishedAt": "2026-10-27T17:25:26.000+08:00"
+      },
+      {
         "title": "新规来了！不得播放开机广告，看电视更省心",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721740.shtml",
         "publishedAt": "2026-10-27T17:18:38.000+08:00"
-      },
-      {
-        "title": "“奔乡游”何以热起来",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721738.shtml",
-        "publishedAt": "2026-10-27T17:08:53.000+08:00"
-      },
-      {
-        "title": "从长征足迹里读懂中国发展智慧（国际论坛）",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721736.shtml",
-        "publishedAt": "2026-10-27T17:04:33.000+08:00"
-      },
-      {
-        "title": "中国证监会原党委委员王会民一审被判死缓",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721735.shtml",
-        "publishedAt": "2026-10-27T17:01:01.000+08:00"
-      },
-      {
-        "title": "金秋好“丰”景！智能农机助力多地秋收跑出“加速度”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721734.shtml",
-        "publishedAt": "2026-10-27T16:58:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T17:23:09.983+08:00",
+    "fetchedAt": "2026-10-27T17:33:23.226+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T17:23:10.725+08:00",
+      "fetchedAt": "2026-10-27T17:33:23.919+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T17:23:10.728+08:00",
+      "fetchedAt": "2026-10-27T17:33:23.922+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T17:23:10.738+08:00",
+      "fetchedAt": "2026-10-27T17:33:23.931+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T17:23:10.738+08:00",
+      "fetchedAt": "2026-10-27T17:33:23.931+08:00",
       "error": "未启用",
       "disabled": true
     }
