@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T11:25:58.810+08:00",
+  "updatedAt": "2026-10-27T11:36:09.899+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.3,
-    "feelsLikeC": 25.7,
-    "humidity": 41,
-    "windKph": 13.5,
+    "tempC": 26.5,
+    "feelsLikeC": 26,
+    "humidity": 40,
+    "windKph": 13.4,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T11:25:58.810+08:00",
+    "observedAt": "2026-10-27T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-27T11:36:09.899+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "中印尼“利刃-2026”陆军反恐联合训练举行开训仪式",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721546.shtml",
+        "publishedAt": "2026-10-27T11:27:57.000+08:00"
+      },
+      {
+        "title": "让陪诊服务有保障不越界 国家标准将于11月1日实施",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721545.shtml",
+        "publishedAt": "2026-10-27T11:23:24.000+08:00"
+      },
+      {
+        "title": "高钾、低钠、抗氧化！这种水果界的“人参”现在吃正合适",
+        "url": "https://www.chinanews.com.cn/life/2026/10-27/10721542.shtml",
+        "publishedAt": "2026-10-27T11:20:14.000+08:00"
+      },
+      {
+        "title": "特朗普称巴西选举“像被操纵” 巴西副总统驳斥：说法毫无根据",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721543.shtml",
+        "publishedAt": "2026-10-27T11:20:04.000+08:00"
+      },
+      {
         "title": "国家能源局：1—9月全国电力市场交易电量同比增长18.9%",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721536.shtml",
         "publishedAt": "2026-10-27T11:16:52.000+08:00"
-      },
-      {
-        "title": "揭秘儿童电话手表的“生意经”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721535.shtml",
-        "publishedAt": "2026-10-27T11:06:03.000+08:00"
-      },
-      {
-        "title": "香港15名公务员合买彩票中奖约3312万港元，兑奖人企图独吞被捕，14名同事将其告上法庭，案件详情曝光",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-27/10721534.shtml",
-        "publishedAt": "2026-10-27T11:05:35.000+08:00"
-      },
-      {
-        "title": "第三十三届中国杨凌农高会“四新”成果集中发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721527.shtml",
-        "publishedAt": "2026-10-27T11:00:37.000+08:00"
-      },
-      {
-        "title": "四卷本《近代海河流域航运历史档案选编》面世",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721525.shtml",
-        "publishedAt": "2026-10-27T10:58:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T11:25:56.598+08:00",
+    "fetchedAt": "2026-10-27T11:36:07.636+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T11:25:57.294+08:00",
+      "fetchedAt": "2026-10-27T11:36:08.069+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T16:25:58.000+08:00"
+          "resetAt": "2026-10-27T16:36:09.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T11:25:57.297+08:00",
+      "fetchedAt": "2026-10-27T11:36:08.071+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T11:25:57.307+08:00",
+      "fetchedAt": "2026-10-27T11:36:08.079+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T11:25:57.308+08:00",
+      "fetchedAt": "2026-10-27T11:36:08.079+08:00",
       "error": "未启用",
       "disabled": true
     }
