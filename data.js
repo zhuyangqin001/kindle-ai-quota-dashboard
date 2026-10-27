@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T23:51:48.329+08:00",
+  "updatedAt": "2026-10-28T00:02:02.373+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.9,
-    "feelsLikeC": 18.7,
-    "humidity": 68,
-    "windKph": 16.5,
+    "tempC": 19.8,
+    "feelsLikeC": 18.4,
+    "humidity": 67,
+    "windKph": 17.1,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T23:51:48.329+08:00",
+    "observedAt": "2026-10-28T00:00:00.000+08:00",
+    "fetchedAt": "2026-10-28T00:02:02.374+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国短池游泳锦标赛：张雨霏、张展硕创新纪录 徐嘉余率队破纪录",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721959.shtml",
+        "publishedAt": "2026-10-27T23:53:13.000+08:00"
+      },
       {
         "title": "韩国前总统尹锡悦妻子金建希将被羁押至年底",
         "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721958.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "全球和合文化实践案例发布 “和合之花”跨越山海次第开",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721954.shtml",
         "publishedAt": "2026-10-27T22:49:04.000+08:00"
-      },
-      {
-        "title": "从佛塔到酒香：泰国东北部传统文化焕发新活力",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721953.shtml",
-        "publishedAt": "2026-10-27T22:37:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T23:51:44.510+08:00",
+    "fetchedAt": "2026-10-28T00:01:58.377+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T23:51:45.272+08:00",
+      "fetchedAt": "2026-10-28T00:01:59.128+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T04:51:47.000+08:00"
+          "resetAt": "2026-10-28T05:02:01.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T23:51:45.275+08:00",
+      "fetchedAt": "2026-10-28T00:01:59.131+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T23:51:45.285+08:00",
+      "fetchedAt": "2026-10-28T00:01:59.142+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T23:51:45.286+08:00",
+      "fetchedAt": "2026-10-28T00:01:59.143+08:00",
       "error": "未启用",
       "disabled": true
     }
