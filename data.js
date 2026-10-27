@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T13:18:07.471+08:00",
+  "updatedAt": "2026-10-27T13:28:21.983+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-27T13:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T13:18:07.471+08:00",
+    "fetchedAt": "2026-10-27T13:28:21.983+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "接住年轻人的表达，红色旅游才能跳出走马观花",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721565.shtml",
+        "publishedAt": "2026-10-27T13:12:10.000+08:00"
+      },
+      {
+        "title": "激发巾帼创客力量，年度第47个矩阵项目→",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721488.shtml",
+        "publishedAt": "2026-10-27T13:10:52.000+08:00"
+      },
       {
         "title": "前9月中国电力市场交易电量同比增长18.9%",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721564.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "云岭动态第二十七期",
         "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721480.shtml",
         "publishedAt": "2026-10-27T12:54:13.000+08:00"
-      },
-      {
-        "title": "上海市委统战部系统离退休干部纪念中国工农红军长征胜利90周年主题书画展举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721479.shtml",
-        "publishedAt": "2026-10-27T12:53:27.000+08:00"
-      },
-      {
-        "title": "新疆地毯织造技艺专题展在山东省文化馆启幕",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721495.shtml",
-        "publishedAt": "2026-10-27T12:51:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T13:18:03.312+08:00",
+    "fetchedAt": "2026-10-27T13:28:17.833+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T13:18:04.034+08:00",
+      "fetchedAt": "2026-10-27T13:28:18.493+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T18:18:07.000+08:00"
+          "resetAt": "2026-10-27T18:28:20.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T13:18:04.037+08:00",
+      "fetchedAt": "2026-10-27T13:28:18.495+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T13:18:04.048+08:00",
+      "fetchedAt": "2026-10-27T13:28:18.504+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T13:18:04.048+08:00",
+      "fetchedAt": "2026-10-27T13:28:18.505+08:00",
       "error": "未启用",
       "disabled": true
     }
