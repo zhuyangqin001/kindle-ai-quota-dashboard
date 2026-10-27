@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T21:07:51.535+08:00",
+  "updatedAt": "2026-10-27T21:18:09.218+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.2,
-    "feelsLikeC": 20.5,
+    "tempC": 21.1,
+    "feelsLikeC": 20.3,
     "humidity": 64,
-    "windKph": 14,
+    "windKph": 13.9,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T21:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T21:07:51.535+08:00",
+    "observedAt": "2026-10-27T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-27T21:18:09.218+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "南开大学启动“主辅一体”人才培养新模式 2027年秋季起逐步面向全校本科生铺开",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721872.shtml",
-        "publishedAt": "2026-10-27T21:03:22.000+08:00"
+        "title": "委内瑞拉推进司法改革 最高法院改组工作取得进展",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721868.shtml",
+        "publishedAt": "2026-10-27T21:12:30.000+08:00"
       },
       {
-        "title": "跨越山海赴太极之约 俄罗斯友人山西新绛拜师习拳",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721871.shtml",
-        "publishedAt": "2026-10-27T21:03:20.000+08:00"
+        "title": "宁夏实现公募REITs“零的突破”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721877.shtml",
+        "publishedAt": "2026-10-27T21:10:54.000+08:00"
       },
       {
-        "title": "湖南省这家“不卖商品”的超市：用真实场景为新技术“找婆家”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721869.shtml",
-        "publishedAt": "2026-10-27T21:03:16.000+08:00"
+        "title": "远离传销守护幸福 2026长三角禁传宣传季在沪启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721875.shtml",
+        "publishedAt": "2026-10-27T21:10:52.000+08:00"
       },
       {
-        "title": "话剧《主角》亮相桂林艺术节 秦腔沉浮动人",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721865.shtml",
-        "publishedAt": "2026-10-27T21:03:14.000+08:00"
+        "title": "云南举行纪念长征胜利90周年网络主题宣传活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721879.shtml",
+        "publishedAt": "2026-10-27T21:10:40.000+08:00"
       },
       {
-        "title": "中国科学家揭示“理论禁区”幸存系外行星",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721866.shtml",
-        "publishedAt": "2026-10-27T21:03:12.000+08:00"
+        "title": "南航新开广州至亳州直飞航线",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721880.shtml",
+        "publishedAt": "2026-10-27T21:10:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T21:07:48.458+08:00",
+    "fetchedAt": "2026-10-27T21:18:03.177+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T21:07:49.109+08:00",
+      "fetchedAt": "2026-10-27T21:18:03.910+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T02:07:51.000+08:00"
+          "resetAt": "2026-10-28T02:18:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 20,
-          "resetAt": "2026-11-02T21:13:57.000+08:00"
+          "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T21:07:49.111+08:00",
+      "fetchedAt": "2026-10-27T21:18:03.913+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T21:07:49.121+08:00",
+      "fetchedAt": "2026-10-27T21:18:03.923+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T21:07:49.122+08:00",
+      "fetchedAt": "2026-10-27T21:18:03.923+08:00",
       "error": "未启用",
       "disabled": true
     }
