@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T11:15:47.563+08:00",
+  "updatedAt": "2026-10-27T11:25:58.810+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-27T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-27T11:15:47.564+08:00",
+    "fetchedAt": "2026-10-27T11:25:58.810+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国家能源局：1—9月全国电力市场交易电量同比增长18.9%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721536.shtml",
+        "publishedAt": "2026-10-27T11:16:52.000+08:00"
+      },
       {
         "title": "揭秘儿童电话手表的“生意经”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721535.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "四卷本《近代海河流域航运历史档案选编》面世",
         "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721525.shtml",
         "publishedAt": "2026-10-27T10:58:25.000+08:00"
-      },
-      {
-        "title": "广东举办智能制造系统运维员职业技能竞赛",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721523.shtml",
-        "publishedAt": "2026-10-27T10:57:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T11:15:44.216+08:00",
+    "fetchedAt": "2026-10-27T11:25:56.598+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T11:15:44.973+08:00",
+      "fetchedAt": "2026-10-27T11:25:57.294+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T16:15:46.000+08:00"
+          "resetAt": "2026-10-27T16:25:58.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T11:15:44.976+08:00",
+      "fetchedAt": "2026-10-27T11:25:57.297+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T11:15:44.986+08:00",
+      "fetchedAt": "2026-10-27T11:25:57.307+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T11:15:44.987+08:00",
+      "fetchedAt": "2026-10-27T11:25:57.308+08:00",
       "error": "未启用",
       "disabled": true
     }
