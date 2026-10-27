@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T11:05:33.388+08:00",
+  "updatedAt": "2026-10-27T11:15:47.563+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26,
-    "feelsLikeC": 25.4,
-    "humidity": 42,
+    "tempC": 26.3,
+    "feelsLikeC": 25.7,
+    "humidity": 41,
     "windKph": 13.5,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T11:05:33.388+08:00",
+    "observedAt": "2026-10-27T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-27T11:15:47.564+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "揭秘儿童电话手表的“生意经”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721535.shtml",
+        "publishedAt": "2026-10-27T11:06:03.000+08:00"
+      },
+      {
+        "title": "香港15名公务员合买彩票中奖约3312万港元，兑奖人企图独吞被捕，14名同事将其告上法庭，案件详情曝光",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-27/10721534.shtml",
+        "publishedAt": "2026-10-27T11:05:35.000+08:00"
+      },
+      {
+        "title": "第三十三届中国杨凌农高会“四新”成果集中发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721527.shtml",
+        "publishedAt": "2026-10-27T11:00:37.000+08:00"
+      },
       {
         "title": "四卷本《近代海河流域航运历史档案选编》面世",
         "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721525.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "广东举办智能制造系统运维员职业技能竞赛",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721523.shtml",
         "publishedAt": "2026-10-27T10:57:37.000+08:00"
-      },
-      {
-        "title": "湘江“对话”塞纳河：中欧嘉宾长沙共探精准国际传播",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721522.shtml",
-        "publishedAt": "2026-10-27T10:54:37.000+08:00"
-      },
-      {
-        "title": "曼飞龙傣寨：千年慢轮陶转动“慢”生活",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721520.shtml",
-        "publishedAt": "2026-10-27T10:53:51.000+08:00"
-      },
-      {
-        "title": "金观平：政策接续发力激发经济动能",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721526.shtml",
-        "publishedAt": "2026-10-27T10:49:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T11:05:30.642+08:00",
+    "fetchedAt": "2026-10-27T11:15:44.216+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T11:05:31.378+08:00",
+      "fetchedAt": "2026-10-27T11:15:44.973+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T16:05:32.000+08:00"
+          "resetAt": "2026-10-27T16:15:46.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T11:05:31.381+08:00",
+      "fetchedAt": "2026-10-27T11:15:44.976+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T11:05:31.391+08:00",
+      "fetchedAt": "2026-10-27T11:15:44.986+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T11:05:31.391+08:00",
+      "fetchedAt": "2026-10-27T11:15:44.987+08:00",
       "error": "未启用",
       "disabled": true
     }
