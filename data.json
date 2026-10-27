@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T06:29:40.716+08:00",
+  "updatedAt": "2026-10-28T06:39:51.897+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@
     "tempC": 17.6,
     "feelsLikeC": 15.3,
     "humidity": 65,
-    "windKph": 16.9,
+    "windKph": 17.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T06:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T06:29:40.716+08:00",
+    "observedAt": "2026-10-28T06:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T06:39:51.897+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-10-27T23:53:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T06:29:38.422+08:00",
+    "fetchedAt": "2026-10-28T06:39:49.706+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T06:29:39.169+08:00",
+      "fetchedAt": "2026-10-28T06:39:50.454+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T11:29:40.000+08:00"
+          "resetAt": "2026-10-28T11:39:51.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T06:29:39.172+08:00",
+      "fetchedAt": "2026-10-28T06:39:50.458+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T06:29:39.182+08:00",
+      "fetchedAt": "2026-10-28T06:39:50.467+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T06:29:39.182+08:00",
+      "fetchedAt": "2026-10-28T06:39:50.467+08:00",
       "error": "未启用",
       "disabled": true
     }
