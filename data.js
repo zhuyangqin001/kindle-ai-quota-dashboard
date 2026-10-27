@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T09:54:10.368+08:00",
+  "updatedAt": "2026-10-27T10:04:21.723+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.3,
-    "feelsLikeC": 23,
-    "humidity": 48,
-    "windKph": 14.6,
+    "tempC": 24.7,
+    "feelsLikeC": 23.6,
+    "humidity": 46,
+    "windKph": 14.3,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-27T09:54:10.369+08:00",
+    "observedAt": "2026-10-27T10:00:00.000+08:00",
+    "fetchedAt": "2026-10-27T10:04:21.723+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "10月27日央行开展4120亿元7天期逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721477.shtml",
-        "publishedAt": "2026-10-27T09:51:41.000+08:00"
+        "title": "辽宁省朝阳市侨联开展“侨胞侨眷看家乡”主题活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-27/10721462.shtml",
+        "publishedAt": "2026-10-27T10:02:30.000+08:00"
       },
       {
-        "title": "10月27日人民币对美元中间价报6.7171 下调9个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721474.shtml",
-        "publishedAt": "2026-10-27T09:51:33.000+08:00"
+        "title": "中国官方：今年前9个月立案省部级及以上干部73人",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721481.shtml",
+        "publishedAt": "2026-10-27T10:02:24.000+08:00"
       },
       {
-        "title": "外媒这样看长征精神——读懂长征 读懂当代中国（国际论道）",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721484.shtml",
-        "publishedAt": "2026-10-27T09:49:45.000+08:00"
+        "title": "百余条短视频发出“云南之约” 缅甸青年镜头里的临沧“如回故乡”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721470.shtml",
+        "publishedAt": "2026-10-27T10:01:20.000+08:00"
       },
       {
-        "title": "坚持人民至上，中国共产党的成功密码——一位西班牙共产党员的中国见闻与思考",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721482.shtml",
-        "publishedAt": "2026-10-27T09:46:43.000+08:00"
+        "title": "科尔沁沙地：沙湖秋末迎候鸟 翩跹入画来",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-27/1208974.shtml",
+        "publishedAt": "2026-10-27T09:58:00.000+08:00"
       },
       {
-        "title": "2026年1—9月份全国规模以上工业企业利润增长15.5%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721476.shtml",
-        "publishedAt": "2026-10-27T09:39:47.000+08:00"
+        "title": "高市执政一年：三重压力折射日本困境",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721486.shtml",
+        "publishedAt": "2026-10-27T09:57:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T09:54:08.182+08:00",
+    "fetchedAt": "2026-10-27T10:04:19.565+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T09:54:08.912+08:00",
+      "fetchedAt": "2026-10-27T10:04:20.301+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T14:54:10.000+08:00"
+          "resetAt": "2026-10-27T15:04:21.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T09:54:08.915+08:00",
+      "fetchedAt": "2026-10-27T10:04:20.304+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T09:54:08.924+08:00",
+      "fetchedAt": "2026-10-27T10:04:20.314+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T09:54:08.924+08:00",
+      "fetchedAt": "2026-10-27T10:04:20.314+08:00",
       "error": "未启用",
       "disabled": true
     }
