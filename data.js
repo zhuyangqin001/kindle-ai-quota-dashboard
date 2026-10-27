@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T17:43:37.904+08:00",
+  "updatedAt": "2026-10-27T17:53:50.394+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.9,
-    "feelsLikeC": 22.5,
-    "humidity": 57,
-    "windKph": 20.2,
+    "tempC": 23.3,
+    "feelsLikeC": 22.2,
+    "humidity": 60,
+    "windKph": 18.7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T17:43:37.904+08:00",
+    "observedAt": "2026-10-27T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-27T17:53:50.394+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“科技赋能现代农业”专场对话会在柬埔寨金边举办",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-27/10721753.shtml",
+        "publishedAt": "2026-10-27T17:44:07.000+08:00"
+      },
+      {
+        "title": "网约车监管信息交互系统9月份共收到订单信息9.81亿单",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721749.shtml",
+        "publishedAt": "2026-10-27T17:42:15.000+08:00"
+      },
       {
         "title": "塞尔维亚议会选举初步结果公布",
         "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721696.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "30余件名家力作与将帅墨宝亮相荣宝斋 一展书画里的长征",
         "url": "https://www.chinanews.com.cn/cul/2026/10-27/10721744.shtml",
         "publishedAt": "2026-10-27T17:34:11.000+08:00"
-      },
-      {
-        "title": "第七届中国—中东欧国家中小企业跨境撮合对接会举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721745.shtml",
-        "publishedAt": "2026-10-27T17:33:21.000+08:00"
-      },
-      {
-        "title": "山西孝义皮影戏古村开演 方寸幕布演绎非遗魅力",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721743.shtml",
-        "publishedAt": "2026-10-27T17:30:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T17:43:35.051+08:00",
+    "fetchedAt": "2026-10-27T17:53:47.689+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T17:43:35.914+08:00",
+      "fetchedAt": "2026-10-27T17:53:48.441+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T17:43:35.917+08:00",
+      "fetchedAt": "2026-10-27T17:53:48.445+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T17:43:35.927+08:00",
+      "fetchedAt": "2026-10-27T17:53:48.454+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T17:43:35.928+08:00",
+      "fetchedAt": "2026-10-27T17:53:48.455+08:00",
       "error": "未启用",
       "disabled": true
     }
