@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T23:00:32.203+08:00",
+  "updatedAt": "2026-10-27T23:10:46.769+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-27T23:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T23:00:32.203+08:00",
+    "fetchedAt": "2026-10-27T23:10:46.769+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "【长征胜利90周年】重庆酉阳南腰界红三军革命旧址群整体对外展示开放",
+        "url": "http://www.chinanews.com.cn/gn/shipin/cns-d/2026/10-27/news1073132.shtml",
+        "publishedAt": "2026-10-27T22:57:54.000+08:00"
+      },
       {
         "title": "首届“飞阅中国”低空经济应用场景大赛决赛在重庆梁平举行",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721955.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026中欧企业家青岛论坛在青岛西海岸新区举办",
         "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721952.shtml",
         "publishedAt": "2026-10-27T22:36:33.000+08:00"
-      },
-      {
-        "title": "贵州：“爱心厨房”暖了医院门口 百余份午餐免费送病患",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-27/10721950.shtml",
-        "publishedAt": "2026-10-27T22:24:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T23:00:28.058+08:00",
+    "fetchedAt": "2026-10-27T23:10:43.449+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T23:00:28.705+08:00",
+      "fetchedAt": "2026-10-27T23:10:44.178+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T04:00:32.000+08:00"
+          "resetAt": "2026-10-28T04:10:46.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 20,
-          "resetAt": "2026-11-02T21:13:57.000+08:00"
+          "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T23:00:28.708+08:00",
+      "fetchedAt": "2026-10-27T23:10:44.180+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T23:00:28.718+08:00",
+      "fetchedAt": "2026-10-27T23:10:44.189+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T23:00:28.718+08:00",
+      "fetchedAt": "2026-10-27T23:10:44.189+08:00",
       "error": "未启用",
       "disabled": true
     }
