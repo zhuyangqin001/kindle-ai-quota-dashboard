@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T18:44:51.114+08:00",
+  "updatedAt": "2026-10-27T18:55:03.274+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
+    "description": "多云",
+    "iconKey": "cloudy",
     "tempC": 22.5,
-    "feelsLikeC": 21.9,
+    "feelsLikeC": 22,
     "humidity": 63,
-    "windKph": 15.4,
+    "windKph": 14.6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-27T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-27T18:44:51.115+08:00",
+    "observedAt": "2026-10-27T18:45:00.000+08:00",
+    "fetchedAt": "2026-10-27T18:55:03.274+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "首届上海数字广告大赛总决赛举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721779.shtml",
-        "publishedAt": "2026-10-27T18:21:59.000+08:00"
+        "title": "汇聚全球领军企业 2026世界智能制造大会开幕在即",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721790.shtml",
+        "publishedAt": "2026-10-27T18:50:11.000+08:00"
       },
       {
-        "title": "“世界青年创业论坛2026”在港举行 共探大湾区发展机遇",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721776.shtml",
-        "publishedAt": "2026-10-27T18:16:59.000+08:00"
+        "title": "大风蓝色预警：甘肃宁夏等8省区部分地区阵风可达8至9级",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721795.shtml",
+        "publishedAt": "2026-10-27T18:48:51.000+08:00"
       },
       {
-        "title": "全球大学校长及领袖高峰会2026在港开幕",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-27/10721774.shtml",
-        "publishedAt": "2026-10-27T18:16:15.000+08:00"
+        "title": "第四批全国商业秘密保护创新试点地区名单公布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721792.shtml",
+        "publishedAt": "2026-10-27T18:47:27.000+08:00"
       },
       {
-        "title": "中国速度攀岩系列赛（江苏昆山站）开赛 上演岩壁上的短跑冲刺",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-27/10721773.shtml",
-        "publishedAt": "2026-10-27T18:15:21.000+08:00"
+        "title": "沪高校本科生团队攻关钠离子电池材料 相关研究推进至中试阶段",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721789.shtml",
+        "publishedAt": "2026-10-27T18:46:28.000+08:00"
       },
       {
-        "title": "从“一张床”到“一套房” 北京朝阳搭建梯度安居供给体系",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721772.shtml",
-        "publishedAt": "2026-10-27T18:14:55.000+08:00"
+        "title": "前三季度吉林外贸规模创历史同期新高 民企成最大外贸主体",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721786.shtml",
+        "publishedAt": "2026-10-27T18:44:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T18:44:48.646+08:00",
+    "fetchedAt": "2026-10-27T18:55:00.557+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T18:44:49.365+08:00",
+      "fetchedAt": "2026-10-27T18:55:01.316+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T18:44:49.368+08:00",
+      "fetchedAt": "2026-10-27T18:55:01.319+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T18:44:49.378+08:00",
+      "fetchedAt": "2026-10-27T18:55:01.329+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T18:44:49.378+08:00",
+      "fetchedAt": "2026-10-27T18:55:01.329+08:00",
       "error": "未启用",
       "disabled": true
     }
