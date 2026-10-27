@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-27T09:03:12.555+08:00",
+  "updatedAt": "2026-10-27T09:13:23.678+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-27T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-27T09:03:12.555+08:00",
+    "fetchedAt": "2026-10-27T09:13:23.679+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "量质齐升，中国外贸何以表现强劲？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721461.shtml",
+        "publishedAt": "2026-10-27T08:59:27.000+08:00"
+      },
+      {
         "title": "以色列议会选举，内塔尼亚胡能否挺过命运“大考”？",
         "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721459.shtml",
         "publishedAt": "2026-10-27T08:48:18.000+08:00"
       },
       {
+        "title": "福建闽侯木雕匠人两年苦凿 把长征“刻”进11.5米古木",
+        "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/10-27/news1073045.shtml",
+        "publishedAt": "2026-10-27T08:35:41.000+08:00"
+      },
+      {
+        "title": "【我的天涯海角】“坦克兵王”丁辉：5次阅兵打头车，坦克是“有生命的”",
+        "url": "http://www.chinanews.com.cn/mil/shipin/cns/2026/10-27/news1073044.shtml",
+        "publishedAt": "2026-10-27T08:34:47.000+08:00"
+      },
+      {
         "title": "哈里·凯恩斩获2026年金球奖",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-27/1208963.shtml",
         "publishedAt": "2026-10-27T08:30:14.000+08:00"
-      },
-      {
-        "title": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721450.shtml",
-        "publishedAt": "2026-10-27T08:27:21.000+08:00"
-      },
-      {
-        "title": "名字带“鳕”就是鳕鱼吗？怎么吃更健康？一文讲明白",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721452.shtml",
-        "publishedAt": "2026-10-27T08:24:37.000+08:00"
-      },
-      {
-        "title": "投喂候鸟，是“爱鸟”还是“害鸟”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-27/10721451.shtml",
-        "publishedAt": "2026-10-27T08:16:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-27T09:03:10.151+08:00",
+    "fetchedAt": "2026-10-27T09:13:21.316+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-27T09:03:10.894+08:00",
+      "fetchedAt": "2026-10-27T09:13:22.054+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-27T14:03:12.000+08:00"
+          "resetAt": "2026-10-27T14:13:23.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-27T09:03:10.897+08:00",
+      "fetchedAt": "2026-10-27T09:13:22.058+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T09:03:10.907+08:00",
+      "fetchedAt": "2026-10-27T09:13:22.067+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-27T09:03:10.907+08:00",
+      "fetchedAt": "2026-10-27T09:13:22.068+08:00",
       "error": "未启用",
       "disabled": true
     }
