@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T18:14:19.877+08:00",
+  "updatedAt": "2026-10-28T18:24:32.704+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.9,
-    "feelsLikeC": 24.2,
-    "humidity": 53,
-    "windKph": 6.1,
+    "tempC": 23.6,
+    "feelsLikeC": 23.8,
+    "humidity": 54,
+    "windKph": 6.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T18:14:19.877+08:00",
+    "observedAt": "2026-10-28T18:15:00.000+08:00",
+    "fetchedAt": "2026-10-28T18:24:32.705+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“内部推荐”“直签保录” 别轻信！看这篇求职不踩坑",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722321.shtml",
-        "publishedAt": "2026-10-28T18:13:09.000+08:00"
+        "title": "（友城故事）7400公里外，一座德国小城“开”进太原",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722325.shtml",
+        "publishedAt": "2026-10-28T18:23:36.000+08:00"
       },
       {
-        "title": "“香港同乡会寻根宁夏行”交流活动举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722311.shtml",
-        "publishedAt": "2026-10-28T18:12:19.000+08:00"
+        "title": "寻踪大运河文脉：一位文博人眼中的运河南端与千年漕运",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722308.shtml",
+        "publishedAt": "2026-10-28T18:21:50.000+08:00"
       },
       {
-        "title": "连续16年稳居世界第一 风电转出绿色增长新空间",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722313.shtml",
-        "publishedAt": "2026-10-28T18:06:01.000+08:00"
+        "title": "中小学秋假怎么放？注意这些误区（2026·10·28）",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722333.shtml",
+        "publishedAt": "2026-10-28T18:20:52.000+08:00"
       },
       {
-        "title": "刘延东同志逝世",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722312.shtml",
-        "publishedAt": "2026-10-28T18:03:45.000+08:00"
+        "title": "在浦东生活，向世界讲述：外籍居民成为“城市推荐官”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722320.shtml",
+        "publishedAt": "2026-10-28T18:20:52.000+08:00"
       },
       {
-        "title": "山西太原：国际友城主题公交车亮相街头",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722293.shtml",
-        "publishedAt": "2026-10-28T18:03:05.000+08:00"
+        "title": "央行：前三季度人民币贷款增加11.52万亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722329.shtml",
+        "publishedAt": "2026-10-28T18:19:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T18:14:16.711+08:00",
+    "fetchedAt": "2026-10-28T18:24:30.944+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T18:14:17.417+08:00",
+      "fetchedAt": "2026-10-28T18:24:31.443+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 41,
+          "usedPct": 49,
           "resetAt": "2026-10-28T20:01:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 6,
+          "usedPct": 8,
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T18:14:17.419+08:00",
+      "fetchedAt": "2026-10-28T18:24:31.445+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T18:14:17.424+08:00",
+      "fetchedAt": "2026-10-28T18:24:31.450+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T18:14:17.424+08:00",
+      "fetchedAt": "2026-10-28T18:24:31.450+08:00",
       "error": "未启用",
       "disabled": true
     }
