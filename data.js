@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T14:39:50.248+08:00",
+  "updatedAt": "2026-10-28T15:00:09.125+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 26.5,
-    "feelsLikeC": 26.2,
+    "feelsLikeC": 26.4,
     "humidity": 43,
-    "windKph": 8.8,
+    "windKph": 6.5,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T14:39:50.248+08:00",
+    "observedAt": "2026-10-28T15:00:00.000+08:00",
+    "fetchedAt": "2026-10-28T15:00:09.126+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国际科研出版机构携手AI提升同行评审体验 强化论文质量与科研诚信",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722159.shtml",
-        "publishedAt": "2026-10-28T14:32:29.000+08:00"
+        "title": "2026年01月-09月广西外贸数据图表",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722180.shtml",
+        "publishedAt": "2026-10-28T14:55:11.000+08:00"
       },
       {
-        "title": "港珠澳大桥珠海公路口岸开通以来对APEC经济体进出口突破万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722167.shtml",
-        "publishedAt": "2026-10-28T14:31:31.000+08:00"
+        "title": "又拍车牌又自拍 网约车司机果断报警拦下刷单骗局",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-28/10722179.shtml",
+        "publishedAt": "2026-10-28T14:54:49.000+08:00"
       },
       {
-        "title": "中方赴法德举行防务战略磋商",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722162.shtml",
-        "publishedAt": "2026-10-28T14:29:09.000+08:00"
+        "title": "全国家庭健康主题推进活动基层行盐城亭湖专场举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722172.shtml",
+        "publishedAt": "2026-10-28T14:47:48.000+08:00"
       },
       {
-        "title": "探访火箭制造基地 看新一代通信网在太空的运力支撑",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722163.shtml",
-        "publishedAt": "2026-10-28T14:27:53.000+08:00"
+        "title": "“纯过日子人”的底气，是谁给的？",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-28/10722177.shtml",
+        "publishedAt": "2026-10-28T14:47:36.000+08:00"
       },
       {
-        "title": "第四届临沂商城国际采购商大会在山东临沂开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722143.shtml",
-        "publishedAt": "2026-10-28T14:16:47.000+08:00"
+        "title": "现场签约金额超109亿元 第三十三届中国杨凌农高会推介大会暨集中签约活动举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722171.shtml",
+        "publishedAt": "2026-10-28T14:46:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T14:39:47.014+08:00",
+    "fetchedAt": "2026-10-28T15:00:06.001+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T14:39:47.440+08:00",
+      "fetchedAt": "2026-10-28T15:00:06.736+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T19:39:49.000+08:00"
+          "resetAt": "2026-10-28T20:00:09.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-04T14:39:49.000+08:00"
+          "resetAt": "2026-11-04T15:00:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T14:39:47.442+08:00",
+      "fetchedAt": "2026-10-28T15:00:06.739+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T14:39:47.447+08:00",
+      "fetchedAt": "2026-10-28T15:00:06.748+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T14:39:47.447+08:00",
+      "fetchedAt": "2026-10-28T15:00:06.749+08:00",
       "error": "未启用",
       "disabled": true
     }
