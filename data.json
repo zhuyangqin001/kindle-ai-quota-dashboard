@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T21:18:02.409+08:00",
+  "updatedAt": "2026-10-28T21:28:14.523+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-28T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T21:18:02.409+08:00",
+    "fetchedAt": "2026-10-28T21:28:14.523+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "今日丝绸之路国际艺术邀请展吸引市民参观",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722410.shtml",
-        "publishedAt": "2026-10-28T21:08:25.000+08:00"
+        "title": "兰州百合迎采挖季",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722430.shtml",
+        "publishedAt": "2026-10-28T21:26:26.000+08:00"
       },
       {
-        "title": "新一代智能终端蓬勃发展 业界乘势夯实产业底座",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722417.shtml",
-        "publishedAt": "2026-10-28T21:06:33.000+08:00"
+        "title": "西班牙列车相撞事故造成至少50人死亡 一列列车两节车厢脱轨坠落",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209151.shtml",
+        "publishedAt": "2026-10-28T21:25:10.000+08:00"
       },
       {
-        "title": "北京市属国企2027届高校毕业生秋季校园专场招聘活动举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722418.shtml",
-        "publishedAt": "2026-10-28T21:05:45.000+08:00"
+        "title": "聚焦民间文学之生命力 《民间文学》杂志创刊70周年交流活动举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722442.shtml",
+        "publishedAt": "2026-10-28T21:24:18.000+08:00"
       },
       {
-        "title": "重庆将从五方面加快建设智能网联新能源汽车之都",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722419.shtml",
-        "publishedAt": "2026-10-28T21:04:53.000+08:00"
+        "title": "两岸同胞在重庆共同纪念孙中山诞辰160周年",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722432.shtml",
+        "publishedAt": "2026-10-28T21:24:10.000+08:00"
       },
       {
-        "title": "河北青县：盐碱地上高粱红",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722406.shtml",
-        "publishedAt": "2026-10-28T21:04:33.000+08:00"
+        "title": "第16届辽宁省残疾人健身周主场活动在沈启动",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722425.shtml",
+        "publishedAt": "2026-10-28T21:24:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T21:18:00.266+08:00",
+    "fetchedAt": "2026-10-28T21:28:12.326+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T21:18:00.698+08:00",
+      "fetchedAt": "2026-10-28T21:28:12.785+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T21:18:00.700+08:00",
+      "fetchedAt": "2026-10-28T21:28:12.788+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T21:18:00.705+08:00",
+      "fetchedAt": "2026-10-28T21:28:12.797+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T21:18:00.705+08:00",
+      "fetchedAt": "2026-10-28T21:28:12.797+08:00",
       "error": "未启用",
       "disabled": true
     }
