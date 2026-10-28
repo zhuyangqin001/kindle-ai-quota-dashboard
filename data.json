@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T10:44:37.758+08:00",
+  "updatedAt": "2026-10-28T10:54:50.878+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.1,
-    "feelsLikeC": 22.1,
-    "humidity": 49,
-    "windKph": 13,
+    "tempC": 23.5,
+    "feelsLikeC": 22.9,
+    "humidity": 48,
+    "windKph": 12.3,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T10:44:37.758+08:00",
+    "observedAt": "2026-10-28T10:45:00.000+08:00",
+    "fetchedAt": "2026-10-28T10:54:50.878+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国台办：纪念台湾光复81周年 铭记历史 携手同心 坚定捍卫台湾光复成果",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722043.shtml",
+        "publishedAt": "2026-10-28T10:51:29.000+08:00"
+      },
+      {
+        "title": "国台办：祖国终将统一也必将统一的历史大势不可阻挡",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722041.shtml",
+        "publishedAt": "2026-10-28T10:43:15.000+08:00"
+      },
+      {
+        "title": "国台办：越来越多台湾优质渔产品进入大陆",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722051.shtml",
+        "publishedAt": "2026-10-28T10:42:29.000+08:00"
+      },
       {
         "title": "广交会遇上APEC 广货凭什么走俏亚太",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-28/10722050.shtml",
@@ -28,24 +43,9 @@
         "title": "国台办反驳台陆委会拒绝张凌赫赴台理由：站不住脚",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722049.shtml",
         "publishedAt": "2026-10-28T10:40:39.000+08:00"
-      },
-      {
-        "title": "国台办回应蔡康永发文称“没有支持过‘台独’”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722048.shtml",
-        "publishedAt": "2026-10-28T10:39:19.000+08:00"
-      },
-      {
-        "title": "国台办回应民进党花钱请美方看所谓“汉光演习”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722046.shtml",
-        "publishedAt": "2026-10-28T10:36:23.000+08:00"
-      },
-      {
-        "title": "国台办：将持续推动十项措施落实落细",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722036.shtml",
-        "publishedAt": "2026-10-28T10:34:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T10:44:34.635+08:00",
+    "fetchedAt": "2026-10-28T10:54:47.745+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T10:44:35.379+08:00",
+      "fetchedAt": "2026-10-28T10:54:48.118+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T15:44:37.000+08:00"
+          "resetAt": "2026-10-28T15:54:50.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 20,
-          "resetAt": "2026-11-02T21:13:58.000+08:00"
+          "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T10:44:35.383+08:00",
+      "fetchedAt": "2026-10-28T10:54:48.120+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T10:44:35.392+08:00",
+      "fetchedAt": "2026-10-28T10:54:48.125+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T10:44:35.393+08:00",
+      "fetchedAt": "2026-10-28T10:54:48.125+08:00",
       "error": "未启用",
       "disabled": true
     }
