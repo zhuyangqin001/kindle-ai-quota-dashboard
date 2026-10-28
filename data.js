@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T09:53:28.195+08:00",
+  "updatedAt": "2026-10-28T10:03:41.782+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.7,
-    "feelsLikeC": 19.8,
+    "tempC": 22.2,
+    "feelsLikeC": 20.6,
     "humidity": 51,
-    "windKph": 15.4,
+    "windKph": 14.5,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-28T09:53:28.195+08:00",
+    "observedAt": "2026-10-28T10:00:00.000+08:00",
+    "fetchedAt": "2026-10-28T10:03:41.782+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "CBA常规赛：浙江队81比75战胜新疆队",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722006.shtml",
+        "publishedAt": "2026-10-28T09:53:04.000+08:00"
+      },
+      {
+        "title": "坚守初心使命，始终保持党同人民群众的血肉联系——习近平党建思想引领新时代全面从严治党系列述评之二",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722014.shtml",
+        "publishedAt": "2026-10-28T09:48:48.000+08:00"
+      },
       {
         "title": "关注中国，就是关注未来",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722021.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722019.shtml",
         "publishedAt": "2026-10-28T09:44:00.000+08:00"
-      },
-      {
-        "title": "中期选举在即 特朗普支持率从历史低点回升",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721995.shtml",
-        "publishedAt": "2026-10-28T09:42:34.000+08:00"
-      },
-      {
-        "title": "金观平：有的放矢提高基础研究实力",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-28/10722017.shtml",
-        "publishedAt": "2026-10-28T09:41:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T09:53:25.757+08:00",
+    "fetchedAt": "2026-10-28T10:03:38.243+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T09:53:26.503+08:00",
+      "fetchedAt": "2026-10-28T10:03:38.967+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T14:53:28.000+08:00"
+          "resetAt": "2026-10-28T15:03:40.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T09:53:26.506+08:00",
+      "fetchedAt": "2026-10-28T10:03:38.970+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T09:53:26.516+08:00",
+      "fetchedAt": "2026-10-28T10:03:38.981+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T09:53:26.516+08:00",
+      "fetchedAt": "2026-10-28T10:03:38.981+08:00",
       "error": "未启用",
       "disabled": true
     }
