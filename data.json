@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T17:43:53.123+08:00",
+  "updatedAt": "2026-10-28T17:54:05.641+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.8,
-    "feelsLikeC": 25,
-    "humidity": 49,
-    "windKph": 5.6,
+    "tempC": 24.3,
+    "feelsLikeC": 24.6,
+    "humidity": 51,
+    "windKph": 5.9,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T17:43:53.123+08:00",
+    "observedAt": "2026-10-28T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-28T17:54:05.641+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "江西省以“我的井冈行”为重点的青少年思政实践活动在井冈山启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722285.shtml",
-        "publishedAt": "2026-10-28T17:36:41.000+08:00"
+        "title": "西藏南部将有强雨雪天气 北方将有大风降温过程",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722305.shtml",
+        "publishedAt": "2026-10-28T17:50:42.000+08:00"
       },
       {
-        "title": "烟台港成功接卸安哥拉进口石材荒料",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722288.shtml",
-        "publishedAt": "2026-10-28T17:36:35.000+08:00"
+        "title": "黄埔全球供应链中心前三季度监管货值超63亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722299.shtml",
+        "publishedAt": "2026-10-28T17:48:04.000+08:00"
       },
       {
-        "title": "宁夏引黄灌区开启“冬灌”模式",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722286.shtml",
-        "publishedAt": "2026-10-28T17:33:13.000+08:00"
+        "title": "今年前三季度同江对俄进出口总值57亿元 同比增长235.5%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722301.shtml",
+        "publishedAt": "2026-10-28T17:48:02.000+08:00"
       },
       {
-        "title": "解析三季报：电子行业与高技术制造业贡献突出",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722289.shtml",
-        "publishedAt": "2026-10-28T17:31:17.000+08:00"
+        "title": "水鸟作“生态考官”：吉林松花江治理下沉至排污口",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722302.shtml",
+        "publishedAt": "2026-10-28T17:48:00.000+08:00"
       },
       {
-        "title": "停了61分钟，按2小时收费，凭什么？",
-        "url": "https://www.chinanews.com.cn/ll/2026/10-28/10722287.shtml",
-        "publishedAt": "2026-10-28T17:21:07.000+08:00"
+        "title": "千年文脉生生不息 和合文化能为当下带来什么？",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722297.shtml",
+        "publishedAt": "2026-10-28T17:47:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T17:43:50.812+08:00",
+    "fetchedAt": "2026-10-28T17:54:03.437+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T17:43:51.535+08:00",
+      "fetchedAt": "2026-10-28T17:54:04.227+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 25,
+          "usedPct": 29,
           "resetAt": "2026-10-28T20:01:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 4,
+          "usedPct": 5,
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T17:43:51.538+08:00",
+      "fetchedAt": "2026-10-28T17:54:04.231+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T17:43:51.547+08:00",
+      "fetchedAt": "2026-10-28T17:54:04.241+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T17:43:51.548+08:00",
+      "fetchedAt": "2026-10-28T17:54:04.241+08:00",
       "error": "未启用",
       "disabled": true
     }
