@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T13:58:50.750+08:00",
+  "updatedAt": "2026-10-28T14:09:05.722+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 26.4,
-    "feelsLikeC": 26.1,
+    "feelsLikeC": 26,
     "humidity": 42,
-    "windKph": 9.7,
+    "windKph": 9.6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-28T13:58:50.750+08:00",
+    "observedAt": "2026-10-28T14:00:00.000+08:00",
+    "fetchedAt": "2026-10-28T14:09:05.722+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "广东省第十届测绘地理信息行业职业技能竞赛在梅州举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722145.shtml",
+        "publishedAt": "2026-10-28T13:57:52.000+08:00"
+      },
+      {
+        "title": "徐雄当选安徽省安庆市市长",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722146.shtml",
+        "publishedAt": "2026-10-28T13:57:12.000+08:00"
+      },
+      {
+        "title": "《万绿湖》等三部力作在河源首发 鲁奖名家精彩点评",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722144.shtml",
+        "publishedAt": "2026-10-28T13:56:35.000+08:00"
+      },
       {
         "title": "全国首单水利设施发电REITs在深交所上市",
         "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722139.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "印度自卡塔尔进口液化天然气量创近八个月新高",
         "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722137.shtml",
         "publishedAt": "2026-10-28T13:44:59.000+08:00"
-      },
-      {
-        "title": "今年前三季度大陆自台湾进口渔产品同比增35.5%",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722124.shtml",
-        "publishedAt": "2026-10-28T13:44:37.000+08:00"
-      },
-      {
-        "title": "巴西总统卢拉：弗拉维奥·博索纳罗离境是“可耻的行为”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722125.shtml",
-        "publishedAt": "2026-10-28T13:44:17.000+08:00"
-      },
-      {
-        "title": "全国首单水利设施发电不动产投资信托基金上市",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722141.shtml",
-        "publishedAt": "2026-10-28T13:43:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T13:58:47.976+08:00",
+    "fetchedAt": "2026-10-28T14:09:02.390+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T13:58:48.723+08:00",
+      "fetchedAt": "2026-10-28T14:09:03.136+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T18:58:50.000+08:00"
+          "resetAt": "2026-10-28T19:09:05.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T13:58:48.726+08:00",
+      "fetchedAt": "2026-10-28T14:09:03.139+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T13:58:48.736+08:00",
+      "fetchedAt": "2026-10-28T14:09:03.148+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T13:58:48.736+08:00",
+      "fetchedAt": "2026-10-28T14:09:03.149+08:00",
       "error": "未启用",
       "disabled": true
     }
