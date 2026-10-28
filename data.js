@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T09:22:50.987+08:00",
+  "updatedAt": "2026-10-28T09:33:02.665+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.9,
-    "feelsLikeC": 18.7,
-    "humidity": 53,
-    "windKph": 17,
+    "tempC": 21.3,
+    "feelsLikeC": 19.2,
+    "humidity": 52,
+    "windKph": 16.2,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T09:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T09:22:50.987+08:00",
+    "observedAt": "2026-10-28T09:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T09:33:02.665+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "来中国“取经”后，他们交出这样的兴乡答卷",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722000.shtml",
+        "publishedAt": "2026-10-28T09:21:40.000+08:00"
+      },
+      {
+        "title": "【这个城市有点潮】河南安阳：三千年文明，如何“潮”出圈？",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209046.shtml",
+        "publishedAt": "2026-10-28T09:20:40.000+08:00"
+      },
+      {
+        "title": "东北华北内蒙古中东部等地气温起伏 29日起西藏南部有强雨雪",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721992.shtml",
+        "publishedAt": "2026-10-28T09:19:44.000+08:00"
+      },
       {
         "title": "“阿尔纳卜”已经在印度沿海登陆 后天西藏降水进入最强时段",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721994.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中国小将孙心然广网首战告捷",
         "url": "https://www.chinanews.com.cn/ty/2026/10-28/10721987.shtml",
         "publishedAt": "2026-10-28T09:07:28.000+08:00"
-      },
-      {
-        "title": "受冷空气影响 泉金客运航线临时停航",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721991.shtml",
-        "publishedAt": "2026-10-28T09:06:32.000+08:00"
-      },
-      {
-        "title": "“随身提大水”的年轻人，不只是在玩梗",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721993.shtml",
-        "publishedAt": "2026-10-28T09:05:28.000+08:00"
-      },
-      {
-        "title": "第140届广交会到会境外采购商已达27.8万名",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721988.shtml",
-        "publishedAt": "2026-10-28T09:04:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T09:22:48.952+08:00",
+    "fetchedAt": "2026-10-28T09:33:00.076+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T09:22:49.684+08:00",
+      "fetchedAt": "2026-10-28T09:33:00.803+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T14:22:50.000+08:00"
+          "resetAt": "2026-10-28T14:33:02.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T09:22:49.687+08:00",
+      "fetchedAt": "2026-10-28T09:33:00.806+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T09:22:49.697+08:00",
+      "fetchedAt": "2026-10-28T09:33:00.817+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T09:22:49.697+08:00",
+      "fetchedAt": "2026-10-28T09:33:00.817+08:00",
       "error": "未启用",
       "disabled": true
     }
