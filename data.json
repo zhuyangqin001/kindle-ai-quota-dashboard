@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T14:09:05.722+08:00",
+  "updatedAt": "2026-10-28T14:19:20.997+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.4,
-    "feelsLikeC": 26,
+    "tempC": 26.5,
+    "feelsLikeC": 25.9,
     "humidity": 42,
-    "windKph": 9.6,
+    "windKph": 9.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T14:09:05.722+08:00",
+    "observedAt": "2026-10-28T14:15:00.000+08:00",
+    "fetchedAt": "2026-10-28T14:19:20.997+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东省第十届测绘地理信息行业职业技能竞赛在梅州举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722145.shtml",
-        "publishedAt": "2026-10-28T13:57:52.000+08:00"
+        "title": "深圳福田校园高尔夫球联赛收官 AI规则课堂亮相",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722153.shtml",
+        "publishedAt": "2026-10-28T14:13:16.000+08:00"
       },
       {
-        "title": "徐雄当选安徽省安庆市市长",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722146.shtml",
-        "publishedAt": "2026-10-28T13:57:12.000+08:00"
+        "title": "从“一人成军”到“群落共生” 湘江畔兴起AI轻创业",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722152.shtml",
+        "publishedAt": "2026-10-28T14:12:54.000+08:00"
       },
       {
-        "title": "《万绿湖》等三部力作在河源首发 鲁奖名家精彩点评",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722144.shtml",
-        "publishedAt": "2026-10-28T13:56:35.000+08:00"
+        "title": "中国（四川）—泰国经贸合作交流会在曼谷举办",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722148.shtml",
+        "publishedAt": "2026-10-28T14:12:18.000+08:00"
       },
       {
-        "title": "全国首单水利设施发电REITs在深交所上市",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722139.shtml",
-        "publishedAt": "2026-10-28T13:45:09.000+08:00"
+        "title": "（走进中国乡村）从“土特产”到大产业 张家口小杂粮“香飘”海外",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722151.shtml",
+        "publishedAt": "2026-10-28T14:09:44.000+08:00"
       },
       {
-        "title": "印度自卡塔尔进口液化天然气量创近八个月新高",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722137.shtml",
-        "publishedAt": "2026-10-28T13:44:59.000+08:00"
+        "title": "“村超”当“红娘” 贵州榕江香杉牵手南康家具产业",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722147.shtml",
+        "publishedAt": "2026-10-28T14:08:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T14:09:02.390+08:00",
+    "fetchedAt": "2026-10-28T14:19:16.100+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T14:09:03.136+08:00",
+      "fetchedAt": "2026-10-28T14:19:16.818+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T19:09:05.000+08:00"
+          "resetAt": "2026-10-28T19:19:20.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 20,
-          "resetAt": "2026-11-02T21:13:57.000+08:00"
+          "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T14:09:03.139+08:00",
+      "fetchedAt": "2026-10-28T14:19:16.821+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T14:09:03.148+08:00",
+      "fetchedAt": "2026-10-28T14:19:16.830+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T14:09:03.149+08:00",
+      "fetchedAt": "2026-10-28T14:19:16.830+08:00",
       "error": "未启用",
       "disabled": true
     }
