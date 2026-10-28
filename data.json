@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T16:01:33.159+08:00",
+  "updatedAt": "2026-10-28T16:11:46.099+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-28T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T16:01:33.159+08:00",
+    "fetchedAt": "2026-10-28T16:11:46.099+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "五年累计近30万亿元 黄河流域外贸规模稳步攀升",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722229.shtml",
+        "publishedAt": "2026-10-28T16:05:54.000+08:00"
+      },
+      {
+        "title": "事关孩子健康 4项新规11月起将正式实施",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-28/10722228.shtml",
+        "publishedAt": "2026-10-28T16:03:00.000+08:00"
+      },
+      {
+        "title": "青岛：红海滩湿地展现绚丽生态画卷",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209124.shtml",
+        "publishedAt": "2026-10-28T16:01:12.000+08:00"
+      },
+      {
+        "title": "中方：欢迎瑞士联邦主席帕姆兰来华访问",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722223.shtml",
+        "publishedAt": "2026-10-28T15:58:42.000+08:00"
+      },
+      {
         "title": "6公里外云端下指令 毫秒级响应 5G-A撑起百台无人矿卡",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722225.shtml",
         "publishedAt": "2026-10-28T15:42:35.000+08:00"
-      },
-      {
-        "title": "常吃这两种水果，高血压死亡风险竟然能降低40%！",
-        "url": "https://www.chinanews.com.cn/life/2026/10-28/10722224.shtml",
-        "publishedAt": "2026-10-28T15:41:27.000+08:00"
-      },
-      {
-        "title": "中方：对中东地区局势持续紧张深表关切 反对攻击民用目标",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722222.shtml",
-        "publishedAt": "2026-10-28T15:40:09.000+08:00"
-      },
-      {
-        "title": "从“失联三天”到“随时通话” 我国渤海海域迈入全域互联",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722221.shtml",
-        "publishedAt": "2026-10-28T15:39:17.000+08:00"
-      },
-      {
-        "title": "深秋时节 北京街景如画",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209119.shtml",
-        "publishedAt": "2026-10-28T15:39:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T16:01:29.862+08:00",
+    "fetchedAt": "2026-10-28T16:11:42.888+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T16:01:30.614+08:00",
+      "fetchedAt": "2026-10-28T16:11:43.610+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T16:01:30.617+08:00",
+      "fetchedAt": "2026-10-28T16:11:43.613+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T16:01:30.623+08:00",
+      "fetchedAt": "2026-10-28T16:11:43.623+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T16:01:30.623+08:00",
+      "fetchedAt": "2026-10-28T16:11:43.623+08:00",
       "error": "未启用",
       "disabled": true
     }
