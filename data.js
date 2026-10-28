@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T22:39:46.702+08:00",
+  "updatedAt": "2026-10-28T23:00:08.597+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.2,
-    "feelsLikeC": 20.3,
-    "humidity": 58,
-    "windKph": 11.2,
+    "tempC": 21,
+    "feelsLikeC": 20,
+    "humidity": 56,
+    "windKph": 11.1,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T22:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T22:39:46.703+08:00",
+    "observedAt": "2026-10-28T23:00:00.000+08:00",
+    "fetchedAt": "2026-10-28T23:00:08.598+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "又有8位已迎回在韩志愿军烈士确认身份！为烈士寻亲，如何寻？难在哪？怎么解？",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722485.shtml",
+        "publishedAt": "2026-10-28T22:43:46.000+08:00"
+      },
+      {
+        "title": "甘肃保安腰刀启“工厂模式” 传统技艺焕发新生机",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722480.shtml",
+        "publishedAt": "2026-10-28T22:37:22.000+08:00"
+      },
       {
         "title": "云南立法保护铁路安全 纳入跨境协作内容",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722477.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "18国跑酷高手11月挑战张家界天门山999级天梯",
         "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722475.shtml",
         "publishedAt": "2026-10-28T22:18:23.000+08:00"
-      },
-      {
-        "title": "大病留本地 外转降下来：跨省医疗帮扶让云南澄江大病不出市",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722474.shtml",
-        "publishedAt": "2026-10-28T22:18:21.000+08:00"
-      },
-      {
-        "title": "广西多点发力 加快完善生育支持政策体系",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722473.shtml",
-        "publishedAt": "2026-10-28T22:17:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T22:39:43.270+08:00",
+    "fetchedAt": "2026-10-28T23:00:03.322+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T22:39:43.788+08:00",
+      "fetchedAt": "2026-10-28T23:00:03.757+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 72,
-          "resetAt": "2026-10-29T01:01:57.000+08:00"
+          "usedPct": 79,
+          "resetAt": "2026-10-29T01:01:56.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 27,
-          "resetAt": "2026-11-04T15:01:40.000+08:00"
+          "usedPct": 28,
+          "resetAt": "2026-11-04T15:01:39.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T22:39:43.791+08:00",
+      "fetchedAt": "2026-10-28T23:00:03.759+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T22:39:43.800+08:00",
+      "fetchedAt": "2026-10-28T23:00:03.764+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T22:39:43.800+08:00",
+      "fetchedAt": "2026-10-28T23:00:03.764+08:00",
       "error": "未启用",
       "disabled": true
     }
