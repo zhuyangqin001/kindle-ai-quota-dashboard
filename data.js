@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T23:00:08.597+08:00",
+  "updatedAt": "2026-10-28T23:10:19.856+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-28T23:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T23:00:08.598+08:00",
+    "fetchedAt": "2026-10-28T23:10:19.857+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "西班牙列车相撞事故死亡人数上升至68人",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722486.shtml",
+        "publishedAt": "2026-10-28T22:59:15.000+08:00"
+      },
       {
         "title": "又有8位已迎回在韩志愿军烈士确认身份！为烈士寻亲，如何寻？难在哪？怎么解？",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722485.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "澜湄流域各国艺术家齐聚西双版纳 演绎多元文明交融共生",
         "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722476.shtml",
         "publishedAt": "2026-10-28T22:18:27.000+08:00"
-      },
-      {
-        "title": "18国跑酷高手11月挑战张家界天门山999级天梯",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722475.shtml",
-        "publishedAt": "2026-10-28T22:18:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T23:00:03.322+08:00",
+    "fetchedAt": "2026-10-28T23:10:17.343+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T23:00:03.757+08:00",
+      "fetchedAt": "2026-10-28T23:10:17.843+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 79,
+          "usedPct": 87,
           "resetAt": "2026-10-29T01:01:56.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 28,
-          "resetAt": "2026-11-04T15:01:39.000+08:00"
+          "usedPct": 29,
+          "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T23:00:03.759+08:00",
+      "fetchedAt": "2026-10-28T23:10:17.846+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T23:00:03.764+08:00",
+      "fetchedAt": "2026-10-28T23:10:17.852+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T23:00:03.764+08:00",
+      "fetchedAt": "2026-10-28T23:10:17.852+08:00",
       "error": "未启用",
       "disabled": true
     }
