@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T08:52:17.179+08:00",
+  "updatedAt": "2026-10-28T09:02:28.407+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20,
-    "feelsLikeC": 17.5,
-    "humidity": 55,
-    "windKph": 18.2,
+    "tempC": 20.4,
+    "feelsLikeC": 18.1,
+    "humidity": 54,
+    "windKph": 17.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-28T08:52:17.179+08:00",
+    "observedAt": "2026-10-28T09:00:00.000+08:00",
+    "fetchedAt": "2026-10-28T09:02:28.407+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "补肾气、调气血、健脾胃 这种“肾果”现在吃正合适→",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-28/10721990.shtml",
+        "publishedAt": "2026-10-28T08:57:39.000+08:00"
+      },
+      {
+        "title": "中缅智库高端论坛缘何扎根德宏",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10721986.shtml",
+        "publishedAt": "2026-10-28T08:54:55.000+08:00"
+      },
       {
         "title": "陪诊国标即将实施，将改变什么？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721985.shtml",
@@ -33,19 +43,9 @@
         "title": "中央气象台：北方和东部海区有大风天气 西藏南部将有强雨雪",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721981.shtml",
         "publishedAt": "2026-10-28T08:26:27.000+08:00"
-      },
-      {
-        "title": "核心部件本地配套率100%，芜湖航空小镇“坐地起飞”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721983.shtml",
-        "publishedAt": "2026-10-28T08:24:49.000+08:00"
-      },
-      {
-        "title": "优惠规则难倒AI？“双十一”岂能层层设套",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721982.shtml",
-        "publishedAt": "2026-10-28T08:21:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T08:52:14.082+08:00",
+    "fetchedAt": "2026-10-28T09:02:26.140+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T08:52:14.835+08:00",
+      "fetchedAt": "2026-10-28T09:02:26.875+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T13:52:17.000+08:00"
+          "resetAt": "2026-10-28T14:02:28.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T08:52:14.839+08:00",
+      "fetchedAt": "2026-10-28T09:02:26.878+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T08:52:14.849+08:00",
+      "fetchedAt": "2026-10-28T09:02:26.888+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T08:52:14.849+08:00",
+      "fetchedAt": "2026-10-28T09:02:26.888+08:00",
       "error": "未启用",
       "disabled": true
     }
