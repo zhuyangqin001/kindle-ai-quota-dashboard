@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T06:38:42.256+08:00",
+  "updatedAt": "2026-10-29T06:48:52.311+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.2,
-    "feelsLikeC": 18.7,
+    "tempC": 18.4,
+    "feelsLikeC": 18.8,
     "humidity": 71,
-    "windKph": 2.5,
+    "windKph": 3.1,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T06:38:42.256+08:00",
+    "observedAt": "2026-10-29T06:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T06:48:52.311+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美联储宣布维持联邦基金利率不变",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722495.shtml",
+        "publishedAt": "2026-10-29T06:39:44.000+08:00"
+      },
+      {
+        "title": "网红食品，谁在为“新奇”买单？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722494.shtml",
+        "publishedAt": "2026-10-29T06:37:12.000+08:00"
+      },
+      {
+        "title": "中方敦促国际法院确保国际法平等统一适用",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722493.shtml",
+        "publishedAt": "2026-10-29T06:34:28.000+08:00"
+      },
       {
         "title": "俄美乌三方谈判日期将公布 俄方称不邀欧洲参加",
         "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722492.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "我的声音被AI“偷”走了，咋维权？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722491.shtml",
         "publishedAt": "2026-10-29T06:25:22.000+08:00"
-      },
-      {
-        "title": "西班牙高铁事故关键录音曝光：调度员违规下令列车“恢复全速”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722490.shtml",
-        "publishedAt": "2026-10-29T06:17:13.000+08:00"
-      },
-      {
-        "title": "美联储宣布维持利率不变",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722489.shtml",
-        "publishedAt": "2026-10-29T06:15:41.000+08:00"
-      },
-      {
-        "title": "全国短池游泳锦标赛收官：连创纪录，多点突破",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722488.shtml",
-        "publishedAt": "2026-10-29T06:14:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T06:38:40.640+08:00",
+    "fetchedAt": "2026-10-29T06:48:50.706+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T06:38:40.980+08:00",
+      "fetchedAt": "2026-10-29T06:48:51.081+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T11:38:42.000+08:00"
+          "resetAt": "2026-10-29T11:48:52.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T06:38:40.982+08:00",
+      "fetchedAt": "2026-10-29T06:48:51.084+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T06:38:40.987+08:00",
+      "fetchedAt": "2026-10-29T06:48:51.089+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T06:38:40.987+08:00",
+      "fetchedAt": "2026-10-29T06:48:51.089+08:00",
       "error": "未启用",
       "disabled": true
     }
