@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T11:05:03.821+08:00",
+  "updatedAt": "2026-10-28T11:15:18.819+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.9,
-    "feelsLikeC": 23.5,
-    "humidity": 47,
-    "windKph": 11.8,
+    "tempC": 24.3,
+    "feelsLikeC": 24.1,
+    "humidity": 46,
+    "windKph": 11.3,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T11:05:03.822+08:00",
+    "observedAt": "2026-10-28T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-28T11:15:18.820+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "俄罗斯百人校长团启程仪式暨中俄中学联盟年会开幕式在京举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722066.shtml",
-        "publishedAt": "2026-10-28T10:56:16.000+08:00"
+        "title": "“零添加”等于更安全、更健康？丨中新真探",
+        "url": "https://www.chinanews.com.cn/life/2026/10-28/10722074.shtml",
+        "publishedAt": "2026-10-28T11:06:44.000+08:00"
       },
       {
-        "title": "西藏那曲市巴青县抗震救灾一线——共产党员，最闪亮的名字",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722071.shtml",
-        "publishedAt": "2026-10-28T10:56:08.000+08:00"
+        "title": "遇AI“换脸”带货，消费者能否索赔？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722078.shtml",
+        "publishedAt": "2026-10-28T11:06:14.000+08:00"
       },
       {
-        "title": "外媒：弗拉维奥·博索纳罗败选后离开巴西 已抵达美国佛罗里达州",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722070.shtml",
-        "publishedAt": "2026-10-28T10:55:12.000+08:00"
+        "title": "【在希望的田野上】各地秋收秋种有序推进",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722075.shtml",
+        "publishedAt": "2026-10-28T11:01:36.000+08:00"
       },
       {
-        "title": "从宜居到善治 沈阳用心打造老年友好幸福家园",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722068.shtml",
-        "publishedAt": "2026-10-28T10:55:10.000+08:00"
+        "title": "岛内多党派团体举办台湾光复纪念活动 国台办：发出了台湾同胞的正义之声",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722047.shtml",
+        "publishedAt": "2026-10-28T11:01:06.000+08:00"
       },
       {
-        "title": "北川大型泥石流野外试验基地投用",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722065.shtml",
-        "publishedAt": "2026-10-28T10:54:24.000+08:00"
+        "title": "各地重大水利工程加快建设",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722073.shtml",
+        "publishedAt": "2026-10-28T10:58:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T11:05:00.988+08:00",
+    "fetchedAt": "2026-10-28T11:15:14.916+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T11:05:01.724+08:00",
+      "fetchedAt": "2026-10-28T11:15:15.657+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T16:05:03.000+08:00"
+          "resetAt": "2026-10-28T16:15:18.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T11:05:01.727+08:00",
+      "fetchedAt": "2026-10-28T11:15:15.660+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T11:05:01.737+08:00",
+      "fetchedAt": "2026-10-28T11:15:15.669+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T11:05:01.737+08:00",
+      "fetchedAt": "2026-10-28T11:15:15.669+08:00",
       "error": "未启用",
       "disabled": true
     }
