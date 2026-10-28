@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T17:54:05.641+08:00",
+  "updatedAt": "2026-10-28T18:14:19.877+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 24.3,
-    "feelsLikeC": 24.6,
-    "humidity": 51,
-    "windKph": 5.9,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 23.9,
+    "feelsLikeC": 24.2,
+    "humidity": 53,
+    "windKph": 6.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T17:45:00.000+08:00",
-    "fetchedAt": "2026-10-28T17:54:05.641+08:00",
+    "observedAt": "2026-10-28T18:00:00.000+08:00",
+    "fetchedAt": "2026-10-28T18:14:19.877+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西藏南部将有强雨雪天气 北方将有大风降温过程",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722305.shtml",
-        "publishedAt": "2026-10-28T17:50:42.000+08:00"
+        "title": "“内部推荐”“直签保录” 别轻信！看这篇求职不踩坑",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722321.shtml",
+        "publishedAt": "2026-10-28T18:13:09.000+08:00"
       },
       {
-        "title": "黄埔全球供应链中心前三季度监管货值超63亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722299.shtml",
-        "publishedAt": "2026-10-28T17:48:04.000+08:00"
+        "title": "“香港同乡会寻根宁夏行”交流活动举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722311.shtml",
+        "publishedAt": "2026-10-28T18:12:19.000+08:00"
       },
       {
-        "title": "今年前三季度同江对俄进出口总值57亿元 同比增长235.5%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722301.shtml",
-        "publishedAt": "2026-10-28T17:48:02.000+08:00"
+        "title": "连续16年稳居世界第一 风电转出绿色增长新空间",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722313.shtml",
+        "publishedAt": "2026-10-28T18:06:01.000+08:00"
       },
       {
-        "title": "水鸟作“生态考官”：吉林松花江治理下沉至排污口",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722302.shtml",
-        "publishedAt": "2026-10-28T17:48:00.000+08:00"
+        "title": "刘延东同志逝世",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722312.shtml",
+        "publishedAt": "2026-10-28T18:03:45.000+08:00"
       },
       {
-        "title": "千年文脉生生不息 和合文化能为当下带来什么？",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722297.shtml",
-        "publishedAt": "2026-10-28T17:47:34.000+08:00"
+        "title": "山西太原：国际友城主题公交车亮相街头",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722293.shtml",
+        "publishedAt": "2026-10-28T18:03:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T17:54:03.437+08:00",
+    "fetchedAt": "2026-10-28T18:14:16.711+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T17:54:04.227+08:00",
+      "fetchedAt": "2026-10-28T18:14:17.417+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 29,
+          "usedPct": 41,
           "resetAt": "2026-10-28T20:01:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 5,
+          "usedPct": 6,
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T17:54:04.231+08:00",
+      "fetchedAt": "2026-10-28T18:14:17.419+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T17:54:04.241+08:00",
+      "fetchedAt": "2026-10-28T18:14:17.424+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T17:54:04.241+08:00",
+      "fetchedAt": "2026-10-28T18:14:17.424+08:00",
       "error": "未启用",
       "disabled": true
     }
