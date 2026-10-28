@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T19:15:29.738+08:00",
+  "updatedAt": "2026-10-28T19:25:40.147+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-28T19:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T19:15:29.738+08:00",
+    "fetchedAt": "2026-10-28T19:25:40.147+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "我国发现三颗“本不该存在”的行星 它们为何能逃过恒星吞噬？",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722372.shtml",
+        "publishedAt": "2026-10-28T19:17:23.000+08:00"
+      },
+      {
+        "title": "长征路上的归侨中将庄田：血战湘江撕防线，三过草地破危局",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-28/10722368.shtml",
+        "publishedAt": "2026-10-28T19:14:45.000+08:00"
+      },
+      {
+        "title": "福州：人行天桥“戴”上巨型花环",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722317.shtml",
+        "publishedAt": "2026-10-28T19:14:45.000+08:00"
+      },
       {
         "title": "襄渝、兰渝铁路第二阶段集中修启动",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722369.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "锚定长期主义，共创增长新未来，美孚1号车养护2026“1号领创会”在沪举办",
         "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722343.shtml",
         "publishedAt": "2026-10-28T19:13:51.000+08:00"
-      },
-      {
-        "title": "青科会“AI＋”中外青年科学家圆桌会在瓯江实验室举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722345.shtml",
-        "publishedAt": "2026-10-28T19:13:47.000+08:00"
-      },
-      {
-        "title": "郑州出台培育钻石产业三年行动方案 到2028年产业规模达200亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722346.shtml",
-        "publishedAt": "2026-10-28T19:13:45.000+08:00"
-      },
-      {
-        "title": "（文化中国行·校馆弦歌）中国人民大学图书馆：红色文献与古籍珍本焕发新生机",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722354.shtml",
-        "publishedAt": "2026-10-28T19:13:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T19:15:27.612+08:00",
+    "fetchedAt": "2026-10-28T19:25:38.177+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T19:15:27.958+08:00",
+      "fetchedAt": "2026-10-28T19:25:38.773+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 71,
+          "usedPct": 75,
           "resetAt": "2026-10-28T20:01:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 11,
+          "usedPct": 12,
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T19:15:27.960+08:00",
+      "fetchedAt": "2026-10-28T19:25:38.775+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T19:15:27.965+08:00",
+      "fetchedAt": "2026-10-28T19:25:38.780+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T19:15:27.965+08:00",
+      "fetchedAt": "2026-10-28T19:25:38.780+08:00",
       "error": "未启用",
       "disabled": true
     }
