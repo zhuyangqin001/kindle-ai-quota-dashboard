@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T08:21:42.048+08:00",
+  "updatedAt": "2026-10-28T08:31:53.520+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.2,
-    "feelsLikeC": 16.6,
-    "humidity": 58,
-    "windKph": 19,
+    "tempC": 19.6,
+    "feelsLikeC": 17.1,
+    "humidity": 57,
+    "windKph": 18.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T08:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T08:21:42.048+08:00",
+    "observedAt": "2026-10-28T08:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T08:31:53.521+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "秋色染金！全国银杏观赏地图出炉 多种玩法带你探索银杏之美",
+        "url": "https://www.chinanews.com.cn/life/2026/10-28/10721984.shtml",
+        "publishedAt": "2026-10-28T08:27:36.000+08:00"
+      },
+      {
+        "title": "中央气象台：北方和东部海区有大风天气 西藏南部将有强雨雪",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721981.shtml",
+        "publishedAt": "2026-10-28T08:26:27.000+08:00"
+      },
+      {
+        "title": "核心部件本地配套率100%，芜湖航空小镇“坐地起飞”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721983.shtml",
+        "publishedAt": "2026-10-28T08:24:49.000+08:00"
+      },
+      {
+        "title": "优惠规则难倒AI？“双十一”岂能层层设套",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721982.shtml",
+        "publishedAt": "2026-10-28T08:21:43.000+08:00"
+      },
+      {
         "title": "《医疗康复护理扩容提升工程实施方案》发布 专家解读",
         "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721980.shtml",
         "publishedAt": "2026-10-28T08:07:52.000+08:00"
-      },
-      {
-        "title": "超市生鲜一夜之间全都变质？国安部：警惕网络攻击",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721978.shtml",
-        "publishedAt": "2026-10-28T08:05:16.000+08:00"
-      },
-      {
-        "title": "多地侨乡创新实践，助力文化“新三样”出海",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721977.shtml",
-        "publishedAt": "2026-10-28T08:00:42.000+08:00"
-      },
-      {
-        "title": "美国10月消费者信心指数回升至91.7 好于市场预期",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721975.shtml",
-        "publishedAt": "2026-10-28T07:59:54.000+08:00"
-      },
-      {
-        "title": "特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大”",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721974.shtml",
-        "publishedAt": "2026-10-28T07:43:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T08:21:39.689+08:00",
+    "fetchedAt": "2026-10-28T08:31:51.092+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T08:21:40.441+08:00",
+      "fetchedAt": "2026-10-28T08:31:51.832+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T13:21:41.000+08:00"
+          "resetAt": "2026-10-28T13:31:53.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T08:21:40.443+08:00",
+      "fetchedAt": "2026-10-28T08:31:51.835+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T08:21:40.452+08:00",
+      "fetchedAt": "2026-10-28T08:31:51.845+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T08:21:40.452+08:00",
+      "fetchedAt": "2026-10-28T08:31:51.845+08:00",
       "error": "未启用",
       "disabled": true
     }
