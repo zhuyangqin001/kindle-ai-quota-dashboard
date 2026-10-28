@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T18:34:44.950+08:00",
+  "updatedAt": "2026-10-28T18:44:56.429+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-28T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T18:34:44.950+08:00",
+    "fetchedAt": "2026-10-28T18:44:56.429+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西班牙列车相撞事故死亡人数升至50人",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722337.shtml",
-        "publishedAt": "2026-10-28T18:31:38.000+08:00"
+        "title": "云南禄丰发现恐龙蛋新种 改写恐龙蛋壳早期演化认知",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722328.shtml",
+        "publishedAt": "2026-10-28T18:44:15.000+08:00"
       },
       {
-        "title": "山西阳高：冷棚暖棚菌菇棚轮番上阵 全年生产“不打烊”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722322.shtml",
-        "publishedAt": "2026-10-28T18:28:30.000+08:00"
+        "title": "中国捷克斯洛伐克友谊农场建场70年 捷克友人寻访父辈足迹",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722327.shtml",
+        "publishedAt": "2026-10-28T18:43:27.000+08:00"
       },
       {
-        "title": "武汉打造“机器人职业学院”：为机器人定制AI教材",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722330.shtml",
-        "publishedAt": "2026-10-28T18:24:54.000+08:00"
+        "title": "逾六千名中外采购商山东临沂对接洽谈合作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722341.shtml",
+        "publishedAt": "2026-10-28T18:43:01.000+08:00"
       },
       {
-        "title": "（友城故事）7400公里外，一座德国小城“开”进太原",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722325.shtml",
-        "publishedAt": "2026-10-28T18:23:36.000+08:00"
+        "title": "华侨华人推动武术海外落地开花",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-28/10722340.shtml",
+        "publishedAt": "2026-10-28T18:41:53.000+08:00"
       },
       {
-        "title": "寻踪大运河文脉：一位文博人眼中的运河南端与千年漕运",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722308.shtml",
-        "publishedAt": "2026-10-28T18:21:50.000+08:00"
+        "title": "550多位潮侨返乡 广东揭阳潮侨坊开馆聚侨力",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-28/10722339.shtml",
+        "publishedAt": "2026-10-28T18:41:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T18:34:41.414+08:00",
+    "fetchedAt": "2026-10-28T18:44:54.705+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T18:34:41.807+08:00",
+      "fetchedAt": "2026-10-28T18:44:55.062+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 63,
+          "usedPct": 71,
           "resetAt": "2026-10-28T20:01:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 10,
+          "usedPct": 11,
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T18:34:41.809+08:00",
+      "fetchedAt": "2026-10-28T18:44:55.064+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T18:34:41.813+08:00",
+      "fetchedAt": "2026-10-28T18:44:55.068+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T18:34:41.814+08:00",
+      "fetchedAt": "2026-10-28T18:44:55.069+08:00",
       "error": "未启用",
       "disabled": true
     }
