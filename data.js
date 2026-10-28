@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T10:03:41.782+08:00",
+  "updatedAt": "2026-10-28T10:13:56.113+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-28T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T10:03:41.782+08:00",
+    "fetchedAt": "2026-10-28T10:13:56.113+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "CBA常规赛：浙江队81比75战胜新疆队",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722006.shtml",
-        "publishedAt": "2026-10-28T09:53:04.000+08:00"
+        "title": "第九届进博会布展启动 展品直通最快仅需35分钟",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722028.shtml",
+        "publishedAt": "2026-10-28T10:06:53.000+08:00"
       },
       {
-        "title": "坚守初心使命，始终保持党同人民群众的血肉联系——习近平党建思想引领新时代全面从严治党系列述评之二",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722014.shtml",
-        "publishedAt": "2026-10-28T09:48:48.000+08:00"
+        "title": "中方发布加强外空治理立场文件传递何种信号？",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722027.shtml",
+        "publishedAt": "2026-10-28T10:05:57.000+08:00"
       },
       {
-        "title": "关注中国，就是关注未来",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722021.shtml",
-        "publishedAt": "2026-10-28T09:46:14.000+08:00"
+        "title": "荷兰农场接连暴发禽流感疫情 逾4.5万只家禽被扑杀",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721976.shtml",
+        "publishedAt": "2026-10-28T10:03:43.000+08:00"
       },
       {
-        "title": "每天坚持做这8个“长寿动作”，身体会感谢你！",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-28/10722020.shtml",
-        "publishedAt": "2026-10-28T09:44:52.000+08:00"
+        "title": "日本“25式地对舰导弹”首次参加大规模军演",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722026.shtml",
+        "publishedAt": "2026-10-28T10:02:27.000+08:00"
       },
       {
-        "title": "全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722019.shtml",
-        "publishedAt": "2026-10-28T09:44:00.000+08:00"
+        "title": "中山投资控股集团有限公司原高级顾问罗锐鸿被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721998.shtml",
+        "publishedAt": "2026-10-28T10:02:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T10:03:38.243+08:00",
+    "fetchedAt": "2026-10-28T10:13:52.293+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T10:03:38.967+08:00",
+      "fetchedAt": "2026-10-28T10:13:53.033+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T15:03:40.000+08:00"
+          "resetAt": "2026-10-28T15:13:55.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T10:03:38.970+08:00",
+      "fetchedAt": "2026-10-28T10:13:53.036+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T10:03:38.981+08:00",
+      "fetchedAt": "2026-10-28T10:13:53.046+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T10:03:38.981+08:00",
+      "fetchedAt": "2026-10-28T10:13:53.046+08:00",
       "error": "未启用",
       "disabled": true
     }
