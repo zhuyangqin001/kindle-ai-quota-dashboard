@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T09:43:15.432+08:00",
+  "updatedAt": "2026-10-28T09:53:28.195+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.3,
-    "feelsLikeC": 19.2,
-    "humidity": 52,
-    "windKph": 16.2,
+    "tempC": 21.7,
+    "feelsLikeC": 19.8,
+    "humidity": 51,
+    "windKph": 15.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T09:43:15.432+08:00",
+    "observedAt": "2026-10-28T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-28T09:53:28.195+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "改名“搬运”AI微短剧是否构成侵权？",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-28/10722016.shtml",
-        "publishedAt": "2026-10-28T09:37:21.000+08:00"
+        "title": "关注中国，就是关注未来",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722021.shtml",
+        "publishedAt": "2026-10-28T09:46:14.000+08:00"
       },
       {
-        "title": "10月28日央行开展1510亿元7天期逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722012.shtml",
-        "publishedAt": "2026-10-28T09:37:05.000+08:00"
+        "title": "每天坚持做这8个“长寿动作”，身体会感谢你！",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-28/10722020.shtml",
+        "publishedAt": "2026-10-28T09:44:52.000+08:00"
       },
       {
-        "title": "“素人靠卖脸3天赚3500元”？警惕“卖脸兼职”背后的法律风险",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-28/10722013.shtml",
-        "publishedAt": "2026-10-28T09:34:53.000+08:00"
+        "title": "全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722019.shtml",
+        "publishedAt": "2026-10-28T09:44:00.000+08:00"
       },
       {
-        "title": "安徽文旅发放“秋假大礼包”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722007.shtml",
-        "publishedAt": "2026-10-28T09:34:17.000+08:00"
+        "title": "中期选举在即 特朗普支持率从历史低点回升",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721995.shtml",
+        "publishedAt": "2026-10-28T09:42:34.000+08:00"
       },
       {
-        "title": "2026中欧微短剧峰会在巴黎举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722002.shtml",
-        "publishedAt": "2026-10-28T09:33:13.000+08:00"
+        "title": "金观平：有的放矢提高基础研究实力",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-28/10722017.shtml",
+        "publishedAt": "2026-10-28T09:41:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T09:43:12.268+08:00",
+    "fetchedAt": "2026-10-28T09:53:25.757+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T09:43:12.987+08:00",
+      "fetchedAt": "2026-10-28T09:53:26.503+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T14:43:14.000+08:00"
+          "resetAt": "2026-10-28T14:53:28.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T09:43:12.990+08:00",
+      "fetchedAt": "2026-10-28T09:53:26.506+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T09:43:12.999+08:00",
+      "fetchedAt": "2026-10-28T09:53:26.516+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T09:43:13.000+08:00",
+      "fetchedAt": "2026-10-28T09:53:26.516+08:00",
       "error": "未启用",
       "disabled": true
     }
