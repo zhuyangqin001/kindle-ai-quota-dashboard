@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-28T08:11:30.826+08:00",
+  "updatedAt": "2026-10-28T08:21:42.048+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.9,
-    "feelsLikeC": 16.1,
+    "tempC": 19.2,
+    "feelsLikeC": 16.6,
     "humidity": 58,
-    "windKph": 19.4,
+    "windKph": 19,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T08:11:30.826+08:00",
+    "observedAt": "2026-10-28T08:15:00.000+08:00",
+    "fetchedAt": "2026-10-28T08:21:42.048+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《医疗康复护理扩容提升工程实施方案》发布 专家解读",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721980.shtml",
+        "publishedAt": "2026-10-28T08:07:52.000+08:00"
+      },
+      {
+        "title": "超市生鲜一夜之间全都变质？国安部：警惕网络攻击",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721978.shtml",
+        "publishedAt": "2026-10-28T08:05:16.000+08:00"
+      },
       {
         "title": "多地侨乡创新实践，助力文化“新三样”出海",
         "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721977.shtml",
@@ -33,19 +43,9 @@
         "title": "特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大”",
         "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721974.shtml",
         "publishedAt": "2026-10-28T07:43:55.000+08:00"
-      },
-      {
-        "title": "微短剧出海：融入当地语境，才能走得更远",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721973.shtml",
-        "publishedAt": "2026-10-28T07:33:05.000+08:00"
-      },
-      {
-        "title": "全球AI投资持续升温，增长与风险如何平衡",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721972.shtml",
-        "publishedAt": "2026-10-28T07:22:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T08:11:28.447+08:00",
+    "fetchedAt": "2026-10-28T08:21:39.689+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T08:11:29.104+08:00",
+      "fetchedAt": "2026-10-28T08:21:40.441+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T13:11:30.000+08:00"
+          "resetAt": "2026-10-28T13:21:41.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T08:11:29.106+08:00",
+      "fetchedAt": "2026-10-28T08:21:40.443+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T08:11:29.116+08:00",
+      "fetchedAt": "2026-10-28T08:21:40.452+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T08:11:29.116+08:00",
+      "fetchedAt": "2026-10-28T08:21:40.452+08:00",
       "error": "未启用",
       "disabled": true
     }
