@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T08:01:18.991+08:00",
+  "updatedAt": "2026-10-28T08:11:30.826+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 18.9,
     "feelsLikeC": 16.1,
     "humidity": 58,
-    "windKph": 19.5,
+    "windKph": 19.4,
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-28T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T08:01:18.991+08:00",
+    "fetchedAt": "2026-10-28T08:11:30.826+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "多地侨乡创新实践，助力文化“新三样”出海",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721977.shtml",
+        "publishedAt": "2026-10-28T08:00:42.000+08:00"
+      },
+      {
+        "title": "美国10月消费者信心指数回升至91.7 好于市场预期",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721975.shtml",
+        "publishedAt": "2026-10-28T07:59:54.000+08:00"
+      },
       {
         "title": "特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大”",
         "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721974.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "全球AI投资持续升温，增长与风险如何平衡",
         "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721972.shtml",
         "publishedAt": "2026-10-28T07:22:34.000+08:00"
-      },
-      {
-        "title": "美军在东太平洋对一艘“贩毒船”实施打击 已致5人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721971.shtml",
-        "publishedAt": "2026-10-28T07:21:40.000+08:00"
-      },
-      {
-        "title": "孟湾气旋真能“撞击”喜马拉雅山脉吗？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10721970.shtml",
-        "publishedAt": "2026-10-28T07:19:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T08:01:16.407+08:00",
+    "fetchedAt": "2026-10-28T08:11:28.447+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T08:01:17.154+08:00",
+      "fetchedAt": "2026-10-28T08:11:29.104+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T13:01:18.000+08:00"
+          "resetAt": "2026-10-28T13:11:30.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T08:01:17.157+08:00",
+      "fetchedAt": "2026-10-28T08:11:29.106+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T08:01:17.167+08:00",
+      "fetchedAt": "2026-10-28T08:11:29.116+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T08:01:17.167+08:00",
+      "fetchedAt": "2026-10-28T08:11:29.116+08:00",
       "error": "未启用",
       "disabled": true
     }
