@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T19:35:52.265+08:00",
+  "updatedAt": "2026-10-28T19:46:05.325+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.4,
-    "feelsLikeC": 22.1,
+    "tempC": 22.2,
+    "feelsLikeC": 21.9,
     "humidity": 58,
-    "windKph": 10.1,
+    "windKph": 10.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T19:35:52.265+08:00",
+    "observedAt": "2026-10-28T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-28T19:46:05.325+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国官方部署西藏强降雪天气防范应对",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722342.shtml",
+        "publishedAt": "2026-10-28T19:30:29.000+08:00"
+      },
       {
         "title": "探访“植物大熊猫”崖柏繁育科研基地",
         "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722371.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "海外华文媒体走访青岛科创大走廊 感受中国创新活力",
         "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722365.shtml",
         "publishedAt": "2026-10-28T19:20:09.000+08:00"
-      },
-      {
-        "title": "我国发现三颗“本不该存在”的行星 它们为何能逃过恒星吞噬？",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722372.shtml",
-        "publishedAt": "2026-10-28T19:17:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T19:35:49.443+08:00",
+    "fetchedAt": "2026-10-28T19:46:01.635+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T19:35:49.856+08:00",
+      "fetchedAt": "2026-10-28T19:46:02.007+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 85,
+          "usedPct": 91,
           "resetAt": "2026-10-28T20:01:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 13,
+          "usedPct": 14,
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T19:35:49.858+08:00",
+      "fetchedAt": "2026-10-28T19:46:02.008+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T19:35:49.862+08:00",
+      "fetchedAt": "2026-10-28T19:46:02.013+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T19:35:49.862+08:00",
+      "fetchedAt": "2026-10-28T19:46:02.013+08:00",
       "error": "未启用",
       "disabled": true
     }
