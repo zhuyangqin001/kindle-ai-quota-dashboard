@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T17:33:41.122+08:00",
+  "updatedAt": "2026-10-28T17:43:53.123+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-28T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T17:33:41.122+08:00",
+    "fetchedAt": "2026-10-28T17:43:53.123+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "江西省以“我的井冈行”为重点的青少年思政实践活动在井冈山启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722285.shtml",
+        "publishedAt": "2026-10-28T17:36:41.000+08:00"
+      },
+      {
+        "title": "烟台港成功接卸安哥拉进口石材荒料",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722288.shtml",
+        "publishedAt": "2026-10-28T17:36:35.000+08:00"
+      },
+      {
+        "title": "宁夏引黄灌区开启“冬灌”模式",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722286.shtml",
+        "publishedAt": "2026-10-28T17:33:13.000+08:00"
+      },
+      {
+        "title": "解析三季报：电子行业与高技术制造业贡献突出",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722289.shtml",
+        "publishedAt": "2026-10-28T17:31:17.000+08:00"
+      },
+      {
         "title": "停了61分钟，按2小时收费，凭什么？",
         "url": "https://www.chinanews.com.cn/ll/2026/10-28/10722287.shtml",
         "publishedAt": "2026-10-28T17:21:07.000+08:00"
-      },
-      {
-        "title": "东西问丨王敏：如何从新疆非遗中读懂中华文化？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-28/10722274.shtml",
-        "publishedAt": "2026-10-28T17:01:41.000+08:00"
-      },
-      {
-        "title": "两部门部署西藏强降雪天气防范应对工作",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722278.shtml",
-        "publishedAt": "2026-10-28T17:01:07.000+08:00"
-      },
-      {
-        "title": "四川省旅游景区发展大会召开 聚焦国有景区改革",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722277.shtml",
-        "publishedAt": "2026-10-28T17:00:27.000+08:00"
-      },
-      {
-        "title": "中国大规模研究发现：吃肉可能与长寿有关，尤其是在体重较轻的老人中",
-        "url": "https://www.chinanews.com.cn/life/2026/10-28/10722282.shtml",
-        "publishedAt": "2026-10-28T16:59:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T17:33:37.149+08:00",
+    "fetchedAt": "2026-10-28T17:43:50.812+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T17:33:37.828+08:00",
+      "fetchedAt": "2026-10-28T17:43:51.535+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 21,
+          "usedPct": 25,
           "resetAt": "2026-10-28T20:01:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 3,
+          "usedPct": 4,
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T17:33:37.831+08:00",
+      "fetchedAt": "2026-10-28T17:43:51.538+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T17:33:37.840+08:00",
+      "fetchedAt": "2026-10-28T17:43:51.547+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T17:33:37.840+08:00",
+      "fetchedAt": "2026-10-28T17:43:51.548+08:00",
       "error": "未启用",
       "disabled": true
     }
