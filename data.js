@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T06:59:02.069+08:00",
+  "updatedAt": "2026-10-29T07:09:11.937+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.4,
-    "feelsLikeC": 18.8,
-    "humidity": 71,
-    "windKph": 3.1,
+    "tempC": 18.6,
+    "feelsLikeC": 19.1,
+    "humidity": 70,
+    "windKph": 3.3,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T06:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T06:59:02.069+08:00",
+    "observedAt": "2026-10-29T07:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T07:09:11.937+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10月29日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-29/10722500.shtml",
+        "publishedAt": "2026-10-29T07:02:00.000+08:00"
+      },
+      {
+        "title": "西班牙高铁相撞致68死 调度录音曝光还原事发经过",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722499.shtml",
+        "publishedAt": "2026-10-29T06:57:23.000+08:00"
+      },
       {
         "title": "西班牙列车相撞已致68人死亡，首相宣布全国哀悼三天",
         "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722498.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "2.5亿人次已受益 多地以旧换新上新 最高补贴2000元",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722496.shtml",
         "publishedAt": "2026-10-29T06:43:11.000+08:00"
-      },
-      {
-        "title": "美联储宣布维持联邦基金利率不变",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722495.shtml",
-        "publishedAt": "2026-10-29T06:39:44.000+08:00"
-      },
-      {
-        "title": "网红食品，谁在为“新奇”买单？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722494.shtml",
-        "publishedAt": "2026-10-29T06:37:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T06:59:00.434+08:00",
+    "fetchedAt": "2026-10-29T07:09:09.956+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T06:59:00.825+08:00",
+      "fetchedAt": "2026-10-29T07:09:10.631+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T11:59:02.000+08:00"
+          "resetAt": "2026-10-29T12:09:11.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T06:59:00.827+08:00",
+      "fetchedAt": "2026-10-29T07:09:10.634+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T06:59:00.832+08:00",
+      "fetchedAt": "2026-10-29T07:09:10.643+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T06:59:00.833+08:00",
+      "fetchedAt": "2026-10-29T07:09:10.643+08:00",
       "error": "未启用",
       "disabled": true
     }
