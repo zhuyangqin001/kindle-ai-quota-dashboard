@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T20:06:31.498+08:00",
+  "updatedAt": "2026-10-28T20:16:44.022+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.1,
-    "feelsLikeC": 21.7,
+    "tempC": 22,
+    "feelsLikeC": 21.5,
     "humidity": 59,
-    "windKph": 10.4,
-    "windDir": "北风",
+    "windKph": 10.6,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T20:06:31.498+08:00",
+    "observedAt": "2026-10-28T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-28T20:16:44.022+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中新健康｜哈佛大学医学院荣休教授：中国药物研发已进入全新阶段",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-28/10722387.shtml",
+        "publishedAt": "2026-10-28T20:06:49.000+08:00"
+      },
+      {
+        "title": "海外“AI”不释手！中国造爆款 订单排到明年→",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722386.shtml",
+        "publishedAt": "2026-10-28T20:01:15.000+08:00"
+      },
+      {
+        "title": "深化中国—东盟务实合作 专家提五大建议",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722377.shtml",
+        "publishedAt": "2026-10-28T20:00:33.000+08:00"
+      },
       {
         "title": "第六届川台茶文化茶产业传承与创新研习营在成都启动",
         "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722376.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "第九届“中国—东盟青年风汇”在京举行",
         "url": "https://www.chinanews.com.cn/edu/2026/10-28/10722381.shtml",
         "publishedAt": "2026-10-28T19:57:49.000+08:00"
-      },
-      {
-        "title": "中国品牌凭实力海外圈粉",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722379.shtml",
-        "publishedAt": "2026-10-28T19:56:05.000+08:00"
-      },
-      {
-        "title": "雄安大学城疏解配套二期标段五项目主体结构全面封顶",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722383.shtml",
-        "publishedAt": "2026-10-28T19:55:59.000+08:00"
-      },
-      {
-        "title": "重庆“母城”渝中以系列举措助推文旅体融合发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722374.shtml",
-        "publishedAt": "2026-10-28T19:53:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T20:06:27.322+08:00",
+    "fetchedAt": "2026-10-28T20:16:41.545+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T20:06:27.689+08:00",
+      "fetchedAt": "2026-10-28T20:16:41.929+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T20:06:27.691+08:00",
+      "fetchedAt": "2026-10-28T20:16:41.931+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T20:06:27.695+08:00",
+      "fetchedAt": "2026-10-28T20:16:41.936+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T20:06:27.695+08:00",
+      "fetchedAt": "2026-10-28T20:16:41.936+08:00",
       "error": "未启用",
       "disabled": true
     }
