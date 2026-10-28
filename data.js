@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T07:09:11.937+08:00",
+  "updatedAt": "2026-10-29T07:19:22.139+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.6,
-    "feelsLikeC": 19.1,
-    "humidity": 70,
-    "windKph": 3.3,
+    "tempC": 18.9,
+    "feelsLikeC": 19.4,
+    "humidity": 69,
+    "windKph": 3.1,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T07:09:11.937+08:00",
+    "observedAt": "2026-10-29T07:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T07:19:22.139+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "员工用AI辅助办公被辞退：是个人违规，还是企业违法",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722501.shtml",
+        "publishedAt": "2026-10-29T07:11:50.000+08:00"
+      },
       {
         "title": "10月29日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-29/10722500.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "古巴欢迎联大再次通过决议敦促美国结束对古封锁",
         "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722497.shtml",
         "publishedAt": "2026-10-29T06:47:41.000+08:00"
-      },
-      {
-        "title": "2.5亿人次已受益 多地以旧换新上新 最高补贴2000元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722496.shtml",
-        "publishedAt": "2026-10-29T06:43:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T07:09:09.956+08:00",
+    "fetchedAt": "2026-10-29T07:19:20.100+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T07:09:10.631+08:00",
+      "fetchedAt": "2026-10-29T07:19:20.660+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T12:09:11.000+08:00"
+          "resetAt": "2026-10-29T12:19:21.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T07:09:10.634+08:00",
+      "fetchedAt": "2026-10-29T07:19:20.662+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T07:09:10.643+08:00",
+      "fetchedAt": "2026-10-29T07:19:20.667+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T07:09:10.643+08:00",
+      "fetchedAt": "2026-10-29T07:19:20.667+08:00",
       "error": "未启用",
       "disabled": true
     }
