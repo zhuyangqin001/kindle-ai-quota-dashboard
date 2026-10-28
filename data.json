@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T11:45:58.924+08:00",
+  "updatedAt": "2026-10-28T11:56:11.350+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-28T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-28T11:45:58.924+08:00",
+    "fetchedAt": "2026-10-28T11:56:11.350+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "澳大利亚向我国返还2件流失文物",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722103.shtml",
-        "publishedAt": "2026-10-28T11:33:06.000+08:00"
+        "title": "庄河新联会开展“新阶层·建设力”主题月系列直播活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722096.shtml",
+        "publishedAt": "2026-10-28T11:46:38.000+08:00"
       },
       {
-        "title": "“山海情深”映照中华民族一家亲",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-28/10722101.shtml",
-        "publishedAt": "2026-10-28T11:31:40.000+08:00"
+        "title": "世界中文报业协会年会在澳门举行 共商百年变局下中文报业发展",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-28/10722095.shtml",
+        "publishedAt": "2026-10-28T11:44:14.000+08:00"
       },
       {
-        "title": "谁在守护“中国的大钟” 《北京时间从这里出发》出版发行",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-28/10722094.shtml",
-        "publishedAt": "2026-10-28T11:30:25.000+08:00"
+        "title": "中新网评：别成为下一个姆巴佩",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-28/10722104.shtml",
+        "publishedAt": "2026-10-28T11:43:52.000+08:00"
       },
       {
-        "title": "青春华章｜上天、入地、钻隧……中国基建的“机器医生”有多拼？",
-        "url": "http://www.chinanews.com.cn/sh/shipin/2026/10-28/news1073156.shtml",
-        "publishedAt": "2026-10-28T11:21:33.000+08:00"
+        "title": "澳大利亚首任驻华文化参赞梅卓琳：推开理解中国的那扇窗",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-28/10722081.shtml",
+        "publishedAt": "2026-10-28T11:40:58.000+08:00"
       },
       {
-        "title": "我国农用无人机保有量超30万架 居全球首位",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722092.shtml",
-        "publishedAt": "2026-10-28T11:20:31.000+08:00"
+        "title": "第三季度国家标准下载量超1200万人次 同比增长78%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722097.shtml",
+        "publishedAt": "2026-10-28T11:38:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T11:45:56.026+08:00",
+    "fetchedAt": "2026-10-28T11:56:09.177+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T11:45:56.735+08:00",
+      "fetchedAt": "2026-10-28T11:56:09.926+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-28T16:45:58.000+08:00"
+          "resetAt": "2026-10-28T16:56:11.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-02T21:13:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T11:45:56.739+08:00",
+      "fetchedAt": "2026-10-28T11:56:09.929+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T11:45:56.748+08:00",
+      "fetchedAt": "2026-10-28T11:56:09.938+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T11:45:56.749+08:00",
+      "fetchedAt": "2026-10-28T11:56:09.939+08:00",
       "error": "未启用",
       "disabled": true
     }
