@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T15:41:07.202+08:00",
+  "updatedAt": "2026-10-28T15:51:19.534+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.4,
+    "tempC": 26.3,
     "feelsLikeC": 26.4,
     "humidity": 44,
-    "windKph": 5.9,
+    "windKph": 5.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-28T15:41:07.202+08:00",
+    "observedAt": "2026-10-28T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-28T15:51:19.534+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全国消费品以旧换新工作推进电视电话会议在京召开",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722218.shtml",
-        "publishedAt": "2026-10-28T15:32:15.000+08:00"
+        "title": "6公里外云端下指令 毫秒级响应 5G-A撑起百台无人矿卡",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722225.shtml",
+        "publishedAt": "2026-10-28T15:42:35.000+08:00"
       },
       {
-        "title": "外交部：中方对中东地区局势持续紧张深表关切",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722217.shtml",
-        "publishedAt": "2026-10-28T15:30:27.000+08:00"
+        "title": "常吃这两种水果，高血压死亡风险竟然能降低40%！",
+        "url": "https://www.chinanews.com.cn/life/2026/10-28/10722224.shtml",
+        "publishedAt": "2026-10-28T15:41:27.000+08:00"
       },
       {
-        "title": "云南省第十三届少数民族传统体育运动会：花炮赛场上演精彩对决",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722216.shtml",
-        "publishedAt": "2026-10-28T15:30:05.000+08:00"
+        "title": "中方：对中东地区局势持续紧张深表关切 反对攻击民用目标",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722222.shtml",
+        "publishedAt": "2026-10-28T15:40:09.000+08:00"
       },
       {
-        "title": "澳大利亚向中方返还2件流失文物",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722195.shtml",
-        "publishedAt": "2026-10-28T15:27:46.000+08:00"
+        "title": "从“失联三天”到“随时通话” 我国渤海海域迈入全域互联",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722221.shtml",
+        "publishedAt": "2026-10-28T15:39:17.000+08:00"
       },
       {
-        "title": "每月生产300枚导弹、1万架无人机？伊朗加紧战备工作",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-28/10722129.shtml",
-        "publishedAt": "2026-10-28T15:26:48.000+08:00"
+        "title": "深秋时节 北京街景如画",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209119.shtml",
+        "publishedAt": "2026-10-28T15:39:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T15:41:04.193+08:00",
+    "fetchedAt": "2026-10-28T15:51:16.577+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T15:41:04.947+08:00",
+      "fetchedAt": "2026-10-28T15:51:17.329+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T15:41:04.951+08:00",
+      "fetchedAt": "2026-10-28T15:51:17.332+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T15:41:04.961+08:00",
+      "fetchedAt": "2026-10-28T15:51:17.341+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T15:41:04.961+08:00",
+      "fetchedAt": "2026-10-28T15:51:17.342+08:00",
       "error": "未启用",
       "disabled": true
     }
