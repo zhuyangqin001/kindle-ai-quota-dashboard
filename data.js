@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T15:10:25.616+08:00",
+  "updatedAt": "2026-10-28T15:20:40.406+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.5,
+    "tempC": 26.4,
     "feelsLikeC": 26.4,
-    "humidity": 43,
-    "windKph": 6.5,
+    "humidity": 44,
+    "windKph": 6.2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-28T15:10:25.616+08:00",
+    "observedAt": "2026-10-28T15:15:00.000+08:00",
+    "fetchedAt": "2026-10-28T15:20:40.407+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "事关养老机构等级划分 民政部公开征求意见",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722186.shtml",
-        "publishedAt": "2026-10-28T15:03:27.000+08:00"
+        "title": "福州菊展迎客来 千菊竞放绘秋景",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722190.shtml",
+        "publishedAt": "2026-10-28T15:13:08.000+08:00"
+      },
+      {
+        "title": "云南前三季度中药材进口量值双居全国首位",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722188.shtml",
+        "publishedAt": "2026-10-28T15:12:20.000+08:00"
       },
       {
         "title": "欧洲华文媒体探访长沙铜官窑 感受千年窑火传承",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209106.shtml",
-        "publishedAt": "2026-10-28T15:01:16.000+08:00"
+        "url": "https://www.chinanews.com.cn/tp/2026/10-28/10722185.shtml",
+        "publishedAt": "2026-10-28T15:10:37.000+08:00"
       },
       {
-        "title": "云南省2025年至2026年9月月度进出口趋势图",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-28/10722183.shtml",
-        "publishedAt": "2026-10-28T15:00:21.000+08:00"
+        "title": "连吃了7天氯雷他定，要不要换其他药？季节性过敏用药、预防，一次说清",
+        "url": "https://www.chinanews.com.cn/life/2026/10-28/10722189.shtml",
+        "publishedAt": "2026-10-28T15:09:47.000+08:00"
       },
       {
-        "title": "72岁台胞回安徽寻亲：海峡隔不断两岸血脉",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722181.shtml",
-        "publishedAt": "2026-10-28T14:59:17.000+08:00"
-      },
-      {
-        "title": "10月28日“农产品批发价格200指数”比昨天下降0.05个点",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722176.shtml",
-        "publishedAt": "2026-10-28T14:56:47.000+08:00"
+        "title": "瑞士联邦主席帕姆兰将访华",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722187.shtml",
+        "publishedAt": "2026-10-28T15:06:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T15:10:20.629+08:00",
+    "fetchedAt": "2026-10-28T15:20:37.443+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T15:10:21.403+08:00",
+      "fetchedAt": "2026-10-28T15:20:38.202+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T15:10:21.406+08:00",
+      "fetchedAt": "2026-10-28T15:20:38.205+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T15:10:21.415+08:00",
+      "fetchedAt": "2026-10-28T15:20:38.214+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T15:10:21.415+08:00",
+      "fetchedAt": "2026-10-28T15:20:38.214+08:00",
       "error": "未启用",
       "disabled": true
     }
