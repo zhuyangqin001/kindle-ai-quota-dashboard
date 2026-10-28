@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-28T17:23:26.652+08:00",
+  "updatedAt": "2026-10-28T17:33:41.122+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.2,
-    "feelsLikeC": 25.4,
-    "humidity": 47,
+    "tempC": 24.8,
+    "feelsLikeC": 25,
+    "humidity": 49,
     "windKph": 5.6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-28T17:15:00.000+08:00",
-    "fetchedAt": "2026-10-28T17:23:26.652+08:00",
+    "observedAt": "2026-10-28T17:30:00.000+08:00",
+    "fetchedAt": "2026-10-28T17:33:41.122+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "停了61分钟，按2小时收费，凭什么？",
+        "url": "https://www.chinanews.com.cn/ll/2026/10-28/10722287.shtml",
+        "publishedAt": "2026-10-28T17:21:07.000+08:00"
+      },
       {
         "title": "东西问丨王敏：如何从新疆非遗中读懂中华文化？",
         "url": "https://www.chinanews.com.cn/dxw/2026/10-28/10722274.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中国大规模研究发现：吃肉可能与长寿有关，尤其是在体重较轻的老人中",
         "url": "https://www.chinanews.com.cn/life/2026/10-28/10722282.shtml",
         "publishedAt": "2026-10-28T16:59:05.000+08:00"
-      },
-      {
-        "title": "武汉设计之都建设九载 设计力量赋能城市生长",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722281.shtml",
-        "publishedAt": "2026-10-28T16:58:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-28T17:23:22.541+08:00",
+    "fetchedAt": "2026-10-28T17:33:37.149+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-28T17:23:23.083+08:00",
+      "fetchedAt": "2026-10-28T17:33:37.828+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 12,
+          "usedPct": 21,
           "resetAt": "2026-10-28T20:01:40.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-28T17:23:23.086+08:00",
+      "fetchedAt": "2026-10-28T17:33:37.831+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T17:23:23.092+08:00",
+      "fetchedAt": "2026-10-28T17:33:37.840+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-28T17:23:23.092+08:00",
+      "fetchedAt": "2026-10-28T17:33:37.840+08:00",
       "error": "未启用",
       "disabled": true
     }
