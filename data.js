@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T20:45:10.276+08:00",
+  "updatedAt": "2026-10-29T20:55:30.259+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-29T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T20:45:10.276+08:00",
+    "fetchedAt": "2026-10-29T20:55:30.259+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "手术出院不是终点，失管才是风险！AI如何接住康复“最后一公里”？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722971.shtml",
-        "publishedAt": "2026-10-29T20:37:40.000+08:00"
+        "title": "中国科学家揭示日冕纳耀斑磁重联加热机制",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722973.shtml",
+        "publishedAt": "2026-10-29T20:48:16.000+08:00"
       },
       {
-        "title": "广东茂名探索“油茶+N”模式 拓宽林下收益",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722955.shtml",
-        "publishedAt": "2026-10-29T20:34:14.000+08:00"
+        "title": "中国—东盟职业院校学生在南宁比拼烹饪技能",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722957.shtml",
+        "publishedAt": "2026-10-29T20:47:12.000+08:00"
       },
       {
-        "title": "成年后鞋码还在长？别只当“发福” 专家：当心肢端肥大症",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722964.shtml",
-        "publishedAt": "2026-10-29T20:33:17.000+08:00"
+        "title": "西安市重点科技项目加速落地 新质生产力蓄势赋能",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722969.shtml",
+        "publishedAt": "2026-10-29T20:44:40.000+08:00"
       },
       {
-        "title": "山东省—全北特别自治道庆祝结好20周年体育交流展演举办",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722943.shtml",
-        "publishedAt": "2026-10-29T20:32:37.000+08:00"
+        "title": "法学专家谈新就业形态劳动者权益保障新规：建言增强可操作性",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722970.shtml",
+        "publishedAt": "2026-10-29T20:43:54.000+08:00"
       },
       {
-        "title": "第三届四川省集体协商竞赛（决赛）在遂宁落幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722966.shtml",
-        "publishedAt": "2026-10-29T20:30:27.000+08:00"
+        "title": "世界城地组织亚太区2026年理事会会议在海口开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722972.shtml",
+        "publishedAt": "2026-10-29T20:42:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T20:45:07.370+08:00",
+    "fetchedAt": "2026-10-29T20:55:27.937+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T20:45:07.767+08:00",
+      "fetchedAt": "2026-10-29T20:55:28.294+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 96,
-          "resetAt": "2026-10-29T20:49:28.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-30T01:55:30.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T20:45:07.769+08:00",
+      "fetchedAt": "2026-10-29T20:55:28.299+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T20:45:07.775+08:00",
+      "fetchedAt": "2026-10-29T20:55:28.320+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T20:45:07.775+08:00",
+      "fetchedAt": "2026-10-29T20:55:28.320+08:00",
       "error": "未启用",
       "disabled": true
     }
