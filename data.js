@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T23:39:26.664+08:00",
+  "updatedAt": "2026-10-29T23:49:39.752+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.9,
+    "tempC": 19.8,
     "feelsLikeC": 21,
     "humidity": 77,
-    "windKph": 5.4,
+    "windKph": 5.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T23:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T23:39:26.664+08:00",
+    "observedAt": "2026-10-29T23:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T23:49:39.752+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重庆已有1164支社区阳光基金 基层慈善网络加快形成",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723066.shtml",
-        "publishedAt": "2026-10-29T23:23:13.000+08:00"
+        "title": "广西加快打造国内国际双循环市场经营便利地",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723079.shtml",
+        "publishedAt": "2026-10-29T23:48:52.000+08:00"
       },
       {
-        "title": "青海：“一口铜锅、一片青砖”讲述九十载长征精神的高原传承",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723065.shtml",
-        "publishedAt": "2026-10-29T23:23:11.000+08:00"
+        "title": "共探“人工智能+” “十五五·同心聚力自贸港”六期沙龙举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10723078.shtml",
+        "publishedAt": "2026-10-29T23:48:44.000+08:00"
       },
       {
-        "title": "湖南新化一照相馆三代人守护红军合影 接力讲述长征故事",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723064.shtml",
-        "publishedAt": "2026-10-29T23:23:09.000+08:00"
+        "title": "推动岐黄“出海” 专家学者热议中医药高等教育国际合作",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-29/10723077.shtml",
+        "publishedAt": "2026-10-29T23:48:34.000+08:00"
       },
       {
-        "title": "“中国芯”鲜切花月季“文秀”“娇龙”正式上市",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723063.shtml",
-        "publishedAt": "2026-10-29T23:23:05.000+08:00"
+        "title": "粤港澳大湾区青年在穗交流助残助老志愿服务经验",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10723074.shtml",
+        "publishedAt": "2026-10-29T23:45:56.000+08:00"
       },
       {
-        "title": "天津：2030年数字经济综合发展水平位居全国第一梯队",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723062.shtml",
-        "publishedAt": "2026-10-29T23:22:59.000+08:00"
+        "title": "“行走的川菜非遗”美食推介在伦敦举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723072.shtml",
+        "publishedAt": "2026-10-29T23:45:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T23:39:24.062+08:00",
+    "fetchedAt": "2026-10-29T23:49:37.016+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T23:39:24.651+08:00",
+      "fetchedAt": "2026-10-29T23:49:37.746+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T23:39:24.654+08:00",
+      "fetchedAt": "2026-10-29T23:49:37.749+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T23:39:24.662+08:00",
+      "fetchedAt": "2026-10-29T23:49:37.757+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T23:39:24.662+08:00",
+      "fetchedAt": "2026-10-29T23:49:37.758+08:00",
       "error": "未启用",
       "disabled": true
     }
