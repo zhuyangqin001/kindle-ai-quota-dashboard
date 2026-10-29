@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T14:37:21.922+08:00",
+  "updatedAt": "2026-10-29T14:47:34.489+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 27.4,
-    "feelsLikeC": 26.7,
-    "humidity": 43,
-    "windKph": 13.1,
+    "tempC": 27.1,
+    "feelsLikeC": 26.3,
+    "humidity": 44,
+    "windKph": 13.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T14:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T14:37:21.922+08:00",
+    "observedAt": "2026-10-29T14:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T14:47:34.490+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "量身打造迷你款施工设备 微管廊助力老城更新",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722711.shtml",
+        "publishedAt": "2026-10-29T14:40:24.000+08:00"
+      },
+      {
+        "title": "（图解）前三季度四川外贸进出口情况",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722706.shtml",
+        "publishedAt": "2026-10-29T14:36:38.000+08:00"
+      },
+      {
+        "title": "2026年9月深圳海关综合统计资料",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722703.shtml",
+        "publishedAt": "2026-10-29T14:32:38.000+08:00"
+      },
       {
         "title": "吸一口就“上头” 警惕非法“上头电子烟”",
         "url": "https://www.chinanews.com.cn/fz/2026/10-29/10722702.shtml",
@@ -28,24 +43,9 @@
         "title": "凭祥海关涉案货物运输、装卸定点服务磋商采购公告",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722701.shtml",
         "publishedAt": "2026-10-29T14:26:40.000+08:00"
-      },
-      {
-        "title": "先体检后更新 守护城市日常的地下管网变得更强韧更智慧",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722698.shtml",
-        "publishedAt": "2026-10-29T14:17:13.000+08:00"
-      },
-      {
-        "title": "工资改发数字人民币了 有啥变化？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722684.shtml",
-        "publishedAt": "2026-10-29T14:12:55.000+08:00"
-      },
-      {
-        "title": "所罗门群岛总理被送往澳大利亚接受紧急治疗",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722675.shtml",
-        "publishedAt": "2026-10-29T14:08:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T14:37:19.370+08:00",
+    "fetchedAt": "2026-10-29T14:47:30.899+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T14:37:19.811+08:00",
+      "fetchedAt": "2026-10-29T14:47:31.327+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 82,
+          "usedPct": 83,
           "resetAt": "2026-10-29T17:55:49.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 44,
-          "resetAt": "2026-11-04T15:01:39.000+08:00"
+          "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T14:37:19.814+08:00",
+      "fetchedAt": "2026-10-29T14:47:31.329+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T14:37:19.820+08:00",
+      "fetchedAt": "2026-10-29T14:47:31.335+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T14:37:19.821+08:00",
+      "fetchedAt": "2026-10-29T14:47:31.335+08:00",
       "error": "未启用",
       "disabled": true
     }
