@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T18:21:49.102+08:00",
+  "updatedAt": "2026-10-29T18:31:59.469+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.2,
-    "feelsLikeC": 23.5,
-    "humidity": 60,
-    "windKph": 9.2,
+    "tempC": 22.9,
+    "feelsLikeC": 23.3,
+    "humidity": 61,
+    "windKph": 9.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T18:15:00.000+08:00",
-    "fetchedAt": "2026-10-29T18:21:49.102+08:00",
+    "observedAt": "2026-10-29T18:30:00.000+08:00",
+    "fetchedAt": "2026-10-29T18:31:59.470+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国县域足球赛北京市基层赛收官 1616名球员参与",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722858.shtml",
+        "publishedAt": "2026-10-29T18:24:09.000+08:00"
+      },
       {
         "title": "《宁夏回族自治区人工影响天气管理办法》出台",
         "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722852.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722854.shtml",
         "publishedAt": "2026-10-29T18:01:39.000+08:00"
-      },
-      {
-        "title": "受权发布丨中国共产党第二十届中央委员会第五次全体会议公报",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722853.shtml",
-        "publishedAt": "2026-10-29T17:59:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T18:21:45.978+08:00",
+    "fetchedAt": "2026-10-29T18:31:57.312+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T18:21:46.356+08:00",
+      "fetchedAt": "2026-10-29T18:31:57.697+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T18:21:46.359+08:00",
+      "fetchedAt": "2026-10-29T18:31:57.699+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T18:21:46.365+08:00",
+      "fetchedAt": "2026-10-29T18:31:57.704+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T18:21:46.365+08:00",
+      "fetchedAt": "2026-10-29T18:31:57.704+08:00",
       "error": "未启用",
       "disabled": true
     }
