@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T07:19:34.855+08:00",
+  "updatedAt": "2026-10-30T07:29:45.573+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-30T07:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T07:19:34.855+08:00",
+    "fetchedAt": "2026-10-30T07:29:45.573+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国际殊荣+1！“中国蓝色海湾整治行动”获评意义几何",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723089.shtml",
+        "publishedAt": "2026-10-30T07:24:21.000+08:00"
+      },
+      {
+        "title": "以媒：超10架美国军机飞抵以色列空军基地",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723088.shtml",
+        "publishedAt": "2026-10-30T07:21:09.000+08:00"
+      },
       {
         "title": "10月30日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-30/10723087.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "“十五五”时期我国将全面提升农产品品质",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723085.shtml",
         "publishedAt": "2026-10-30T06:58:42.000+08:00"
-      },
-      {
-        "title": "乌克兰基辅遭弹道导弹袭击",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723084.shtml",
-        "publishedAt": "2026-10-30T06:47:15.000+08:00"
-      },
-      {
-        "title": "美军中央司令部司令向特朗普汇报对伊朗军事选项",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723083.shtml",
-        "publishedAt": "2026-10-30T06:16:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T07:19:32.846+08:00",
+    "fetchedAt": "2026-10-30T07:29:43.705+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T07:19:33.519+08:00",
+      "fetchedAt": "2026-10-30T07:29:44.316+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T12:19:34.000+08:00"
+          "resetAt": "2026-10-30T12:29:45.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T07:19:33.522+08:00",
+      "fetchedAt": "2026-10-30T07:29:44.320+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T07:19:33.529+08:00",
+      "fetchedAt": "2026-10-30T07:29:44.326+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T07:19:33.529+08:00",
+      "fetchedAt": "2026-10-30T07:29:44.327+08:00",
       "error": "未启用",
       "disabled": true
     }
