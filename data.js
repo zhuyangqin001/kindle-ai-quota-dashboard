@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T16:29:45.053+08:00",
+  "updatedAt": "2026-10-29T16:40:00.418+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.5,
-    "feelsLikeC": 25.1,
+    "tempC": 25.4,
+    "feelsLikeC": 25.2,
     "humidity": 50,
-    "windKph": 12.1,
+    "windKph": 11,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T16:15:00.000+08:00",
-    "fetchedAt": "2026-10-29T16:29:45.053+08:00",
+    "observedAt": "2026-10-29T16:30:00.000+08:00",
+    "fetchedAt": "2026-10-29T16:40:00.418+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国防部：敦促日方正视和反省侵略历史",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722797.shtml",
-        "publishedAt": "2026-10-29T16:24:04.000+08:00"
+        "title": "《华侨青年》暨南大学预科教育百年纪念特刊发布",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722795.shtml",
+        "publishedAt": "2026-10-29T16:32:43.000+08:00"
       },
       {
-        "title": "甘肃道地中药材迎来产销旺季 陇药远销海外",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722790.shtml",
-        "publishedAt": "2026-10-29T16:22:20.000+08:00"
+        "title": "中国国防部：敦促日方正视和反省侵略历史",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722811.shtml",
+        "publishedAt": "2026-10-29T16:32:19.000+08:00"
       },
       {
-        "title": "“一查就准”破解选址难题 沈阳数字化环评助企业跨省“搬家”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722787.shtml",
-        "publishedAt": "2026-10-29T16:21:06.000+08:00"
+        "title": "南航2026年冬春航季新开加密多条国际航线",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722783.shtml",
+        "publishedAt": "2026-10-29T16:32:13.000+08:00"
       },
       {
-        "title": "别再无效刷牙！专家解锁3种刷牙方法→",
-        "url": "https://www.chinanews.com.cn/life/2026/10-29/10722793.shtml",
-        "publishedAt": "2026-10-29T16:20:38.000+08:00"
+        "title": "2026年京津冀铸牢中华民族共同体意识研讨会在津举办",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722781.shtml",
+        "publishedAt": "2026-10-29T16:31:33.000+08:00"
       },
       {
-        "title": "411项重点任务清单 湖南以“四个一批”推进重点产业链建设",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722786.shtml",
-        "publishedAt": "2026-10-29T16:18:46.000+08:00"
+        "title": "导演黄军：好电影关键在能否真正打动人心",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722780.shtml",
+        "publishedAt": "2026-10-29T16:31:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T16:29:42.120+08:00",
+    "fetchedAt": "2026-10-29T16:39:54.803+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T16:29:42.667+08:00",
+      "fetchedAt": "2026-10-29T16:39:55.233+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 31,
+          "usedPct": 40,
           "resetAt": "2026-10-29T20:49:28.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 5,
+          "usedPct": 6,
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T16:29:42.671+08:00",
+      "fetchedAt": "2026-10-29T16:39:55.236+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T16:29:42.677+08:00",
+      "fetchedAt": "2026-10-29T16:39:55.241+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T16:29:42.677+08:00",
+      "fetchedAt": "2026-10-29T16:39:55.241+08:00",
       "error": "未启用",
       "disabled": true
     }
