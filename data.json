@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T07:39:56.439+08:00",
+  "updatedAt": "2026-10-30T07:50:07.575+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.4,
-    "feelsLikeC": 20.6,
-    "humidity": 76,
-    "windKph": 3.1,
+    "tempC": 19.8,
+    "feelsLikeC": 21.1,
+    "humidity": 74,
+    "windKph": 2.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T07:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T07:39:56.439+08:00",
+    "observedAt": "2026-10-30T07:45:00.000+08:00",
+    "fetchedAt": "2026-10-30T07:50:07.575+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "CBA常规赛：北京控股队战胜四川锦城队",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209230.shtml",
+        "publishedAt": "2026-10-30T07:45:44.000+08:00"
+      },
+      {
+        "title": "11月起，这些新规将影响你我生活",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723094.shtml",
+        "publishedAt": "2026-10-30T07:41:38.000+08:00"
+      },
       {
         "title": "从机械臂到无线光通信技术 我国深海装备加快创新突破",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723093.shtml",
@@ -33,19 +43,9 @@
         "title": "世界杯分组出炉，中国女排再拼奥运“门票”",
         "url": "https://www.chinanews.com.cn/ty/2026/10-30/10723091.shtml",
         "publishedAt": "2026-10-30T07:28:58.000+08:00"
-      },
-      {
-        "title": "自主性不断增强 AI智能体如何守住安全边界",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723090.shtml",
-        "publishedAt": "2026-10-30T07:26:48.000+08:00"
-      },
-      {
-        "title": "国际殊荣+1！“中国蓝色海湾整治行动”获评意义几何",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723089.shtml",
-        "publishedAt": "2026-10-30T07:24:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T07:39:54.525+08:00",
+    "fetchedAt": "2026-10-30T07:50:04.825+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T07:39:55.232+08:00",
+      "fetchedAt": "2026-10-30T07:50:05.479+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T12:39:56.000+08:00"
+          "resetAt": "2026-10-30T12:50:06.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T07:39:55.235+08:00",
+      "fetchedAt": "2026-10-30T07:50:05.483+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T07:39:55.244+08:00",
+      "fetchedAt": "2026-10-30T07:50:05.490+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T07:39:55.244+08:00",
+      "fetchedAt": "2026-10-30T07:50:05.491+08:00",
       "error": "未启用",
       "disabled": true
     }
