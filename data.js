@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T21:46:34.083+08:00",
+  "updatedAt": "2026-10-29T21:56:47.177+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-29T21:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T21:46:34.084+08:00",
+    "fetchedAt": "2026-10-29T21:56:47.177+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "我国铁路物流提质增效步伐加快",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723014.shtml",
+        "publishedAt": "2026-10-29T21:48:22.000+08:00"
+      },
+      {
+        "title": "超2万亿元，超2.5亿人次！绿色智能引领消费释放内需活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723013.shtml",
+        "publishedAt": "2026-10-29T21:48:00.000+08:00"
+      },
       {
         "title": "10月29日夜读",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-29/10723008.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "报告：2026年底中国非化石能源发电装机占比料约为63%",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723003.shtml",
         "publishedAt": "2026-10-29T21:32:21.000+08:00"
-      },
-      {
-        "title": "东西问·知味东方丨德国总统为何主动续杯？一缕“祁门香”里的“中国魂”与“世界味”",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-29/10723000.shtml",
-        "publishedAt": "2026-10-29T21:32:09.000+08:00"
-      },
-      {
-        "title": "海外客商在上海寻找机器人“工友”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723005.shtml",
-        "publishedAt": "2026-10-29T21:27:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T21:46:31.853+08:00",
+    "fetchedAt": "2026-10-29T21:56:43.049+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T21:46:32.266+08:00",
+      "fetchedAt": "2026-10-29T21:56:43.431+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T02:46:33.000+08:00"
+          "resetAt": "2026-10-30T02:56:46.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 15,
-          "resetAt": "2026-11-05T15:49:28.000+08:00"
+          "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T21:46:32.268+08:00",
+      "fetchedAt": "2026-10-29T21:56:43.433+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T21:46:32.273+08:00",
+      "fetchedAt": "2026-10-29T21:56:43.438+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T21:46:32.273+08:00",
+      "fetchedAt": "2026-10-29T21:56:43.438+08:00",
       "error": "未启用",
       "disabled": true
     }
