@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T21:26:08.052+08:00",
+  "updatedAt": "2026-10-29T21:36:22.134+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21,
-    "feelsLikeC": 21.6,
-    "humidity": 69,
-    "windKph": 7.3,
+    "tempC": 20.8,
+    "feelsLikeC": 21.5,
+    "humidity": 70,
+    "windKph": 6.9,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-29T21:26:08.052+08:00",
+    "observedAt": "2026-10-29T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-29T21:36:22.134+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "跨国“串门”说走就走，2026年满洲里口岸出入境人员破110万人次",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722997.shtml",
-        "publishedAt": "2026-10-29T21:19:40.000+08:00"
+        "title": "报告：2026年底中国非化石能源发电装机占比料约为63%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723003.shtml",
+        "publishedAt": "2026-10-29T21:32:21.000+08:00"
       },
       {
-        "title": "难老泉复流后水往哪流？晋祠泉域保护与生态修复工程进入公示阶段",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722993.shtml",
-        "publishedAt": "2026-10-29T21:18:42.000+08:00"
+        "title": "东西问·知味东方丨德国总统为何主动续杯？一缕“祁门香”里的“中国魂”与“世界味”",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-29/10723000.shtml",
+        "publishedAt": "2026-10-29T21:32:09.000+08:00"
       },
       {
-        "title": "一艘商船在保加利亚黑海沿岸被无人机击中后沉没",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722989.shtml",
-        "publishedAt": "2026-10-29T21:16:38.000+08:00"
+        "title": "海外客商在上海寻找机器人“工友”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723005.shtml",
+        "publishedAt": "2026-10-29T21:27:52.000+08:00"
       },
       {
-        "title": "一堂开进古都的辟谣课，为何让人着迷？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722996.shtml",
-        "publishedAt": "2026-10-29T21:14:00.000+08:00"
+        "title": "横琴粤澳深合区5年来推出27项澳门青年专项实习计划",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10723004.shtml",
+        "publishedAt": "2026-10-29T21:27:50.000+08:00"
       },
       {
-        "title": "法国航空庆祝巴黎至香港航线开通88周年",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10722977.shtml",
-        "publishedAt": "2026-10-29T21:12:58.000+08:00"
+        "title": "广州南沙四期自动化码头打通外贸通道",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723006.shtml",
+        "publishedAt": "2026-10-29T21:27:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T21:26:05.382+08:00",
+    "fetchedAt": "2026-10-29T21:36:20.147+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T21:26:05.752+08:00",
+      "fetchedAt": "2026-10-29T21:36:20.525+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T02:26:07.000+08:00"
+          "resetAt": "2026-10-30T02:36:22.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T21:26:05.754+08:00",
+      "fetchedAt": "2026-10-29T21:36:20.527+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T21:26:05.760+08:00",
+      "fetchedAt": "2026-10-29T21:36:20.532+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T21:26:05.760+08:00",
+      "fetchedAt": "2026-10-29T21:36:20.532+08:00",
       "error": "未启用",
       "disabled": true
     }
