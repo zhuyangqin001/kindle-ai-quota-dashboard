@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T22:17:28.925+08:00",
+  "updatedAt": "2026-10-29T22:38:00.212+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.5,
-    "feelsLikeC": 21.3,
-    "humidity": 72,
-    "windKph": 6.3,
+    "tempC": 20.3,
+    "feelsLikeC": 21.2,
+    "humidity": 73,
+    "windKph": 6.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T22:15:00.000+08:00",
-    "fetchedAt": "2026-10-29T22:17:28.925+08:00",
+    "observedAt": "2026-10-29T22:30:00.000+08:00",
+    "fetchedAt": "2026-10-29T22:38:00.212+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "江西南昌：城市秋日花海“醉”迷人",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10723033.shtml",
+        "publishedAt": "2026-10-29T22:19:09.000+08:00"
+      },
+      {
+        "title": "山东仲村镇：小手套“织”出大产业 年产劳保手套60亿副",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10723032.shtml",
+        "publishedAt": "2026-10-29T22:17:51.000+08:00"
+      },
       {
         "title": "杭州新添音乐空间 5000张黑胶唱片奏响老街",
         "url": "https://www.chinanews.com.cn/tp/2026/10-29/10723031.shtml",
@@ -33,19 +43,9 @@
         "title": "海报丨中国共产党第二十一次全国代表大会于2027年下半年在北京召开",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723030.shtml",
         "publishedAt": "2026-10-29T22:08:41.000+08:00"
-      },
-      {
-        "title": "杭州新一轮城市照明规划出炉 营造宋韵美学杭派夜景",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723022.shtml",
-        "publishedAt": "2026-10-29T22:05:20.000+08:00"
-      },
-      {
-        "title": "2026两岸青年新文创成果发布会在厦门举行",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723017.shtml",
-        "publishedAt": "2026-10-29T21:58:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T22:17:26.722+08:00",
+    "fetchedAt": "2026-10-29T22:37:56.643+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T22:17:27.097+08:00",
+      "fetchedAt": "2026-10-29T22:37:57.203+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-30T03:17:28.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-10-30T03:37:13.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T22:17:27.099+08:00",
+      "fetchedAt": "2026-10-29T22:37:57.206+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T22:17:27.104+08:00",
+      "fetchedAt": "2026-10-29T22:37:57.212+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T22:17:27.104+08:00",
+      "fetchedAt": "2026-10-29T22:37:57.212+08:00",
       "error": "未启用",
       "disabled": true
     }
