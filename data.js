@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T15:38:47.901+08:00",
+  "updatedAt": "2026-10-29T15:49:01.073+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.7,
-    "feelsLikeC": 26,
-    "humidity": 45,
-    "windKph": 13.3,
+    "tempC": 25.9,
+    "feelsLikeC": 25.2,
+    "humidity": 48,
+    "windKph": 13.5,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T15:38:47.901+08:00",
+    "observedAt": "2026-10-29T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T15:49:01.073+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "海口管线入住地下“宿舍” 更好守护城市安宁",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722746.shtml",
-        "publishedAt": "2026-10-29T15:37:54.000+08:00"
+        "title": "兰海高速湛江段开建 辟内地至海南第二高速通道",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722676.shtml",
+        "publishedAt": "2026-10-29T15:48:12.000+08:00"
       },
       {
-        "title": "“投资云南—中国（云南）与泰国投资合作对话会”在曼谷举行",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722726.shtml",
-        "publishedAt": "2026-10-29T15:37:00.000+08:00"
+        "title": "江西铅山：小区有了“铅管家” 细微服务暖万家",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722737.shtml",
+        "publishedAt": "2026-10-29T15:47:50.000+08:00"
       },
       {
-        "title": "一廊多舱分置 多网高效协同 广州织密城市“生命线”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10722745.shtml",
-        "publishedAt": "2026-10-29T15:34:23.000+08:00"
+        "title": "外交部：中国发展军力从不针对任何国家也不搞军事扩张",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722757.shtml",
+        "publishedAt": "2026-10-29T15:47:48.000+08:00"
       },
       {
-        "title": "外交部：敦促美方停止以人权为幌子干涉中国内政",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722742.shtml",
-        "publishedAt": "2026-10-29T15:28:13.000+08:00"
+        "title": "生态环境部：三季度全国地表水Ⅰ—Ⅲ类水质比例为76.0%",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722728.shtml",
+        "publishedAt": "2026-10-29T15:46:42.000+08:00"
       },
       {
-        "title": "中方再次敦促美方立即停止对古巴的封锁制裁",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722741.shtml",
-        "publishedAt": "2026-10-29T15:28:09.000+08:00"
+        "title": "（走进中国乡村）从“指尖技艺”到“指尖经济” 新疆乐器村上演“变奏曲”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722733.shtml",
+        "publishedAt": "2026-10-29T15:46:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T15:38:42.069+08:00",
+    "fetchedAt": "2026-10-29T15:48:58.197+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T15:38:42.558+08:00",
+      "fetchedAt": "2026-10-29T15:48:58.600+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 98,
-          "resetAt": "2026-10-29T17:55:50.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-29T20:49:00.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 46,
-          "resetAt": "2026-11-04T15:01:40.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-05T15:49:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T15:38:42.560+08:00",
+      "fetchedAt": "2026-10-29T15:48:58.602+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T15:38:42.567+08:00",
+      "fetchedAt": "2026-10-29T15:48:58.607+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T15:38:42.567+08:00",
+      "fetchedAt": "2026-10-29T15:48:58.607+08:00",
       "error": "未启用",
       "disabled": true
     }
