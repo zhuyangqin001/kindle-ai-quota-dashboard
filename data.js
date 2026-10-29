@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T10:02:15.193+08:00",
+  "updatedAt": "2026-10-29T10:12:25.930+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-29T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T10:02:15.193+08:00",
+    "fetchedAt": "2026-10-29T10:12:25.931+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "日本拟在修订“安保三文件”时强调“拒止力”",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722571.shtml",
+        "publishedAt": "2026-10-29T10:06:02.000+08:00"
+      },
+      {
+        "title": "这种疾病秋冬季高发 3个数字+6个方法 尽早知道能救命",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722569.shtml",
+        "publishedAt": "2026-10-29T10:02:37.000+08:00"
+      },
       {
         "title": "哈啰充电与中国石化、国家电网等达成合作 在营充电桩首超300万个",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722551.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "宣称“除菌消杀率高达99.99%”……一张虚假宣传“空气消毒卡”的背后",
         "url": "https://www.chinanews.com.cn/fz/2026/10-29/10722559.shtml",
         "publishedAt": "2026-10-29T09:54:51.000+08:00"
-      },
-      {
-        "title": "全球经济版图下的中国角色之变",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722558.shtml",
-        "publishedAt": "2026-10-29T09:51:03.000+08:00"
-      },
-      {
-        "title": "外资企业坚定投资深圳、深耕中国（见证·中国机遇）",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722557.shtml",
-        "publishedAt": "2026-10-29T09:48:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T10:02:11.558+08:00",
+    "fetchedAt": "2026-10-29T10:12:23.866+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T10:02:12.075+08:00",
+      "fetchedAt": "2026-10-29T10:12:24.218+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T15:02:14.000+08:00"
+          "resetAt": "2026-10-29T15:12:25.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T10:02:12.078+08:00",
+      "fetchedAt": "2026-10-29T10:12:24.220+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T10:02:12.088+08:00",
+      "fetchedAt": "2026-10-29T10:12:24.224+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T10:02:12.089+08:00",
+      "fetchedAt": "2026-10-29T10:12:24.224+08:00",
       "error": "未启用",
       "disabled": true
     }
