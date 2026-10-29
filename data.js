@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T20:03:54.860+08:00",
+  "updatedAt": "2026-10-29T20:14:12.143+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-29T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T20:03:54.860+08:00",
+    "fetchedAt": "2026-10-29T20:14:12.143+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "张志军：两岸应携手推动中华文化更好走向世界",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722925.shtml",
-        "publishedAt": "2026-10-29T19:50:13.000+08:00"
+        "title": "第三十三届中国杨凌农高会闭幕 签约项目投资总额329.3亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722961.shtml",
+        "publishedAt": "2026-10-29T20:06:20.000+08:00"
       },
       {
-        "title": "香港与老挝签署全面性避免双重课税协定",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722927.shtml",
-        "publishedAt": "2026-10-29T19:49:29.000+08:00"
+        "title": "云南省第十三届少数民族传统体育运动会：凝神屏息 箭指靶心",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722840.shtml",
+        "publishedAt": "2026-10-29T20:05:32.000+08:00"
       },
       {
-        "title": "中国国防部：菲方不能任由一小撮人肆意妄为在南海挑衅生事",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722928.shtml",
-        "publishedAt": "2026-10-29T19:48:15.000+08:00"
+        "title": "纪录片《百年巨匠—柳青》开机 以影像致敬人民作家柳青",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722945.shtml",
+        "publishedAt": "2026-10-29T20:03:12.000+08:00"
       },
       {
-        "title": "东西问丨魏华德：长征故事为何至今仍能引发世界共鸣？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-29/10722922.shtml",
-        "publishedAt": "2026-10-29T19:48:13.000+08:00"
+        "title": "山壁下、临江边，重庆彭水谋划为风险防控添三道“锁”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722954.shtml",
+        "publishedAt": "2026-10-29T20:02:38.000+08:00"
       },
       {
-        "title": "2026年前三季度宁夏金融运行态势向好 信贷结构持续优化",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722941.shtml",
-        "publishedAt": "2026-10-29T19:48:11.000+08:00"
+        "title": "2026年山西省食品安全宣传周启动 全链条监管守护“舌尖上的安全”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722952.shtml",
+        "publishedAt": "2026-10-29T20:01:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T20:03:52.226+08:00",
+    "fetchedAt": "2026-10-29T20:14:10.084+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T20:03:52.608+08:00",
+      "fetchedAt": "2026-10-29T20:14:10.458+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T20:03:52.610+08:00",
+      "fetchedAt": "2026-10-29T20:14:10.460+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T20:03:52.615+08:00",
+      "fetchedAt": "2026-10-29T20:14:10.464+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T20:03:52.615+08:00",
+      "fetchedAt": "2026-10-29T20:14:10.464+08:00",
       "error": "未启用",
       "disabled": true
     }
