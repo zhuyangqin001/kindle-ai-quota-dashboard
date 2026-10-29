@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T11:43:53.758+08:00",
+  "updatedAt": "2026-10-29T11:54:05.332+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.3,
-    "feelsLikeC": 26.9,
+    "tempC": 26.5,
+    "feelsLikeC": 27.2,
     "humidity": 46,
-    "windKph": 6.1,
-    "windDir": "西北风",
+    "windKph": 6,
+    "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T11:43:53.758+08:00",
+    "observedAt": "2026-10-29T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T11:54:05.333+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "商务部 国家发展改革委 生态环境部 海关总署关于进一步提高海南自由贸易港贸易自由化便利化水平的通知",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722641.shtml",
+        "publishedAt": "2026-10-29T11:46:49.000+08:00"
+      },
+      {
+        "title": "（长征胜利90周年）巍巍大别山红旗不倒，老区如何走好发展新路？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722638.shtml",
+        "publishedAt": "2026-10-29T11:38:31.000+08:00"
+      },
       {
         "title": "北京市政协建言提升国际传播力",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722630.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "COP17“中国角”：“生物多样性友好城市建设”主题边会举办",
         "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722639.shtml",
         "publishedAt": "2026-10-29T11:31:54.000+08:00"
-      },
-      {
-        "title": "山西屯留：深秋绛河碧水斑斓入画来",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722637.shtml",
-        "publishedAt": "2026-10-29T11:31:08.000+08:00"
-      },
-      {
-        "title": "戈壁滩“酿”出“紫色产业”：宁夏为葡萄酒特色发展筑牢空间基础",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722622.shtml",
-        "publishedAt": "2026-10-29T11:29:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T11:43:50.404+08:00",
+    "fetchedAt": "2026-10-29T11:54:02.507+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T11:43:50.748+08:00",
+      "fetchedAt": "2026-10-29T11:54:02.907+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T16:43:52.000+08:00"
+          "resetAt": "2026-10-29T16:54:04.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T11:43:50.750+08:00",
+      "fetchedAt": "2026-10-29T11:54:02.909+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T11:43:50.754+08:00",
+      "fetchedAt": "2026-10-29T11:54:02.914+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T11:43:50.755+08:00",
+      "fetchedAt": "2026-10-29T11:54:02.914+08:00",
       "error": "未启用",
       "disabled": true
     }
