@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T22:07:12.781+08:00",
+  "updatedAt": "2026-10-29T22:17:28.925+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.6,
-    "feelsLikeC": 21.4,
-    "humidity": 71,
-    "windKph": 6.5,
+    "tempC": 20.5,
+    "feelsLikeC": 21.3,
+    "humidity": 72,
+    "windKph": 6.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T22:07:12.781+08:00",
+    "observedAt": "2026-10-29T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T22:17:28.925+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "杭州新添音乐空间 5000张黑胶唱片奏响老街",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10723031.shtml",
+        "publishedAt": "2026-10-29T22:14:39.000+08:00"
+      },
+      {
+        "title": "第九届新疆红十字应急救护大赛在乌鲁木齐举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10723029.shtml",
+        "publishedAt": "2026-10-29T22:12:59.000+08:00"
+      },
+      {
+        "title": "海报丨中国共产党第二十一次全国代表大会于2027年下半年在北京召开",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723030.shtml",
+        "publishedAt": "2026-10-29T22:08:41.000+08:00"
+      },
+      {
+        "title": "杭州新一轮城市照明规划出炉 营造宋韵美学杭派夜景",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723022.shtml",
+        "publishedAt": "2026-10-29T22:05:20.000+08:00"
+      },
+      {
         "title": "2026两岸青年新文创成果发布会在厦门举行",
         "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723017.shtml",
         "publishedAt": "2026-10-29T21:58:56.000+08:00"
-      },
-      {
-        "title": "新疆—成渝地区双城经济圈氢能综合应用试点城市群工作部署会在渝举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723021.shtml",
-        "publishedAt": "2026-10-29T21:58:54.000+08:00"
-      },
-      {
-        "title": "小微货品“拼单”西行 “丝路拼箱”班列加速对接欧亚市场",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-29/10723020.shtml",
-        "publishedAt": "2026-10-29T21:58:50.000+08:00"
-      },
-      {
-        "title": "上海举办主题研讨会回顾宋庆龄与国际友人的长征往事",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10723019.shtml",
-        "publishedAt": "2026-10-29T21:58:16.000+08:00"
-      },
-      {
-        "title": "广州站西鞋业商圈推进品牌国际化布局",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723016.shtml",
-        "publishedAt": "2026-10-29T21:52:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T22:07:08.857+08:00",
+    "fetchedAt": "2026-10-29T22:17:26.722+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T22:07:09.289+08:00",
+      "fetchedAt": "2026-10-29T22:17:27.097+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T03:07:11.000+08:00"
+          "resetAt": "2026-10-30T03:17:28.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 15,
-          "resetAt": "2026-11-05T15:49:29.000+08:00"
+          "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T22:07:09.291+08:00",
+      "fetchedAt": "2026-10-29T22:17:27.099+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T22:07:09.296+08:00",
+      "fetchedAt": "2026-10-29T22:17:27.104+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T22:07:09.296+08:00",
+      "fetchedAt": "2026-10-29T22:17:27.104+08:00",
       "error": "未启用",
       "disabled": true
     }
