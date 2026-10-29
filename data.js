@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T15:08:02.776+08:00",
+  "updatedAt": "2026-10-29T15:18:16.463+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.9,
-    "feelsLikeC": 26.1,
+    "tempC": 26.7,
+    "feelsLikeC": 26,
     "humidity": 45,
-    "windKph": 13.8,
+    "windKph": 13.7,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T15:08:02.776+08:00",
+    "observedAt": "2026-10-29T15:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T15:18:16.463+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "银屑病一到冬天易加重，还会损伤关节？病情轻重怎么判断？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722722.shtml",
+        "publishedAt": "2026-10-29T15:07:36.000+08:00"
+      },
+      {
+        "title": "2026年10月29日国家再次实施调控，成品油价格适当调整",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722719.shtml",
+        "publishedAt": "2026-10-29T15:03:32.000+08:00"
+      },
       {
         "title": "2026年7月至9月，338部国产微短剧、网络动画片获得发行许可",
         "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722713.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "武汉地铁12号线二期开通 亚洲最长地铁环线闭环",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722673.shtml",
         "publishedAt": "2026-10-29T14:52:55.000+08:00"
-      },
-      {
-        "title": "三代侨眷一条心 戈壁荒滩变“金滩”",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722716.shtml",
-        "publishedAt": "2026-10-29T14:52:43.000+08:00"
-      },
-      {
-        "title": "居民留得住、住得好 山西平遥古城重塑“地下经络”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722715.shtml",
-        "publishedAt": "2026-10-29T14:52:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T15:07:59.350+08:00",
+    "fetchedAt": "2026-10-29T15:18:12.092+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T15:07:59.755+08:00",
+      "fetchedAt": "2026-10-29T15:18:12.667+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T15:07:59.757+08:00",
+      "fetchedAt": "2026-10-29T15:18:12.669+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T15:07:59.763+08:00",
+      "fetchedAt": "2026-10-29T15:18:12.673+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T15:07:59.763+08:00",
+      "fetchedAt": "2026-10-29T15:18:12.673+08:00",
       "error": "未启用",
       "disabled": true
     }
