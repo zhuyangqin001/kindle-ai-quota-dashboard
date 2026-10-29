@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T09:31:38.478+08:00",
+  "updatedAt": "2026-10-29T09:41:50.626+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-29T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T09:31:38.478+08:00",
+    "fetchedAt": "2026-10-29T09:41:50.626+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "U17女足世界杯 中国队今晚迎战法国队",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722534.shtml",
-        "publishedAt": "2026-10-29T09:21:15.000+08:00"
+        "title": "欧洲华媒橘子洲观“江天暮雪” 沉浸式感受湖湘文化美学",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722544.shtml",
+        "publishedAt": "2026-10-29T09:35:42.000+08:00"
       },
       {
-        "title": "“所有人采访所有人”：当播客走向大众",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722532.shtml",
-        "publishedAt": "2026-10-29T09:18:51.000+08:00"
+        "title": "10月29日人民币对美元中间价报6.7147 上调18个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722541.shtml",
+        "publishedAt": "2026-10-29T09:35:08.000+08:00"
       },
       {
-        "title": "“克隆”游戏角色声音牟利被判罚 AI变声服务如何越了界？",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-29/10722531.shtml",
-        "publishedAt": "2026-10-29T09:17:39.000+08:00"
+        "title": "国内最长地铁环线全线开通",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722543.shtml",
+        "publishedAt": "2026-10-29T09:30:48.000+08:00"
       },
       {
-        "title": "风云卫星中试平台发布 打通科技成果转化“最后一公里”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722530.shtml",
-        "publishedAt": "2026-10-29T09:15:03.000+08:00"
+        "title": "东北华北内蒙古中东部气温将再度下跌 西藏南部有强雨雪",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722529.shtml",
+        "publishedAt": "2026-10-29T09:29:00.000+08:00"
       },
       {
-        "title": "秋季如何正确养肺？这些误区要警惕",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722528.shtml",
-        "publishedAt": "2026-10-29T09:11:33.000+08:00"
+        "title": "时政微视频·枝繁叶茂丨习近平牵挂的兰考泡桐藏着怎样的为民初心？",
+        "url": "http://www.chinanews.com.cn/gn/shipin/cns/2026/10-29/news1073229.shtml",
+        "publishedAt": "2026-10-29T09:28:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T09:31:36.852+08:00",
+    "fetchedAt": "2026-10-29T09:41:48.441+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T09:31:37.213+08:00",
+      "fetchedAt": "2026-10-29T09:41:48.865+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T14:31:38.000+08:00"
+          "resetAt": "2026-10-29T14:41:50.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T09:31:37.216+08:00",
+      "fetchedAt": "2026-10-29T09:41:48.867+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T09:31:37.221+08:00",
+      "fetchedAt": "2026-10-29T09:41:48.872+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T09:31:37.222+08:00",
+      "fetchedAt": "2026-10-29T09:41:48.872+08:00",
       "error": "未启用",
       "disabled": true
     }
