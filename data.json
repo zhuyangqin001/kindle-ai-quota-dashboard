@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T21:36:22.134+08:00",
+  "updatedAt": "2026-10-29T21:46:34.083+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.8,
+    "tempC": 20.7,
     "feelsLikeC": 21.5,
-    "humidity": 70,
-    "windKph": 6.9,
+    "humidity": 71,
+    "windKph": 6.7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T21:36:22.134+08:00",
+    "observedAt": "2026-10-29T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T21:46:34.084+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10月29日夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-29/10723008.shtml",
+        "publishedAt": "2026-10-29T21:43:01.000+08:00"
+      },
+      {
+        "title": "央行上海总部：9月末，上海“五篇大文章”贷款余额同比增长11.6%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723007.shtml",
+        "publishedAt": "2026-10-29T21:37:43.000+08:00"
+      },
       {
         "title": "报告：2026年底中国非化石能源发电装机占比料约为63%",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723003.shtml",
@@ -33,19 +43,9 @@
         "title": "海外客商在上海寻找机器人“工友”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723005.shtml",
         "publishedAt": "2026-10-29T21:27:52.000+08:00"
-      },
-      {
-        "title": "横琴粤澳深合区5年来推出27项澳门青年专项实习计划",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10723004.shtml",
-        "publishedAt": "2026-10-29T21:27:50.000+08:00"
-      },
-      {
-        "title": "广州南沙四期自动化码头打通外贸通道",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723006.shtml",
-        "publishedAt": "2026-10-29T21:27:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T21:36:20.147+08:00",
+    "fetchedAt": "2026-10-29T21:46:31.853+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T21:36:20.525+08:00",
+      "fetchedAt": "2026-10-29T21:46:32.266+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T02:36:22.000+08:00"
+          "resetAt": "2026-10-30T02:46:33.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T21:36:20.527+08:00",
+      "fetchedAt": "2026-10-29T21:46:32.268+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T21:36:20.532+08:00",
+      "fetchedAt": "2026-10-29T21:46:32.273+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T21:36:20.532+08:00",
+      "fetchedAt": "2026-10-29T21:46:32.273+08:00",
       "error": "未启用",
       "disabled": true
     }
