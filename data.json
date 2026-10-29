@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T20:14:12.143+08:00",
+  "updatedAt": "2026-10-29T20:24:29.233+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 21.8,
-    "feelsLikeC": 22.2,
-    "humidity": 65,
-    "windKph": 8,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 21.5,
+    "feelsLikeC": 21.9,
+    "humidity": 66,
+    "windKph": 8.5,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T20:14:12.143+08:00",
+    "observedAt": "2026-10-29T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T20:24:29.233+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第三十三届中国杨凌农高会闭幕 签约项目投资总额329.3亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722961.shtml",
-        "publishedAt": "2026-10-29T20:06:20.000+08:00"
+        "title": "山西柳林：红高粱开镰 颗粒尽归仓",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722932.shtml",
+        "publishedAt": "2026-10-29T20:18:29.000+08:00"
       },
       {
-        "title": "云南省第十三届少数民族传统体育运动会：凝神屏息 箭指靶心",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722840.shtml",
-        "publishedAt": "2026-10-29T20:05:32.000+08:00"
+        "title": "河北涉县：太行深山长出“金连翘”",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722931.shtml",
+        "publishedAt": "2026-10-29T20:17:25.000+08:00"
       },
       {
-        "title": "纪录片《百年巨匠—柳青》开机 以影像致敬人民作家柳青",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722945.shtml",
-        "publishedAt": "2026-10-29T20:03:12.000+08:00"
+        "title": "国际最新研究：非洲水资源并未得到充分利用",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722940.shtml",
+        "publishedAt": "2026-10-29T20:16:53.000+08:00"
       },
       {
-        "title": "山壁下、临江边，重庆彭水谋划为风险防控添三道“锁”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722954.shtml",
-        "publishedAt": "2026-10-29T20:02:38.000+08:00"
+        "title": "中国红基会“天使之旅”—先心病患儿筛查行动走进广西大石山区",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722920.shtml",
+        "publishedAt": "2026-10-29T20:16:07.000+08:00"
       },
       {
-        "title": "2026年山西省食品安全宣传周启动 全链条监管守护“舌尖上的安全”",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722952.shtml",
-        "publishedAt": "2026-10-29T20:01:40.000+08:00"
+        "title": "加媒称加拿大和欧盟联合声明将删去“联席成员”表述",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722936.shtml",
+        "publishedAt": "2026-10-29T20:15:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T20:14:10.084+08:00",
+    "fetchedAt": "2026-10-29T20:24:26.801+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T20:14:10.458+08:00",
+      "fetchedAt": "2026-10-29T20:24:27.168+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T20:14:10.460+08:00",
+      "fetchedAt": "2026-10-29T20:24:27.170+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T20:14:10.464+08:00",
+      "fetchedAt": "2026-10-29T20:24:27.175+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T20:14:10.464+08:00",
+      "fetchedAt": "2026-10-29T20:24:27.175+08:00",
       "error": "未启用",
       "disabled": true
     }
