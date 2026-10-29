@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T18:31:59.469+08:00",
+  "updatedAt": "2026-10-29T18:42:10.623+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-29T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T18:31:59.470+08:00",
+    "fetchedAt": "2026-10-29T18:42:10.623+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "徐晓兰赴毕节开展乡村振兴帮扶工作调研",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722868.shtml",
+        "publishedAt": "2026-10-29T18:35:41.000+08:00"
+      },
+      {
+        "title": "看智驾、逛公园、登黄山，德国总统访华走进安徽",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722859.shtml",
+        "publishedAt": "2026-10-29T18:30:37.000+08:00"
+      },
       {
         "title": "全国县域足球赛北京市基层赛收官 1616名球员参与",
         "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722858.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "受权发布丨张升民同志简历",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722857.shtml",
         "publishedAt": "2026-10-29T18:03:25.000+08:00"
-      },
-      {
-        "title": "中共中央将于30日上午举行新闻发布会 介绍和解读党的二十届五中全会精神",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722856.shtml",
-        "publishedAt": "2026-10-29T18:02:17.000+08:00"
-      },
-      {
-        "title": "党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722854.shtml",
-        "publishedAt": "2026-10-29T18:01:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T18:31:57.312+08:00",
+    "fetchedAt": "2026-10-29T18:42:08.619+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T18:31:57.697+08:00",
+      "fetchedAt": "2026-10-29T18:42:09.169+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T18:31:57.699+08:00",
+      "fetchedAt": "2026-10-29T18:42:09.171+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T18:31:57.704+08:00",
+      "fetchedAt": "2026-10-29T18:42:09.176+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T18:31:57.704+08:00",
+      "fetchedAt": "2026-10-29T18:42:09.176+08:00",
       "error": "未启用",
       "disabled": true
     }
