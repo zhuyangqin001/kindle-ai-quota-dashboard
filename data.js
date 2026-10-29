@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T06:48:54.487+08:00",
+  "updatedAt": "2026-10-30T06:59:12.055+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-30T06:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T06:48:54.487+08:00",
+    "fetchedAt": "2026-10-30T06:59:12.055+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "乌克兰基辅遭弹道导弹袭击",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723084.shtml",
+        "publishedAt": "2026-10-30T06:47:15.000+08:00"
+      },
       {
         "title": "美军中央司令部司令向特朗普汇报对伊朗军事选项",
         "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723083.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2023年以来江西法院共办理司法救助案件1.1万余件",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723080.shtml",
         "publishedAt": "2026-10-29T23:51:28.000+08:00"
-      },
-      {
-        "title": "广西加快打造国内国际双循环市场经营便利地",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723079.shtml",
-        "publishedAt": "2026-10-29T23:48:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T06:48:52.656+08:00",
+    "fetchedAt": "2026-10-30T06:59:10.044+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T06:48:53.317+08:00",
+      "fetchedAt": "2026-10-30T06:59:10.659+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T11:48:54.000+08:00"
+          "resetAt": "2026-10-30T11:59:11.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 28,
-          "resetAt": "2026-11-05T15:49:28.000+08:00"
+          "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T06:48:53.319+08:00",
+      "fetchedAt": "2026-10-30T06:59:10.662+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T06:48:53.326+08:00",
+      "fetchedAt": "2026-10-30T06:59:10.671+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T06:48:53.326+08:00",
+      "fetchedAt": "2026-10-30T06:59:10.671+08:00",
       "error": "未启用",
       "disabled": true
     }
