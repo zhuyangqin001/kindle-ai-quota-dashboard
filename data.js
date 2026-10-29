@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T12:24:41.211+08:00",
+  "updatedAt": "2026-10-29T12:34:53.837+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 27.1,
-    "feelsLikeC": 28,
-    "humidity": 44,
-    "windKph": 7,
+    "tempC": 27.5,
+    "feelsLikeC": 28.4,
+    "humidity": 43,
+    "windKph": 7.8,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-29T12:24:41.212+08:00",
+    "observedAt": "2026-10-29T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-29T12:34:53.837+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "西藏巴青县：34处集中安置点已搭建板房2686间",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722644.shtml",
+        "publishedAt": "2026-10-29T12:28:07.000+08:00"
+      },
       {
         "title": "A股午评：近4700只个股飘绿，三大指数收跌",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722642.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "北京市政协建言提升国际传播力",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722630.shtml",
         "publishedAt": "2026-10-29T11:34:00.000+08:00"
-      },
-      {
-        "title": "管好血压 日常习惯最关键！4忌4宜 一次讲清",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722640.shtml",
-        "publishedAt": "2026-10-29T11:32:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T12:24:37.935+08:00",
+    "fetchedAt": "2026-10-29T12:34:50.261+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T12:24:38.503+08:00",
+      "fetchedAt": "2026-10-29T12:34:50.648+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T17:24:40.000+08:00"
+          "resetAt": "2026-10-29T17:34:53.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T12:24:38.505+08:00",
+      "fetchedAt": "2026-10-29T12:34:50.650+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T12:24:38.515+08:00",
+      "fetchedAt": "2026-10-29T12:34:50.655+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T12:24:38.515+08:00",
+      "fetchedAt": "2026-10-29T12:34:50.656+08:00",
       "error": "未启用",
       "disabled": true
     }
