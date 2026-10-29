@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T17:41:07.773+08:00",
+  "updatedAt": "2026-10-29T17:51:18.915+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 24.3,
-    "feelsLikeC": 24.5,
-    "humidity": 55,
-    "windKph": 8.9,
+    "tempC": 23.9,
+    "feelsLikeC": 24.2,
+    "humidity": 57,
+    "windKph": 9.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T17:41:07.773+08:00",
+    "observedAt": "2026-10-29T17:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T17:51:18.915+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国家能源局：9月核发绿证3.26亿个，环比减少8.01%",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722850.shtml",
+        "publishedAt": "2026-10-29T17:44:18.000+08:00"
+      },
+      {
+        "title": "江苏扬州深耕“统战+科创” 党外院士专家园区行献智产业科创名城",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722849.shtml",
+        "publishedAt": "2026-10-29T17:34:10.000+08:00"
+      },
       {
         "title": "国防部警告民进党当局：“台独”是绝路，外人靠不住",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722851.shtml",
@@ -33,19 +43,9 @@
         "title": "习近平就西班牙高速列车追尾脱轨事故向西班牙国王费利佩六世致慰问电",
         "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722847.shtml",
         "publishedAt": "2026-10-29T17:29:38.000+08:00"
-      },
-      {
-        "title": "正大集团白宇飞：愿为东盟企业来川牵线搭桥",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722845.shtml",
-        "publishedAt": "2026-10-29T17:27:14.000+08:00"
-      },
-      {
-        "title": "商务部：若欧方一意孤行 中方必将采取一切必要措施",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722844.shtml",
-        "publishedAt": "2026-10-29T17:23:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T17:41:04.404+08:00",
+    "fetchedAt": "2026-10-29T17:51:16.623+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T17:41:04.857+08:00",
+      "fetchedAt": "2026-10-29T17:51:17.107+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 78,
+          "usedPct": 86,
           "resetAt": "2026-10-29T20:49:28.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 12,
+          "usedPct": 13,
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T17:41:04.859+08:00",
+      "fetchedAt": "2026-10-29T17:51:17.109+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T17:41:04.867+08:00",
+      "fetchedAt": "2026-10-29T17:51:17.114+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T17:41:04.867+08:00",
+      "fetchedAt": "2026-10-29T17:51:17.115+08:00",
       "error": "未启用",
       "disabled": true
     }
