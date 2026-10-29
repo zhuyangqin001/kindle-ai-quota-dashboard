@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T21:15:54.892+08:00",
+  "updatedAt": "2026-10-29T21:26:08.052+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-29T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-29T21:15:54.892+08:00",
+    "fetchedAt": "2026-10-29T21:26:08.052+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "跨国“串门”说走就走，2026年满洲里口岸出入境人员破110万人次",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722997.shtml",
+        "publishedAt": "2026-10-29T21:19:40.000+08:00"
+      },
+      {
+        "title": "难老泉复流后水往哪流？晋祠泉域保护与生态修复工程进入公示阶段",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722993.shtml",
+        "publishedAt": "2026-10-29T21:18:42.000+08:00"
+      },
+      {
+        "title": "一艘商船在保加利亚黑海沿岸被无人机击中后沉没",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722989.shtml",
+        "publishedAt": "2026-10-29T21:16:38.000+08:00"
+      },
       {
         "title": "一堂开进古都的辟谣课，为何让人着迷？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722996.shtml",
@@ -28,24 +43,9 @@
         "title": "法国航空庆祝巴黎至香港航线开通88周年",
         "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10722977.shtml",
         "publishedAt": "2026-10-29T21:12:58.000+08:00"
-      },
-      {
-        "title": "“笃志——复旦书画双年邀请展”启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722995.shtml",
-        "publishedAt": "2026-10-29T21:12:54.000+08:00"
-      },
-      {
-        "title": "中国创新创业大赛持续赋能广西科创企业 涵养创新生态",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722994.shtml",
-        "publishedAt": "2026-10-29T21:12:24.000+08:00"
-      },
-      {
-        "title": "（长征胜利90周年）会师之地唱响长征赞歌 《长征组歌》唱响固原",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722950.shtml",
-        "publishedAt": "2026-10-29T21:11:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T21:15:52.020+08:00",
+    "fetchedAt": "2026-10-29T21:26:05.382+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T21:15:52.394+08:00",
+      "fetchedAt": "2026-10-29T21:26:05.752+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T02:15:54.000+08:00"
+          "resetAt": "2026-10-30T02:26:07.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 15,
-          "resetAt": "2026-11-05T15:49:29.000+08:00"
+          "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T21:15:52.396+08:00",
+      "fetchedAt": "2026-10-29T21:26:05.754+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T21:15:52.401+08:00",
+      "fetchedAt": "2026-10-29T21:26:05.760+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T21:15:52.401+08:00",
+      "fetchedAt": "2026-10-29T21:26:05.760+08:00",
       "error": "未启用",
       "disabled": true
     }
