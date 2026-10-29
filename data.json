@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T11:13:27.995+08:00",
+  "updatedAt": "2026-10-29T11:43:53.758+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.9,
-    "feelsLikeC": 26.5,
-    "humidity": 47,
-    "windKph": 6,
+    "tempC": 26.3,
+    "feelsLikeC": 26.9,
+    "humidity": 46,
+    "windKph": 6.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T11:13:27.996+08:00",
+    "observedAt": "2026-10-29T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-29T11:43:53.758+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重庆警方：网民刘某编造餐馆对外籍顾客免单言论，已被行拘",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722617.shtml",
-        "publishedAt": "2026-10-29T11:07:37.000+08:00"
+        "title": "北京市政协建言提升国际传播力",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722630.shtml",
+        "publishedAt": "2026-10-29T11:34:00.000+08:00"
       },
       {
-        "title": "岁岁相约 手足同心——青海推动民族团结进步宣传月活动走深走实",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722627.shtml",
-        "publishedAt": "2026-10-29T11:03:17.000+08:00"
+        "title": "管好血压 日常习惯最关键！4忌4宜 一次讲清",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722640.shtml",
+        "publishedAt": "2026-10-29T11:32:36.000+08:00"
       },
       {
-        "title": "日本千叶县东北部发生5.4级地震，东京有震感",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722626.shtml",
-        "publishedAt": "2026-10-29T10:57:52.000+08:00"
+        "title": "COP17“中国角”：“生物多样性友好城市建设”主题边会举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722639.shtml",
+        "publishedAt": "2026-10-29T11:31:54.000+08:00"
       },
       {
-        "title": "空天地海一体化观测 数据要素激活海洋新质生产力",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722625.shtml",
-        "publishedAt": "2026-10-29T10:56:10.000+08:00"
+        "title": "山西屯留：深秋绛河碧水斑斓入画来",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722637.shtml",
+        "publishedAt": "2026-10-29T11:31:08.000+08:00"
       },
       {
-        "title": "海南自贸港封关红利释放 海口与东盟经贸合作加速“链”接",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722614.shtml",
-        "publishedAt": "2026-10-29T10:55:42.000+08:00"
+        "title": "戈壁滩“酿”出“紫色产业”：宁夏为葡萄酒特色发展筑牢空间基础",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722622.shtml",
+        "publishedAt": "2026-10-29T11:29:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T11:13:25.534+08:00",
+    "fetchedAt": "2026-10-29T11:43:50.404+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T11:13:25.891+08:00",
+      "fetchedAt": "2026-10-29T11:43:50.748+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T16:13:27.000+08:00"
+          "resetAt": "2026-10-29T16:43:52.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T11:13:25.893+08:00",
+      "fetchedAt": "2026-10-29T11:43:50.750+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T11:13:25.899+08:00",
+      "fetchedAt": "2026-10-29T11:43:50.754+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T11:13:25.899+08:00",
+      "fetchedAt": "2026-10-29T11:43:50.755+08:00",
       "error": "未启用",
       "disabled": true
     }
