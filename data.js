@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T16:09:26.134+08:00",
+  "updatedAt": "2026-10-29T16:29:45.053+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.7,
+    "tempC": 25.5,
     "feelsLikeC": 25.1,
-    "humidity": 49,
-    "windKph": 12.9,
+    "humidity": 50,
+    "windKph": 12.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T16:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T16:09:26.134+08:00",
+    "observedAt": "2026-10-29T16:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T16:29:45.053+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国国防部：日方窥视滋扰中方正当行动暴露受迫害妄想症",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722769.shtml",
-        "publishedAt": "2026-10-29T16:02:59.000+08:00"
+        "title": "国防部：敦促日方正视和反省侵略历史",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722797.shtml",
+        "publishedAt": "2026-10-29T16:24:04.000+08:00"
       },
       {
-        "title": "中国国防部：菲方放任个别政客公器私用 重重设障阻碍中方参加东盟防长扩大会",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722768.shtml",
-        "publishedAt": "2026-10-29T16:02:37.000+08:00"
+        "title": "甘肃道地中药材迎来产销旺季 陇药远销海外",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722790.shtml",
+        "publishedAt": "2026-10-29T16:22:20.000+08:00"
       },
       {
-        "title": "南京港首次整车包船出海业务启航",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722750.shtml",
-        "publishedAt": "2026-10-29T16:02:29.000+08:00"
+        "title": "“一查就准”破解选址难题 沈阳数字化环评助企业跨省“搬家”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722787.shtml",
+        "publishedAt": "2026-10-29T16:21:06.000+08:00"
       },
       {
-        "title": "中国国防部邀请驻华武官赴贵州、四川参观访问",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722756.shtml",
-        "publishedAt": "2026-10-29T15:58:01.000+08:00"
+        "title": "别再无效刷牙！专家解锁3种刷牙方法→",
+        "url": "https://www.chinanews.com.cn/life/2026/10-29/10722793.shtml",
+        "publishedAt": "2026-10-29T16:20:38.000+08:00"
       },
       {
-        "title": "中国国防部将邀请非洲中青年军官代表团访华",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722754.shtml",
-        "publishedAt": "2026-10-29T15:56:09.000+08:00"
+        "title": "411项重点任务清单 湖南以“四个一批”推进重点产业链建设",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722786.shtml",
+        "publishedAt": "2026-10-29T16:18:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T16:09:23.747+08:00",
+    "fetchedAt": "2026-10-29T16:29:42.120+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T16:09:24.233+08:00",
+      "fetchedAt": "2026-10-29T16:29:42.667+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 16,
+          "usedPct": 31,
           "resetAt": "2026-10-29T20:49:28.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 2,
+          "usedPct": 5,
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T16:09:24.235+08:00",
+      "fetchedAt": "2026-10-29T16:29:42.671+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T16:09:24.240+08:00",
+      "fetchedAt": "2026-10-29T16:29:42.677+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T16:09:24.240+08:00",
+      "fetchedAt": "2026-10-29T16:29:42.677+08:00",
       "error": "未启用",
       "disabled": true
     }
