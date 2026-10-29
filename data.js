@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T19:43:28.480+08:00",
+  "updatedAt": "2026-10-29T19:53:43.111+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.2,
-    "feelsLikeC": 22.5,
+    "tempC": 22,
+    "feelsLikeC": 22.3,
     "humidity": 64,
-    "windKph": 8.6,
+    "windKph": 8.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T19:43:28.480+08:00",
+    "observedAt": "2026-10-29T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-29T19:53:43.111+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“理财产品要变相保本了”系误读政策（2026·10·29）",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722930.shtml",
-        "publishedAt": "2026-10-29T19:42:55.000+08:00"
+        "title": "张志军：两岸应携手推动中华文化更好走向世界",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722925.shtml",
+        "publishedAt": "2026-10-29T19:50:13.000+08:00"
       },
       {
-        "title": "（财经天下）加息暂歇 美联储保持观望",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722923.shtml",
-        "publishedAt": "2026-10-29T19:41:55.000+08:00"
+        "title": "香港与老挝签署全面性避免双重课税协定",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722927.shtml",
+        "publishedAt": "2026-10-29T19:49:29.000+08:00"
       },
       {
-        "title": "广西与老挝共建林业产业园区",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-29/10722890.shtml",
-        "publishedAt": "2026-10-29T19:41:51.000+08:00"
+        "title": "中国国防部：菲方不能任由一小撮人肆意妄为在南海挑衅生事",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722928.shtml",
+        "publishedAt": "2026-10-29T19:48:15.000+08:00"
       },
       {
-        "title": "APEC经济体客商占广交会入境客流超六成",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722916.shtml",
-        "publishedAt": "2026-10-29T19:37:14.000+08:00"
+        "title": "东西问丨魏华德：长征故事为何至今仍能引发世界共鸣？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-29/10722922.shtml",
+        "publishedAt": "2026-10-29T19:48:13.000+08:00"
       },
       {
-        "title": "“高质量发展看常熟”摄影采访活动启动",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722912.shtml",
-        "publishedAt": "2026-10-29T19:30:20.000+08:00"
+        "title": "2026年前三季度宁夏金融运行态势向好 信贷结构持续优化",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722941.shtml",
+        "publishedAt": "2026-10-29T19:48:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T19:43:24.955+08:00",
+    "fetchedAt": "2026-10-29T19:53:40.189+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T19:43:25.340+08:00",
+      "fetchedAt": "2026-10-29T19:53:40.702+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T19:43:25.342+08:00",
+      "fetchedAt": "2026-10-29T19:53:40.704+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T19:43:25.346+08:00",
+      "fetchedAt": "2026-10-29T19:53:40.709+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T19:43:25.346+08:00",
+      "fetchedAt": "2026-10-29T19:53:40.709+08:00",
       "error": "未启用",
       "disabled": true
     }
