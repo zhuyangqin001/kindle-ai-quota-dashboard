@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T20:55:30.259+08:00",
+  "updatedAt": "2026-10-29T21:15:54.892+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.2,
-    "feelsLikeC": 21.7,
-    "humidity": 68,
-    "windKph": 7.9,
+    "tempC": 21,
+    "feelsLikeC": 21.6,
+    "humidity": 69,
+    "windKph": 7.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T20:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T20:55:30.259+08:00",
+    "observedAt": "2026-10-29T21:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T21:15:54.892+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国科学家揭示日冕纳耀斑磁重联加热机制",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722973.shtml",
-        "publishedAt": "2026-10-29T20:48:16.000+08:00"
+        "title": "一堂开进古都的辟谣课，为何让人着迷？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722996.shtml",
+        "publishedAt": "2026-10-29T21:14:00.000+08:00"
       },
       {
-        "title": "中国—东盟职业院校学生在南宁比拼烹饪技能",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722957.shtml",
-        "publishedAt": "2026-10-29T20:47:12.000+08:00"
+        "title": "法国航空庆祝巴黎至香港航线开通88周年",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10722977.shtml",
+        "publishedAt": "2026-10-29T21:12:58.000+08:00"
       },
       {
-        "title": "西安市重点科技项目加速落地 新质生产力蓄势赋能",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722969.shtml",
-        "publishedAt": "2026-10-29T20:44:40.000+08:00"
+        "title": "“笃志——复旦书画双年邀请展”启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722995.shtml",
+        "publishedAt": "2026-10-29T21:12:54.000+08:00"
       },
       {
-        "title": "法学专家谈新就业形态劳动者权益保障新规：建言增强可操作性",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722970.shtml",
-        "publishedAt": "2026-10-29T20:43:54.000+08:00"
+        "title": "中国创新创业大赛持续赋能广西科创企业 涵养创新生态",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722994.shtml",
+        "publishedAt": "2026-10-29T21:12:24.000+08:00"
       },
       {
-        "title": "世界城地组织亚太区2026年理事会会议在海口开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722972.shtml",
-        "publishedAt": "2026-10-29T20:42:18.000+08:00"
+        "title": "（长征胜利90周年）会师之地唱响长征赞歌 《长征组歌》唱响固原",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722950.shtml",
+        "publishedAt": "2026-10-29T21:11:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T20:55:27.937+08:00",
+    "fetchedAt": "2026-10-29T21:15:52.020+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T20:55:28.294+08:00",
+      "fetchedAt": "2026-10-29T21:15:52.394+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-30T01:55:30.000+08:00"
+          "resetAt": "2026-10-30T02:15:54.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 15,
-          "resetAt": "2026-11-05T15:49:28.000+08:00"
+          "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T20:55:28.299+08:00",
+      "fetchedAt": "2026-10-29T21:15:52.396+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T20:55:28.320+08:00",
+      "fetchedAt": "2026-10-29T21:15:52.401+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T20:55:28.320+08:00",
+      "fetchedAt": "2026-10-29T21:15:52.401+08:00",
       "error": "未启用",
       "disabled": true
     }
