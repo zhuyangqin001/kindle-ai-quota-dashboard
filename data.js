@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T08:40:51.145+08:00",
+  "updatedAt": "2026-10-29T09:01:07.116+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.2,
-    "feelsLikeC": 22.1,
-    "humidity": 60,
-    "windKph": 0.4,
+    "tempC": 22.4,
+    "feelsLikeC": 23.2,
+    "humidity": 56,
+    "windKph": 1.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-29T08:40:51.145+08:00",
+    "observedAt": "2026-10-29T09:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T09:01:07.117+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "盲目“秋冻”诱发卒中！预防与康复有哪些注意事项？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722523.shtml",
+        "publishedAt": "2026-10-29T08:50:33.000+08:00"
+      },
+      {
+        "title": "西班牙列车相撞已致68人死亡 直击救援现场",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-29/1209176.shtml",
+        "publishedAt": "2026-10-29T08:36:30.000+08:00"
+      },
       {
         "title": "从一瓶水、一份早餐，到一捧花、一个盲盒——地铁站内的生意更丰富了",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722521.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国网球，释放新动能",
         "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722519.shtml",
         "publishedAt": "2026-10-29T08:09:53.000+08:00"
-      },
-      {
-        "title": "山东沾化渔鼓戏创新剧目表达方式，“圈粉”年轻人",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722518.shtml",
-        "publishedAt": "2026-10-29T08:05:55.000+08:00"
-      },
-      {
-        "title": "西班牙高铁事故调度录音曝光：后车获准正常速度行驶，前车仍滞留轨道",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722517.shtml",
-        "publishedAt": "2026-10-29T08:01:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T08:40:46.804+08:00",
+    "fetchedAt": "2026-10-29T09:01:04.477+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T08:40:47.200+08:00",
+      "fetchedAt": "2026-10-29T09:01:05.090+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T13:40:48.000+08:00"
+          "resetAt": "2026-10-29T14:01:07.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T08:40:47.202+08:00",
+      "fetchedAt": "2026-10-29T09:01:05.092+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T08:40:47.207+08:00",
+      "fetchedAt": "2026-10-29T09:01:05.096+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T08:40:47.207+08:00",
+      "fetchedAt": "2026-10-29T09:01:05.097+08:00",
       "error": "未启用",
       "disabled": true
     }
