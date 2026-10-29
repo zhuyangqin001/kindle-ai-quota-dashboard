@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T17:10:29.404+08:00",
+  "updatedAt": "2026-10-29T17:20:43.415+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.1,
-    "feelsLikeC": 25.2,
-    "humidity": 52,
-    "windKph": 9.2,
+    "tempC": 24.7,
+    "feelsLikeC": 24.9,
+    "humidity": 53,
+    "windKph": 8.9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T17:10:29.404+08:00",
+    "observedAt": "2026-10-29T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T17:20:43.415+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "云南：边疆村寨绘就团结新画卷",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722846.shtml",
+        "publishedAt": "2026-10-29T17:14:17.000+08:00"
+      },
+      {
+        "title": "又到食蟹季，生食虾蟹可能导致“偷渡客”入侵你的身体！几步骤远离→",
+        "url": "https://www.chinanews.com.cn/life/2026/10-29/10722843.shtml",
+        "publishedAt": "2026-10-29T17:12:23.000+08:00"
+      },
+      {
+        "title": "30年“牵手”交出京蒙同心答卷",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722842.shtml",
+        "publishedAt": "2026-10-29T17:11:51.000+08:00"
+      },
       {
         "title": "商务部：多项举措促进海南自贸港贸易创新发展",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722831.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "农村地区部分老人孩子今年可免费接种流感疫苗",
         "url": "https://www.chinanews.com.cn/life/2026/10-29/10722841.shtml",
         "publishedAt": "2026-10-29T17:06:16.000+08:00"
-      },
-      {
-        "title": "2026苏州国际友城嘉年华启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722836.shtml",
-        "publishedAt": "2026-10-29T17:03:32.000+08:00"
-      },
-      {
-        "title": "国家药监局批准一款防晒类化妆品新原料",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722764.shtml",
-        "publishedAt": "2026-10-29T17:03:32.000+08:00"
-      },
-      {
-        "title": "九三学社山东省委会开展黄河流域生态保护和高质量发展民主监督调研",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722838.shtml",
-        "publishedAt": "2026-10-29T17:03:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T17:10:25.521+08:00",
+    "fetchedAt": "2026-10-29T17:20:38.481+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T17:10:25.972+08:00",
+      "fetchedAt": "2026-10-29T17:20:39.239+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 55,
+          "usedPct": 61,
           "resetAt": "2026-10-29T20:49:28.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 9,
+          "usedPct": 10,
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T17:10:25.975+08:00",
+      "fetchedAt": "2026-10-29T17:20:39.243+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T17:10:25.980+08:00",
+      "fetchedAt": "2026-10-29T17:20:39.252+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T17:10:25.980+08:00",
+      "fetchedAt": "2026-10-29T17:20:39.252+08:00",
       "error": "未启用",
       "disabled": true
     }
