@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T14:57:51.189+08:00",
+  "updatedAt": "2026-10-29T15:08:02.776+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 27.1,
-    "feelsLikeC": 26.3,
-    "humidity": 44,
-    "windKph": 13.6,
+    "tempC": 26.9,
+    "feelsLikeC": 26.1,
+    "humidity": 45,
+    "windKph": 13.8,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T14:57:51.189+08:00",
+    "observedAt": "2026-10-29T15:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T15:08:02.776+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“首单”“首批”串起金融开放脉络 北京朝阳“两区”建设筑牢高水平发展金融支撑",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722700.shtml",
-        "publishedAt": "2026-10-29T14:50:23.000+08:00"
+        "title": "2026年7月至9月，338部国产微短剧、网络动画片获得发行许可",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722713.shtml",
+        "publishedAt": "2026-10-29T14:57:57.000+08:00"
       },
       {
-        "title": "应对主汛期“大考” 荆门地下筑起“万方水库”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722714.shtml",
-        "publishedAt": "2026-10-29T14:50:05.000+08:00"
+        "title": "外籍摄影师镜头里的中国：丰富多彩、有温度、变化大",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722709.shtml",
+        "publishedAt": "2026-10-29T14:55:49.000+08:00"
       },
       {
-        "title": "第十七届海峡两岸（厦门）文化产业博览交易会开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722708.shtml",
-        "publishedAt": "2026-10-29T14:49:03.000+08:00"
+        "title": "武汉地铁12号线二期开通 亚洲最长地铁环线闭环",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722673.shtml",
+        "publishedAt": "2026-10-29T14:52:55.000+08:00"
       },
       {
-        "title": "梯田风韵登浦江舞台 沪滇协作三十周年专场演出亮相长宁",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722707.shtml",
-        "publishedAt": "2026-10-29T14:47:59.000+08:00"
+        "title": "三代侨眷一条心 戈壁荒滩变“金滩”",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-29/10722716.shtml",
+        "publishedAt": "2026-10-29T14:52:43.000+08:00"
       },
       {
-        "title": "农业农村部和中国气象局联合发布农牧业雪灾风险预警",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722710.shtml",
-        "publishedAt": "2026-10-29T14:47:29.000+08:00"
+        "title": "居民留得住、住得好 山西平遥古城重塑“地下经络”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722715.shtml",
+        "publishedAt": "2026-10-29T14:52:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T14:57:44.037+08:00",
+    "fetchedAt": "2026-10-29T15:07:59.350+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T14:57:44.462+08:00",
+      "fetchedAt": "2026-10-29T15:07:59.755+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 93,
-          "resetAt": "2026-10-29T17:55:49.000+08:00"
+          "usedPct": 98,
+          "resetAt": "2026-10-29T17:55:50.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T14:57:44.464+08:00",
+      "fetchedAt": "2026-10-29T15:07:59.757+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T14:57:44.468+08:00",
+      "fetchedAt": "2026-10-29T15:07:59.763+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T14:57:44.469+08:00",
+      "fetchedAt": "2026-10-29T15:07:59.763+08:00",
       "error": "未启用",
       "disabled": true
     }
