@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T09:52:03.404+08:00",
+  "updatedAt": "2026-10-29T10:02:15.193+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 23.9,
-    "feelsLikeC": 24.4,
-    "humidity": 52,
-    "windKph": 3.3,
+    "tempC": 24.3,
+    "feelsLikeC": 24.8,
+    "humidity": 50,
+    "windKph": 3.9,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T09:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T09:52:03.404+08:00",
+    "observedAt": "2026-10-29T10:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T10:02:15.193+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国红十字基金会雪域健康基金携手爱心企业向西藏驻京办捐赠100台口袋充氧宝",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722542.shtml",
-        "publishedAt": "2026-10-29T09:46:08.000+08:00"
+        "title": "哈啰充电与中国石化、国家电网等达成合作 在营充电桩首超300万个",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722551.shtml",
+        "publishedAt": "2026-10-29T09:59:19.000+08:00"
       },
       {
-        "title": "重庆开州“菜单式学厨”成新时尚 学员按“菜”选课学手艺",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722552.shtml",
-        "publishedAt": "2026-10-29T09:45:24.000+08:00"
+        "title": "国产影片出海进入新阶段 科技赋能拓展传播新空间",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722560.shtml",
+        "publishedAt": "2026-10-29T09:56:47.000+08:00"
       },
       {
-        "title": "四川泸州织密立体气象监测网 短临预警精准叫应护民生",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722550.shtml",
-        "publishedAt": "2026-10-29T09:45:06.000+08:00"
+        "title": "宣称“除菌消杀率高达99.99%”……一张虚假宣传“空气消毒卡”的背后",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-29/10722559.shtml",
+        "publishedAt": "2026-10-29T09:54:51.000+08:00"
       },
       {
-        "title": "《山河如愿》上海巡演圆满落幕 初心之地奏响红色乐章",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722549.shtml",
-        "publishedAt": "2026-10-29T09:44:32.000+08:00"
+        "title": "全球经济版图下的中国角色之变",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722558.shtml",
+        "publishedAt": "2026-10-29T09:51:03.000+08:00"
       },
       {
-        "title": "传统与时尚邂逅 浙江杭州西子廊桥“匠师熔装”秀吸引民众",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-29/10722548.shtml",
-        "publishedAt": "2026-10-29T09:43:20.000+08:00"
+        "title": "外资企业坚定投资深圳、深耕中国（见证·中国机遇）",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722557.shtml",
+        "publishedAt": "2026-10-29T09:48:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T09:51:58.896+08:00",
+    "fetchedAt": "2026-10-29T10:02:11.558+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T09:51:59.230+08:00",
+      "fetchedAt": "2026-10-29T10:02:12.075+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T14:52:00.000+08:00"
+          "resetAt": "2026-10-29T15:02:14.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T09:51:59.232+08:00",
+      "fetchedAt": "2026-10-29T10:02:12.078+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T09:51:59.236+08:00",
+      "fetchedAt": "2026-10-29T10:02:12.088+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T09:51:59.236+08:00",
+      "fetchedAt": "2026-10-29T10:02:12.089+08:00",
       "error": "未启用",
       "disabled": true
     }
