@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T23:49:39.752+08:00",
+  "updatedAt": "2026-10-29T23:59:52.940+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-29T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T23:49:39.752+08:00",
+    "fetchedAt": "2026-10-29T23:59:52.940+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年中国贵金属论坛在昆明举行 AI与贵金属“双向奔赴”成焦点",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723082.shtml",
+        "publishedAt": "2026-10-29T23:51:56.000+08:00"
+      },
+      {
+        "title": "桂林艺术节“艺术大讲堂”：表演、戏剧与人文表达",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10723081.shtml",
+        "publishedAt": "2026-10-29T23:51:50.000+08:00"
+      },
+      {
+        "title": "2023年以来江西法院共办理司法救助案件1.1万余件",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10723080.shtml",
+        "publishedAt": "2026-10-29T23:51:28.000+08:00"
+      },
       {
         "title": "广西加快打造国内国际双循环市场经营便利地",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723079.shtml",
@@ -28,24 +43,9 @@
         "title": "共探“人工智能+” “十五五·同心聚力自贸港”六期沙龙举行",
         "url": "https://www.chinanews.com.cn/txy/2026/10-29/10723078.shtml",
         "publishedAt": "2026-10-29T23:48:44.000+08:00"
-      },
-      {
-        "title": "推动岐黄“出海” 专家学者热议中医药高等教育国际合作",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-29/10723077.shtml",
-        "publishedAt": "2026-10-29T23:48:34.000+08:00"
-      },
-      {
-        "title": "粤港澳大湾区青年在穗交流助残助老志愿服务经验",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-29/10723074.shtml",
-        "publishedAt": "2026-10-29T23:45:56.000+08:00"
-      },
-      {
-        "title": "“行走的川菜非遗”美食推介在伦敦举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10723072.shtml",
-        "publishedAt": "2026-10-29T23:45:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T23:49:37.016+08:00",
+    "fetchedAt": "2026-10-29T23:59:49.433+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T23:49:37.746+08:00",
+      "fetchedAt": "2026-10-29T23:59:50.121+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@
         {
           "name": "周",
           "usedPct": 22,
-          "resetAt": "2026-11-05T15:49:28.000+08:00"
+          "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T23:49:37.749+08:00",
+      "fetchedAt": "2026-10-29T23:59:50.122+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T23:49:37.757+08:00",
+      "fetchedAt": "2026-10-29T23:59:50.127+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T23:49:37.758+08:00",
+      "fetchedAt": "2026-10-29T23:59:50.127+08:00",
       "error": "未启用",
       "disabled": true
     }
