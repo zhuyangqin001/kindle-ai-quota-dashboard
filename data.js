@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T11:54:05.332+08:00",
+  "updatedAt": "2026-10-29T12:04:16.929+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.5,
-    "feelsLikeC": 27.2,
-    "humidity": 46,
-    "windKph": 6,
+    "tempC": 26.7,
+    "feelsLikeC": 27.6,
+    "humidity": 45,
+    "windKph": 6.3,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T11:45:00.000+08:00",
-    "fetchedAt": "2026-10-29T11:54:05.333+08:00",
+    "observedAt": "2026-10-29T12:00:00.000+08:00",
+    "fetchedAt": "2026-10-29T12:04:16.929+08:00",
     "error": null
   },
   "news": {
@@ -20,7 +20,12 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "商务部 国家发展改革委 生态环境部 海关总署关于进一步提高海南自由贸易港贸易自由化便利化水平的通知",
+        "title": "A股午评：近4700只个股飘绿，三大指数收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722642.shtml",
+        "publishedAt": "2026-10-29T11:57:28.000+08:00"
+      },
+      {
+        "title": "四部门：进一步提高海南自由贸易港贸易自由化便利化水平",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722641.shtml",
         "publishedAt": "2026-10-29T11:46:49.000+08:00"
       },
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "管好血压 日常习惯最关键！4忌4宜 一次讲清",
         "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722640.shtml",
         "publishedAt": "2026-10-29T11:32:36.000+08:00"
-      },
-      {
-        "title": "COP17“中国角”：“生物多样性友好城市建设”主题边会举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-29/10722639.shtml",
-        "publishedAt": "2026-10-29T11:31:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T11:54:02.507+08:00",
+    "fetchedAt": "2026-10-29T12:04:14.422+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T11:54:02.907+08:00",
+      "fetchedAt": "2026-10-29T12:04:14.778+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T16:54:04.000+08:00"
+          "resetAt": "2026-10-29T17:04:16.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T11:54:02.909+08:00",
+      "fetchedAt": "2026-10-29T12:04:14.780+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T11:54:02.914+08:00",
+      "fetchedAt": "2026-10-29T12:04:14.785+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T11:54:02.914+08:00",
+      "fetchedAt": "2026-10-29T12:04:14.785+08:00",
       "error": "未启用",
       "disabled": true
     }
