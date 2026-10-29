@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T08:10:19.484+08:00",
+  "updatedAt": "2026-10-29T08:20:28.898+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.1,
-    "feelsLikeC": 20.9,
-    "humidity": 64,
-    "windKph": 1.1,
+    "tempC": 20.6,
+    "feelsLikeC": 21.5,
+    "humidity": 62,
+    "windKph": 0.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T08:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T08:10:19.484+08:00",
+    "observedAt": "2026-10-29T08:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T08:20:28.898+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "世界卒中日：警惕“中风”，这三件事情千万别做，这个“120”必须重视！快快转发到家庭群",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722520.shtml",
+        "publishedAt": "2026-10-29T08:14:54.000+08:00"
+      },
+      {
+        "title": "中国网球，释放新动能",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722519.shtml",
+        "publishedAt": "2026-10-29T08:09:53.000+08:00"
+      },
+      {
+        "title": "山东沾化渔鼓戏创新剧目表达方式，“圈粉”年轻人",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722518.shtml",
+        "publishedAt": "2026-10-29T08:05:55.000+08:00"
+      },
       {
         "title": "西班牙高铁事故调度录音曝光：后车获准正常速度行驶，前车仍滞留轨道",
         "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722517.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "香氛 年轻人的情绪搭子",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722516.shtml",
         "publishedAt": "2026-10-29T07:51:20.000+08:00"
-      },
-      {
-        "title": "2026柬埔寨首届中学生中文比赛决赛在金边举行",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-29/10722508.shtml",
-        "publishedAt": "2026-10-29T07:50:02.000+08:00"
-      },
-      {
-        "title": "A股公司三季报展现经济成色 科技创新动能加速释放",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722515.shtml",
-        "publishedAt": "2026-10-29T07:47:20.000+08:00"
-      },
-      {
-        "title": "进一步深化国资国企改革 国有经济布局优化“加速跑”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722512.shtml",
-        "publishedAt": "2026-10-29T07:45:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T08:10:17.674+08:00",
+    "fetchedAt": "2026-10-29T08:20:27.022+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T08:10:18.032+08:00",
+      "fetchedAt": "2026-10-29T08:20:27.374+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T13:10:19.000+08:00"
+          "resetAt": "2026-10-29T13:20:28.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T08:10:18.034+08:00",
+      "fetchedAt": "2026-10-29T08:20:27.377+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T08:10:18.039+08:00",
+      "fetchedAt": "2026-10-29T08:20:27.381+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T08:10:18.039+08:00",
+      "fetchedAt": "2026-10-29T08:20:27.381+08:00",
       "error": "未启用",
       "disabled": true
     }
