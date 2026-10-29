@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T14:06:37.396+08:00",
+  "updatedAt": "2026-10-29T14:16:48.161+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 27.9,
-    "feelsLikeC": 27.3,
-    "humidity": 42,
-    "windKph": 12.1,
+    "tempC": 27.7,
+    "feelsLikeC": 27,
+    "humidity": 43,
+    "windKph": 12.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T14:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T14:06:37.396+08:00",
+    "observedAt": "2026-10-29T14:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T14:16:48.161+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "所罗门群岛总理被送往澳大利亚接受紧急治疗",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722675.shtml",
+        "publishedAt": "2026-10-29T14:08:31.000+08:00"
+      },
+      {
+        "title": "“2026中韩生物医药产业对接活动”在首尔举办",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722652.shtml",
+        "publishedAt": "2026-10-29T14:06:03.000+08:00"
+      },
+      {
+        "title": "钓中“标鱼”最高奖金3500元 是娱乐还是赌博？",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-29/10722674.shtml",
+        "publishedAt": "2026-10-29T13:59:58.000+08:00"
+      },
+      {
+        "title": "伊朗宣布：击落美军MQ-1无人机",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722670.shtml",
+        "publishedAt": "2026-10-29T13:56:56.000+08:00"
+      },
+      {
         "title": "兰海高速湛江段开工建设 打通内地通往海南岛第二条高速通道",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722655.shtml",
         "publishedAt": "2026-10-29T13:55:42.000+08:00"
-      },
-      {
-        "title": "2026蒙BA季后赛在二连浩特启幕 名宿相聚蒙BA嘉年华",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-29/10722669.shtml",
-        "publishedAt": "2026-10-29T13:54:58.000+08:00"
-      },
-      {
-        "title": "国际观察：AI微短剧带动中巴影视业合作升温",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-29/10722671.shtml",
-        "publishedAt": "2026-10-29T13:53:20.000+08:00"
-      },
-      {
-        "title": "非洲访华团走进河南郑州航空港开展实践课",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722662.shtml",
-        "publishedAt": "2026-10-29T13:52:18.000+08:00"
-      },
-      {
-        "title": "从援疆相遇走向共富：疆果果十年带动5万余果农增收",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722668.shtml",
-        "publishedAt": "2026-10-29T13:49:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T14:06:34.380+08:00",
+    "fetchedAt": "2026-10-29T14:16:45.957+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T14:06:34.801+08:00",
+      "fetchedAt": "2026-10-29T14:16:46.472+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,7 +63,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 69,
+          "usedPct": 73,
           "resetAt": "2026-10-29T17:55:50.000+08:00"
         },
         {
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T14:06:34.803+08:00",
+      "fetchedAt": "2026-10-29T14:16:46.475+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T14:06:34.808+08:00",
+      "fetchedAt": "2026-10-29T14:16:46.482+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T14:06:34.808+08:00",
+      "fetchedAt": "2026-10-29T14:16:46.482+08:00",
       "error": "未启用",
       "disabled": true
     }
