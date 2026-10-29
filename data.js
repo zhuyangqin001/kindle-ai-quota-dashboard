@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-29T09:11:18.923+08:00",
+  "updatedAt": "2026-10-29T09:21:28.521+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.4,
-    "feelsLikeC": 23.2,
-    "humidity": 56,
-    "windKph": 1.4,
+    "tempC": 22.9,
+    "feelsLikeC": 23.6,
+    "humidity": 55,
+    "windKph": 2.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-29T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-29T09:11:18.923+08:00",
+    "observedAt": "2026-10-29T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-29T09:21:28.521+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "风云卫星中试平台发布 打通科技成果转化“最后一公里”",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722530.shtml",
+        "publishedAt": "2026-10-29T09:15:03.000+08:00"
+      },
+      {
+        "title": "秋季如何正确养肺？这些误区要警惕",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722528.shtml",
+        "publishedAt": "2026-10-29T09:11:33.000+08:00"
+      },
       {
         "title": "洗一次摇粒绒会释放70万根微塑料？专家详解→",
         "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722527.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "前三季度我国海洋生产总值8.5万亿元 同比增4.9%",
         "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722525.shtml",
         "publishedAt": "2026-10-29T09:00:18.000+08:00"
-      },
-      {
-        "title": "明明吃着不咸，钠却悄悄超标！这些“高盐刺客”就在你餐桌上",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722524.shtml",
-        "publishedAt": "2026-10-29T08:57:22.000+08:00"
-      },
-      {
-        "title": "盲目“秋冻”诱发卒中！预防与康复有哪些注意事项？",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-29/10722523.shtml",
-        "publishedAt": "2026-10-29T08:50:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-29T09:11:16.085+08:00",
+    "fetchedAt": "2026-10-29T09:21:26.820+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-29T09:11:16.448+08:00",
+      "fetchedAt": "2026-10-29T09:21:27.165+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-29T14:11:18.000+08:00"
+          "resetAt": "2026-10-29T14:21:28.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-04T15:01:40.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-29T09:11:16.451+08:00",
+      "fetchedAt": "2026-10-29T09:21:27.167+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T09:11:16.456+08:00",
+      "fetchedAt": "2026-10-29T09:21:27.172+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-29T09:11:16.456+08:00",
+      "fetchedAt": "2026-10-29T09:21:27.172+08:00",
       "error": "未启用",
       "disabled": true
     }
