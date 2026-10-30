@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T15:40:41.056+08:00",
+  "updatedAt": "2026-10-30T15:50:58.737+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.2,
-    "feelsLikeC": 26.9,
+    "tempC": 26.1,
+    "feelsLikeC": 26.8,
     "humidity": 52,
     "windKph": 7.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T15:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T15:40:41.056+08:00",
+    "observedAt": "2026-10-30T15:45:00.000+08:00",
+    "fetchedAt": "2026-10-30T15:50:58.737+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "事关婴幼儿日常安全 这4项强制性国家标准11月起实施",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723362.shtml",
-        "publishedAt": "2026-10-30T15:35:48.000+08:00"
+        "title": "塔城地区组织少数民族代表人士赴辽宁开展交往交流交融学习考察活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723370.shtml",
+        "publishedAt": "2026-10-30T15:46:19.000+08:00"
       },
       {
-        "title": "最高人民法院发布人民法院服务保障冬季供热典型案例",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-30/10723320.shtml",
-        "publishedAt": "2026-10-30T15:35:22.000+08:00"
+        "title": "一“硫”难求，硫磺价格波动如何向中下游传导？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723367.shtml",
+        "publishedAt": "2026-10-30T15:41:16.000+08:00"
       },
       {
-        "title": "检察公益诉讼法草案将三审 拟完善管辖和审判程序",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723361.shtml",
-        "publishedAt": "2026-10-30T15:35:12.000+08:00"
+        "title": "外交部：人类命运共同体理念连续第10年写入联大外空决议",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723365.shtml",
+        "publishedAt": "2026-10-30T15:39:34.000+08:00"
       },
       {
-        "title": "民盟海丰县委会发挥科技资源优势，赋能乡村产业发展",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723357.shtml",
-        "publishedAt": "2026-10-30T15:32:44.000+08:00"
+        "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723364.shtml",
+        "publishedAt": "2026-10-30T15:39:06.000+08:00"
       },
       {
-        "title": "来了就是广东人：企业里的民族团结故事",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723353.shtml",
-        "publishedAt": "2026-10-30T15:32:26.000+08:00"
+        "title": "让侨胞返乡更有“医靠”，广州举办华侨健康周活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723359.shtml",
+        "publishedAt": "2026-10-30T15:38:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T15:40:38.035+08:00",
+    "fetchedAt": "2026-10-30T15:50:55.229+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T15:40:38.758+08:00",
+      "fetchedAt": "2026-10-30T15:50:55.789+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 43,
-          "resetAt": "2026-11-05T15:49:28.000+08:00"
+          "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T15:40:38.762+08:00",
+      "fetchedAt": "2026-10-30T15:50:55.791+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T15:40:38.771+08:00",
+      "fetchedAt": "2026-10-30T15:50:55.799+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T15:40:38.771+08:00",
+      "fetchedAt": "2026-10-30T15:50:55.799+08:00",
       "error": "未启用",
       "disabled": true
     }
