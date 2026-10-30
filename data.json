@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T07:00:40.249+08:00",
+  "updatedAt": "2026-10-31T07:10:51.939+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-31T07:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T07:00:40.249+08:00",
+    "fetchedAt": "2026-10-31T07:10:51.939+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10月31日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/10-31/10723726.shtml",
+        "publishedAt": "2026-10-31T07:02:23.000+08:00"
+      },
+      {
+        "title": "中欧两大商会举办对话会 探讨推动中欧贸易向上平衡",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723725.shtml",
+        "publishedAt": "2026-10-31T07:00:33.000+08:00"
+      },
       {
         "title": "18件高棉文物回归柬埔寨",
         "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723721.shtml",
@@ -33,19 +43,9 @@
         "title": "美使馆称美国务院已要求非紧急岗位人员离开沙特",
         "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723723.shtml",
         "publishedAt": "2026-10-31T06:50:24.000+08:00"
-      },
-      {
-        "title": "奥列什基人道主义任务完成 俄乌均未违反停火制度",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723722.shtml",
-        "publishedAt": "2026-10-31T06:49:06.000+08:00"
-      },
-      {
-        "title": "第十届中德汽车大会在德国沃尔夫斯堡举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723720.shtml",
-        "publishedAt": "2026-10-31T06:48:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T07:00:37.481+08:00",
+    "fetchedAt": "2026-10-31T07:10:49.266+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T07:00:38.181+08:00",
+      "fetchedAt": "2026-10-31T07:10:50.024+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T12:00:40.000+08:00"
+          "resetAt": "2026-10-31T12:10:51.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T07:00:38.184+08:00",
+      "fetchedAt": "2026-10-31T07:10:50.028+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T07:00:38.193+08:00",
+      "fetchedAt": "2026-10-31T07:10:50.037+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T07:00:38.193+08:00",
+      "fetchedAt": "2026-10-31T07:10:50.037+08:00",
       "error": "未启用",
       "disabled": true
     }
