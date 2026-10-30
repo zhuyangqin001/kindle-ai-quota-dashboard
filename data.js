@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T00:13:15.098+08:00",
+  "updatedAt": "2026-10-31T00:23:27.401+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.4,
-    "feelsLikeC": 22.2,
+    "tempC": 20.3,
+    "feelsLikeC": 22.1,
     "humidity": 79,
-    "windKph": 3.1,
+    "windKph": 3.3,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T00:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T00:13:15.098+08:00",
+    "observedAt": "2026-10-31T00:15:00.000+08:00",
+    "fetchedAt": "2026-10-31T00:23:27.402+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "黑龙江省秋收基本结束 2.3亿亩农作物收获完毕",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723689.shtml",
-        "publishedAt": "2026-10-31T00:01:54.000+08:00"
+        "title": "百所科研机构“摆摊” 大湾区企业“点单”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723696.shtml",
+        "publishedAt": "2026-10-31T00:19:07.000+08:00"
       },
       {
-        "title": "民盟乡村振兴骨干培训班在上海举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723691.shtml",
-        "publishedAt": "2026-10-31T00:01:32.000+08:00"
+        "title": "以赛促练、以赛育人——2026年北京市体育传统项目学校系列比赛收官",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10723695.shtml",
+        "publishedAt": "2026-10-31T00:18:01.000+08:00"
       },
       {
-        "title": "前9月中国国有企业利润总额同比增长3%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723690.shtml",
-        "publishedAt": "2026-10-31T00:01:28.000+08:00"
+        "title": "西藏自治区第三届乡村篮球联赛2026“千年盐田”康BA暨芒康县“渝津闽藏”球类“三交”活动圆满收官",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10723694.shtml",
+        "publishedAt": "2026-10-31T00:12:31.000+08:00"
       },
       {
-        "title": "中国联合印尼、马来西亚破获一起特大跨国制贩毒案",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723688.shtml",
-        "publishedAt": "2026-10-31T00:01:24.000+08:00"
+        "title": "合肥发布逾百项秋假研学产品",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723693.shtml",
+        "publishedAt": "2026-10-31T00:11:04.000+08:00"
       },
       {
-        "title": "外媒关注二十届五中全会：全面从严治党表明中国共产党的政治决心",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723687.shtml",
-        "publishedAt": "2026-10-31T00:01:22.000+08:00"
+        "title": "河北以数智化改革提升生态环境执法服务质效",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723692.shtml",
+        "publishedAt": "2026-10-31T00:10:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T00:13:12.423+08:00",
+    "fetchedAt": "2026-10-31T00:23:24.604+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T00:13:13.142+08:00",
+      "fetchedAt": "2026-10-31T00:23:25.332+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T05:13:14.000+08:00"
+          "resetAt": "2026-10-31T05:23:27.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T00:13:13.145+08:00",
+      "fetchedAt": "2026-10-31T00:23:25.335+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T00:13:13.151+08:00",
+      "fetchedAt": "2026-10-31T00:23:25.345+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T00:13:13.151+08:00",
+      "fetchedAt": "2026-10-31T00:23:25.346+08:00",
       "error": "未启用",
       "disabled": true
     }
