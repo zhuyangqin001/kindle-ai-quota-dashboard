@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T18:14:01.800+08:00",
+  "updatedAt": "2026-10-30T18:24:17.089+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.5,
-    "feelsLikeC": 24.9,
-    "humidity": 58,
-    "windKph": 10.4,
+    "tempC": 24.3,
+    "feelsLikeC": 24.6,
+    "humidity": 59,
+    "windKph": 10.9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T18:14:01.800+08:00",
+    "observedAt": "2026-10-30T18:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T18:24:17.089+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "官方通报“湘江三大桥桥墩疑似倾斜”：非桥梁桥墩主体结构",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723501.shtml",
+        "publishedAt": "2026-10-30T18:16:13.000+08:00"
+      },
+      {
+        "title": "首批政府采购本国产品标准公开征求意见",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723504.shtml",
+        "publishedAt": "2026-10-30T18:15:45.000+08:00"
+      },
+      {
+        "title": "澜湄学者齐聚泰国曼谷 共拓区域教育人文合作新空间",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-30/10723491.shtml",
+        "publishedAt": "2026-10-30T18:10:24.000+08:00"
+      },
       {
         "title": "“X教授”演员帕特里克·斯图尔特去世，遗作《复仇者联盟5》年底上映",
         "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723497.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "兰州百合迎采挖旺季 陇原珍味走向海外市场",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723494.shtml",
         "publishedAt": "2026-10-30T18:07:00.000+08:00"
-      },
-      {
-        "title": "常墨涵、林益磊将担任达喀尔青奥会开幕式中国代表团旗手",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-30/10723498.shtml",
-        "publishedAt": "2026-10-30T18:04:20.000+08:00"
-      },
-      {
-        "title": "福建海警位金门附近海域依法开展常态执法巡查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723489.shtml",
-        "publishedAt": "2026-10-30T18:01:12.000+08:00"
-      },
-      {
-        "title": "科技赋能拓展音乐+场景 Music China 2026打造音乐生态场",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723495.shtml",
-        "publishedAt": "2026-10-30T17:58:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T18:13:58.750+08:00",
+    "fetchedAt": "2026-10-30T18:24:14.378+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T18:13:59.471+08:00",
+      "fetchedAt": "2026-10-30T18:24:15.095+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 43,
-          "resetAt": "2026-11-05T15:49:28.000+08:00"
+          "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T18:13:59.474+08:00",
+      "fetchedAt": "2026-10-30T18:24:15.098+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T18:13:59.484+08:00",
+      "fetchedAt": "2026-10-30T18:24:15.107+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T18:13:59.484+08:00",
+      "fetchedAt": "2026-10-30T18:24:15.108+08:00",
       "error": "未启用",
       "disabled": true
     }
