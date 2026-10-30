@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T11:14:09.134+08:00",
+  "updatedAt": "2026-10-30T11:24:21.453+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.7,
-    "feelsLikeC": 26.9,
-    "humidity": 51,
-    "windKph": 6.2,
+    "tempC": 26,
+    "feelsLikeC": 27.1,
+    "humidity": 50,
+    "windKph": 6.5,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T11:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T11:14:09.134+08:00",
+    "observedAt": "2026-10-30T11:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T11:24:21.453+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "鄱阳湖巡护记：从“捕鱼人”到“生态守湖人”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723205.shtml",
+        "publishedAt": "2026-10-30T11:17:24.000+08:00"
+      },
+      {
+        "title": "唐方裕：全会最重要的成果是审议通过了《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723203.shtml",
+        "publishedAt": "2026-10-30T11:10:38.000+08:00"
+      },
       {
         "title": "【数说经济】投资消费协力拓宽服务业增长空间",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723202.shtml",
@@ -33,19 +43,9 @@
         "title": "【光明论坛】以创新开创经济高质量发展新局面",
         "url": "https://www.chinanews.com.cn/ll/2026/10-30/10723198.shtml",
         "publishedAt": "2026-10-30T11:01:29.000+08:00"
-      },
-      {
-        "title": "福建土楼晒金秋 秋韵斑斓入画来",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209245.shtml",
-        "publishedAt": "2026-10-30T11:00:32.000+08:00"
-      },
-      {
-        "title": "林海雪原添新景 横道河子升级业态迎接客流",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723196.shtml",
-        "publishedAt": "2026-10-30T10:58:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T11:14:04.989+08:00",
+    "fetchedAt": "2026-10-30T11:24:18.869+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T11:14:05.744+08:00",
+      "fetchedAt": "2026-10-30T11:24:19.589+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T11:14:05.746+08:00",
+      "fetchedAt": "2026-10-30T11:24:19.593+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T11:14:05.755+08:00",
+      "fetchedAt": "2026-10-30T11:24:19.603+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T11:14:05.755+08:00",
+      "fetchedAt": "2026-10-30T11:24:19.603+08:00",
       "error": "未启用",
       "disabled": true
     }
