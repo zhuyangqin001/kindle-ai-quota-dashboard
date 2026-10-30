@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T13:37:21.889+08:00",
+  "updatedAt": "2026-10-30T13:47:39.643+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.2,
-    "feelsLikeC": 26.6,
+    "tempC": 26.3,
+    "feelsLikeC": 26.7,
     "humidity": 50,
-    "windKph": 8.1,
+    "windKph": 7.8,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T13:37:21.889+08:00",
+    "observedAt": "2026-10-30T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-30T13:47:39.643+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "源头管控 群防群治 多地开展“加拿大一枝黄花”治理行动",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723265.shtml",
-        "publishedAt": "2026-10-30T13:33:21.000+08:00"
+        "title": "走进“中国城市里坊制度活化石”——福州三坊七巷历史文化街区",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723268.shtml",
+        "publishedAt": "2026-10-30T13:44:04.000+08:00"
       },
       {
-        "title": "蒋非默艺术展用现代视觉语言诠释传统禅宗文化",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723260.shtml",
-        "publishedAt": "2026-10-30T13:29:25.000+08:00"
+        "title": "中国石化在COP17发布首份全球生物多样性保护报告",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723270.shtml",
+        "publishedAt": "2026-10-30T13:43:06.000+08:00"
       },
       {
-        "title": "抓准时机迅速降落 岳阳舰开展直升机跨昼夜飞行训练",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723263.shtml",
-        "publishedAt": "2026-10-30T13:27:31.000+08:00"
+        "title": "官方谈《决定》部署：坚决清除对党不忠、阳奉阴违、以权谋私的人",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723266.shtml",
+        "publishedAt": "2026-10-30T13:39:30.000+08:00"
       },
       {
-        "title": "珠江委与澳门水务部门在穗对供水安全等事项进行商议",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723255.shtml",
-        "publishedAt": "2026-10-30T13:26:23.000+08:00"
+        "title": "寻根燕都文脉 艺术视角助力北京琉璃河遗址国际传播",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723262.shtml",
+        "publishedAt": "2026-10-30T13:38:32.000+08:00"
       },
       {
-        "title": "专家共话长征国家文化公园建设与红色文化传承",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723258.shtml",
-        "publishedAt": "2026-10-30T13:24:43.000+08:00"
+        "title": "胡和平：《决定》把严格贯彻执行民主集中制作为全面从严治党的重要着力点",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723247.shtml",
+        "publishedAt": "2026-10-30T13:38:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T13:37:18.266+08:00",
+    "fetchedAt": "2026-10-30T13:47:36.270+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T13:37:19.005+08:00",
+      "fetchedAt": "2026-10-30T13:47:36.938+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 43,
-          "resetAt": "2026-11-05T15:49:28.000+08:00"
+          "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T13:37:19.007+08:00",
+      "fetchedAt": "2026-10-30T13:47:36.939+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T13:37:19.017+08:00",
+      "fetchedAt": "2026-10-30T13:47:36.943+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T13:37:19.017+08:00",
+      "fetchedAt": "2026-10-30T13:47:36.943+08:00",
       "error": "未启用",
       "disabled": true
     }
