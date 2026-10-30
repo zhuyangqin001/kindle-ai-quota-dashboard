@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T19:56:41.186+08:00",
+  "updatedAt": "2026-10-30T20:06:53.391+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.7,
-    "feelsLikeC": 23.1,
-    "humidity": 66,
-    "windKph": 10.8,
+    "tempC": 22.4,
+    "feelsLikeC": 23,
+    "humidity": 67,
+    "windKph": 10,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T19:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T19:56:41.186+08:00",
+    "observedAt": "2026-10-30T20:00:00.000+08:00",
+    "fetchedAt": "2026-10-30T20:06:53.391+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "缴获毒品约1.2吨 中国联合印度尼西亚、马来西亚破获一起特大跨国制贩毒案",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723589.shtml",
+        "publishedAt": "2026-10-30T20:01:58.000+08:00"
+      },
+      {
+        "title": "（文化新纪行）从古人“朋友圈”到今人“生活圈”：磁州窑历千年不衰",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723586.shtml",
+        "publishedAt": "2026-10-30T20:01:56.000+08:00"
+      },
       {
         "title": "海峡两岸文博会：多彩文创集中亮相",
         "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723538.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国与南非两国央行续签双边本币互换协议",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723559.shtml",
         "publishedAt": "2026-10-30T19:44:59.000+08:00"
-      },
-      {
-        "title": "四川汉源：102岁老人李青秀一家四代参加县乡人大代表换届选举投票",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723537.shtml",
-        "publishedAt": "2026-10-30T19:42:59.000+08:00"
-      },
-      {
-        "title": "跳出利润表的短期起伏：从负债端\"成色\"读懂中国人寿三季报",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723561.shtml",
-        "publishedAt": "2026-10-30T19:42:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T19:56:38.164+08:00",
+    "fetchedAt": "2026-10-30T20:06:50.865+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T19:56:38.878+08:00",
+      "fetchedAt": "2026-10-30T20:06:51.598+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T00:56:40.000+08:00"
+          "resetAt": "2026-10-31T01:06:53.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T19:56:38.881+08:00",
+      "fetchedAt": "2026-10-30T20:06:51.602+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T19:56:38.888+08:00",
+      "fetchedAt": "2026-10-30T20:06:51.611+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T19:56:38.888+08:00",
+      "fetchedAt": "2026-10-30T20:06:51.612+08:00",
       "error": "未启用",
       "disabled": true
     }
