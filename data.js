@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T14:49:06.906+08:00",
+  "updatedAt": "2026-10-30T14:59:28.113+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 26.5,
-    "feelsLikeC": 27.3,
+    "feelsLikeC": 27.2,
     "humidity": 51,
-    "windKph": 7.1,
+    "windKph": 7.6,
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-30T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T14:49:06.906+08:00",
+    "fetchedAt": "2026-10-30T14:59:28.113+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "健全社会组织退出机制 民政部出台注销指引",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723317.shtml",
+        "publishedAt": "2026-10-30T14:47:05.000+08:00"
+      },
+      {
+        "title": "“智慧大脑”赋能物流枢纽 邮路跑出降本增效加速度",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723319.shtml",
+        "publishedAt": "2026-10-30T14:44:25.000+08:00"
+      },
+      {
+        "title": "国家能源局：今年以来，我国能源供应充足、供需平衡",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723289.shtml",
+        "publishedAt": "2026-10-30T14:41:25.000+08:00"
+      },
       {
         "title": "黑龙江省肉制品生产企业全面实行“互联网+AI监管”",
         "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723298.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "江西南昌：碧水之畔，何以藏着豫章文化记忆？",
         "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723312.shtml",
         "publishedAt": "2026-10-30T14:37:03.000+08:00"
-      },
-      {
-        "title": "健全社会组织退出机制 民政部出台注销指引",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723314.shtml",
-        "publishedAt": "2026-10-30T14:31:41.000+08:00"
-      },
-      {
-        "title": "2026年9月份厦门市进出口情况",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-30/10723310.shtml",
-        "publishedAt": "2026-10-30T14:29:56.000+08:00"
-      },
-      {
-        "title": "（乡村行·看振兴）松嫩平原玉米归仓记：秋粮入囤 种养循环",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723296.shtml",
-        "publishedAt": "2026-10-30T14:27:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T14:49:03.817+08:00",
+    "fetchedAt": "2026-10-30T14:59:24.601+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T14:49:04.667+08:00",
+      "fetchedAt": "2026-10-30T14:59:25.335+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T14:49:04.670+08:00",
+      "fetchedAt": "2026-10-30T14:59:25.338+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T14:49:04.680+08:00",
+      "fetchedAt": "2026-10-30T14:59:25.347+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T14:49:04.680+08:00",
+      "fetchedAt": "2026-10-30T14:59:25.348+08:00",
       "error": "未启用",
       "disabled": true
     }
