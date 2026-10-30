@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T13:06:41.768+08:00",
+  "updatedAt": "2026-10-30T13:27:00.503+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 26.1,
-    "feelsLikeC": 26.4,
+    "feelsLikeC": 26.5,
     "humidity": 50,
-    "windKph": 8.4,
+    "windKph": 8.3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T13:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T13:06:41.768+08:00",
+    "observedAt": "2026-10-30T13:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T13:27:00.503+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "@职场人 除了熬夜，这些因素也在偷偷推高你的血糖",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723256.shtml",
+        "publishedAt": "2026-10-30T13:17:49.000+08:00"
+      },
+      {
+        "title": "德国总统北大演讲谈欧中经贸关系：双赢局面绝不能变成零和博弈",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723249.shtml",
+        "publishedAt": "2026-10-30T13:17:29.000+08:00"
+      },
+      {
+        "title": "“空气消毒卡”除菌消杀率超99.99%？中消协：涉虚假宣传",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723251.shtml",
+        "publishedAt": "2026-10-30T13:12:40.000+08:00"
+      },
       {
         "title": "美媒曝：特朗普施压下，乌克兰已暂停袭击俄罗斯炼油厂",
         "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723243.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "全国首个长三角区域船舶联合审图中心在沪成立",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723242.shtml",
         "publishedAt": "2026-10-30T12:51:33.000+08:00"
-      },
-      {
-        "title": "茉莉奶白门店回应联名玻璃杯爆裂：可退款回收",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723241.shtml",
-        "publishedAt": "2026-10-30T12:36:12.000+08:00"
-      },
-      {
-        "title": "（走进中国乡村）橘香越重洋 湖南石门拓宽“甜蜜”外销路",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723236.shtml",
-        "publishedAt": "2026-10-30T12:33:02.000+08:00"
-      },
-      {
-        "title": "《非居民企业机构、场所企业所得税管理办法（征求意见稿）》公布",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723227.shtml",
-        "publishedAt": "2026-10-30T12:32:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T13:06:38.375+08:00",
+    "fetchedAt": "2026-10-30T13:26:57.544+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T13:06:39.073+08:00",
+      "fetchedAt": "2026-10-30T13:26:58.271+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 43,
-          "resetAt": "2026-11-05T15:49:28.000+08:00"
+          "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T13:06:39.074+08:00",
+      "fetchedAt": "2026-10-30T13:26:58.274+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T13:06:39.083+08:00",
+      "fetchedAt": "2026-10-30T13:26:58.284+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T13:06:39.084+08:00",
+      "fetchedAt": "2026-10-30T13:26:58.285+08:00",
       "error": "未启用",
       "disabled": true
     }
