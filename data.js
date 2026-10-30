@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T00:03:02.419+08:00",
+  "updatedAt": "2026-10-31T00:13:15.098+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-31T00:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T00:03:02.419+08:00",
+    "fetchedAt": "2026-10-31T00:13:15.098+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“创业式接班”成新选择 海外“企二代”在沪探寻转型工具箱",
-        "url": "https://www.chinanews.com.cn/hr/2026/10-30/10723682.shtml",
-        "publishedAt": "2026-10-30T23:51:53.000+08:00"
+        "title": "黑龙江省秋收基本结束 2.3亿亩农作物收获完毕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723689.shtml",
+        "publishedAt": "2026-10-31T00:01:54.000+08:00"
       },
       {
-        "title": "第27届中国国际教育年会在北京举行 泰国首任主宾国",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723680.shtml",
-        "publishedAt": "2026-10-30T23:51:51.000+08:00"
+        "title": "民盟乡村振兴骨干培训班在上海举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723691.shtml",
+        "publishedAt": "2026-10-31T00:01:32.000+08:00"
       },
       {
-        "title": "从百岁到青春：四代人手中的选票",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723674.shtml",
-        "publishedAt": "2026-10-30T23:51:47.000+08:00"
+        "title": "前9月中国国有企业利润总额同比增长3%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723690.shtml",
+        "publishedAt": "2026-10-31T00:01:28.000+08:00"
       },
       {
-        "title": "澳门前三季度GDP初步数值达3161.3亿澳门元 同比实质增长2.9%",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723678.shtml",
-        "publishedAt": "2026-10-30T23:50:53.000+08:00"
+        "title": "中国联合印尼、马来西亚破获一起特大跨国制贩毒案",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723688.shtml",
+        "publishedAt": "2026-10-31T00:01:24.000+08:00"
       },
       {
-        "title": "殷玉珍、白帆与“赛考斯”云端重逢 吁为中美教育交流搭桥",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723676.shtml",
-        "publishedAt": "2026-10-30T23:50:49.000+08:00"
+        "title": "外媒关注二十届五中全会：全面从严治党表明中国共产党的政治决心",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723687.shtml",
+        "publishedAt": "2026-10-31T00:01:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T00:02:59.450+08:00",
+    "fetchedAt": "2026-10-31T00:13:12.423+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T00:03:00.182+08:00",
+      "fetchedAt": "2026-10-31T00:13:13.142+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T05:03:02.000+08:00"
+          "resetAt": "2026-10-31T05:13:14.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T00:03:00.185+08:00",
+      "fetchedAt": "2026-10-31T00:13:13.145+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T00:03:00.194+08:00",
+      "fetchedAt": "2026-10-31T00:13:13.151+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T00:03:00.195+08:00",
+      "fetchedAt": "2026-10-31T00:13:13.151+08:00",
       "error": "未启用",
       "disabled": true
     }
