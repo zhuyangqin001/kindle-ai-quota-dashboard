@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T10:33:20.318+08:00",
+  "updatedAt": "2026-10-30T10:43:32.140+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-30T10:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T10:33:20.318+08:00",
+    "fetchedAt": "2026-10-30T10:43:32.140+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "湖南新田新农人盘活撂荒山地 订单种植稳销增收",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723169.shtml",
-        "publishedAt": "2026-10-30T10:30:24.000+08:00"
+        "title": "农事“丰”景丨金秋时节，农村都在忙什么？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723184.shtml",
+        "publishedAt": "2026-10-30T10:38:52.000+08:00"
       },
       {
-        "title": "尺素金声丨为什么说顺差在中国，世界在受益？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723174.shtml",
-        "publishedAt": "2026-10-30T10:27:27.000+08:00"
+        "title": "整治婚介机构乱象 海南151家相关主体被注销",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723166.shtml",
+        "publishedAt": "2026-10-30T10:34:24.000+08:00"
       },
       {
-        "title": "黄建发：《决定》部署突出抓好新兴领域党的建设",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723168.shtml",
-        "publishedAt": "2026-10-30T10:25:39.000+08:00"
+        "title": "U17女足世界杯：中国队点球4:3淘汰法国队 队史首进八强",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-30/10723156.shtml",
+        "publishedAt": "2026-10-30T10:34:14.000+08:00"
       },
       {
-        "title": "湖南东安长者食堂拓展多元服务 构建乡村养老新场景",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723165.shtml",
-        "publishedAt": "2026-10-30T10:25:23.000+08:00"
+        "title": "党建+业务，激发新经济组织活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723180.shtml",
+        "publishedAt": "2026-10-30T10:33:28.000+08:00"
       },
       {
-        "title": "演艺活力浸润全城 武汉聚力打造“演艺名城”",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723162.shtml",
-        "publishedAt": "2026-10-30T10:24:29.000+08:00"
+        "title": "绿电支撑算力产业集聚 山西大同数据经济核心产值超200亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723177.shtml",
+        "publishedAt": "2026-10-30T10:32:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T10:33:18.381+08:00",
+    "fetchedAt": "2026-10-30T10:43:29.473+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T10:33:18.906+08:00",
+      "fetchedAt": "2026-10-30T10:43:30.123+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 64,
+          "usedPct": 75,
           "resetAt": "2026-10-30T14:26:01.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 38,
+          "usedPct": 40,
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T10:33:18.908+08:00",
+      "fetchedAt": "2026-10-30T10:43:30.125+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T10:33:18.914+08:00",
+      "fetchedAt": "2026-10-30T10:43:30.132+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T10:33:18.914+08:00",
+      "fetchedAt": "2026-10-30T10:43:30.132+08:00",
       "error": "未启用",
       "disabled": true
     }
