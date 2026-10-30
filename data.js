@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T15:09:44.476+08:00",
+  "updatedAt": "2026-10-30T15:20:08.349+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.4,
-    "feelsLikeC": 27.1,
+    "tempC": 26.3,
+    "feelsLikeC": 27,
     "humidity": 51,
     "windKph": 7.7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T15:09:44.476+08:00",
+    "observedAt": "2026-10-30T15:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T15:20:08.349+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从火线急救到野战手术 多级卫勤力量打通战场救治链",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723324.shtml",
-        "publishedAt": "2026-10-30T15:00:48.000+08:00"
+        "title": "反跨境腐败法草案将二审 拟增加规定加强对国家秘密、个人隐私等的保护",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723338.shtml",
+        "publishedAt": "2026-10-30T15:16:39.000+08:00"
       },
       {
-        "title": "消息人士：五角大楼官员要求欧洲缓和对俄言辞",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723323.shtml",
-        "publishedAt": "2026-10-30T14:59:22.000+08:00"
+        "title": "南极活动与环境保护法草案将二审 拟明确国家建立健全南极考察制度",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723337.shtml",
+        "publishedAt": "2026-10-30T15:16:33.000+08:00"
       },
       {
-        "title": "健全社会组织退出机制 民政部出台注销指引",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723317.shtml",
-        "publishedAt": "2026-10-30T14:47:05.000+08:00"
+        "title": "A股收评：超4500只个股飘绿，三大指数收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723335.shtml",
+        "publishedAt": "2026-10-30T15:14:51.000+08:00"
       },
       {
-        "title": "“智慧大脑”赋能物流枢纽 邮路跑出降本增效加速度",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723319.shtml",
-        "publishedAt": "2026-10-30T14:44:25.000+08:00"
+        "title": "从“盼安居”到“乐共富”——一名基层统战干部的库区共富手记",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723332.shtml",
+        "publishedAt": "2026-10-30T15:13:23.000+08:00"
       },
       {
-        "title": "国家能源局：今年以来，我国能源供应充足、供需平衡",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723289.shtml",
-        "publishedAt": "2026-10-30T14:41:25.000+08:00"
+        "title": "链聚同心，鲤跃高唐 —— 一条锦鲤背后的统战力量",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723327.shtml",
+        "publishedAt": "2026-10-30T15:12:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T15:09:40.652+08:00",
+    "fetchedAt": "2026-10-30T15:20:04.002+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T15:09:41.339+08:00",
+      "fetchedAt": "2026-10-30T15:20:04.732+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
+          "usedPct": 5,
           "resetAt": "2026-10-30T19:32:40.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 43,
-          "resetAt": "2026-11-05T15:49:28.000+08:00"
+          "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T15:09:41.340+08:00",
+      "fetchedAt": "2026-10-30T15:20:04.735+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T15:09:41.348+08:00",
+      "fetchedAt": "2026-10-30T15:20:04.744+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T15:09:41.349+08:00",
+      "fetchedAt": "2026-10-30T15:20:04.745+08:00",
       "error": "未启用",
       "disabled": true
     }
