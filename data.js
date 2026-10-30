@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T22:09:56.626+08:00",
+  "updatedAt": "2026-10-30T22:20:13.598+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21,
+    "tempC": 20.9,
     "feelsLikeC": 22.9,
-    "humidity": 75,
-    "windKph": 2.3,
+    "humidity": 76,
+    "windKph": 1.9,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T22:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T22:09:56.626+08:00",
+    "observedAt": "2026-10-30T22:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T22:20:13.598+08:00",
     "error": null
   },
   "news": {
@@ -20,7 +20,22 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "商务部新闻发言人就美国联邦通信委员会投票通过检测实验室限制措施事答记者问",
+        "title": "赵乐际会见德国总统施泰因迈尔",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209282.shtml",
+        "publishedAt": "2026-10-30T22:17:37.000+08:00"
+      },
+      {
+        "title": "习近平同德国总统施泰因迈尔会谈",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209279.shtml",
+        "publishedAt": "2026-10-30T22:09:41.000+08:00"
+      },
+      {
+        "title": "习近平会见瑞士联邦主席帕姆兰",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209281.shtml",
+        "publishedAt": "2026-10-30T22:07:31.000+08:00"
+      },
+      {
+        "title": "商务部就美国联邦通信委员会投票通过检测实验室限制措施事答记者问",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723659.shtml",
         "publishedAt": "2026-10-30T22:03:39.000+08:00"
       },
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "10月30日夜读",
         "url": "https://www.chinanews.com.cn/iframe/2026/10-30/10723658.shtml",
         "publishedAt": "2026-10-30T21:56:51.000+08:00"
-      },
-      {
-        "title": "三部门增加调拨1000套中央救灾物资板房 保障西藏受灾群众安全温暖过冬",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723655.shtml",
-        "publishedAt": "2026-10-30T21:53:02.000+08:00"
-      },
-      {
-        "title": "合肥秋色次第铺展 水上“小提琴”层林尽染",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723623.shtml",
-        "publishedAt": "2026-10-30T21:52:10.000+08:00"
-      },
-      {
-        "title": "文脉共续、产业共兴、邻里共融：探访云南民族团结的生动实践",
-        "url": "https://www.chinanews.com.cn/mz/2026/10-30/10723646.shtml",
-        "publishedAt": "2026-10-30T21:43:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T22:09:51.790+08:00",
+    "fetchedAt": "2026-10-30T22:20:09.917+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T22:09:52.178+08:00",
+      "fetchedAt": "2026-10-30T22:20:10.615+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T03:09:55.000+08:00"
+          "resetAt": "2026-10-31T03:20:12.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 43,
-          "resetAt": "2026-11-05T15:49:29.000+08:00"
+          "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T22:09:52.180+08:00",
+      "fetchedAt": "2026-10-30T22:20:10.617+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T22:09:52.185+08:00",
+      "fetchedAt": "2026-10-30T22:20:10.624+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T22:09:52.186+08:00",
+      "fetchedAt": "2026-10-30T22:20:10.625+08:00",
       "error": "未启用",
       "disabled": true
     }
