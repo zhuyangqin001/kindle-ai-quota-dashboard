@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T03:06:33.569+08:00",
+  "updatedAt": "2026-10-31T03:16:45.902+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.9,
-    "feelsLikeC": 21.5,
+    "tempC": 19.8,
+    "feelsLikeC": 21.4,
     "humidity": 84,
-    "windKph": 5.5,
-    "windDir": "东北风",
+    "windKph": 6,
+    "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T03:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T03:06:33.569+08:00",
+    "observedAt": "2026-10-31T03:15:00.000+08:00",
+    "fetchedAt": "2026-10-31T03:16:45.902+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-31T00:26:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T03:06:31.059+08:00",
+    "fetchedAt": "2026-10-31T03:16:43.305+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T03:06:31.799+08:00",
+      "fetchedAt": "2026-10-31T03:16:44.027+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T08:06:33.000+08:00"
+          "resetAt": "2026-10-31T08:16:45.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T03:06:31.802+08:00",
+      "fetchedAt": "2026-10-31T03:16:44.029+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T03:06:31.811+08:00",
+      "fetchedAt": "2026-10-31T03:16:44.039+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T03:06:31.811+08:00",
+      "fetchedAt": "2026-10-31T03:16:44.039+08:00",
       "error": "未启用",
       "disabled": true
     }
