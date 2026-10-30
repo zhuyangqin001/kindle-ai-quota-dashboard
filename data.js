@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T12:46:19.150+08:00",
+  "updatedAt": "2026-10-30T13:06:41.768+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.2,
-    "feelsLikeC": 26.5,
+    "tempC": 26.1,
+    "feelsLikeC": 26.4,
     "humidity": 50,
-    "windKph": 8.3,
+    "windKph": 8.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T12:46:19.150+08:00",
+    "observedAt": "2026-10-30T13:00:00.000+08:00",
+    "fetchedAt": "2026-10-30T13:06:41.768+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美媒曝：特朗普施压下，乌克兰已暂停袭击俄罗斯炼油厂",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723243.shtml",
+        "publishedAt": "2026-10-30T12:54:21.000+08:00"
+      },
+      {
+        "title": "全国首个长三角区域船舶联合审图中心在沪成立",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723242.shtml",
+        "publishedAt": "2026-10-30T12:51:33.000+08:00"
+      },
       {
         "title": "茉莉奶白门店回应联名玻璃杯爆裂：可退款回收",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723241.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "《非居民企业机构、场所企业所得税管理办法（征求意见稿）》公布",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723227.shtml",
         "publishedAt": "2026-10-30T12:32:36.000+08:00"
-      },
-      {
-        "title": "山西晋中“十五五”锚定先进制造业：2030年省级产业链营收力争破千亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723228.shtml",
-        "publishedAt": "2026-10-30T12:32:24.000+08:00"
-      },
-      {
-        "title": "广西提升涉外法律服务质效 加快打造制度型开放新高地",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-30/10723226.shtml",
-        "publishedAt": "2026-10-30T12:30:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T12:46:16.303+08:00",
+    "fetchedAt": "2026-10-30T13:06:38.375+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T12:46:17.018+08:00",
+      "fetchedAt": "2026-10-30T13:06:39.073+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T12:46:17.021+08:00",
+      "fetchedAt": "2026-10-30T13:06:39.074+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T12:46:17.030+08:00",
+      "fetchedAt": "2026-10-30T13:06:39.083+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T12:46:17.031+08:00",
+      "fetchedAt": "2026-10-30T13:06:39.084+08:00",
       "error": "未启用",
       "disabled": true
     }
