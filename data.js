@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T19:46:28.908+08:00",
+  "updatedAt": "2026-10-30T19:56:41.186+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-30T19:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T19:46:28.908+08:00",
+    "fetchedAt": "2026-10-30T19:56:41.186+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "规模之上看价值：解析中国人寿三季报的经营底盘",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723560.shtml",
-        "publishedAt": "2026-10-30T19:41:35.000+08:00"
+        "title": "海峡两岸文博会：多彩文创集中亮相",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723538.shtml",
+        "publishedAt": "2026-10-30T19:46:40.000+08:00"
       },
       {
-        "title": "山西前三季度社会融资规模存量达7.39万亿元 金融运行总体平稳",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723553.shtml",
-        "publishedAt": "2026-10-30T19:38:23.000+08:00"
+        "title": "央行：2026年第三季度全国新发放商业性个人住房贷款加权平均利率为3.05%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723565.shtml",
+        "publishedAt": "2026-10-30T19:45:41.000+08:00"
       },
       {
-        "title": "垫丰武高速白烟囱隧道右洞顺利贯通",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723552.shtml",
-        "publishedAt": "2026-10-30T19:37:03.000+08:00"
+        "title": "中国与南非两国央行续签双边本币互换协议",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723559.shtml",
+        "publishedAt": "2026-10-30T19:44:59.000+08:00"
       },
       {
-        "title": "武汉白沙洲公铁两用长江大桥主墩首根桩基浇筑完成",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723545.shtml",
-        "publishedAt": "2026-10-30T19:36:27.000+08:00"
+        "title": "四川汉源：102岁老人李青秀一家四代参加县乡人大代表换届选举投票",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723537.shtml",
+        "publishedAt": "2026-10-30T19:42:59.000+08:00"
       },
       {
-        "title": "青海都兰：枸杞采收用上机器 每亩成本降七成",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723551.shtml",
-        "publishedAt": "2026-10-30T19:36:17.000+08:00"
+        "title": "跳出利润表的短期起伏：从负债端\"成色\"读懂中国人寿三季报",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723561.shtml",
+        "publishedAt": "2026-10-30T19:42:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T19:46:24.728+08:00",
+    "fetchedAt": "2026-10-30T19:56:38.164+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T19:46:25.423+08:00",
+      "fetchedAt": "2026-10-30T19:56:38.878+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T00:46:28.000+08:00"
+          "resetAt": "2026-10-31T00:56:40.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T19:46:25.426+08:00",
+      "fetchedAt": "2026-10-30T19:56:38.881+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T19:46:25.437+08:00",
+      "fetchedAt": "2026-10-30T19:56:38.888+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T19:46:25.437+08:00",
+      "fetchedAt": "2026-10-30T19:56:38.888+08:00",
       "error": "未启用",
       "disabled": true
     }
