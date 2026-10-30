@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T20:37:44.700+08:00",
+  "updatedAt": "2026-10-30T20:58:09.784+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.9,
+    "tempC": 21.8,
     "feelsLikeC": 23,
-    "humidity": 70,
-    "windKph": 7.2,
+    "humidity": 71,
+    "windKph": 6.5,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T20:37:44.700+08:00",
+    "observedAt": "2026-10-30T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-30T20:58:09.784+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东茂名前三季度对APEC其他成员经济体进出口增逾五成",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723579.shtml",
-        "publishedAt": "2026-10-30T20:31:46.000+08:00"
+        "title": "“纪念中国工农红军长征胜利90周年文物联展”在北京开幕",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209272.shtml",
+        "publishedAt": "2026-10-30T20:50:29.000+08:00"
       },
       {
-        "title": "《天津市突发事件应对条例》11月起施行 强化京津冀协同应急",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723578.shtml",
-        "publishedAt": "2026-10-30T20:31:40.000+08:00"
+        "title": "中新健康｜27岁抗癌博主悦悦去世，医生提醒：乳房肿块不能仅凭手感判断",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723604.shtml",
+        "publishedAt": "2026-10-30T20:46:01.000+08:00"
       },
       {
-        "title": "北京首条滨河半马赛道亮相 11月1日迎“首秀”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723570.shtml",
-        "publishedAt": "2026-10-30T20:31:00.000+08:00"
+        "title": "习近平会见瑞士联邦主席帕姆兰",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723609.shtml",
+        "publishedAt": "2026-10-30T20:45:49.000+08:00"
       },
       {
-        "title": "国际法制计量组织重要技术委员会秘书处落地中国",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723573.shtml",
-        "publishedAt": "2026-10-30T20:29:32.000+08:00"
+        "title": "原创技术引领 中国推进编制审定首个钙钛矿膜结晶制造国家标准",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723595.shtml",
+        "publishedAt": "2026-10-30T20:44:27.000+08:00"
       },
       {
-        "title": "全国岸钓路亚锦标赛首场总决赛在宝应启幕 200名选手竞逐19.98万元奖金",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723569.shtml",
-        "publishedAt": "2026-10-30T20:29:24.000+08:00"
+        "title": "全国人大常委会党组举行会议 学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神 赵乐际主持并",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723612.shtml",
+        "publishedAt": "2026-10-30T20:44:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T20:37:42.207+08:00",
+    "fetchedAt": "2026-10-30T20:58:06.783+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T20:37:42.904+08:00",
+      "fetchedAt": "2026-10-30T20:58:07.472+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T01:37:44.000+08:00"
+          "resetAt": "2026-10-31T01:58:09.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T20:37:42.908+08:00",
+      "fetchedAt": "2026-10-30T20:58:07.474+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T20:37:42.917+08:00",
+      "fetchedAt": "2026-10-30T20:58:07.483+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T20:37:42.917+08:00",
+      "fetchedAt": "2026-10-30T20:58:07.484+08:00",
       "error": "未启用",
       "disabled": true
     }
