@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T23:22:04.569+08:00",
+  "updatedAt": "2026-10-30T23:32:16.600+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.6,
-    "feelsLikeC": 22.5,
+    "tempC": 20.5,
+    "feelsLikeC": 22.4,
     "humidity": 78,
-    "windKph": 2,
+    "windKph": 2.5,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T23:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T23:22:04.569+08:00",
+    "observedAt": "2026-10-30T23:30:00.000+08:00",
+    "fetchedAt": "2026-10-30T23:32:16.601+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "商务部国际司负责人解读中国—瑞士自由贸易协定升级议定书",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723669.shtml",
+        "publishedAt": "2026-10-30T23:26:22.000+08:00"
+      },
       {
         "title": "咽喉不适做CT，意外揪出腹腔“定时炸弹”！这个病，不痛不痒却可能大出血！",
         "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723663.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "习近平会见瑞士联邦主席帕姆兰",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209281.shtml",
         "publishedAt": "2026-10-30T22:07:31.000+08:00"
-      },
-      {
-        "title": "商务部就美国联邦通信委员会投票通过检测实验室限制措施事答记者问",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723659.shtml",
-        "publishedAt": "2026-10-30T22:03:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T23:22:02.083+08:00",
+    "fetchedAt": "2026-10-30T23:32:13.788+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T23:22:02.779+08:00",
+      "fetchedAt": "2026-10-30T23:32:14.523+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T04:22:04.000+08:00"
+          "resetAt": "2026-10-31T04:32:16.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T23:22:02.782+08:00",
+      "fetchedAt": "2026-10-30T23:32:14.526+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T23:22:02.792+08:00",
+      "fetchedAt": "2026-10-30T23:32:14.536+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T23:22:02.792+08:00",
+      "fetchedAt": "2026-10-30T23:32:14.536+08:00",
       "error": "未启用",
       "disabled": true
     }
