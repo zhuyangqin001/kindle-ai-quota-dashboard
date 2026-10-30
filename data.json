@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T15:20:08.349+08:00",
+  "updatedAt": "2026-10-30T15:30:26.876+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.3,
-    "feelsLikeC": 27,
-    "humidity": 51,
-    "windKph": 7.7,
+    "tempC": 26.2,
+    "feelsLikeC": 26.9,
+    "humidity": 52,
+    "windKph": 7.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T15:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T15:20:08.349+08:00",
+    "observedAt": "2026-10-30T15:30:00.000+08:00",
+    "fetchedAt": "2026-10-30T15:30:26.876+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "金融法草案将二审 拟增加对互联网营销等活动的针对性规定",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723341.shtml",
+        "publishedAt": "2026-10-30T15:21:23.000+08:00"
+      },
+      {
+        "title": "前三季度全国可再生能源新增装机占全部新增装机比重超七成",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723292.shtml",
+        "publishedAt": "2026-10-30T15:19:05.000+08:00"
+      },
       {
         "title": "反跨境腐败法草案将二审 拟增加规定加强对国家秘密、个人隐私等的保护",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723338.shtml",
@@ -30,22 +40,12 @@
         "publishedAt": "2026-10-30T15:16:33.000+08:00"
       },
       {
-        "title": "A股收评：超4500只个股飘绿，三大指数收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723335.shtml",
-        "publishedAt": "2026-10-30T15:14:51.000+08:00"
-      },
-      {
-        "title": "从“盼安居”到“乐共富”——一名基层统战干部的库区共富手记",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723332.shtml",
-        "publishedAt": "2026-10-30T15:13:23.000+08:00"
-      },
-      {
-        "title": "链聚同心，鲤跃高唐 —— 一条锦鲤背后的统战力量",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723327.shtml",
-        "publishedAt": "2026-10-30T15:12:51.000+08:00"
+        "title": "习近平主席特使高志丹将出席达喀尔第四届青年奥林匹克运动会开幕式",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723333.shtml",
+        "publishedAt": "2026-10-30T15:15:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T15:20:04.002+08:00",
+    "fetchedAt": "2026-10-30T15:30:22.942+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T15:20:04.732+08:00",
+      "fetchedAt": "2026-10-30T15:30:23.572+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T15:20:04.735+08:00",
+      "fetchedAt": "2026-10-30T15:30:23.575+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T15:20:04.744+08:00",
+      "fetchedAt": "2026-10-30T15:30:23.584+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T15:20:04.745+08:00",
+      "fetchedAt": "2026-10-30T15:30:23.584+08:00",
       "error": "未启用",
       "disabled": true
     }
