@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T21:39:13.524+08:00",
+  "updatedAt": "2026-10-30T21:49:26.052+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.3,
+    "tempC": 21.2,
     "feelsLikeC": 23,
-    "humidity": 74,
-    "windKph": 3.9,
-    "windDir": "北风",
+    "humidity": 75,
+    "windKph": 2.9,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T21:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T21:39:13.524+08:00",
+    "observedAt": "2026-10-30T21:45:00.000+08:00",
+    "fetchedAt": "2026-10-30T21:49:26.052+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "港股三大指数收涨 结束两周连跌态势",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723632.shtml",
-        "publishedAt": "2026-10-30T21:33:33.000+08:00"
+        "title": "文脉共续、产业共兴、邻里共融：探访云南民族团结的生动实践",
+        "url": "https://www.chinanews.com.cn/mz/2026/10-30/10723646.shtml",
+        "publishedAt": "2026-10-30T21:43:12.000+08:00"
       },
       {
-        "title": "罗工柳艺术文献展亮相国博 呈现“求索”与“担当”的艺术生涯",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723630.shtml",
-        "publishedAt": "2026-10-30T21:32:29.000+08:00"
+        "title": "中国最北滑雪场开板迎客",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-30/10723654.shtml",
+        "publishedAt": "2026-10-30T21:43:04.000+08:00"
       },
       {
-        "title": "截至9月底中国电网企业固定资产投资超6000亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723607.shtml",
-        "publishedAt": "2026-10-30T21:30:55.000+08:00"
+        "title": "云南推动“戎光”入史志",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723653.shtml",
+        "publishedAt": "2026-10-30T21:43:02.000+08:00"
       },
       {
-        "title": "赵乐际会见德国总统施泰因迈尔",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723637.shtml",
-        "publishedAt": "2026-10-30T21:30:53.000+08:00"
+        "title": "跨越三千公里的“光明接力” 常德援藏守护西藏隆子群众“视”界",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723652.shtml",
+        "publishedAt": "2026-10-30T21:43:00.000+08:00"
       },
       {
-        "title": "福州：留学生泛舟内河 乐享“福水福船”闽都风韵",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723621.shtml",
-        "publishedAt": "2026-10-30T21:24:17.000+08:00"
+        "title": "广东明确“十五五”退役军人服务和保障十大工程",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723651.shtml",
+        "publishedAt": "2026-10-30T21:41:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T21:39:10.621+08:00",
+    "fetchedAt": "2026-10-30T21:49:23.320+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T21:39:11.316+08:00",
+      "fetchedAt": "2026-10-30T21:49:24.046+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T02:39:13.000+08:00"
+          "resetAt": "2026-10-31T02:49:25.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T21:39:11.318+08:00",
+      "fetchedAt": "2026-10-30T21:49:24.049+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T21:39:11.327+08:00",
+      "fetchedAt": "2026-10-30T21:49:24.058+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T21:39:11.327+08:00",
+      "fetchedAt": "2026-10-30T21:49:24.059+08:00",
       "error": "未启用",
       "disabled": true
     }
