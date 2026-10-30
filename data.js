@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T09:42:22.400+08:00",
+  "updatedAt": "2026-10-30T09:52:33.952+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.4,
-    "feelsLikeC": 24.6,
-    "humidity": 58,
-    "windKph": 2.2,
+    "tempC": 23.8,
+    "feelsLikeC": 24.9,
+    "humidity": 57,
+    "windKph": 3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T09:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T09:42:22.400+08:00",
+    "observedAt": "2026-10-30T09:45:00.000+08:00",
+    "fetchedAt": "2026-10-30T09:52:33.952+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "与算力协同 用AI赋能 一张电网里的科技创新活力",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723134.shtml",
-        "publishedAt": "2026-10-30T09:38:55.000+08:00"
+        "title": "亚冠二级联赛小组赛：中国香港大埔队不敌泰国巴吞联队",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723131.shtml",
+        "publishedAt": "2026-10-30T09:49:31.000+08:00"
       },
       {
-        "title": "柴达木戈壁上的“追风人”：中国石油单体最大风电项目施工见闻",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723128.shtml",
-        "publishedAt": "2026-10-30T09:35:59.000+08:00"
+        "title": "再访尼泊尔“8·26”泥石流努瓦果德县灾区",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723133.shtml",
+        "publishedAt": "2026-10-30T09:49:11.000+08:00"
       },
       {
-        "title": "中国海警在仁爱礁仙宾礁海域开展海上综合执法训练",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723130.shtml",
-        "publishedAt": "2026-10-30T09:35:02.000+08:00"
+        "title": "海南自贸港再迎政策支持 16条举措助力发展→",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723135.shtml",
+        "publishedAt": "2026-10-30T09:48:51.000+08:00"
       },
       {
-        "title": "2026年前三季度全国规模以上文化及相关产业企业营业收入增长4.3%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723129.shtml",
-        "publishedAt": "2026-10-30T09:33:54.000+08:00"
+        "title": "10月30日央行开展150亿元7天期逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723126.shtml",
+        "publishedAt": "2026-10-30T09:48:35.000+08:00"
       },
       {
-        "title": "“翰墨生香·丹青焕彩” 2026年中华优秀传统文化走基层书画作品展开展",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723121.shtml",
-        "publishedAt": "2026-10-30T09:27:16.000+08:00"
+        "title": "10月30日人民币对美元中间价报6.7138 上调9个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723119.shtml",
+        "publishedAt": "2026-10-30T09:46:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T09:42:19.898+08:00",
+    "fetchedAt": "2026-10-30T09:52:30.842+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T09:42:20.341+08:00",
+      "fetchedAt": "2026-10-30T09:52:31.429+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 11,
+          "usedPct": 18,
           "resetAt": "2026-10-30T14:26:01.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 30,
+          "usedPct": 31,
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T09:42:20.343+08:00",
+      "fetchedAt": "2026-10-30T09:52:31.431+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T09:42:20.353+08:00",
+      "fetchedAt": "2026-10-30T09:52:31.435+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T09:42:20.353+08:00",
+      "fetchedAt": "2026-10-30T09:52:31.435+08:00",
       "error": "未启用",
       "disabled": true
     }
