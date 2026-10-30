@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T23:52:49.254+08:00",
+  "updatedAt": "2026-10-31T00:03:02.419+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 20.4,
     "feelsLikeC": 22.2,
-    "humidity": 78,
-    "windKph": 2.9,
+    "humidity": 79,
+    "windKph": 3.1,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T23:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T23:52:49.254+08:00",
+    "observedAt": "2026-10-31T00:00:00.000+08:00",
+    "fetchedAt": "2026-10-31T00:03:02.419+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "习近平会见瑞士联邦主席帕姆兰",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723657.shtml",
-        "publishedAt": "2026-10-30T23:28:12.000+08:00"
+        "title": "“创业式接班”成新选择 海外“企二代”在沪探寻转型工具箱",
+        "url": "https://www.chinanews.com.cn/hr/2026/10-30/10723682.shtml",
+        "publishedAt": "2026-10-30T23:51:53.000+08:00"
       },
       {
-        "title": "习近平同德国总统施泰因迈尔会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723656.shtml",
-        "publishedAt": "2026-10-30T23:28:02.000+08:00"
+        "title": "第27届中国国际教育年会在北京举行 泰国首任主宾国",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723680.shtml",
+        "publishedAt": "2026-10-30T23:51:51.000+08:00"
       },
       {
-        "title": "中国与瑞士签署自贸协定升级议定书",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723668.shtml",
-        "publishedAt": "2026-10-30T23:27:10.000+08:00"
+        "title": "从百岁到青春：四代人手中的选票",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723674.shtml",
+        "publishedAt": "2026-10-30T23:51:47.000+08:00"
       },
       {
-        "title": "商务部国际司负责人解读中国—瑞士自由贸易协定升级议定书",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723669.shtml",
-        "publishedAt": "2026-10-30T23:26:22.000+08:00"
+        "title": "澳门前三季度GDP初步数值达3161.3亿澳门元 同比实质增长2.9%",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723678.shtml",
+        "publishedAt": "2026-10-30T23:50:53.000+08:00"
       },
       {
-        "title": "咽喉不适做CT，意外揪出腹腔“定时炸弹”！这个病，不痛不痒却可能大出血！",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723663.shtml",
-        "publishedAt": "2026-10-30T22:25:50.000+08:00"
+        "title": "殷玉珍、白帆与“赛考斯”云端重逢 吁为中美教育交流搭桥",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723676.shtml",
+        "publishedAt": "2026-10-30T23:50:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T23:52:46.712+08:00",
+    "fetchedAt": "2026-10-31T00:02:59.450+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T23:52:47.190+08:00",
+      "fetchedAt": "2026-10-31T00:03:00.182+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T04:52:49.000+08:00"
+          "resetAt": "2026-10-31T05:03:02.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T23:52:47.193+08:00",
+      "fetchedAt": "2026-10-31T00:03:00.185+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T23:52:47.198+08:00",
+      "fetchedAt": "2026-10-31T00:03:00.194+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T23:52:47.198+08:00",
+      "fetchedAt": "2026-10-31T00:03:00.195+08:00",
       "error": "未启用",
       "disabled": true
     }
