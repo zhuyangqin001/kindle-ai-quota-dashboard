@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T12:25:44.701+08:00",
+  "updatedAt": "2026-10-30T12:36:02.305+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.4,
-    "feelsLikeC": 26.9,
-    "humidity": 49,
-    "windKph": 7.9,
+    "tempC": 26.3,
+    "feelsLikeC": 26.7,
+    "humidity": 50,
+    "windKph": 8.2,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T12:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T12:25:44.701+08:00",
+    "observedAt": "2026-10-30T12:30:00.000+08:00",
+    "fetchedAt": "2026-10-30T12:36:02.305+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "赛事引流文旅升温 全国“村BA”在湖北咸丰收官",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723220.shtml",
-        "publishedAt": "2026-10-30T12:13:13.000+08:00"
+        "title": "（走进中国乡村）橘香越重洋 湖南石门拓宽“甜蜜”外销路",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723236.shtml",
+        "publishedAt": "2026-10-30T12:33:02.000+08:00"
       },
       {
-        "title": "A股午评：超2800只个股飘绿，三大指数集体收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723235.shtml",
-        "publishedAt": "2026-10-30T12:00:46.000+08:00"
+        "title": "《非居民企业机构、场所企业所得税管理办法（征求意见稿）》公布",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723227.shtml",
+        "publishedAt": "2026-10-30T12:32:36.000+08:00"
       },
       {
-        "title": "公安部就修订《公安机关办理行政案件程序规定》公开征求意见",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723234.shtml",
-        "publishedAt": "2026-10-30T11:58:08.000+08:00"
+        "title": "山西晋中“十五五”锚定先进制造业：2030年省级产业链营收力争破千亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723228.shtml",
+        "publishedAt": "2026-10-30T12:32:24.000+08:00"
       },
       {
-        "title": "张福海：《决定》从4个方面对坚定走好中国特色反腐败之路作出部署",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723233.shtml",
-        "publishedAt": "2026-10-30T11:55:52.000+08:00"
+        "title": "广西提升涉外法律服务质效 加快打造制度型开放新高地",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-30/10723226.shtml",
+        "publishedAt": "2026-10-30T12:30:22.000+08:00"
       },
       {
-        "title": "瑞士联邦主席帕姆兰抵达北京 开启访华行程",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723223.shtml",
-        "publishedAt": "2026-10-30T11:47:28.000+08:00"
+        "title": "2026年台湾青年福建工艺美术研学交流活动启动",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723225.shtml",
+        "publishedAt": "2026-10-30T12:29:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T12:25:41.204+08:00",
+    "fetchedAt": "2026-10-30T12:35:59.203+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T12:25:41.956+08:00",
+      "fetchedAt": "2026-10-30T12:35:59.873+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 43,
-          "resetAt": "2026-11-05T15:49:29.000+08:00"
+          "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T12:25:41.959+08:00",
+      "fetchedAt": "2026-10-30T12:35:59.876+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T12:25:41.968+08:00",
+      "fetchedAt": "2026-10-30T12:35:59.886+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T12:25:41.969+08:00",
+      "fetchedAt": "2026-10-30T12:35:59.886+08:00",
       "error": "未启用",
       "disabled": true
     }
