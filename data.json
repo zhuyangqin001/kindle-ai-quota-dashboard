@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T18:24:17.089+08:00",
+  "updatedAt": "2026-10-30T18:44:42.844+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.3,
-    "feelsLikeC": 24.6,
-    "humidity": 59,
-    "windKph": 10.9,
+    "tempC": 24.1,
+    "feelsLikeC": 24.4,
+    "humidity": 60,
+    "windKph": 11.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T18:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T18:24:17.089+08:00",
+    "observedAt": "2026-10-30T18:30:00.000+08:00",
+    "fetchedAt": "2026-10-30T18:44:42.844+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "官方通报“湘江三大桥桥墩疑似倾斜”：非桥梁桥墩主体结构",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723501.shtml",
-        "publishedAt": "2026-10-30T18:16:13.000+08:00"
+        "title": "安徽省能源集团有限公司原党委书记、董事长朱宜存被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723527.shtml",
+        "publishedAt": "2026-10-30T18:37:58.000+08:00"
       },
       {
-        "title": "首批政府采购本国产品标准公开征求意见",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723504.shtml",
-        "publishedAt": "2026-10-30T18:15:45.000+08:00"
+        "title": "12月25日起实施 市场监管总局发布《超短波治疗机校准规范》",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723531.shtml",
+        "publishedAt": "2026-10-30T18:37:28.000+08:00"
       },
       {
-        "title": "澜湄学者齐聚泰国曼谷 共拓区域教育人文合作新空间",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-30/10723491.shtml",
-        "publishedAt": "2026-10-30T18:10:24.000+08:00"
+        "title": "上海实业（集团）有限公司原副董事长葛大维接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723508.shtml",
+        "publishedAt": "2026-10-30T18:36:56.000+08:00"
       },
       {
-        "title": "“X教授”演员帕特里克·斯图尔特去世，遗作《复仇者联盟5》年底上映",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723497.shtml",
-        "publishedAt": "2026-10-30T18:08:46.000+08:00"
+        "title": "安徽省能源集团有限公司原董事长朱宜存被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723506.shtml",
+        "publishedAt": "2026-10-30T18:36:50.000+08:00"
       },
       {
-        "title": "兰州百合迎采挖旺季 陇原珍味走向海外市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723494.shtml",
-        "publishedAt": "2026-10-30T18:07:00.000+08:00"
+        "title": "华电山西能源有限公司原党组书记焦荣幸接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723503.shtml",
+        "publishedAt": "2026-10-30T18:36:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T18:24:14.378+08:00",
+    "fetchedAt": "2026-10-30T18:44:38.307+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T18:24:15.095+08:00",
+      "fetchedAt": "2026-10-30T18:44:39.055+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T18:24:15.098+08:00",
+      "fetchedAt": "2026-10-30T18:44:39.058+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T18:24:15.107+08:00",
+      "fetchedAt": "2026-10-30T18:44:39.067+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T18:24:15.108+08:00",
+      "fetchedAt": "2026-10-30T18:44:39.068+08:00",
       "error": "未启用",
       "disabled": true
     }
