@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T14:59:28.113+08:00",
+  "updatedAt": "2026-10-30T15:09:44.476+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.5,
-    "feelsLikeC": 27.2,
+    "tempC": 26.4,
+    "feelsLikeC": 27.1,
     "humidity": 51,
-    "windKph": 7.6,
+    "windKph": 7.7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T14:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T14:59:28.113+08:00",
+    "observedAt": "2026-10-30T15:00:00.000+08:00",
+    "fetchedAt": "2026-10-30T15:09:44.476+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从火线急救到野战手术 多级卫勤力量打通战场救治链",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723324.shtml",
+        "publishedAt": "2026-10-30T15:00:48.000+08:00"
+      },
+      {
+        "title": "消息人士：五角大楼官员要求欧洲缓和对俄言辞",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723323.shtml",
+        "publishedAt": "2026-10-30T14:59:22.000+08:00"
+      },
       {
         "title": "健全社会组织退出机制 民政部出台注销指引",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723317.shtml",
@@ -33,19 +43,9 @@
         "title": "国家能源局：今年以来，我国能源供应充足、供需平衡",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723289.shtml",
         "publishedAt": "2026-10-30T14:41:25.000+08:00"
-      },
-      {
-        "title": "黑龙江省肉制品生产企业全面实行“互联网+AI监管”",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723298.shtml",
-        "publishedAt": "2026-10-30T14:37:57.000+08:00"
-      },
-      {
-        "title": "江西南昌：碧水之畔，何以藏着豫章文化记忆？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723312.shtml",
-        "publishedAt": "2026-10-30T14:37:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T14:59:24.601+08:00",
+    "fetchedAt": "2026-10-30T15:09:40.652+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T14:59:25.335+08:00",
+      "fetchedAt": "2026-10-30T15:09:41.339+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@
         {
           "name": "周",
           "usedPct": 43,
-          "resetAt": "2026-11-05T15:49:29.000+08:00"
+          "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T14:59:25.338+08:00",
+      "fetchedAt": "2026-10-30T15:09:41.340+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T14:59:25.347+08:00",
+      "fetchedAt": "2026-10-30T15:09:41.348+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T14:59:25.348+08:00",
+      "fetchedAt": "2026-10-30T15:09:41.349+08:00",
       "error": "未启用",
       "disabled": true
     }
