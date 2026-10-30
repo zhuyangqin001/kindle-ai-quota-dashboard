@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T17:02:51.336+08:00",
+  "updatedAt": "2026-10-30T17:23:09.527+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 25.2,
-    "feelsLikeC": 25.9,
-    "humidity": 55,
-    "windKph": 8.2,
+    "tempC": 25,
+    "feelsLikeC": 25.6,
+    "humidity": 56,
+    "windKph": 8.7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T17:02:51.336+08:00",
+    "observedAt": "2026-10-30T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T17:23:09.527+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "菲律宾马荣火山喷发 警戒级别升至3级",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723390.shtml",
-        "publishedAt": "2026-10-30T16:58:38.000+08:00"
+        "title": "儿童呵护用品系列国家标准实施 涉及学步车、安全护栏等",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723395.shtml",
+        "publishedAt": "2026-10-30T17:17:41.000+08:00"
       },
       {
-        "title": "东西问丨叶小纲：如何看待东西方音乐交流互融中的坚守与突破？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/10-30/10723426.shtml",
-        "publishedAt": "2026-10-30T16:58:30.000+08:00"
+        "title": "第十六届中国摄影艺术节在河南三门峡开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723461.shtml",
+        "publishedAt": "2026-10-30T17:16:17.000+08:00"
       },
       {
-        "title": "五部门联合印发《重点产品碳足迹标准体系建设行动方案（2026—2028年）》",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723399.shtml",
-        "publishedAt": "2026-10-30T16:58:30.000+08:00"
+        "title": "2026中国国际教育展今天在京开幕",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-30/10723473.shtml",
+        "publishedAt": "2026-10-30T17:15:45.000+08:00"
       },
       {
-        "title": "不只是“胸痛”！出现这些症状，是心脏在“报警”",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723462.shtml",
-        "publishedAt": "2026-10-30T16:57:38.000+08:00"
+        "title": "中国救捞完成第34批次南沙岛礁常态化值守换防",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723472.shtml",
+        "publishedAt": "2026-10-30T17:14:27.000+08:00"
       },
       {
-        "title": "斐济官员：气旋及网络攻击恐致全国通信瘫痪",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723346.shtml",
-        "publishedAt": "2026-10-30T16:57:00.000+08:00"
+        "title": "十四届全国人大常委会第二十五次会议于11月2日至6日在北京举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723470.shtml",
+        "publishedAt": "2026-10-30T17:12:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T17:02:49.114+08:00",
+    "fetchedAt": "2026-10-30T17:23:06.756+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T17:02:49.802+08:00",
+      "fetchedAt": "2026-10-30T17:23:07.337+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T17:02:49.805+08:00",
+      "fetchedAt": "2026-10-30T17:23:07.340+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T17:02:49.813+08:00",
+      "fetchedAt": "2026-10-30T17:23:07.350+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T17:02:49.814+08:00",
+      "fetchedAt": "2026-10-30T17:23:07.350+08:00",
       "error": "未启用",
       "disabled": true
     }
