@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T20:06:53.391+08:00",
+  "updatedAt": "2026-10-30T20:17:10.808+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.4,
-    "feelsLikeC": 23,
-    "humidity": 67,
-    "windKph": 10,
+    "tempC": 22.1,
+    "feelsLikeC": 22.8,
+    "humidity": 68,
+    "windKph": 9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T20:06:53.391+08:00",
+    "observedAt": "2026-10-30T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T20:17:10.808+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "缴获毒品约1.2吨 中国联合印度尼西亚、马来西亚破获一起特大跨国制贩毒案",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723589.shtml",
-        "publishedAt": "2026-10-30T20:01:58.000+08:00"
+        "title": "国务院任免国家工作人员（2026年10月30日）",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723597.shtml",
+        "publishedAt": "2026-10-30T20:12:03.000+08:00"
       },
       {
-        "title": "（文化新纪行）从古人“朋友圈”到今人“生活圈”：磁州窑历千年不衰",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723586.shtml",
-        "publishedAt": "2026-10-30T20:01:56.000+08:00"
+        "title": "戈壁秋深风不止 盐池老区奏响油气风光储协奏曲",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723556.shtml",
+        "publishedAt": "2026-10-30T20:11:57.000+08:00"
       },
       {
-        "title": "海峡两岸文博会：多彩文创集中亮相",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723538.shtml",
-        "publishedAt": "2026-10-30T19:46:40.000+08:00"
+        "title": "第170次中老缅泰湄公河联合巡逻执法行动圆满结束",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723596.shtml",
+        "publishedAt": "2026-10-30T20:09:47.000+08:00"
       },
       {
-        "title": "央行：2026年第三季度全国新发放商业性个人住房贷款加权平均利率为3.05%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723565.shtml",
-        "publishedAt": "2026-10-30T19:45:41.000+08:00"
+        "title": "农村交通安全宣传走进平谷 警伴童行筑牢出行安全防线",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723594.shtml",
+        "publishedAt": "2026-10-30T20:07:17.000+08:00"
       },
       {
-        "title": "中国与南非两国央行续签双边本币互换协议",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723559.shtml",
-        "publishedAt": "2026-10-30T19:44:59.000+08:00"
+        "title": "深挖温泉资源价值 重庆启动温泉宣传推广活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723555.shtml",
+        "publishedAt": "2026-10-30T20:04:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T20:06:50.865+08:00",
+    "fetchedAt": "2026-10-30T20:17:07.260+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T20:06:51.598+08:00",
+      "fetchedAt": "2026-10-30T20:17:08.016+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T01:06:53.000+08:00"
+          "resetAt": "2026-10-31T01:17:10.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 43,
-          "resetAt": "2026-11-05T15:49:28.000+08:00"
+          "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T20:06:51.602+08:00",
+      "fetchedAt": "2026-10-30T20:17:08.019+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T20:06:51.611+08:00",
+      "fetchedAt": "2026-10-30T20:17:08.025+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T20:06:51.612+08:00",
+      "fetchedAt": "2026-10-30T20:17:08.025+08:00",
       "error": "未启用",
       "disabled": true
     }
