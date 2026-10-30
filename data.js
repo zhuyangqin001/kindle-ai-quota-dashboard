@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T12:36:02.305+08:00",
+  "updatedAt": "2026-10-30T12:46:19.150+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.3,
-    "feelsLikeC": 26.7,
+    "tempC": 26.2,
+    "feelsLikeC": 26.5,
     "humidity": 50,
-    "windKph": 8.2,
+    "windKph": 8.3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-30T12:36:02.305+08:00",
+    "observedAt": "2026-10-30T12:45:00.000+08:00",
+    "fetchedAt": "2026-10-30T12:46:19.150+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "茉莉奶白门店回应联名玻璃杯爆裂：可退款回收",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723241.shtml",
+        "publishedAt": "2026-10-30T12:36:12.000+08:00"
+      },
       {
         "title": "（走进中国乡村）橘香越重洋 湖南石门拓宽“甜蜜”外销路",
         "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723236.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "广西提升涉外法律服务质效 加快打造制度型开放新高地",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-30/10723226.shtml",
         "publishedAt": "2026-10-30T12:30:22.000+08:00"
-      },
-      {
-        "title": "2026年台湾青年福建工艺美术研学交流活动启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723225.shtml",
-        "publishedAt": "2026-10-30T12:29:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T12:35:59.203+08:00",
+    "fetchedAt": "2026-10-30T12:46:16.303+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T12:35:59.873+08:00",
+      "fetchedAt": "2026-10-30T12:46:17.018+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T12:35:59.876+08:00",
+      "fetchedAt": "2026-10-30T12:46:17.021+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T12:35:59.886+08:00",
+      "fetchedAt": "2026-10-30T12:46:17.030+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T12:35:59.886+08:00",
+      "fetchedAt": "2026-10-30T12:46:17.031+08:00",
       "error": "未启用",
       "disabled": true
     }
