@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T12:05:14.089+08:00",
+  "updatedAt": "2026-10-30T12:15:27.988+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.5,
-    "feelsLikeC": 27,
+    "tempC": 26.4,
+    "feelsLikeC": 26.9,
     "humidity": 49,
-    "windKph": 7.5,
+    "windKph": 7.9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T12:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T12:05:14.089+08:00",
+    "observedAt": "2026-10-30T12:15:00.000+08:00",
+    "fetchedAt": "2026-10-30T12:15:27.988+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "赛事引流文旅升温 全国“村BA”在湖北咸丰收官",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723220.shtml",
+        "publishedAt": "2026-10-30T12:13:13.000+08:00"
+      },
       {
         "title": "A股午评：超2800只个股飘绿，三大指数集体收跌",
         "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723235.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "瑞士联邦主席帕姆兰抵达北京 开启访华行程",
         "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723223.shtml",
         "publishedAt": "2026-10-30T11:47:28.000+08:00"
-      },
-      {
-        "title": "黄建发：《决定》部署突出抓好新兴领域党的建设",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723215.shtml",
-        "publishedAt": "2026-10-30T11:43:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T12:05:10.718+08:00",
+    "fetchedAt": "2026-10-30T12:15:24.941+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T12:05:11.495+08:00",
+      "fetchedAt": "2026-10-30T12:15:25.678+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T12:05:11.499+08:00",
+      "fetchedAt": "2026-10-30T12:15:25.681+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T12:05:11.509+08:00",
+      "fetchedAt": "2026-10-30T12:15:25.691+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T12:05:11.509+08:00",
+      "fetchedAt": "2026-10-30T12:15:25.691+08:00",
       "error": "未启用",
       "disabled": true
     }
