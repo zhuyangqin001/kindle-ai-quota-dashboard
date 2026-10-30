@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T21:28:56.546+08:00",
+  "updatedAt": "2026-10-30T21:39:13.524+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.5,
-    "feelsLikeC": 22.9,
-    "humidity": 72,
-    "windKph": 5,
+    "tempC": 21.3,
+    "feelsLikeC": 23,
+    "humidity": 74,
+    "windKph": 3.9,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T21:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T21:28:56.546+08:00",
+    "observedAt": "2026-10-30T21:30:00.000+08:00",
+    "fetchedAt": "2026-10-30T21:39:13.524+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "习言道｜近5000字公报，“严”字贯穿始终",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723610.shtml",
-        "publishedAt": "2026-10-30T21:08:42.000+08:00"
+        "title": "港股三大指数收涨 结束两周连跌态势",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723632.shtml",
+        "publishedAt": "2026-10-30T21:33:33.000+08:00"
       },
       {
-        "title": "新华图讯丨习近平会见瑞士联邦主席帕姆兰",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723614.shtml",
-        "publishedAt": "2026-10-30T21:06:14.000+08:00"
+        "title": "罗工柳艺术文献展亮相国博 呈现“求索”与“担当”的艺术生涯",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723630.shtml",
+        "publishedAt": "2026-10-30T21:32:29.000+08:00"
       },
       {
-        "title": "前三季度中国可再生能源新增装机占全部新增装机比重超七成",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723606.shtml",
-        "publishedAt": "2026-10-30T21:05:58.000+08:00"
+        "title": "截至9月底中国电网企业固定资产投资超6000亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723607.shtml",
+        "publishedAt": "2026-10-30T21:30:55.000+08:00"
       },
       {
-        "title": "新华图讯丨习近平同德国总统施泰因迈尔会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723613.shtml",
-        "publishedAt": "2026-10-30T21:05:48.000+08:00"
+        "title": "赵乐际会见德国总统施泰因迈尔",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723637.shtml",
+        "publishedAt": "2026-10-30T21:30:53.000+08:00"
       },
       {
-        "title": "APEC“中国年”落子深圳 开放如何变成一座城市的能力",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723616.shtml",
-        "publishedAt": "2026-10-30T21:00:26.000+08:00"
+        "title": "福州：留学生泛舟内河 乐享“福水福船”闽都风韵",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723621.shtml",
+        "publishedAt": "2026-10-30T21:24:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T21:28:53.321+08:00",
+    "fetchedAt": "2026-10-30T21:39:10.621+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T21:28:54.052+08:00",
+      "fetchedAt": "2026-10-30T21:39:11.316+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T02:28:56.000+08:00"
+          "resetAt": "2026-10-31T02:39:13.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T21:28:54.056+08:00",
+      "fetchedAt": "2026-10-30T21:39:11.318+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T21:28:54.065+08:00",
+      "fetchedAt": "2026-10-30T21:39:11.327+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T21:28:54.066+08:00",
+      "fetchedAt": "2026-10-30T21:39:11.327+08:00",
       "error": "未启用",
       "disabled": true
     }
