@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T15:50:58.737+08:00",
+  "updatedAt": "2026-10-30T16:01:11.692+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 26.1,
-    "feelsLikeC": 26.8,
-    "humidity": 52,
+    "tempC": 26,
+    "feelsLikeC": 26.7,
+    "humidity": 53,
     "windKph": 7.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T15:45:00.000+08:00",
-    "fetchedAt": "2026-10-30T15:50:58.737+08:00",
+    "observedAt": "2026-10-30T16:00:00.000+08:00",
+    "fetchedAt": "2026-10-30T16:01:11.693+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "塔城地区组织少数民族代表人士赴辽宁开展交往交流交融学习考察活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723370.shtml",
-        "publishedAt": "2026-10-30T15:46:19.000+08:00"
+        "title": "长江沿线13个重点村携手发力乡村文旅谋共富",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723384.shtml",
+        "publishedAt": "2026-10-30T15:57:21.000+08:00"
       },
       {
-        "title": "一“硫”难求，硫磺价格波动如何向中下游传导？",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723367.shtml",
-        "publishedAt": "2026-10-30T15:41:16.000+08:00"
+        "title": "江西安福：一根丝瓜络“织”出振兴图景",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723383.shtml",
+        "publishedAt": "2026-10-30T15:56:33.000+08:00"
       },
       {
-        "title": "外交部：人类命运共同体理念连续第10年写入联大外空决议",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723365.shtml",
-        "publishedAt": "2026-10-30T15:39:34.000+08:00"
+        "title": "俄学者：全球治理倡议为改革完善全球治理提供中国方案",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723387.shtml",
+        "publishedAt": "2026-10-30T15:55:55.000+08:00"
       },
       {
-        "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723364.shtml",
-        "publishedAt": "2026-10-30T15:39:06.000+08:00"
+        "title": "公司拖欠供暖费18年欠款超24万元，法院这样做",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723372.shtml",
+        "publishedAt": "2026-10-30T15:53:03.000+08:00"
       },
       {
-        "title": "让侨胞返乡更有“医靠”，广州举办华侨健康周活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-30/10723359.shtml",
-        "publishedAt": "2026-10-30T15:38:24.000+08:00"
+        "title": "三部门发文：深入开展特殊困难老年人探访关爱服务",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723331.shtml",
+        "publishedAt": "2026-10-30T15:51:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T15:50:55.229+08:00",
+    "fetchedAt": "2026-10-30T16:01:08.433+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T15:50:55.789+08:00",
+      "fetchedAt": "2026-10-30T16:01:09.166+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 43,
-          "resetAt": "2026-11-05T15:49:29.000+08:00"
+          "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T15:50:55.791+08:00",
+      "fetchedAt": "2026-10-30T16:01:09.169+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T15:50:55.799+08:00",
+      "fetchedAt": "2026-10-30T16:01:09.179+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T15:50:55.799+08:00",
+      "fetchedAt": "2026-10-30T16:01:09.180+08:00",
       "error": "未启用",
       "disabled": true
     }
