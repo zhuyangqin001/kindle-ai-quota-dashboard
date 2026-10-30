@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T06:30:11.482+08:00",
+  "updatedAt": "2026-10-31T06:40:22.900+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-31T06:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T06:30:11.482+08:00",
+    "fetchedAt": "2026-10-31T06:40:22.900+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-31T00:26:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T06:30:08.794+08:00",
+    "fetchedAt": "2026-10-31T06:40:20.885+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T06:30:09.511+08:00",
+      "fetchedAt": "2026-10-31T06:40:21.295+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T11:30:11.000+08:00"
+          "resetAt": "2026-10-31T11:40:22.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T06:30:09.515+08:00",
+      "fetchedAt": "2026-10-31T06:40:21.297+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T06:30:09.524+08:00",
+      "fetchedAt": "2026-10-31T06:40:21.303+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T06:30:09.524+08:00",
+      "fetchedAt": "2026-10-31T06:40:21.303+08:00",
       "error": "未启用",
       "disabled": true
     }
