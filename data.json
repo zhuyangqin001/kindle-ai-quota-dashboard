@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30T20:27:28.271+08:00",
+  "updatedAt": "2026-10-30T20:37:44.700+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.1,
-    "feelsLikeC": 23.1,
-    "humidity": 69,
-    "windKph": 8.2,
+    "tempC": 21.9,
+    "feelsLikeC": 23,
+    "humidity": 70,
+    "windKph": 7.2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T20:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T20:27:28.271+08:00",
+    "observedAt": "2026-10-30T20:30:00.000+08:00",
+    "fetchedAt": "2026-10-30T20:37:44.700+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国医疗队赴柬埔寨特本克蒙省中柬友谊医院开展义诊活动",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209268.shtml",
-        "publishedAt": "2026-10-30T20:21:40.000+08:00"
+        "title": "广东茂名前三季度对APEC其他成员经济体进出口增逾五成",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723579.shtml",
+        "publishedAt": "2026-10-30T20:31:46.000+08:00"
       },
       {
-        "title": "网线连山海 盐池借闽宁协作跑出电商加速度",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723571.shtml",
-        "publishedAt": "2026-10-30T20:20:55.000+08:00"
+        "title": "《天津市突发事件应对条例》11月起施行 强化京津冀协同应急",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723578.shtml",
+        "publishedAt": "2026-10-30T20:31:40.000+08:00"
       },
       {
-        "title": "上海首个航空前置货站出口货值突破十亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723568.shtml",
-        "publishedAt": "2026-10-30T20:19:37.000+08:00"
+        "title": "北京首条滨河半马赛道亮相 11月1日迎“首秀”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723570.shtml",
+        "publishedAt": "2026-10-30T20:31:00.000+08:00"
       },
       {
-        "title": "中国人寿前三季度剔除短期波动影响后的净利润同比增长15.8%，发展韧性持续彰显",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723558.shtml",
-        "publishedAt": "2026-10-30T20:17:47.000+08:00"
+        "title": "国际法制计量组织重要技术委员会秘书处落地中国",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723573.shtml",
+        "publishedAt": "2026-10-30T20:29:32.000+08:00"
       },
       {
-        "title": "川渝黔53家科普场馆协同联动 “科普列车川渝黔行”收官",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723557.shtml",
-        "publishedAt": "2026-10-30T20:14:49.000+08:00"
+        "title": "全国岸钓路亚锦标赛首场总决赛在宝应启幕 200名选手竞逐19.98万元奖金",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723569.shtml",
+        "publishedAt": "2026-10-30T20:29:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T20:27:25.408+08:00",
+    "fetchedAt": "2026-10-30T20:37:42.207+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T20:27:26.143+08:00",
+      "fetchedAt": "2026-10-30T20:37:42.904+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T01:27:27.000+08:00"
+          "resetAt": "2026-10-31T01:37:44.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T20:27:26.146+08:00",
+      "fetchedAt": "2026-10-30T20:37:42.908+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T20:27:26.155+08:00",
+      "fetchedAt": "2026-10-30T20:37:42.917+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T20:27:26.155+08:00",
+      "fetchedAt": "2026-10-30T20:37:42.917+08:00",
       "error": "未启用",
       "disabled": true
     }
