@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T14:18:19.676+08:00",
+  "updatedAt": "2026-10-30T14:28:39.562+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-30T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T14:18:19.676+08:00",
+    "fetchedAt": "2026-10-30T14:28:39.562+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西安出台商品房销售新政",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723278.shtml",
-        "publishedAt": "2026-10-30T14:08:27.000+08:00"
+        "title": "中方决定将APEC商务旅行卡持卡人在华最长停留期延长至90天",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723303.shtml",
+        "publishedAt": "2026-10-30T14:24:40.000+08:00"
       },
       {
-        "title": "早上难醒 白天犯困？这不是懒！简单几步助你一天好状态",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-30/10723290.shtml",
-        "publishedAt": "2026-10-30T14:06:13.000+08:00"
+        "title": "粤港澳大湾区青少年球员齐聚佛山“以球会友”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723301.shtml",
+        "publishedAt": "2026-10-30T14:24:12.000+08:00"
       },
       {
-        "title": "探访河南开封州桥遗址",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723284.shtml",
-        "publishedAt": "2026-10-30T14:03:27.000+08:00"
+        "title": "云南省商务厅为机电产品出海“问诊”",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-30/10723306.shtml",
+        "publishedAt": "2026-10-30T14:22:52.000+08:00"
       },
       {
-        "title": "国产大飞机南航C919首次在大湾区执飞SAF航班",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723281.shtml",
-        "publishedAt": "2026-10-30T13:58:11.000+08:00"
+        "title": "新疆迎来“包邮时代” 包裹翻越天山 跨越数千公里送达",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723305.shtml",
+        "publishedAt": "2026-10-30T14:22:40.000+08:00"
       },
       {
-        "title": "美国突发直升机相撞事故 致3人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723283.shtml",
-        "publishedAt": "2026-10-30T13:58:03.000+08:00"
+        "title": "当一个传统蚝村把“蚝”从产品变成场景",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723297.shtml",
+        "publishedAt": "2026-10-30T14:21:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T14:18:16.748+08:00",
+    "fetchedAt": "2026-10-30T14:28:36.844+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T14:18:17.443+08:00",
+      "fetchedAt": "2026-10-30T14:28:37.453+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 92,
-          "resetAt": "2026-10-30T14:26:01.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-10-30T19:28:39.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T14:18:17.446+08:00",
+      "fetchedAt": "2026-10-30T14:28:37.457+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T14:18:17.457+08:00",
+      "fetchedAt": "2026-10-30T14:28:37.467+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T14:18:17.457+08:00",
+      "fetchedAt": "2026-10-30T14:28:37.467+08:00",
       "error": "未启用",
       "disabled": true
     }
