@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T14:28:39.562+08:00",
+  "updatedAt": "2026-10-30T14:49:06.906+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 26.5,
-    "feelsLikeC": 27,
-    "humidity": 49,
-    "windKph": 7.5,
-    "windDir": "西北风",
+    "feelsLikeC": 27.3,
+    "humidity": 51,
+    "windKph": 7.1,
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-30T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-30T14:28:39.562+08:00",
+    "observedAt": "2026-10-30T14:45:00.000+08:00",
+    "fetchedAt": "2026-10-30T14:49:06.906+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中方决定将APEC商务旅行卡持卡人在华最长停留期延长至90天",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723303.shtml",
-        "publishedAt": "2026-10-30T14:24:40.000+08:00"
+        "title": "黑龙江省肉制品生产企业全面实行“互联网+AI监管”",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723298.shtml",
+        "publishedAt": "2026-10-30T14:37:57.000+08:00"
       },
       {
-        "title": "粤港澳大湾区青少年球员齐聚佛山“以球会友”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-30/10723301.shtml",
-        "publishedAt": "2026-10-30T14:24:12.000+08:00"
+        "title": "江西南昌：碧水之畔，何以藏着豫章文化记忆？",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723312.shtml",
+        "publishedAt": "2026-10-30T14:37:03.000+08:00"
       },
       {
-        "title": "云南省商务厅为机电产品出海“问诊”",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-30/10723306.shtml",
-        "publishedAt": "2026-10-30T14:22:52.000+08:00"
+        "title": "健全社会组织退出机制 民政部出台注销指引",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723314.shtml",
+        "publishedAt": "2026-10-30T14:31:41.000+08:00"
       },
       {
-        "title": "新疆迎来“包邮时代” 包裹翻越天山 跨越数千公里送达",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723305.shtml",
-        "publishedAt": "2026-10-30T14:22:40.000+08:00"
+        "title": "2026年9月份厦门市进出口情况",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-30/10723310.shtml",
+        "publishedAt": "2026-10-30T14:29:56.000+08:00"
       },
       {
-        "title": "当一个传统蚝村把“蚝”从产品变成场景",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723297.shtml",
-        "publishedAt": "2026-10-30T14:21:02.000+08:00"
+        "title": "（乡村行·看振兴）松嫩平原玉米归仓记：秋粮入囤 种养循环",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-30/10723296.shtml",
+        "publishedAt": "2026-10-30T14:27:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T14:28:36.844+08:00",
+    "fetchedAt": "2026-10-30T14:49:03.817+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T14:28:37.453+08:00",
+      "fetchedAt": "2026-10-30T14:49:04.667+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-10-30T19:28:39.000+08:00"
+          "usedPct": 4,
+          "resetAt": "2026-10-30T19:32:40.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 43,
-          "resetAt": "2026-11-05T15:49:28.000+08:00"
+          "resetAt": "2026-11-05T15:49:29.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T14:28:37.457+08:00",
+      "fetchedAt": "2026-10-30T14:49:04.670+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T14:28:37.467+08:00",
+      "fetchedAt": "2026-10-30T14:49:04.680+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T14:28:37.467+08:00",
+      "fetchedAt": "2026-10-30T14:49:04.680+08:00",
       "error": "未启用",
       "disabled": true
     }
