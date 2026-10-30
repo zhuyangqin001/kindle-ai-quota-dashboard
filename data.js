@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-30T18:03:39.870+08:00",
+  "updatedAt": "2026-10-30T18:14:01.800+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-30T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-30T18:03:39.870+08:00",
+    "fetchedAt": "2026-10-30T18:14:01.800+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“X教授”演员帕特里克·斯图尔特去世，遗作《复仇者联盟5》年底上映",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723497.shtml",
+        "publishedAt": "2026-10-30T18:08:46.000+08:00"
+      },
+      {
+        "title": "兰州百合迎采挖旺季 陇原珍味走向海外市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723494.shtml",
+        "publishedAt": "2026-10-30T18:07:00.000+08:00"
+      },
+      {
+        "title": "常墨涵、林益磊将担任达喀尔青奥会开幕式中国代表团旗手",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-30/10723498.shtml",
+        "publishedAt": "2026-10-30T18:04:20.000+08:00"
+      },
+      {
+        "title": "福建海警位金门附近海域依法开展常态执法巡查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723489.shtml",
+        "publishedAt": "2026-10-30T18:01:12.000+08:00"
+      },
+      {
         "title": "科技赋能拓展音乐+场景 Music China 2026打造音乐生态场",
         "url": "https://www.chinanews.com.cn/cul/2026/10-30/10723495.shtml",
         "publishedAt": "2026-10-30T17:58:20.000+08:00"
-      },
-      {
-        "title": "察哈尔外交大讲堂澳门开讲：以《孙子兵法》诠释郑和下西洋与葡萄牙大航海",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/10-30/10723490.shtml",
-        "publishedAt": "2026-10-30T17:55:58.000+08:00"
-      },
-      {
-        "title": "办证进园区 落户少奔波 安徽户政服务走进日常生活",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723488.shtml",
-        "publishedAt": "2026-10-30T17:52:31.000+08:00"
-      },
-      {
-        "title": "台青：大陆文化产品在台湾走红，印证两岸融合向心力从未减弱",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723493.shtml",
-        "publishedAt": "2026-10-30T17:44:45.000+08:00"
-      },
-      {
-        "title": "特斯拉无人驾驶电动车Cybercab在中国西南地区首秀",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-30/10723486.shtml",
-        "publishedAt": "2026-10-30T17:44:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-30T18:03:36.466+08:00",
+    "fetchedAt": "2026-10-30T18:13:58.750+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-30T18:03:36.822+08:00",
+      "fetchedAt": "2026-10-30T18:13:59.471+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-30T18:03:36.824+08:00",
+      "fetchedAt": "2026-10-30T18:13:59.474+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T18:03:36.828+08:00",
+      "fetchedAt": "2026-10-30T18:13:59.484+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-30T18:03:36.829+08:00",
+      "fetchedAt": "2026-10-30T18:13:59.484+08:00",
       "error": "未启用",
       "disabled": true
     }
