@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T15:09:31.085+08:00",
+  "updatedAt": "2026-10-31T15:29:49.628+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -10,8 +10,8 @@
     "windKph": 3.8,
     "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T15:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T15:09:31.085+08:00",
+    "observedAt": "2026-10-31T15:15:00.000+08:00",
+    "fetchedAt": "2026-10-31T15:29:49.629+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国加州一购物中心发生枪击致1死6伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723912.shtml",
+        "publishedAt": "2026-10-31T15:14:38.000+08:00"
+      },
+      {
+        "title": "重庆开州“烹”出职教新局：课堂连灶台，毕业能上岗",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723905.shtml",
+        "publishedAt": "2026-10-31T15:04:57.000+08:00"
+      },
       {
         "title": "算法“投毒”，篡改不了历史罪责",
         "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723903.shtml",
@@ -33,19 +43,9 @@
         "title": "日照缩短 山西古建提前“收工”一小时",
         "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723900.shtml",
         "publishedAt": "2026-10-31T14:46:06.000+08:00"
-      },
-      {
-        "title": "捏造“大戏”，粉饰不了历史罪责 | 新漫评",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723870.shtml",
-        "publishedAt": "2026-10-31T14:44:44.000+08:00"
-      },
-      {
-        "title": "尼日利亚军方称打死48名极端组织武装人员",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723899.shtml",
-        "publishedAt": "2026-10-31T14:44:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T15:09:28.721+08:00",
+    "fetchedAt": "2026-10-31T15:29:46.973+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T15:09:29.343+08:00",
+      "fetchedAt": "2026-10-31T15:29:47.633+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 12,
+          "usedPct": 35,
           "resetAt": "2026-10-31T20:04:01.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 2,
+          "usedPct": 5,
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T15:09:29.346+08:00",
+      "fetchedAt": "2026-10-31T15:29:47.636+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T15:09:29.350+08:00",
+      "fetchedAt": "2026-10-31T15:29:47.645+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T15:09:29.350+08:00",
+      "fetchedAt": "2026-10-31T15:29:47.646+08:00",
       "error": "未启用",
       "disabled": true
     }
