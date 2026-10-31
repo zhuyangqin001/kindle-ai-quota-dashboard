@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T09:02:46.217+08:00",
+  "updatedAt": "2026-10-31T09:12:57.651+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-31T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T09:02:46.217+08:00",
+    "fetchedAt": "2026-10-31T09:12:57.651+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "冷热酸甜一碰就“倒牙”？别把“小酸痛”拖成“大牙病”",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723767.shtml",
-        "publishedAt": "2026-10-31T08:52:09.000+08:00"
+        "title": "“虹桥创想汇”收官 “2026为侨服务进进博”启动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723754.shtml",
+        "publishedAt": "2026-10-31T09:08:08.000+08:00"
       },
       {
-        "title": "台风“烟花”向偏北方向移动 预计未来对我国近海无影响",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723763.shtml",
-        "publishedAt": "2026-10-31T08:52:05.000+08:00"
+        "title": "今年前三季度广西金融运行平稳 总量稳健增长",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723753.shtml",
+        "publishedAt": "2026-10-31T09:06:40.000+08:00"
       },
       {
-        "title": "长沙焕新文旅场景 持续拓展入境文旅新空间",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723748.shtml",
-        "publishedAt": "2026-10-31T08:47:36.000+08:00"
+        "title": "杭州公安启动无偿献血活动 警医携手暖杭城",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723752.shtml",
+        "publishedAt": "2026-10-31T09:05:25.000+08:00"
       },
       {
-        "title": "西藏南部仍有强雨雪天气 中东部地区将有较大范围降水过程",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723758.shtml",
-        "publishedAt": "2026-10-31T08:47:22.000+08:00"
+        "title": "杭州交警女子铁骑成立两周年 飒爽练兵展风采",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723749.shtml",
+        "publishedAt": "2026-10-31T09:02:21.000+08:00"
       },
       {
-        "title": "共青团湖南省工商联异地商会委员会、行业协会商会委员会成立",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723747.shtml",
-        "publishedAt": "2026-10-31T08:44:46.000+08:00"
+        "title": "涉及重要网络系统和数据安全 3起典型案例公布",
+        "url": "https://www.chinanews.com.cn/fz/2026/10-31/10723765.shtml",
+        "publishedAt": "2026-10-31T08:57:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T09:02:43.854+08:00",
+    "fetchedAt": "2026-10-31T09:12:55.184+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T09:02:44.591+08:00",
+      "fetchedAt": "2026-10-31T09:12:55.919+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T14:02:45.000+08:00"
+          "resetAt": "2026-10-31T14:12:57.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T09:02:44.594+08:00",
+      "fetchedAt": "2026-10-31T09:12:55.922+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T09:02:44.604+08:00",
+      "fetchedAt": "2026-10-31T09:12:55.932+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T09:02:44.604+08:00",
+      "fetchedAt": "2026-10-31T09:12:55.932+08:00",
       "error": "未启用",
       "disabled": true
     }
