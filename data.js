@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T08:52:33.668+08:00",
+  "updatedAt": "2026-10-31T09:02:46.217+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.6,
-    "feelsLikeC": 24.8,
-    "humidity": 65,
-    "windKph": 7.9,
+    "tempC": 24.3,
+    "feelsLikeC": 25.4,
+    "humidity": 62,
+    "windKph": 8,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T08:45:00.000+08:00",
-    "fetchedAt": "2026-10-31T08:52:33.668+08:00",
+    "observedAt": "2026-10-31T09:00:00.000+08:00",
+    "fetchedAt": "2026-10-31T09:02:46.217+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "冷热酸甜一碰就“倒牙”？别把“小酸痛”拖成“大牙病”",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723767.shtml",
+        "publishedAt": "2026-10-31T08:52:09.000+08:00"
+      },
+      {
+        "title": "台风“烟花”向偏北方向移动 预计未来对我国近海无影响",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723763.shtml",
+        "publishedAt": "2026-10-31T08:52:05.000+08:00"
+      },
       {
         "title": "长沙焕新文旅场景 持续拓展入境文旅新空间",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723748.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "共青团湖南省工商联异地商会委员会、行业协会商会委员会成立",
         "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723747.shtml",
         "publishedAt": "2026-10-31T08:44:46.000+08:00"
-      },
-      {
-        "title": "山西布局“十五五”数字政府建设 让数字红利普惠可及",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723745.shtml",
-        "publishedAt": "2026-10-31T08:41:18.000+08:00"
-      },
-      {
-        "title": "广西获2029年第十五届世界水牛大会举办权",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723744.shtml",
-        "publishedAt": "2026-10-31T08:38:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T08:52:31.195+08:00",
+    "fetchedAt": "2026-10-31T09:02:43.854+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T08:52:31.943+08:00",
+      "fetchedAt": "2026-10-31T09:02:44.591+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T13:52:33.000+08:00"
+          "resetAt": "2026-10-31T14:02:45.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T08:52:31.946+08:00",
+      "fetchedAt": "2026-10-31T09:02:44.594+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T08:52:31.956+08:00",
+      "fetchedAt": "2026-10-31T09:02:44.604+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T08:52:31.956+08:00",
+      "fetchedAt": "2026-10-31T09:02:44.604+08:00",
       "error": "未启用",
       "disabled": true
     }
