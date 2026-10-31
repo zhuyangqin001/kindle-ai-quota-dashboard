@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T10:24:11.570+08:00",
+  "updatedAt": "2026-10-31T10:34:28.270+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 27.1,
-    "feelsLikeC": 28.6,
-    "humidity": 52,
-    "windKph": 5.9,
+    "tempC": 27.5,
+    "feelsLikeC": 29.3,
+    "humidity": 51,
+    "windKph": 5.2,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T10:15:00.000+08:00",
-    "fetchedAt": "2026-10-31T10:24:11.571+08:00",
+    "observedAt": "2026-10-31T10:30:00.000+08:00",
+    "fetchedAt": "2026-10-31T10:34:28.270+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "院士专家共聚云南普洱 探索生态产品价值实现路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723771.shtml",
+        "publishedAt": "2026-10-31T10:28:30.000+08:00"
+      },
+      {
+        "title": "第二十七届中部农博会启幕在即 百余款川味好物将亮相长沙",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723769.shtml",
+        "publishedAt": "2026-10-31T10:27:38.000+08:00"
+      },
+      {
+        "title": "国家统计局：10月份制造业采购经理指数为49.3%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723794.shtml",
+        "publishedAt": "2026-10-31T10:26:18.000+08:00"
+      },
+      {
+        "title": "“模特”长着三条腿，AI卖家秀能否让消费者放心选择？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723795.shtml",
+        "publishedAt": "2026-10-31T10:21:56.000+08:00"
+      },
+      {
         "title": "我国铼、金、镍、锆等保有资源量大幅增加",
         "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723792.shtml",
         "publishedAt": "2026-10-31T10:10:19.000+08:00"
-      },
-      {
-        "title": "国家统计局：10月份采购经理指数有所回落",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723787.shtml",
-        "publishedAt": "2026-10-31T10:10:15.000+08:00"
-      },
-      {
-        "title": "第五届“一带一路”(河南)国际农业合作博览会在河南郑州开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723705.shtml",
-        "publishedAt": "2026-10-31T10:09:55.000+08:00"
-      },
-      {
-        "title": "刚强、刘昊然担任应急管理公益宣传大使",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723768.shtml",
-        "publishedAt": "2026-10-31T10:07:33.000+08:00"
-      },
-      {
-        "title": "当影像成“第五位演员”，《后日之后·秅极共生》探索本土原创实验戏剧新表达",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723766.shtml",
-        "publishedAt": "2026-10-31T10:06:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T10:24:08.931+08:00",
+    "fetchedAt": "2026-10-31T10:34:24.738+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T10:24:09.671+08:00",
+      "fetchedAt": "2026-10-31T10:34:25.439+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T15:24:11.000+08:00"
+          "resetAt": "2026-10-31T15:34:28.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T10:24:09.674+08:00",
+      "fetchedAt": "2026-10-31T10:34:25.443+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T10:24:09.683+08:00",
+      "fetchedAt": "2026-10-31T10:34:25.452+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T10:24:09.684+08:00",
+      "fetchedAt": "2026-10-31T10:34:25.453+08:00",
       "error": "未启用",
       "disabled": true
     }
