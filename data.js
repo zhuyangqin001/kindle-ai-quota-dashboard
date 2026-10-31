@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T05:44:01.520+08:00",
+  "updatedAt": "2026-11-01T05:54:11.732+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.3,
+    "tempC": 22.4,
     "feelsLikeC": 23.6,
     "humidity": 68,
     "windKph": 5.7,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T05:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T05:44:01.520+08:00",
+    "observedAt": "2026-11-01T05:45:00.000+08:00",
+    "fetchedAt": "2026-11-01T05:54:11.732+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-31T22:26:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T05:43:58.395+08:00",
+    "fetchedAt": "2026-11-01T05:54:09.499+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T05:43:58.848+08:00",
+      "fetchedAt": "2026-11-01T05:54:09.965+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T10:44:01.000+08:00"
+          "resetAt": "2026-11-01T10:54:11.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T05:43:58.850+08:00",
+      "fetchedAt": "2026-11-01T05:54:09.967+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T05:43:58.856+08:00",
+      "fetchedAt": "2026-11-01T05:54:09.973+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T05:43:58.856+08:00",
+      "fetchedAt": "2026-11-01T05:54:09.973+08:00",
       "error": "未启用",
       "disabled": true
     }
