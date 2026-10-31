@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T12:36:44.495+08:00",
+  "updatedAt": "2026-10-31T12:57:02.599+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 29.8,
-    "feelsLikeC": 32.4,
-    "humidity": 45,
-    "windKph": 2,
+    "tempC": 30,
+    "feelsLikeC": 32.3,
+    "humidity": 44,
+    "windKph": 2.7,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T12:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T12:36:44.495+08:00",
+    "observedAt": "2026-10-31T12:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T12:57:02.599+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广州发布100个“小而美”文旅打卡点",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723836.shtml",
-        "publishedAt": "2026-10-31T12:28:27.000+08:00"
+        "title": "澳门车展以金融联动文旅场景 助力内地车企出海",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723844.shtml",
+        "publishedAt": "2026-10-31T12:49:52.000+08:00"
       },
       {
-        "title": "国铁郑州局开行今年首趟河南南阳至红旗渠旅游列车",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723837.shtml",
-        "publishedAt": "2026-10-31T12:27:21.000+08:00"
+        "title": "四川工会“暖心餐”：守护劳动者三餐烟火",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723843.shtml",
+        "publishedAt": "2026-10-31T12:43:15.000+08:00"
       },
       {
-        "title": "AI赋能古生物研究与文旅内容出海学术交流会在广西南宁举行",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10723839.shtml",
-        "publishedAt": "2026-10-31T12:25:34.000+08:00"
+        "title": "太原市侨界“守护汾河碧水”志愿服务品牌启动",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723842.shtml",
+        "publishedAt": "2026-10-31T12:42:31.000+08:00"
       },
       {
-        "title": "多餐饮品牌要求“消费才可入座”，合规吗？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723840.shtml",
-        "publishedAt": "2026-10-31T12:21:32.000+08:00"
+        "title": "重庆市“中医药良方妙技”健康嘉年华启幕",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723841.shtml",
+        "publishedAt": "2026-10-31T12:41:13.000+08:00"
       },
       {
-        "title": "AI加速科研，如何让答案经得起检验？",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723831.shtml",
-        "publishedAt": "2026-10-31T12:17:48.000+08:00"
+        "title": "从交出答案到读懂答案：学者共议AI时代教育新挑战",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723830.shtml",
+        "publishedAt": "2026-10-31T12:30:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T12:36:42.061+08:00",
+    "fetchedAt": "2026-10-31T12:56:59.904+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T12:36:42.794+08:00",
+      "fetchedAt": "2026-10-31T12:57:00.532+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T12:36:42.797+08:00",
+      "fetchedAt": "2026-10-31T12:57:00.534+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T12:36:42.807+08:00",
+      "fetchedAt": "2026-10-31T12:57:00.543+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T12:36:42.807+08:00",
+      "fetchedAt": "2026-10-31T12:57:00.544+08:00",
       "error": "未启用",
       "disabled": true
     }
