@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T14:18:32.101+08:00",
+  "updatedAt": "2026-10-31T14:28:43.299+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-31T14:15:00.000+08:00",
-    "fetchedAt": "2026-10-31T14:18:32.101+08:00",
+    "fetchedAt": "2026-10-31T14:28:43.299+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "山东荣成：秋粮丰收晒场忙",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723852.shtml",
-        "publishedAt": "2026-10-31T14:17:37.000+08:00"
+        "title": "心理悬疑话剧《心理游戏》中文版首演",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723886.shtml",
+        "publishedAt": "2026-10-31T14:27:25.000+08:00"
       },
       {
-        "title": "《考古工作“十五五”规划》印发",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723882.shtml",
-        "publishedAt": "2026-10-31T14:09:50.000+08:00"
+        "title": "全国优秀群众文艺作品示范性展演走进江苏张家港",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723885.shtml",
+        "publishedAt": "2026-10-31T14:26:25.000+08:00"
       },
       {
-        "title": "圆明园兽首暨海外回流文物特展在江苏昆山启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723879.shtml",
-        "publishedAt": "2026-10-31T14:08:12.000+08:00"
+        "title": "中国城市少儿足球联赛西宁赛区鸣哨开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10723884.shtml",
+        "publishedAt": "2026-10-31T14:25:09.000+08:00"
       },
       {
-        "title": "首都师范大学原校长齐世荣百年诞辰学术研讨会召开",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723880.shtml",
-        "publishedAt": "2026-10-31T14:07:06.000+08:00"
+        "title": "CBA常规赛：广州队主场不敌山西队",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10723883.shtml",
+        "publishedAt": "2026-10-31T14:24:05.000+08:00"
       },
       {
-        "title": "教育部2026年“百校学子地方行”活动走进长沙",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723881.shtml",
-        "publishedAt": "2026-10-31T14:04:12.000+08:00"
+        "title": "波兰总统发表声明：指责相关行动破坏波兰宪法秩序，召集紧急磋商",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723889.shtml",
+        "publishedAt": "2026-10-31T14:23:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T14:18:29.672+08:00",
+    "fetchedAt": "2026-10-31T14:28:40.260+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T14:18:30.289+08:00",
+      "fetchedAt": "2026-10-31T14:28:40.972+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T14:18:30.292+08:00",
+      "fetchedAt": "2026-10-31T14:28:40.975+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T14:18:30.301+08:00",
+      "fetchedAt": "2026-10-31T14:28:40.984+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T14:18:30.301+08:00",
+      "fetchedAt": "2026-10-31T14:28:40.984+08:00",
       "error": "未启用",
       "disabled": true
     }
