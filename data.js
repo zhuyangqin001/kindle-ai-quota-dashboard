@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T15:29:49.628+08:00",
+  "updatedAt": "2026-10-31T15:40:07.685+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 3.8,
     "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T15:15:00.000+08:00",
-    "fetchedAt": "2026-10-31T15:29:49.629+08:00",
+    "observedAt": "2026-10-31T15:30:00.000+08:00",
+    "fetchedAt": "2026-10-31T15:40:07.685+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-10-31T14:46:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T15:29:46.973+08:00",
+    "fetchedAt": "2026-10-31T15:40:02.786+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T15:29:47.633+08:00",
+      "fetchedAt": "2026-10-31T15:40:03.431+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 35,
+          "usedPct": 55,
           "resetAt": "2026-10-31T20:04:01.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 5,
+          "usedPct": 9,
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T15:29:47.636+08:00",
+      "fetchedAt": "2026-10-31T15:40:03.435+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T15:29:47.645+08:00",
+      "fetchedAt": "2026-10-31T15:40:03.444+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T15:29:47.646+08:00",
+      "fetchedAt": "2026-10-31T15:40:03.444+08:00",
       "error": "未启用",
       "disabled": true
     }
