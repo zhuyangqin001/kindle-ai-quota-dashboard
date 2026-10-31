@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T19:34:18.583+08:00",
+  "updatedAt": "2026-10-31T19:54:36.017+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.9,
+    "tempC": 25.7,
     "feelsLikeC": 27,
-    "humidity": 59,
-    "windKph": 9.6,
+    "humidity": 60,
+    "windKph": 8.7,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T19:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T19:34:18.583+08:00",
+    "observedAt": "2026-10-31T19:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T19:54:36.017+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "江苏常熟：康博村的幸福生活",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-31/1209324.shtml",
-        "publishedAt": "2026-10-31T19:23:32.000+08:00"
+        "title": "西湖世界模型研究中心成立 聚焦物理智能前沿布局",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724015.shtml",
+        "publishedAt": "2026-10-31T19:46:01.000+08:00"
       },
       {
-        "title": "风景园林专家齐聚重庆 共探园林植物赋能城市更新路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724007.shtml",
-        "publishedAt": "2026-10-31T19:16:05.000+08:00"
+        "title": "中国海警位中国台湾岛以东海域依法开展常态化执法巡查",
+        "url": "https://www.chinanews.com.cn/${mypath}/2026/10-31/10724013.shtml",
+        "publishedAt": "2026-10-31T19:39:22.000+08:00"
       },
       {
-        "title": "旅荷大熊猫“朗月”抵达雅安基地 开启30天隔离检疫",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724004.shtml",
-        "publishedAt": "2026-10-31T19:08:14.000+08:00"
+        "title": "江苏常熟：探访世界领先的AI领航羽绒服科创中心",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-31/1209329.shtml",
+        "publishedAt": "2026-10-31T19:36:48.000+08:00"
       },
       {
-        "title": "湖南张家界“旅游朋友圈”加速向海外拓展",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723999.shtml",
-        "publishedAt": "2026-10-31T19:06:06.000+08:00"
+        "title": "减肥不是戒掉碳水 吃对碳水才是体重管理的关键",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10724011.shtml",
+        "publishedAt": "2026-10-31T19:33:40.000+08:00"
       },
       {
-        "title": "原中国石油化工集团公司董事长傅成玉被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723998.shtml",
-        "publishedAt": "2026-10-31T19:05:28.000+08:00"
+        "title": "2026中华文化天府论坛成都开幕 中外专家学者共话文化遗产保护",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724010.shtml",
+        "publishedAt": "2026-10-31T19:32:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T19:34:16.006+08:00",
+    "fetchedAt": "2026-10-31T19:54:33.446+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T19:34:16.618+08:00",
+      "fetchedAt": "2026-10-31T19:54:34.143+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T19:34:16.620+08:00",
+      "fetchedAt": "2026-10-31T19:54:34.147+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T19:34:16.629+08:00",
+      "fetchedAt": "2026-10-31T19:54:34.156+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T19:34:16.629+08:00",
+      "fetchedAt": "2026-10-31T19:54:34.156+08:00",
       "error": "未启用",
       "disabled": true
     }
