@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T07:05:15.727+08:00",
+  "updatedAt": "2026-11-01T07:15:26.054+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 23.1,
-    "feelsLikeC": 24.3,
-    "humidity": 66,
-    "windKph": 6.3,
+    "tempC": 23.6,
+    "feelsLikeC": 24.9,
+    "humidity": 64,
+    "windKph": 5.9,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T07:05:15.727+08:00",
+    "observedAt": "2026-11-01T07:15:00.000+08:00",
+    "fetchedAt": "2026-11-01T07:15:26.054+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月1日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-01/10724127.shtml",
+        "publishedAt": "2026-11-01T07:05:06.000+08:00"
+      },
       {
         "title": "教室采光照明新国标11月1日起实施 如何让学生们“看得舒适”？",
         "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724126.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "泰国着手制定第四个国家旅游发展计划",
         "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724123.shtml",
         "publishedAt": "2026-10-31T23:23:46.000+08:00"
-      },
-      {
-        "title": "伊朗外长：目前没有与美国官员会面的计划",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724122.shtml",
-        "publishedAt": "2026-10-31T23:14:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T07:05:13.259+08:00",
+    "fetchedAt": "2026-11-01T07:15:23.832+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T07:05:13.806+08:00",
+      "fetchedAt": "2026-11-01T07:15:24.297+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T12:05:15.000+08:00"
+          "resetAt": "2026-11-01T12:15:25.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T07:05:13.809+08:00",
+      "fetchedAt": "2026-11-01T07:15:24.300+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T07:05:13.814+08:00",
+      "fetchedAt": "2026-11-01T07:15:24.305+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T07:05:13.814+08:00",
+      "fetchedAt": "2026-11-01T07:15:24.306+08:00",
       "error": "未启用",
       "disabled": true
     }
