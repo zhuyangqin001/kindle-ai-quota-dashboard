@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T10:54:55.830+08:00",
+  "updatedAt": "2026-10-31T11:05:08.745+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 27.9,
-    "feelsLikeC": 30,
-    "humidity": 49,
-    "windKph": 4.4,
+    "tempC": 28.2,
+    "feelsLikeC": 30.6,
+    "humidity": 48,
+    "windKph": 3.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T10:45:00.000+08:00",
-    "fetchedAt": "2026-10-31T10:54:55.830+08:00",
+    "observedAt": "2026-10-31T11:00:00.000+08:00",
+    "fetchedAt": "2026-10-31T11:05:08.745+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国最东口岸将实现全年全天候常态化通关",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723800.shtml",
-        "publishedAt": "2026-10-31T10:48:45.000+08:00"
+        "title": "从“经验炼钢”升级为“数据炼钢” 钢铁行业迈入高端、智能、绿色新阶段",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723817.shtml",
+        "publishedAt": "2026-10-31T11:03:58.000+08:00"
       },
       {
-        "title": "暨南大学原创文化精品大师剧《振铎》焕新公演 好评如潮",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723799.shtml",
-        "publishedAt": "2026-10-31T10:47:33.000+08:00"
+        "title": "希望的田野上机械满田“飞”科技显身手 一地多收填满金色粮仓",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723816.shtml",
+        "publishedAt": "2026-10-31T11:02:40.000+08:00"
       },
       {
-        "title": "俄罗斯总统助理：俄美已开始磋商三方会谈具体日期",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723807.shtml",
-        "publishedAt": "2026-10-31T10:47:25.000+08:00"
+        "title": "经济日报：投资消费协力拓宽服务业增长空间",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723813.shtml",
+        "publishedAt": "2026-10-31T11:00:40.000+08:00"
       },
       {
-        "title": "德国总统施泰因迈尔：对中国的发展成就深为钦佩",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723808.shtml",
-        "publishedAt": "2026-10-31T10:47:15.000+08:00"
+        "title": "鄱阳湖主湖区白鹤越冬季拉开帷幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723806.shtml",
+        "publishedAt": "2026-10-31T10:59:40.000+08:00"
       },
       {
-        "title": "俄罗斯外长：日本停止对俄不友好方可恢复全面对话",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723805.shtml",
-        "publishedAt": "2026-10-31T10:43:37.000+08:00"
+        "title": "一条铁路 三座“全球第一”（探访全球第一）",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723812.shtml",
+        "publishedAt": "2026-10-31T10:58:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T10:54:53.264+08:00",
+    "fetchedAt": "2026-10-31T11:05:05.190+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T10:54:53.999+08:00",
+      "fetchedAt": "2026-10-31T11:05:05.916+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T15:54:55.000+08:00"
+          "resetAt": "2026-10-31T16:05:07.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T10:54:54.002+08:00",
+      "fetchedAt": "2026-10-31T11:05:05.919+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T10:54:54.009+08:00",
+      "fetchedAt": "2026-10-31T11:05:05.929+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T10:54:54.009+08:00",
+      "fetchedAt": "2026-10-31T11:05:05.929+08:00",
       "error": "未启用",
       "disabled": true
     }
