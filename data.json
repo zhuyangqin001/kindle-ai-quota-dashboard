@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T15:50:21.189+08:00",
+  "updatedAt": "2026-10-31T16:00:33.283+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 30.3,
+    "tempC": 30.2,
     "feelsLikeC": 31.9,
-    "humidity": 43,
-    "windKph": 3.8,
+    "humidity": 44,
+    "windKph": 3.7,
     "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T15:45:00.000+08:00",
-    "fetchedAt": "2026-10-31T15:50:21.190+08:00",
+    "observedAt": "2026-10-31T16:00:00.000+08:00",
+    "fetchedAt": "2026-10-31T16:00:33.283+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "海内外顶尖登高跑选手齐聚上海展开云端竞速",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723906.shtml",
+        "publishedAt": "2026-10-31T15:50:48.000+08:00"
+      },
+      {
+        "title": "人宠同台共演舞台剧 狗狗“演员”长春首秀萌动全场",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723892.shtml",
+        "publishedAt": "2026-10-31T15:49:46.000+08:00"
+      },
       {
         "title": "美国加州一购物中心发生枪击致1死6伤",
         "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723912.shtml",
@@ -33,19 +43,9 @@
         "title": "算法“投毒”，篡改不了历史罪责",
         "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723903.shtml",
         "publishedAt": "2026-10-31T14:55:41.000+08:00"
-      },
-      {
-        "title": "事关大额存单，多家外资银行密集上架",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723902.shtml",
-        "publishedAt": "2026-10-31T14:47:44.000+08:00"
-      },
-      {
-        "title": "日照缩短 山西古建提前“收工”一小时",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723900.shtml",
-        "publishedAt": "2026-10-31T14:46:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T15:50:18.527+08:00",
+    "fetchedAt": "2026-10-31T16:00:30.154+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T15:50:19.255+08:00",
+      "fetchedAt": "2026-10-31T16:00:30.876+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 69,
+          "usedPct": 75,
           "resetAt": "2026-10-31T20:04:01.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 11,
+          "usedPct": 12,
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T15:50:19.257+08:00",
+      "fetchedAt": "2026-10-31T16:00:30.879+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T15:50:19.266+08:00",
+      "fetchedAt": "2026-10-31T16:00:30.888+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T15:50:19.266+08:00",
+      "fetchedAt": "2026-10-31T16:00:30.888+08:00",
       "error": "未启用",
       "disabled": true
     }
