@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T11:35:46.260+08:00",
+  "updatedAt": "2026-10-31T11:45:57.535+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 28.9,
-    "feelsLikeC": 31.8,
-    "humidity": 47,
-    "windKph": 1.6,
+    "tempC": 29.2,
+    "feelsLikeC": 32.2,
+    "humidity": 46,
+    "windKph": 0.6,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T11:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T11:35:46.260+08:00",
+    "observedAt": "2026-10-31T11:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T11:45:57.535+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "秋冬流感流行季已逐渐开启，现在打流感疫苗晚不晚？",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723826.shtml",
+        "publishedAt": "2026-10-31T11:41:26.000+08:00"
+      },
+      {
+        "title": "解锁新材料的“转化密码” 探访浙江桐乡乌镇实验室",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723702.shtml",
+        "publishedAt": "2026-10-31T11:34:36.000+08:00"
+      },
+      {
+        "title": "暨南大学原创文化精品大师剧《振铎》焕新公演",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723796.shtml",
+        "publishedAt": "2026-10-31T11:30:07.000+08:00"
+      },
       {
         "title": "2026中国（大营）国际皮草博览会开幕",
         "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723793.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "多国人士谈五中全会：中共推进自我革新有助于提升国家发展成效",
         "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723823.shtml",
         "publishedAt": "2026-10-31T11:25:29.000+08:00"
-      },
-      {
-        "title": "国内首款罕见病特殊医学用途氨基酸组件配方食品“光明爱普昔”面世",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723821.shtml",
-        "publishedAt": "2026-10-31T11:25:25.000+08:00"
-      },
-      {
-        "title": "甘肃高校：车间 “搬进” 课堂 赛训相融对接产业一线",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723815.shtml",
-        "publishedAt": "2026-10-31T11:11:04.000+08:00"
-      },
-      {
-        "title": "全国首个高分子材料国家级技贸评议基地落地广州开发区",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723818.shtml",
-        "publishedAt": "2026-10-31T11:10:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T11:35:40.931+08:00",
+    "fetchedAt": "2026-10-31T11:45:54.930+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T11:35:41.666+08:00",
+      "fetchedAt": "2026-10-31T11:45:55.669+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T16:35:43.000+08:00"
+          "resetAt": "2026-10-31T16:45:57.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T11:35:41.669+08:00",
+      "fetchedAt": "2026-10-31T11:45:55.672+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T11:35:41.678+08:00",
+      "fetchedAt": "2026-10-31T11:45:55.681+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T11:35:41.679+08:00",
+      "fetchedAt": "2026-10-31T11:45:55.681+08:00",
       "error": "未启用",
       "disabled": true
     }
