@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T20:35:15.085+08:00",
+  "updatedAt": "2026-10-31T20:45:25.759+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.1,
-    "feelsLikeC": 26.8,
-    "humidity": 63,
-    "windKph": 7.3,
+    "tempC": 24.9,
+    "feelsLikeC": 26.6,
+    "humidity": 64,
+    "windKph": 6.9,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T20:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T20:35:15.086+08:00",
+    "observedAt": "2026-10-31T20:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T20:45:25.759+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "以高水平开放拓展中瑞合作新空间",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724025.shtml",
-        "publishedAt": "2026-10-31T20:23:17.000+08:00"
+        "title": "西泠印社丙午秋季雅集系列展览在杭州开幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724039.shtml",
+        "publishedAt": "2026-10-31T20:40:51.000+08:00"
       },
       {
-        "title": "2026中国—东盟匹克球公开赛在桂林开赛",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10724020.shtml",
-        "publishedAt": "2026-10-31T20:21:20.000+08:00"
+        "title": "《图说中国古代物质文化常识》从器物读懂中国",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724052.shtml",
+        "publishedAt": "2026-10-31T20:40:39.000+08:00"
       },
       {
-        "title": "多元发展吸引各国旅客 西双版纳以开放姿态连接世界",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724019.shtml",
-        "publishedAt": "2026-10-31T20:20:00.000+08:00"
+        "title": "湖北当枝松高速通过交工验收 10万岛民将圆过江梦",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724037.shtml",
+        "publishedAt": "2026-10-31T20:39:07.000+08:00"
       },
       {
-        "title": "陕西第九届公益足球邀请赛暨乡村学校公益足球课堂启动",
-        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10724022.shtml",
-        "publishedAt": "2026-10-31T20:17:36.000+08:00"
+        "title": "2026北京西山永定河文化节主会场活动举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724036.shtml",
+        "publishedAt": "2026-10-31T20:38:47.000+08:00"
       },
       {
-        "title": "出海企业借力海南自贸港寻找破局通道",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724016.shtml",
-        "publishedAt": "2026-10-31T19:51:51.000+08:00"
+        "title": "四川华蓥大摆荡项目事故调查报告公布",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724049.shtml",
+        "publishedAt": "2026-10-31T20:36:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T20:35:12.852+08:00",
+    "fetchedAt": "2026-10-31T20:45:23.506+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T20:35:13.381+08:00",
+      "fetchedAt": "2026-10-31T20:45:24.088+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 12,
+          "usedPct": 20,
           "resetAt": "2026-11-01T01:22:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 14,
+          "usedPct": 15,
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T20:35:13.383+08:00",
+      "fetchedAt": "2026-10-31T20:45:24.091+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T20:35:13.389+08:00",
+      "fetchedAt": "2026-10-31T20:45:24.100+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T20:35:13.389+08:00",
+      "fetchedAt": "2026-10-31T20:45:24.100+08:00",
       "error": "未启用",
       "disabled": true
     }
