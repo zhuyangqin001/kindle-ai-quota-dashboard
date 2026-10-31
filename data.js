@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T11:25:31.670+08:00",
+  "updatedAt": "2026-10-31T11:35:46.260+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 28.6,
-    "feelsLikeC": 31.2,
+    "tempC": 28.9,
+    "feelsLikeC": 31.8,
     "humidity": 47,
-    "windKph": 2.7,
+    "windKph": 1.6,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-31T11:25:31.670+08:00",
+    "observedAt": "2026-10-31T11:30:00.000+08:00",
+    "fetchedAt": "2026-10-31T11:35:46.260+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026中国（大营）国际皮草博览会开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723793.shtml",
+        "publishedAt": "2026-10-31T11:28:55.000+08:00"
+      },
+      {
+        "title": "多国人士谈五中全会：中共推进自我革新有助于提升国家发展成效",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723823.shtml",
+        "publishedAt": "2026-10-31T11:25:29.000+08:00"
+      },
+      {
+        "title": "国内首款罕见病特殊医学用途氨基酸组件配方食品“光明爱普昔”面世",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723821.shtml",
+        "publishedAt": "2026-10-31T11:25:25.000+08:00"
+      },
       {
         "title": "甘肃高校：车间 “搬进” 课堂 赛训相融对接产业一线",
         "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723815.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "全国首个高分子材料国家级技贸评议基地落地广州开发区",
         "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723818.shtml",
         "publishedAt": "2026-10-31T11:10:16.000+08:00"
-      },
-      {
-        "title": "AI赋能教育装备产业发展 第88届中国教育装备展示会长沙启幕",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723819.shtml",
-        "publishedAt": "2026-10-31T11:09:28.000+08:00"
-      },
-      {
-        "title": "政策红利直达科研一线 助力敦煌文化遗产保护研究",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723814.shtml",
-        "publishedAt": "2026-10-31T11:08:52.000+08:00"
-      },
-      {
-        "title": "冷空气接力来袭 东北多地迎立秋后最冷一天",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723820.shtml",
-        "publishedAt": "2026-10-31T11:08:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T11:25:29.042+08:00",
+    "fetchedAt": "2026-10-31T11:35:40.931+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T11:25:29.720+08:00",
+      "fetchedAt": "2026-10-31T11:35:41.666+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T16:25:31.000+08:00"
+          "resetAt": "2026-10-31T16:35:43.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T11:25:29.723+08:00",
+      "fetchedAt": "2026-10-31T11:35:41.669+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T11:25:29.732+08:00",
+      "fetchedAt": "2026-10-31T11:35:41.678+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T11:25:29.732+08:00",
+      "fetchedAt": "2026-10-31T11:35:41.679+08:00",
       "error": "未启用",
       "disabled": true
     }
