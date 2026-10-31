@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T13:37:49.070+08:00",
+  "updatedAt": "2026-10-31T13:48:01.103+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 30.3,
     "feelsLikeC": 31.9,
     "humidity": 44,
-    "windKph": 4.1,
+    "windKph": 4.4,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T13:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T13:37:49.070+08:00",
+    "observedAt": "2026-10-31T13:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T13:48:01.104+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "姚家平水利枢纽工程成功截流 进入主体施工阶段",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723872.shtml",
+        "publishedAt": "2026-10-31T13:44:11.000+08:00"
+      },
+      {
+        "title": "美国加州发生枪击致至少7人受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723869.shtml",
+        "publishedAt": "2026-10-31T13:36:24.000+08:00"
+      },
       {
         "title": "梵智长老：中国佛教三大语系并存互鉴 为各国提供参照",
         "url": "https://www.chinanews.com.cn/zj/2026/10-31/10723857.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "（第九届进博会）前瞻：历“九”弥新，进博会规模再创新高",
         "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723858.shtml",
         "publishedAt": "2026-10-31T13:13:05.000+08:00"
-      },
-      {
-        "title": "黄河岸边的异国忠魂",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723854.shtml",
-        "publishedAt": "2026-10-31T13:11:25.000+08:00"
-      },
-      {
-        "title": "中国—东盟溪山论坛“区域国别研究分论坛”在贵州举行",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10723853.shtml",
-        "publishedAt": "2026-10-31T13:10:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T13:37:46.661+08:00",
+    "fetchedAt": "2026-10-31T13:47:58.314+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T13:37:47.261+08:00",
+      "fetchedAt": "2026-10-31T13:47:58.921+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T13:37:47.264+08:00",
+      "fetchedAt": "2026-10-31T13:47:58.924+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T13:37:47.274+08:00",
+      "fetchedAt": "2026-10-31T13:47:58.933+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T13:37:47.274+08:00",
+      "fetchedAt": "2026-10-31T13:47:58.934+08:00",
       "error": "未启用",
       "disabled": true
     }
