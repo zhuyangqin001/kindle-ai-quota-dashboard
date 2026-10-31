@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T17:42:19.228+08:00",
+  "updatedAt": "2026-10-31T18:02:37.512+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 28.2,
-    "feelsLikeC": 29.7,
-    "humidity": 49,
-    "windKph": 5.1,
+    "tempC": 27.1,
+    "feelsLikeC": 28.2,
+    "humidity": 53,
+    "windKph": 7.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T17:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T17:42:19.228+08:00",
+    "observedAt": "2026-10-31T18:00:00.000+08:00",
+    "fetchedAt": "2026-10-31T18:02:37.512+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "山东光彩事业威海（文登）行活动举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723952.shtml",
-        "publishedAt": "2026-10-31T17:35:31.000+08:00"
+        "title": "（近观中国）与德国总统会谈，习近平提到两个“恒”字",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723950.shtml",
+        "publishedAt": "2026-10-31T17:54:16.000+08:00"
       },
       {
         "title": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723953.shtml",
-        "publishedAt": "2026-10-31T17:31:55.000+08:00"
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723960.shtml",
+        "publishedAt": "2026-10-31T17:47:16.000+08:00"
       },
       {
-        "title": "世博讲堂在沪举办 共论如何延续上海世博会主题效应",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723947.shtml",
-        "publishedAt": "2026-10-31T17:14:36.000+08:00"
+        "title": "2026世界顶尖科学家论坛在沪开幕 聚焦未来十年科学突破",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723955.shtml",
+        "publishedAt": "2026-10-31T17:45:32.000+08:00"
       },
       {
-        "title": "贵州绿色好物走出大山 “贵品进京”专题推介活动在京举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723946.shtml",
-        "publishedAt": "2026-10-31T17:13:58.000+08:00"
+        "title": "向“新”而行 以“质”致远——宁波外贸民营企业搏击海外的底气与坚守",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723959.shtml",
+        "publishedAt": "2026-10-31T17:44:14.000+08:00"
       },
       {
-        "title": "中英20余所高校聚首南京 发布重塑全球教育未来倡议",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723945.shtml",
-        "publishedAt": "2026-10-31T17:11:12.000+08:00"
+        "title": "广西梧州龙圩区探索乡村治污新路径：垃圾不落地 “污水”可还田",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723958.shtml",
+        "publishedAt": "2026-10-31T17:42:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T17:42:16.808+08:00",
+    "fetchedAt": "2026-10-31T18:02:34.825+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T17:42:17.559+08:00",
+      "fetchedAt": "2026-10-31T18:02:35.584+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T17:42:17.562+08:00",
+      "fetchedAt": "2026-10-31T18:02:35.587+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T17:42:17.571+08:00",
+      "fetchedAt": "2026-10-31T18:02:35.596+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T17:42:17.571+08:00",
+      "fetchedAt": "2026-10-31T18:02:35.596+08:00",
       "error": "未启用",
       "disabled": true
     }
