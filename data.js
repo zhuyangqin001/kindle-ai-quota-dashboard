@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T19:03:50.016+08:00",
+  "updatedAt": "2026-10-31T19:14:01.103+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-31T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T19:03:50.016+08:00",
+    "fetchedAt": "2026-10-31T19:14:01.103+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广州今年夏天已达225天 11月最高气温或达30℃",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723994.shtml",
-        "publishedAt": "2026-10-31T18:52:36.000+08:00"
+        "title": "旅荷大熊猫“朗月”抵达雅安基地 开启30天隔离检疫",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724004.shtml",
+        "publishedAt": "2026-10-31T19:08:14.000+08:00"
       },
       {
-        "title": "世界城市日 福州上下杭历史文化街区——有记忆更有活力",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723992.shtml",
-        "publishedAt": "2026-10-31T18:50:30.000+08:00"
+        "title": "湖南张家界“旅游朋友圈”加速向海外拓展",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723999.shtml",
+        "publishedAt": "2026-10-31T19:06:06.000+08:00"
       },
       {
-        "title": "直播：2026“苏超”决赛 常州、无锡打响“太湖德比”",
-        "url": "https://www.chinanews.com.cn/iframe/2026/10-31/10723995.shtml",
-        "publishedAt": "2026-10-31T18:49:29.000+08:00"
+        "title": "原中国石油化工集团公司董事长傅成玉被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723998.shtml",
+        "publishedAt": "2026-10-31T19:05:28.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）种地还能拿大奖 内蒙古种粮大户赢走一台拖拉机",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723993.shtml",
-        "publishedAt": "2026-10-31T18:48:17.000+08:00"
+        "title": "（八闽千姿）繁花满城、榕树成荫 福州用匠心雕琢城市风貌",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724000.shtml",
+        "publishedAt": "2026-10-31T19:04:30.000+08:00"
       },
       {
-        "title": "第140届广交会第三期开展 “智慧医疗”专区展示“智能健康”趋势",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723969.shtml",
-        "publishedAt": "2026-10-31T18:47:29.000+08:00"
+        "title": "澜湄国家多个教育合作平台在云南普洱揭牌",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10723997.shtml",
+        "publishedAt": "2026-10-31T19:04:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T19:03:47.314+08:00",
+    "fetchedAt": "2026-10-31T19:13:58.708+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T19:03:47.983+08:00",
+      "fetchedAt": "2026-10-31T19:13:59.405+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T19:03:47.986+08:00",
+      "fetchedAt": "2026-10-31T19:13:59.407+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T19:03:47.996+08:00",
+      "fetchedAt": "2026-10-31T19:13:59.413+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T19:03:47.997+08:00",
+      "fetchedAt": "2026-10-31T19:13:59.414+08:00",
       "error": "未启用",
       "disabled": true
     }
