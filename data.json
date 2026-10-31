@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T11:15:20.080+08:00",
+  "updatedAt": "2026-10-31T11:25:31.670+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-31T11:15:00.000+08:00",
-    "fetchedAt": "2026-10-31T11:15:20.080+08:00",
+    "fetchedAt": "2026-10-31T11:25:31.670+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "甘肃高校：车间 “搬进” 课堂 赛训相融对接产业一线",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723815.shtml",
+        "publishedAt": "2026-10-31T11:11:04.000+08:00"
+      },
+      {
+        "title": "全国首个高分子材料国家级技贸评议基地落地广州开发区",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723818.shtml",
+        "publishedAt": "2026-10-31T11:10:16.000+08:00"
+      },
+      {
+        "title": "AI赋能教育装备产业发展 第88届中国教育装备展示会长沙启幕",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723819.shtml",
+        "publishedAt": "2026-10-31T11:09:28.000+08:00"
+      },
       {
         "title": "政策红利直达科研一线 助力敦煌文化遗产保护研究",
         "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723814.shtml",
@@ -28,24 +43,9 @@
         "title": "冷空气接力来袭 东北多地迎立秋后最冷一天",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723820.shtml",
         "publishedAt": "2026-10-31T11:08:46.000+08:00"
-      },
-      {
-        "title": "从“经验炼钢”升级为“数据炼钢” 钢铁行业迈入高端、智能、绿色新阶段",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723817.shtml",
-        "publishedAt": "2026-10-31T11:03:58.000+08:00"
-      },
-      {
-        "title": "希望的田野上机械满田“飞”科技显身手 一地多收填满金色粮仓",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723816.shtml",
-        "publishedAt": "2026-10-31T11:02:40.000+08:00"
-      },
-      {
-        "title": "经济日报：投资消费协力拓宽服务业增长空间",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723813.shtml",
-        "publishedAt": "2026-10-31T11:00:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T11:15:17.303+08:00",
+    "fetchedAt": "2026-10-31T11:25:29.042+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T11:15:17.898+08:00",
+      "fetchedAt": "2026-10-31T11:25:29.720+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T16:15:19.000+08:00"
+          "resetAt": "2026-10-31T16:25:31.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T11:15:17.899+08:00",
+      "fetchedAt": "2026-10-31T11:25:29.723+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T11:15:17.908+08:00",
+      "fetchedAt": "2026-10-31T11:25:29.732+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T11:15:17.909+08:00",
+      "fetchedAt": "2026-10-31T11:25:29.732+08:00",
       "error": "未启用",
       "disabled": true
     }
