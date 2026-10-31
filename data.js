@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T16:31:01.934+08:00",
+  "updatedAt": "2026-10-31T16:51:20.546+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 29.6,
-    "feelsLikeC": 31.8,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 29.5,
+    "feelsLikeC": 31.6,
     "humidity": 46,
-    "windKph": 1,
-    "windDir": "西南风",
+    "windKph": 0.9,
+    "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T16:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T16:31:01.934+08:00",
+    "observedAt": "2026-10-31T16:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T16:51:20.546+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "日本民间团体参访七三一部队罪证馆 有识之士：日政府应正视历史",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723931.shtml",
-        "publishedAt": "2026-10-31T16:25:04.000+08:00"
+        "title": "东西问丨董维洛：柬中民间合作让“小而美”项目在高棉大地开花结果",
+        "url": "https://www.chinanews.com.cn/dxw/2026/10-31/10723934.shtml",
+        "publishedAt": "2026-10-31T16:44:33.000+08:00"
       },
       {
-        "title": "综述｜澳大利亚展商将以历史最大规模亮相进博会",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723932.shtml",
-        "publishedAt": "2026-10-31T16:23:29.000+08:00"
+        "title": "第三届铸牢中华民族共同体意识美术作品展在青海西宁开展",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723929.shtml",
+        "publishedAt": "2026-10-31T16:43:41.000+08:00"
       },
       {
-        "title": "蓝海、绿能齐发力 多领域见证中国经济活力",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723930.shtml",
-        "publishedAt": "2026-10-31T16:19:37.000+08:00"
+        "title": "陪诊行业首个国标明起实施 这7件事陪诊员不能做",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723936.shtml",
+        "publishedAt": "2026-10-31T16:33:58.000+08:00"
       },
       {
-        "title": "云南曲靖一村支书威胁环保博主？官方通报",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723924.shtml",
-        "publishedAt": "2026-10-31T16:19:33.000+08:00"
+        "title": "云南省陆良县民族团结进步创建成果展在京举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723928.shtml",
+        "publishedAt": "2026-10-31T16:31:00.000+08:00"
       },
       {
-        "title": "金饰克价，年内跌了近550元！大金镯子又香了→",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723926.shtml",
-        "publishedAt": "2026-10-31T16:01:08.000+08:00"
+        "title": "800余位专家学者齐聚第七届载人航天学术大会",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723927.shtml",
+        "publishedAt": "2026-10-31T16:29:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T16:30:58.959+08:00",
+    "fetchedAt": "2026-10-31T16:51:17.387+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T16:30:59.695+08:00",
+      "fetchedAt": "2026-10-31T16:51:18.128+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T16:30:59.698+08:00",
+      "fetchedAt": "2026-10-31T16:51:18.132+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T16:30:59.706+08:00",
+      "fetchedAt": "2026-10-31T16:51:18.141+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T16:30:59.706+08:00",
+      "fetchedAt": "2026-10-31T16:51:18.142+08:00",
       "error": "未启用",
       "disabled": true
     }
