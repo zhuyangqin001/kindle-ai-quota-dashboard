@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T10:03:53.745+08:00",
+  "updatedAt": "2026-10-31T10:24:11.570+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.6,
-    "feelsLikeC": 27.9,
-    "humidity": 54,
-    "windKph": 6.7,
+    "tempC": 27.1,
+    "feelsLikeC": 28.6,
+    "humidity": 52,
+    "windKph": 5.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T10:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T10:03:53.745+08:00",
+    "observedAt": "2026-10-31T10:15:00.000+08:00",
+    "fetchedAt": "2026-10-31T10:24:11.571+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“苏超”决赛即将打响 无锡常州争夺联赛桂冠",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723778.shtml",
-        "publishedAt": "2026-10-31T09:54:20.000+08:00"
+        "title": "我国铼、金、镍、锆等保有资源量大幅增加",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723792.shtml",
+        "publishedAt": "2026-10-31T10:10:19.000+08:00"
       },
       {
-        "title": "山西：推动营商环境年年有变化、年年有提升",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723762.shtml",
-        "publishedAt": "2026-10-31T09:52:30.000+08:00"
+        "title": "国家统计局：10月份采购经理指数有所回落",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723787.shtml",
+        "publishedAt": "2026-10-31T10:10:15.000+08:00"
       },
       {
-        "title": "金价银价，大跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723790.shtml",
-        "publishedAt": "2026-10-31T09:51:54.000+08:00"
+        "title": "第五届“一带一路”(河南)国际农业合作博览会在河南郑州开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723705.shtml",
+        "publishedAt": "2026-10-31T10:09:55.000+08:00"
       },
       {
-        "title": "总值21亿美元、盟友“买单”，美国批准对乌500枚“爱国者”导弹军售",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723789.shtml",
-        "publishedAt": "2026-10-31T09:51:14.000+08:00"
+        "title": "刚强、刘昊然担任应急管理公益宣传大使",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723768.shtml",
+        "publishedAt": "2026-10-31T10:07:33.000+08:00"
       },
       {
-        "title": "莫斯科国立语言大学孔子学院庆祝成立15周年",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-31/1209292.shtml",
-        "publishedAt": "2026-10-31T09:51:00.000+08:00"
+        "title": "当影像成“第五位演员”，《后日之后·秅极共生》探索本土原创实验戏剧新表达",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723766.shtml",
+        "publishedAt": "2026-10-31T10:06:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T10:03:51.025+08:00",
+    "fetchedAt": "2026-10-31T10:24:08.931+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T10:03:51.743+08:00",
+      "fetchedAt": "2026-10-31T10:24:09.671+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T15:03:53.000+08:00"
+          "resetAt": "2026-10-31T15:24:11.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T10:03:51.746+08:00",
+      "fetchedAt": "2026-10-31T10:24:09.674+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T10:03:51.754+08:00",
+      "fetchedAt": "2026-10-31T10:24:09.683+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T10:03:51.754+08:00",
+      "fetchedAt": "2026-10-31T10:24:09.684+08:00",
       "error": "未启用",
       "disabled": true
     }
