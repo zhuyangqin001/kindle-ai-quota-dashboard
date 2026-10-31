@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T13:17:25.692+08:00",
+  "updatedAt": "2026-10-31T13:27:37.306+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-31T13:15:00.000+08:00",
-    "fetchedAt": "2026-10-31T13:17:25.692+08:00",
+    "fetchedAt": "2026-10-31T13:27:37.306+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "理响中国·一笔一画｜量质齐升，为绿色中国再添10亿好“风光”",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723859.shtml",
-        "publishedAt": "2026-10-31T13:09:01.000+08:00"
+        "title": "梵智长老：中国佛教三大语系并存互鉴 为各国提供参照",
+        "url": "https://www.chinanews.com.cn/zj/2026/10-31/10723857.shtml",
+        "publishedAt": "2026-10-31T13:15:17.000+08:00"
       },
       {
-        "title": "大范围雨雪降温影响中国 局地降温10℃以上",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723855.shtml",
-        "publishedAt": "2026-10-31T13:08:47.000+08:00"
+        "title": "10月中国制造业PMI回落至49.3%",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723856.shtml",
+        "publishedAt": "2026-10-31T13:13:37.000+08:00"
       },
       {
-        "title": "九寨沟黄龙机场短暂停航后将复航",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723851.shtml",
-        "publishedAt": "2026-10-31T13:05:49.000+08:00"
+        "title": "（第九届进博会）前瞻：历“九”弥新，进博会规模再创新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723858.shtml",
+        "publishedAt": "2026-10-31T13:13:05.000+08:00"
       },
       {
-        "title": "让病变“亮起来”：科学家探索看清帕金森病的新工具",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723850.shtml",
-        "publishedAt": "2026-10-31T13:04:33.000+08:00"
+        "title": "黄河岸边的异国忠魂",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723854.shtml",
+        "publishedAt": "2026-10-31T13:11:25.000+08:00"
       },
       {
-        "title": "“我和祖国有个约会”全球华侨华人书画巡回展走进澳门",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723849.shtml",
-        "publishedAt": "2026-10-31T13:03:19.000+08:00"
+        "title": "中国—东盟溪山论坛“区域国别研究分论坛”在贵州举行",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10723853.shtml",
+        "publishedAt": "2026-10-31T13:10:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T13:17:23.264+08:00",
+    "fetchedAt": "2026-10-31T13:27:34.464+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T13:17:23.986+08:00",
+      "fetchedAt": "2026-10-31T13:27:35.199+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T13:17:23.989+08:00",
+      "fetchedAt": "2026-10-31T13:27:35.202+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T13:17:23.998+08:00",
+      "fetchedAt": "2026-10-31T13:27:35.211+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T13:17:23.998+08:00",
+      "fetchedAt": "2026-10-31T13:27:35.211+08:00",
       "error": "未启用",
       "disabled": true
     }
