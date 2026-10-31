@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T18:12:50.843+08:00",
+  "updatedAt": "2026-10-31T18:23:02.184+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 27.1,
-    "feelsLikeC": 28.2,
-    "humidity": 53,
-    "windKph": 7.7,
+    "tempC": 26.7,
+    "feelsLikeC": 27.7,
+    "humidity": 54,
+    "windKph": 8.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T18:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T18:12:50.843+08:00",
+    "observedAt": "2026-10-31T18:15:00.000+08:00",
+    "fetchedAt": "2026-10-31T18:23:02.184+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "清香“调”进江南：汾酒城市巡游杭州站，看见传统名酒的“慢表达”",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723966.shtml",
+        "publishedAt": "2026-10-31T18:07:45.000+08:00"
+      },
       {
         "title": "11月1日起一批国家标准开始实施",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723963.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026世界顶尖科学家论坛在沪开幕 聚焦未来十年科学突破",
         "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723955.shtml",
         "publishedAt": "2026-10-31T17:45:32.000+08:00"
-      },
-      {
-        "title": "向“新”而行 以“质”致远——宁波外贸民营企业搏击海外的底气与坚守",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723959.shtml",
-        "publishedAt": "2026-10-31T17:44:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T18:12:48.266+08:00",
+    "fetchedAt": "2026-10-31T18:22:59.650+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T18:12:49.050+08:00",
+      "fetchedAt": "2026-10-31T18:23:00.377+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T18:12:49.054+08:00",
+      "fetchedAt": "2026-10-31T18:23:00.380+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T18:12:49.063+08:00",
+      "fetchedAt": "2026-10-31T18:23:00.390+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T18:12:49.064+08:00",
+      "fetchedAt": "2026-10-31T18:23:00.390+08:00",
       "error": "未启用",
       "disabled": true
     }
