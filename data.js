@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T12:57:02.599+08:00",
+  "updatedAt": "2026-10-31T13:07:14.807+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 30,
-    "feelsLikeC": 32.3,
+    "tempC": 30.1,
+    "feelsLikeC": 32.1,
     "humidity": 44,
-    "windKph": 2.7,
+    "windKph": 3.2,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T12:45:00.000+08:00",
-    "fetchedAt": "2026-10-31T12:57:02.599+08:00",
+    "observedAt": "2026-10-31T13:00:00.000+08:00",
+    "fetchedAt": "2026-10-31T13:07:14.807+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "澳门车展以金融联动文旅场景 助力内地车企出海",
-        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723844.shtml",
-        "publishedAt": "2026-10-31T12:49:52.000+08:00"
+        "title": "让病变“亮起来”：科学家探索看清帕金森病的新工具",
+        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723850.shtml",
+        "publishedAt": "2026-10-31T13:04:33.000+08:00"
       },
       {
-        "title": "四川工会“暖心餐”：守护劳动者三餐烟火",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723843.shtml",
-        "publishedAt": "2026-10-31T12:43:15.000+08:00"
+        "title": "“我和祖国有个约会”全球华侨华人书画巡回展走进澳门",
+        "url": "https://www.chinanews.com.cn/dwq/2026/10-31/10723849.shtml",
+        "publishedAt": "2026-10-31T13:03:19.000+08:00"
       },
       {
-        "title": "太原市侨界“守护汾河碧水”志愿服务品牌启动",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723842.shtml",
-        "publishedAt": "2026-10-31T12:42:31.000+08:00"
+        "title": "俄罗斯百年经典《天鹅湖》亮相桂林 开启中俄艺术跨文化对话",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723848.shtml",
+        "publishedAt": "2026-10-31T13:02:12.000+08:00"
       },
       {
-        "title": "重庆市“中医药良方妙技”健康嘉年华启幕",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723841.shtml",
-        "publishedAt": "2026-10-31T12:41:13.000+08:00"
+        "title": "书香伴出行 哈尔滨地铁10万张“书厢地铁 阅见冰城”纪念票开售",
+        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10723847.shtml",
+        "publishedAt": "2026-10-31T13:01:08.000+08:00"
       },
       {
-        "title": "从交出答案到读懂答案：学者共议AI时代教育新挑战",
-        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723830.shtml",
-        "publishedAt": "2026-10-31T12:30:01.000+08:00"
+        "title": "12天9800公里 寿宁退役军人叔侄护送5名志愿军老兵圆梦",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723846.shtml",
+        "publishedAt": "2026-10-31T12:52:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T12:56:59.904+08:00",
+    "fetchedAt": "2026-10-31T13:07:11.563+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T12:57:00.532+08:00",
+      "fetchedAt": "2026-10-31T13:07:12.281+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T12:57:00.534+08:00",
+      "fetchedAt": "2026-10-31T13:07:12.284+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T12:57:00.543+08:00",
+      "fetchedAt": "2026-10-31T13:07:12.292+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T12:57:00.544+08:00",
+      "fetchedAt": "2026-10-31T13:07:12.292+08:00",
       "error": "未启用",
       "disabled": true
     }
