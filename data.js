@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T09:12:57.651+08:00",
+  "updatedAt": "2026-10-31T09:23:10.002+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 24.3,
-    "feelsLikeC": 25.4,
-    "humidity": 62,
-    "windKph": 8,
+    "tempC": 24.9,
+    "feelsLikeC": 26,
+    "humidity": 60,
+    "windKph": 7.8,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T09:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T09:12:57.651+08:00",
+    "observedAt": "2026-10-31T09:15:00.000+08:00",
+    "fetchedAt": "2026-10-31T09:23:10.002+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "新冷空气今日登场中东部降水发展 东北多地迎立秋后最冷一天",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723781.shtml",
+        "publishedAt": "2026-10-31T09:14:26.000+08:00"
+      },
+      {
+        "title": "报告称长三角形成从底层算力、核心算法到终端应用的完整产业生态",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723757.shtml",
+        "publishedAt": "2026-10-31T09:12:10.000+08:00"
+      },
+      {
+        "title": "2026亚洲箱包皮具交易会启幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723756.shtml",
+        "publishedAt": "2026-10-31T09:10:42.000+08:00"
+      },
+      {
+        "title": "杭州“好苗保”首期出单 15.85亿风险保额进场",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723755.shtml",
+        "publishedAt": "2026-10-31T09:09:08.000+08:00"
+      },
+      {
         "title": "“虹桥创想汇”收官 “2026为侨服务进进博”启动",
         "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723754.shtml",
         "publishedAt": "2026-10-31T09:08:08.000+08:00"
-      },
-      {
-        "title": "今年前三季度广西金融运行平稳 总量稳健增长",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723753.shtml",
-        "publishedAt": "2026-10-31T09:06:40.000+08:00"
-      },
-      {
-        "title": "杭州公安启动无偿献血活动 警医携手暖杭城",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723752.shtml",
-        "publishedAt": "2026-10-31T09:05:25.000+08:00"
-      },
-      {
-        "title": "杭州交警女子铁骑成立两周年 飒爽练兵展风采",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723749.shtml",
-        "publishedAt": "2026-10-31T09:02:21.000+08:00"
-      },
-      {
-        "title": "涉及重要网络系统和数据安全 3起典型案例公布",
-        "url": "https://www.chinanews.com.cn/fz/2026/10-31/10723765.shtml",
-        "publishedAt": "2026-10-31T08:57:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T09:12:55.184+08:00",
+    "fetchedAt": "2026-10-31T09:23:07.321+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T09:12:55.919+08:00",
+      "fetchedAt": "2026-10-31T09:23:08.024+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T14:12:57.000+08:00"
+          "resetAt": "2026-10-31T14:23:09.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T09:12:55.922+08:00",
+      "fetchedAt": "2026-10-31T09:23:08.027+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T09:12:55.932+08:00",
+      "fetchedAt": "2026-10-31T09:23:08.036+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T09:12:55.932+08:00",
+      "fetchedAt": "2026-10-31T09:23:08.037+08:00",
       "error": "未启用",
       "disabled": true
     }
