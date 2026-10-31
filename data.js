@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T19:14:01.103+08:00",
+  "updatedAt": "2026-10-31T19:34:18.583+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.1,
-    "feelsLikeC": 26.9,
-    "humidity": 57,
-    "windKph": 10.5,
+    "tempC": 25.9,
+    "feelsLikeC": 27,
+    "humidity": 59,
+    "windKph": 9.6,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T19:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T19:14:01.103+08:00",
+    "observedAt": "2026-10-31T19:30:00.000+08:00",
+    "fetchedAt": "2026-10-31T19:34:18.583+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "江苏常熟：康博村的幸福生活",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-31/1209324.shtml",
+        "publishedAt": "2026-10-31T19:23:32.000+08:00"
+      },
+      {
+        "title": "风景园林专家齐聚重庆 共探园林植物赋能城市更新路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724007.shtml",
+        "publishedAt": "2026-10-31T19:16:05.000+08:00"
+      },
       {
         "title": "旅荷大熊猫“朗月”抵达雅安基地 开启30天隔离检疫",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724004.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "原中国石油化工集团公司董事长傅成玉被查",
         "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723998.shtml",
         "publishedAt": "2026-10-31T19:05:28.000+08:00"
-      },
-      {
-        "title": "（八闽千姿）繁花满城、榕树成荫 福州用匠心雕琢城市风貌",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724000.shtml",
-        "publishedAt": "2026-10-31T19:04:30.000+08:00"
-      },
-      {
-        "title": "澜湄国家多个教育合作平台在云南普洱揭牌",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/10-31/10723997.shtml",
-        "publishedAt": "2026-10-31T19:04:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T19:13:58.708+08:00",
+    "fetchedAt": "2026-10-31T19:34:16.006+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T19:13:59.405+08:00",
+      "fetchedAt": "2026-10-31T19:34:16.618+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T19:13:59.407+08:00",
+      "fetchedAt": "2026-10-31T19:34:16.620+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T19:13:59.413+08:00",
+      "fetchedAt": "2026-10-31T19:34:16.629+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T19:13:59.414+08:00",
+      "fetchedAt": "2026-10-31T19:34:16.629+08:00",
       "error": "未启用",
       "disabled": true
     }
