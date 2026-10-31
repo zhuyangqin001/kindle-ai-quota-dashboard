@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T18:43:26.303+08:00",
+  "updatedAt": "2026-10-31T18:53:38.217+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 26.5,
-    "feelsLikeC": 27.4,
-    "humidity": 55,
-    "windKph": 9.7,
+    "tempC": 26.3,
+    "feelsLikeC": 27.1,
+    "humidity": 56,
+    "windKph": 10.3,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T18:43:26.303+08:00",
+    "observedAt": "2026-10-31T18:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T18:53:38.217+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第五届中国村网（京山）开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723951.shtml",
+        "publishedAt": "2026-10-31T18:42:59.000+08:00"
+      },
       {
         "title": "一份服务包如何打开家庭教育的“沟通之门”？",
         "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723968.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "清香“调”进江南：汾酒城市巡游杭州站，看见传统名酒的“慢表达”",
         "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723966.shtml",
         "publishedAt": "2026-10-31T18:07:45.000+08:00"
-      },
-      {
-        "title": "11月1日起一批国家标准开始实施",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723963.shtml",
-        "publishedAt": "2026-10-31T18:03:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T18:43:23.800+08:00",
+    "fetchedAt": "2026-10-31T18:53:35.615+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T18:43:24.430+08:00",
+      "fetchedAt": "2026-10-31T18:53:36.322+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T18:43:24.433+08:00",
+      "fetchedAt": "2026-10-31T18:53:36.325+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T18:43:24.443+08:00",
+      "fetchedAt": "2026-10-31T18:53:36.335+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T18:43:24.443+08:00",
+      "fetchedAt": "2026-10-31T18:53:36.335+08:00",
       "error": "未启用",
       "disabled": true
     }
