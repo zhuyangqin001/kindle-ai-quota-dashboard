@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-31T17:11:36.361+08:00",
+  "updatedAt": "2026-10-31T17:21:55.699+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 29.2,
-    "feelsLikeC": 31.2,
-    "humidity": 46,
-    "windKph": 2.1,
+    "tempC": 28.8,
+    "feelsLikeC": 30.5,
+    "humidity": 48,
+    "windKph": 3.5,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T17:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T17:11:36.362+08:00",
+    "observedAt": "2026-10-31T17:15:00.000+08:00",
+    "fetchedAt": "2026-10-31T17:21:55.700+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "世博讲堂在沪举办 共论如何延续上海世博会主题效应",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723947.shtml",
+        "publishedAt": "2026-10-31T17:14:36.000+08:00"
+      },
+      {
+        "title": "贵州绿色好物走出大山 “贵品进京”专题推介活动在京举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723946.shtml",
+        "publishedAt": "2026-10-31T17:13:58.000+08:00"
+      },
+      {
+        "title": "中英20余所高校聚首南京 发布重塑全球教育未来倡议",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723945.shtml",
+        "publishedAt": "2026-10-31T17:11:12.000+08:00"
+      },
+      {
+        "title": "世遗烟火聚五洲 2026泉州国际美食月启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723944.shtml",
+        "publishedAt": "2026-10-31T17:10:34.000+08:00"
+      },
+      {
         "title": "今年前三季度东北地区货物贸易进出口超9900亿元 创历史同期新高",
         "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723949.shtml",
         "publishedAt": "2026-10-31T17:06:52.000+08:00"
-      },
-      {
-        "title": "“张雪机车”商标回归张雪！品牌保护要趁早，商标布局当占先",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723948.shtml",
-        "publishedAt": "2026-10-31T17:04:48.000+08:00"
-      },
-      {
-        "title": "2026年川渝匹克球公开赛暨川陕甘青匹克球邀请赛开赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723942.shtml",
-        "publishedAt": "2026-10-31T17:03:02.000+08:00"
-      },
-      {
-        "title": "2026年广西信息通信行业职业技能竞赛在南宁举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723943.shtml",
-        "publishedAt": "2026-10-31T17:02:56.000+08:00"
-      },
-      {
-        "title": "东城区专题推介活动将亮相京港洽谈会",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723941.shtml",
-        "publishedAt": "2026-10-31T17:01:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T17:11:33.689+08:00",
+    "fetchedAt": "2026-10-31T17:21:53.077+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T17:11:34.058+08:00",
+      "fetchedAt": "2026-10-31T17:21:53.829+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T17:11:34.060+08:00",
+      "fetchedAt": "2026-10-31T17:21:53.832+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T17:11:34.065+08:00",
+      "fetchedAt": "2026-10-31T17:21:53.838+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T17:11:34.065+08:00",
+      "fetchedAt": "2026-10-31T17:21:53.839+08:00",
       "error": "未启用",
       "disabled": true
     }
