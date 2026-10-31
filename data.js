@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T20:14:52.703+08:00",
+  "updatedAt": "2026-10-31T20:25:03.884+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 25.6,
-    "feelsLikeC": 27,
-    "humidity": 61,
-    "windKph": 8.2,
+    "tempC": 25.4,
+    "feelsLikeC": 26.9,
+    "humidity": 62,
+    "windKph": 7.8,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T20:00:00.000+08:00",
-    "fetchedAt": "2026-10-31T20:14:52.703+08:00",
+    "observedAt": "2026-10-31T20:15:00.000+08:00",
+    "fetchedAt": "2026-10-31T20:25:03.884+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "多元发展吸引各国旅客 西双版纳以开放姿态连接世界",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10724019.shtml",
+        "publishedAt": "2026-10-31T20:20:00.000+08:00"
+      },
+      {
+        "title": "陕西第九届公益足球邀请赛暨乡村学校公益足球课堂启动",
+        "url": "https://www.chinanews.com.cn/ty/2026/10-31/10724022.shtml",
+        "publishedAt": "2026-10-31T20:17:36.000+08:00"
+      },
       {
         "title": "出海企业借力海南自贸港寻找破局通道",
         "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724016.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国海警位中国台湾岛以东海域依法开展常态化执法巡查",
         "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724013.shtml",
         "publishedAt": "2026-10-31T19:39:22.000+08:00"
-      },
-      {
-        "title": "江苏常熟：探访世界领先的AI领航羽绒服科创中心",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-31/1209329.shtml",
-        "publishedAt": "2026-10-31T19:36:48.000+08:00"
-      },
-      {
-        "title": "减肥不是戒掉碳水 吃对碳水才是体重管理的关键",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10724011.shtml",
-        "publishedAt": "2026-10-31T19:33:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T20:14:50.487+08:00",
+    "fetchedAt": "2026-10-31T20:25:01.345+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T20:14:51.043+08:00",
+      "fetchedAt": "2026-10-31T20:25:02.026+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-01T01:14:52.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-11-01T01:22:02.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T20:14:51.046+08:00",
+      "fetchedAt": "2026-10-31T20:25:02.030+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T20:14:51.056+08:00",
+      "fetchedAt": "2026-10-31T20:25:02.036+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T20:14:51.056+08:00",
+      "fetchedAt": "2026-10-31T20:25:02.037+08:00",
       "error": "未启用",
       "disabled": true
     }
