@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T06:24:37.772+08:00",
+  "updatedAt": "2026-11-01T06:34:49.392+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.5,
-    "feelsLikeC": 23.7,
+    "tempC": 22.6,
+    "feelsLikeC": 23.8,
     "humidity": 67,
-    "windKph": 6,
+    "windKph": 6.1,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T06:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T06:24:37.772+08:00",
+    "observedAt": "2026-11-01T06:30:00.000+08:00",
+    "fetchedAt": "2026-11-01T06:34:49.392+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "二十国集团外长会未就地缘和经济安全问题达成共识",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724125.shtml",
+        "publishedAt": "2026-11-01T06:29:54.000+08:00"
+      },
+      {
+        "title": "北控队主场力克新疆队 取得CBA常规赛两连胜",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724124.shtml",
+        "publishedAt": "2026-11-01T06:29:16.000+08:00"
+      },
       {
         "title": "泰国着手制定第四个国家旅游发展计划",
         "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724123.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国海警位中国台湾岛以东海域依法开展常态化执法巡查",
         "url": "https://www.chinanews.com.cn/gn/2026/10-31/10724111.shtml",
         "publishedAt": "2026-10-31T22:28:03.000+08:00"
-      },
-      {
-        "title": "广交会观察：彰显时尚价值 中国非遗潮品走俏海外市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724109.shtml",
-        "publishedAt": "2026-10-31T22:26:05.000+08:00"
-      },
-      {
-        "title": "舞剧《妈祖》于福建莆田开启全球首演",
-        "url": "https://www.chinanews.com.cn/cul/2026/10-31/10724112.shtml",
-        "publishedAt": "2026-10-31T22:26:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T06:24:35.550+08:00",
+    "fetchedAt": "2026-11-01T06:34:47.201+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T06:24:36.018+08:00",
+      "fetchedAt": "2026-11-01T06:34:47.656+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T11:24:37.000+08:00"
+          "resetAt": "2026-11-01T11:34:49.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T06:24:36.020+08:00",
+      "fetchedAt": "2026-11-01T06:34:47.658+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T06:24:36.025+08:00",
+      "fetchedAt": "2026-11-01T06:34:47.664+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T06:24:36.025+08:00",
+      "fetchedAt": "2026-11-01T06:34:47.664+08:00",
       "error": "未启用",
       "disabled": true
     }
