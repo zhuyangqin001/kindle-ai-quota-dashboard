@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T13:48:01.103+08:00",
+  "updatedAt": "2026-10-31T14:08:18.978+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 30.3,
-    "feelsLikeC": 31.9,
-    "humidity": 44,
-    "windKph": 4.4,
-    "windDir": "西风",
+    "tempC": 30.4,
+    "feelsLikeC": 32,
+    "humidity": 43,
+    "windKph": 4.5,
+    "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T13:45:00.000+08:00",
-    "fetchedAt": "2026-10-31T13:48:01.104+08:00",
+    "observedAt": "2026-10-31T14:00:00.000+08:00",
+    "fetchedAt": "2026-10-31T14:08:18.978+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "姚家平水利枢纽工程成功截流 进入主体施工阶段",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723872.shtml",
-        "publishedAt": "2026-10-31T13:44:11.000+08:00"
+        "title": "人工智能如何成为浙江实体经济“新搭子”？",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723878.shtml",
+        "publishedAt": "2026-10-31T13:58:44.000+08:00"
       },
       {
-        "title": "美国加州发生枪击致至少7人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723869.shtml",
-        "publishedAt": "2026-10-31T13:36:24.000+08:00"
+        "title": "“重庆之夜”非遗专场音乐会奏响巴渝文化乐章",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723833.shtml",
+        "publishedAt": "2026-10-31T13:58:38.000+08:00"
       },
       {
-        "title": "梵智长老：中国佛教三大语系并存互鉴 为各国提供参照",
-        "url": "https://www.chinanews.com.cn/zj/2026/10-31/10723857.shtml",
-        "publishedAt": "2026-10-31T13:15:17.000+08:00"
+        "title": "2026第四届广州塔国际时尚周开幕式在穗举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723832.shtml",
+        "publishedAt": "2026-10-31T13:55:25.000+08:00"
       },
       {
-        "title": "10月中国制造业PMI回落至49.3%",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723856.shtml",
-        "publishedAt": "2026-10-31T13:13:37.000+08:00"
+        "title": "灯火映碧波 湖北通城“两河四岸”激活夜经济",
+        "url": "https://www.chinanews.com.cn/tp/2026/10-31/10723828.shtml",
+        "publishedAt": "2026-10-31T13:53:15.000+08:00"
       },
       {
-        "title": "（第九届进博会）前瞻：历“九”弥新，进博会规模再创新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723858.shtml",
-        "publishedAt": "2026-10-31T13:13:05.000+08:00"
+        "title": "突发：美国加州一处购物中心发生枪击事件 至少7人受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723875.shtml",
+        "publishedAt": "2026-10-31T13:48:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T13:47:58.314+08:00",
+    "fetchedAt": "2026-10-31T14:08:16.375+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T13:47:58.921+08:00",
+      "fetchedAt": "2026-10-31T14:08:17.047+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T13:47:58.924+08:00",
+      "fetchedAt": "2026-10-31T14:08:17.049+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T13:47:58.933+08:00",
+      "fetchedAt": "2026-10-31T14:08:17.058+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T13:47:58.934+08:00",
+      "fetchedAt": "2026-10-31T14:08:17.059+08:00",
       "error": "未启用",
       "disabled": true
     }
