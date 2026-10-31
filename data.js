@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T08:42:22.522+08:00",
+  "updatedAt": "2026-10-31T08:52:33.668+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 22.9,
-    "feelsLikeC": 24.1,
-    "humidity": 68,
+    "tempC": 23.6,
+    "feelsLikeC": 24.8,
+    "humidity": 65,
     "windKph": 7.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-10-31T08:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T08:42:22.522+08:00",
+    "observedAt": "2026-10-31T08:45:00.000+08:00",
+    "fetchedAt": "2026-10-31T08:52:33.668+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国最大出口茶叶原料基地落地云南勐海",
-        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723742.shtml",
-        "publishedAt": "2026-10-31T08:30:36.000+08:00"
+        "title": "长沙焕新文旅场景 持续拓展入境文旅新空间",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723748.shtml",
+        "publishedAt": "2026-10-31T08:47:36.000+08:00"
       },
       {
-        "title": "长大不一定“成人” 别让问题跟着“毕业”",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723750.shtml",
-        "publishedAt": "2026-10-31T08:19:15.000+08:00"
+        "title": "西藏南部仍有强雨雪天气 中东部地区将有较大范围降水过程",
+        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723758.shtml",
+        "publishedAt": "2026-10-31T08:47:22.000+08:00"
       },
       {
-        "title": "11月起，这些新规将影响你我生活！",
-        "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723751.shtml",
-        "publishedAt": "2026-10-31T08:16:17.000+08:00"
+        "title": "共青团湖南省工商联异地商会委员会、行业协会商会委员会成立",
+        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723747.shtml",
+        "publishedAt": "2026-10-31T08:44:46.000+08:00"
       },
       {
-        "title": "卒中发病凶险，30岁以上建议关注！两个口诀把握黄金救治期",
-        "url": "https://www.chinanews.com.cn/jk/2026/10-31/10723746.shtml",
-        "publishedAt": "2026-10-31T08:12:41.000+08:00"
+        "title": "山西布局“十五五”数字政府建设 让数字红利普惠可及",
+        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723745.shtml",
+        "publishedAt": "2026-10-31T08:41:18.000+08:00"
       },
       {
-        "title": "上海民企联合发布基础研究协同创新倡议",
-        "url": "https://www.chinanews.com.cn/txy/2026/10-31/10723741.shtml",
-        "publishedAt": "2026-10-31T08:03:58.000+08:00"
+        "title": "广西获2029年第十五届世界水牛大会举办权",
+        "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723744.shtml",
+        "publishedAt": "2026-10-31T08:38:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T08:42:20.017+08:00",
+    "fetchedAt": "2026-10-31T08:52:31.195+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T08:42:20.773+08:00",
+      "fetchedAt": "2026-10-31T08:52:31.943+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-10-31T13:42:22.000+08:00"
+          "resetAt": "2026-10-31T13:52:33.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-05T15:49:28.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T08:42:20.777+08:00",
+      "fetchedAt": "2026-10-31T08:52:31.946+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T08:42:20.786+08:00",
+      "fetchedAt": "2026-10-31T08:52:31.956+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T08:42:20.786+08:00",
+      "fetchedAt": "2026-10-31T08:52:31.956+08:00",
       "error": "未启用",
       "disabled": true
     }
