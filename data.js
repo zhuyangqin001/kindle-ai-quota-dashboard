@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-10-31T18:33:13.223+08:00",
+  "updatedAt": "2026-10-31T18:43:26.303+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-10-31T18:30:00.000+08:00",
-    "fetchedAt": "2026-10-31T18:33:13.223+08:00",
+    "fetchedAt": "2026-10-31T18:43:26.303+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一份服务包如何打开家庭教育的“沟通之门”？",
+        "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723968.shtml",
+        "publishedAt": "2026-10-31T18:33:41.000+08:00"
+      },
       {
         "title": "2026四川城市排球联赛开赛",
         "url": "https://www.chinanews.com.cn/ty/2026/10-31/10723967.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "11月1日起一批国家标准开始实施",
         "url": "https://www.chinanews.com.cn/sh/2026/10-31/10723963.shtml",
         "publishedAt": "2026-10-31T18:03:03.000+08:00"
-      },
-      {
-        "title": "（近观中国）与德国总统会谈，习近平提到两个“恒”字",
-        "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723950.shtml",
-        "publishedAt": "2026-10-31T17:54:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-10-31T18:33:10.979+08:00",
+    "fetchedAt": "2026-10-31T18:43:23.800+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-10-31T18:33:11.363+08:00",
+      "fetchedAt": "2026-10-31T18:43:24.430+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-10-31T18:33:11.365+08:00",
+      "fetchedAt": "2026-10-31T18:43:24.433+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T18:33:11.371+08:00",
+      "fetchedAt": "2026-10-31T18:43:24.443+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-10-31T18:33:11.371+08:00",
+      "fetchedAt": "2026-10-31T18:43:24.443+08:00",
       "error": "未启用",
       "disabled": true
     }
