@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T17:46:31.017+08:00",
+  "updatedAt": "2026-11-01T17:56:44.483+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-01T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-01T17:46:31.017+08:00",
+    "fetchedAt": "2026-11-01T17:56:44.483+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "华山脚下半马鸣枪 赛事激活城市文旅活力",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724374.shtml",
-        "publishedAt": "2026-11-01T17:38:32.000+08:00"
+        "title": "伊朗将英国海军和空军列为“恐怖组织”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724330.shtml",
+        "publishedAt": "2026-11-01T17:47:41.000+08:00"
       },
       {
-        "title": "进口水果“锁鲜”闯入进博会统共分几步？揭秘→",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724380.shtml",
-        "publishedAt": "2026-11-01T17:37:50.000+08:00"
+        "title": "2026年中国轮滑（自由式轮滑）公开赛（上海嘉定站）落幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724376.shtml",
+        "publishedAt": "2026-11-01T17:46:53.000+08:00"
       },
       {
-        "title": "印度尼西亚（第十一届）HSK留学中国与就业展在雅加达举办",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724375.shtml",
-        "publishedAt": "2026-11-01T17:37:18.000+08:00"
+        "title": "美国特拉华大学附近突发枪击事件",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724328.shtml",
+        "publishedAt": "2026-11-01T17:46:05.000+08:00"
       },
       {
-        "title": "“2026国际城市与建设产业论坛”在福州举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724372.shtml",
-        "publishedAt": "2026-11-01T17:32:58.000+08:00"
+        "title": "南昌宠物中医渐兴 中兽医拓展诊疗场景",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724383.shtml",
+        "publishedAt": "2026-11-01T17:45:25.000+08:00"
       },
       {
-        "title": "南水北调中线工程圆满完成2025—2026年度供水任务",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724369.shtml",
-        "publishedAt": "2026-11-01T17:30:20.000+08:00"
+        "title": "大湾区近千名徒步爱好者漫步广州“流溪林海”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724377.shtml",
+        "publishedAt": "2026-11-01T17:44:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T17:46:28.375+08:00",
+    "fetchedAt": "2026-11-01T17:56:41.914+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T17:46:29.134+08:00",
+      "fetchedAt": "2026-11-01T17:56:42.688+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T22:46:30.000+08:00"
+          "resetAt": "2026-11-01T22:56:44.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T17:46:29.137+08:00",
+      "fetchedAt": "2026-11-01T17:56:42.693+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T17:46:29.146+08:00",
+      "fetchedAt": "2026-11-01T17:56:42.702+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T17:46:29.147+08:00",
+      "fetchedAt": "2026-11-01T17:56:42.703+08:00",
       "error": "未启用",
       "disabled": true
     }
