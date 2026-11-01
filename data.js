@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T23:33:10.372+08:00",
+  "updatedAt": "2026-11-01T23:43:28.254+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-01T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T23:33:10.372+08:00",
+    "fetchedAt": "2026-11-01T23:43:28.254+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "CBA一周综述：北京一骑绝尘 宁波一胜难求",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724523.shtml",
+        "publishedAt": "2026-11-01T23:40:04.000+08:00"
+      },
       {
         "title": "CBA第7轮：山西主场95:89胜四川取得两连胜",
         "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724515.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "CBA第7轮：赵继伟“供能” 辽宁主场20分大胜深圳",
         "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724514.shtml",
         "publishedAt": "2026-11-01T23:20:25.000+08:00"
-      },
-      {
-        "title": "国际移民组织：也门流离失所者已超30万人",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724519.shtml",
-        "publishedAt": "2026-11-01T23:19:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T23:33:07.623+08:00",
+    "fetchedAt": "2026-11-01T23:43:25.605+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T23:33:08.231+08:00",
+      "fetchedAt": "2026-11-01T23:43:26.336+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T04:33:09.000+08:00"
+          "resetAt": "2026-11-02T04:43:27.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T23:33:08.234+08:00",
+      "fetchedAt": "2026-11-01T23:43:26.339+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T23:33:08.245+08:00",
+      "fetchedAt": "2026-11-01T23:43:26.350+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T23:33:08.245+08:00",
+      "fetchedAt": "2026-11-01T23:43:26.350+08:00",
       "error": "未启用",
       "disabled": true
     }
