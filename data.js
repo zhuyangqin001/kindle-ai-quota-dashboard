@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T13:31:46.131+08:00",
+  "updatedAt": "2026-11-01T13:52:01.773+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 32,
-    "feelsLikeC": 31.3,
-    "humidity": 39,
-    "windKph": 20.3,
+    "tempC": 31.9,
+    "feelsLikeC": 31.2,
+    "humidity": 40,
+    "windKph": 20.2,
     "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T13:31:46.131+08:00",
+    "observedAt": "2026-11-01T13:45:00.000+08:00",
+    "fetchedAt": "2026-11-01T13:52:01.773+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "香江观澜：深耕“只在香港”体验感 香港打造盛事之都新底色",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724242.shtml",
-        "publishedAt": "2026-11-01T13:21:51.000+08:00"
+        "title": "逾3.2万香港初中生参与长征主题历史文化问答比赛",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724263.shtml",
+        "publishedAt": "2026-11-01T13:45:30.000+08:00"
       },
       {
-        "title": "“妈祖”海洋预报数值模式2.0版本正式发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724247.shtml",
-        "publishedAt": "2026-11-01T13:16:54.000+08:00"
+        "title": "从“老三样”到“新赛道”——温州培育新质生产力的政协答卷",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724260.shtml",
+        "publishedAt": "2026-11-01T13:43:44.000+08:00"
       },
       {
-        "title": "我国计划在2030年前实现登月！“两次发射、一次登月”方案揭秘",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724246.shtml",
-        "publishedAt": "2026-11-01T13:11:36.000+08:00"
+        "title": "“上课严禁全程依赖PPT”，然后呢？",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-01/10724264.shtml",
+        "publishedAt": "2026-11-01T13:42:14.000+08:00"
       },
       {
-        "title": "中国田协10公里精英赛落地无锡 海内外跑者感受江南如画夜景",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724241.shtml",
-        "publishedAt": "2026-11-01T13:10:20.000+08:00"
+        "title": "深圳海关签发中国首份升级后中秘自贸协定原产地证书",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724252.shtml",
+        "publishedAt": "2026-11-01T13:40:18.000+08:00"
       },
       {
-        "title": "2026朝阳区滨河半程马拉松完赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724238.shtml",
-        "publishedAt": "2026-11-01T13:09:58.000+08:00"
+        "title": "空竹归乡 一名台青的闽南“拓荒”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724243.shtml",
+        "publishedAt": "2026-11-01T13:39:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T13:31:43.880+08:00",
+    "fetchedAt": "2026-11-01T13:51:59.397+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T13:31:44.335+08:00",
+      "fetchedAt": "2026-11-01T13:51:59.853+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T13:31:44.337+08:00",
+      "fetchedAt": "2026-11-01T13:51:59.855+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T13:31:44.343+08:00",
+      "fetchedAt": "2026-11-01T13:51:59.860+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T13:31:44.343+08:00",
+      "fetchedAt": "2026-11-01T13:51:59.861+08:00",
       "error": "未启用",
       "disabled": true
     }
