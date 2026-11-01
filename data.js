@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T11:19:32.403+08:00",
+  "updatedAt": "2026-11-01T11:29:44.914+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-01T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T11:19:32.403+08:00",
+    "fetchedAt": "2026-11-01T11:29:44.915+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "当AI“吞噬”内存",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724209.shtml",
-        "publishedAt": "2026-11-01T11:15:40.000+08:00"
+        "title": "我国自主研发！“妈祖”海洋预报数值模式2.0版本正式发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724219.shtml",
+        "publishedAt": "2026-11-01T11:26:10.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）山西襄垣：小辣椒俏销川渝黔 订单农业助农增收",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724199.shtml",
-        "publishedAt": "2026-11-01T11:14:20.000+08:00"
+        "title": "2026世界物联网博览会无锡启幕 聚焦AI与物联网双向融合",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724210.shtml",
+        "publishedAt": "2026-11-01T11:26:10.000+08:00"
       },
       {
-        "title": "以歌话别共约重逢 云南省第十三届少数民族传统体育运动会闭幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724198.shtml",
-        "publishedAt": "2026-11-01T11:12:38.000+08:00"
+        "title": "海南将围绕多领域推进琼澳务实合作",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724201.shtml",
+        "publishedAt": "2026-11-01T11:23:48.000+08:00"
       },
       {
-        "title": "聚焦气候变化与健康 中德科学院合办第三届“科学与未来”双边研讨会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724197.shtml",
-        "publishedAt": "2026-11-01T11:11:38.000+08:00"
+        "title": "第九届中瑞经济论坛在京举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724202.shtml",
+        "publishedAt": "2026-11-01T11:22:18.000+08:00"
       },
       {
-        "title": "国家艺术基金项目交响乐《盛世牧歌》哈尔滨首场演出奏响",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724196.shtml",
-        "publishedAt": "2026-11-01T11:11:07.000+08:00"
+        "title": "湖北鄂州首座普通公路隧道全线贯通",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724211.shtml",
+        "publishedAt": "2026-11-01T11:21:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T11:19:30.335+08:00",
+    "fetchedAt": "2026-11-01T11:29:40.969+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T11:19:30.693+08:00",
+      "fetchedAt": "2026-11-01T11:29:41.545+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T16:19:32.000+08:00"
+          "resetAt": "2026-11-01T16:29:44.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T11:19:30.694+08:00",
+      "fetchedAt": "2026-11-01T11:29:41.547+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T11:19:30.699+08:00",
+      "fetchedAt": "2026-11-01T11:29:41.553+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T11:19:30.699+08:00",
+      "fetchedAt": "2026-11-01T11:29:41.553+08:00",
       "error": "未启用",
       "disabled": true
     }
