@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T16:45:20.190+08:00",
+  "updatedAt": "2026-11-01T16:55:32.740+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-01T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-01T16:45:20.190+08:00",
+    "fetchedAt": "2026-11-01T16:55:32.740+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中法青年共建“和平小屋”迎来一周年 台胞捐赠的日本侵华罪证亮相",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724344.shtml",
-        "publishedAt": "2026-11-01T16:38:33.000+08:00"
+        "title": "2026广西强优民营企业100家名单发布 生产效益保持两位数增长",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724349.shtml",
+        "publishedAt": "2026-11-01T16:49:34.000+08:00"
       },
       {
-        "title": "中外专家建言RCEP提质升级 推进亚太区域经济一体化进程",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-01/10724343.shtml",
-        "publishedAt": "2026-11-01T16:37:57.000+08:00"
+        "title": "“中国白鹤之乡”单日监测白鹤5100只创历史新高",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724354.shtml",
+        "publishedAt": "2026-11-01T16:48:56.000+08:00"
       },
       {
-        "title": "京郊古刹晚秋美景宜人",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-01/1209372.shtml",
-        "publishedAt": "2026-11-01T16:33:33.000+08:00"
+        "title": "云南昭通打掉一贩毒团伙 缴获冰毒片剂57万片",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724338.shtml",
+        "publishedAt": "2026-11-01T16:48:30.000+08:00"
       },
       {
-        "title": "一支钢笔、一件毛衫，如何打开全球市场？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724336.shtml",
-        "publishedAt": "2026-11-01T16:28:49.000+08:00"
+        "title": "聚焦自动化与智能科技前沿方向 2026中国自动化大会在北京举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724334.shtml",
+        "publishedAt": "2026-11-01T16:47:44.000+08:00"
       },
       {
-        "title": "李家超期望香港青年胸怀家国放眼世界、锤炼意志助人为乐",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724325.shtml",
-        "publishedAt": "2026-11-01T16:23:34.000+08:00"
+        "title": "2026骑享蟒岭自行车赛商洛开赛 赋能秦岭康养文旅融合",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724352.shtml",
+        "publishedAt": "2026-11-01T16:47:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T16:45:17.203+08:00",
+    "fetchedAt": "2026-11-01T16:55:29.806+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T16:45:17.959+08:00",
+      "fetchedAt": "2026-11-01T16:55:30.156+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T21:45:19.000+08:00"
+          "resetAt": "2026-11-01T21:55:32.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T16:45:17.962+08:00",
+      "fetchedAt": "2026-11-01T16:55:30.158+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T16:45:17.972+08:00",
+      "fetchedAt": "2026-11-01T16:55:30.162+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T16:45:17.972+08:00",
+      "fetchedAt": "2026-11-01T16:55:30.163+08:00",
       "error": "未启用",
       "disabled": true
     }
