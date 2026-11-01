@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T20:40:07.675+08:00",
+  "updatedAt": "2026-11-01T21:10:29.568+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.9,
-    "feelsLikeC": 19.1,
+    "tempC": 18.7,
+    "feelsLikeC": 18.7,
     "humidity": 80,
-    "windKph": 11.1,
+    "windKph": 11,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T20:40:07.675+08:00",
+    "observedAt": "2026-11-01T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-01T21:10:29.568+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "报告预计，2026年中国大宗商品价格指数均值为132.1点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724484.shtml",
-        "publishedAt": "2026-11-01T20:38:32.000+08:00"
+        "title": "三亚湾：椰风海韵醉游人",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724488.shtml",
+        "publishedAt": "2026-11-01T21:02:23.000+08:00"
       },
       {
-        "title": "中国陪诊服务步入标准化时代",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724486.shtml",
-        "publishedAt": "2026-11-01T20:36:40.000+08:00"
+        "title": "金荣花、杨扬被聘为“妈祖文化全球推广大使”",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724490.shtml",
+        "publishedAt": "2026-11-01T20:54:55.000+08:00"
       },
       {
-        "title": "施劲松：史前治水是长江文明鲜明特征 彰显史前先民生存智慧",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724485.shtml",
-        "publishedAt": "2026-11-01T20:34:40.000+08:00"
+        "title": "第十三届中韩住宅与城市合作会议在福州举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724491.shtml",
+        "publishedAt": "2026-11-01T20:53:57.000+08:00"
       },
       {
-        "title": "宁台携手共探渔业融合发展新路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724483.shtml",
-        "publishedAt": "2026-11-01T20:32:04.000+08:00"
+        "title": "孙颖莎战胜王艺迪晋级决赛 将与蒯曼争夺冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724494.shtml",
+        "publishedAt": "2026-11-01T20:53:27.000+08:00"
       },
       {
-        "title": "城市更新遇上千年文脉：专家学者福州共探历史遗产“活态传承”新路径",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724482.shtml",
-        "publishedAt": "2026-11-01T20:24:45.000+08:00"
+        "title": "钢铁智能制造相关国家标准发布 让智能体系建设有章可循",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724492.shtml",
+        "publishedAt": "2026-11-01T20:51:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T20:40:04.823+08:00",
+    "fetchedAt": "2026-11-01T21:10:26.886+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T20:40:05.219+08:00",
+      "fetchedAt": "2026-11-01T21:10:27.612+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T20:40:05.221+08:00",
+      "fetchedAt": "2026-11-01T21:10:27.615+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T20:40:05.227+08:00",
+      "fetchedAt": "2026-11-01T21:10:27.625+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T20:40:05.227+08:00",
+      "fetchedAt": "2026-11-01T21:10:27.625+08:00",
       "error": "未启用",
       "disabled": true
     }
