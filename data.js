@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T14:42:57.776+08:00",
+  "updatedAt": "2026-11-01T15:03:14.818+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 31.8,
+    "tempC": 31.4,
     "feelsLikeC": 31.4,
-    "humidity": 40,
-    "windKph": 18.9,
+    "humidity": 43,
+    "windKph": 17.7,
     "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T14:42:57.776+08:00",
+    "observedAt": "2026-11-01T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-01T15:03:14.818+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“黄金平替”全球爆单！出口大增→",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724290.shtml",
-        "publishedAt": "2026-11-01T14:41:17.000+08:00"
+        "title": "陈茂波：香港全年经济增长预测可望再上调",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724295.shtml",
+        "publishedAt": "2026-11-01T15:00:32.000+08:00"
       },
       {
-        "title": "美丽中国系列主题绘画创作工程作品展启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724283.shtml",
-        "publishedAt": "2026-11-01T14:40:01.000+08:00"
+        "title": "几十秒出一份攻略，AI当“旅游搭子”靠谱吗？",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724294.shtml",
+        "publishedAt": "2026-11-01T14:57:14.000+08:00"
       },
       {
-        "title": "前三季度中国社会物流总额同比增长4.9%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724286.shtml",
-        "publishedAt": "2026-11-01T14:39:57.000+08:00"
+        "title": "上海11月第一天最高气温27℃ 下周将迎阵雨降温",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724282.shtml",
+        "publishedAt": "2026-11-01T14:49:09.000+08:00"
       },
       {
-        "title": "美媒：伊朗袭击中东地区超20处美军基地 造成数十亿美元装备损失",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724259.shtml",
-        "publishedAt": "2026-11-01T14:38:43.000+08:00"
+        "title": "沈阳秋假期间游客游览沈阳故宫",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724281.shtml",
+        "publishedAt": "2026-11-01T14:47:45.000+08:00"
       },
       {
-        "title": "第十一届世界妈祖文化论坛开幕 首度在境外设线下分论坛",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724287.shtml",
-        "publishedAt": "2026-11-01T14:38:39.000+08:00"
+        "title": "千余名韩国青年访山东潍坊：盼从相识走向携手同行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724285.shtml",
+        "publishedAt": "2026-11-01T14:47:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T14:42:55.293+08:00",
+    "fetchedAt": "2026-11-01T15:03:12.432+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T14:42:55.764+08:00",
+      "fetchedAt": "2026-11-01T15:03:13.110+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T14:42:55.767+08:00",
+      "fetchedAt": "2026-11-01T15:03:13.113+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T14:42:55.772+08:00",
+      "fetchedAt": "2026-11-01T15:03:13.122+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T14:42:55.772+08:00",
+      "fetchedAt": "2026-11-01T15:03:13.122+08:00",
       "error": "未启用",
       "disabled": true
     }
