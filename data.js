@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T13:21:36.958+08:00",
+  "updatedAt": "2026-11-01T13:31:46.131+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 32.1,
-    "feelsLikeC": 31.4,
+    "tempC": 32,
+    "feelsLikeC": 31.3,
     "humidity": 39,
-    "windKph": 20.5,
+    "windKph": 20.3,
     "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T13:21:36.958+08:00",
+    "observedAt": "2026-11-01T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-01T13:31:46.131+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "香江观澜：深耕“只在香港”体验感 香港打造盛事之都新底色",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724242.shtml",
+        "publishedAt": "2026-11-01T13:21:51.000+08:00"
+      },
+      {
+        "title": "“妈祖”海洋预报数值模式2.0版本正式发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724247.shtml",
+        "publishedAt": "2026-11-01T13:16:54.000+08:00"
+      },
       {
         "title": "我国计划在2030年前实现登月！“两次发射、一次登月”方案揭秘",
         "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724246.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "2026朝阳区滨河半程马拉松完赛",
         "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724238.shtml",
         "publishedAt": "2026-11-01T13:09:58.000+08:00"
-      },
-      {
-        "title": "“乌镇峰会”将至，桐乡AI诸企待客来",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724237.shtml",
-        "publishedAt": "2026-11-01T13:07:44.000+08:00"
-      },
-      {
-        "title": "美食文旅节目《寻味山海》探寻苗岭深处味觉秘密",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724239.shtml",
-        "publishedAt": "2026-11-01T13:07:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T13:21:34.653+08:00",
+    "fetchedAt": "2026-11-01T13:31:43.880+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T13:21:35.044+08:00",
+      "fetchedAt": "2026-11-01T13:31:44.335+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T13:21:35.046+08:00",
+      "fetchedAt": "2026-11-01T13:31:44.337+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T13:21:35.051+08:00",
+      "fetchedAt": "2026-11-01T13:31:44.343+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T13:21:35.052+08:00",
+      "fetchedAt": "2026-11-01T13:31:44.343+08:00",
       "error": "未启用",
       "disabled": true
     }
