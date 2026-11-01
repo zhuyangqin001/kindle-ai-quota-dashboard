@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T13:11:26.835+08:00",
+  "updatedAt": "2026-11-01T13:21:36.958+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
+    "description": "雨",
+    "iconKey": "rain",
     "tempC": 32.1,
-    "feelsLikeC": 31.6,
-    "humidity": 38,
+    "feelsLikeC": 31.4,
+    "humidity": 39,
     "windKph": 20.5,
     "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T13:11:26.835+08:00",
+    "observedAt": "2026-11-01T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-01T13:21:36.958+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从秋千滑梯到化学实验玩具 多项儿童用品安全新规今起实施",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724236.shtml",
-        "publishedAt": "2026-11-01T12:43:08.000+08:00"
+        "title": "我国计划在2030年前实现登月！“两次发射、一次登月”方案揭秘",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724246.shtml",
+        "publishedAt": "2026-11-01T13:11:36.000+08:00"
       },
       {
-        "title": "双十一网购高峰期，铁路部门最新部署",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724216.shtml",
-        "publishedAt": "2026-11-01T12:41:46.000+08:00"
+        "title": "中国田协10公里精英赛落地无锡 海内外跑者感受江南如画夜景",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724241.shtml",
+        "publishedAt": "2026-11-01T13:10:20.000+08:00"
       },
       {
-        "title": "湖北京山：以“小网球”带动县域新发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724229.shtml",
-        "publishedAt": "2026-11-01T12:37:08.000+08:00"
+        "title": "2026朝阳区滨河半程马拉松完赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724238.shtml",
+        "publishedAt": "2026-11-01T13:09:58.000+08:00"
       },
       {
-        "title": "租的是手机拿到的是现金 起底“租机套现”有哪些风险",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-01/10724235.shtml",
-        "publishedAt": "2026-11-01T12:36:18.000+08:00"
+        "title": "“乌镇峰会”将至，桐乡AI诸企待客来",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724237.shtml",
+        "publishedAt": "2026-11-01T13:07:44.000+08:00"
       },
       {
-        "title": "航天员太空摸鼻子是什么实验？揭秘背后的科学原理",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724234.shtml",
-        "publishedAt": "2026-11-01T12:25:52.000+08:00"
+        "title": "美食文旅节目《寻味山海》探寻苗岭深处味觉秘密",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724239.shtml",
+        "publishedAt": "2026-11-01T13:07:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T13:11:24.379+08:00",
+    "fetchedAt": "2026-11-01T13:21:34.653+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T13:11:24.836+08:00",
+      "fetchedAt": "2026-11-01T13:21:35.044+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T13:11:24.838+08:00",
+      "fetchedAt": "2026-11-01T13:21:35.046+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T13:11:24.845+08:00",
+      "fetchedAt": "2026-11-01T13:21:35.051+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T13:11:24.845+08:00",
+      "fetchedAt": "2026-11-01T13:21:35.052+08:00",
       "error": "未启用",
       "disabled": true
     }
