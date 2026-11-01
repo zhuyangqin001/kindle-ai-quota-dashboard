@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T10:08:22.539+08:00",
+  "updatedAt": "2026-11-01T10:28:38.945+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 29.6,
-    "feelsLikeC": 29.2,
-    "humidity": 45,
-    "windKph": 18.3,
+    "tempC": 29.9,
+    "feelsLikeC": 29.6,
+    "humidity": 44,
+    "windKph": 18.8,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T10:08:22.539+08:00",
+    "observedAt": "2026-11-01T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-01T10:28:38.946+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026斯诺克国锦赛正式打响 卫冕冠军吴宜泽零封晋级",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724183.shtml",
+        "publishedAt": "2026-11-01T10:19:35.000+08:00"
+      },
+      {
+        "title": "美国突发枪击 致1死2伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724165.shtml",
+        "publishedAt": "2026-11-01T10:17:29.000+08:00"
+      },
+      {
+        "title": "桂北山村收稻忙 劳动场景与周边山水形成美丽画卷",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724170.shtml",
+        "publishedAt": "2026-11-01T10:15:33.000+08:00"
+      },
+      {
+        "title": "AI危险吗？顶尖科学家在沪揭开“技术面纱”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724181.shtml",
+        "publishedAt": "2026-11-01T10:05:36.000+08:00"
+      },
+      {
         "title": "流感治疗药物一起吃，风险有多大？拿不准时务必咨询医生",
         "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724180.shtml",
         "publishedAt": "2026-11-01T10:02:24.000+08:00"
-      },
-      {
-        "title": "别大意！嘴里出现这4种味道，当心脾胃在“求救”→",
-        "url": "https://www.chinanews.com.cn/life/2026/11-01/10724179.shtml",
-        "publishedAt": "2026-11-01T09:52:49.000+08:00"
-      },
-      {
-        "title": "（文化中国行·校馆弦歌）“无用”阅读恰所需 西南交通大学交大图书馆的阅读与健心",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724178.shtml",
-        "publishedAt": "2026-11-01T09:52:17.000+08:00"
-      },
-      {
-        "title": "（乡村行·看振兴）“靠运气”变“靠手艺”：吉林“蚕宝宝”织出大产业",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724175.shtml",
-        "publishedAt": "2026-11-01T09:51:13.000+08:00"
-      },
-      {
-        "title": "“电影+体育”如何释放文体融合乘数效应？",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724176.shtml",
-        "publishedAt": "2026-11-01T09:47:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T10:08:20.261+08:00",
+    "fetchedAt": "2026-11-01T10:28:36.306+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T10:08:20.718+08:00",
+      "fetchedAt": "2026-11-01T10:28:36.810+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T15:08:22.000+08:00"
+          "resetAt": "2026-11-01T15:28:38.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T10:08:20.720+08:00",
+      "fetchedAt": "2026-11-01T10:28:36.812+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T10:08:20.726+08:00",
+      "fetchedAt": "2026-11-01T10:28:36.818+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T10:08:20.726+08:00",
+      "fetchedAt": "2026-11-01T10:28:36.818+08:00",
       "error": "未启用",
       "disabled": true
     }
