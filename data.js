@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T09:48:01.101+08:00",
+  "updatedAt": "2026-11-01T09:58:12.472+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-01T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-01T09:48:01.101+08:00",
+    "fetchedAt": "2026-11-01T09:58:12.472+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "别大意！嘴里出现这4种味道，当心脾胃在“求救”→",
+        "url": "https://www.chinanews.com.cn/life/2026/11-01/10724179.shtml",
+        "publishedAt": "2026-11-01T09:52:49.000+08:00"
+      },
+      {
+        "title": "（文化中国行·校馆弦歌）“无用”阅读恰所需 西南交通大学交大图书馆的阅读与健心",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724178.shtml",
+        "publishedAt": "2026-11-01T09:52:17.000+08:00"
+      },
+      {
+        "title": "（乡村行·看振兴）“靠运气”变“靠手艺”：吉林“蚕宝宝”织出大产业",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724175.shtml",
+        "publishedAt": "2026-11-01T09:51:13.000+08:00"
+      },
+      {
+        "title": "“电影+体育”如何释放文体融合乘数效应？",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724176.shtml",
+        "publishedAt": "2026-11-01T09:47:29.000+08:00"
+      },
+      {
         "title": "（寻味中华丨艺林）蒙古族四胡弦音叙说草原故事",
         "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724168.shtml",
         "publishedAt": "2026-11-01T09:43:59.000+08:00"
-      },
-      {
-        "title": "超400家单位参展 今年中国国际教育展规模创五年来新高",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724172.shtml",
-        "publishedAt": "2026-11-01T09:39:43.000+08:00"
-      },
-      {
-        "title": "他们心中的长征，他们脚下的路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724169.shtml",
-        "publishedAt": "2026-11-01T09:37:41.000+08:00"
-      },
-      {
-        "title": "以为在养生，其实在养结节！蒲公英泡水、忍着不叹气……你中了几条？",
-        "url": "https://www.chinanews.com.cn/life/2026/11-01/10724171.shtml",
-        "publishedAt": "2026-11-01T09:36:02.000+08:00"
-      },
-      {
-        "title": "促科技与产业创新深度融合 中国科学院广东实践“粤来粤有”经验",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724164.shtml",
-        "publishedAt": "2026-11-01T09:35:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T09:47:58.871+08:00",
+    "fetchedAt": "2026-11-01T09:58:09.966+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T09:47:59.332+08:00",
+      "fetchedAt": "2026-11-01T09:58:10.426+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T14:48:00.000+08:00"
+          "resetAt": "2026-11-01T14:58:11.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T09:47:59.334+08:00",
+      "fetchedAt": "2026-11-01T09:58:10.429+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T09:47:59.339+08:00",
+      "fetchedAt": "2026-11-01T09:58:10.434+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T09:47:59.340+08:00",
+      "fetchedAt": "2026-11-01T09:58:10.435+08:00",
       "error": "未启用",
       "disabled": true
     }
