@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T15:23:40.992+08:00",
+  "updatedAt": "2026-11-01T15:33:52.844+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 30.9,
-    "feelsLikeC": 31.1,
-    "humidity": 45,
-    "windKph": 17.3,
+    "tempC": 30.4,
+    "feelsLikeC": 30.7,
+    "humidity": 47,
+    "windKph": 17.1,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T15:23:40.992+08:00",
+    "observedAt": "2026-11-01T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-01T15:33:52.844+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "遗产与发展如何共生？专家学者杭州共话融合路径",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724303.shtml",
-        "publishedAt": "2026-11-01T15:15:47.000+08:00"
+        "title": "俄罗斯联邦委员会主席将访华",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724306.shtml",
+        "publishedAt": "2026-11-01T15:25:45.000+08:00"
       },
       {
-        "title": "APEC“中国年”：专家热议中国高水平开放赋能亚太区域合作",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-01/10724297.shtml",
-        "publishedAt": "2026-11-01T15:10:08.000+08:00"
+        "title": "广交会观察：AI玩具陪伴交互功能助企业收获海外订单",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724304.shtml",
+        "publishedAt": "2026-11-01T15:23:53.000+08:00"
       },
       {
-        "title": "西藏巴青震区首批589名师生今赴拉萨异地复课",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724301.shtml",
-        "publishedAt": "2026-11-01T15:09:04.000+08:00"
+        "title": "中俄界江黑龙江黑河段“跑冰排”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724299.shtml",
+        "publishedAt": "2026-11-01T15:23:51.000+08:00"
       },
       {
-        "title": "机器人爬泰山要练哪些功夫？裁判跟不上怎么办？",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724298.shtml",
-        "publishedAt": "2026-11-01T15:02:26.000+08:00"
+        "title": "“浙里幸福荟”集体婚礼在杭州举行 百位新人以宋礼传情",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724300.shtml",
+        "publishedAt": "2026-11-01T15:20:17.000+08:00"
       },
       {
-        "title": "陈茂波：香港全年经济增长预测可望再上调",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724295.shtml",
-        "publishedAt": "2026-11-01T15:00:32.000+08:00"
+        "title": "纵览十八座城市风采 2026年《城市风华录》启播",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724296.shtml",
+        "publishedAt": "2026-11-01T15:19:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T15:23:38.435+08:00",
+    "fetchedAt": "2026-11-01T15:33:50.307+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T15:23:38.853+08:00",
+      "fetchedAt": "2026-11-01T15:33:51.011+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T15:23:38.855+08:00",
+      "fetchedAt": "2026-11-01T15:33:51.013+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T15:23:38.861+08:00",
+      "fetchedAt": "2026-11-01T15:33:51.022+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T15:23:38.861+08:00",
+      "fetchedAt": "2026-11-01T15:33:51.023+08:00",
       "error": "未启用",
       "disabled": true
     }
