@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T14:32:46.232+08:00",
+  "updatedAt": "2026-11-01T14:42:57.776+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-01T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T14:32:46.232+08:00",
+    "fetchedAt": "2026-11-01T14:42:57.776+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国选手孙心然不敌英国选手达特 无缘广网单打决赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724280.shtml",
-        "publishedAt": "2026-11-01T14:25:06.000+08:00"
+        "title": "“黄金平替”全球爆单！出口大增→",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724290.shtml",
+        "publishedAt": "2026-11-01T14:41:17.000+08:00"
       },
       {
-        "title": "（第九届进博会）前瞻：中国释开放新声 世界共享新机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724274.shtml",
-        "publishedAt": "2026-11-01T14:23:52.000+08:00"
+        "title": "美丽中国系列主题绘画创作工程作品展启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724283.shtml",
+        "publishedAt": "2026-11-01T14:40:01.000+08:00"
       },
       {
-        "title": "北京人艺剧场版《哈姆雷特》登台南京",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724279.shtml",
-        "publishedAt": "2026-11-01T14:22:08.000+08:00"
+        "title": "前三季度中国社会物流总额同比增长4.9%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724286.shtml",
+        "publishedAt": "2026-11-01T14:39:57.000+08:00"
       },
       {
-        "title": "校地协同传承薪火 《鲁班文化研究论丛（第四辑）》在山东滕州发行",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724276.shtml",
-        "publishedAt": "2026-11-01T14:20:36.000+08:00"
+        "title": "美媒：伊朗袭击中东地区超20处美军基地 造成数十亿美元装备损失",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724259.shtml",
+        "publishedAt": "2026-11-01T14:38:43.000+08:00"
       },
       {
-        "title": "稳中有进、质效双升 前三季度物流运行数据发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724277.shtml",
-        "publishedAt": "2026-11-01T14:18:20.000+08:00"
+        "title": "第十一届世界妈祖文化论坛开幕 首度在境外设线下分论坛",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724287.shtml",
+        "publishedAt": "2026-11-01T14:38:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T14:32:43.953+08:00",
+    "fetchedAt": "2026-11-01T14:42:55.293+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T14:32:44.420+08:00",
+      "fetchedAt": "2026-11-01T14:42:55.764+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T14:32:44.423+08:00",
+      "fetchedAt": "2026-11-01T14:42:55.767+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T14:32:44.428+08:00",
+      "fetchedAt": "2026-11-01T14:42:55.772+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T14:32:44.428+08:00",
+      "fetchedAt": "2026-11-01T14:42:55.772+08:00",
       "error": "未启用",
       "disabled": true
     }
