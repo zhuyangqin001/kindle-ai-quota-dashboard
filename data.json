@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-01T14:12:22.483+08:00",
+  "updatedAt": "2026-11-01T14:22:33.074+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 31.8,
-    "feelsLikeC": 31.2,
+    "feelsLikeC": 31.3,
     "humidity": 40,
-    "windKph": 19.8,
+    "windKph": 19.3,
     "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T14:12:22.483+08:00",
+    "observedAt": "2026-11-01T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-01T14:22:33.075+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "江苏常熟：虞山古城墙西城楼阁吸引游客",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-01/1209367.shtml",
+        "publishedAt": "2026-11-01T14:09:21.000+08:00"
+      },
+      {
+        "title": "秋冬流感季已到 流感防治8问8答来了",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724272.shtml",
+        "publishedAt": "2026-11-01T14:06:13.000+08:00"
+      },
       {
         "title": "八旬台属李泽曾述说“两岸家书抵万金”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724262.shtml",
@@ -33,19 +43,9 @@
         "title": "一块糖串起沪港老街对话 上海探索城市微更新",
         "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724270.shtml",
         "publishedAt": "2026-11-01T13:55:20.000+08:00"
-      },
-      {
-        "title": "2026年世界城市日全球主场活动暨第四届全球可持续发展城市奖（上海奖）颁奖活动在福州开幕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724265.shtml",
-        "publishedAt": "2026-11-01T13:48:42.000+08:00"
-      },
-      {
-        "title": "秋意浓 河北民众踏秋赏景",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724240.shtml",
-        "publishedAt": "2026-11-01T13:47:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T14:12:20.279+08:00",
+    "fetchedAt": "2026-11-01T14:22:30.823+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T14:12:20.734+08:00",
+      "fetchedAt": "2026-11-01T14:22:31.279+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T14:12:20.737+08:00",
+      "fetchedAt": "2026-11-01T14:22:31.281+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T14:12:20.742+08:00",
+      "fetchedAt": "2026-11-01T14:22:31.287+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T14:12:20.743+08:00",
+      "fetchedAt": "2026-11-01T14:22:31.287+08:00",
       "error": "未启用",
       "disabled": true
     }
