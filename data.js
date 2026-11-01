@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T14:22:33.074+08:00",
+  "updatedAt": "2026-11-01T14:32:46.232+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 31.8,
-    "feelsLikeC": 31.3,
+    "feelsLikeC": 31.4,
     "humidity": 40,
-    "windKph": 19.3,
+    "windKph": 18.9,
     "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T14:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T14:22:33.075+08:00",
+    "observedAt": "2026-11-01T14:30:00.000+08:00",
+    "fetchedAt": "2026-11-01T14:32:46.232+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "江苏常熟：虞山古城墙西城楼阁吸引游客",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-01/1209367.shtml",
-        "publishedAt": "2026-11-01T14:09:21.000+08:00"
+        "title": "中国选手孙心然不敌英国选手达特 无缘广网单打决赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724280.shtml",
+        "publishedAt": "2026-11-01T14:25:06.000+08:00"
       },
       {
-        "title": "秋冬流感季已到 流感防治8问8答来了",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724272.shtml",
-        "publishedAt": "2026-11-01T14:06:13.000+08:00"
+        "title": "（第九届进博会）前瞻：中国释开放新声 世界共享新机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724274.shtml",
+        "publishedAt": "2026-11-01T14:23:52.000+08:00"
       },
       {
-        "title": "八旬台属李泽曾述说“两岸家书抵万金”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724262.shtml",
-        "publishedAt": "2026-11-01T13:59:13.000+08:00"
+        "title": "北京人艺剧场版《哈姆雷特》登台南京",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724279.shtml",
+        "publishedAt": "2026-11-01T14:22:08.000+08:00"
       },
       {
-        "title": "2026贺州半程马拉松举行 近万名选手参赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724271.shtml",
-        "publishedAt": "2026-11-01T13:57:37.000+08:00"
+        "title": "校地协同传承薪火 《鲁班文化研究论丛（第四辑）》在山东滕州发行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724276.shtml",
+        "publishedAt": "2026-11-01T14:20:36.000+08:00"
       },
       {
-        "title": "一块糖串起沪港老街对话 上海探索城市微更新",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724270.shtml",
-        "publishedAt": "2026-11-01T13:55:20.000+08:00"
+        "title": "稳中有进、质效双升 前三季度物流运行数据发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724277.shtml",
+        "publishedAt": "2026-11-01T14:18:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T14:22:30.823+08:00",
+    "fetchedAt": "2026-11-01T14:32:43.953+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T14:22:31.279+08:00",
+      "fetchedAt": "2026-11-01T14:32:44.420+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T14:22:31.281+08:00",
+      "fetchedAt": "2026-11-01T14:32:44.423+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T14:22:31.287+08:00",
+      "fetchedAt": "2026-11-01T14:32:44.428+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T14:22:31.287+08:00",
+      "fetchedAt": "2026-11-01T14:32:44.428+08:00",
       "error": "未启用",
       "disabled": true
     }
