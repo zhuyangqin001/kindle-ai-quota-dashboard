@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-01T23:22:56.367+08:00",
+  "updatedAt": "2026-11-01T23:33:10.372+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 17.3,
     "feelsLikeC": 17.7,
-    "humidity": 89,
-    "windKph": 10,
+    "humidity": 88,
+    "windKph": 9.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T23:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T23:22:56.367+08:00",
+    "observedAt": "2026-11-01T23:30:00.000+08:00",
+    "fetchedAt": "2026-11-01T23:33:10.372+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "代办“超级签”落地后发现竟是旅游签 中介该如何赔偿？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724513.shtml",
-        "publishedAt": "2026-11-01T22:20:20.000+08:00"
+        "title": "CBA第7轮：山西主场95:89胜四川取得两连胜",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724515.shtml",
+        "publishedAt": "2026-11-01T23:23:49.000+08:00"
       },
       {
-        "title": "中国驻美大使馆举办纪念孙中山先生诞辰160周年活动",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-01/10724512.shtml",
-        "publishedAt": "2026-11-01T22:13:17.000+08:00"
+        "title": "厦门首条邮轮无目的地海上游航线启航",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724517.shtml",
+        "publishedAt": "2026-11-01T23:22:53.000+08:00"
       },
       {
-        "title": "中欧班列沿线国家代表在敦煌共话丝路交融与当代合作",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724511.shtml",
-        "publishedAt": "2026-11-01T22:12:37.000+08:00"
+        "title": "英国选手达特夺得广网女单冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724516.shtml",
+        "publishedAt": "2026-11-01T23:21:45.000+08:00"
       },
       {
-        "title": "（粤港澳大湾区）深圳莲塘口岸出入境客流突破一亿人次",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724505.shtml",
-        "publishedAt": "2026-11-01T21:49:18.000+08:00"
+        "title": "CBA第7轮：赵继伟“供能” 辽宁主场20分大胜深圳",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724514.shtml",
+        "publishedAt": "2026-11-01T23:20:25.000+08:00"
       },
       {
-        "title": "乌称俄袭击基辅能源设施 城区多地面临停水",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724509.shtml",
-        "publishedAt": "2026-11-01T21:47:54.000+08:00"
+        "title": "国际移民组织：也门流离失所者已超30万人",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724519.shtml",
+        "publishedAt": "2026-11-01T23:19:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T23:22:53.700+08:00",
+    "fetchedAt": "2026-11-01T23:33:07.623+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T23:22:54.433+08:00",
+      "fetchedAt": "2026-11-01T23:33:08.231+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-02T04:22:56.000+08:00"
+          "resetAt": "2026-11-02T04:33:09.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T23:22:54.436+08:00",
+      "fetchedAt": "2026-11-01T23:33:08.234+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T23:22:54.445+08:00",
+      "fetchedAt": "2026-11-01T23:33:08.245+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T23:22:54.445+08:00",
+      "fetchedAt": "2026-11-01T23:33:08.245+08:00",
       "error": "未启用",
       "disabled": true
     }
