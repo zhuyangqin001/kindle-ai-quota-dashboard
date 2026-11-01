@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T19:59:16.364+08:00",
+  "updatedAt": "2026-11-01T20:09:33.123+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 19.8,
-    "feelsLikeC": 20.3,
+    "tempC": 19.3,
+    "feelsLikeC": 19.8,
     "humidity": 91,
-    "windKph": 17.3,
+    "windKph": 16.2,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-01T19:59:16.364+08:00",
+    "observedAt": "2026-11-01T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-01T20:09:33.124+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "支持粤港澳大湾区国际科技创新中心建设相关举措发布",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724453.shtml",
-        "publishedAt": "2026-11-01T19:50:42.000+08:00"
+        "title": "20余款新品全球首发！这场科技盛会明日开幕，亮点抢鲜看",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724463.shtml",
+        "publishedAt": "2026-11-01T20:01:58.000+08:00"
       },
       {
-        "title": "刘建国：治水是史前长江中下游定居农业聚落重要社会活动",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724456.shtml",
-        "publishedAt": "2026-11-01T19:47:25.000+08:00"
+        "title": "秋冬流感季来临 这份防护攻略请收好",
+        "url": "https://www.chinanews.com.cn/life/2026/11-01/10724460.shtml",
+        "publishedAt": "2026-11-01T19:59:52.000+08:00"
       },
       {
-        "title": "614家科创板公司完成三季报披露 净利润同比增约4.7倍",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724454.shtml",
-        "publishedAt": "2026-11-01T19:45:01.000+08:00"
+        "title": "上海外国语大学世界海关研究中心揭牌",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724458.shtml",
+        "publishedAt": "2026-11-01T19:57:42.000+08:00"
       },
       {
-        "title": "上海发布数据跨境流动基础设施 依托区块链支撑企业合规出海",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724455.shtml",
-        "publishedAt": "2026-11-01T19:43:45.000+08:00"
+        "title": "2026年浙江民进开明健康公益日活动走进浙江义乌",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-01/10724449.shtml",
+        "publishedAt": "2026-11-01T19:57:12.000+08:00"
       },
       {
-        "title": "（国际观察）高油价等多重因素推动俄罗斯卢布“逆势走强”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724443.shtml",
-        "publishedAt": "2026-11-01T19:38:59.000+08:00"
+        "title": "立冬前后将有冷空气南下 或大幅刷新立秋以来气温新低",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724457.shtml",
+        "publishedAt": "2026-11-01T19:55:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T19:59:13.549+08:00",
+    "fetchedAt": "2026-11-01T20:09:30.399+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T19:59:14.277+08:00",
+      "fetchedAt": "2026-11-01T20:09:31.109+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T19:59:14.280+08:00",
+      "fetchedAt": "2026-11-01T20:09:31.112+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T19:59:14.289+08:00",
+      "fetchedAt": "2026-11-01T20:09:31.121+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T19:59:14.289+08:00",
+      "fetchedAt": "2026-11-01T20:09:31.122+08:00",
       "error": "未启用",
       "disabled": true
     }
