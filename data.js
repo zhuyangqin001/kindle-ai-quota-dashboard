@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T15:13:27.911+08:00",
+  "updatedAt": "2026-11-01T15:23:40.992+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 31.4,
-    "feelsLikeC": 31.4,
-    "humidity": 43,
-    "windKph": 17.7,
-    "windDir": "西南风",
+    "tempC": 30.9,
+    "feelsLikeC": 31.1,
+    "humidity": 45,
+    "windKph": 17.3,
+    "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T15:13:27.911+08:00",
+    "observedAt": "2026-11-01T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-01T15:23:40.992+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "遗产与发展如何共生？专家学者杭州共话融合路径",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724303.shtml",
+        "publishedAt": "2026-11-01T15:15:47.000+08:00"
+      },
       {
         "title": "APEC“中国年”：专家热议中国高水平开放赋能亚太区域合作",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-01/10724297.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "陈茂波：香港全年经济增长预测可望再上调",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724295.shtml",
         "publishedAt": "2026-11-01T15:00:32.000+08:00"
-      },
-      {
-        "title": "几十秒出一份攻略，AI当“旅游搭子”靠谱吗？",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724294.shtml",
-        "publishedAt": "2026-11-01T14:57:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T15:13:25.166+08:00",
+    "fetchedAt": "2026-11-01T15:23:38.435+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T15:13:26.049+08:00",
+      "fetchedAt": "2026-11-01T15:23:38.853+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T15:13:26.053+08:00",
+      "fetchedAt": "2026-11-01T15:23:38.855+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T15:13:26.062+08:00",
+      "fetchedAt": "2026-11-01T15:23:38.861+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T15:13:26.062+08:00",
+      "fetchedAt": "2026-11-01T15:23:38.861+08:00",
       "error": "未启用",
       "disabled": true
     }
