@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T15:33:52.844+08:00",
+  "updatedAt": "2026-11-01T15:44:05.426+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-01T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T15:33:52.844+08:00",
+    "fetchedAt": "2026-11-01T15:44:05.426+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“妈祖”海洋预报数值模式2.0版本正式发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724309.shtml",
+        "publishedAt": "2026-11-01T15:42:50.000+08:00"
+      },
+      {
+        "title": "第三届“人民艺术论坛”举办 成立红色美育共同体",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724302.shtml",
+        "publishedAt": "2026-11-01T15:33:22.000+08:00"
+      },
+      {
+        "title": "杭州北山街上的“秘密花园”：别墅群见证西湖近代风云",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724305.shtml",
+        "publishedAt": "2026-11-01T15:30:18.000+08:00"
+      },
+      {
+        "title": "湖南江华深耕微电机制造 小家电零部件走向国际市场",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-01/10724307.shtml",
+        "publishedAt": "2026-11-01T15:28:39.000+08:00"
+      },
+      {
         "title": "俄罗斯联邦委员会主席将访华",
         "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724306.shtml",
         "publishedAt": "2026-11-01T15:25:45.000+08:00"
-      },
-      {
-        "title": "广交会观察：AI玩具陪伴交互功能助企业收获海外订单",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724304.shtml",
-        "publishedAt": "2026-11-01T15:23:53.000+08:00"
-      },
-      {
-        "title": "中俄界江黑龙江黑河段“跑冰排”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724299.shtml",
-        "publishedAt": "2026-11-01T15:23:51.000+08:00"
-      },
-      {
-        "title": "“浙里幸福荟”集体婚礼在杭州举行 百位新人以宋礼传情",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724300.shtml",
-        "publishedAt": "2026-11-01T15:20:17.000+08:00"
-      },
-      {
-        "title": "纵览十八座城市风采 2026年《城市风华录》启播",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724296.shtml",
-        "publishedAt": "2026-11-01T15:19:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T15:33:50.307+08:00",
+    "fetchedAt": "2026-11-01T15:44:02.580+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T15:33:51.011+08:00",
+      "fetchedAt": "2026-11-01T15:44:03.301+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T15:33:51.013+08:00",
+      "fetchedAt": "2026-11-01T15:44:03.304+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T15:33:51.022+08:00",
+      "fetchedAt": "2026-11-01T15:44:03.313+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T15:33:51.023+08:00",
+      "fetchedAt": "2026-11-01T15:44:03.314+08:00",
       "error": "未启用",
       "disabled": true
     }
