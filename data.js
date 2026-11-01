@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T10:48:55.723+08:00",
+  "updatedAt": "2026-11-01T11:09:13.480+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 30.6,
-    "feelsLikeC": 30.4,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 30.9,
+    "feelsLikeC": 30.7,
     "humidity": 42,
-    "windKph": 19.5,
+    "windKph": 19.7,
     "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-01T10:48:55.724+08:00",
+    "observedAt": "2026-11-01T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-01T11:09:13.480+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年全国人口变动情况抽样调查来了！一图读懂→",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724190.shtml",
-        "publishedAt": "2026-11-01T10:38:40.000+08:00"
+        "title": "中国—秘鲁自贸协定升级议定书正式生效",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724203.shtml",
+        "publishedAt": "2026-11-01T11:04:21.000+08:00"
       },
       {
-        "title": "2026年世界城市日全球主场活动暨第四届全球可持续发展城市奖（上海奖）颁奖活动在福州举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724186.shtml",
-        "publishedAt": "2026-11-01T10:38:36.000+08:00"
+        "title": "中外人士汇聚海口共议亚太区域经济一体化",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-01/10724200.shtml",
+        "publishedAt": "2026-11-01T11:03:21.000+08:00"
       },
       {
-        "title": "朝鲜进行重要武器系统威力评估试验",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724189.shtml",
-        "publishedAt": "2026-11-01T10:37:42.000+08:00"
+        "title": "诺奖得主安德烈·盖姆：科学研究就是从好奇心出发走向实际应用",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724194.shtml",
+        "publishedAt": "2026-11-01T10:59:31.000+08:00"
       },
       {
-        "title": "史上最大IPO要来了？先别急着鼓掌",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724185.shtml",
-        "publishedAt": "2026-11-01T10:34:32.000+08:00"
+        "title": "歼-20首次公开亮相10周年，盘点威龙高光时刻！",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724195.shtml",
+        "publishedAt": "2026-11-01T10:54:29.000+08:00"
       },
       {
-        "title": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724184.shtml",
-        "publishedAt": "2026-11-01T10:34:26.000+08:00"
+        "title": "涉电动自行车3C认证、儿童用品强制性国标等 一批新规今起施行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724193.shtml",
+        "publishedAt": "2026-11-01T10:51:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T10:48:52.703+08:00",
+    "fetchedAt": "2026-11-01T11:09:11.122+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T10:48:53.149+08:00",
+      "fetchedAt": "2026-11-01T11:09:11.562+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T15:48:54.000+08:00"
+          "resetAt": "2026-11-01T16:09:13.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T10:48:53.151+08:00",
+      "fetchedAt": "2026-11-01T11:09:11.565+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T10:48:53.157+08:00",
+      "fetchedAt": "2026-11-01T11:09:11.570+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T10:48:53.157+08:00",
+      "fetchedAt": "2026-11-01T11:09:11.570+08:00",
       "error": "未启用",
       "disabled": true
     }
