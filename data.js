@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T19:38:51.094+08:00",
+  "updatedAt": "2026-11-01T19:49:03.572+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 20.4,
-    "feelsLikeC": 21,
+    "tempC": 19.8,
+    "feelsLikeC": 20.3,
     "humidity": 91,
-    "windKph": 18.8,
+    "windKph": 17.3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T19:38:51.094+08:00",
+    "observedAt": "2026-11-01T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-01T19:49:03.572+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（国际观察）高油价等多重因素推动俄罗斯卢布“逆势走强”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724443.shtml",
+        "publishedAt": "2026-11-01T19:38:59.000+08:00"
+      },
+      {
+        "title": "以杭州马拉松为窗：在奔跑中读懂一座城",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724452.shtml",
+        "publishedAt": "2026-11-01T19:38:49.000+08:00"
+      },
+      {
+        "title": "合成生物学产业化如何突围？院士建言走好自主创新之路",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724450.shtml",
+        "publishedAt": "2026-11-01T19:35:27.000+08:00"
+      },
+      {
+        "title": "浙江深耕新型婚育文化建设：搭起幸福桥 共育和美家",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724448.shtml",
+        "publishedAt": "2026-11-01T19:34:43.000+08:00"
+      },
+      {
         "title": "从“场景机会”到出海保障 第六届长沙“企业家日”活动举行",
         "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724446.shtml",
         "publishedAt": "2026-11-01T19:32:35.000+08:00"
-      },
-      {
-        "title": "2026斯巴达勇士儿童赛杭州站落幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724445.shtml",
-        "publishedAt": "2026-11-01T19:27:34.000+08:00"
-      },
-      {
-        "title": "世界杰出华人颁奖典礼在香港举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724440.shtml",
-        "publishedAt": "2026-11-01T19:26:20.000+08:00"
-      },
-      {
-        "title": "浙VA，让城乡球友“打成一片”",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724442.shtml",
-        "publishedAt": "2026-11-01T19:24:46.000+08:00"
-      },
-      {
-        "title": "第十一届世界妈祖文化论坛在福建湄洲岛开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724437.shtml",
-        "publishedAt": "2026-11-01T19:24:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T19:38:48.860+08:00",
+    "fetchedAt": "2026-11-01T19:49:00.840+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T19:38:49.306+08:00",
+      "fetchedAt": "2026-11-01T19:49:01.566+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T19:38:49.307+08:00",
+      "fetchedAt": "2026-11-01T19:49:01.570+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T19:38:49.311+08:00",
+      "fetchedAt": "2026-11-01T19:49:01.581+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T19:38:49.311+08:00",
+      "fetchedAt": "2026-11-01T19:49:01.581+08:00",
       "error": "未启用",
       "disabled": true
     }
