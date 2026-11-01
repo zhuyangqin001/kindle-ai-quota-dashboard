@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-01T16:35:06.467+08:00",
+  "updatedAt": "2026-11-01T16:45:20.190+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 28.2,
-    "feelsLikeC": 29.3,
-    "humidity": 57,
-    "windKph": 13.9,
+    "tempC": 27.7,
+    "feelsLikeC": 29.2,
+    "humidity": 59,
+    "windKph": 12.1,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T16:35:06.468+08:00",
+    "observedAt": "2026-11-01T16:45:00.000+08:00",
+    "fetchedAt": "2026-11-01T16:45:20.190+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中法青年共建“和平小屋”迎来一周年 台胞捐赠的日本侵华罪证亮相",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724344.shtml",
+        "publishedAt": "2026-11-01T16:38:33.000+08:00"
+      },
+      {
+        "title": "中外专家建言RCEP提质升级 推进亚太区域经济一体化进程",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-01/10724343.shtml",
+        "publishedAt": "2026-11-01T16:37:57.000+08:00"
+      },
       {
         "title": "京郊古刹晚秋美景宜人",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-01/1209372.shtml",
@@ -33,19 +43,9 @@
         "title": "李家超期望香港青年胸怀家国放眼世界、锤炼意志助人为乐",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724325.shtml",
         "publishedAt": "2026-11-01T16:23:34.000+08:00"
-      },
-      {
-        "title": "打着“无硫”旗号实则超标！熏硫白芷线上线下仍在偷偷售卖",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724332.shtml",
-        "publishedAt": "2026-11-01T16:22:42.000+08:00"
-      },
-      {
-        "title": "前三季度中国物流业总收入达11.1万亿元 保持扩张态势",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724321.shtml",
-        "publishedAt": "2026-11-01T16:17:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T16:35:03.507+08:00",
+    "fetchedAt": "2026-11-01T16:45:17.203+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T16:35:04.239+08:00",
+      "fetchedAt": "2026-11-01T16:45:17.959+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T16:35:56.000+08:00"
+          "resetAt": "2026-11-01T21:45:19.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T16:35:04.243+08:00",
+      "fetchedAt": "2026-11-01T16:45:17.962+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T16:35:04.252+08:00",
+      "fetchedAt": "2026-11-01T16:45:17.972+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T16:35:04.252+08:00",
+      "fetchedAt": "2026-11-01T16:45:17.972+08:00",
       "error": "未启用",
       "disabled": true
     }
