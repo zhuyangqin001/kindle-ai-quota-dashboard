@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T12:00:15.489+08:00",
+  "updatedAt": "2026-11-01T12:10:27.229+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-01T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T12:00:15.489+08:00",
+    "fetchedAt": "2026-11-01T12:10:27.230+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "一地叫停网约车“只送货不载人”，“四轮小件”业务真的合规吗？",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-01/10724223.shtml",
-        "publishedAt": "2026-11-01T11:46:19.000+08:00"
+        "title": "2026年广西水上搜救应急技能竞赛举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724228.shtml",
+        "publishedAt": "2026-11-01T12:00:36.000+08:00"
       },
       {
-        "title": "全国医药领域专家常州“论剑” 推动居家药学服务下沉与精准用药协同发展",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-01/10724214.shtml",
-        "publishedAt": "2026-11-01T11:41:01.000+08:00"
+        "title": "湖北宜昌：1.6万跑者穿行“水电之都”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724224.shtml",
+        "publishedAt": "2026-11-01T11:58:24.000+08:00"
       },
       {
-        "title": "第二届巴彦淖尔艺术嘉年华启幕 3000余件艺术精品点亮河套文化",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724217.shtml",
-        "publishedAt": "2026-11-01T11:38:15.000+08:00"
+        "title": "WTT蒙彼利埃冠军赛：国乒女单包揽四强",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724215.shtml",
+        "publishedAt": "2026-11-01T11:57:44.000+08:00"
       },
       {
-        "title": "这个普通的睡前习惯，可能正在损伤你的听力",
-        "url": "https://www.chinanews.com.cn/life/2026/11-01/10724222.shtml",
-        "publishedAt": "2026-11-01T11:36:13.000+08:00"
+        "title": "“每天八杯水”不严谨！科学饮水应该这样做",
+        "url": "https://www.chinanews.com.cn/life/2026/11-01/10724227.shtml",
+        "publishedAt": "2026-11-01T11:57:30.000+08:00"
       },
       {
-        "title": "云南省第十三届少数民族传统体育运动会在昆明闭幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724205.shtml",
-        "publishedAt": "2026-11-01T11:32:51.000+08:00"
+        "title": "世界妈祖文化论坛巴西分论坛在圣保罗举办",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724220.shtml",
+        "publishedAt": "2026-11-01T11:57:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T12:00:13.137+08:00",
+    "fetchedAt": "2026-11-01T12:10:24.732+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T12:00:13.596+08:00",
+      "fetchedAt": "2026-11-01T12:10:25.195+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T12:00:13.600+08:00",
+      "fetchedAt": "2026-11-01T12:10:25.197+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T12:00:13.605+08:00",
+      "fetchedAt": "2026-11-01T12:10:25.202+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T12:00:13.605+08:00",
+      "fetchedAt": "2026-11-01T12:10:25.203+08:00",
       "error": "未启用",
       "disabled": true
     }
