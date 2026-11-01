@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T18:47:41.906+08:00",
+  "updatedAt": "2026-11-01T18:57:56.504+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-01T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-01T18:47:41.906+08:00",
+    "fetchedAt": "2026-11-01T18:57:56.504+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第二十个“重庆农民工日”暨川渝农民工服务周启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724415.shtml",
+        "publishedAt": "2026-11-01T18:44:50.000+08:00"
+      },
+      {
+        "title": "大风蓝色预警：新疆西藏等6省区部分地区阵风可达7至8级",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724410.shtml",
+        "publishedAt": "2026-11-01T18:44:34.000+08:00"
+      },
+      {
+        "title": "中国驻俄罗斯大使馆提醒：切勿在俄非法采金",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-01/10724413.shtml",
+        "publishedAt": "2026-11-01T18:44:18.000+08:00"
+      },
       {
         "title": "海洋文化赋能海洋经济高质量发展论坛在莆田举行",
         "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724412.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "最新报告显示我国人工智能推理数据量首超训练数据量",
         "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724411.shtml",
         "publishedAt": "2026-11-01T18:35:34.000+08:00"
-      },
-      {
-        "title": "10月中国百城新房价格继续上涨 二手房价下跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724408.shtml",
-        "publishedAt": "2026-11-01T18:33:17.000+08:00"
-      },
-      {
-        "title": "一棵“生命树”与一片红树林——中国基因科技的亚太故事",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724386.shtml",
-        "publishedAt": "2026-11-01T18:31:17.000+08:00"
-      },
-      {
-        "title": "两项国际大科学计划在广州南沙启动",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724395.shtml",
-        "publishedAt": "2026-11-01T18:30:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T18:47:38.860+08:00",
+    "fetchedAt": "2026-11-01T18:57:52.242+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T18:47:39.417+08:00",
+      "fetchedAt": "2026-11-01T18:57:52.800+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 66,
+          "usedPct": 70,
           "resetAt": "2026-11-01T22:58:12.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 30,
+          "usedPct": 31,
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T18:47:39.419+08:00",
+      "fetchedAt": "2026-11-01T18:57:52.803+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T18:47:39.426+08:00",
+      "fetchedAt": "2026-11-01T18:57:52.814+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T18:47:39.426+08:00",
+      "fetchedAt": "2026-11-01T18:57:52.814+08:00",
       "error": "未启用",
       "disabled": true
     }
