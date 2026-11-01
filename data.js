@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T12:40:54.118+08:00",
+  "updatedAt": "2026-11-01T12:51:05.754+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 32,
+    "tempC": 32.1,
     "feelsLikeC": 31.7,
     "humidity": 39,
     "windKph": 20.4,
     "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T12:40:54.118+08:00",
+    "observedAt": "2026-11-01T12:45:00.000+08:00",
+    "fetchedAt": "2026-11-01T12:51:05.754+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "从秋千滑梯到化学实验玩具 多项儿童用品安全新规今起实施",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724236.shtml",
+        "publishedAt": "2026-11-01T12:43:08.000+08:00"
+      },
+      {
+        "title": "双十一网购高峰期，铁路部门最新部署",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724216.shtml",
+        "publishedAt": "2026-11-01T12:41:46.000+08:00"
+      },
+      {
+        "title": "湖北京山：以“小网球”带动县域新发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724229.shtml",
+        "publishedAt": "2026-11-01T12:37:08.000+08:00"
+      },
+      {
+        "title": "租的是手机拿到的是现金 起底“租机套现”有哪些风险",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-01/10724235.shtml",
+        "publishedAt": "2026-11-01T12:36:18.000+08:00"
+      },
+      {
         "title": "航天员太空摸鼻子是什么实验？揭秘背后的科学原理",
         "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724234.shtml",
         "publishedAt": "2026-11-01T12:25:52.000+08:00"
-      },
-      {
-        "title": "一盏灯",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724232.shtml",
-        "publishedAt": "2026-11-01T12:19:25.000+08:00"
-      },
-      {
-        "title": "（走进中国乡村）浙南山乡栀子花果开出风景、结出产业",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724231.shtml",
-        "publishedAt": "2026-11-01T12:16:13.000+08:00"
-      },
-      {
-        "title": "2026年广西水上搜救应急技能竞赛举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724228.shtml",
-        "publishedAt": "2026-11-01T12:00:36.000+08:00"
-      },
-      {
-        "title": "湖北宜昌：1.6万跑者穿行“水电之都”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724224.shtml",
-        "publishedAt": "2026-11-01T11:58:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T12:40:51.741+08:00",
+    "fetchedAt": "2026-11-01T12:51:03.375+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T12:40:52.198+08:00",
+      "fetchedAt": "2026-11-01T12:51:03.842+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T12:40:52.201+08:00",
+      "fetchedAt": "2026-11-01T12:51:03.845+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T12:40:52.206+08:00",
+      "fetchedAt": "2026-11-01T12:51:03.851+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T12:40:52.206+08:00",
+      "fetchedAt": "2026-11-01T12:51:03.851+08:00",
       "error": "未启用",
       "disabled": true
     }
