@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T10:28:38.945+08:00",
+  "updatedAt": "2026-11-01T10:48:55.723+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 29.9,
-    "feelsLikeC": 29.6,
-    "humidity": 44,
-    "windKph": 18.8,
-    "windDir": "南风",
+    "tempC": 30.6,
+    "feelsLikeC": 30.4,
+    "humidity": 42,
+    "windKph": 19.5,
+    "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-01T10:28:38.946+08:00",
+    "observedAt": "2026-11-01T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-01T10:48:55.724+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026斯诺克国锦赛正式打响 卫冕冠军吴宜泽零封晋级",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724183.shtml",
-        "publishedAt": "2026-11-01T10:19:35.000+08:00"
+        "title": "2026年全国人口变动情况抽样调查来了！一图读懂→",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724190.shtml",
+        "publishedAt": "2026-11-01T10:38:40.000+08:00"
       },
       {
-        "title": "美国突发枪击 致1死2伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724165.shtml",
-        "publishedAt": "2026-11-01T10:17:29.000+08:00"
+        "title": "2026年世界城市日全球主场活动暨第四届全球可持续发展城市奖（上海奖）颁奖活动在福州举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724186.shtml",
+        "publishedAt": "2026-11-01T10:38:36.000+08:00"
       },
       {
-        "title": "桂北山村收稻忙 劳动场景与周边山水形成美丽画卷",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724170.shtml",
-        "publishedAt": "2026-11-01T10:15:33.000+08:00"
+        "title": "朝鲜进行重要武器系统威力评估试验",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724189.shtml",
+        "publishedAt": "2026-11-01T10:37:42.000+08:00"
       },
       {
-        "title": "AI危险吗？顶尖科学家在沪揭开“技术面纱”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724181.shtml",
-        "publishedAt": "2026-11-01T10:05:36.000+08:00"
+        "title": "史上最大IPO要来了？先别急着鼓掌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724185.shtml",
+        "publishedAt": "2026-11-01T10:34:32.000+08:00"
       },
       {
-        "title": "流感治疗药物一起吃，风险有多大？拿不准时务必咨询医生",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-01/10724180.shtml",
-        "publishedAt": "2026-11-01T10:02:24.000+08:00"
+        "title": "习近平主席特使、国家体育总局局长高志丹出席第四届青奥会开幕式",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724184.shtml",
+        "publishedAt": "2026-11-01T10:34:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T10:28:36.306+08:00",
+    "fetchedAt": "2026-11-01T10:48:52.703+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T10:28:36.810+08:00",
+      "fetchedAt": "2026-11-01T10:48:53.149+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T15:28:38.000+08:00"
+          "resetAt": "2026-11-01T15:48:54.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T10:28:36.812+08:00",
+      "fetchedAt": "2026-11-01T10:48:53.151+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T10:28:36.818+08:00",
+      "fetchedAt": "2026-11-01T10:48:53.157+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T10:28:36.818+08:00",
+      "fetchedAt": "2026-11-01T10:48:53.157+08:00",
       "error": "未启用",
       "disabled": true
     }
