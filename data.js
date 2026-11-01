@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T17:56:44.483+08:00",
+  "updatedAt": "2026-11-01T18:06:58.446+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 24.2,
-    "feelsLikeC": 27,
-    "humidity": 87,
-    "windKph": 14.1,
-    "windDir": "西风",
+    "tempC": 23.4,
+    "feelsLikeC": 26.2,
+    "humidity": 93,
+    "windKph": 15.5,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-01T17:56:44.483+08:00",
+    "observedAt": "2026-11-01T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-01T18:06:58.446+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "宁夏银川出台志愿服务促进条例 12月5日起正式施行",
+        "url": "https://www.chinanews.com.cn/mz/2026/11-01/10724373.shtml",
+        "publishedAt": "2026-11-01T17:58:12.000+08:00"
+      },
       {
         "title": "伊朗将英国海军和空军列为“恐怖组织”",
         "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724330.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "南昌宠物中医渐兴 中兽医拓展诊疗场景",
         "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724383.shtml",
         "publishedAt": "2026-11-01T17:45:25.000+08:00"
-      },
-      {
-        "title": "大湾区近千名徒步爱好者漫步广州“流溪林海”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724377.shtml",
-        "publishedAt": "2026-11-01T17:44:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T17:56:41.914+08:00",
+    "fetchedAt": "2026-11-01T18:06:55.986+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T17:56:42.688+08:00",
+      "fetchedAt": "2026-11-01T18:06:56.534+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-01T22:56:44.000+08:00"
+          "usedPct": 22,
+          "resetAt": "2026-11-01T22:58:12.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 20,
+          "usedPct": 23,
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T17:56:42.693+08:00",
+      "fetchedAt": "2026-11-01T18:06:56.535+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T17:56:42.702+08:00",
+      "fetchedAt": "2026-11-01T18:06:56.540+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T17:56:42.703+08:00",
+      "fetchedAt": "2026-11-01T18:06:56.541+08:00",
       "error": "未启用",
       "disabled": true
     }
