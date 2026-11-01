@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-01T09:37:50.600+08:00",
+  "updatedAt": "2026-11-01T09:48:01.101+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 28.8,
-    "feelsLikeC": 28.6,
-    "humidity": 47,
-    "windKph": 16.7,
+    "tempC": 29.2,
+    "feelsLikeC": 28.9,
+    "humidity": 46,
+    "windKph": 17.5,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-01T09:37:50.600+08:00",
+    "observedAt": "2026-11-01T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-01T09:48:01.101+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "澜湄六国50余名青年共赴“云南之约” 以镜头定格普洱之美",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-01/10724152.shtml",
-        "publishedAt": "2026-11-01T09:34:24.000+08:00"
+        "title": "（寻味中华丨艺林）蒙古族四胡弦音叙说草原故事",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724168.shtml",
+        "publishedAt": "2026-11-01T09:43:59.000+08:00"
       },
       {
-        "title": "2026扬州高邮大运河半程马拉松鸣枪 5000名跑者畅跑“一湖两河三堤”",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724163.shtml",
-        "publishedAt": "2026-11-01T09:33:44.000+08:00"
+        "title": "超400家单位参展 今年中国国际教育展规模创五年来新高",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724172.shtml",
+        "publishedAt": "2026-11-01T09:39:43.000+08:00"
       },
       {
-        "title": "168名选手齐聚农科城 陕西省群众网球公开赛杨凌挥拍开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724166.shtml",
-        "publishedAt": "2026-11-01T09:32:28.000+08:00"
+        "title": "他们心中的长征，他们脚下的路",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724169.shtml",
+        "publishedAt": "2026-11-01T09:37:41.000+08:00"
       },
       {
-        "title": "妈祖故里湄洲岛上演湄洲女发髻技艺秀",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724146.shtml",
-        "publishedAt": "2026-11-01T09:31:56.000+08:00"
+        "title": "以为在养生，其实在养结节！蒲公英泡水、忍着不叹气……你中了几条？",
+        "url": "https://www.chinanews.com.cn/life/2026/11-01/10724171.shtml",
+        "publishedAt": "2026-11-01T09:36:02.000+08:00"
       },
       {
-        "title": "广西平乐县“泳动广西·畅游漓江”活动启幕 千名泳者畅游漓江",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724154.shtml",
-        "publishedAt": "2026-11-01T09:30:14.000+08:00"
+        "title": "促科技与产业创新深度融合 中国科学院广东实践“粤来粤有”经验",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724164.shtml",
+        "publishedAt": "2026-11-01T09:35:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T09:37:48.245+08:00",
+    "fetchedAt": "2026-11-01T09:47:58.871+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T09:37:48.699+08:00",
+      "fetchedAt": "2026-11-01T09:47:59.332+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-01T14:37:50.000+08:00"
+          "resetAt": "2026-11-01T14:48:00.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T09:37:48.702+08:00",
+      "fetchedAt": "2026-11-01T09:47:59.334+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T09:37:48.707+08:00",
+      "fetchedAt": "2026-11-01T09:47:59.339+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T09:37:48.707+08:00",
+      "fetchedAt": "2026-11-01T09:47:59.340+08:00",
       "error": "未启用",
       "disabled": true
     }
