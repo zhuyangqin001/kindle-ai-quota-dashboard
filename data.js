@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T14:02:12.500+08:00",
+  "updatedAt": "2026-11-01T14:12:22.483+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-01T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T14:02:12.500+08:00",
+    "fetchedAt": "2026-11-01T14:12:22.483+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "八旬台属李泽曾述说“两岸家书抵万金”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724262.shtml",
+        "publishedAt": "2026-11-01T13:59:13.000+08:00"
+      },
+      {
+        "title": "2026贺州半程马拉松举行 近万名选手参赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724271.shtml",
+        "publishedAt": "2026-11-01T13:57:37.000+08:00"
+      },
       {
         "title": "一块糖串起沪港老街对话 上海探索城市微更新",
         "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724270.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "秋意浓 河北民众踏秋赏景",
         "url": "https://www.chinanews.com.cn/tp/2026/11-01/10724240.shtml",
         "publishedAt": "2026-11-01T13:47:54.000+08:00"
-      },
-      {
-        "title": "芹菜降压、苦瓜降糖、大蒜抗癌？识破食物功效神化的套路！",
-        "url": "https://www.chinanews.com.cn/life/2026/11-01/10724269.shtml",
-        "publishedAt": "2026-11-01T13:47:44.000+08:00"
-      },
-      {
-        "title": "特朗普：美国在伊朗仍需处理一两个目标，包括镐山核设施",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724256.shtml",
-        "publishedAt": "2026-11-01T13:47:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T14:02:10.254+08:00",
+    "fetchedAt": "2026-11-01T14:12:20.279+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T14:02:10.726+08:00",
+      "fetchedAt": "2026-11-01T14:12:20.734+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T14:02:10.729+08:00",
+      "fetchedAt": "2026-11-01T14:12:20.737+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T14:02:10.735+08:00",
+      "fetchedAt": "2026-11-01T14:12:20.742+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T14:02:10.735+08:00",
+      "fetchedAt": "2026-11-01T14:12:20.743+08:00",
       "error": "未启用",
       "disabled": true
     }
