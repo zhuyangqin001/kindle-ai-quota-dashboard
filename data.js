@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-01T18:06:58.446+08:00",
+  "updatedAt": "2026-11-01T18:17:10.348+08:00",
   "weather": {
     "ok": true,
-    "description": "阵雨",
+    "description": "雨",
     "iconKey": "rain",
-    "tempC": 23.4,
-    "feelsLikeC": 26.2,
-    "humidity": 93,
-    "windKph": 15.5,
+    "tempC": 22.9,
+    "feelsLikeC": 25.4,
+    "humidity": 95,
+    "windKph": 16.7,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-01T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-01T18:06:58.446+08:00",
+    "observedAt": "2026-11-01T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-01T18:17:10.348+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "宁夏银川出台志愿服务促进条例 12月5日起正式施行",
-        "url": "https://www.chinanews.com.cn/mz/2026/11-01/10724373.shtml",
-        "publishedAt": "2026-11-01T17:58:12.000+08:00"
+        "title": "“利刃-2026”陆军反恐联合训练进入实装实操阶段",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724404.shtml",
+        "publishedAt": "2026-11-01T18:15:46.000+08:00"
       },
       {
-        "title": "伊朗将英国海军和空军列为“恐怖组织”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724330.shtml",
-        "publishedAt": "2026-11-01T17:47:41.000+08:00"
+        "title": "直播海报：千年泰山石阶 迎来机器人“铁腿”闯关!",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724403.shtml",
+        "publishedAt": "2026-11-01T18:14:24.000+08:00"
       },
       {
-        "title": "2026年中国轮滑（自由式轮滑）公开赛（上海嘉定站）落幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724376.shtml",
-        "publishedAt": "2026-11-01T17:46:53.000+08:00"
+        "title": "青岛就熏硫白芷相关问题依法立案调查",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724402.shtml",
+        "publishedAt": "2026-11-01T18:12:26.000+08:00"
       },
       {
-        "title": "美国特拉华大学附近突发枪击事件",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724328.shtml",
-        "publishedAt": "2026-11-01T17:46:05.000+08:00"
+        "title": "内蒙古六旬妇女巴图其其格：她把蒙古族头饰缝“大”了",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-01/10724398.shtml",
+        "publishedAt": "2026-11-01T18:10:58.000+08:00"
       },
       {
-        "title": "南昌宠物中医渐兴 中兽医拓展诊疗场景",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724383.shtml",
-        "publishedAt": "2026-11-01T17:45:25.000+08:00"
+        "title": "“角逐未来”长三角青少年足球联赛收官 上海队包揽男女组冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-01/10724394.shtml",
+        "publishedAt": "2026-11-01T18:10:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-01T18:06:55.986+08:00",
+    "fetchedAt": "2026-11-01T18:17:08.164+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-01T18:06:56.534+08:00",
+      "fetchedAt": "2026-11-01T18:17:08.535+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 22,
+          "usedPct": 46,
           "resetAt": "2026-11-01T22:58:12.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 23,
+          "usedPct": 27,
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-01T18:06:56.535+08:00",
+      "fetchedAt": "2026-11-01T18:17:08.537+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T18:06:56.540+08:00",
+      "fetchedAt": "2026-11-01T18:17:08.542+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-01T18:06:56.541+08:00",
+      "fetchedAt": "2026-11-01T18:17:08.542+08:00",
       "error": "未启用",
       "disabled": true
     }
