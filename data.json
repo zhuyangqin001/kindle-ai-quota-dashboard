@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T07:33:28.557+08:00",
+  "updatedAt": "2026-11-03T07:43:42.265+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-03T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T07:33:28.557+08:00",
+    "fetchedAt": "2026-11-03T07:43:42.266+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "控制食量可减轻慢性炎症 3种方法帮你抗炎抗衰减重",
+        "url": "https://www.chinanews.com.cn/life/2026/11-03/10725095.shtml",
+        "publishedAt": "2026-11-03T07:33:07.000+08:00"
+      },
+      {
+        "title": "【乌镇“网事”】习言道｜让更多国家和人民共享互联网发展成果",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725089.shtml",
+        "publishedAt": "2026-11-03T07:30:47.000+08:00"
+      },
       {
         "title": "朝中社：朝鲜导弹总局进行重要武器系统试验",
         "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725093.shtml",
@@ -33,19 +43,9 @@
         "title": "11月3日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-03/10725088.shtml",
         "publishedAt": "2026-11-03T06:55:19.000+08:00"
-      },
-      {
-        "title": "特朗普：美伊正在对话，“不急于”决定是否重启对伊战事",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725087.shtml",
-        "publishedAt": "2026-11-03T06:53:20.000+08:00"
-      },
-      {
-        "title": "英国探险家历时28年徒步环球终返家乡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725086.shtml",
-        "publishedAt": "2026-11-03T06:52:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T07:33:25.740+08:00",
+    "fetchedAt": "2026-11-03T07:43:39.384+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T07:33:26.446+08:00",
+      "fetchedAt": "2026-11-03T07:43:40.113+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T12:33:28.000+08:00"
+          "resetAt": "2026-11-03T12:43:41.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T07:33:26.449+08:00",
+      "fetchedAt": "2026-11-03T07:43:40.116+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T07:33:26.459+08:00",
+      "fetchedAt": "2026-11-03T07:43:40.127+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T07:33:26.460+08:00",
+      "fetchedAt": "2026-11-03T07:43:40.127+08:00",
       "error": "未启用",
       "disabled": true
     }
