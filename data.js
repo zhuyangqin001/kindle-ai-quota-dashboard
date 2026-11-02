@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T17:16:42.616+08:00",
+  "updatedAt": "2026-11-02T17:26:56.700+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-02T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-02T17:16:42.616+08:00",
+    "fetchedAt": "2026-11-02T17:26:56.700+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "俄罗斯学子习中文：“我们喜欢中国”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724813.shtml",
+        "publishedAt": "2026-11-02T17:16:26.000+08:00"
+      },
+      {
+        "title": "重庆云阳打造中国复眼科教城",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724844.shtml",
+        "publishedAt": "2026-11-02T17:15:02.000+08:00"
+      },
+      {
+        "title": "世界一级方程式赛车锦标赛（F1）墨西哥大奖赛：维斯塔潘夺冠",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209516.shtml",
+        "publishedAt": "2026-11-02T17:14:21.000+08:00"
+      },
+      {
+        "title": "现代评剧《人世间》在京首演",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724842.shtml",
+        "publishedAt": "2026-11-02T17:14:15.000+08:00"
+      },
+      {
         "title": "央行将于明日开展证券、基金、保险公司互换便利操作 互换期限1年",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724848.shtml",
         "publishedAt": "2026-11-02T17:08:15.000+08:00"
-      },
-      {
-        "title": "三亚开启国际传播共创季 邀全球创作者来采风创作",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724838.shtml",
-        "publishedAt": "2026-11-02T17:06:53.000+08:00"
-      },
-      {
-        "title": "紧扣封关运作需求 海南“九五”普法规划增设涉外法治宣传",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724834.shtml",
-        "publishedAt": "2026-11-02T17:06:15.000+08:00"
-      },
-      {
-        "title": "广东油茶进入采摘高峰期 市场购销两旺",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724835.shtml",
-        "publishedAt": "2026-11-02T17:06:03.000+08:00"
-      },
-      {
-        "title": "“鸟中国宝”东方白鹳成群现身吉林松花江流域",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724840.shtml",
-        "publishedAt": "2026-11-02T17:04:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T17:16:39.950+08:00",
+    "fetchedAt": "2026-11-02T17:26:52.145+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T17:16:40.649+08:00",
+      "fetchedAt": "2026-11-02T17:26:52.672+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T17:16:40.652+08:00",
+      "fetchedAt": "2026-11-02T17:26:52.673+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T17:16:40.662+08:00",
+      "fetchedAt": "2026-11-02T17:26:52.679+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T17:16:40.662+08:00",
+      "fetchedAt": "2026-11-02T17:26:52.679+08:00",
       "error": "未启用",
       "disabled": true
     }
