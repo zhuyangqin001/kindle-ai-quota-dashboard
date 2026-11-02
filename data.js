@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T22:33:06.206+08:00",
+  "updatedAt": "2026-11-02T22:43:18.690+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-02T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T22:33:06.206+08:00",
+    "fetchedAt": "2026-11-02T22:43:18.690+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "李干杰受中共中央委托向党外人士通报中共二十届五中全会精神",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10725065.shtml",
+        "publishedAt": "2026-11-02T22:33:23.000+08:00"
+      },
+      {
+        "title": "警用智能装备亮相浙江乌镇 “空地网”筑牢安全防线",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725067.shtml",
+        "publishedAt": "2026-11-02T22:32:39.000+08:00"
+      },
       {
         "title": "十四届全国人大常委会第二十五次会议在京举行 审议检察公益诉讼法草案、水法修订草案等 赵乐际主持",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10725066.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "证监会：在风险总体可控的基础上，适度释放融资空间",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725063.shtml",
         "publishedAt": "2026-11-02T22:14:38.000+08:00"
-      },
-      {
-        "title": "道地药材县域突围，广东德庆县南药总产值达40.74亿元",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725058.shtml",
-        "publishedAt": "2026-11-02T22:14:26.000+08:00"
-      },
-      {
-        "title": "海南多部门细化全岛封关运作有关管理事项",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725057.shtml",
-        "publishedAt": "2026-11-02T22:14:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T22:33:02.655+08:00",
+    "fetchedAt": "2026-11-02T22:43:15.928+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T22:33:03.381+08:00",
+      "fetchedAt": "2026-11-02T22:43:16.660+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T03:33:05.000+08:00"
+          "resetAt": "2026-11-03T03:43:18.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T22:33:03.384+08:00",
+      "fetchedAt": "2026-11-02T22:43:16.664+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T22:33:03.395+08:00",
+      "fetchedAt": "2026-11-02T22:43:16.674+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T22:33:03.395+08:00",
+      "fetchedAt": "2026-11-02T22:43:16.674+08:00",
       "error": "未启用",
       "disabled": true
     }
