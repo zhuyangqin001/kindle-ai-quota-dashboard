@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T20:51:08.299+08:00",
+  "updatedAt": "2026-11-02T21:01:22.238+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.8,
-    "feelsLikeC": 18.9,
+    "tempC": 19.7,
+    "feelsLikeC": 18.8,
     "humidity": 63,
-    "windKph": 11.4,
+    "windKph": 11.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-02T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-02T20:51:08.299+08:00",
+    "observedAt": "2026-11-02T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-02T21:01:22.238+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "让当事人“胜败皆明” 海南法院规划“全流程”释法图景",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724905.shtml",
-        "publishedAt": "2026-11-02T20:44:05.000+08:00"
+        "title": "黄河干流海拔最高水电站年累计发电量创历史新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724917.shtml",
+        "publishedAt": "2026-11-02T20:49:33.000+08:00"
       },
       {
-        "title": "松花江同江段进入流冰期 较去年提前6天",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724904.shtml",
-        "publishedAt": "2026-11-02T20:42:31.000+08:00"
+        "title": "浙江三澳核电项目2号机组完成首次核燃料装载",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724916.shtml",
+        "publishedAt": "2026-11-02T20:49:01.000+08:00"
       },
       {
-        "title": "2026年世界（广西）林木业大会将在南宁举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724903.shtml",
-        "publishedAt": "2026-11-02T20:42:05.000+08:00"
+        "title": "祁连山下绿叶子漂洋过海变“金票子”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724908.shtml",
+        "publishedAt": "2026-11-02T20:48:23.000+08:00"
       },
       {
-        "title": "中国时尚体育季(珠海站)两大核心赛事落幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724923.shtml",
-        "publishedAt": "2026-11-02T20:41:11.000+08:00"
+        "title": "东西问丨世界“桥见中国”：不止于“基建狂魔”",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-02/10724949.shtml",
+        "publishedAt": "2026-11-02T20:47:45.000+08:00"
       },
       {
-        "title": "体育科普中国行南京站举办 促优质资源下基层服务群众",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724901.shtml",
-        "publishedAt": "2026-11-02T20:41:05.000+08:00"
+        "title": "联邦政府预算分歧难弥合，比利时首相递交辞呈",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724996.shtml",
+        "publishedAt": "2026-11-02T20:46:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T20:51:04.352+08:00",
+    "fetchedAt": "2026-11-02T21:01:18.053+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T20:51:05.051+08:00",
+      "fetchedAt": "2026-11-02T21:01:18.780+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T01:51:07.000+08:00"
+          "resetAt": "2026-11-03T02:01:21.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T20:51:05.054+08:00",
+      "fetchedAt": "2026-11-02T21:01:18.784+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T20:51:05.064+08:00",
+      "fetchedAt": "2026-11-02T21:01:18.794+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T20:51:05.065+08:00",
+      "fetchedAt": "2026-11-02T21:01:18.794+08:00",
       "error": "未启用",
       "disabled": true
     }
