@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:30:37.662+08:00",
+  "updatedAt": "2026-11-02T20:40:54.546+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-02T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T20:30:37.662+08:00",
+    "fetchedAt": "2026-11-02T20:40:54.546+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "追忆中国留学生蒋安桐：澳大利亚海滩舍己救人，三年后被追授“英勇行为嘉奖”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724893.shtml",
+        "publishedAt": "2026-11-02T20:26:54.000+08:00"
+      },
+      {
+        "title": "中国央行将开展证券、基金、保险公司互换便利第三次操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724935.shtml",
+        "publishedAt": "2026-11-02T20:26:10.000+08:00"
+      },
+      {
+        "title": "山川湖海间，外籍学者在闽读懂绿色中国",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724891.shtml",
+        "publishedAt": "2026-11-02T20:25:34.000+08:00"
+      },
       {
         "title": "特写：浙江安吉，“大山精灵”渐复生机",
         "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724906.shtml",
@@ -28,24 +43,9 @@
         "title": "聚焦民营企业代际传承问题 报告建议提高风险抵御能力",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724890.shtml",
         "publishedAt": "2026-11-02T20:24:30.000+08:00"
-      },
-      {
-        "title": "为逾30万张黑胶唱片“安家”——专访香港“黑胶养父”欧德成",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10724882.shtml",
-        "publishedAt": "2026-11-02T20:24:02.000+08:00"
-      },
-      {
-        "title": "投资灌溉水利如何兼顾节水与粮食安全？最新研究提出中国路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724886.shtml",
-        "publishedAt": "2026-11-02T20:13:57.000+08:00"
-      },
-      {
-        "title": "湖北美食襄阳牛肉面串联起完整产业链",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724881.shtml",
-        "publishedAt": "2026-11-02T20:09:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T20:30:32.071+08:00",
+    "fetchedAt": "2026-11-02T20:40:51.373+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T20:30:32.818+08:00",
+      "fetchedAt": "2026-11-02T20:40:52.107+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T01:30:37.000+08:00"
+          "resetAt": "2026-11-03T01:40:54.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 42,
-          "resetAt": "2026-11-07T15:04:02.000+08:00"
+          "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T20:30:32.821+08:00",
+      "fetchedAt": "2026-11-02T20:40:52.110+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T20:30:32.831+08:00",
+      "fetchedAt": "2026-11-02T20:40:52.121+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T20:30:32.831+08:00",
+      "fetchedAt": "2026-11-02T20:40:52.121+08:00",
       "error": "未启用",
       "disabled": true
     }
