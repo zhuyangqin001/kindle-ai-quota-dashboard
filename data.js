@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T06:32:14.574+08:00",
+  "updatedAt": "2026-11-03T06:42:27.060+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-03T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T06:32:14.574+08:00",
+    "fetchedAt": "2026-11-03T06:42:27.060+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国中期选举将正式开选：“蓝潮将至”？还是共和党打破“选举魔咒”？",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725081.shtml",
+        "publishedAt": "2026-11-03T06:35:18.000+08:00"
+      },
       {
         "title": "冰箱变烤箱 欧洲多国超市冷柜再遭网络攻击",
         "url": "https://www.chinanews.com.cn/gj/2026/11-02/10725080.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "多项创新成果亮相香港金融科技周",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10725077.shtml",
         "publishedAt": "2026-11-02T23:39:40.000+08:00"
-      },
-      {
-        "title": "权威发布！全国十佳新闻工作者LOGO",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725076.shtml",
-        "publishedAt": "2026-11-02T23:11:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T06:32:12.021+08:00",
+    "fetchedAt": "2026-11-03T06:42:24.276+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T06:32:12.696+08:00",
+      "fetchedAt": "2026-11-03T06:42:24.989+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T11:32:14.000+08:00"
+          "resetAt": "2026-11-03T11:42:26.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T06:32:12.699+08:00",
+      "fetchedAt": "2026-11-03T06:42:24.992+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T06:32:12.710+08:00",
+      "fetchedAt": "2026-11-03T06:42:25.002+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T06:32:12.710+08:00",
+      "fetchedAt": "2026-11-03T06:42:25.003+08:00",
       "error": "未启用",
       "disabled": true
     }
