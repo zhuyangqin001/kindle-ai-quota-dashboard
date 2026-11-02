@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T18:17:58.289+08:00",
+  "updatedAt": "2026-11-02T18:28:14.104+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-02T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-02T18:17:58.289+08:00",
+    "fetchedAt": "2026-11-02T18:28:14.104+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（第九届进博会）前瞻：进博会“剧透”全球创新动向",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724900.shtml",
+        "publishedAt": "2026-11-02T18:17:57.000+08:00"
+      },
+      {
+        "title": "敦煌莫高窟连续50年“零火灾”，怎么做到的？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724899.shtml",
+        "publishedAt": "2026-11-02T18:14:21.000+08:00"
+      },
+      {
+        "title": "习近平同秘鲁总统藤森庆子就中秘建交55周年互致贺电",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724885.shtml",
+        "publishedAt": "2026-11-02T18:12:13.000+08:00"
+      },
       {
         "title": "持续整治“AI魔改” 10月清理违规视频1.1万余条",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724895.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "肯尼亚风情绽放“丝路艺术家驻留计划”成都站",
         "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724852.shtml",
         "publishedAt": "2026-11-02T17:59:40.000+08:00"
-      },
-      {
-        "title": "哈啰顺风车与华为鸿蒙达成合作：双端布局鸿蒙生态，出行体验再升级",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724850.shtml",
-        "publishedAt": "2026-11-02T17:57:40.000+08:00"
-      },
-      {
-        "title": "吉林省自然资源厅原党组书记、厅长李相国接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724869.shtml",
-        "publishedAt": "2026-11-02T17:55:08.000+08:00"
-      },
-      {
-        "title": "主要政策利率切换启动 中国央行开展5410亿元隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724883.shtml",
-        "publishedAt": "2026-11-02T17:46:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T18:17:55.452+08:00",
+    "fetchedAt": "2026-11-02T18:28:11.715+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T18:17:56.168+08:00",
+      "fetchedAt": "2026-11-02T18:28:12.167+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T18:17:56.170+08:00",
+      "fetchedAt": "2026-11-02T18:28:12.170+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T18:17:56.179+08:00",
+      "fetchedAt": "2026-11-02T18:28:12.180+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T18:17:56.180+08:00",
+      "fetchedAt": "2026-11-02T18:28:12.181+08:00",
       "error": "未启用",
       "disabled": true
     }
