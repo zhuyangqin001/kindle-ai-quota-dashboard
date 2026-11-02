@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T16:56:14.163+08:00",
+  "updatedAt": "2026-11-02T17:06:29.503+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.6,
-    "feelsLikeC": 23.6,
-    "humidity": 62,
-    "windKph": 3.6,
-    "windDir": "北风",
+    "tempC": 22.4,
+    "feelsLikeC": 23.5,
+    "humidity": 63,
+    "windKph": 3.7,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-02T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-02T16:56:14.163+08:00",
+    "observedAt": "2026-11-02T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-02T17:06:29.503+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "沙漠里的绿色能源——中企助力阿联酋低碳转型",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724827.shtml",
-        "publishedAt": "2026-11-02T16:51:28.000+08:00"
+        "title": "举重世锦赛：裴鑫依摘得三金 刷新两项世界纪录",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724831.shtml",
+        "publishedAt": "2026-11-02T17:02:05.000+08:00"
       },
       {
-        "title": "中使馆再次提醒在瑞典中国公民切勿拍摄敏感设施及人员",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-02/10724818.shtml",
-        "publishedAt": "2026-11-02T16:49:06.000+08:00"
+        "title": "直播海报：国家发改委就培育壮大新动能有关情况举行新闻发布会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724839.shtml",
+        "publishedAt": "2026-11-02T17:02:01.000+08:00"
       },
       {
-        "title": "开放、创新、赋能——世界眼中的“中国机遇2.0”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724824.shtml",
-        "publishedAt": "2026-11-02T16:48:54.000+08:00"
+        "title": "海昏侯国遗址公园面向全球学子推出背《论语》免门票活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724817.shtml",
+        "publishedAt": "2026-11-02T17:02:01.000+08:00"
       },
       {
-        "title": "阿曼各界：阿曼苏丹海赛姆访华将为两国关系开辟新机遇",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724822.shtml",
-        "publishedAt": "2026-11-02T16:47:06.000+08:00"
+        "title": "从“影子价格”到定价基准 “上海价格”加速走向世界",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724811.shtml",
+        "publishedAt": "2026-11-02T17:01:33.000+08:00"
       },
       {
-        "title": "外交部：中方愿同各方一道 为世界稳定与繁荣提供更多确定性",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724795.shtml",
-        "publishedAt": "2026-11-02T16:44:38.000+08:00"
+        "title": "川台主播搭档直播 助两岸特色商品双向流通",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-02/10724810.shtml",
+        "publishedAt": "2026-11-02T17:00:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T16:56:08.714+08:00",
+    "fetchedAt": "2026-11-02T17:06:23.389+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T16:56:09.442+08:00",
+      "fetchedAt": "2026-11-02T17:06:23.997+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T16:56:09.445+08:00",
+      "fetchedAt": "2026-11-02T17:06:24.000+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T16:56:09.457+08:00",
+      "fetchedAt": "2026-11-02T17:06:24.008+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T16:56:09.457+08:00",
+      "fetchedAt": "2026-11-02T17:06:24.008+08:00",
       "error": "未启用",
       "disabled": true
     }
