@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T21:01:22.238+08:00",
+  "updatedAt": "2026-11-02T21:11:34.102+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-02T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T21:01:22.238+08:00",
+    "fetchedAt": "2026-11-02T21:11:34.103+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "黄河干流海拔最高水电站年累计发电量创历史新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724917.shtml",
-        "publishedAt": "2026-11-02T20:49:33.000+08:00"
+        "title": "英国内政部在重点街区启动反持刀犯罪行动",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724918.shtml",
+        "publishedAt": "2026-11-02T21:04:54.000+08:00"
       },
       {
-        "title": "浙江三澳核电项目2号机组完成首次核燃料装载",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724916.shtml",
-        "publishedAt": "2026-11-02T20:49:01.000+08:00"
+        "title": "“白色精灵”如约栖息新疆天鹅湾",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724965.shtml",
+        "publishedAt": "2026-11-02T21:04:28.000+08:00"
       },
       {
-        "title": "祁连山下绿叶子漂洋过海变“金票子”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724908.shtml",
-        "publishedAt": "2026-11-02T20:48:23.000+08:00"
+        "title": "苏俊涛/刘莉莉海岸赛艇摘金 夺得中国代表团达喀尔青奥会首金",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10725009.shtml",
+        "publishedAt": "2026-11-02T21:03:32.000+08:00"
       },
       {
-        "title": "东西问丨世界“桥见中国”：不止于“基建狂魔”",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-02/10724949.shtml",
-        "publishedAt": "2026-11-02T20:47:45.000+08:00"
+        "title": "（第九届进博会）九届“全勤生”再赴进博之约 跨国企业以本土创新回应中国需求",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725002.shtml",
+        "publishedAt": "2026-11-02T20:57:22.000+08:00"
       },
       {
-        "title": "联邦政府预算分歧难弥合，比利时首相递交辞呈",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724996.shtml",
-        "publishedAt": "2026-11-02T20:46:27.000+08:00"
+        "title": "（第九届进博会）AI赋能智慧监管 第九届进博会筑牢食安等多重防线",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725003.shtml",
+        "publishedAt": "2026-11-02T20:56:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T21:01:18.053+08:00",
+    "fetchedAt": "2026-11-02T21:11:31.155+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T21:01:18.780+08:00",
+      "fetchedAt": "2026-11-02T21:11:31.867+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T02:01:21.000+08:00"
+          "resetAt": "2026-11-03T02:11:33.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T21:01:18.784+08:00",
+      "fetchedAt": "2026-11-02T21:11:31.870+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T21:01:18.794+08:00",
+      "fetchedAt": "2026-11-02T21:11:31.880+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T21:01:18.794+08:00",
+      "fetchedAt": "2026-11-02T21:11:31.880+08:00",
       "error": "未启用",
       "disabled": true
     }
