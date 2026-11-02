@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T16:35:52.499+08:00",
+  "updatedAt": "2026-11-02T16:56:14.163+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.8,
-    "feelsLikeC": 23.8,
-    "humidity": 61,
-    "windKph": 3.8,
+    "tempC": 22.6,
+    "feelsLikeC": 23.6,
+    "humidity": 62,
+    "windKph": 3.6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-02T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T16:35:52.499+08:00",
+    "observedAt": "2026-11-02T16:45:00.000+08:00",
+    "fetchedAt": "2026-11-02T16:56:14.163+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "一批重大工程建设正酣 兜住民生幸福为经济发展积聚“硬支撑”底气",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724805.shtml",
-        "publishedAt": "2026-11-02T16:31:03.000+08:00"
+        "title": "沙漠里的绿色能源——中企助力阿联酋低碳转型",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724827.shtml",
+        "publishedAt": "2026-11-02T16:51:28.000+08:00"
       },
       {
-        "title": "带动消费、链接产业、融合文旅，进博会溢出效应在上海全城落地生长",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724804.shtml",
-        "publishedAt": "2026-11-02T16:28:01.000+08:00"
+        "title": "中使馆再次提醒在瑞典中国公民切勿拍摄敏感设施及人员",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-02/10724818.shtml",
+        "publishedAt": "2026-11-02T16:49:06.000+08:00"
       },
       {
-        "title": "候鸟翩飞、生态蝶变 黄河流域治理保护成绩单亮眼",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724803.shtml",
-        "publishedAt": "2026-11-02T16:24:45.000+08:00"
+        "title": "开放、创新、赋能——世界眼中的“中国机遇2.0”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724824.shtml",
+        "publishedAt": "2026-11-02T16:48:54.000+08:00"
       },
       {
-        "title": "统筹消费投资 畅通经济循环——从“十五五”专项规划看扩大内需着力点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724802.shtml",
-        "publishedAt": "2026-11-02T16:21:41.000+08:00"
+        "title": "阿曼各界：阿曼苏丹海赛姆访华将为两国关系开辟新机遇",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724822.shtml",
+        "publishedAt": "2026-11-02T16:47:06.000+08:00"
       },
       {
-        "title": "7天“剧本”套路聊天 揭秘“AI生成女友”网恋诈骗流水线",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724801.shtml",
-        "publishedAt": "2026-11-02T16:20:09.000+08:00"
+        "title": "外交部：中方愿同各方一道 为世界稳定与繁荣提供更多确定性",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724795.shtml",
+        "publishedAt": "2026-11-02T16:44:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T16:35:50.058+08:00",
+    "fetchedAt": "2026-11-02T16:56:08.714+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T16:35:50.791+08:00",
+      "fetchedAt": "2026-11-02T16:56:09.442+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T16:35:50.794+08:00",
+      "fetchedAt": "2026-11-02T16:56:09.445+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T16:35:50.804+08:00",
+      "fetchedAt": "2026-11-02T16:56:09.457+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T16:35:50.805+08:00",
+      "fetchedAt": "2026-11-02T16:56:09.457+08:00",
       "error": "未启用",
       "disabled": true
     }
