@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T07:13:03.391+08:00",
+  "updatedAt": "2026-11-03T07:23:16.801+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -10,8 +10,8 @@
     "windKph": 11.1,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T07:13:03.391+08:00",
+    "observedAt": "2026-11-03T07:15:00.000+08:00",
+    "fetchedAt": "2026-11-03T07:23:16.801+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "也门胡塞武装称塔伊兹省一市场遭袭 造成多人死伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725090.shtml",
+        "publishedAt": "2026-11-03T07:18:46.000+08:00"
+      },
       {
         "title": "11月3日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-03/10725088.shtml",
@@ -38,14 +43,9 @@
         "title": "英国推出新政：部分移民永居基准等候期上调至十年",
         "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725085.shtml",
         "publishedAt": "2026-11-03T06:51:36.000+08:00"
-      },
-      {
-        "title": "中美国家公园影像展在华盛顿举办",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725084.shtml",
-        "publishedAt": "2026-11-03T06:50:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T07:13:00.361+08:00",
+    "fetchedAt": "2026-11-03T07:23:14.060+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T07:13:01.127+08:00",
+      "fetchedAt": "2026-11-03T07:23:14.766+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T12:13:03.000+08:00"
+          "resetAt": "2026-11-03T12:23:16.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T07:13:01.131+08:00",
+      "fetchedAt": "2026-11-03T07:23:14.770+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T07:13:01.139+08:00",
+      "fetchedAt": "2026-11-03T07:23:14.780+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T07:13:01.139+08:00",
+      "fetchedAt": "2026-11-03T07:23:14.781+08:00",
       "error": "未启用",
       "disabled": true
     }
