@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-02T17:26:56.700+08:00",
+  "updatedAt": "2026-11-02T17:37:10.313+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.3,
+    "tempC": 22.1,
     "feelsLikeC": 23.4,
-    "humidity": 64,
-    "windKph": 3.6,
+    "humidity": 66,
+    "windKph": 3.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-02T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-02T17:26:56.700+08:00",
+    "observedAt": "2026-11-02T17:30:00.000+08:00",
+    "fetchedAt": "2026-11-02T17:37:10.313+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "俄罗斯学子习中文：“我们喜欢中国”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724813.shtml",
-        "publishedAt": "2026-11-02T17:16:26.000+08:00"
+        "title": "中国体育用品“圈粉”第140届广交会境外采购商",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724851.shtml",
+        "publishedAt": "2026-11-02T17:31:20.000+08:00"
       },
       {
-        "title": "重庆云阳打造中国复眼科教城",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724844.shtml",
-        "publishedAt": "2026-11-02T17:15:02.000+08:00"
+        "title": "习近平对进一步做好黄河保护治理工作作出重要指示",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724832.shtml",
+        "publishedAt": "2026-11-02T17:27:56.000+08:00"
       },
       {
-        "title": "世界一级方程式赛车锦标赛（F1）墨西哥大奖赛：维斯塔潘夺冠",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209516.shtml",
-        "publishedAt": "2026-11-02T17:14:21.000+08:00"
+        "title": "习近平同阿曼苏丹海赛姆会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724814.shtml",
+        "publishedAt": "2026-11-02T17:27:22.000+08:00"
       },
       {
-        "title": "现代评剧《人世间》在京首演",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724842.shtml",
-        "publishedAt": "2026-11-02T17:14:15.000+08:00"
+        "title": "印尼9月贸易顺差33.6亿美元 连续三个月保持顺差",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724812.shtml",
+        "publishedAt": "2026-11-02T17:27:18.000+08:00"
       },
       {
-        "title": "央行将于明日开展证券、基金、保险公司互换便利操作 互换期限1年",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724848.shtml",
-        "publishedAt": "2026-11-02T17:08:15.000+08:00"
+        "title": "原江苏省广电有线信息网络股份有限公司董事长姜龙接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724855.shtml",
+        "publishedAt": "2026-11-02T17:24:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T17:26:52.145+08:00",
+    "fetchedAt": "2026-11-02T17:37:06.990+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T17:26:52.672+08:00",
+      "fetchedAt": "2026-11-02T17:37:07.716+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T17:26:52.673+08:00",
+      "fetchedAt": "2026-11-02T17:37:07.719+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T17:26:52.679+08:00",
+      "fetchedAt": "2026-11-02T17:37:07.730+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T17:26:52.679+08:00",
+      "fetchedAt": "2026-11-02T17:37:07.730+08:00",
       "error": "未启用",
       "disabled": true
     }
