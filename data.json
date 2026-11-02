@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-02T21:11:34.102+08:00",
+  "updatedAt": "2026-11-02T21:21:48.307+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.7,
-    "feelsLikeC": 18.8,
+    "tempC": 19.5,
+    "feelsLikeC": 18.6,
     "humidity": 63,
-    "windKph": 11.1,
-    "windDir": "西北风",
+    "windKph": 10.7,
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-02T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T21:11:34.103+08:00",
+    "observedAt": "2026-11-02T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-02T21:21:48.307+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "英国内政部在重点街区启动反持刀犯罪行动",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724918.shtml",
-        "publishedAt": "2026-11-02T21:04:54.000+08:00"
+        "title": "李家超与教育部部长怀进鹏会面 冀深化香港内地高校科创交流",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10725017.shtml",
+        "publishedAt": "2026-11-02T21:20:35.000+08:00"
       },
       {
-        "title": "“白色精灵”如约栖息新疆天鹅湾",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724965.shtml",
-        "publishedAt": "2026-11-02T21:04:28.000+08:00"
+        "title": "国际统一私法协会秘书长：在香港设立亚太联络办正当其时",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10725018.shtml",
+        "publishedAt": "2026-11-02T21:19:55.000+08:00"
       },
       {
-        "title": "苏俊涛/刘莉莉海岸赛艇摘金 夺得中国代表团达喀尔青奥会首金",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10725009.shtml",
-        "publishedAt": "2026-11-02T21:03:32.000+08:00"
+        "title": "王毅会见伊朗最高国家安全委员会副秘书巴盖里",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724960.shtml",
+        "publishedAt": "2026-11-02T21:19:53.000+08:00"
       },
       {
-        "title": "（第九届进博会）九届“全勤生”再赴进博之约 跨国企业以本土创新回应中国需求",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725002.shtml",
-        "publishedAt": "2026-11-02T20:57:22.000+08:00"
+        "title": "英国数百雇主因非法欠薪遭处罚",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10725019.shtml",
+        "publishedAt": "2026-11-02T21:18:59.000+08:00"
       },
       {
-        "title": "（第九届进博会）AI赋能智慧监管 第九届进博会筑牢食安等多重防线",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725003.shtml",
-        "publishedAt": "2026-11-02T20:56:50.000+08:00"
+        "title": "王沪宁分别会见俄罗斯联邦委员会主席马特维延科、越南共产党代表团",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724973.shtml",
+        "publishedAt": "2026-11-02T21:18:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T21:11:31.155+08:00",
+    "fetchedAt": "2026-11-02T21:21:44.021+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T21:11:31.867+08:00",
+      "fetchedAt": "2026-11-02T21:21:44.677+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T02:11:33.000+08:00"
+          "resetAt": "2026-11-03T02:21:47.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T21:11:31.870+08:00",
+      "fetchedAt": "2026-11-02T21:21:44.680+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T21:11:31.880+08:00",
+      "fetchedAt": "2026-11-02T21:21:44.690+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T21:11:31.880+08:00",
+      "fetchedAt": "2026-11-02T21:21:44.690+08:00",
       "error": "未启用",
       "disabled": true
     }
