@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T06:52:39.919+08:00",
+  "updatedAt": "2026-11-03T07:02:51.059+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.8,
+    "tempC": 18.7,
     "feelsLikeC": 18.1,
     "humidity": 70,
-    "windKph": 10.9,
+    "windKph": 11.1,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T06:52:39.919+08:00",
+    "observedAt": "2026-11-03T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-03T07:02:51.059+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "特朗普：美伊正在对话，“不急于”决定是否重启对伊战事",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725087.shtml",
+        "publishedAt": "2026-11-03T06:53:20.000+08:00"
+      },
+      {
+        "title": "英国探险家历时28年徒步环球终返家乡",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725086.shtml",
+        "publishedAt": "2026-11-03T06:52:16.000+08:00"
+      },
+      {
+        "title": "英国推出新政：部分移民永居基准等候期上调至十年",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725085.shtml",
+        "publishedAt": "2026-11-03T06:51:36.000+08:00"
+      },
+      {
+        "title": "中美国家公园影像展在华盛顿举办",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725084.shtml",
+        "publishedAt": "2026-11-03T06:50:42.000+08:00"
+      },
+      {
         "title": "小心！向陌生小程序授予位置权限，行踪可能被悄悄定位",
         "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725083.shtml",
         "publishedAt": "2026-11-03T06:44:42.000+08:00"
-      },
-      {
-        "title": "高校学术讲坛，如何“叫好又叫座”",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725082.shtml",
-        "publishedAt": "2026-11-03T06:41:12.000+08:00"
-      },
-      {
-        "title": "美国中期选举将正式开选：“蓝潮将至”？还是共和党打破“选举魔咒”？",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725081.shtml",
-        "publishedAt": "2026-11-03T06:35:18.000+08:00"
-      },
-      {
-        "title": "冰箱变烤箱 欧洲多国超市冷柜再遭网络攻击",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10725080.shtml",
-        "publishedAt": "2026-11-02T23:56:53.000+08:00"
-      },
-      {
-        "title": "西藏那曲市巴青县发生4.2级地震",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725079.shtml",
-        "publishedAt": "2026-11-02T23:49:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T06:52:37.314+08:00",
+    "fetchedAt": "2026-11-03T07:02:48.889+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T06:52:38.011+08:00",
+      "fetchedAt": "2026-11-03T07:02:49.351+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T11:52:39.000+08:00"
+          "resetAt": "2026-11-03T12:02:50.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T06:52:38.014+08:00",
+      "fetchedAt": "2026-11-03T07:02:49.353+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T06:52:38.023+08:00",
+      "fetchedAt": "2026-11-03T07:02:49.361+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T06:52:38.023+08:00",
+      "fetchedAt": "2026-11-03T07:02:49.361+08:00",
       "error": "未启用",
       "disabled": true
     }
