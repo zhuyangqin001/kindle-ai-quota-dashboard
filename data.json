@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-02T19:39:36.911+08:00",
+  "updatedAt": "2026-11-02T19:49:49.424+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21,
-    "feelsLikeC": 20.8,
-    "humidity": 66,
-    "windKph": 11.2,
+    "tempC": 20.8,
+    "feelsLikeC": 20.3,
+    "humidity": 65,
+    "windKph": 11.7,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-02T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T19:39:36.911+08:00",
+    "observedAt": "2026-11-02T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-02T19:49:49.424+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "坚定信心，夯实资本市场稳定运行的根基",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724931.shtml",
+        "publishedAt": "2026-11-02T19:35:45.000+08:00"
+      },
       {
         "title": "安徽省人大常委会教育科学文化卫生工委原主任叶露中被“双开”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724878.shtml",
@@ -38,14 +43,9 @@
         "title": "“乌镇七子”书写县域经济发展新答卷",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724921.shtml",
         "publishedAt": "2026-11-02T19:21:08.000+08:00"
-      },
-      {
-        "title": "习近平总书记关心推动黄河流域生态保护和高质量发展纪实",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724892.shtml",
-        "publishedAt": "2026-11-02T19:16:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T19:39:31.515+08:00",
+    "fetchedAt": "2026-11-02T19:49:46.059+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T19:39:32.242+08:00",
+      "fetchedAt": "2026-11-02T19:49:46.792+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 35,
-          "resetAt": "2026-11-02T19:48:20.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-03T00:49:48.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T19:39:32.245+08:00",
+      "fetchedAt": "2026-11-02T19:49:46.795+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T19:39:32.255+08:00",
+      "fetchedAt": "2026-11-02T19:49:46.805+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T19:39:32.256+08:00",
+      "fetchedAt": "2026-11-02T19:49:46.806+08:00",
       "error": "未启用",
       "disabled": true
     }
