@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T06:42:27.060+08:00",
+  "updatedAt": "2026-11-03T06:52:39.919+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.8,
-    "feelsLikeC": 18.2,
+    "feelsLikeC": 18.1,
     "humidity": 70,
-    "windKph": 10.5,
+    "windKph": 10.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T06:42:27.060+08:00",
+    "observedAt": "2026-11-03T06:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T06:52:39.919+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "小心！向陌生小程序授予位置权限，行踪可能被悄悄定位",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725083.shtml",
+        "publishedAt": "2026-11-03T06:44:42.000+08:00"
+      },
+      {
+        "title": "高校学术讲坛，如何“叫好又叫座”",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725082.shtml",
+        "publishedAt": "2026-11-03T06:41:12.000+08:00"
+      },
       {
         "title": "美国中期选举将正式开选：“蓝潮将至”？还是共和党打破“选举魔咒”？",
         "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725081.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "西藏那曲市巴青县发生4.2级地震",
         "url": "https://www.chinanews.com.cn/sh/2026/11-02/10725079.shtml",
         "publishedAt": "2026-11-02T23:49:31.000+08:00"
-      },
-      {
-        "title": "港交所扩大人民币债券抵押品适用范围 首日抵押总值超4亿元人民币",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725078.shtml",
-        "publishedAt": "2026-11-02T23:40:28.000+08:00"
-      },
-      {
-        "title": "多项创新成果亮相香港金融科技周",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10725077.shtml",
-        "publishedAt": "2026-11-02T23:39:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T06:42:24.276+08:00",
+    "fetchedAt": "2026-11-03T06:52:37.314+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T06:42:24.989+08:00",
+      "fetchedAt": "2026-11-03T06:52:38.011+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T11:42:26.000+08:00"
+          "resetAt": "2026-11-03T11:52:39.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T06:42:24.992+08:00",
+      "fetchedAt": "2026-11-03T06:52:38.014+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T06:42:25.002+08:00",
+      "fetchedAt": "2026-11-03T06:52:38.023+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T06:42:25.003+08:00",
+      "fetchedAt": "2026-11-03T06:52:38.023+08:00",
       "error": "未启用",
       "disabled": true
     }
