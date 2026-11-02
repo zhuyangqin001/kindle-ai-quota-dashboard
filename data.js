@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T17:37:10.313+08:00",
+  "updatedAt": "2026-11-02T17:47:26.952+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.1,
-    "feelsLikeC": 23.4,
-    "humidity": 66,
-    "windKph": 3.4,
+    "tempC": 21.9,
+    "feelsLikeC": 23.3,
+    "humidity": 68,
+    "windKph": 3.3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-02T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T17:37:10.313+08:00",
+    "observedAt": "2026-11-02T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-02T17:47:26.953+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国体育用品“圈粉”第140届广交会境外采购商",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724851.shtml",
-        "publishedAt": "2026-11-02T17:31:20.000+08:00"
+        "title": "菊花精品汇聚南京争奇斗艳",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724870.shtml",
+        "publishedAt": "2026-11-02T17:40:05.000+08:00"
       },
       {
-        "title": "习近平对进一步做好黄河保护治理工作作出重要指示",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724832.shtml",
-        "publishedAt": "2026-11-02T17:27:56.000+08:00"
+        "title": "中国最大咖啡产地云南普洱迎来采收季",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724862.shtml",
+        "publishedAt": "2026-11-02T17:37:27.000+08:00"
       },
       {
-        "title": "习近平同阿曼苏丹海赛姆会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724814.shtml",
-        "publishedAt": "2026-11-02T17:27:22.000+08:00"
+        "title": "河南镇平现“金光照雾海”景观",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724858.shtml",
+        "publishedAt": "2026-11-02T17:34:49.000+08:00"
       },
       {
-        "title": "印尼9月贸易顺差33.6亿美元 连续三个月保持顺差",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724812.shtml",
-        "publishedAt": "2026-11-02T17:27:18.000+08:00"
+        "title": "王毅会见伊朗最高国家安全委员会副秘书巴盖里",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724856.shtml",
+        "publishedAt": "2026-11-02T17:34:19.000+08:00"
       },
       {
-        "title": "原江苏省广电有线信息网络股份有限公司董事长姜龙接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724855.shtml",
-        "publishedAt": "2026-11-02T17:24:28.000+08:00"
+        "title": "遗憾止步世界杯八强 U17“铿锵小玫瑰”带着成长与信心离场",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724854.shtml",
+        "publishedAt": "2026-11-02T17:34:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T17:37:06.990+08:00",
+    "fetchedAt": "2026-11-02T17:47:20.738+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T17:37:07.716+08:00",
+      "fetchedAt": "2026-11-02T17:47:21.373+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T17:37:07.719+08:00",
+      "fetchedAt": "2026-11-02T17:47:21.376+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T17:37:07.730+08:00",
+      "fetchedAt": "2026-11-02T17:47:21.387+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T17:37:07.730+08:00",
+      "fetchedAt": "2026-11-02T17:47:21.387+08:00",
       "error": "未启用",
       "disabled": true
     }
