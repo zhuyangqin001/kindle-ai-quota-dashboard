@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T16:15:27.920+08:00",
+  "updatedAt": "2026-11-02T16:25:40.739+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-02T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-02T16:15:27.920+08:00",
+    "fetchedAt": "2026-11-02T16:25:40.739+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "20万人围观的乒乓“决赛”竟是假比分带货局 起底假赛事直播乱象",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724800.shtml",
+        "publishedAt": "2026-11-02T16:13:48.000+08:00"
+      },
       {
         "title": "智能车OTA升级后发生交通事故、充电起火，保险理赔后如何追偿？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724798.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "联大一委通过中国提交的有关决议 外交部介绍情况",
         "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724791.shtml",
         "publishedAt": "2026-11-02T15:47:41.000+08:00"
-      },
-      {
-        "title": "新征程上强党强国的光辉文献——《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》诞生记",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724788.shtml",
-        "publishedAt": "2026-11-02T15:46:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T16:15:25.422+08:00",
+    "fetchedAt": "2026-11-02T16:25:37.954+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T16:15:26.141+08:00",
+      "fetchedAt": "2026-11-02T16:25:38.689+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T16:15:26.144+08:00",
+      "fetchedAt": "2026-11-02T16:25:38.692+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T16:15:26.154+08:00",
+      "fetchedAt": "2026-11-02T16:25:38.703+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T16:15:26.154+08:00",
+      "fetchedAt": "2026-11-02T16:25:38.703+08:00",
       "error": "未启用",
       "disabled": true
     }
