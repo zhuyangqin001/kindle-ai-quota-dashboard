@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T22:02:30.244+08:00",
+  "updatedAt": "2026-11-02T22:12:42.867+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-02T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T22:02:30.244+08:00",
+    "fetchedAt": "2026-11-02T22:12:42.867+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "英国制造业复苏 隐忧犹存",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10725013.shtml",
-        "publishedAt": "2026-11-02T21:55:33.000+08:00"
+        "title": "2026国际版权论坛在甘肃敦煌开幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724997.shtml",
+        "publishedAt": "2026-11-02T22:06:05.000+08:00"
       },
       {
-        "title": "舞蹈诗《大合之舞》澳大利亚悉尼上演",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724992.shtml",
-        "publishedAt": "2026-11-02T21:54:59.000+08:00"
+        "title": "非洲青年走进秦始皇兵马俑 感触中国历史",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10725040.shtml",
+        "publishedAt": "2026-11-02T22:05:23.000+08:00"
       },
       {
-        "title": "泰国前十个月接待外国游客2546万人次 同比下降4.59%",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724976.shtml",
-        "publishedAt": "2026-11-02T21:54:35.000+08:00"
+        "title": "聚焦抗战文学全新写作视角 长篇小说《四千里》研讨会举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724994.shtml",
+        "publishedAt": "2026-11-02T22:04:59.000+08:00"
       },
       {
-        "title": "新疆国际大巴扎引游人",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10725030.shtml",
-        "publishedAt": "2026-11-02T21:54:31.000+08:00"
+        "title": "宁夏规范城镇开发边界管理 推动城镇空间绿色发展",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724993.shtml",
+        "publishedAt": "2026-11-02T22:04:43.000+08:00"
       },
       {
-        "title": "海外客商齐聚汕头贴身服饰外贸秋交会 “产地直采”拓新局",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724977.shtml",
-        "publishedAt": "2026-11-02T21:53:57.000+08:00"
+        "title": "粤语话剧《二湾大街》大湾区巡演收官",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10724991.shtml",
+        "publishedAt": "2026-11-02T22:03:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T22:02:27.505+08:00",
+    "fetchedAt": "2026-11-02T22:12:40.097+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T22:02:28.225+08:00",
+      "fetchedAt": "2026-11-02T22:12:40.688+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T03:02:29.000+08:00"
+          "resetAt": "2026-11-03T03:12:42.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T22:02:28.228+08:00",
+      "fetchedAt": "2026-11-02T22:12:40.690+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T22:02:28.238+08:00",
+      "fetchedAt": "2026-11-02T22:12:40.696+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T22:02:28.238+08:00",
+      "fetchedAt": "2026-11-02T22:12:40.696+08:00",
       "error": "未启用",
       "disabled": true
     }
