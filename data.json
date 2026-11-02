@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-02T15:44:56.632+08:00",
+  "updatedAt": "2026-11-02T15:55:09.472+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 23,
-    "feelsLikeC": 23.3,
-    "humidity": 58,
-    "windKph": 7.6,
-    "windDir": "北风",
+    "feelsLikeC": 23.7,
+    "humidity": 60,
+    "windKph": 5.6,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-02T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T15:44:56.632+08:00",
+    "observedAt": "2026-11-02T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-02T15:55:09.473+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "联大一委通过中国提交的有关决议 外交部介绍情况",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724791.shtml",
+        "publishedAt": "2026-11-02T15:47:41.000+08:00"
+      },
+      {
+        "title": "王毅将主持澜湄合作第十一次外长会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724789.shtml",
+        "publishedAt": "2026-11-02T15:42:53.000+08:00"
+      },
+      {
+        "title": "习近平同阿曼苏丹海赛姆会谈",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209506.shtml",
+        "publishedAt": "2026-11-02T15:41:20.000+08:00"
+      },
       {
         "title": "柴达木盆地涩北“采气人”：日巡检超两万步 守护气田“周全”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724784.shtml",
@@ -28,24 +43,9 @@
         "title": "保加利亚现总统约托娃赢得总统选举",
         "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724776.shtml",
         "publishedAt": "2026-11-02T15:32:30.000+08:00"
-      },
-      {
-        "title": "三亚鹿回头：浪漫爱情引游人",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724781.shtml",
-        "publishedAt": "2026-11-02T15:32:08.000+08:00"
-      },
-      {
-        "title": "中方：希望有关方正视半岛问题根源，坚持政治解决大方向",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724785.shtml",
-        "publishedAt": "2026-11-02T15:31:32.000+08:00"
-      },
-      {
-        "title": "（走进中国乡村）湖南乡村“变形记”：闲置资源激活文旅新消费",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724777.shtml",
-        "publishedAt": "2026-11-02T15:30:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T15:44:53.928+08:00",
+    "fetchedAt": "2026-11-02T15:55:05.965+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T15:44:54.462+08:00",
+      "fetchedAt": "2026-11-02T15:55:06.694+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 27,
+          "usedPct": 35,
           "resetAt": "2026-11-02T19:48:20.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 41,
+          "usedPct": 42,
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T15:44:54.464+08:00",
+      "fetchedAt": "2026-11-02T15:55:06.698+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T15:44:54.472+08:00",
+      "fetchedAt": "2026-11-02T15:55:06.708+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T15:44:54.472+08:00",
+      "fetchedAt": "2026-11-02T15:55:06.709+08:00",
       "error": "未启用",
       "disabled": true
     }
