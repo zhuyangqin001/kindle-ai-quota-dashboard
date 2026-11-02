@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T20:40:54.546+08:00",
+  "updatedAt": "2026-11-02T20:51:08.299+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.9,
-    "feelsLikeC": 19.1,
-    "humidity": 64,
+    "tempC": 19.8,
+    "feelsLikeC": 18.9,
+    "humidity": 63,
     "windKph": 11.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-02T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T20:40:54.546+08:00",
+    "observedAt": "2026-11-02T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-02T20:51:08.299+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "追忆中国留学生蒋安桐：澳大利亚海滩舍己救人，三年后被追授“英勇行为嘉奖”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724893.shtml",
-        "publishedAt": "2026-11-02T20:26:54.000+08:00"
+        "title": "让当事人“胜败皆明” 海南法院规划“全流程”释法图景",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724905.shtml",
+        "publishedAt": "2026-11-02T20:44:05.000+08:00"
       },
       {
-        "title": "中国央行将开展证券、基金、保险公司互换便利第三次操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724935.shtml",
-        "publishedAt": "2026-11-02T20:26:10.000+08:00"
+        "title": "松花江同江段进入流冰期 较去年提前6天",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724904.shtml",
+        "publishedAt": "2026-11-02T20:42:31.000+08:00"
       },
       {
-        "title": "山川湖海间，外籍学者在闽读懂绿色中国",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724891.shtml",
-        "publishedAt": "2026-11-02T20:25:34.000+08:00"
+        "title": "2026年世界（广西）林木业大会将在南宁举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724903.shtml",
+        "publishedAt": "2026-11-02T20:42:05.000+08:00"
       },
       {
-        "title": "特写：浙江安吉，“大山精灵”渐复生机",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724906.shtml",
-        "publishedAt": "2026-11-02T20:25:02.000+08:00"
+        "title": "中国时尚体育季(珠海站)两大核心赛事落幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724923.shtml",
+        "publishedAt": "2026-11-02T20:41:11.000+08:00"
       },
       {
-        "title": "聚焦民营企业代际传承问题 报告建议提高风险抵御能力",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724890.shtml",
-        "publishedAt": "2026-11-02T20:24:30.000+08:00"
+        "title": "体育科普中国行南京站举办 促优质资源下基层服务群众",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-02/10724901.shtml",
+        "publishedAt": "2026-11-02T20:41:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T20:40:51.373+08:00",
+    "fetchedAt": "2026-11-02T20:51:04.352+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T20:40:52.107+08:00",
+      "fetchedAt": "2026-11-02T20:51:05.051+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T01:40:54.000+08:00"
+          "resetAt": "2026-11-03T01:51:07.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T20:40:52.110+08:00",
+      "fetchedAt": "2026-11-02T20:51:05.054+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T20:40:52.121+08:00",
+      "fetchedAt": "2026-11-02T20:51:05.064+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T20:40:52.121+08:00",
+      "fetchedAt": "2026-11-02T20:51:05.065+08:00",
       "error": "未启用",
       "disabled": true
     }
