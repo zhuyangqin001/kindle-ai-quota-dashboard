@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-02T20:10:15.336+08:00",
+  "updatedAt": "2026-11-02T20:30:37.662+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.6,
-    "feelsLikeC": 20,
+    "tempC": 19.9,
+    "feelsLikeC": 19.1,
     "humidity": 64,
-    "windKph": 11.9,
+    "windKph": 11.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-02T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-02T20:10:15.337+08:00",
+    "observedAt": "2026-11-02T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-02T20:30:37.662+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "解密热播剧《小城良方》：声音如何还原小城烟火",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-02/10724950.shtml",
-        "publishedAt": "2026-11-02T20:04:25.000+08:00"
+        "title": "特写：浙江安吉，“大山精灵”渐复生机",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724906.shtml",
+        "publishedAt": "2026-11-02T20:25:02.000+08:00"
       },
       {
-        "title": "（走进中国乡村）从草原到全球 内蒙古牧民的“软黄金”生意",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724896.shtml",
-        "publishedAt": "2026-11-02T20:03:59.000+08:00"
+        "title": "聚焦民营企业代际传承问题 报告建议提高风险抵御能力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724890.shtml",
+        "publishedAt": "2026-11-02T20:24:30.000+08:00"
       },
       {
-        "title": "（经济观察）中国民企用三维“扫街”敲开八十多国市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724940.shtml",
-        "publishedAt": "2026-11-02T19:46:46.000+08:00"
+        "title": "为逾30万张黑胶唱片“安家”——专访香港“黑胶养父”欧德成",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-02/10724882.shtml",
+        "publishedAt": "2026-11-02T20:24:02.000+08:00"
       },
       {
-        "title": "衣服吊牌大如A4纸，对“穿完即退”治标不治本",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724932.shtml",
-        "publishedAt": "2026-11-02T19:42:50.000+08:00"
+        "title": "投资灌溉水利如何兼顾节水与粮食安全？最新研究提出中国路径",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724886.shtml",
+        "publishedAt": "2026-11-02T20:13:57.000+08:00"
       },
       {
-        "title": "中新健康丨睡眠经济升温，AI睡眠科技从监测走向干预",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-02/10724930.shtml",
-        "publishedAt": "2026-11-02T19:42:30.000+08:00"
+        "title": "湖北美食襄阳牛肉面串联起完整产业链",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724881.shtml",
+        "publishedAt": "2026-11-02T20:09:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T20:10:11.651+08:00",
+    "fetchedAt": "2026-11-02T20:30:32.071+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T20:10:12.360+08:00",
+      "fetchedAt": "2026-11-02T20:30:32.818+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T01:10:14.000+08:00"
+          "resetAt": "2026-11-03T01:30:37.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 42,
-          "resetAt": "2026-11-07T15:04:01.000+08:00"
+          "resetAt": "2026-11-07T15:04:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T20:10:12.363+08:00",
+      "fetchedAt": "2026-11-02T20:30:32.821+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T20:10:12.373+08:00",
+      "fetchedAt": "2026-11-02T20:30:32.831+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T20:10:12.373+08:00",
+      "fetchedAt": "2026-11-02T20:30:32.831+08:00",
       "error": "未启用",
       "disabled": true
     }
