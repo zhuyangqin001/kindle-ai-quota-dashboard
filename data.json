@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T15:34:45.377+08:00",
+  "updatedAt": "2026-11-02T15:44:56.632+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-02T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-02T15:34:45.377+08:00",
+    "fetchedAt": "2026-11-02T15:44:56.632+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国—东盟青年体育友谊赛在北京体育大学举办",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-02/10724761.shtml",
-        "publishedAt": "2026-11-02T15:28:46.000+08:00"
+        "title": "柴达木盆地涩北“采气人”：日巡检超两万步 守护气田“周全”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724784.shtml",
+        "publishedAt": "2026-11-02T15:34:36.000+08:00"
       },
       {
-        "title": "俄临时禁止向欧亚经济联盟以外地区出口6种石化产品",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724779.shtml",
-        "publishedAt": "2026-11-02T15:27:34.000+08:00"
+        "title": "保加利亚现总统约托娃赢得总统选举",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724776.shtml",
+        "publishedAt": "2026-11-02T15:32:30.000+08:00"
       },
       {
-        "title": "香港推出“敞篷巴士古迹游” 探索北都文化底蕴",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724762.shtml",
-        "publishedAt": "2026-11-02T15:25:22.000+08:00"
+        "title": "三亚鹿回头：浪漫爱情引游人",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-02/10724781.shtml",
+        "publishedAt": "2026-11-02T15:32:08.000+08:00"
       },
       {
-        "title": "A股收评：超4600只个股飘红，三大指数集体收涨",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724775.shtml",
-        "publishedAt": "2026-11-02T15:25:12.000+08:00"
+        "title": "中方：希望有关方正视半岛问题根源，坚持政治解决大方向",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724785.shtml",
+        "publishedAt": "2026-11-02T15:31:32.000+08:00"
       },
       {
-        "title": "哥伦比亚中西部发生爆炸袭击事件 致4人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724774.shtml",
-        "publishedAt": "2026-11-02T15:22:53.000+08:00"
+        "title": "（走进中国乡村）湖南乡村“变形记”：闲置资源激活文旅新消费",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-02/10724777.shtml",
+        "publishedAt": "2026-11-02T15:30:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-02T15:34:41.176+08:00",
+    "fetchedAt": "2026-11-02T15:44:53.928+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-02T15:34:41.764+08:00",
+      "fetchedAt": "2026-11-02T15:44:54.462+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 17,
+          "usedPct": 27,
           "resetAt": "2026-11-02T19:48:20.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 39,
+          "usedPct": 41,
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-02T15:34:41.767+08:00",
+      "fetchedAt": "2026-11-02T15:44:54.464+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T15:34:41.774+08:00",
+      "fetchedAt": "2026-11-02T15:44:54.472+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-02T15:34:41.774+08:00",
+      "fetchedAt": "2026-11-02T15:44:54.472+08:00",
       "error": "未启用",
       "disabled": true
     }
