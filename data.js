@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T10:26:45.601+08:00",
+  "updatedAt": "2026-11-03T10:36:58.331+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.7,
-    "feelsLikeC": 18.3,
-    "humidity": 89,
-    "windKph": 9.8,
+    "tempC": 18,
+    "feelsLikeC": 18.6,
+    "humidity": 88,
+    "windKph": 9.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-03T10:26:45.601+08:00",
+    "observedAt": "2026-11-03T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-03T10:36:58.331+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "四川省乡村文化振兴魅力竞演集中展演暨全民健身之夜在西昌举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725153.shtml",
-        "publishedAt": "2026-11-03T10:20:14.000+08:00"
+        "title": "全国放心消费平台正式上线",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725189.shtml",
+        "publishedAt": "2026-11-03T10:30:12.000+08:00"
       },
       {
-        "title": "广西深化与东盟国家跨境技能领域开放合作",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725154.shtml",
-        "publishedAt": "2026-11-03T10:20:08.000+08:00"
+        "title": "游艇上的三亚：向“亚太游艇之都”迈进",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725188.shtml",
+        "publishedAt": "2026-11-03T10:29:44.000+08:00"
       },
       {
-        "title": "三亚中医“圈粉”境外游客：从“一房难求”到海外布点",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725176.shtml",
-        "publishedAt": "2026-11-03T10:18:16.000+08:00"
+        "title": "非方青年西安行：既见“中国科技”亦感“文化底蕴”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725185.shtml",
+        "publishedAt": "2026-11-03T10:27:52.000+08:00"
       },
       {
-        "title": "雪豹“凌小寒”经26天全力抢救无效病亡",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725177.shtml",
-        "publishedAt": "2026-11-03T10:17:00.000+08:00"
+        "title": "带伞！今明两天江西大范围降雨持续 中北部部分地区有大雨",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725191.shtml",
+        "publishedAt": "2026-11-03T10:27:22.000+08:00"
       },
       {
-        "title": "丁薛祥将出席第九届进博会开幕式及相关活动",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725179.shtml",
-        "publishedAt": "2026-11-03T10:15:24.000+08:00"
+        "title": "黎族爱情传说经久不衰 境外媒体人探寻“爱”在三亚“鹿回头”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725183.shtml",
+        "publishedAt": "2026-11-03T10:27:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T10:26:42.094+08:00",
+    "fetchedAt": "2026-11-03T10:36:54.844+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T10:26:42.814+08:00",
+      "fetchedAt": "2026-11-03T10:36:55.559+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T15:26:44.000+08:00"
+          "resetAt": "2026-11-03T15:36:57.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T10:26:42.817+08:00",
+      "fetchedAt": "2026-11-03T10:36:55.562+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T10:26:42.828+08:00",
+      "fetchedAt": "2026-11-03T10:36:55.571+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T10:26:42.828+08:00",
+      "fetchedAt": "2026-11-03T10:36:55.572+08:00",
       "error": "未启用",
       "disabled": true
     }
