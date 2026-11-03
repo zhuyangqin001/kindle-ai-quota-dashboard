@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T17:55:01.960+08:00",
+  "updatedAt": "2026-11-03T18:15:21.557+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20,
-    "feelsLikeC": 21.9,
-    "humidity": 87,
-    "windKph": 6.5,
-    "windDir": "东风",
+    "tempC": 19.8,
+    "feelsLikeC": 21.6,
+    "humidity": 90,
+    "windKph": 7.4,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T17:55:01.960+08:00",
+    "observedAt": "2026-11-03T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-03T18:15:21.558+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "佩斯科夫：俄美乌三方会谈10日至11日在阿布扎比举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725462.shtml",
-        "publishedAt": "2026-11-03T17:49:34.000+08:00"
+        "title": "重庆合川：多举措推动钓鱼城从“历史深处”走向“世界前台”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725469.shtml",
+        "publishedAt": "2026-11-03T18:12:23.000+08:00"
       },
       {
-        "title": "刘延东同志遗体在京火化",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209659.shtml",
-        "publishedAt": "2026-11-03T17:45:40.000+08:00"
+        "title": "阿曼苏丹访华期间见证21项双边合作成果集中展示",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725471.shtml",
+        "publishedAt": "2026-11-03T18:10:55.000+08:00"
       },
       {
-        "title": "外媒聚焦乌镇峰会：中国重视开源合作，为促进国际人工智能合作而努力",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725454.shtml",
-        "publishedAt": "2026-11-03T17:44:22.000+08:00"
+        "title": "湖北随州千年银杏谷游客沉浸式感受秋日浪漫",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725464.shtml",
+        "publishedAt": "2026-11-03T18:07:47.000+08:00"
       },
       {
-        "title": "全球“熊猫伙伴”相聚成都 共话生态保护与绿色发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725445.shtml",
-        "publishedAt": "2026-11-03T17:34:45.000+08:00"
+        "title": "受贿数额特别巨大 内蒙古通辽市原副市长白立柱被公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725468.shtml",
+        "publishedAt": "2026-11-03T18:07:31.000+08:00"
       },
       {
-        "title": "也门胡塞武装称也门多地遇袭致16死",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725440.shtml",
-        "publishedAt": "2026-11-03T17:34:25.000+08:00"
+        "title": "探访三亚国际免税城：Sanya Haul火热",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725460.shtml",
+        "publishedAt": "2026-11-03T18:03:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T17:54:58.728+08:00",
+    "fetchedAt": "2026-11-03T18:15:16.913+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T17:54:59.063+08:00",
+      "fetchedAt": "2026-11-03T18:15:17.653+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T22:55:01.000+08:00"
+          "resetAt": "2026-11-03T23:15:21.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T17:54:59.064+08:00",
+      "fetchedAt": "2026-11-03T18:15:17.655+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T17:54:59.069+08:00",
+      "fetchedAt": "2026-11-03T18:15:17.665+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T17:54:59.069+08:00",
+      "fetchedAt": "2026-11-03T18:15:17.666+08:00",
       "error": "未启用",
       "disabled": true
     }
