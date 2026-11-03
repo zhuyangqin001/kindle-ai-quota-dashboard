@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T15:42:31.675+08:00",
+  "updatedAt": "2026-11-03T15:52:43.622+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20,
-    "feelsLikeC": 21,
-    "humidity": 79,
-    "windKph": 7.4,
-    "windDir": "东风",
+    "tempC": 21.1,
+    "feelsLikeC": 22.7,
+    "humidity": 77,
+    "windKph": 5.3,
+    "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T15:42:31.675+08:00",
+    "observedAt": "2026-11-03T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T15:52:43.623+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国务院报告：去年10月以来金融市场运行总体稳定",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725357.shtml",
+        "publishedAt": "2026-11-03T15:45:45.000+08:00"
+      },
+      {
+        "title": "创意九图丨历“九”弥新看进博",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725359.shtml",
+        "publishedAt": "2026-11-03T15:44:13.000+08:00"
+      },
+      {
+        "title": "南京罗廊巷：螺蛳壳里做道场 老街更新留住年轻人",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725354.shtml",
+        "publishedAt": "2026-11-03T15:44:11.000+08:00"
+      },
       {
         "title": "莫名收到大量退费投诉 背后暗藏蹊跷",
         "url": "https://www.chinanews.com.cn/fz/2026/11-03/10725351.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "党的二十届五中全会文件及辅导材料在京首发",
         "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725350.shtml",
         "publishedAt": "2026-11-03T15:35:49.000+08:00"
-      },
-      {
-        "title": "中方谈中东局势：愿继续为促进对话、推动局势缓和作出积极努力",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725348.shtml",
-        "publishedAt": "2026-11-03T15:33:11.000+08:00"
-      },
-      {
-        "title": "让科技接地气 “小院落”展现大作为",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725347.shtml",
-        "publishedAt": "2026-11-03T15:30:29.000+08:00"
-      },
-      {
-        "title": "韩总统李在明等168人信息遭大规模泄露 韩政府回应",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725335.shtml",
-        "publishedAt": "2026-11-03T15:26:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T15:42:27.525+08:00",
+    "fetchedAt": "2026-11-03T15:52:40.508+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T15:42:28.261+08:00",
+      "fetchedAt": "2026-11-03T15:52:41.058+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T15:42:28.263+08:00",
+      "fetchedAt": "2026-11-03T15:52:41.061+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T15:42:28.270+08:00",
+      "fetchedAt": "2026-11-03T15:52:41.066+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T15:42:28.270+08:00",
+      "fetchedAt": "2026-11-03T15:52:41.067+08:00",
       "error": "未启用",
       "disabled": true
     }
