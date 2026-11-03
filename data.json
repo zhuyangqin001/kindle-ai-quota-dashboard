@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T21:18:43.243+08:00",
+  "updatedAt": "2026-11-03T21:39:01.659+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.5,
-    "feelsLikeC": 20,
+    "tempC": 18.4,
+    "feelsLikeC": 19.9,
     "humidity": 95,
-    "windKph": 8.5,
+    "windKph": 8.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-03T21:18:43.243+08:00",
+    "observedAt": "2026-11-03T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-03T21:39:01.659+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国务院报告：截至2025年底中国国有土地总面积52360.4万公顷",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725595.shtml",
-        "publishedAt": "2026-11-03T21:14:45.000+08:00"
+        "title": "从试点示范到跨区域规模化应用 京津冀交通数智化转型提速",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725601.shtml",
+        "publishedAt": "2026-11-03T21:22:02.000+08:00"
       },
       {
-        "title": "具身智能机器人在上海便利店“试岗”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725604.shtml",
-        "publishedAt": "2026-11-03T21:14:27.000+08:00"
+        "title": "台湾10月PMI扩张放缓 专家指AI供应链缺料所致",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725599.shtml",
+        "publishedAt": "2026-11-03T21:21:28.000+08:00"
       },
       {
-        "title": "从演练到实战，祁连山下的消防救援尖刀是如何炼成的？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725594.shtml",
-        "publishedAt": "2026-11-03T21:13:45.000+08:00"
+        "title": "逛浙江景点，年轻人为何带走一本书？",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725603.shtml",
+        "publishedAt": "2026-11-03T21:19:13.000+08:00"
       },
       {
-        "title": "前三季度国家能源集团煤炭产销量同比增3.4% 供热量同比增5%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725598.shtml",
-        "publishedAt": "2026-11-03T21:13:27.000+08:00"
+        "title": "香港今年前三季度GDP实现5年来同期最快增长",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725596.shtml",
+        "publishedAt": "2026-11-03T21:17:57.000+08:00"
       },
       {
-        "title": "湖南农业生物合成研究院成立",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725586.shtml",
-        "publishedAt": "2026-11-03T21:13:19.000+08:00"
+        "title": "（粤港澳大湾区）2026粤港澳大湾区全球招商大会发布42个重大投资项目",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725597.shtml",
+        "publishedAt": "2026-11-03T21:17:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T21:18:38.318+08:00",
+    "fetchedAt": "2026-11-03T21:38:58.413+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T21:18:38.995+08:00",
+      "fetchedAt": "2026-11-03T21:38:59.149+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T21:18:38.998+08:00",
+      "fetchedAt": "2026-11-03T21:38:59.152+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T21:18:39.008+08:00",
+      "fetchedAt": "2026-11-03T21:38:59.162+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T21:18:39.008+08:00",
+      "fetchedAt": "2026-11-03T21:38:59.162+08:00",
       "error": "未启用",
       "disabled": true
     }
