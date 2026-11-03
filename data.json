@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T16:23:13.617+08:00",
+  "updatedAt": "2026-11-03T16:33:24.356+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21,
-    "feelsLikeC": 22.6,
+    "tempC": 20.9,
+    "feelsLikeC": 22.5,
     "humidity": 78,
-    "windKph": 5.7,
+    "windKph": 5.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-03T16:23:13.617+08:00",
+    "observedAt": "2026-11-03T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-03T16:33:24.356+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "尺素金声丨利润增长15.5%，折射产业结构向新向优向好",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725378.shtml",
-        "publishedAt": "2026-11-03T16:15:21.000+08:00"
+        "title": "何以中国｜红山文化，从牛河梁“活”起来",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725388.shtml",
+        "publishedAt": "2026-11-03T16:30:12.000+08:00"
       },
       {
-        "title": "联合国第十五届能源可持续发展国际论坛西安启幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725371.shtml",
-        "publishedAt": "2026-11-03T16:14:39.000+08:00"
+        "title": "乌镇“网事”绘就数字生活新图景",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725386.shtml",
+        "publishedAt": "2026-11-03T16:26:24.000+08:00"
       },
       {
-        "title": "餐盘里的“共治”：江西德兴守护学子“舌尖暖意”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725373.shtml",
-        "publishedAt": "2026-11-03T16:10:03.000+08:00"
+        "title": "新华时评丨开源共享迈向美好数智未来",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-03/10725383.shtml",
+        "publishedAt": "2026-11-03T16:22:09.000+08:00"
       },
       {
-        "title": "伊朗：首支“为伊朗捐躯”旅完成组建",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725367.shtml",
-        "publishedAt": "2026-11-03T16:06:11.000+08:00"
+        "title": "检察机关依法分别对韩玉明、白立柱、鲍长山、李国锋、魏学林提起公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725380.shtml",
+        "publishedAt": "2026-11-03T16:21:53.000+08:00"
       },
       {
-        "title": "警方通报九寨沟景区游客冲突事件",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725330.shtml",
-        "publishedAt": "2026-11-03T16:06:05.000+08:00"
+        "title": "生物多样性首次全球审查 中国交出亮眼答卷",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725381.shtml",
+        "publishedAt": "2026-11-03T16:20:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T16:23:10.643+08:00",
+    "fetchedAt": "2026-11-03T16:33:22.097+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T16:23:11.301+08:00",
+      "fetchedAt": "2026-11-03T16:33:22.539+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T16:23:11.303+08:00",
+      "fetchedAt": "2026-11-03T16:33:22.541+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T16:23:11.307+08:00",
+      "fetchedAt": "2026-11-03T16:33:22.547+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T16:23:11.307+08:00",
+      "fetchedAt": "2026-11-03T16:33:22.547+08:00",
       "error": "未启用",
       "disabled": true
     }
