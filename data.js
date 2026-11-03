@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T10:16:33.181+08:00",
+  "updatedAt": "2026-11-03T10:26:45.601+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-03T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-03T10:16:33.182+08:00",
+    "fetchedAt": "2026-11-03T10:26:45.601+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "今年前三季度广州民营经济增加值破万亿 占GDP比重超四成",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725173.shtml",
-        "publishedAt": "2026-11-03T10:14:41.000+08:00"
+        "title": "四川省乡村文化振兴魅力竞演集中展演暨全民健身之夜在西昌举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725153.shtml",
+        "publishedAt": "2026-11-03T10:20:14.000+08:00"
       },
       {
-        "title": "“十五五”末 新兴支柱产业产值有望超10万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725178.shtml",
-        "publishedAt": "2026-11-03T10:14:39.000+08:00"
+        "title": "广西深化与东盟国家跨境技能领域开放合作",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725154.shtml",
+        "publishedAt": "2026-11-03T10:20:08.000+08:00"
       },
       {
-        "title": "WTA250香港公开赛：王欣瑜女单首轮晋级",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725157.shtml",
-        "publishedAt": "2026-11-03T10:14:07.000+08:00"
+        "title": "三亚中医“圈粉”境外游客：从“一房难求”到海外布点",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725176.shtml",
+        "publishedAt": "2026-11-03T10:18:16.000+08:00"
       },
       {
-        "title": "广西举办第四届职业技能大赛 近千名选手亮绝活",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725139.shtml",
-        "publishedAt": "2026-11-03T10:13:17.000+08:00"
+        "title": "雪豹“凌小寒”经26天全力抢救无效病亡",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725177.shtml",
+        "publishedAt": "2026-11-03T10:17:00.000+08:00"
       },
       {
-        "title": "西藏洛扎：卡久景区生态文旅融合助推文旅产业发展",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725138.shtml",
-        "publishedAt": "2026-11-03T10:10:51.000+08:00"
+        "title": "丁薛祥将出席第九届进博会开幕式及相关活动",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725179.shtml",
+        "publishedAt": "2026-11-03T10:15:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T10:16:30.256+08:00",
+    "fetchedAt": "2026-11-03T10:26:42.094+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T10:16:30.978+08:00",
+      "fetchedAt": "2026-11-03T10:26:42.814+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T15:16:32.000+08:00"
+          "resetAt": "2026-11-03T15:26:44.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T10:16:30.981+08:00",
+      "fetchedAt": "2026-11-03T10:26:42.817+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T10:16:30.991+08:00",
+      "fetchedAt": "2026-11-03T10:26:42.828+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T10:16:30.991+08:00",
+      "fetchedAt": "2026-11-03T10:26:42.828+08:00",
       "error": "未启用",
       "disabled": true
     }
