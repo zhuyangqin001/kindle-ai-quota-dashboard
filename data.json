@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T17:34:36.271+08:00",
+  "updatedAt": "2026-11-03T17:44:49.358+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-03T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T17:34:36.271+08:00",
+    "fetchedAt": "2026-11-03T17:44:49.358+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "澳大利亚央行加息至4.85% 创18年来新高",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725397.shtml",
-        "publishedAt": "2026-11-03T17:31:01.000+08:00"
+        "title": "全球“熊猫伙伴”相聚成都 共话生态保护与绿色发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725445.shtml",
+        "publishedAt": "2026-11-03T17:34:45.000+08:00"
       },
       {
-        "title": "俄乌相互袭击对方能源设施",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725394.shtml",
-        "publishedAt": "2026-11-03T17:30:11.000+08:00"
+        "title": "也门胡塞武装称也门多地遇袭致16死",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725440.shtml",
+        "publishedAt": "2026-11-03T17:34:25.000+08:00"
       },
       {
-        "title": "加蓬总统恩圭马等外国领导人将出席第九届中国国际进口博览会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725444.shtml",
-        "publishedAt": "2026-11-03T17:28:09.000+08:00"
+        "title": "2026年中国游戏IP市场规模预计接近3000亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725450.shtml",
+        "publishedAt": "2026-11-03T17:34:05.000+08:00"
       },
       {
-        "title": "最高法报告：现有港澳地区人民陪审员124人",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725443.shtml",
-        "publishedAt": "2026-11-03T17:27:15.000+08:00"
+        "title": "2026澳大利亚群舞大赛在悉尼拉开帷幕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725439.shtml",
+        "publishedAt": "2026-11-03T17:33:31.000+08:00"
       },
       {
-        "title": "受最强厄尔尼诺影响 预计今冬中国气温整体偏高",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725442.shtml",
-        "publishedAt": "2026-11-03T17:26:23.000+08:00"
+        "title": "美媒称美军打击伊朗最大岛屿 卡塔尔代表团赴伊加紧斡旋",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725398.shtml",
+        "publishedAt": "2026-11-03T17:33:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T17:34:32.794+08:00",
+    "fetchedAt": "2026-11-03T17:44:45.973+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T17:34:33.505+08:00",
+      "fetchedAt": "2026-11-03T17:44:46.687+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 12,
-          "resetAt": "2026-11-03T17:41:42.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-03T22:44:48.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T17:34:33.508+08:00",
+      "fetchedAt": "2026-11-03T17:44:46.690+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T17:34:33.520+08:00",
+      "fetchedAt": "2026-11-03T17:44:46.700+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T17:34:33.520+08:00",
+      "fetchedAt": "2026-11-03T17:44:46.700+08:00",
       "error": "未启用",
       "disabled": true
     }
