@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T06:29:40.613+08:00",
+  "updatedAt": "2026-11-04T07:10:10.210+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 18.1,
-    "feelsLikeC": 20.4,
+    "feelsLikeC": 19.9,
     "humidity": 97,
-    "windKph": 2.4,
-    "windDir": "北风",
+    "windKph": 6.2,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T06:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T06:29:40.613+08:00",
+    "observedAt": "2026-11-04T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T07:10:10.210+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725694.shtml",
-        "publishedAt": "2026-11-04T00:28:50.000+08:00"
+        "title": "欧洲多架客机及一艘邮轮遭炸弹威胁",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725708.shtml",
+        "publishedAt": "2026-11-04T07:07:04.000+08:00"
       },
       {
-        "title": "从价格到服务再到隐私保护 这份陪诊首项国标为你划重点",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725693.shtml",
-        "publishedAt": "2026-11-04T00:27:14.000+08:00"
+        "title": "印尼警方：3人因涉嫌窃听总统被列为犯罪嫌疑人",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725702.shtml",
+        "publishedAt": "2026-11-04T07:06:16.000+08:00"
       },
       {
-        "title": "2026年中亚经济合作天山论坛在哈萨克斯坦举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725692.shtml",
-        "publishedAt": "2026-11-03T23:57:10.000+08:00"
+        "title": "CBA常规赛：辽宁队险胜广州队 赢下第一阶段收官战",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-04/10725704.shtml",
+        "publishedAt": "2026-11-04T07:05:48.000+08:00"
       },
       {
-        "title": "CBA常规赛：山西队险胜新疆队取得三连胜",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725691.shtml",
-        "publishedAt": "2026-11-03T23:56:30.000+08:00"
+        "title": "泰国将进口电动汽车消费税税率上调至35%",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725705.shtml",
+        "publishedAt": "2026-11-04T07:04:54.000+08:00"
       },
       {
-        "title": "对话敦煌：全球代表共话视听与艺术产业版权发展",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725690.shtml",
-        "publishedAt": "2026-11-03T23:55:54.000+08:00"
+        "title": "柬埔寨将在全国200所公立中小学校试行全日制教学",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725706.shtml",
+        "publishedAt": "2026-11-04T07:04:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T06:29:37.755+08:00",
+    "fetchedAt": "2026-11-04T07:10:07.515+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T06:29:38.466+08:00",
+      "fetchedAt": "2026-11-04T07:10:08.253+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T11:29:40.000+08:00"
+          "resetAt": "2026-11-04T12:10:09.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T06:29:38.469+08:00",
+      "fetchedAt": "2026-11-04T07:10:08.257+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T06:29:38.477+08:00",
+      "fetchedAt": "2026-11-04T07:10:08.267+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T06:29:38.477+08:00",
+      "fetchedAt": "2026-11-04T07:10:08.267+08:00",
       "error": "未启用",
       "disabled": true
     }
