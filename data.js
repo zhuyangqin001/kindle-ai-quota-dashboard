@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T10:36:58.331+08:00",
+  "updatedAt": "2026-11-03T10:57:17.441+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18,
-    "feelsLikeC": 18.6,
-    "humidity": 88,
-    "windKph": 9.4,
+    "tempC": 18.2,
+    "feelsLikeC": 18.9,
+    "humidity": 86,
+    "windKph": 8.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T10:36:58.331+08:00",
+    "observedAt": "2026-11-03T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T10:57:17.441+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全国放心消费平台正式上线",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725189.shtml",
-        "publishedAt": "2026-11-03T10:30:12.000+08:00"
+        "title": "门窗没坏，28楼财物为何不翼而飞？办案部门还原盗窃过程破解迷局",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-03/10725211.shtml",
+        "publishedAt": "2026-11-03T10:50:31.000+08:00"
       },
       {
-        "title": "游艇上的三亚：向“亚太游艇之都”迈进",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725188.shtml",
-        "publishedAt": "2026-11-03T10:29:44.000+08:00"
+        "title": "美媒：中期选举前夕美军打击伊朗格什姆岛，特朗普淡化战争风险",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725210.shtml",
+        "publishedAt": "2026-11-03T10:49:37.000+08:00"
       },
       {
-        "title": "非方青年西安行：既见“中国科技”亦感“文化底蕴”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725185.shtml",
-        "publishedAt": "2026-11-03T10:27:52.000+08:00"
+        "title": "广西农业科学院原党组书记、院长邓国富被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725199.shtml",
+        "publishedAt": "2026-11-03T10:39:49.000+08:00"
       },
       {
-        "title": "带伞！今明两天江西大范围降雨持续 中北部部分地区有大雨",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725191.shtml",
-        "publishedAt": "2026-11-03T10:27:22.000+08:00"
+        "title": "昼夜温差大，别让大脑“着凉”……预防脑血管病要做到这几点",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-03/10725200.shtml",
+        "publishedAt": "2026-11-03T10:39:31.000+08:00"
       },
       {
-        "title": "黎族爱情传说经久不衰 境外媒体人探寻“爱”在三亚“鹿回头”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725183.shtml",
-        "publishedAt": "2026-11-03T10:27:18.000+08:00"
+        "title": "2026国际版权论坛敦煌开幕 聚焦数智时代版权与创意产业",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725190.shtml",
+        "publishedAt": "2026-11-03T10:38:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T10:36:54.844+08:00",
+    "fetchedAt": "2026-11-03T10:57:13.796+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T10:36:55.559+08:00",
+      "fetchedAt": "2026-11-03T10:57:14.490+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T15:36:57.000+08:00"
+          "resetAt": "2026-11-03T15:57:17.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T10:36:55.562+08:00",
+      "fetchedAt": "2026-11-03T10:57:14.492+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T10:36:55.571+08:00",
+      "fetchedAt": "2026-11-03T10:57:14.499+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T10:36:55.572+08:00",
+      "fetchedAt": "2026-11-03T10:57:14.499+08:00",
       "error": "未启用",
       "disabled": true
     }
