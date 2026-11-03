@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T14:41:16.770+08:00",
+  "updatedAt": "2026-11-03T14:51:29.667+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.7,
-    "feelsLikeC": 20.8,
+    "tempC": 19.8,
+    "feelsLikeC": 20.9,
     "humidity": 80,
-    "windKph": 6.7,
+    "windKph": 6.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T14:41:16.770+08:00",
+    "observedAt": "2026-11-03T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T14:51:29.667+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-03T14:27:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T14:41:12.816+08:00",
+    "fetchedAt": "2026-11-03T14:51:25.736+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T14:41:13.511+08:00",
+      "fetchedAt": "2026-11-03T14:51:26.468+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,7 +63,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
+          "usedPct": 12,
           "resetAt": "2026-11-03T17:41:42.000+08:00"
         },
         {
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T14:41:13.514+08:00",
+      "fetchedAt": "2026-11-03T14:51:26.471+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T14:41:13.520+08:00",
+      "fetchedAt": "2026-11-03T14:51:26.481+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T14:41:13.520+08:00",
+      "fetchedAt": "2026-11-03T14:51:26.481+08:00",
       "error": "未启用",
       "disabled": true
     }
