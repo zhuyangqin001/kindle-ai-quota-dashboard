@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T09:56:08.934+08:00",
+  "updatedAt": "2026-11-03T10:06:21.160+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.5,
+    "tempC": 17.6,
     "feelsLikeC": 18.1,
     "humidity": 91,
-    "windKph": 10,
-    "windDir": "东北风",
+    "windKph": 10.1,
+    "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T09:56:08.934+08:00",
+    "observedAt": "2026-11-03T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-03T10:06:21.160+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“红色铸魂·立德树人”新时代高校美育共同体在京成立",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725136.shtml",
+        "publishedAt": "2026-11-03T09:58:29.000+08:00"
+      },
+      {
+        "title": "力箭二号遥二运载火箭发射成功",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209590.shtml",
+        "publishedAt": "2026-11-03T09:58:21.000+08:00"
+      },
       {
         "title": "A股开盘：超4000只个股飘绿，三大指数集体低开",
         "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725161.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "一旦感染，终身携带！这种病毒进入高发期",
         "url": "https://www.chinanews.com.cn/jk/2026/11-03/10725159.shtml",
         "publishedAt": "2026-11-03T09:52:10.000+08:00"
-      },
-      {
-        "title": "“三秦有约·同心乡见”2026年陕西统战宣传基层行活动启动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725132.shtml",
-        "publishedAt": "2026-11-03T09:52:00.000+08:00"
-      },
-      {
-        "title": "应对量子计算威胁 香港金管局与港科大推出后量子密码学工具包",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725131.shtml",
-        "publishedAt": "2026-11-03T09:49:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T09:56:03.999+08:00",
+    "fetchedAt": "2026-11-03T10:06:17.835+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T09:56:04.638+08:00",
+      "fetchedAt": "2026-11-03T10:06:18.557+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T14:56:08.000+08:00"
+          "resetAt": "2026-11-03T15:06:20.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T09:56:04.640+08:00",
+      "fetchedAt": "2026-11-03T10:06:18.560+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T09:56:04.645+08:00",
+      "fetchedAt": "2026-11-03T10:06:18.571+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T09:56:04.646+08:00",
+      "fetchedAt": "2026-11-03T10:06:18.571+08:00",
       "error": "未启用",
       "disabled": true
     }
