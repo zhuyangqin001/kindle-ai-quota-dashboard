@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T12:39:12.024+08:00",
+  "updatedAt": "2026-11-03T12:49:23.594+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.2,
+    "tempC": 18.3,
     "feelsLikeC": 19.6,
     "humidity": 89,
-    "windKph": 5.1,
+    "windKph": 5.8,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T12:39:12.025+08:00",
+    "observedAt": "2026-11-03T12:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T12:49:23.594+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国务院免去何永贤香港特别行政区政府房屋局局长职务",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725255.shtml",
+        "publishedAt": "2026-11-03T12:47:54.000+08:00"
+      },
       {
         "title": "哈尔滨迎今秋首场降雪",
         "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725231.shtml",
@@ -38,14 +43,9 @@
         "title": "海南创新实施“人工智能+普法”赋能自贸港网络法治宣传",
         "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725243.shtml",
         "publishedAt": "2026-11-03T12:15:08.000+08:00"
-      },
-      {
-        "title": "海南聚焦青少年法治教育 织密家校社协同防护网",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725242.shtml",
-        "publishedAt": "2026-11-03T12:14:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T12:39:08.985+08:00",
+    "fetchedAt": "2026-11-03T12:49:20.705+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T12:39:09.720+08:00",
+      "fetchedAt": "2026-11-03T12:49:21.396+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T17:39:11.000+08:00"
+          "resetAt": "2026-11-03T17:41:42.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T12:39:09.723+08:00",
+      "fetchedAt": "2026-11-03T12:49:21.399+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T12:39:09.734+08:00",
+      "fetchedAt": "2026-11-03T12:49:21.409+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T12:39:09.734+08:00",
+      "fetchedAt": "2026-11-03T12:49:21.409+08:00",
       "error": "未启用",
       "disabled": true
     }
