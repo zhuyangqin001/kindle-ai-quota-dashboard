@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T23:20:34.470+08:00",
+  "updatedAt": "2026-11-03T23:30:46.236+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 18.1,
     "feelsLikeC": 19.4,
-    "humidity": 98,
-    "windKph": 9.4,
+    "humidity": 97,
+    "windKph": 9.3,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T23:15:00.000+08:00",
-    "fetchedAt": "2026-11-03T23:20:34.470+08:00",
+    "observedAt": "2026-11-03T23:30:00.000+08:00",
+    "fetchedAt": "2026-11-03T23:30:46.236+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "乌镇峰会观察：中国开源AI大模型持续“圈粉”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725639.shtml",
-        "publishedAt": "2026-11-03T23:10:51.000+08:00"
+        "title": "第十六届“华商领袖·清华讲堂”在北京举行",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-03/10725654.shtml",
+        "publishedAt": "2026-11-03T23:23:50.000+08:00"
       },
       {
-        "title": "幽门螺杆菌没症状≠不用治！查出阳性应及时找医生评估",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-03/10725663.shtml",
-        "publishedAt": "2026-11-03T23:10:11.000+08:00"
+        "title": "泰国内阁批准社会保障法修正案草案 最高参保年龄提高至65岁",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725653.shtml",
+        "publishedAt": "2026-11-03T23:23:10.000+08:00"
       },
       {
-        "title": "京港两地签署备忘录深化商务领域合作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725650.shtml",
-        "publishedAt": "2026-11-03T23:08:33.000+08:00"
+        "title": "2026年世界互联网大会乌镇峰会主论坛举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725662.shtml",
+        "publishedAt": "2026-11-03T23:22:08.000+08:00"
       },
       {
-        "title": "上海联交所：一年多来助中国18个省份68家产废企业成交超3500万吨工业固废",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725648.shtml",
-        "publishedAt": "2026-11-03T22:58:33.000+08:00"
+        "title": "2026 GAI+C大会在京举行 启动“央企人工智能场景共创伙伴计划”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725652.shtml",
+        "publishedAt": "2026-11-03T23:21:36.000+08:00"
       },
       {
-        "title": "特朗普称将停止向以色列提供每年总额约40亿美元的军援",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725649.shtml",
-        "publishedAt": "2026-11-03T22:57:43.000+08:00"
+        "title": "中国首个新能源资源循环利用规模化项目开建",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725642.shtml",
+        "publishedAt": "2026-11-03T23:20:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T23:20:31.713+08:00",
+    "fetchedAt": "2026-11-03T23:30:43.659+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T23:20:32.417+08:00",
+      "fetchedAt": "2026-11-03T23:30:44.380+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T23:20:32.421+08:00",
+      "fetchedAt": "2026-11-03T23:30:44.383+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T23:20:32.431+08:00",
+      "fetchedAt": "2026-11-03T23:30:44.394+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T23:20:32.431+08:00",
+      "fetchedAt": "2026-11-03T23:30:44.394+08:00",
       "error": "未启用",
       "disabled": true
     }
