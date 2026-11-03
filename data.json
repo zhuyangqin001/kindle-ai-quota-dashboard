@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T18:35:40.309+08:00",
+  "updatedAt": "2026-11-03T18:55:59.158+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.7,
-    "feelsLikeC": 21.4,
-    "humidity": 90,
-    "windKph": 8,
-    "windDir": "东北风",
+    "tempC": 19.6,
+    "feelsLikeC": 21.2,
+    "humidity": 91,
+    "windKph": 8.5,
+    "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T18:35:40.309+08:00",
+    "observedAt": "2026-11-03T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T18:55:59.158+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中新网评：别让“狂欢”纵容恶意",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725467.shtml",
-        "publishedAt": "2026-11-03T18:27:30.000+08:00"
+        "title": "江苏省工业和信息化厅党组成员谢中东接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725487.shtml",
+        "publishedAt": "2026-11-03T18:50:27.000+08:00"
       },
       {
-        "title": "退伍老兵救起7岁落水男孩 见义勇为奖金全数捐出",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725478.shtml",
-        "publishedAt": "2026-11-03T18:25:56.000+08:00"
+        "title": "美国亚利桑那大学教授王明武：中国干眼治疗科普教育与研发技术已走在世界前列",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-03/10725496.shtml",
+        "publishedAt": "2026-11-03T18:49:59.000+08:00"
       },
       {
-        "title": "2026澳中商业与青年领袖盛典在悉尼举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725465.shtml",
-        "publishedAt": "2026-11-03T18:24:30.000+08:00"
+        "title": "张升民会见俄罗斯国防部长",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725481.shtml",
+        "publishedAt": "2026-11-03T18:49:01.000+08:00"
       },
       {
-        "title": "直播海报：层林霞色上新 慢直播北京红叶实况",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725479.shtml",
-        "publishedAt": "2026-11-03T18:22:12.000+08:00"
+        "title": "沈阳机床股份有限公司副总经理陈红海接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725485.shtml",
+        "publishedAt": "2026-11-03T18:48:35.000+08:00"
       },
       {
-        "title": "戍边18载，藏族军人旺堆次仁：三次与“死神”擦肩而过",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725477.shtml",
-        "publishedAt": "2026-11-03T18:19:28.000+08:00"
+        "title": "草原好货“出乡记”：中国北疆返乡“90后”创业观察",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725486.shtml",
+        "publishedAt": "2026-11-03T18:48:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T18:35:36.131+08:00",
+    "fetchedAt": "2026-11-03T18:55:55.759+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T18:35:36.867+08:00",
+      "fetchedAt": "2026-11-03T18:55:56.522+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T23:35:39.000+08:00"
+          "resetAt": "2026-11-03T23:55:58.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T18:35:36.870+08:00",
+      "fetchedAt": "2026-11-03T18:55:56.525+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T18:35:36.881+08:00",
+      "fetchedAt": "2026-11-03T18:55:56.536+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T18:35:36.881+08:00",
+      "fetchedAt": "2026-11-03T18:55:56.536+08:00",
       "error": "未启用",
       "disabled": true
     }
