@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T11:27:49.781+08:00",
+  "updatedAt": "2026-11-03T11:38:01.653+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.4,
-    "feelsLikeC": 19.3,
-    "humidity": 85,
-    "windKph": 7.4,
+    "tempC": 18.3,
+    "feelsLikeC": 19.5,
+    "humidity": 86,
+    "windKph": 6.2,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-03T11:27:49.781+08:00",
+    "observedAt": "2026-11-03T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-03T11:38:01.653+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "FBI声称朝鲜支援黑客盗窃加密货币 金与正：这是美国对朝严重政治挑衅",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725227.shtml",
+        "publishedAt": "2026-11-03T11:27:05.000+08:00"
+      },
       {
         "title": "雨连连！今明天南方降雨将增多增强 6日至8日新一轮降雨发展",
         "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725222.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "捐赠178.5万元！广东侨心基金会助力阳江医教提质",
         "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725205.shtml",
         "publishedAt": "2026-11-03T11:12:35.000+08:00"
-      },
-      {
-        "title": "吉林省促进“两个健康”综合服务平台宣传推广暨民营企业诉求收集办理培训班在长春举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725204.shtml",
-        "publishedAt": "2026-11-03T11:10:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T11:27:46.412+08:00",
+    "fetchedAt": "2026-11-03T11:37:58.954+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T11:27:47.096+08:00",
+      "fetchedAt": "2026-11-03T11:37:59.686+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T16:27:49.000+08:00"
+          "resetAt": "2026-11-03T16:38:01.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T11:27:47.099+08:00",
+      "fetchedAt": "2026-11-03T11:37:59.689+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T11:27:47.109+08:00",
+      "fetchedAt": "2026-11-03T11:37:59.699+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T11:27:47.109+08:00",
+      "fetchedAt": "2026-11-03T11:37:59.700+08:00",
       "error": "未启用",
       "disabled": true
     }
