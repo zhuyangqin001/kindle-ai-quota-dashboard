@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T09:05:18.633+08:00",
+  "updatedAt": "2026-11-03T09:25:36.082+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.7,
-    "feelsLikeC": 18.4,
-    "humidity": 88,
-    "windKph": 8.7,
-    "windDir": "东北风",
+    "tempC": 18.3,
+    "feelsLikeC": 18.9,
+    "humidity": 86,
+    "windKph": 9.3,
+    "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T09:05:18.633+08:00",
+    "observedAt": "2026-11-03T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-03T09:25:36.082+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "大河新绿",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725114.shtml",
-        "publishedAt": "2026-11-03T08:57:27.000+08:00"
+        "title": "走进“中国宣笔之乡” 定格千年传承的“毫”厘功夫",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209570.shtml",
+        "publishedAt": "2026-11-03T09:17:02.000+08:00"
       },
       {
-        "title": "力箭二号遥二运载火箭发射成功",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725111.shtml",
-        "publishedAt": "2026-11-03T08:50:23.000+08:00"
+        "title": "下雪啦！多地雨雪来袭 北方部分省份开启供暖模式",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725123.shtml",
+        "publishedAt": "2026-11-03T09:16:14.000+08:00"
       },
       {
-        "title": "中国人民银行决定上调金融机构外汇存款准备金率",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725110.shtml",
-        "publishedAt": "2026-11-03T08:45:49.000+08:00"
+        "title": "上海精心保障第九届进博会：让全球好产品进得来、卖得好、留得下",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725122.shtml",
+        "publishedAt": "2026-11-03T09:15:56.000+08:00"
       },
       {
-        "title": "雪豹“凌小寒”经全力抢救无效病亡",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725108.shtml",
-        "publishedAt": "2026-11-03T08:35:54.000+08:00"
+        "title": "走一条被文物“打开”的长征路|文化中国行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725121.shtml",
+        "publishedAt": "2026-11-03T09:10:26.000+08:00"
       },
       {
-        "title": "江淮江汉江南有中到大雨 冷空气将影响内蒙古和东北地区等地",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725105.shtml",
-        "publishedAt": "2026-11-03T08:24:55.000+08:00"
+        "title": "第九届进博会新闻中心今天正式启用",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725120.shtml",
+        "publishedAt": "2026-11-03T09:05:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T09:05:11.073+08:00",
+    "fetchedAt": "2026-11-03T09:25:33.058+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T09:05:11.757+08:00",
+      "fetchedAt": "2026-11-03T09:25:33.651+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T14:05:18.000+08:00"
+          "resetAt": "2026-11-03T14:25:35.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T09:05:11.760+08:00",
+      "fetchedAt": "2026-11-03T09:25:33.652+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T09:05:11.770+08:00",
+      "fetchedAt": "2026-11-03T09:25:33.661+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T09:05:11.771+08:00",
+      "fetchedAt": "2026-11-03T09:25:33.662+08:00",
       "error": "未启用",
       "disabled": true
     }
