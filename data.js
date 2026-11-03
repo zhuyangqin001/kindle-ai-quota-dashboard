@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T17:24:24.138+08:00",
+  "updatedAt": "2026-11-03T17:34:36.271+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.5,
-    "feelsLikeC": 22.3,
-    "humidity": 82,
-    "windKph": 5.5,
+    "tempC": 20.2,
+    "feelsLikeC": 22.1,
+    "humidity": 85,
+    "windKph": 6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-03T17:24:24.138+08:00",
+    "observedAt": "2026-11-03T17:30:00.000+08:00",
+    "fetchedAt": "2026-11-03T17:34:36.271+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第八届海南岛国际电影节推出国别与地区特别展映",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725438.shtml",
-        "publishedAt": "2026-11-03T17:13:50.000+08:00"
+        "title": "澳大利亚央行加息至4.85% 创18年来新高",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725397.shtml",
+        "publishedAt": "2026-11-03T17:31:01.000+08:00"
       },
       {
-        "title": "前三季度云南对东盟进出口1161亿元 创历史新高",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725436.shtml",
-        "publishedAt": "2026-11-03T17:13:46.000+08:00"
+        "title": "俄乌相互袭击对方能源设施",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725394.shtml",
+        "publishedAt": "2026-11-03T17:30:11.000+08:00"
       },
       {
-        "title": "报告：粮食安全保障法实施取得阶段性成效",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725435.shtml",
-        "publishedAt": "2026-11-03T17:13:42.000+08:00"
+        "title": "加蓬总统恩圭马等外国领导人将出席第九届中国国际进口博览会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725444.shtml",
+        "publishedAt": "2026-11-03T17:28:09.000+08:00"
       },
       {
-        "title": "莫迪警告：持续依赖化石燃料可能冲击全球经济",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725441.shtml",
-        "publishedAt": "2026-11-03T17:12:22.000+08:00"
+        "title": "最高法报告：现有港澳地区人民陪审员124人",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725443.shtml",
+        "publishedAt": "2026-11-03T17:27:15.000+08:00"
       },
       {
-        "title": "第三届“超级枢纽博览会”在香港开幕 探索智慧机场等发展方向",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725437.shtml",
-        "publishedAt": "2026-11-03T17:11:30.000+08:00"
+        "title": "受最强厄尔尼诺影响 预计今冬中国气温整体偏高",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725442.shtml",
+        "publishedAt": "2026-11-03T17:26:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T17:24:21.035+08:00",
+    "fetchedAt": "2026-11-03T17:34:32.794+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T17:24:21.776+08:00",
+      "fetchedAt": "2026-11-03T17:34:33.505+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T17:24:21.779+08:00",
+      "fetchedAt": "2026-11-03T17:34:33.508+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T17:24:21.790+08:00",
+      "fetchedAt": "2026-11-03T17:34:33.520+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T17:24:21.790+08:00",
+      "fetchedAt": "2026-11-03T17:34:33.520+08:00",
       "error": "未启用",
       "disabled": true
     }
