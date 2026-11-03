@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T10:06:21.160+08:00",
+  "updatedAt": "2026-11-03T10:16:33.181+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
-    "tempC": 17.6,
-    "feelsLikeC": 18.1,
-    "humidity": 91,
-    "windKph": 10.1,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 17.7,
+    "feelsLikeC": 18.3,
+    "humidity": 89,
+    "windKph": 9.8,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-03T10:06:21.160+08:00",
+    "observedAt": "2026-11-03T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-03T10:16:33.182+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“红色铸魂·立德树人”新时代高校美育共同体在京成立",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725136.shtml",
-        "publishedAt": "2026-11-03T09:58:29.000+08:00"
+        "title": "今年前三季度广州民营经济增加值破万亿 占GDP比重超四成",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725173.shtml",
+        "publishedAt": "2026-11-03T10:14:41.000+08:00"
       },
       {
-        "title": "力箭二号遥二运载火箭发射成功",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209590.shtml",
-        "publishedAt": "2026-11-03T09:58:21.000+08:00"
+        "title": "“十五五”末 新兴支柱产业产值有望超10万亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725178.shtml",
+        "publishedAt": "2026-11-03T10:14:39.000+08:00"
       },
       {
-        "title": "A股开盘：超4000只个股飘绿，三大指数集体低开",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725161.shtml",
-        "publishedAt": "2026-11-03T09:54:56.000+08:00"
+        "title": "WTA250香港公开赛：王欣瑜女单首轮晋级",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725157.shtml",
+        "publishedAt": "2026-11-03T10:14:07.000+08:00"
       },
       {
-        "title": "凝聚新生代同心力量 赋能民营经济新发展 ——辽宁海城市年轻一代民营经济代表人士培训班开班",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725134.shtml",
-        "publishedAt": "2026-11-03T09:54:14.000+08:00"
+        "title": "广西举办第四届职业技能大赛 近千名选手亮绝活",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725139.shtml",
+        "publishedAt": "2026-11-03T10:13:17.000+08:00"
       },
       {
-        "title": "一旦感染，终身携带！这种病毒进入高发期",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-03/10725159.shtml",
-        "publishedAt": "2026-11-03T09:52:10.000+08:00"
+        "title": "西藏洛扎：卡久景区生态文旅融合助推文旅产业发展",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725138.shtml",
+        "publishedAt": "2026-11-03T10:10:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T10:06:17.835+08:00",
+    "fetchedAt": "2026-11-03T10:16:30.256+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T10:06:18.557+08:00",
+      "fetchedAt": "2026-11-03T10:16:30.978+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T15:06:20.000+08:00"
+          "resetAt": "2026-11-03T15:16:32.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T10:06:18.560+08:00",
+      "fetchedAt": "2026-11-03T10:16:30.981+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T10:06:18.571+08:00",
+      "fetchedAt": "2026-11-03T10:16:30.991+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T10:06:18.571+08:00",
+      "fetchedAt": "2026-11-03T10:16:30.991+08:00",
       "error": "未启用",
       "disabled": true
     }
