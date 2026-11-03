@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T18:55:59.158+08:00",
+  "updatedAt": "2026-11-03T19:16:18.000+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.6,
-    "feelsLikeC": 21.2,
+    "tempC": 19.5,
+    "feelsLikeC": 21,
     "humidity": 91,
-    "windKph": 8.5,
+    "windKph": 9.1,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T18:55:59.158+08:00",
+    "observedAt": "2026-11-03T19:15:00.000+08:00",
+    "fetchedAt": "2026-11-03T19:16:18.000+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "第七届民族美术作品展览在呼和浩特开展",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725480.shtml",
+        "publishedAt": "2026-11-03T19:02:04.000+08:00"
+      },
+      {
+        "title": "这些东西致癌，千万别囤了！快转给家人",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725508.shtml",
+        "publishedAt": "2026-11-03T19:00:28.000+08:00"
+      },
+      {
+        "title": "2026“一带一路”媒体合作论坛在福州举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725489.shtml",
+        "publishedAt": "2026-11-03T18:59:12.000+08:00"
+      },
+      {
+        "title": "浙江“美丽经济”观察：监管如何为化妆品产业搭桥？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725502.shtml",
+        "publishedAt": "2026-11-03T18:58:36.000+08:00"
+      },
+      {
         "title": "江苏省工业和信息化厅党组成员谢中东接受审查调查",
         "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725487.shtml",
         "publishedAt": "2026-11-03T18:50:27.000+08:00"
-      },
-      {
-        "title": "美国亚利桑那大学教授王明武：中国干眼治疗科普教育与研发技术已走在世界前列",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-03/10725496.shtml",
-        "publishedAt": "2026-11-03T18:49:59.000+08:00"
-      },
-      {
-        "title": "张升民会见俄罗斯国防部长",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725481.shtml",
-        "publishedAt": "2026-11-03T18:49:01.000+08:00"
-      },
-      {
-        "title": "沈阳机床股份有限公司副总经理陈红海接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725485.shtml",
-        "publishedAt": "2026-11-03T18:48:35.000+08:00"
-      },
-      {
-        "title": "草原好货“出乡记”：中国北疆返乡“90后”创业观察",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725486.shtml",
-        "publishedAt": "2026-11-03T18:48:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T18:55:55.759+08:00",
+    "fetchedAt": "2026-11-03T19:16:14.952+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T18:55:56.522+08:00",
+      "fetchedAt": "2026-11-03T19:16:15.730+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T23:55:58.000+08:00"
+          "resetAt": "2026-11-04T00:16:17.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T18:55:56.525+08:00",
+      "fetchedAt": "2026-11-03T19:16:15.734+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T18:55:56.536+08:00",
+      "fetchedAt": "2026-11-03T19:16:15.744+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T18:55:56.536+08:00",
+      "fetchedAt": "2026-11-03T19:16:15.744+08:00",
       "error": "未启用",
       "disabled": true
     }
