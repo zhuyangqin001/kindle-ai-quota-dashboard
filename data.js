@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T18:15:21.557+08:00",
+  "updatedAt": "2026-11-03T18:35:40.309+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.8,
-    "feelsLikeC": 21.6,
+    "tempC": 19.7,
+    "feelsLikeC": 21.4,
     "humidity": 90,
-    "windKph": 7.4,
+    "windKph": 8,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-03T18:15:21.558+08:00",
+    "observedAt": "2026-11-03T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-03T18:35:40.309+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重庆合川：多举措推动钓鱼城从“历史深处”走向“世界前台”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725469.shtml",
-        "publishedAt": "2026-11-03T18:12:23.000+08:00"
+        "title": "中新网评：别让“狂欢”纵容恶意",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725467.shtml",
+        "publishedAt": "2026-11-03T18:27:30.000+08:00"
       },
       {
-        "title": "阿曼苏丹访华期间见证21项双边合作成果集中展示",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725471.shtml",
-        "publishedAt": "2026-11-03T18:10:55.000+08:00"
+        "title": "退伍老兵救起7岁落水男孩 见义勇为奖金全数捐出",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725478.shtml",
+        "publishedAt": "2026-11-03T18:25:56.000+08:00"
       },
       {
-        "title": "湖北随州千年银杏谷游客沉浸式感受秋日浪漫",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725464.shtml",
-        "publishedAt": "2026-11-03T18:07:47.000+08:00"
+        "title": "2026澳中商业与青年领袖盛典在悉尼举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725465.shtml",
+        "publishedAt": "2026-11-03T18:24:30.000+08:00"
       },
       {
-        "title": "受贿数额特别巨大 内蒙古通辽市原副市长白立柱被公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725468.shtml",
-        "publishedAt": "2026-11-03T18:07:31.000+08:00"
+        "title": "直播海报：层林霞色上新 慢直播北京红叶实况",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725479.shtml",
+        "publishedAt": "2026-11-03T18:22:12.000+08:00"
       },
       {
-        "title": "探访三亚国际免税城：Sanya Haul火热",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725460.shtml",
-        "publishedAt": "2026-11-03T18:03:41.000+08:00"
+        "title": "戍边18载，藏族军人旺堆次仁：三次与“死神”擦肩而过",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725477.shtml",
+        "publishedAt": "2026-11-03T18:19:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T18:15:16.913+08:00",
+    "fetchedAt": "2026-11-03T18:35:36.131+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T18:15:17.653+08:00",
+      "fetchedAt": "2026-11-03T18:35:36.867+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T23:15:21.000+08:00"
+          "resetAt": "2026-11-03T23:35:39.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T18:15:17.655+08:00",
+      "fetchedAt": "2026-11-03T18:35:36.870+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T18:15:17.665+08:00",
+      "fetchedAt": "2026-11-03T18:35:36.881+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T18:15:17.666+08:00",
+      "fetchedAt": "2026-11-03T18:35:36.881+08:00",
       "error": "未启用",
       "disabled": true
     }
