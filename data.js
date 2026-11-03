@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T20:27:40.132+08:00",
+  "updatedAt": "2026-11-03T20:48:01.055+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.8,
-    "feelsLikeC": 20.2,
-    "humidity": 93,
-    "windKph": 8.4,
+    "tempC": 18.6,
+    "feelsLikeC": 20.1,
+    "humidity": 94,
+    "windKph": 8.2,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-03T20:27:40.132+08:00",
+    "observedAt": "2026-11-03T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T20:48:01.055+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "台湾教师扎根三明乡村 以设计创意推动闽台少数民族文化研究",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725528.shtml",
-        "publishedAt": "2026-11-03T20:17:52.000+08:00"
+        "title": "山西“晋问AI”上线 海内外华人可追溯姓氏源流与迁徙路径",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725532.shtml",
+        "publishedAt": "2026-11-03T20:42:45.000+08:00"
       },
       {
-        "title": "亚太经合组织第37届外交和贸易双部长视频会议举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725552.shtml",
-        "publishedAt": "2026-11-03T20:02:03.000+08:00"
+        "title": "北京奥林匹克公园银杏叶进入最佳观赏期",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209684.shtml",
+        "publishedAt": "2026-11-03T20:40:20.000+08:00"
       },
       {
-        "title": "世界黄金协会：2026年初至今全球央行累计购金同比增6%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725541.shtml",
-        "publishedAt": "2026-11-03T19:58:03.000+08:00"
+        "title": "千年妈祖信俗远播四海 “Z世代”接续讲好妈祖故事",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725544.shtml",
+        "publishedAt": "2026-11-03T20:30:03.000+08:00"
       },
       {
-        "title": "（经济观察）海南自贸港两项新政出台 制度红利将加速变现",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725539.shtml",
-        "publishedAt": "2026-11-03T19:57:27.000+08:00"
+        "title": "青海启动青藏高原地球系统数据平台建设试点",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725531.shtml",
+        "publishedAt": "2026-11-03T20:23:10.000+08:00"
       },
       {
-        "title": "广交会观察：一条牛仔裤串联中国纺织服装制造业变迁",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725530.shtml",
-        "publishedAt": "2026-11-03T19:57:19.000+08:00"
+        "title": "向海而生 向新而行丨智慧跃迁，从码头自动化到航运服务智慧化的津港实践",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725562.shtml",
+        "publishedAt": "2026-11-03T20:21:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T20:27:36.965+08:00",
+    "fetchedAt": "2026-11-03T20:47:58.391+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T20:27:37.662+08:00",
+      "fetchedAt": "2026-11-03T20:47:59.127+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T20:27:37.666+08:00",
+      "fetchedAt": "2026-11-03T20:47:59.130+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T20:27:37.677+08:00",
+      "fetchedAt": "2026-11-03T20:47:59.140+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T20:27:37.677+08:00",
+      "fetchedAt": "2026-11-03T20:47:59.140+08:00",
       "error": "未启用",
       "disabled": true
     }
