@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T07:53:53.928+08:00",
+  "updatedAt": "2026-11-03T08:14:14.509+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.7,
-    "feelsLikeC": 18.1,
-    "humidity": 71,
-    "windKph": 10.8,
+    "tempC": 18.6,
+    "feelsLikeC": 18.2,
+    "humidity": 72,
+    "windKph": 10.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T07:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T07:53:53.929+08:00",
+    "observedAt": "2026-11-03T08:00:00.000+08:00",
+    "fetchedAt": "2026-11-03T08:14:14.509+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "算力用电年均新增一千亿度以上，怎么接住？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725099.shtml",
-        "publishedAt": "2026-11-03T07:46:45.000+08:00"
+        "title": "李强会见阿曼苏丹海赛姆",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209569.shtml",
+        "publishedAt": "2026-11-03T08:08:28.000+08:00"
       },
       {
-        "title": "Token登上“双十一”货架",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725098.shtml",
-        "publishedAt": "2026-11-03T07:45:19.000+08:00"
+        "title": "何立峰在山西调研时指出 统筹发展和安全 坚定有序推进产业转型升级",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725094.shtml",
+        "publishedAt": "2026-11-03T08:00:28.000+08:00"
       },
       {
-        "title": "酒店长租业务，法律关系待厘清",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725097.shtml",
-        "publishedAt": "2026-11-03T07:43:11.000+08:00"
+        "title": "赵乐际同俄罗斯联邦委员会主席马特维延科会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725092.shtml",
+        "publishedAt": "2026-11-03T07:59:50.000+08:00"
       },
       {
-        "title": "“炸药包”突然扔向人群？沉浸式体验不能吓着观众",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725096.shtml",
-        "publishedAt": "2026-11-03T07:41:57.000+08:00"
+        "title": "陈文清主持召开中央政法委员会全体会议 传达学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725091.shtml",
+        "publishedAt": "2026-11-03T07:59:00.000+08:00"
       },
       {
-        "title": "控制食量可减轻慢性炎症 3种方法帮你抗炎抗衰减重",
-        "url": "https://www.chinanews.com.cn/life/2026/11-03/10725095.shtml",
-        "publishedAt": "2026-11-03T07:33:07.000+08:00"
+        "title": "核心商业秘密和技术人员被“打包”带走 高新企业遭遇“塌方式”技术迁移",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725101.shtml",
+        "publishedAt": "2026-11-03T07:54:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T07:53:51.216+08:00",
+    "fetchedAt": "2026-11-03T08:14:11.225+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T07:53:51.924+08:00",
+      "fetchedAt": "2026-11-03T08:14:11.961+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T12:53:53.000+08:00"
+          "resetAt": "2026-11-03T13:14:14.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T07:53:51.927+08:00",
+      "fetchedAt": "2026-11-03T08:14:11.963+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T07:53:51.934+08:00",
+      "fetchedAt": "2026-11-03T08:14:11.969+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T07:53:51.934+08:00",
+      "fetchedAt": "2026-11-03T08:14:11.969+08:00",
       "error": "未启用",
       "disabled": true
     }
