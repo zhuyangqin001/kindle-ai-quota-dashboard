@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T23:40:58.278+08:00",
+  "updatedAt": "2026-11-03T23:51:10.850+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 18.1,
-    "feelsLikeC": 19.4,
+    "feelsLikeC": 19.5,
     "humidity": 97,
-    "windKph": 9.3,
+    "windKph": 9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T23:40:58.278+08:00",
+    "observedAt": "2026-11-03T23:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T23:51:10.851+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "山西吕梁“十五五”规划：旧产能提质 新链条起势",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725667.shtml",
-        "publishedAt": "2026-11-03T23:38:25.000+08:00"
+        "title": "泰国（第四届）HSK留学中国与就业展在曼谷举办",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725676.shtml",
+        "publishedAt": "2026-11-03T23:44:37.000+08:00"
       },
       {
-        "title": "宁夏特色农产品亮相全国粮油和大豆产业博览会 产销对接收获颇丰",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725666.shtml",
-        "publishedAt": "2026-11-03T23:35:53.000+08:00"
+        "title": "麦后复种油葵测产喜获佳绩 引黄灌区一地双收拓宽增收路",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725675.shtml",
+        "publishedAt": "2026-11-03T23:43:51.000+08:00"
       },
       {
-        "title": "海南侨乡万宁兴隆咖啡 “买全球、卖全球”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725665.shtml",
-        "publishedAt": "2026-11-03T23:35:19.000+08:00"
+        "title": "一栋楼链全球 广州南沙打造跨境贸易“一站式”出海枢纽",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725673.shtml",
+        "publishedAt": "2026-11-03T23:43:21.000+08:00"
       },
       {
-        "title": "数字科技激活苗乡文化 湖南城步拓展文旅融合新场景",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725664.shtml",
-        "publishedAt": "2026-11-03T23:33:41.000+08:00"
+        "title": "上海七部门联合发文提升公众消防安全素质",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725672.shtml",
+        "publishedAt": "2026-11-03T23:42:57.000+08:00"
       },
       {
-        "title": "浙江海事金融探索迎新突破 落地首笔自贸区船舶授信业务",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725661.shtml",
-        "publishedAt": "2026-11-03T23:31:19.000+08:00"
+        "title": "展贸融合激活产业动能 中部农博会赋能湖南农业高质量发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725671.shtml",
+        "publishedAt": "2026-11-03T23:41:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T23:40:55.606+08:00",
+    "fetchedAt": "2026-11-03T23:51:08.135+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T23:40:56.305+08:00",
+      "fetchedAt": "2026-11-03T23:51:08.873+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T23:40:56.308+08:00",
+      "fetchedAt": "2026-11-03T23:51:08.876+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T23:40:56.318+08:00",
+      "fetchedAt": "2026-11-03T23:51:08.886+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T23:40:56.319+08:00",
+      "fetchedAt": "2026-11-03T23:51:08.886+08:00",
       "error": "未启用",
       "disabled": true
     }
