@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T20:48:01.055+08:00",
+  "updatedAt": "2026-11-03T20:58:14.890+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-03T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T20:48:01.055+08:00",
+    "fetchedAt": "2026-11-03T20:58:14.890+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "山西“晋问AI”上线 海内外华人可追溯姓氏源流与迁徙路径",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725532.shtml",
-        "publishedAt": "2026-11-03T20:42:45.000+08:00"
+        "title": "重庆支持新业态健康发展 给足创新“油门”也备好“刹车”红线",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725577.shtml",
+        "publishedAt": "2026-11-03T20:54:50.000+08:00"
       },
       {
-        "title": "北京奥林匹克公园银杏叶进入最佳观赏期",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-03/1209684.shtml",
-        "publishedAt": "2026-11-03T20:40:20.000+08:00"
+        "title": "澜湄六国青年创作百余条短视频 发出“相遇普洱”的云南之约",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725580.shtml",
+        "publishedAt": "2026-11-03T20:54:12.000+08:00"
       },
       {
-        "title": "千年妈祖信俗远播四海 “Z世代”接续讲好妈祖故事",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725544.shtml",
-        "publishedAt": "2026-11-03T20:30:03.000+08:00"
+        "title": "合唱比赛唱响了，诚信却“跑调”了！22名学生集体退货引争议",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725589.shtml",
+        "publishedAt": "2026-11-03T20:53:28.000+08:00"
       },
       {
-        "title": "青海启动青藏高原地球系统数据平台建设试点",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725531.shtml",
-        "publishedAt": "2026-11-03T20:23:10.000+08:00"
+        "title": "靶向开拓全球客源 吉林入境旅游提质提速升级",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725578.shtml",
+        "publishedAt": "2026-11-03T20:52:40.000+08:00"
       },
       {
-        "title": "向海而生 向新而行丨智慧跃迁，从码头自动化到航运服务智慧化的津港实践",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725562.shtml",
-        "publishedAt": "2026-11-03T20:21:26.000+08:00"
+        "title": "党的二十届五中全会《决定》是怎样诞生的",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725570.shtml",
+        "publishedAt": "2026-11-03T20:52:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T20:47:58.391+08:00",
+    "fetchedAt": "2026-11-03T20:58:11.894+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T20:47:59.127+08:00",
+      "fetchedAt": "2026-11-03T20:58:12.576+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T20:47:59.130+08:00",
+      "fetchedAt": "2026-11-03T20:58:12.580+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T20:47:59.140+08:00",
+      "fetchedAt": "2026-11-03T20:58:12.590+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T20:47:59.140+08:00",
+      "fetchedAt": "2026-11-03T20:58:12.590+08:00",
       "error": "未启用",
       "disabled": true
     }
