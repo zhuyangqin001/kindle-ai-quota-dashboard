@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T19:26:34.802+08:00",
+  "updatedAt": "2026-11-03T19:36:47.155+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.5,
-    "feelsLikeC": 21,
+    "tempC": 19.4,
+    "feelsLikeC": 20.9,
     "humidity": 91,
-    "windKph": 9.1,
+    "windKph": 9.2,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-03T19:26:34.802+08:00",
+    "observedAt": "2026-11-03T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-03T19:36:47.155+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "甘肃高校实训复刻矿山一线 以赛促教育匠才",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725509.shtml",
-        "publishedAt": "2026-11-03T19:23:09.000+08:00"
+        "title": "广东省足球青训中心揭牌成立",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725517.shtml",
+        "publishedAt": "2026-11-03T19:30:30.000+08:00"
       },
       {
-        "title": "从“挖煤”到“追光”：山西大同“源网荷储”蹚出新路",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725507.shtml",
-        "publishedAt": "2026-11-03T19:22:43.000+08:00"
+        "title": "三晋文化大模型“晋问AI”上线 数字人“晋豆”同步发布",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725516.shtml",
+        "publishedAt": "2026-11-03T19:30:26.000+08:00"
       },
       {
-        "title": "聚力打造全国火锅食材产业核心高地 重庆合川打好“三张牌”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725506.shtml",
-        "publishedAt": "2026-11-03T19:22:17.000+08:00"
+        "title": "宁夏：科普活动进校园 学生动手学科学",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725515.shtml",
+        "publishedAt": "2026-11-03T19:29:16.000+08:00"
       },
       {
-        "title": "中老缅泰四国海事部门海口共商澜湄技术规则更新修订",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-03/10725505.shtml",
-        "publishedAt": "2026-11-03T19:21:55.000+08:00"
+        "title": "广东佛山南海举办主题恳亲暨海外招商大会",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725514.shtml",
+        "publishedAt": "2026-11-03T19:28:41.000+08:00"
       },
       {
-        "title": "第十届“一带一路”与西部发展研讨会在京举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725518.shtml",
-        "publishedAt": "2026-11-03T19:20:47.000+08:00"
+        "title": "大连商品交易所三个塑料月均价期货上市一年运行平稳",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725512.shtml",
+        "publishedAt": "2026-11-03T19:28:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T19:26:32.329+08:00",
+    "fetchedAt": "2026-11-03T19:36:43.863+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T19:26:33.040+08:00",
+      "fetchedAt": "2026-11-03T19:36:44.589+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T19:26:33.043+08:00",
+      "fetchedAt": "2026-11-03T19:36:44.593+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T19:26:33.053+08:00",
+      "fetchedAt": "2026-11-03T19:36:44.603+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T19:26:33.053+08:00",
+      "fetchedAt": "2026-11-03T19:36:44.603+08:00",
       "error": "未启用",
       "disabled": true
     }
