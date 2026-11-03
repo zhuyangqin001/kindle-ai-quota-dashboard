@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T21:39:01.659+08:00",
+  "updatedAt": "2026-11-03T21:59:20.158+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 18.4,
-    "feelsLikeC": 19.9,
-    "humidity": 95,
-    "windKph": 8.7,
+    "feelsLikeC": 19.8,
+    "humidity": 96,
+    "windKph": 8.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T21:39:01.659+08:00",
+    "observedAt": "2026-11-03T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-03T21:59:20.158+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从试点示范到跨区域规模化应用 京津冀交通数智化转型提速",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725601.shtml",
-        "publishedAt": "2026-11-03T21:22:02.000+08:00"
+        "title": "2026中国广播电视精品报告发布活动在京举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725625.shtml",
+        "publishedAt": "2026-11-03T21:56:31.000+08:00"
       },
       {
-        "title": "台湾10月PMI扩张放缓 专家指AI供应链缺料所致",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725599.shtml",
-        "publishedAt": "2026-11-03T21:21:28.000+08:00"
+        "title": "九万余盆菊花铺满杭城 长三角菊花精品展在杭州启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725622.shtml",
+        "publishedAt": "2026-11-03T21:54:33.000+08:00"
       },
       {
-        "title": "逛浙江景点，年轻人为何带走一本书？",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725603.shtml",
-        "publishedAt": "2026-11-03T21:19:13.000+08:00"
+        "title": "河北临漳韭菜香飘京津冀",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725616.shtml",
+        "publishedAt": "2026-11-03T21:53:05.000+08:00"
       },
       {
-        "title": "香港今年前三季度GDP实现5年来同期最快增长",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725596.shtml",
-        "publishedAt": "2026-11-03T21:17:57.000+08:00"
+        "title": "第九届“敦煌文博会”敦煌研究院“典范”“高地”建设成果展开展",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725605.shtml",
+        "publishedAt": "2026-11-03T21:51:19.000+08:00"
       },
       {
-        "title": "（粤港澳大湾区）2026粤港澳大湾区全球招商大会发布42个重大投资项目",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-03/10725597.shtml",
-        "publishedAt": "2026-11-03T21:17:07.000+08:00"
+        "title": "伊朗议长：伊朗民族不会屈服于敌人的威胁和军事行动",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725547.shtml",
+        "publishedAt": "2026-11-03T21:48:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T21:38:58.413+08:00",
+    "fetchedAt": "2026-11-03T21:59:16.999+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T21:38:59.149+08:00",
+      "fetchedAt": "2026-11-03T21:59:17.741+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T21:38:59.152+08:00",
+      "fetchedAt": "2026-11-03T21:59:17.745+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T21:38:59.162+08:00",
+      "fetchedAt": "2026-11-03T21:59:17.752+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T21:38:59.162+08:00",
+      "fetchedAt": "2026-11-03T21:59:17.752+08:00",
       "error": "未启用",
       "disabled": true
     }
