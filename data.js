@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T15:52:43.622+08:00",
+  "updatedAt": "2026-11-03T16:13:01.927+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.1,
-    "feelsLikeC": 22.7,
+    "tempC": 21,
+    "feelsLikeC": 22.6,
     "humidity": 77,
-    "windKph": 5.3,
-    "windDir": "东南风",
+    "windKph": 5.6,
+    "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-03T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T15:52:43.623+08:00",
+    "observedAt": "2026-11-03T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-03T16:13:01.927+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国务院报告：去年10月以来金融市场运行总体稳定",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725357.shtml",
-        "publishedAt": "2026-11-03T15:45:45.000+08:00"
+        "title": "我国已制定实施新型储能国家标准及行业标准150项",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725374.shtml",
+        "publishedAt": "2026-11-03T16:05:40.000+08:00"
       },
       {
-        "title": "创意九图丨历“九”弥新看进博",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725359.shtml",
-        "publishedAt": "2026-11-03T15:44:13.000+08:00"
+        "title": "广东外贸千年：十三行开门，广交会接棒，窗口越开越大",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725352.shtml",
+        "publishedAt": "2026-11-03T16:04:38.000+08:00"
       },
       {
-        "title": "南京罗廊巷：螺蛳壳里做道场 老街更新留住年轻人",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725354.shtml",
-        "publishedAt": "2026-11-03T15:44:11.000+08:00"
+        "title": "人民陪审员法实施以来陪审员参与审结案件1550万件",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725372.shtml",
+        "publishedAt": "2026-11-03T16:02:10.000+08:00"
       },
       {
-        "title": "莫名收到大量退费投诉 背后暗藏蹊跷",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-03/10725351.shtml",
-        "publishedAt": "2026-11-03T15:37:19.000+08:00"
+        "title": "舞剧《天工开物》将第六次进京 以明制美学再现中华奇书",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725353.shtml",
+        "publishedAt": "2026-11-03T16:01:38.000+08:00"
       },
       {
-        "title": "党的二十届五中全会文件及辅导材料在京首发",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725350.shtml",
-        "publishedAt": "2026-11-03T15:35:49.000+08:00"
+        "title": "鲁本·奥斯特伦德担任第八届海南岛国际电影节“金椰奖”评委会主席",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-03/10725360.shtml",
+        "publishedAt": "2026-11-03T16:00:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T15:52:40.508+08:00",
+    "fetchedAt": "2026-11-03T16:12:58.320+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T15:52:41.058+08:00",
+      "fetchedAt": "2026-11-03T16:12:59.036+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T15:52:41.061+08:00",
+      "fetchedAt": "2026-11-03T16:12:59.039+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T15:52:41.066+08:00",
+      "fetchedAt": "2026-11-03T16:12:59.049+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T15:52:41.067+08:00",
+      "fetchedAt": "2026-11-03T16:12:59.050+08:00",
       "error": "未启用",
       "disabled": true
     }
