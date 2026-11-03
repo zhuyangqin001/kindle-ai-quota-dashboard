@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T16:33:24.356+08:00",
+  "updatedAt": "2026-11-03T16:43:36.472+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-03T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T16:33:24.356+08:00",
+    "fetchedAt": "2026-11-03T16:43:36.472+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "何以中国｜红山文化，从牛河梁“活”起来",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725388.shtml",
-        "publishedAt": "2026-11-03T16:30:12.000+08:00"
+        "title": "第九届敦煌文博会启幕 促丝路沿线国家多领域交流",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-03/10725390.shtml",
+        "publishedAt": "2026-11-03T16:41:06.000+08:00"
       },
       {
-        "title": "乌镇“网事”绘就数字生活新图景",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725386.shtml",
-        "publishedAt": "2026-11-03T16:26:24.000+08:00"
+        "title": "（第九届进博会）前瞻：从展台到日常，进博会增添上海消费吸引力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725395.shtml",
+        "publishedAt": "2026-11-03T16:40:46.000+08:00"
       },
       {
-        "title": "新华时评丨开源共享迈向美好数智未来",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-03/10725383.shtml",
-        "publishedAt": "2026-11-03T16:22:09.000+08:00"
+        "title": "2026“一带一路”媒体合作论坛在福州举行",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-03/10725396.shtml",
+        "publishedAt": "2026-11-03T16:40:38.000+08:00"
       },
       {
-        "title": "检察机关依法分别对韩玉明、白立柱、鲍长山、李国锋、魏学林提起公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725380.shtml",
-        "publishedAt": "2026-11-03T16:21:53.000+08:00"
+        "title": "亚足联：沙特男足亚洲杯延期至2027年12月举行",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725399.shtml",
+        "publishedAt": "2026-11-03T16:40:34.000+08:00"
       },
       {
-        "title": "生物多样性首次全球审查 中国交出亮眼答卷",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725381.shtml",
-        "publishedAt": "2026-11-03T16:20:31.000+08:00"
+        "title": "报告显示知识产权检察工作专业化水平有效提升",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725410.shtml",
+        "publishedAt": "2026-11-03T16:39:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T16:33:22.097+08:00",
+    "fetchedAt": "2026-11-03T16:43:33.393+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T16:33:22.539+08:00",
+      "fetchedAt": "2026-11-03T16:43:33.875+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T16:33:22.541+08:00",
+      "fetchedAt": "2026-11-03T16:43:33.876+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T16:33:22.547+08:00",
+      "fetchedAt": "2026-11-03T16:43:33.881+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T16:33:22.547+08:00",
+      "fetchedAt": "2026-11-03T16:43:33.881+08:00",
       "error": "未启用",
       "disabled": true
     }
