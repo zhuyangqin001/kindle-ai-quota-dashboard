@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T08:34:37.494+08:00",
+  "updatedAt": "2026-11-03T08:44:49.187+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-03T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-03T08:34:37.494+08:00",
+    "fetchedAt": "2026-11-03T08:44:49.187+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "雪豹“凌小寒”经全力抢救无效病亡",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725108.shtml",
+        "publishedAt": "2026-11-03T08:35:54.000+08:00"
+      },
       {
         "title": "江淮江汉江南有中到大雨 冷空气将影响内蒙古和东北地区等地",
         "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725105.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "何立峰在山西调研时指出 统筹发展和安全 坚定有序推进产业转型升级",
         "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725094.shtml",
         "publishedAt": "2026-11-03T08:00:28.000+08:00"
-      },
-      {
-        "title": "赵乐际同俄罗斯联邦委员会主席马特维延科会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725092.shtml",
-        "publishedAt": "2026-11-03T07:59:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T08:34:34.955+08:00",
+    "fetchedAt": "2026-11-03T08:44:46.440+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T08:34:35.703+08:00",
+      "fetchedAt": "2026-11-03T08:44:47.149+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T13:34:37.000+08:00"
+          "resetAt": "2026-11-03T13:44:48.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T08:34:35.707+08:00",
+      "fetchedAt": "2026-11-03T08:44:47.152+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T08:34:35.716+08:00",
+      "fetchedAt": "2026-11-03T08:44:47.162+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T08:34:35.717+08:00",
+      "fetchedAt": "2026-11-03T08:44:47.162+08:00",
       "error": "未启用",
       "disabled": true
     }
