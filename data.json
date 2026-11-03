@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T12:18:47.933+08:00",
+  "updatedAt": "2026-11-03T12:29:00.763+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-03T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-03T12:18:47.933+08:00",
+    "fetchedAt": "2026-11-03T12:29:00.764+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "陕西省青少年艺术体操冠军赛落幕 百余选手同台演绎“毯上芭蕾”",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725233.shtml",
-        "publishedAt": "2026-11-03T12:12:08.000+08:00"
+        "title": "“粗碳”到“细碳”：老工业基地吉林造“能上天的丝”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725246.shtml",
+        "publishedAt": "2026-11-03T12:16:58.000+08:00"
       },
       {
-        "title": "2026世界斯诺克巡回赛国际锦标赛：卫冕冠军吴宜泽惜败",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-03/10725247.shtml",
-        "publishedAt": "2026-11-03T12:11:34.000+08:00"
+        "title": "欣欣教育基金会理事长丁永庆：“我在与时间赛跑”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-03/10725244.shtml",
+        "publishedAt": "2026-11-03T12:16:18.000+08:00"
       },
       {
-        "title": "重庆动物园大熊猫“莽仔”的幼仔首次与公众见面",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725232.shtml",
-        "publishedAt": "2026-11-03T12:11:34.000+08:00"
+        "title": "海南创新实施“人工智能+普法”赋能自贸港网络法治宣传",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725243.shtml",
+        "publishedAt": "2026-11-03T12:15:08.000+08:00"
       },
       {
-        "title": "朝鲜驳斥美国加密货币盗窃指控",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725236.shtml",
-        "publishedAt": "2026-11-03T12:08:00.000+08:00"
+        "title": "海南聚焦青少年法治教育 织密家校社协同防护网",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-03/10725242.shtml",
+        "publishedAt": "2026-11-03T12:14:48.000+08:00"
       },
       {
-        "title": "国家知识产权局印发《专利和商标审查“十五五”规划》",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725250.shtml",
-        "publishedAt": "2026-11-03T12:06:26.000+08:00"
+        "title": "一滴牛奶的智能旅途：探秘新疆乳制品企业的智慧工厂",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725241.shtml",
+        "publishedAt": "2026-11-03T12:13:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T12:18:44.231+08:00",
+    "fetchedAt": "2026-11-03T12:28:57.451+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T12:18:44.840+08:00",
+      "fetchedAt": "2026-11-03T12:28:58.155+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-03T17:18:46.000+08:00"
+          "resetAt": "2026-11-03T17:29:00.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T12:18:44.843+08:00",
+      "fetchedAt": "2026-11-03T12:28:58.158+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T12:18:44.853+08:00",
+      "fetchedAt": "2026-11-03T12:28:58.168+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T12:18:44.854+08:00",
+      "fetchedAt": "2026-11-03T12:28:58.168+08:00",
       "error": "未启用",
       "disabled": true
     }
