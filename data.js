@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T07:30:32.879+08:00",
+  "updatedAt": "2026-11-04T07:40:44.547+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-04T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T07:30:32.879+08:00",
+    "fetchedAt": "2026-11-04T07:40:44.547+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "甘肃陇南：深秋时节的甜蜜收获",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-04/1209696.shtml",
+        "publishedAt": "2026-11-04T07:30:33.000+08:00"
+      },
+      {
+        "title": "特朗普宣布：将停止每年约40亿美元对以色列援助",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725711.shtml",
+        "publishedAt": "2026-11-04T07:28:29.000+08:00"
+      },
+      {
+        "title": "亚太经合组织召开第37届外交和贸易双部长会议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725709.shtml",
+        "publishedAt": "2026-11-04T07:25:43.000+08:00"
+      },
       {
         "title": "全国放心消费平台正式上线 面向消费者提供哪些功能？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725710.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "欧洲多架客机及一艘邮轮遭炸弹威胁",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725708.shtml",
         "publishedAt": "2026-11-04T07:07:04.000+08:00"
-      },
-      {
-        "title": "印尼警方：3人因涉嫌窃听总统被列为犯罪嫌疑人",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725702.shtml",
-        "publishedAt": "2026-11-04T07:06:16.000+08:00"
-      },
-      {
-        "title": "CBA常规赛：辽宁队险胜广州队 赢下第一阶段收官战",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-04/10725704.shtml",
-        "publishedAt": "2026-11-04T07:05:48.000+08:00"
-      },
-      {
-        "title": "泰国将进口电动汽车消费税税率上调至35%",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725705.shtml",
-        "publishedAt": "2026-11-04T07:04:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T07:30:30.305+08:00",
+    "fetchedAt": "2026-11-04T07:40:41.957+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T07:30:31.022+08:00",
+      "fetchedAt": "2026-11-04T07:40:42.640+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T12:30:32.000+08:00"
+          "resetAt": "2026-11-04T12:40:44.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T07:30:31.024+08:00",
+      "fetchedAt": "2026-11-04T07:40:42.643+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T07:30:31.032+08:00",
+      "fetchedAt": "2026-11-04T07:40:42.652+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T07:30:31.032+08:00",
+      "fetchedAt": "2026-11-04T07:40:42.652+08:00",
       "error": "未启用",
       "disabled": true
     }
