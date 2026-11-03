@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T07:20:21.348+08:00",
+  "updatedAt": "2026-11-04T07:30:32.879+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 18.1,
     "feelsLikeC": 19.9,
     "humidity": 97,
-    "windKph": 6.4,
+    "windKph": 5.9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T07:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T07:20:21.348+08:00",
+    "observedAt": "2026-11-04T07:30:00.000+08:00",
+    "fetchedAt": "2026-11-04T07:30:32.879+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全国放心消费平台正式上线 面向消费者提供哪些功能？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725710.shtml",
+        "publishedAt": "2026-11-04T07:22:57.000+08:00"
+      },
       {
         "title": "欧洲多架客机及一艘邮轮遭炸弹威胁",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725708.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "泰国将进口电动汽车消费税税率上调至35%",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725705.shtml",
         "publishedAt": "2026-11-04T07:04:54.000+08:00"
-      },
-      {
-        "title": "柬埔寨将在全国200所公立中小学校试行全日制教学",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725706.shtml",
-        "publishedAt": "2026-11-04T07:04:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T07:20:18.596+08:00",
+    "fetchedAt": "2026-11-04T07:30:30.305+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T07:20:19.293+08:00",
+      "fetchedAt": "2026-11-04T07:30:31.022+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T12:20:20.000+08:00"
+          "resetAt": "2026-11-04T12:30:32.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T07:20:19.296+08:00",
+      "fetchedAt": "2026-11-04T07:30:31.024+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T07:20:19.307+08:00",
+      "fetchedAt": "2026-11-04T07:30:31.032+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T07:20:19.308+08:00",
+      "fetchedAt": "2026-11-04T07:30:31.032+08:00",
       "error": "未启用",
       "disabled": true
     }
