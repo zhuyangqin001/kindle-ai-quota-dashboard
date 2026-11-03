@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-03T19:46:59.090+08:00",
+  "updatedAt": "2026-11-03T19:57:10.730+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-03T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-03T19:46:59.090+08:00",
+    "fetchedAt": "2026-11-03T19:57:10.730+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "九赴进博，拜耳处方药深植“创新之树”，共筑“健康中国”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725526.shtml",
+        "publishedAt": "2026-11-03T19:48:55.000+08:00"
+      },
+      {
+        "title": "从乌镇出发，凝聚构建网络空间命运共同体的合力",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-03/10725449.shtml",
+        "publishedAt": "2026-11-03T19:47:30.000+08:00"
+      },
       {
         "title": "广东省足球青训中心揭牌成立",
         "url": "https://www.chinanews.com.cn/ty/2026/11-03/10725517.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "宁夏：科普活动进校园 学生动手学科学",
         "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725515.shtml",
         "publishedAt": "2026-11-03T19:29:16.000+08:00"
-      },
-      {
-        "title": "广东佛山南海举办主题恳亲暨海外招商大会",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-03/10725514.shtml",
-        "publishedAt": "2026-11-03T19:28:41.000+08:00"
-      },
-      {
-        "title": "大连商品交易所三个塑料月均价期货上市一年运行平稳",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725512.shtml",
-        "publishedAt": "2026-11-03T19:28:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-03T19:46:55.949+08:00",
+    "fetchedAt": "2026-11-03T19:57:07.617+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-03T19:46:56.667+08:00",
+      "fetchedAt": "2026-11-03T19:57:08.356+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-03T19:46:56.671+08:00",
+      "fetchedAt": "2026-11-03T19:57:08.359+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T19:46:56.680+08:00",
+      "fetchedAt": "2026-11-03T19:57:08.370+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-03T19:46:56.680+08:00",
+      "fetchedAt": "2026-11-03T19:57:08.370+08:00",
       "error": "未启用",
       "disabled": true
     }
