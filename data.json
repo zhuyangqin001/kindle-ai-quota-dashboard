@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T21:27:51.948+08:00",
+  "updatedAt": "2026-11-04T21:38:04.647+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.9,
-    "feelsLikeC": 19.4,
+    "tempC": 17.8,
+    "feelsLikeC": 19.3,
     "humidity": 96,
     "windKph": 6.9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T21:27:51.949+08:00",
+    "observedAt": "2026-11-04T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-04T21:38:04.647+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "王毅谈澜湄合作第十一次外长会成果",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726262.shtml",
+        "publishedAt": "2026-11-04T21:32:19.000+08:00"
+      },
+      {
+        "title": "11月4日夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-04/10726267.shtml",
+        "publishedAt": "2026-11-04T21:29:49.000+08:00"
+      },
+      {
+        "title": "葡语国家“洋中医”江西学艺",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726263.shtml",
+        "publishedAt": "2026-11-04T21:29:25.000+08:00"
+      },
       {
         "title": "美国中期选举变局：民主党或重掌两院，特朗普面临更强制衡",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
@@ -28,24 +43,9 @@
         "title": "王毅会见柬埔寨副首相兼外交大臣：双方要严打电诈不停步",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726217.shtml",
         "publishedAt": "2026-11-04T21:18:52.000+08:00"
-      },
-      {
-        "title": "王毅：中方愿同越方一道妥处海上问题，共同维护南海和平稳定",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726218.shtml",
-        "publishedAt": "2026-11-04T21:18:44.000+08:00"
-      },
-      {
-        "title": "李强会见世界知识产权组织总干事邓鸿森",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726219.shtml",
-        "publishedAt": "2026-11-04T21:18:34.000+08:00"
-      },
-      {
-        "title": "张家界天门山天梯跑酷大赛开赛 海内外选手挑战999级天梯赛道",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726248.shtml",
-        "publishedAt": "2026-11-04T21:17:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T21:27:48.406+08:00",
+    "fetchedAt": "2026-11-04T21:38:01.153+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T21:27:49.038+08:00",
+      "fetchedAt": "2026-11-04T21:38:01.874+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T02:27:50.000+08:00"
+          "resetAt": "2026-11-05T02:38:04.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T21:27:49.040+08:00",
+      "fetchedAt": "2026-11-04T21:38:01.877+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T21:27:49.046+08:00",
+      "fetchedAt": "2026-11-04T21:38:01.888+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T21:27:49.046+08:00",
+      "fetchedAt": "2026-11-04T21:38:01.888+08:00",
       "error": "未启用",
       "disabled": true
     }
