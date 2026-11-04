@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T20:47:09.762+08:00",
+  "updatedAt": "2026-11-04T21:07:27.324+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18,
-    "feelsLikeC": 19.7,
+    "tempC": 17.9,
+    "feelsLikeC": 19.5,
     "humidity": 96,
-    "windKph": 5.9,
+    "windKph": 6.7,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T20:47:09.762+08:00",
+    "observedAt": "2026-11-04T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T21:07:27.324+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "聚焦先进制造用工需求 湖南专场招聘会搭建人岗对接桥梁",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726212.shtml",
-        "publishedAt": "2026-11-04T20:40:56.000+08:00"
+        "title": "云南“十五五”将推进城市“5分钟消防救援圈”建设",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726234.shtml",
+        "publishedAt": "2026-11-04T20:59:41.000+08:00"
       },
       {
-        "title": "《今日与未来——美术馆策展实践与智慧建构》新书发布",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726211.shtml",
-        "publishedAt": "2026-11-04T20:40:36.000+08:00"
+        "title": "（文化新纪行）敦煌舞“破壁”探新生",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726233.shtml",
+        "publishedAt": "2026-11-04T20:59:05.000+08:00"
       },
       {
-        "title": "王毅同柬泰外长茶叙交流",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726216.shtml",
-        "publishedAt": "2026-11-04T20:40:30.000+08:00"
+        "title": "中国深化与东盟医疗保障合作 跨境医药平台成贸易新纽带",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-04/10726231.shtml",
+        "publishedAt": "2026-11-04T20:58:31.000+08:00"
       },
       {
-        "title": "《中国特色国际化高中课程规范》团体标准正式发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726215.shtml",
-        "publishedAt": "2026-11-04T20:28:15.000+08:00"
+        "title": "（投资中国）丹佛斯在天津扩建全球制冷研发测试中心",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726230.shtml",
+        "publishedAt": "2026-11-04T20:56:37.000+08:00"
       },
       {
-        "title": "四川省高原病防治基地落成启用 提供“预防—治疗—康复”全周期健康服务体系",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-04/10726213.shtml",
-        "publishedAt": "2026-11-04T20:21:51.000+08:00"
+        "title": "“总统遭到监听，部长们也遭到监听” 印尼总统遭窃听案迷雾重重",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726240.shtml",
+        "publishedAt": "2026-11-04T20:56:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T20:47:03.798+08:00",
+    "fetchedAt": "2026-11-04T21:07:24.761+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T20:47:04.526+08:00",
+      "fetchedAt": "2026-11-04T21:07:25.504+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T01:47:06.000+08:00"
+          "resetAt": "2026-11-05T02:07:26.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T20:47:04.530+08:00",
+      "fetchedAt": "2026-11-04T21:07:25.507+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T20:47:04.539+08:00",
+      "fetchedAt": "2026-11-04T21:07:25.517+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T20:47:04.539+08:00",
+      "fetchedAt": "2026-11-04T21:07:25.517+08:00",
       "error": "未启用",
       "disabled": true
     }
