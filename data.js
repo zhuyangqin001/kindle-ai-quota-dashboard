@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T22:18:52.925+08:00",
+  "updatedAt": "2026-11-04T22:29:05.229+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-04T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T22:18:52.925+08:00",
+    "fetchedAt": "2026-11-04T22:29:05.229+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "多国市长走进浙江宁波 感受城市风貌与人文魅力",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726285.shtml",
-        "publishedAt": "2026-11-04T22:10:37.000+08:00"
+        "title": "游客参观新疆吐鲁番坎儿井",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-04/1209817.shtml",
+        "publishedAt": "2026-11-04T22:28:16.000+08:00"
       },
       {
-        "title": "2026世界斯诺克巡回赛国际锦标赛：丁俊晖惜败 无缘四强",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726282.shtml",
-        "publishedAt": "2026-11-04T22:09:29.000+08:00"
+        "title": "宁夏统筹10亿元财力托举人才强区 真金白银引才育才",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726313.shtml",
+        "publishedAt": "2026-11-04T22:27:54.000+08:00"
       },
       {
-        "title": "浙江金华：《英士大学在金华》新书发布",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726300.shtml",
-        "publishedAt": "2026-11-04T22:09:11.000+08:00"
+        "title": "中国电视剧制作产业协会传播工作委员会正式揭牌",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726312.shtml",
+        "publishedAt": "2026-11-04T22:26:44.000+08:00"
       },
       {
-        "title": "江西铅山：特殊“账本”见证高山畲寨共富蝶变",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10726297.shtml",
-        "publishedAt": "2026-11-04T22:08:37.000+08:00"
+        "title": "全球创意经济与创意生态可持续发展合作中心（成都）落地成都高新区",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726310.shtml",
+        "publishedAt": "2026-11-04T22:24:36.000+08:00"
       },
       {
-        "title": "2026世界斯诺克巡回赛国际锦标赛：范争一战胜对手 晋级四强",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726281.shtml",
-        "publishedAt": "2026-11-04T22:07:49.000+08:00"
+        "title": "2026京港澳青年科学家大会在北京召开",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726309.shtml",
+        "publishedAt": "2026-11-04T22:23:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T22:18:48.234+08:00",
+    "fetchedAt": "2026-11-04T22:29:02.088+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T22:18:48.973+08:00",
+      "fetchedAt": "2026-11-04T22:29:02.832+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T03:18:52.000+08:00"
+          "resetAt": "2026-11-05T03:29:04.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T22:18:48.976+08:00",
+      "fetchedAt": "2026-11-04T22:29:02.835+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T22:18:48.985+08:00",
+      "fetchedAt": "2026-11-04T22:29:02.844+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T22:18:48.985+08:00",
+      "fetchedAt": "2026-11-04T22:29:02.844+08:00",
       "error": "未启用",
       "disabled": true
     }
