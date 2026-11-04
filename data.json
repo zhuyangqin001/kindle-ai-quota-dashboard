@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T10:13:28.894+08:00",
+  "updatedAt": "2026-11-04T10:23:44.455+08:00",
   "weather": {
     "ok": true,
-    "description": "阵雨",
+    "description": "雨",
     "iconKey": "rain",
-    "tempC": 19.7,
-    "feelsLikeC": 22.2,
-    "humidity": 90,
-    "windKph": 2.4,
+    "tempC": 20,
+    "feelsLikeC": 22.5,
+    "humidity": 89,
+    "windKph": 2.9,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T10:13:28.894+08:00",
+    "observedAt": "2026-11-04T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T10:23:44.455+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "20项领先科技，透视数智时代创新脉动",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725799.shtml",
+        "publishedAt": "2026-11-04T10:14:56.000+08:00"
+      },
       {
         "title": "国家统计局：10月下旬流通领域重要生产资料28种产品价格下降",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725788.shtml",
@@ -38,14 +43,9 @@
         "title": "制造业基本盘更加稳固——中国经济三季报亮点解析",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725794.shtml",
         "publishedAt": "2026-11-04T10:08:38.000+08:00"
-      },
-      {
-        "title": "直播：层林霞色上新 慢直播北京红叶实况",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-04/10725790.shtml",
-        "publishedAt": "2026-11-04T10:06:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T10:13:25.822+08:00",
+    "fetchedAt": "2026-11-04T10:23:39.916+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T10:13:26.567+08:00",
+      "fetchedAt": "2026-11-04T10:23:40.640+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T15:13:28.000+08:00"
+          "resetAt": "2026-11-04T15:23:41.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T10:13:26.570+08:00",
+      "fetchedAt": "2026-11-04T10:23:40.643+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T10:13:26.580+08:00",
+      "fetchedAt": "2026-11-04T10:23:40.653+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T10:13:26.580+08:00",
+      "fetchedAt": "2026-11-04T10:23:40.654+08:00",
       "error": "未启用",
       "disabled": true
     }
