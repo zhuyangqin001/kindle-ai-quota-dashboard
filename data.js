@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T18:34:16.456+08:00",
+  "updatedAt": "2026-11-04T18:44:31.012+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-04T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T18:34:16.456+08:00",
+    "fetchedAt": "2026-11-04T18:44:31.012+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全国首单港口物流公募REITs在天津获批",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726133.shtml",
-        "publishedAt": "2026-11-04T18:21:08.000+08:00"
+        "title": "A股周三放量上涨 科创50指数涨近10%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726146.shtml",
+        "publishedAt": "2026-11-04T18:38:33.000+08:00"
       },
       {
-        "title": "福建武夷山至韩国首尔航线复航",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726132.shtml",
-        "publishedAt": "2026-11-04T18:20:32.000+08:00"
+        "title": "中国—岛屿国家海洋合作论坛在福建平潭开幕 共商海岛可持续治理",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726145.shtml",
+        "publishedAt": "2026-11-04T18:37:39.000+08:00"
       },
       {
-        "title": "海南：支持存量土地混合开发与容积率跨地块转移",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726131.shtml",
-        "publishedAt": "2026-11-04T18:19:42.000+08:00"
+        "title": "大陆船只在台湾周边海域巡查涉及军事目的？国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726143.shtml",
+        "publishedAt": "2026-11-04T18:37:31.000+08:00"
       },
       {
-        "title": "（第九届进博会）进博会上海馆：八大板块解锁“上海定制”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726130.shtml",
-        "publishedAt": "2026-11-04T18:18:58.000+08:00"
+        "title": "报告：中国智能经济呈现强劲增长态势",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726142.shtml",
+        "publishedAt": "2026-11-04T18:36:11.000+08:00"
       },
       {
-        "title": "竖屏里的中国故事：从“中国热播”到“全球通刷”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726129.shtml",
-        "publishedAt": "2026-11-04T18:12:34.000+08:00"
+        "title": "中国开工建造全球首艘液氨双燃料动力阿芙拉型油船",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726141.shtml",
+        "publishedAt": "2026-11-04T18:35:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T18:34:13.665+08:00",
+    "fetchedAt": "2026-11-04T18:44:28.337+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T18:34:14.349+08:00",
+      "fetchedAt": "2026-11-04T18:44:29.020+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T23:34:16.000+08:00"
+          "resetAt": "2026-11-04T23:44:30.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T18:34:14.351+08:00",
+      "fetchedAt": "2026-11-04T18:44:29.022+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T18:34:14.361+08:00",
+      "fetchedAt": "2026-11-04T18:44:29.031+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T18:34:14.361+08:00",
+      "fetchedAt": "2026-11-04T18:44:29.031+08:00",
       "error": "未启用",
       "disabled": true
     }
