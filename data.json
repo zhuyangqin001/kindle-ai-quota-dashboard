@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T10:23:44.455+08:00",
+  "updatedAt": "2026-11-04T10:33:55.767+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 20,
-    "feelsLikeC": 22.5,
-    "humidity": 89,
-    "windKph": 2.9,
+    "tempC": 20.3,
+    "feelsLikeC": 22.8,
+    "humidity": 87,
+    "windKph": 3.3,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T10:23:44.455+08:00",
+    "observedAt": "2026-11-04T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-04T10:33:55.767+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "20项领先科技，透视数智时代创新脉动",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725799.shtml",
-        "publishedAt": "2026-11-04T10:14:56.000+08:00"
+        "title": "从“救一只”到“护一群” 三亚全链条守护“龟”家路",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725811.shtml",
+        "publishedAt": "2026-11-04T10:26:39.000+08:00"
       },
       {
-        "title": "国家统计局：10月下旬流通领域重要生产资料28种产品价格下降",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725788.shtml",
-        "publishedAt": "2026-11-04T10:11:36.000+08:00"
+        "title": "一图读懂知识产权检察工作报告",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725814.shtml",
+        "publishedAt": "2026-11-04T10:26:02.000+08:00"
       },
       {
-        "title": "中法市长圆桌会议在辽宁大连举行 构建中法城市合作新格局",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725783.shtml",
-        "publishedAt": "2026-11-04T10:10:22.000+08:00"
+        "title": "新阶层·新经济｜“80后”干品钦：用新思维把老手艺做活",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725801.shtml",
+        "publishedAt": "2026-11-04T10:24:54.000+08:00"
       },
       {
-        "title": "2026年世界互联网大会蓝皮书发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725795.shtml",
-        "publishedAt": "2026-11-04T10:09:14.000+08:00"
+        "title": "湖南常德精准开展就业援藏 助力31名西藏山南青年跨省逐梦",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725809.shtml",
+        "publishedAt": "2026-11-04T10:24:48.000+08:00"
       },
       {
-        "title": "制造业基本盘更加稳固——中国经济三季报亮点解析",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725794.shtml",
-        "publishedAt": "2026-11-04T10:08:38.000+08:00"
+        "title": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725810.shtml",
+        "publishedAt": "2026-11-04T10:24:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T10:23:39.916+08:00",
+    "fetchedAt": "2026-11-04T10:33:53.537+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T10:23:40.640+08:00",
+      "fetchedAt": "2026-11-04T10:33:53.944+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T15:23:41.000+08:00"
+          "resetAt": "2026-11-04T15:33:55.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T10:23:40.643+08:00",
+      "fetchedAt": "2026-11-04T10:33:53.946+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T10:23:40.653+08:00",
+      "fetchedAt": "2026-11-04T10:33:53.950+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T10:23:40.654+08:00",
+      "fetchedAt": "2026-11-04T10:33:53.951+08:00",
       "error": "未启用",
       "disabled": true
     }
