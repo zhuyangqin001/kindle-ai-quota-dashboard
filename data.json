@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T21:38:04.647+08:00",
+  "updatedAt": "2026-11-04T21:58:24.279+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 17.8,
-    "feelsLikeC": 19.3,
-    "humidity": 96,
-    "windKph": 6.9,
+    "feelsLikeC": 19.2,
+    "humidity": 95,
+    "windKph": 6.8,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T21:38:04.647+08:00",
+    "observedAt": "2026-11-04T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-04T21:58:24.279+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "王毅谈澜湄合作第十一次外长会成果",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726262.shtml",
-        "publishedAt": "2026-11-04T21:32:19.000+08:00"
+        "title": "向海图强：一场跨越会场与海上的“中国式商量”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726278.shtml",
+        "publishedAt": "2026-11-04T21:51:16.000+08:00"
       },
       {
-        "title": "11月4日夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-04/10726267.shtml",
-        "publishedAt": "2026-11-04T21:29:49.000+08:00"
+        "title": "世界显示产业创新发展大会成都开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726273.shtml",
+        "publishedAt": "2026-11-04T21:42:11.000+08:00"
       },
       {
-        "title": "葡语国家“洋中医”江西学艺",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726263.shtml",
-        "publishedAt": "2026-11-04T21:29:25.000+08:00"
+        "title": "美国邮轮因燃油资金危机停航后驶离柬埔寨",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726271.shtml",
+        "publishedAt": "2026-11-04T21:42:01.000+08:00"
       },
       {
-        "title": "美国中期选举变局：民主党或重掌两院，特朗普面临更强制衡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726258.shtml",
-        "publishedAt": "2026-11-04T21:21:12.000+08:00"
+        "title": "北京电影学院院长：表演创作中情感的传递无法用AI替代",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726268.shtml",
+        "publishedAt": "2026-11-04T21:41:37.000+08:00"
       },
       {
-        "title": "王毅会见柬埔寨副首相兼外交大臣：双方要严打电诈不停步",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726217.shtml",
-        "publishedAt": "2026-11-04T21:18:52.000+08:00"
+        "title": "天津口岸新增直航东南亚海运航线",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726275.shtml",
+        "publishedAt": "2026-11-04T21:40:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T21:38:01.153+08:00",
+    "fetchedAt": "2026-11-04T21:58:19.915+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T21:38:01.874+08:00",
+      "fetchedAt": "2026-11-04T21:58:20.654+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T02:38:04.000+08:00"
+          "resetAt": "2026-11-05T02:58:22.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T21:38:01.877+08:00",
+      "fetchedAt": "2026-11-04T21:58:20.657+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T21:38:01.888+08:00",
+      "fetchedAt": "2026-11-04T21:58:20.667+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T21:38:01.888+08:00",
+      "fetchedAt": "2026-11-04T21:58:20.667+08:00",
       "error": "未启用",
       "disabled": true
     }
