@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T11:04:26.643+08:00",
+  "updatedAt": "2026-11-04T11:24:44.691+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 20.9,
-    "feelsLikeC": 23.4,
-    "humidity": 85,
-    "windKph": 3.2,
+    "tempC": 21.1,
+    "feelsLikeC": 23.7,
+    "humidity": 84,
+    "windKph": 2.7,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T11:04:26.643+08:00",
+    "observedAt": "2026-11-04T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T11:24:44.691+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "金与正：美国持续发出对朝敌对信号",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725841.shtml",
-        "publishedAt": "2026-11-04T10:57:06.000+08:00"
+        "title": "东盟旅游热榜",
+        "url": "https://www.chinanews.com.cn/kong/2026/11-04/10725857.shtml",
+        "publishedAt": "2026-11-04T11:18:03.000+08:00"
       },
       {
-        "title": "南京大学就智慧教室系统发布说明：当前已不再统计抬头率数据",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725832.shtml",
-        "publishedAt": "2026-11-04T10:54:50.000+08:00"
+        "title": "济南市人民检察院举行第三届特约检察员聘请仪式暨座谈会",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10725856.shtml",
+        "publishedAt": "2026-11-04T11:16:51.000+08:00"
       },
       {
-        "title": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725836.shtml",
-        "publishedAt": "2026-11-04T10:50:02.000+08:00"
+        "title": "国台办：台胞大陆游从奔赴风景转向探寻文脉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725854.shtml",
+        "publishedAt": "2026-11-04T11:11:53.000+08:00"
       },
       {
-        "title": "菲仕兰母婴健康社区科普行动走进河南新乡",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725833.shtml",
-        "publishedAt": "2026-11-04T10:47:54.000+08:00"
+        "title": "巴基斯坦成功试射首枚国产空对空导弹",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725852.shtml",
+        "publishedAt": "2026-11-04T11:10:19.000+08:00"
       },
       {
-        "title": "“文化外卖订单”第四年 她们从客厅一路弹上月光舞台",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725830.shtml",
-        "publishedAt": "2026-11-04T10:46:24.000+08:00"
+        "title": "台退役“金门舰”转交菲律宾，国台办：对外部势力无底线献媚输诚",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725851.shtml",
+        "publishedAt": "2026-11-04T11:08:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T11:04:23.566+08:00",
+    "fetchedAt": "2026-11-04T11:24:40.994+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T11:04:24.291+08:00",
+      "fetchedAt": "2026-11-04T11:24:41.695+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T16:04:25.000+08:00"
+          "resetAt": "2026-11-04T16:24:43.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T11:04:24.294+08:00",
+      "fetchedAt": "2026-11-04T11:24:41.698+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T11:04:24.304+08:00",
+      "fetchedAt": "2026-11-04T11:24:41.706+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T11:04:24.304+08:00",
+      "fetchedAt": "2026-11-04T11:24:41.706+08:00",
       "error": "未启用",
       "disabled": true
     }
