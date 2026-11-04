@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T09:02:20.464+08:00",
+  "updatedAt": "2026-11-04T09:12:32.399+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-04T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T09:02:20.464+08:00",
+    "fetchedAt": "2026-11-04T09:12:32.399+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "冷空气侵袭北方 贵州湖南江西降雨较强",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725741.shtml",
+        "publishedAt": "2026-11-04T09:04:30.000+08:00"
+      },
       {
         "title": "两股冷空气接连影响我国 南方大范围阴雨持续",
         "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725739.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "特写｜日本宪法公布80周年 国会前响起和平呼声",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725735.shtml",
         "publishedAt": "2026-11-04T08:41:35.000+08:00"
-      },
-      {
-        "title": "中国搭台 全球共享！乌镇峰会首次全方位呈现“智能互联网”图景",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725734.shtml",
-        "publishedAt": "2026-11-04T08:40:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T09:02:18.116+08:00",
+    "fetchedAt": "2026-11-04T09:12:29.340+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T09:02:18.747+08:00",
+      "fetchedAt": "2026-11-04T09:12:30.027+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T14:02:20.000+08:00"
+          "resetAt": "2026-11-04T14:12:31.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T09:02:18.751+08:00",
+      "fetchedAt": "2026-11-04T09:12:30.029+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T09:02:18.757+08:00",
+      "fetchedAt": "2026-11-04T09:12:30.036+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T09:02:18.757+08:00",
+      "fetchedAt": "2026-11-04T09:12:30.037+08:00",
       "error": "未启用",
       "disabled": true
     }
