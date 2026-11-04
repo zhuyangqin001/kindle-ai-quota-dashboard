@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T06:37:39.257+08:00",
+  "updatedAt": "2026-11-05T06:47:49.641+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.7,
-    "feelsLikeC": 17.2,
+    "tempC": 16.6,
+    "feelsLikeC": 17.1,
     "humidity": 86,
-    "windKph": 5.8,
+    "windKph": 6.1,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T06:37:39.257+08:00",
+    "observedAt": "2026-11-05T06:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T06:47:49.641+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "10月中国电商物流指数持续回暖向好 旺季履约保障有力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726339.shtml",
+        "publishedAt": "2026-11-05T06:43:39.000+08:00"
+      },
+      {
+        "title": "无端贬损、排挤孤立、越界骚扰……破解对抗“职场软暴力”维权难题",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726338.shtml",
+        "publishedAt": "2026-11-05T06:43:15.000+08:00"
+      },
       {
         "title": "中东欧四国总统峰会在斯洛伐克举行",
         "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726334.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "（经济观察）香港渐成中企“跨境架构中枢”和“国际标准试验场”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726325.shtml",
         "publishedAt": "2026-11-04T23:45:42.000+08:00"
-      },
-      {
-        "title": "“十五五”末中国社会消费品零售总额预计达60万亿元左右",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726323.shtml",
-        "publishedAt": "2026-11-04T23:34:23.000+08:00"
-      },
-      {
-        "title": "“十五五”时期中国将新建约1.5万公里铁路",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726322.shtml",
-        "publishedAt": "2026-11-04T23:28:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T06:37:37.034+08:00",
+    "fetchedAt": "2026-11-05T06:47:47.232+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T06:37:37.395+08:00",
+      "fetchedAt": "2026-11-05T06:47:47.950+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T11:37:39.000+08:00"
+          "resetAt": "2026-11-05T11:47:49.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T06:37:37.397+08:00",
+      "fetchedAt": "2026-11-05T06:47:47.954+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T06:37:37.402+08:00",
+      "fetchedAt": "2026-11-05T06:47:47.964+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T06:37:37.402+08:00",
+      "fetchedAt": "2026-11-05T06:47:47.964+08:00",
       "error": "未启用",
       "disabled": true
     }
