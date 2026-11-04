@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T23:50:31.124+08:00",
+  "updatedAt": "2026-11-05T00:10:48.515+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 17.2,
-    "feelsLikeC": 18.7,
-    "humidity": 97,
-    "windKph": 5.6,
+    "feelsLikeC": 18.6,
+    "humidity": 96,
+    "windKph": 5.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T23:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T23:50:31.124+08:00",
+    "observedAt": "2026-11-05T00:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T00:10:48.515+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中东欧四国总统峰会在斯洛伐克举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726334.shtml",
+        "publishedAt": "2026-11-05T00:09:38.000+08:00"
+      },
+      {
+        "title": "进博会接力广交会 合作共赢如何再走深？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726333.shtml",
+        "publishedAt": "2026-11-04T23:45:50.000+08:00"
+      },
+      {
+        "title": "（经济观察）香港渐成中企“跨境架构中枢”和“国际标准试验场”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726325.shtml",
+        "publishedAt": "2026-11-04T23:45:42.000+08:00"
+      },
       {
         "title": "“十五五”末中国社会消费品零售总额预计达60万亿元左右",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726323.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "“十五五”时期中国将新建约1.5万公里铁路",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726322.shtml",
         "publishedAt": "2026-11-04T23:28:01.000+08:00"
-      },
-      {
-        "title": "亚洲杯延期一年 中东紧张局势如何搅动全球体育赛历",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-04/10726332.shtml",
-        "publishedAt": "2026-11-04T23:26:35.000+08:00"
-      },
-      {
-        "title": "电动自行车违停难禁 “管不住”究竟卡在哪？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726331.shtml",
-        "publishedAt": "2026-11-04T23:18:45.000+08:00"
-      },
-      {
-        "title": "火灾烟霾致印尼急性呼吸道感染病例超40万例",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726324.shtml",
-        "publishedAt": "2026-11-04T23:01:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T23:50:28.418+08:00",
+    "fetchedAt": "2026-11-05T00:10:45.693+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T23:50:29.044+08:00",
+      "fetchedAt": "2026-11-05T00:10:46.044+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T04:50:30.000+08:00"
+          "resetAt": "2026-11-05T05:10:47.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T23:50:29.047+08:00",
+      "fetchedAt": "2026-11-05T00:10:46.046+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T23:50:29.054+08:00",
+      "fetchedAt": "2026-11-05T00:10:46.051+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T23:50:29.054+08:00",
+      "fetchedAt": "2026-11-05T00:10:46.051+08:00",
       "error": "未启用",
       "disabled": true
     }
