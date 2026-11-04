@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T18:44:31.012+08:00",
+  "updatedAt": "2026-11-04T19:04:48.544+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 19.4,
-    "feelsLikeC": 21.6,
-    "humidity": 97,
-    "windKph": 8.2,
+    "tempC": 18.9,
+    "feelsLikeC": 20.7,
+    "humidity": 98,
+    "windKph": 9.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T18:44:31.012+08:00",
+    "observedAt": "2026-11-04T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T19:04:48.545+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "A股周三放量上涨 科创50指数涨近10%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726146.shtml",
-        "publishedAt": "2026-11-04T18:38:33.000+08:00"
+        "title": "捐款近5亿美元却成“最大输家之一” 马斯克发声",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726156.shtml",
+        "publishedAt": "2026-11-04T18:58:02.000+08:00"
       },
       {
-        "title": "中国—岛屿国家海洋合作论坛在福建平潭开幕 共商海岛可持续治理",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726145.shtml",
-        "publishedAt": "2026-11-04T18:37:39.000+08:00"
+        "title": "清华大学留英硕士被骗40多万元后失联！收起看客心态，这场“精神围猎”值得每一个人警惕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726155.shtml",
+        "publishedAt": "2026-11-04T18:56:52.000+08:00"
       },
       {
-        "title": "大陆船只在台湾周边海域巡查涉及军事目的？国台办回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726143.shtml",
-        "publishedAt": "2026-11-04T18:37:31.000+08:00"
+        "title": "唤醒“沉睡资产” 中国文旅产业向存量空间要增长",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726151.shtml",
+        "publishedAt": "2026-11-04T18:45:12.000+08:00"
       },
       {
-        "title": "报告：中国智能经济呈现强劲增长态势",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726142.shtml",
-        "publishedAt": "2026-11-04T18:36:11.000+08:00"
+        "title": "（乡村行·看振兴）黑土白菜“腌”出冬日酸香 梅里斯酸菜产业铺就乡村振兴路",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726150.shtml",
+        "publishedAt": "2026-11-04T18:43:50.000+08:00"
       },
       {
-        "title": "中国开工建造全球首艘液氨双燃料动力阿芙拉型油船",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726141.shtml",
-        "publishedAt": "2026-11-04T18:35:27.000+08:00"
+        "title": "中国铁道建筑集团有限公司党委常委李兴龙接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726101.shtml",
+        "publishedAt": "2026-11-04T18:43:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T18:44:28.337+08:00",
+    "fetchedAt": "2026-11-04T19:04:44.938+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T18:44:29.020+08:00",
+      "fetchedAt": "2026-11-04T19:04:45.683+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T23:44:30.000+08:00"
+          "resetAt": "2026-11-05T00:04:48.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T18:44:29.022+08:00",
+      "fetchedAt": "2026-11-04T19:04:45.686+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T18:44:29.031+08:00",
+      "fetchedAt": "2026-11-04T19:04:45.696+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T18:44:29.031+08:00",
+      "fetchedAt": "2026-11-04T19:04:45.696+08:00",
       "error": "未启用",
       "disabled": true
     }
