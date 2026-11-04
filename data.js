@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T17:21:31.435+08:00",
+  "updatedAt": "2026-11-04T17:31:43.425+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 20.2,
-    "feelsLikeC": 23.2,
-    "humidity": 95,
-    "windKph": 3.9,
+    "tempC": 20.1,
+    "feelsLikeC": 23,
+    "humidity": 96,
+    "windKph": 4.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T17:21:31.435+08:00",
+    "observedAt": "2026-11-04T17:30:00.000+08:00",
+    "fetchedAt": "2026-11-04T17:31:43.425+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "新疆新型储能装机规模超2500万千瓦 居全国首位",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726099.shtml",
+        "publishedAt": "2026-11-04T17:28:09.000+08:00"
+      },
+      {
+        "title": "从“本地办”到“异地办” 陕西法院交叉执行破局“执行难”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726098.shtml",
+        "publishedAt": "2026-11-04T17:22:33.000+08:00"
+      },
       {
         "title": "秋粮丰收已成定局",
         "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726095.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "资本市场政策加力稳预期",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726090.shtml",
         "publishedAt": "2026-11-04T17:01:16.000+08:00"
-      },
-      {
-        "title": "在乌镇，找一找本届互联网大会的“新面孔”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726088.shtml",
-        "publishedAt": "2026-11-04T16:57:58.000+08:00"
-      },
-      {
-        "title": "中国AIMS望远镜发现耀斑爆发期间太阳大气磁场明显减弱现象",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726085.shtml",
-        "publishedAt": "2026-11-04T16:57:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T17:21:27.236+08:00",
+    "fetchedAt": "2026-11-04T17:31:40.630+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T17:21:27.955+08:00",
+      "fetchedAt": "2026-11-04T17:31:41.257+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T22:21:31.000+08:00"
+          "resetAt": "2026-11-04T22:31:42.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T17:21:27.959+08:00",
+      "fetchedAt": "2026-11-04T17:31:41.260+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T17:21:27.966+08:00",
+      "fetchedAt": "2026-11-04T17:31:41.270+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T17:21:27.967+08:00",
+      "fetchedAt": "2026-11-04T17:31:41.270+08:00",
       "error": "未启用",
       "disabled": true
     }
