@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T07:28:40.162+08:00",
+  "updatedAt": "2026-11-05T07:48:57.136+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 16.5,
-    "feelsLikeC": 16.8,
-    "humidity": 85,
-    "windKph": 6.6,
+    "feelsLikeC": 16.6,
+    "humidity": 84,
+    "windKph": 6.8,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T07:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T07:28:40.162+08:00",
+    "observedAt": "2026-11-05T07:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T07:48:57.136+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "补办身份证得先刷身份证？别让便民服务被细节卡住",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726353.shtml",
-        "publishedAt": "2026-11-05T07:26:52.000+08:00"
+        "title": "马斯克砸了近5亿美元，共和党还是输了中期选举丨国际早察",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726366.shtml",
+        "publishedAt": "2026-11-05T07:47:07.000+08:00"
       },
       {
-        "title": "信医生还是信AI？这是一个问题",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726352.shtml",
-        "publishedAt": "2026-11-05T07:25:56.000+08:00"
+        "title": "俄罗斯首都莫斯科庆祝“人民团结日”",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209828.shtml",
+        "publishedAt": "2026-11-05T07:44:04.000+08:00"
       },
       {
-        "title": "环卫工戴电子工牌引热议，网友在担忧什么？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726351.shtml",
-        "publishedAt": "2026-11-05T07:24:42.000+08:00"
+        "title": "“大字吸睛小字免责”式促销法律不认",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726363.shtml",
+        "publishedAt": "2026-11-05T07:41:58.000+08:00"
       },
       {
-        "title": "小心AI“谄媚”！ 60.4%受访者建议重要决定多在现实中征询不同人意见",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726350.shtml",
-        "publishedAt": "2026-11-05T07:22:59.000+08:00"
+        "title": "涉案超20亿元！特大养老集资诈骗案经抗诉改判",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726362.shtml",
+        "publishedAt": "2026-11-05T07:41:00.000+08:00"
       },
       {
-        "title": "美国突发直升机坠毁事故 致1死2伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726349.shtml",
-        "publishedAt": "2026-11-05T07:19:27.000+08:00"
+        "title": "投保者身故却无法定继承人 非亲扶养者能分保险金吗？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726361.shtml",
+        "publishedAt": "2026-11-05T07:37:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T07:28:37.532+08:00",
+    "fetchedAt": "2026-11-05T07:48:54.505+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T07:28:38.235+08:00",
+      "fetchedAt": "2026-11-05T07:48:55.209+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T12:28:39.000+08:00"
+          "resetAt": "2026-11-05T12:48:57.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T07:28:38.239+08:00",
+      "fetchedAt": "2026-11-05T07:48:55.212+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T07:28:38.248+08:00",
+      "fetchedAt": "2026-11-05T07:48:55.222+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T07:28:38.248+08:00",
+      "fetchedAt": "2026-11-05T07:48:55.222+08:00",
       "error": "未启用",
       "disabled": true
     }
