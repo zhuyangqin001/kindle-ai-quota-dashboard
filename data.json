@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T10:33:55.767+08:00",
+  "updatedAt": "2026-11-04T10:44:08.456+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-04T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T10:33:55.767+08:00",
+    "fetchedAt": "2026-11-04T10:44:08.456+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从“救一只”到“护一群” 三亚全链条守护“龟”家路",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725811.shtml",
-        "publishedAt": "2026-11-04T10:26:39.000+08:00"
+        "title": "陆委会称现在没有“台独”问题 国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725828.shtml",
+        "publishedAt": "2026-11-04T10:41:41.000+08:00"
       },
       {
-        "title": "一图读懂知识产权检察工作报告",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725814.shtml",
-        "publishedAt": "2026-11-04T10:26:02.000+08:00"
+        "title": "豫皖两省四县（市）警方跨“界”共护一方平安",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725820.shtml",
+        "publishedAt": "2026-11-04T10:38:39.000+08:00"
       },
       {
-        "title": "新阶层·新经济｜“80后”干品钦：用新思维把老手艺做活",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725801.shtml",
-        "publishedAt": "2026-11-04T10:24:54.000+08:00"
+        "title": "民革十四届十六次中常会在北京召开",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10725821.shtml",
+        "publishedAt": "2026-11-04T10:37:47.000+08:00"
       },
       {
-        "title": "湖南常德精准开展就业援藏 助力31名西藏山南青年跨省逐梦",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725809.shtml",
-        "publishedAt": "2026-11-04T10:24:48.000+08:00"
+        "title": "“驻华使节中医药健康日”在北京举办 加蓬中医药合作项目落地",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725822.shtml",
+        "publishedAt": "2026-11-04T10:37:23.000+08:00"
       },
       {
-        "title": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725810.shtml",
-        "publishedAt": "2026-11-04T10:24:24.000+08:00"
+        "title": "西班牙交通大臣因列车相撞事故宣布辞职",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725826.shtml",
+        "publishedAt": "2026-11-04T10:36:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T10:33:53.537+08:00",
+    "fetchedAt": "2026-11-04T10:44:05.131+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T10:33:53.944+08:00",
+      "fetchedAt": "2026-11-04T10:44:05.844+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T15:33:55.000+08:00"
+          "resetAt": "2026-11-04T15:44:07.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T10:33:53.946+08:00",
+      "fetchedAt": "2026-11-04T10:44:05.847+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T10:33:53.950+08:00",
+      "fetchedAt": "2026-11-04T10:44:05.856+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T10:33:53.951+08:00",
+      "fetchedAt": "2026-11-04T10:44:05.857+08:00",
       "error": "未启用",
       "disabled": true
     }
