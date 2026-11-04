@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T14:48:52.431+08:00",
+  "updatedAt": "2026-11-04T15:09:12.683+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 22.1,
-    "feelsLikeC": 23.9,
-    "humidity": 84,
-    "windKph": 11.5,
+    "tempC": 22.3,
+    "feelsLikeC": 23.3,
+    "humidity": 86,
+    "windKph": 18.3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T14:48:52.431+08:00",
+    "observedAt": "2026-11-04T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T15:09:12.683+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "摸清城市风险“家底”，上海交出超大城市风险治理答卷",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725958.shtml",
-        "publishedAt": "2026-11-04T14:45:17.000+08:00"
+        "title": "11月4日“农产品批发价格200指数”比昨天上升0.09个点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725963.shtml",
+        "publishedAt": "2026-11-04T15:01:13.000+08:00"
       },
       {
-        "title": "三千余名艺人信息被泄露 起底追星背后的黑色产业链",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-04/10725960.shtml",
-        "publishedAt": "2026-11-04T14:43:39.000+08:00"
+        "title": "诺奖得主瓦谢尔：科学的核心价值在于解决现实世界的挑战",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725967.shtml",
+        "publishedAt": "2026-11-04T14:56:27.000+08:00"
       },
       {
-        "title": "广交会观察：宠物用品展区热度高 “它经济”跑出外贸新增量",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725957.shtml",
-        "publishedAt": "2026-11-04T14:42:14.000+08:00"
+        "title": "民建重庆市委会赴豫冀专题调研 为搭建青少年网络保护屏障建言",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10725969.shtml",
+        "publishedAt": "2026-11-04T14:56:01.000+08:00"
       },
       {
-        "title": "旅游平台数据显示中国多地滑雪场“开板”迎客推升冰雪游热度",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725956.shtml",
-        "publishedAt": "2026-11-04T14:40:06.000+08:00"
+        "title": "特朗普承认伊朗战争是共和党中期选举失利的原因之一",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725971.shtml",
+        "publishedAt": "2026-11-04T14:55:15.000+08:00"
       },
       {
-        "title": "首批约300只大天鹅飞抵山西芮城圣天湖",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725954.shtml",
-        "publishedAt": "2026-11-04T14:38:44.000+08:00"
+        "title": "国台办回应台湾演员明道向上海交警赠锦旗",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725959.shtml",
+        "publishedAt": "2026-11-04T14:55:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T14:48:48.084+08:00",
+    "fetchedAt": "2026-11-04T15:09:08.131+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T14:48:48.673+08:00",
+      "fetchedAt": "2026-11-04T15:09:08.704+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T19:48:50.000+08:00"
+          "resetAt": "2026-11-04T20:09:10.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T14:48:48.677+08:00",
+      "fetchedAt": "2026-11-04T15:09:08.706+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T14:48:48.684+08:00",
+      "fetchedAt": "2026-11-04T15:09:08.716+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T14:48:48.685+08:00",
+      "fetchedAt": "2026-11-04T15:09:08.717+08:00",
       "error": "未启用",
       "disabled": true
     }
