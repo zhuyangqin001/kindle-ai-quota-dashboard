@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T13:06:53.970+08:00",
+  "updatedAt": "2026-11-04T13:17:05.175+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
     "tempC": 21.2,
-    "feelsLikeC": 23.4,
-    "humidity": 88,
-    "windKph": 8.2,
+    "feelsLikeC": 23.3,
+    "humidity": 89,
+    "windKph": 9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T13:06:53.970+08:00",
+    "observedAt": "2026-11-04T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T13:17:05.176+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "何立峰在香港国际金融领袖投资峰会上发表视频致辞",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725904.shtml",
+        "publishedAt": "2026-11-04T13:08:29.000+08:00"
+      },
+      {
+        "title": "欧洲多架客机收到炸弹威胁 安检未发现爆炸物",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725859.shtml",
+        "publishedAt": "2026-11-04T13:07:57.000+08:00"
+      },
       {
         "title": "宁夏中卫大麦地岩画建起数字基因库",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725903.shtml",
@@ -33,19 +43,9 @@
         "title": "北京普惠健康保新增17种特药 最高报销65%",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725901.shtml",
         "publishedAt": "2026-11-04T12:47:52.000+08:00"
-      },
-      {
-        "title": "美媒预测：美国民主党将在中期选举中重新掌控国会众议院",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725900.shtml",
-        "publishedAt": "2026-11-04T12:46:48.000+08:00"
-      },
-      {
-        "title": "美媒预测：民主党夺回美国国会参议院控制权，全面掌控国会",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725898.shtml",
-        "publishedAt": "2026-11-04T12:41:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T13:06:50.282+08:00",
+    "fetchedAt": "2026-11-04T13:17:01.872+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T13:06:50.848+08:00",
+      "fetchedAt": "2026-11-04T13:17:02.446+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T18:06:53.000+08:00"
+          "resetAt": "2026-11-04T18:17:04.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T13:06:50.850+08:00",
+      "fetchedAt": "2026-11-04T13:17:02.450+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T13:06:50.857+08:00",
+      "fetchedAt": "2026-11-04T13:17:02.458+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T13:06:50.857+08:00",
+      "fetchedAt": "2026-11-04T13:17:02.458+08:00",
       "error": "未启用",
       "disabled": true
     }
