@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T13:57:52.923+08:00",
+  "updatedAt": "2026-11-04T14:08:05.116+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 21.3,
+    "tempC": 21.4,
     "feelsLikeC": 23.4,
-    "humidity": 89,
-    "windKph": 10.2,
+    "humidity": 88,
+    "windKph": 10.7,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T13:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T13:57:52.923+08:00",
+    "observedAt": "2026-11-04T14:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T14:08:05.116+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东湛江海域2人凌晨垂钓遇险获救",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725928.shtml",
-        "publishedAt": "2026-11-04T13:54:56.000+08:00"
+        "title": "印度海军在索马里海域解救被劫伊朗渔船",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725902.shtml",
+        "publishedAt": "2026-11-04T14:04:02.000+08:00"
       },
       {
-        "title": "女子为博流量自导自演“停车场惊魂” 警方提示→",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725929.shtml",
-        "publishedAt": "2026-11-04T13:54:34.000+08:00"
+        "title": "加拿大总理： 俄罗斯运动员不得代表本国参加世界青年冰球锦标赛",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725896.shtml",
+        "publishedAt": "2026-11-04T14:03:22.000+08:00"
       },
       {
-        "title": "国台办驳民进党当局：种种恶行背叛中山精神",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725923.shtml",
-        "publishedAt": "2026-11-04T13:54:32.000+08:00"
+        "title": "西班牙交通大臣辞职",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725861.shtml",
+        "publishedAt": "2026-11-04T14:02:52.000+08:00"
       },
       {
-        "title": "第三届全国优秀音乐剧展演将在深圳举行 15部作品风格各异",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10725927.shtml",
-        "publishedAt": "2026-11-04T13:52:46.000+08:00"
+        "title": "朝鲜：美国持续发出对朝敌对信号",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725860.shtml",
+        "publishedAt": "2026-11-04T14:02:22.000+08:00"
       },
       {
-        "title": "山西大同珍珠岩产业方兴未艾 产品远销全球多国",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725926.shtml",
-        "publishedAt": "2026-11-04T13:52:22.000+08:00"
+        "title": "东北局地跌破零下30℃！未来冷空气活跃 我国将迎气温创新低浪潮",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725933.shtml",
+        "publishedAt": "2026-11-04T14:02:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T13:57:49.547+08:00",
+    "fetchedAt": "2026-11-04T14:08:01.878+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T13:57:50.091+08:00",
+      "fetchedAt": "2026-11-04T14:08:02.436+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T18:57:51.000+08:00"
+          "resetAt": "2026-11-04T19:08:04.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T13:57:50.093+08:00",
+      "fetchedAt": "2026-11-04T14:08:02.439+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T13:57:50.102+08:00",
+      "fetchedAt": "2026-11-04T14:08:02.447+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T13:57:50.102+08:00",
+      "fetchedAt": "2026-11-04T14:08:02.447+08:00",
       "error": "未启用",
       "disabled": true
     }
