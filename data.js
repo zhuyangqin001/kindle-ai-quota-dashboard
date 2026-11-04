@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T20:26:42.514+08:00",
+  "updatedAt": "2026-11-04T20:36:54.081+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.1,
-    "feelsLikeC": 20.1,
+    "tempC": 18,
+    "feelsLikeC": 19.9,
     "humidity": 95,
-    "windKph": 3.7,
+    "windKph": 4.8,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T20:26:42.514+08:00",
+    "observedAt": "2026-11-04T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-04T20:36:54.081+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《中国特色国际化高中课程规范》团体标准正式发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726215.shtml",
+        "publishedAt": "2026-11-04T20:28:15.000+08:00"
+      },
+      {
+        "title": "四川省高原病防治基地落成启用 提供“预防—治疗—康复”全周期健康服务体系",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-04/10726213.shtml",
+        "publishedAt": "2026-11-04T20:21:51.000+08:00"
+      },
       {
         "title": "第九届进博会中国石化采购签约达413亿美元",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726207.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "李强会见世界知识产权组织总干事邓鸿森",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726182.shtml",
         "publishedAt": "2026-11-04T20:07:08.000+08:00"
-      },
-      {
-        "title": "全国政协十四届常委会第十九次会议闭幕 王沪宁主持并讲话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726194.shtml",
-        "publishedAt": "2026-11-04T20:06:00.000+08:00"
-      },
-      {
-        "title": "香港邮政将发行“纪念孙中山先生诞辰160周年”纪念邮票",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-04/10726201.shtml",
-        "publishedAt": "2026-11-04T20:05:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T20:26:39.628+08:00",
+    "fetchedAt": "2026-11-04T20:36:51.196+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T20:26:40.312+08:00",
+      "fetchedAt": "2026-11-04T20:36:51.935+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T01:26:41.000+08:00"
+          "resetAt": "2026-11-05T01:36:53.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T20:26:40.314+08:00",
+      "fetchedAt": "2026-11-04T20:36:51.938+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T20:26:40.317+08:00",
+      "fetchedAt": "2026-11-04T20:36:51.948+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T20:26:40.317+08:00",
+      "fetchedAt": "2026-11-04T20:36:51.949+08:00",
       "error": "未启用",
       "disabled": true
     }
