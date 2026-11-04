@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T18:02:49.865+08:00",
+  "updatedAt": "2026-11-04T18:13:23.431+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-04T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T18:02:49.865+08:00",
+    "fetchedAt": "2026-11-04T18:13:23.431+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "上海南港前10个月商品车进出口等多项数据创历史同期新高",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726113.shtml",
-        "publishedAt": "2026-11-04T17:48:57.000+08:00"
+        "title": "第140届广交会第三期最后一天 采购商开启“扫货”模式",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726118.shtml",
+        "publishedAt": "2026-11-04T18:02:17.000+08:00"
       },
       {
-        "title": "京台人才发展论坛在北京举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10726111.shtml",
-        "publishedAt": "2026-11-04T17:48:03.000+08:00"
+        "title": "海南近三年统筹362亿元财政资金支持城市更新",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726115.shtml",
+        "publishedAt": "2026-11-04T18:01:55.000+08:00"
       },
       {
-        "title": "“报名失败”“名额紧张”？高考报名季警惕这些骗局",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-04/10726110.shtml",
-        "publishedAt": "2026-11-04T17:44:06.000+08:00"
+        "title": "鲁台艺术家根植同源文脉 共探两岸艺术时代命题",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726119.shtml",
+        "publishedAt": "2026-11-04T17:59:55.000+08:00"
       },
       {
-        "title": "长时间刷手机，大脑里发生了什么？警惕“手机痴呆症”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726109.shtml",
-        "publishedAt": "2026-11-04T17:41:06.000+08:00"
+        "title": "“玫瑰书香”全国女职工主题阅读活动走进宁夏",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726120.shtml",
+        "publishedAt": "2026-11-04T17:59:23.000+08:00"
       },
       {
-        "title": "研究报告：这10个新职业近期热招",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726102.shtml",
-        "publishedAt": "2026-11-04T17:34:58.000+08:00"
+        "title": "乌镇峰会聚焦推动智能体互信互联互操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726122.shtml",
+        "publishedAt": "2026-11-04T17:58:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T18:02:46.340+08:00",
+    "fetchedAt": "2026-11-04T18:13:20.151+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T18:02:47.089+08:00",
+      "fetchedAt": "2026-11-04T18:13:20.884+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T23:02:49.000+08:00"
+          "resetAt": "2026-11-04T23:13:23.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T18:02:47.092+08:00",
+      "fetchedAt": "2026-11-04T18:13:20.887+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T18:02:47.102+08:00",
+      "fetchedAt": "2026-11-04T18:13:20.898+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T18:02:47.102+08:00",
+      "fetchedAt": "2026-11-04T18:13:20.898+08:00",
       "error": "未启用",
       "disabled": true
     }
