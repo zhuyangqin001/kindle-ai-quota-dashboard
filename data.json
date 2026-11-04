@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T15:09:12.683+08:00",
+  "updatedAt": "2026-11-04T15:29:29.221+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 22.3,
-    "feelsLikeC": 23.3,
-    "humidity": 86,
-    "windKph": 18.3,
+    "tempC": 21.8,
+    "feelsLikeC": 22.8,
+    "humidity": 88,
+    "windKph": 18.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T15:09:12.683+08:00",
+    "observedAt": "2026-11-04T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T15:29:29.221+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "11月4日“农产品批发价格200指数”比昨天上升0.09个点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725963.shtml",
-        "publishedAt": "2026-11-04T15:01:13.000+08:00"
+        "title": "美媒预测民主党重新掌控国会 奥巴马发文祝贺",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725991.shtml",
+        "publishedAt": "2026-11-04T15:26:37.000+08:00"
       },
       {
-        "title": "诺奖得主瓦谢尔：科学的核心价值在于解决现实世界的挑战",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725967.shtml",
-        "publishedAt": "2026-11-04T14:56:27.000+08:00"
+        "title": "秋日氛围感拉满 北京钓鱼台银杏大道换上“金装”",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-04/1209781.shtml",
+        "publishedAt": "2026-11-04T15:26:01.000+08:00"
       },
       {
-        "title": "民建重庆市委会赴豫冀专题调研 为搭建青少年网络保护屏障建言",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10725969.shtml",
-        "publishedAt": "2026-11-04T14:56:01.000+08:00"
+        "title": "东西问丨默罕默德·沙巴兹：传统医学如何铺就“一带一路”民心相通之路？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-04/10725988.shtml",
+        "publishedAt": "2026-11-04T15:23:43.000+08:00"
       },
       {
-        "title": "特朗普承认伊朗战争是共和党中期选举失利的原因之一",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725971.shtml",
-        "publishedAt": "2026-11-04T14:55:15.000+08:00"
+        "title": "中国驻加拿大使馆提醒在加中国公民防范网络交友敲诈等诈骗行为",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-04/10725983.shtml",
+        "publishedAt": "2026-11-04T15:21:21.000+08:00"
       },
       {
-        "title": "国台办回应台湾演员明道向上海交警赠锦旗",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725959.shtml",
-        "publishedAt": "2026-11-04T14:55:15.000+08:00"
+        "title": "中国驻宋卡总领馆提醒在泰南中国公民注意防范雨季易发自然灾害",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-04/10725985.shtml",
+        "publishedAt": "2026-11-04T15:21:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T15:09:08.131+08:00",
+    "fetchedAt": "2026-11-04T15:29:25.878+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T15:09:08.704+08:00",
+      "fetchedAt": "2026-11-04T15:29:26.460+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T20:09:10.000+08:00"
+          "resetAt": "2026-11-04T20:29:28.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T15:09:08.706+08:00",
+      "fetchedAt": "2026-11-04T15:29:26.463+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T15:09:08.716+08:00",
+      "fetchedAt": "2026-11-04T15:29:26.473+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T15:09:08.717+08:00",
+      "fetchedAt": "2026-11-04T15:29:26.473+08:00",
       "error": "未启用",
       "disabled": true
     }
