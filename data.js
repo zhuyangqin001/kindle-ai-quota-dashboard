@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T07:50:56.775+08:00",
+  "updatedAt": "2026-11-04T08:01:08.928+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.1,
-    "feelsLikeC": 20,
-    "humidity": 97,
-    "windKph": 5.3,
+    "feelsLikeC": 20.1,
+    "humidity": 96,
+    "windKph": 4.7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T07:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T07:50:56.775+08:00",
+    "observedAt": "2026-11-04T08:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T08:01:08.928+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "特朗普：美国对伊朗发动了“小规模攻击”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725721.shtml",
+        "publishedAt": "2026-11-04T07:52:24.000+08:00"
+      },
+      {
+        "title": "AI眼镜厂商主动“做减法” 用户体验成为关键",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725720.shtml",
+        "publishedAt": "2026-11-04T07:50:24.000+08:00"
+      },
+      {
+        "title": "19城细化落实商品住房销售制度",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725719.shtml",
+        "publishedAt": "2026-11-04T07:48:58.000+08:00"
+      },
+      {
+        "title": "钻石“长”出新本领 金刚石闪耀芯片散热新赛道",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725718.shtml",
+        "publishedAt": "2026-11-04T07:46:58.000+08:00"
+      },
+      {
         "title": "车市增速换挡之后 谁才有资格跑得更远",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725717.shtml",
         "publishedAt": "2026-11-04T07:43:34.000+08:00"
-      },
-      {
-        "title": "AI酒吧遇到创业大街",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725716.shtml",
-        "publishedAt": "2026-11-04T07:42:02.000+08:00"
-      },
-      {
-        "title": "美国举行2026年中期选举",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-04/1209703.shtml",
-        "publishedAt": "2026-11-04T07:40:16.000+08:00"
-      },
-      {
-        "title": "27个霸凌者“还是孩子”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725714.shtml",
-        "publishedAt": "2026-11-04T07:39:41.000+08:00"
-      },
-      {
-        "title": "我国重要农业文化遗产增至276项 古老农耕遗产如何保护与活化",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725713.shtml",
-        "publishedAt": "2026-11-04T07:34:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T07:50:53.867+08:00",
+    "fetchedAt": "2026-11-04T08:01:06.281+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T07:50:54.575+08:00",
+      "fetchedAt": "2026-11-04T08:01:07.004+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T12:50:56.000+08:00"
+          "resetAt": "2026-11-04T13:01:08.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T07:50:54.578+08:00",
+      "fetchedAt": "2026-11-04T08:01:07.007+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T07:50:54.589+08:00",
+      "fetchedAt": "2026-11-04T08:01:07.016+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T07:50:54.589+08:00",
+      "fetchedAt": "2026-11-04T08:01:07.016+08:00",
       "error": "未启用",
       "disabled": true
     }
