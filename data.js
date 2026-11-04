@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T08:52:07.714+08:00",
+  "updatedAt": "2026-11-04T09:02:20.464+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 18.2,
-    "feelsLikeC": 20.5,
-    "humidity": 98,
-    "windKph": 3.8,
+    "tempC": 18.4,
+    "feelsLikeC": 20.8,
+    "humidity": 97,
+    "windKph": 2.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T08:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T08:52:07.714+08:00",
+    "observedAt": "2026-11-04T09:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T09:02:20.464+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "两股冷空气接连影响我国 南方大范围阴雨持续",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725739.shtml",
+        "publishedAt": "2026-11-04T08:55:34.000+08:00"
+      },
+      {
+        "title": "从新闻女主播到首位民选女总统：她靠一句话震惊了整个欧洲",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725740.shtml",
+        "publishedAt": "2026-11-04T08:53:45.000+08:00"
+      },
       {
         "title": "国际锐评丨“China+”热词持续迭代 中国引力从何而来？",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725736.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国搭台 全球共享！乌镇峰会首次全方位呈现“智能互联网”图景",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725734.shtml",
         "publishedAt": "2026-11-04T08:40:33.000+08:00"
-      },
-      {
-        "title": "进博会新品剧透来了，这些生活好物你见过吗？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725733.shtml",
-        "publishedAt": "2026-11-04T08:38:15.000+08:00"
-      },
-      {
-        "title": "一台奥地利精密机床的跨洋之旅 “进博会是宝贵的展示窗口与合作平台”（进博会故事）",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725732.shtml",
-        "publishedAt": "2026-11-04T08:36:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T08:52:05.333+08:00",
+    "fetchedAt": "2026-11-04T09:02:18.116+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T08:52:05.960+08:00",
+      "fetchedAt": "2026-11-04T09:02:18.747+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T13:52:07.000+08:00"
+          "resetAt": "2026-11-04T14:02:20.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T08:52:05.963+08:00",
+      "fetchedAt": "2026-11-04T09:02:18.751+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T08:52:05.971+08:00",
+      "fetchedAt": "2026-11-04T09:02:18.757+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T08:52:05.971+08:00",
+      "fetchedAt": "2026-11-04T09:02:18.757+08:00",
       "error": "未启用",
       "disabled": true
     }
