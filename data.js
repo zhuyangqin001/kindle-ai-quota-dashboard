@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T18:13:23.431+08:00",
+  "updatedAt": "2026-11-04T18:24:05.368+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 19.9,
-    "feelsLikeC": 22.5,
+    "tempC": 19.7,
+    "feelsLikeC": 22.1,
     "humidity": 97,
-    "windKph": 6.6,
+    "windKph": 7.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T18:13:23.431+08:00",
+    "observedAt": "2026-11-04T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T18:24:05.368+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第140届广交会第三期最后一天 采购商开启“扫货”模式",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726118.shtml",
-        "publishedAt": "2026-11-04T18:02:17.000+08:00"
+        "title": "（第九届进博会）进博会上海馆：八大板块解锁“上海定制”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726130.shtml",
+        "publishedAt": "2026-11-04T18:18:58.000+08:00"
       },
       {
-        "title": "海南近三年统筹362亿元财政资金支持城市更新",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726115.shtml",
-        "publishedAt": "2026-11-04T18:01:55.000+08:00"
+        "title": "竖屏里的中国故事：从“中国热播”到“全球通刷”",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726129.shtml",
+        "publishedAt": "2026-11-04T18:12:34.000+08:00"
       },
       {
-        "title": "鲁台艺术家根植同源文脉 共探两岸艺术时代命题",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726119.shtml",
-        "publishedAt": "2026-11-04T17:59:55.000+08:00"
+        "title": "甘肃省文旅厅携手高德、数据街集团，依托空间智能打造专属“伴游助手”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726127.shtml",
+        "publishedAt": "2026-11-04T18:10:42.000+08:00"
       },
       {
-        "title": "“玫瑰书香”全国女职工主题阅读活动走进宁夏",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726120.shtml",
-        "publishedAt": "2026-11-04T17:59:23.000+08:00"
+        "title": "四川省高原病防治基地落成启用",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726125.shtml",
+        "publishedAt": "2026-11-04T18:09:36.000+08:00"
       },
       {
-        "title": "乌镇峰会聚焦推动智能体互信互联互操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726122.shtml",
-        "publishedAt": "2026-11-04T17:58:57.000+08:00"
+        "title": "大洋板块俯冲如何转为大陆板块碰撞？我国科学家揭秘",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-04/10726128.shtml",
+        "publishedAt": "2026-11-04T18:09:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T18:13:20.151+08:00",
+    "fetchedAt": "2026-11-04T18:24:01.370+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T18:13:20.884+08:00",
+      "fetchedAt": "2026-11-04T18:24:02.095+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T23:13:23.000+08:00"
+          "resetAt": "2026-11-04T23:24:04.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T18:13:20.887+08:00",
+      "fetchedAt": "2026-11-04T18:24:02.098+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T18:13:20.898+08:00",
+      "fetchedAt": "2026-11-04T18:24:02.108+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T18:13:20.898+08:00",
+      "fetchedAt": "2026-11-04T18:24:02.109+08:00",
       "error": "未启用",
       "disabled": true
     }
