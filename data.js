@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T14:08:05.116+08:00",
+  "updatedAt": "2026-11-04T14:18:15.465+08:00",
   "weather": {
     "ok": true,
-    "description": "阵雨",
+    "description": "雨",
     "iconKey": "rain",
-    "tempC": 21.4,
-    "feelsLikeC": 23.4,
-    "humidity": 88,
-    "windKph": 10.7,
-    "windDir": "西风",
+    "tempC": 21.6,
+    "feelsLikeC": 23.5,
+    "humidity": 87,
+    "windKph": 11.1,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T14:08:05.116+08:00",
+    "observedAt": "2026-11-04T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T14:18:15.465+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "共和党选情遇挫后，特朗普发布印有“否决权”字样的红色帽子",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725935.shtml",
+        "publishedAt": "2026-11-04T14:06:49.000+08:00"
+      },
+      {
+        "title": "巴基斯坦反恐行动击毙17名恐怖分子",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725924.shtml",
+        "publishedAt": "2026-11-04T14:06:31.000+08:00"
+      },
       {
         "title": "印度海军在索马里海域解救被劫伊朗渔船",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725902.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "西班牙交通大臣辞职",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725861.shtml",
         "publishedAt": "2026-11-04T14:02:52.000+08:00"
-      },
-      {
-        "title": "朝鲜：美国持续发出对朝敌对信号",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725860.shtml",
-        "publishedAt": "2026-11-04T14:02:22.000+08:00"
-      },
-      {
-        "title": "东北局地跌破零下30℃！未来冷空气活跃 我国将迎气温创新低浪潮",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725933.shtml",
-        "publishedAt": "2026-11-04T14:02:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T14:08:01.878+08:00",
+    "fetchedAt": "2026-11-04T14:18:12.922+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T14:08:02.436+08:00",
+      "fetchedAt": "2026-11-04T14:18:13.509+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T19:08:04.000+08:00"
+          "resetAt": "2026-11-04T19:18:15.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T14:08:02.439+08:00",
+      "fetchedAt": "2026-11-04T14:18:13.512+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T14:08:02.447+08:00",
+      "fetchedAt": "2026-11-04T14:18:13.519+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T14:08:02.447+08:00",
+      "fetchedAt": "2026-11-04T14:18:13.519+08:00",
       "error": "未启用",
       "disabled": true
     }
