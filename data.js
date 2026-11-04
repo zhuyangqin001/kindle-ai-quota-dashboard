@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T21:58:24.279+08:00",
+  "updatedAt": "2026-11-04T22:08:38.688+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.8,
+    "tempC": 17.7,
     "feelsLikeC": 19.2,
     "humidity": 95,
-    "windKph": 6.8,
+    "windKph": 6.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T21:58:24.279+08:00",
+    "observedAt": "2026-11-04T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T22:08:38.688+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "促技术研发走向产业应用 具身智能开发者大会在京举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726286.shtml",
+        "publishedAt": "2026-11-04T21:58:28.000+08:00"
+      },
+      {
+        "title": "多部门部署加强消费基础设施建设",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726284.shtml",
+        "publishedAt": "2026-11-04T21:56:32.000+08:00"
+      },
       {
         "title": "向海图强：一场跨越会场与海上的“中国式商量”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726278.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "美国邮轮因燃油资金危机停航后驶离柬埔寨",
         "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726271.shtml",
         "publishedAt": "2026-11-04T21:42:01.000+08:00"
-      },
-      {
-        "title": "北京电影学院院长：表演创作中情感的传递无法用AI替代",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726268.shtml",
-        "publishedAt": "2026-11-04T21:41:37.000+08:00"
-      },
-      {
-        "title": "天津口岸新增直航东南亚海运航线",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726275.shtml",
-        "publishedAt": "2026-11-04T21:40:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T21:58:19.915+08:00",
+    "fetchedAt": "2026-11-04T22:08:35.100+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T21:58:20.654+08:00",
+      "fetchedAt": "2026-11-04T22:08:35.858+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T02:58:22.000+08:00"
+          "resetAt": "2026-11-05T03:08:37.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T21:58:20.657+08:00",
+      "fetchedAt": "2026-11-04T22:08:35.861+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T21:58:20.667+08:00",
+      "fetchedAt": "2026-11-04T22:08:35.871+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T21:58:20.667+08:00",
+      "fetchedAt": "2026-11-04T22:08:35.871+08:00",
       "error": "未启用",
       "disabled": true
     }
