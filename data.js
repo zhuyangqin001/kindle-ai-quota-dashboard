@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T10:44:08.456+08:00",
+  "updatedAt": "2026-11-04T11:04:26.643+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 20.3,
-    "feelsLikeC": 22.8,
-    "humidity": 87,
-    "windKph": 3.3,
+    "tempC": 20.9,
+    "feelsLikeC": 23.4,
+    "humidity": 85,
+    "windKph": 3.2,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T10:44:08.456+08:00",
+    "observedAt": "2026-11-04T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T11:04:26.643+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "陆委会称现在没有“台独”问题 国台办回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725828.shtml",
-        "publishedAt": "2026-11-04T10:41:41.000+08:00"
+        "title": "金与正：美国持续发出对朝敌对信号",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725841.shtml",
+        "publishedAt": "2026-11-04T10:57:06.000+08:00"
       },
       {
-        "title": "豫皖两省四县（市）警方跨“界”共护一方平安",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725820.shtml",
-        "publishedAt": "2026-11-04T10:38:39.000+08:00"
+        "title": "南京大学就智慧教室系统发布说明：当前已不再统计抬头率数据",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725832.shtml",
+        "publishedAt": "2026-11-04T10:54:50.000+08:00"
       },
       {
-        "title": "民革十四届十六次中常会在北京召开",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10725821.shtml",
-        "publishedAt": "2026-11-04T10:37:47.000+08:00"
+        "title": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725836.shtml",
+        "publishedAt": "2026-11-04T10:50:02.000+08:00"
       },
       {
-        "title": "“驻华使节中医药健康日”在北京举办 加蓬中医药合作项目落地",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725822.shtml",
-        "publishedAt": "2026-11-04T10:37:23.000+08:00"
+        "title": "菲仕兰母婴健康社区科普行动走进河南新乡",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725833.shtml",
+        "publishedAt": "2026-11-04T10:47:54.000+08:00"
       },
       {
-        "title": "西班牙交通大臣因列车相撞事故宣布辞职",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725826.shtml",
-        "publishedAt": "2026-11-04T10:36:47.000+08:00"
+        "title": "“文化外卖订单”第四年 她们从客厅一路弹上月光舞台",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725830.shtml",
+        "publishedAt": "2026-11-04T10:46:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T10:44:05.131+08:00",
+    "fetchedAt": "2026-11-04T11:04:23.566+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T10:44:05.844+08:00",
+      "fetchedAt": "2026-11-04T11:04:24.291+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T15:44:07.000+08:00"
+          "resetAt": "2026-11-04T16:04:25.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T10:44:05.847+08:00",
+      "fetchedAt": "2026-11-04T11:04:24.294+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T10:44:05.856+08:00",
+      "fetchedAt": "2026-11-04T11:04:24.304+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T10:44:05.857+08:00",
+      "fetchedAt": "2026-11-04T11:04:24.304+08:00",
       "error": "未启用",
       "disabled": true
     }
