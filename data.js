@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T11:55:29.250+08:00",
+  "updatedAt": "2026-11-04T12:05:41.849+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 21.5,
+    "tempC": 21.6,
     "feelsLikeC": 24.2,
     "humidity": 83,
-    "windKph": 2.7,
-    "windDir": "西南风",
+    "windKph": 3.6,
+    "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T11:55:29.250+08:00",
+    "observedAt": "2026-11-04T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T12:05:41.849+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "郭宁宁任福建省副省长、代省长",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725888.shtml",
+        "publishedAt": "2026-11-04T11:55:03.000+08:00"
+      },
       {
         "title": "国家发展改革委：“十五五”时期我国将新建约15个民用运输机场",
         "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725874.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "京港洽谈会东城区专题推介活动举办 共话合作机遇与产业发展",
         "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725873.shtml",
         "publishedAt": "2026-11-04T11:32:28.000+08:00"
-      },
-      {
-        "title": "吉尔吉斯斯坦5.0级地震距中国边境13公里 中国地震局启动四级应急响应",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725866.shtml",
-        "publishedAt": "2026-11-04T11:32:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T11:55:26.355+08:00",
+    "fetchedAt": "2026-11-04T12:05:38.718+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T11:55:27.092+08:00",
+      "fetchedAt": "2026-11-04T12:05:39.444+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T16:55:28.000+08:00"
+          "resetAt": "2026-11-04T17:05:41.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T11:55:27.096+08:00",
+      "fetchedAt": "2026-11-04T12:05:39.447+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T11:55:27.106+08:00",
+      "fetchedAt": "2026-11-04T12:05:39.457+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T11:55:27.106+08:00",
+      "fetchedAt": "2026-11-04T12:05:39.457+08:00",
       "error": "未启用",
       "disabled": true
     }
