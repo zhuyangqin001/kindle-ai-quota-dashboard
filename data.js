@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T19:56:05.630+08:00",
+  "updatedAt": "2026-11-04T20:06:18.511+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.6,
-    "feelsLikeC": 20.5,
+    "tempC": 18.5,
+    "feelsLikeC": 20.4,
     "humidity": 96,
-    "windKph": 6.6,
+    "windKph": 5.9,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T19:56:05.630+08:00",
+    "observedAt": "2026-11-04T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T20:06:18.511+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全国政协十四届常委会第十九次会议闭幕 王沪宁主持并讲话",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-04/1209802.shtml",
-        "publishedAt": "2026-11-04T19:50:38.000+08:00"
+        "title": "4000年前关中人群如何应对气候动荡？考古研究揭示农业适应密码",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726179.shtml",
+        "publishedAt": "2026-11-04T20:01:06.000+08:00"
       },
       {
-        "title": "“一行一策”节能改造！五部门部署资源节约集约",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726193.shtml",
-        "publishedAt": "2026-11-04T19:46:59.000+08:00"
+        "title": "2026世界慕课与在线教育大会在越南举办",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726178.shtml",
+        "publishedAt": "2026-11-04T20:00:32.000+08:00"
       },
       {
-        "title": "尹锡悦违反选举法案二审亦获刑 或致当选无效",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726191.shtml",
-        "publishedAt": "2026-11-04T19:42:19.000+08:00"
+        "title": "第四届全国人工智能应用技术技能大赛湖北荆州开赛",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726202.shtml",
+        "publishedAt": "2026-11-04T19:59:58.000+08:00"
       },
       {
-        "title": "十四届全国人大常委会举行第七十五次委员长会议 听取有关草案和议案审议情况汇报 赵乐际主持",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726183.shtml",
-        "publishedAt": "2026-11-04T19:38:17.000+08:00"
+        "title": "山西乡宁擦亮“北方紫砂”名片 南北紫砂同台交流",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726187.shtml",
+        "publishedAt": "2026-11-04T19:58:38.000+08:00"
       },
       {
-        "title": "十年敦煌，从“展示窗口”到“对话世界”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726176.shtml",
-        "publishedAt": "2026-11-04T19:34:00.000+08:00"
+        "title": "描摹重症医护一线人本温度 《重症监护》开机官宣",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726181.shtml",
+        "publishedAt": "2026-11-04T19:58:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T19:56:02.577+08:00",
+    "fetchedAt": "2026-11-04T20:06:15.656+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T19:56:03.317+08:00",
+      "fetchedAt": "2026-11-04T20:06:16.444+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T00:56:04.000+08:00"
+          "resetAt": "2026-11-05T01:06:18.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T19:56:03.319+08:00",
+      "fetchedAt": "2026-11-04T20:06:16.447+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T19:56:03.325+08:00",
+      "fetchedAt": "2026-11-04T20:06:16.453+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T19:56:03.325+08:00",
+      "fetchedAt": "2026-11-04T20:06:16.453+08:00",
       "error": "未启用",
       "disabled": true
     }
