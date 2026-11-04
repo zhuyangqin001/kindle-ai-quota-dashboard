@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T17:41:55.267+08:00",
+  "updatedAt": "2026-11-04T17:52:26.978+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 20.1,
-    "feelsLikeC": 23,
+    "feelsLikeC": 22.8,
     "humidity": 96,
-    "windKph": 4.6,
-    "windDir": "西北风",
+    "windKph": 5.8,
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T17:41:55.267+08:00",
+    "observedAt": "2026-11-04T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-04T17:52:26.978+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "长时间刷手机，大脑里发生了什么？警惕“手机痴呆症”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726109.shtml",
+        "publishedAt": "2026-11-04T17:41:06.000+08:00"
+      },
+      {
+        "title": "研究报告：这10个新职业近期热招",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726102.shtml",
+        "publishedAt": "2026-11-04T17:34:58.000+08:00"
+      },
       {
         "title": "香港举行眼镜展 汇聚逾600家展商",
         "url": "https://www.chinanews.com.cn/tp/2026/11-04/10726024.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "从“本地办”到“异地办” 陕西法院交叉执行破局“执行难”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726098.shtml",
         "publishedAt": "2026-11-04T17:22:33.000+08:00"
-      },
-      {
-        "title": "秋粮丰收已成定局",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726095.shtml",
-        "publishedAt": "2026-11-04T17:03:46.000+08:00"
-      },
-      {
-        "title": "国际金价反弹，A股黄金股批量涨停",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726091.shtml",
-        "publishedAt": "2026-11-04T17:02:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T17:41:52.689+08:00",
+    "fetchedAt": "2026-11-04T17:52:22.403+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T17:41:53.393+08:00",
+      "fetchedAt": "2026-11-04T17:52:23.140+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T22:41:54.000+08:00"
+          "resetAt": "2026-11-04T22:52:26.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T17:41:53.396+08:00",
+      "fetchedAt": "2026-11-04T17:52:23.143+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T17:41:53.406+08:00",
+      "fetchedAt": "2026-11-04T17:52:23.154+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T17:41:53.407+08:00",
+      "fetchedAt": "2026-11-04T17:52:23.154+08:00",
       "error": "未启用",
       "disabled": true
     }
