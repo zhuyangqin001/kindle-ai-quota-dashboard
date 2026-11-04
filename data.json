@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T06:17:23.047+08:00",
+  "updatedAt": "2026-11-05T06:37:39.257+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 16.7,
-    "feelsLikeC": 17.4,
-    "humidity": 87,
-    "windKph": 5.4,
+    "feelsLikeC": 17.2,
+    "humidity": 86,
+    "windKph": 5.8,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T06:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T06:17:23.048+08:00",
+    "observedAt": "2026-11-05T06:30:00.000+08:00",
+    "fetchedAt": "2026-11-05T06:37:39.257+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-04T23:28:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T06:17:20.556+08:00",
+    "fetchedAt": "2026-11-05T06:37:37.034+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T06:17:21.273+08:00",
+      "fetchedAt": "2026-11-05T06:37:37.395+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T11:17:22.000+08:00"
+          "resetAt": "2026-11-05T11:37:39.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T06:17:21.276+08:00",
+      "fetchedAt": "2026-11-05T06:37:37.397+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T06:17:21.286+08:00",
+      "fetchedAt": "2026-11-05T06:37:37.402+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T06:17:21.286+08:00",
+      "fetchedAt": "2026-11-05T06:37:37.402+08:00",
       "error": "未启用",
       "disabled": true
     }
