@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T21:07:27.324+08:00",
+  "updatedAt": "2026-11-04T21:17:39.374+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
+    "description": "多云",
+    "iconKey": "cloudy",
     "tempC": 17.9,
-    "feelsLikeC": 19.5,
+    "feelsLikeC": 19.4,
     "humidity": 96,
-    "windKph": 6.7,
+    "windKph": 6.9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-04T21:07:27.324+08:00",
+    "observedAt": "2026-11-04T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T21:17:39.374+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "云南“十五五”将推进城市“5分钟消防救援圈”建设",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726234.shtml",
-        "publishedAt": "2026-11-04T20:59:41.000+08:00"
+        "title": "伊朗最高领袖警告美国：若再袭伊朗将引发更广泛报复",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726251.shtml",
+        "publishedAt": "2026-11-04T21:14:40.000+08:00"
       },
       {
-        "title": "（文化新纪行）敦煌舞“破壁”探新生",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726233.shtml",
-        "publishedAt": "2026-11-04T20:59:05.000+08:00"
+        "title": "湖南新田携手广州花都协同守护流动妇女儿童",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726247.shtml",
+        "publishedAt": "2026-11-04T21:11:40.000+08:00"
       },
       {
-        "title": "中国深化与东盟医疗保障合作 跨境医药平台成贸易新纽带",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-04/10726231.shtml",
-        "publishedAt": "2026-11-04T20:58:31.000+08:00"
+        "title": "烟火里开讲 浙江松阳理论宣讲扎根乡土走“新”更走“心”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726236.shtml",
+        "publishedAt": "2026-11-04T21:09:13.000+08:00"
       },
       {
-        "title": "（投资中国）丹佛斯在天津扩建全球制冷研发测试中心",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726230.shtml",
-        "publishedAt": "2026-11-04T20:56:37.000+08:00"
+        "title": "重庆璧山发布“机遇请柬” 20个重点项目签约总投资134亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726238.shtml",
+        "publishedAt": "2026-11-04T21:08:15.000+08:00"
       },
       {
-        "title": "“总统遭到监听，部长们也遭到监听” 印尼总统遭窃听案迷雾重重",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726240.shtml",
-        "publishedAt": "2026-11-04T20:56:11.000+08:00"
+        "title": "百老汇原版音乐剧《长靴皇后》重启中国巡演",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726239.shtml",
+        "publishedAt": "2026-11-04T21:07:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T21:07:24.761+08:00",
+    "fetchedAt": "2026-11-04T21:17:35.922+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T21:07:25.504+08:00",
+      "fetchedAt": "2026-11-04T21:17:36.506+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T02:07:26.000+08:00"
+          "resetAt": "2026-11-05T02:17:38.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T21:07:25.507+08:00",
+      "fetchedAt": "2026-11-04T21:17:36.508+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T21:07:25.517+08:00",
+      "fetchedAt": "2026-11-04T21:17:36.513+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T21:07:25.517+08:00",
+      "fetchedAt": "2026-11-04T21:17:36.514+08:00",
       "error": "未启用",
       "disabled": true
     }
