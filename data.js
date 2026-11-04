@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T22:29:05.229+08:00",
+  "updatedAt": "2026-11-04T22:49:22.702+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.6,
-    "feelsLikeC": 19.1,
-    "humidity": 95,
-    "windKph": 6.4,
+    "tempC": 17.4,
+    "feelsLikeC": 18.9,
+    "humidity": 97,
+    "windKph": 5.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T22:29:05.229+08:00",
+    "observedAt": "2026-11-04T22:45:00.000+08:00",
+    "fetchedAt": "2026-11-04T22:49:22.702+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“上头”烟弹竟是兽用麻醉剂 警惕“变味”的果味电子烟",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726326.shtml",
+        "publishedAt": "2026-11-04T22:42:35.000+08:00"
+      },
+      {
+        "title": "驻韩美军两名士兵涉嫌走私毒品被捕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726317.shtml",
+        "publishedAt": "2026-11-04T22:31:24.000+08:00"
+      },
+      {
+        "title": "从大国水电到“植物活化石”：台湾自媒体人感受四川攀枝花的生态与工业力量",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726314.shtml",
+        "publishedAt": "2026-11-04T22:28:44.000+08:00"
+      },
       {
         "title": "游客参观新疆吐鲁番坎儿井",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-04/1209817.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "宁夏统筹10亿元财力托举人才强区 真金白银引才育才",
         "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726313.shtml",
         "publishedAt": "2026-11-04T22:27:54.000+08:00"
-      },
-      {
-        "title": "中国电视剧制作产业协会传播工作委员会正式揭牌",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726312.shtml",
-        "publishedAt": "2026-11-04T22:26:44.000+08:00"
-      },
-      {
-        "title": "全球创意经济与创意生态可持续发展合作中心（成都）落地成都高新区",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726310.shtml",
-        "publishedAt": "2026-11-04T22:24:36.000+08:00"
-      },
-      {
-        "title": "2026京港澳青年科学家大会在北京召开",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726309.shtml",
-        "publishedAt": "2026-11-04T22:23:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T22:29:02.088+08:00",
+    "fetchedAt": "2026-11-04T22:49:19.591+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T22:29:02.832+08:00",
+      "fetchedAt": "2026-11-04T22:49:20.463+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T03:29:04.000+08:00"
+          "resetAt": "2026-11-05T03:49:22.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T22:29:02.835+08:00",
+      "fetchedAt": "2026-11-04T22:49:20.466+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T22:29:02.844+08:00",
+      "fetchedAt": "2026-11-04T22:49:20.474+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T22:29:02.844+08:00",
+      "fetchedAt": "2026-11-04T22:49:20.474+08:00",
       "error": "未启用",
       "disabled": true
     }
