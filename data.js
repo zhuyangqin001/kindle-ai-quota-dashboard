@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T16:00:01.931+08:00",
+  "updatedAt": "2026-11-04T16:20:21.705+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
+    "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 20.9,
-    "feelsLikeC": 22.2,
-    "humidity": 91,
-    "windKph": 16.1,
+    "tempC": 20.4,
+    "feelsLikeC": 22.1,
+    "humidity": 93,
+    "windKph": 12.2,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-04T16:00:01.931+08:00",
+    "observedAt": "2026-11-04T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-04T16:20:21.705+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "截图≠铁证、语音不能单独作数！微信电子证据该如何留存？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726011.shtml",
-        "publishedAt": "2026-11-04T15:57:37.000+08:00"
+        "title": "多方“搭台”居民“点单”让老小区改出新模样 百姓在家门口收获“稳稳幸福”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726037.shtml",
+        "publishedAt": "2026-11-04T16:15:05.000+08:00"
       },
       {
-        "title": "代办高考报名资格？教育部提醒，这几类骗局要警惕",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-04/10726007.shtml",
-        "publishedAt": "2026-11-04T15:55:46.000+08:00"
+        "title": "海南加快城市更新步伐 制度创新破解规划瓶颈",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726022.shtml",
+        "publishedAt": "2026-11-04T16:13:17.000+08:00"
       },
       {
-        "title": "第九届进博会｜共赴一场进博之约",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726006.shtml",
-        "publishedAt": "2026-11-04T15:53:18.000+08:00"
+        "title": "“岳鸿军海洋影像公益展”亮相深圳国际美术馆",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726020.shtml",
+        "publishedAt": "2026-11-04T16:11:59.000+08:00"
       },
       {
-        "title": "中方：愿同各方携手努力，强化气候务实行动",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726002.shtml",
-        "publishedAt": "2026-11-04T15:51:04.000+08:00"
+        "title": "红军长征途中贺龙为何向松赞林寺赠送“兴盛番族”锦幛？",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10726018.shtml",
+        "publishedAt": "2026-11-04T16:10:01.000+08:00"
       },
       {
-        "title": "菲律宾马荣火山再次喷发 维持3级警戒",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725947.shtml",
-        "publishedAt": "2026-11-04T15:49:46.000+08:00"
+        "title": "红旗漫卷大别山| 他牺牲在第四次反“围剿”战场，两封家书留在了大别山",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726026.shtml",
+        "publishedAt": "2026-11-04T16:09:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T15:59:58.876+08:00",
+    "fetchedAt": "2026-11-04T16:20:16.278+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T15:59:59.415+08:00",
+      "fetchedAt": "2026-11-04T16:20:16.661+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T21:00:01.000+08:00"
+          "resetAt": "2026-11-04T21:20:21.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T15:59:59.418+08:00",
+      "fetchedAt": "2026-11-04T16:20:16.663+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T15:59:59.425+08:00",
+      "fetchedAt": "2026-11-04T16:20:16.669+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T15:59:59.425+08:00",
+      "fetchedAt": "2026-11-04T16:20:16.669+08:00",
       "error": "未启用",
       "disabled": true
     }
