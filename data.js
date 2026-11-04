@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T12:26:08.927+08:00",
+  "updatedAt": "2026-11-04T12:36:20.115+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 21.5,
-    "feelsLikeC": 24.1,
-    "humidity": 84,
-    "windKph": 4.6,
-    "windDir": "西风",
+    "tempC": 21.4,
+    "feelsLikeC": 23.9,
+    "humidity": 85,
+    "windKph": 5.7,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T12:26:08.927+08:00",
+    "observedAt": "2026-11-04T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-04T12:36:20.116+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国媒体预计民主党夺回参议院重掌国会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725895.shtml",
+        "publishedAt": "2026-11-04T12:21:43.000+08:00"
+      },
+      {
+        "title": "我国首批和美海岛三年建设“成绩单”出炉",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725894.shtml",
+        "publishedAt": "2026-11-04T12:21:07.000+08:00"
+      },
+      {
+        "title": "广东外贸千年：侨批搭桥，侨商接棒，跨洋纽带越织越密",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10725881.shtml",
+        "publishedAt": "2026-11-04T12:19:35.000+08:00"
+      },
       {
         "title": "山东聊城构建“四位一体”工作体系 团结凝聚新阶层人士“强磁场”",
         "url": "https://www.chinanews.com.cn/txy/2026/11-04/10725880.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "北京东城亮相京港洽谈会 集中发布14处产业空间",
         "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725879.shtml",
         "publishedAt": "2026-11-04T12:14:24.000+08:00"
-      },
-      {
-        "title": "新疆昌吉：数据标注员为AI当“老师” 拓展就业新空间",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725875.shtml",
-        "publishedAt": "2026-11-04T12:12:32.000+08:00"
-      },
-      {
-        "title": "AI按摩机器人手法如何 记者在“互联网之光”现场体验",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-04/10725893.shtml",
-        "publishedAt": "2026-11-04T12:10:38.000+08:00"
-      },
-      {
-        "title": "直播海报：AI按摩机器人手法如何 记者在“互联网之光”现场体验",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725892.shtml",
-        "publishedAt": "2026-11-04T12:07:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T12:26:02.937+08:00",
+    "fetchedAt": "2026-11-04T12:36:17.546+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T12:26:03.659+08:00",
+      "fetchedAt": "2026-11-04T12:36:18.231+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T17:26:08.000+08:00"
+          "resetAt": "2026-11-04T17:36:19.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T12:26:03.662+08:00",
+      "fetchedAt": "2026-11-04T12:36:18.234+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T12:26:03.673+08:00",
+      "fetchedAt": "2026-11-04T12:36:18.239+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T12:26:03.673+08:00",
+      "fetchedAt": "2026-11-04T12:36:18.240+08:00",
       "error": "未启用",
       "disabled": true
     }
