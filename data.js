@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T16:40:44.907+08:00",
+  "updatedAt": "2026-11-04T17:01:02.755+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 20.4,
-    "feelsLikeC": 22.6,
-    "humidity": 94,
-    "windKph": 9,
+    "tempC": 20.3,
+    "feelsLikeC": 23.2,
+    "humidity": 95,
+    "windKph": 4.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T16:40:44.907+08:00",
+    "observedAt": "2026-11-04T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T17:01:02.755+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "世界互联网大会副理事长高锐：中国是科技领域的引领者 任何明智的人都希望与中国合作",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726065.shtml",
-        "publishedAt": "2026-11-04T16:38:25.000+08:00"
+        "title": "中国AIMS望远镜发现耀斑爆发期间太阳大气磁场明显减弱现象",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726085.shtml",
+        "publishedAt": "2026-11-04T16:57:34.000+08:00"
       },
       {
-        "title": "今天，剧场为什么仍不可替代",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-04/10726064.shtml",
-        "publishedAt": "2026-11-04T16:38:09.000+08:00"
+        "title": "江西鄱阳湖南矶湿地首次记录到靴隼雕 刷新南昌市鸟类纪录",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726083.shtml",
+        "publishedAt": "2026-11-04T16:57:18.000+08:00"
       },
       {
-        "title": "山西祁县：老物件成“活教材” 传统文化“可触可感”",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-04/10726057.shtml",
-        "publishedAt": "2026-11-04T16:37:41.000+08:00"
+        "title": "凸显“海岛特色”风貌 海南出台城市更新条例明年起实施",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726084.shtml",
+        "publishedAt": "2026-11-04T16:56:58.000+08:00"
       },
       {
-        "title": "资源型城市如何“修山”？重庆万盛将在采煤沉陷区种“风光”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726059.shtml",
-        "publishedAt": "2026-11-04T16:36:47.000+08:00"
+        "title": "宇树科技王兴兴预判明年或是机器人行业临界点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726081.shtml",
+        "publishedAt": "2026-11-04T16:56:30.000+08:00"
       },
       {
-        "title": "山西“十五五”：力争九成疑难复杂手术在省内实施",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10726060.shtml",
-        "publishedAt": "2026-11-04T16:36:41.000+08:00"
+        "title": "兑现气候承诺，呼唤实打实行动",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10726087.shtml",
+        "publishedAt": "2026-11-04T16:55:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T16:40:42.039+08:00",
+    "fetchedAt": "2026-11-04T17:00:59.482+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T16:40:42.604+08:00",
+      "fetchedAt": "2026-11-04T17:01:00.104+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T21:40:44.000+08:00"
+          "resetAt": "2026-11-04T22:01:02.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T16:40:42.606+08:00",
+      "fetchedAt": "2026-11-04T17:01:00.106+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T16:40:42.611+08:00",
+      "fetchedAt": "2026-11-04T17:01:00.113+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T16:40:42.612+08:00",
+      "fetchedAt": "2026-11-04T17:01:00.113+08:00",
       "error": "未启用",
       "disabled": true
     }
