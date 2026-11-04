@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-04T09:43:01.022+08:00",
+  "updatedAt": "2026-11-04T10:03:17.126+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 19,
-    "feelsLikeC": 21.8,
-    "humidity": 94,
-    "windKph": 0.5,
-    "windDir": "西风",
+    "tempC": 19.7,
+    "feelsLikeC": 22.2,
+    "humidity": 90,
+    "windKph": 2.4,
+    "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-04T09:43:01.022+08:00",
+    "observedAt": "2026-11-04T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-04T10:03:17.127+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "A股开盘：沪指低开，深指、创业板指高开，超2600只个股飘红",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725765.shtml",
-        "publishedAt": "2026-11-04T09:34:32.000+08:00"
+        "title": "这些都是假的，5个辐射谣言，别信！",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-04/10725780.shtml",
+        "publishedAt": "2026-11-04T09:54:11.000+08:00"
       },
       {
-        "title": "丰城市委统战部开展“同心同行·共筑同心圆”主题党日活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10725758.shtml",
-        "publishedAt": "2026-11-04T09:34:28.000+08:00"
+        "title": "WTT法兰克福冠军赛：王楚钦复出迎来“开门红”",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-04/10725779.shtml",
+        "publishedAt": "2026-11-04T09:54:03.000+08:00"
       },
       {
-        "title": "服务零售额增长5%，折射消费之变",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725761.shtml",
-        "publishedAt": "2026-11-04T09:32:12.000+08:00"
+        "title": "出口“新”意足、进口“量”更足 多视角看港口陆海通联感知外贸强劲增势",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725766.shtml",
+        "publishedAt": "2026-11-04T09:53:51.000+08:00"
       },
       {
-        "title": "预计耗费约120亿美元，美媒：本次中期选举成史上最“烧钱”一届",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725760.shtml",
-        "publishedAt": "2026-11-04T09:31:58.000+08:00"
+        "title": "云南省妇女儿童活动中心建成开放 拓展公益服务新空间",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725771.shtml",
+        "publishedAt": "2026-11-04T09:51:37.000+08:00"
       },
       {
-        "title": "英国冒险家历时28年徒步环球重返家乡",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-04/1209714.shtml",
-        "publishedAt": "2026-11-04T09:30:34.000+08:00"
+        "title": "云南江城：亚洲象家族添新丁",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725772.shtml",
+        "publishedAt": "2026-11-04T09:51:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T09:42:58.385+08:00",
+    "fetchedAt": "2026-11-04T10:03:14.284+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T09:42:59.086+08:00",
+      "fetchedAt": "2026-11-04T10:03:14.987+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T14:43:00.000+08:00"
+          "resetAt": "2026-11-04T15:03:16.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T09:42:59.089+08:00",
+      "fetchedAt": "2026-11-04T10:03:14.990+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T09:42:59.099+08:00",
+      "fetchedAt": "2026-11-04T10:03:15.000+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T09:42:59.099+08:00",
+      "fetchedAt": "2026-11-04T10:03:15.001+08:00",
       "error": "未启用",
       "disabled": true
     }
