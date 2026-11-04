@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T09:22:43.656+08:00",
+  "updatedAt": "2026-11-04T09:43:01.022+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 18.6,
-    "feelsLikeC": 21.2,
-    "humidity": 96,
-    "windKph": 1.5,
-    "windDir": "北风",
+    "tempC": 19,
+    "feelsLikeC": 21.8,
+    "humidity": 94,
+    "windKph": 0.5,
+    "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-04T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-04T09:22:43.656+08:00",
+    "observedAt": "2026-11-04T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-04T09:43:01.022+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "功能花哨、联动不畅……智能家居规范发展需“标准+法律”双轨并进",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-04/10725752.shtml",
-        "publishedAt": "2026-11-04T09:21:15.000+08:00"
+        "title": "A股开盘：沪指低开，深指、创业板指高开，超2600只个股飘红",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725765.shtml",
+        "publishedAt": "2026-11-04T09:34:32.000+08:00"
       },
       {
-        "title": "人这一辈子，一定要在冬天来一次敦煌！",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-04/10725748.shtml",
-        "publishedAt": "2026-11-04T09:14:27.000+08:00"
+        "title": "丰城市委统战部开展“同心同行·共筑同心圆”主题党日活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-04/10725758.shtml",
+        "publishedAt": "2026-11-04T09:34:28.000+08:00"
       },
       {
-        "title": "市场监管总局出台《市场监督管理行政处罚裁量规定》",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725745.shtml",
-        "publishedAt": "2026-11-04T09:13:57.000+08:00"
+        "title": "服务零售额增长5%，折射消费之变",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725761.shtml",
+        "publishedAt": "2026-11-04T09:32:12.000+08:00"
       },
       {
-        "title": "乌镇峰会第三天 2026年世界互联网大会蓝皮书将发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725747.shtml",
-        "publishedAt": "2026-11-04T09:12:59.000+08:00"
+        "title": "预计耗费约120亿美元，美媒：本次中期选举成史上最“烧钱”一届",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725760.shtml",
+        "publishedAt": "2026-11-04T09:31:58.000+08:00"
       },
       {
-        "title": "中国人民银行加力实施股票回购增持再贷款政策",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725746.shtml",
-        "publishedAt": "2026-11-04T09:11:18.000+08:00"
+        "title": "英国冒险家历时28年徒步环球重返家乡",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-04/1209714.shtml",
+        "publishedAt": "2026-11-04T09:30:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-04T09:22:40.615+08:00",
+    "fetchedAt": "2026-11-04T09:42:58.385+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-04T09:22:41.169+08:00",
+      "fetchedAt": "2026-11-04T09:42:59.086+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-04T14:22:42.000+08:00"
+          "resetAt": "2026-11-04T14:43:00.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-04T09:22:41.171+08:00",
+      "fetchedAt": "2026-11-04T09:42:59.089+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T09:22:41.177+08:00",
+      "fetchedAt": "2026-11-04T09:42:59.099+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-04T09:22:41.178+08:00",
+      "fetchedAt": "2026-11-04T09:42:59.099+08:00",
       "error": "未启用",
       "disabled": true
     }
