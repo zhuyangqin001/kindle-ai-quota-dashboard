@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T18:00:14.620+08:00",
+  "updatedAt": "2026-11-05T18:10:25.830+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-05T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T18:00:14.620+08:00",
+    "fetchedAt": "2026-11-05T18:10:25.830+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）第九届进博会上海市交易团“首单”签约",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726756.shtml",
-        "publishedAt": "2026-11-05T17:52:10.000+08:00"
+        "title": "以赛聚才促创兴业 湖南省第五届巾帼创新创业大赛落幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726745.shtml",
+        "publishedAt": "2026-11-05T18:06:08.000+08:00"
       },
       {
-        "title": "中资企业助力曼谷垃圾资源化利用",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726750.shtml",
-        "publishedAt": "2026-11-05T17:50:23.000+08:00"
+        "title": "“三个荣昌人”同心协奏 乡愁如何谱成产业回响",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726741.shtml",
+        "publishedAt": "2026-11-05T18:04:56.000+08:00"
       },
       {
-        "title": "东西问丨王宏丽：中国式现代化的新疆实践何以超越“中心—边缘”叙事？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-05/10726740.shtml",
-        "publishedAt": "2026-11-05T17:48:49.000+08:00"
+        "title": "一场声乐比赛，听见内蒙古歌者的多元表达",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726739.shtml",
+        "publishedAt": "2026-11-05T18:03:22.000+08:00"
       },
       {
-        "title": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726752.shtml",
-        "publishedAt": "2026-11-05T17:34:05.000+08:00"
+        "title": "重庆永川“人才荟”搭台 川渝五城联动释放岗位超1.4万个",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726738.shtml",
+        "publishedAt": "2026-11-05T18:02:50.000+08:00"
       },
       {
-        "title": "直击广西武警官兵山林地战术综合演练",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726744.shtml",
-        "publishedAt": "2026-11-05T17:29:22.000+08:00"
+        "title": "河北滦州大棚结出“致富果”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726737.shtml",
+        "publishedAt": "2026-11-05T18:02:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T18:00:12.027+08:00",
+    "fetchedAt": "2026-11-05T18:10:23.148+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T18:00:12.471+08:00",
+      "fetchedAt": "2026-11-05T18:10:23.881+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T23:00:14.000+08:00"
+          "resetAt": "2026-11-05T23:10:25.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T18:00:12.475+08:00",
+      "fetchedAt": "2026-11-05T18:10:23.884+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T18:00:12.485+08:00",
+      "fetchedAt": "2026-11-05T18:10:23.893+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T18:00:12.485+08:00",
+      "fetchedAt": "2026-11-05T18:10:23.894+08:00",
       "error": "未启用",
       "disabled": true
     }
