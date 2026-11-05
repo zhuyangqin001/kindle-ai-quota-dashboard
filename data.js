@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T14:15:49.048+08:00",
+  "updatedAt": "2026-11-05T14:26:01.130+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-05T14:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T14:15:49.048+08:00",
+    "fetchedAt": "2026-11-05T14:26:01.130+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "台湾“00后”京剧演员湖北绽芳华",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726557.shtml",
+        "publishedAt": "2026-11-05T14:16:36.000+08:00"
+      },
+      {
+        "title": "聚焦新的“金色十年”，澜湄外长会深化各方务实行动",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726558.shtml",
+        "publishedAt": "2026-11-05T14:15:12.000+08:00"
+      },
+      {
+        "title": "中国铁路普速旅客列车和货物列车车次变更将于11月实施",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726560.shtml",
+        "publishedAt": "2026-11-05T14:14:28.000+08:00"
+      },
       {
         "title": "不法分子冒充海关实施招聘诈骗 海关总署发布严正声明",
         "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726548.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "（第九届进博会）第九届中国国际进口博览会开幕式在上海举行",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209866.shtml",
         "publishedAt": "2026-11-05T14:08:32.000+08:00"
-      },
-      {
-        "title": "“双11”把词元摆上货架 看不见的商品，账怎么算？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726555.shtml",
-        "publishedAt": "2026-11-05T14:04:13.000+08:00"
-      },
-      {
-        "title": "中新网评：别把国乒热度做成假直播生意",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726554.shtml",
-        "publishedAt": "2026-11-05T14:00:41.000+08:00"
-      },
-      {
-        "title": "胡塞武装称遭沙特上百次袭击 也门政府军与胡塞武装交战升级",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726532.shtml",
-        "publishedAt": "2026-11-05T13:49:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T14:15:45.653+08:00",
+    "fetchedAt": "2026-11-05T14:25:58.203+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T14:15:46.330+08:00",
+      "fetchedAt": "2026-11-05T14:25:58.926+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T14:15:46.334+08:00",
+      "fetchedAt": "2026-11-05T14:25:58.929+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T14:15:46.344+08:00",
+      "fetchedAt": "2026-11-05T14:25:58.937+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T14:15:46.344+08:00",
+      "fetchedAt": "2026-11-05T14:25:58.937+08:00",
       "error": "未启用",
       "disabled": true
     }
