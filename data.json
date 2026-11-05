@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T20:43:21.097+08:00",
+  "updatedAt": "2026-11-05T20:53:33.088+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.7,
-    "feelsLikeC": 18.1,
+    "tempC": 17.8,
+    "feelsLikeC": 18.4,
     "humidity": 78,
-    "windKph": 5.9,
+    "windKph": 4.6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T20:43:21.097+08:00",
+    "observedAt": "2026-11-05T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T20:53:33.088+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "来义乌站，好像“出国”了！",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726862.shtml",
-        "publishedAt": "2026-11-05T20:37:49.000+08:00"
+        "title": "青海发布“十五五”生态规划：到2030年建成美丽中国省域示范样板",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726845.shtml",
+        "publishedAt": "2026-11-05T20:43:21.000+08:00"
       },
       {
-        "title": "探访三亚蜈支洲岛：海天一色美如画",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726841.shtml",
-        "publishedAt": "2026-11-05T20:36:40.000+08:00"
+        "title": "广西三江：载歌载舞庆瑶年",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726867.shtml",
+        "publishedAt": "2026-11-05T20:42:33.000+08:00"
       },
       {
-        "title": "2026第28届中国绍兴柯桥纺织品博览会（秋季）启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726840.shtml",
-        "publishedAt": "2026-11-05T20:33:42.000+08:00"
+        "title": "广州“创享营”结营：公益项目从“好想法”走向“好产品”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726843.shtml",
+        "publishedAt": "2026-11-05T20:42:05.000+08:00"
       },
       {
-        "title": "河南洛阳：黄河秋色美如画",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726839.shtml",
-        "publishedAt": "2026-11-05T20:32:08.000+08:00"
+        "title": "九赴进博，共启新程——雀巢以160周年焕新之姿亮相第九届进博会",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726836.shtml",
+        "publishedAt": "2026-11-05T20:41:59.000+08:00"
       },
       {
-        "title": "航拍金沙江大峡谷：一江碧水穿群山",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726838.shtml",
-        "publishedAt": "2026-11-05T20:30:40.000+08:00"
+        "title": "2026厦门海洋科技装备博览会启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726859.shtml",
+        "publishedAt": "2026-11-05T20:40:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T20:43:18.522+08:00",
+    "fetchedAt": "2026-11-05T20:53:30.458+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T20:43:19.258+08:00",
+      "fetchedAt": "2026-11-05T20:53:31.197+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T01:43:20.000+08:00"
+          "resetAt": "2026-11-06T01:53:32.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T20:43:19.261+08:00",
+      "fetchedAt": "2026-11-05T20:53:31.200+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T20:43:19.270+08:00",
+      "fetchedAt": "2026-11-05T20:53:31.209+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T20:43:19.271+08:00",
+      "fetchedAt": "2026-11-05T20:53:31.210+08:00",
       "error": "未启用",
       "disabled": true
     }
