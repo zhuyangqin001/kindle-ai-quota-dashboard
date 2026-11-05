@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T22:35:33.208+08:00",
+  "updatedAt": "2026-11-05T22:45:45.736+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 17.6,
     "feelsLikeC": 18,
     "humidity": 80,
-    "windKph": 6.1,
+    "windKph": 6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T22:35:33.208+08:00",
+    "observedAt": "2026-11-05T22:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T22:45:45.737+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新疆交河故城探索科技赋能遗址保护新路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726917.shtml",
-        "publishedAt": "2026-11-05T22:30:47.000+08:00"
+        "title": "海南自贸港吸引力持续上升 多国客商赴琼寻商机",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726927.shtml",
+        "publishedAt": "2026-11-05T22:39:45.000+08:00"
       },
       {
-        "title": "（第九届进博会）港澳台企业踊跃参加第九届进博会",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726918.shtml",
-        "publishedAt": "2026-11-05T22:30:05.000+08:00"
+        "title": "（第九届进博会）九年进博，见证中国开放引力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726926.shtml",
+        "publishedAt": "2026-11-05T22:39:03.000+08:00"
       },
       {
-        "title": "专盯“一手女房东”！“房产中介”倒卖信息获刑三年半",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726922.shtml",
-        "publishedAt": "2026-11-05T22:29:29.000+08:00"
+        "title": "（第九届进博会）香港企业参展进博会数量、规模创新高",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-05/10726925.shtml",
+        "publishedAt": "2026-11-05T22:38:05.000+08:00"
       },
       {
-        "title": "（第九届进博会）外企高层：进博会让全球创新成果与中国需求更快相遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726916.shtml",
-        "publishedAt": "2026-11-05T22:25:16.000+08:00"
+        "title": "广西与加纳阿散蒂省签署建立友好区省关系意向书",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726924.shtml",
+        "publishedAt": "2026-11-05T22:36:59.000+08:00"
       },
       {
-        "title": "（第九届进博会）跨国企业进博会上展示“本土化”成果",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726915.shtml",
-        "publishedAt": "2026-11-05T22:23:58.000+08:00"
+        "title": "（第九届进博会）中国欧盟商会副主席：许多欧洲公司在中国做全球生意",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726923.shtml",
+        "publishedAt": "2026-11-05T22:36:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T22:35:30.024+08:00",
+    "fetchedAt": "2026-11-05T22:45:42.004+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T22:35:30.752+08:00",
+      "fetchedAt": "2026-11-05T22:45:42.726+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T03:35:32.000+08:00"
+          "resetAt": "2026-11-06T03:45:45.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T22:35:30.755+08:00",
+      "fetchedAt": "2026-11-05T22:45:42.729+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T22:35:30.765+08:00",
+      "fetchedAt": "2026-11-05T22:45:42.739+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T22:35:30.765+08:00",
+      "fetchedAt": "2026-11-05T22:45:42.739+08:00",
       "error": "未启用",
       "disabled": true
     }
