@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T06:54:01.574+08:00",
+  "updatedAt": "2026-11-06T07:14:19.272+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 16.7,
-    "feelsLikeC": 17.9,
+    "tempC": 16.8,
+    "feelsLikeC": 18,
     "humidity": 98,
-    "windKph": 6.8,
+    "windKph": 7,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T06:54:01.575+08:00",
+    "observedAt": "2026-11-06T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-06T07:14:19.272+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月6日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-06/10726985.shtml",
+        "publishedAt": "2026-11-06T07:06:41.000+08:00"
+      },
+      {
+        "title": "德国一政党领导人，被发现在酒店身亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726984.shtml",
+        "publishedAt": "2026-11-06T06:58:17.000+08:00"
+      },
+      {
+        "title": "微信群里，新就业群体的诉求被精准“打捞”、快速落实",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726983.shtml",
+        "publishedAt": "2026-11-06T06:50:24.000+08:00"
+      },
       {
         "title": "欧盟：判断欧洲多起航空威胁事件是否关联为时尚早",
         "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726982.shtml",
@@ -28,24 +43,9 @@
         "title": "美国国会“变天”之后：防长去留成难题 伊朗战事再添变数",
         "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726981.shtml",
         "publishedAt": "2026-11-06T06:46:12.000+08:00"
-      },
-      {
-        "title": "中智专家共话发展权保障与全球南方共同发展",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726980.shtml",
-        "publishedAt": "2026-11-06T06:43:32.000+08:00"
-      },
-      {
-        "title": "美国纽约一住宅楼火灾致6亡9伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10726979.shtml",
-        "publishedAt": "2026-11-06T06:42:44.000+08:00"
-      },
-      {
-        "title": "网传“不放秋假就是违规”是真的吗？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726978.shtml",
-        "publishedAt": "2026-11-06T06:39:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T06:53:58.884+08:00",
+    "fetchedAt": "2026-11-06T07:14:16.633+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T06:53:59.606+08:00",
+      "fetchedAt": "2026-11-06T07:14:17.290+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T11:54:01.000+08:00"
+          "resetAt": "2026-11-06T12:14:18.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T06:53:59.609+08:00",
+      "fetchedAt": "2026-11-06T07:14:17.293+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T06:53:59.618+08:00",
+      "fetchedAt": "2026-11-06T07:14:17.300+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T06:53:59.619+08:00",
+      "fetchedAt": "2026-11-06T07:14:17.300+08:00",
       "error": "未启用",
       "disabled": true
     }
