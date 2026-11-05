@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T15:57:49.579+08:00",
+  "updatedAt": "2026-11-05T16:18:11.013+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.8,
-    "feelsLikeC": 21.1,
-    "humidity": 57,
-    "windKph": 10.4,
+    "tempC": 21.2,
+    "feelsLikeC": 20.4,
+    "humidity": 59,
+    "windKph": 11.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T15:57:49.579+08:00",
+    "observedAt": "2026-11-05T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-05T16:18:11.013+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "潘功胜作金融工作情况报告：继续实施好适度宽松的货币政策",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726635.shtml",
-        "publishedAt": "2026-11-05T15:54:09.000+08:00"
+        "title": "两岸同胞同心聚合力 助力磨憨尚冈乡村振兴",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726669.shtml",
+        "publishedAt": "2026-11-05T16:14:20.000+08:00"
       },
       {
-        "title": "红果短剧，正成为一种大众新文艺",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726619.shtml",
-        "publishedAt": "2026-11-05T15:53:09.000+08:00"
+        "title": "四川成都：中小学生同场“智折方舟”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726672.shtml",
+        "publishedAt": "2026-11-05T16:13:42.000+08:00"
       },
       {
-        "title": "伊利九赴进博：用全球资源为你做一杯好奶",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726622.shtml",
-        "publishedAt": "2026-11-05T15:52:53.000+08:00"
+        "title": "乌镇“网事”丨透过峰会海报，遇见互联未来新十年",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726676.shtml",
+        "publishedAt": "2026-11-05T16:12:46.000+08:00"
       },
       {
-        "title": "商务部回应欧盟对低价值进口商品叠加征收有关税费",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726648.shtml",
-        "publishedAt": "2026-11-05T15:52:51.000+08:00"
+        "title": "苏州发布开放兴市“1+9”系列行动计划",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726665.shtml",
+        "publishedAt": "2026-11-05T16:12:14.000+08:00"
       },
       {
-        "title": "2026南昌航空产业博览会闭幕 意向成交金额超15.6亿元",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726632.shtml",
-        "publishedAt": "2026-11-05T15:52:39.000+08:00"
+        "title": "湖北武汉：府河湿地迎来越冬候鸟",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726667.shtml",
+        "publishedAt": "2026-11-05T16:11:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T15:57:44.639+08:00",
+    "fetchedAt": "2026-11-05T16:18:05.739+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T15:57:45.307+08:00",
+      "fetchedAt": "2026-11-05T16:18:06.432+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T20:57:48.000+08:00"
+          "resetAt": "2026-11-05T21:18:10.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T15:57:45.310+08:00",
+      "fetchedAt": "2026-11-05T16:18:06.436+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T15:57:45.320+08:00",
+      "fetchedAt": "2026-11-05T16:18:06.446+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T15:57:45.321+08:00",
+      "fetchedAt": "2026-11-05T16:18:06.446+08:00",
       "error": "未启用",
       "disabled": true
     }
