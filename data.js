@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T13:55:29.528+08:00",
+  "updatedAt": "2026-11-05T14:15:49.048+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.4,
+    "tempC": 22.5,
     "feelsLikeC": 22.1,
-    "humidity": 55,
-    "windKph": 7.7,
+    "humidity": 54,
+    "windKph": 8.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T13:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T13:55:29.528+08:00",
+    "observedAt": "2026-11-05T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-05T14:15:49.048+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "不法分子冒充海关实施招聘诈骗 海关总署发布严正声明",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726548.shtml",
+        "publishedAt": "2026-11-05T14:09:15.000+08:00"
+      },
+      {
+        "title": "（第九届进博会）第九届中国国际进口博览会开幕式在上海举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209866.shtml",
+        "publishedAt": "2026-11-05T14:08:32.000+08:00"
+      },
+      {
+        "title": "“双11”把词元摆上货架 看不见的商品，账怎么算？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726555.shtml",
+        "publishedAt": "2026-11-05T14:04:13.000+08:00"
+      },
+      {
+        "title": "中新网评：别把国乒热度做成假直播生意",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726554.shtml",
+        "publishedAt": "2026-11-05T14:00:41.000+08:00"
+      },
+      {
         "title": "胡塞武装称遭沙特上百次袭击 也门政府军与胡塞武装交战升级",
         "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726532.shtml",
         "publishedAt": "2026-11-05T13:49:16.000+08:00"
-      },
-      {
-        "title": "美参议院民主党领袖：民主党将结束伊朗战争，伊朗战事“必须结束”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726505.shtml",
-        "publishedAt": "2026-11-05T13:46:36.000+08:00"
-      },
-      {
-        "title": "乌镇峰会打开融合、开放、共赢之窗",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726543.shtml",
-        "publishedAt": "2026-11-05T13:45:20.000+08:00"
-      },
-      {
-        "title": "美众议院被曝最早下周弹劾美防长赫格塞思",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726541.shtml",
-        "publishedAt": "2026-11-05T13:44:28.000+08:00"
-      },
-      {
-        "title": "第六届国际道教论坛在中国杭州开幕 王沪宁致信祝贺",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726544.shtml",
-        "publishedAt": "2026-11-05T13:43:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T13:55:26.588+08:00",
+    "fetchedAt": "2026-11-05T14:15:45.653+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T13:55:27.209+08:00",
+      "fetchedAt": "2026-11-05T14:15:46.330+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T13:55:27.212+08:00",
+      "fetchedAt": "2026-11-05T14:15:46.334+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T13:55:27.222+08:00",
+      "fetchedAt": "2026-11-05T14:15:46.344+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T13:55:27.222+08:00",
+      "fetchedAt": "2026-11-05T14:15:46.344+08:00",
       "error": "未启用",
       "disabled": true
     }
