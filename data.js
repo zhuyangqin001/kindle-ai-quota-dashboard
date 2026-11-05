@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T22:04:53.584+08:00",
+  "updatedAt": "2026-11-05T22:15:08.045+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 17.7,
     "feelsLikeC": 18.1,
     "humidity": 79,
-    "windKph": 5.9,
+    "windKph": 6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T22:04:53.584+08:00",
+    "observedAt": "2026-11-05T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-05T22:15:08.045+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "外籍人士走进重庆社区 近距离感受基层协商民主实践",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726901.shtml",
+        "publishedAt": "2026-11-05T22:09:36.000+08:00"
+      },
+      {
+        "title": "流域治理成效如何落到红火日子里？（美丽中国·大河新颜）",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726912.shtml",
+        "publishedAt": "2026-11-05T22:09:12.000+08:00"
+      },
       {
         "title": "保持多项纪录！C罗宣布结束葡萄牙国家队生涯",
         "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726907.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "海外侨界代表走进天津校园 共读《侨印》厚植家国情怀",
         "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726902.shtml",
         "publishedAt": "2026-11-05T21:52:43.000+08:00"
-      },
-      {
-        "title": "中新健康｜医保钱包2.0版上线！个人账户资金如何跨省供亲属使用？一文看懂",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-05/10726904.shtml",
-        "publishedAt": "2026-11-05T21:51:45.000+08:00"
-      },
-      {
-        "title": "中国与阿曼签署证券期货监管合作谅解备忘录",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726878.shtml",
-        "publishedAt": "2026-11-05T21:44:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T22:04:50.194+08:00",
+    "fetchedAt": "2026-11-05T22:15:05.657+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T22:04:50.838+08:00",
+      "fetchedAt": "2026-11-05T22:15:06.055+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T03:04:52.000+08:00"
+          "resetAt": "2026-11-06T03:15:07.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T22:04:50.842+08:00",
+      "fetchedAt": "2026-11-05T22:15:06.058+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T22:04:50.851+08:00",
+      "fetchedAt": "2026-11-05T22:15:06.063+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T22:04:50.851+08:00",
+      "fetchedAt": "2026-11-05T22:15:06.063+08:00",
       "error": "未启用",
       "disabled": true
     }
