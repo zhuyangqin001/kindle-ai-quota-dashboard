@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T18:41:03.544+08:00",
+  "updatedAt": "2026-11-05T18:51:16.187+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.2,
+    "tempC": 19,
     "feelsLikeC": 18.7,
-    "humidity": 69,
-    "windKph": 10,
+    "humidity": 70,
+    "windKph": 9.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T18:41:03.544+08:00",
+    "observedAt": "2026-11-05T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T18:51:16.187+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "他们跨越山海来到大漠，只为跳一支敦煌舞",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726780.shtml",
+        "publishedAt": "2026-11-05T18:41:32.000+08:00"
+      },
+      {
+        "title": "第六届国际道教论坛在中国杭州开幕 王沪宁致信祝贺",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726775.shtml",
+        "publishedAt": "2026-11-05T18:36:02.000+08:00"
+      },
       {
         "title": "（经济观察）20余城落地“现房销售制” 房地产发展新模式加速构建",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726776.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "高山果香富农家 山西繁峙山地优势酿出“甜味经济”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726770.shtml",
         "publishedAt": "2026-11-05T18:26:31.000+08:00"
-      },
-      {
-        "title": "“肖复兴人生四书”出版：于平凡生活中读懂人生滋味",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726771.shtml",
-        "publishedAt": "2026-11-05T18:26:15.000+08:00"
-      },
-      {
-        "title": "第33届中国戏剧梅花奖设门槛：参评演员须过30场公开演出关",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726769.shtml",
-        "publishedAt": "2026-11-05T18:23:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T18:40:59.790+08:00",
+    "fetchedAt": "2026-11-05T18:51:13.378+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T18:41:00.525+08:00",
+      "fetchedAt": "2026-11-05T18:51:14.102+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T23:41:02.000+08:00"
+          "resetAt": "2026-11-05T23:51:15.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T18:41:00.528+08:00",
+      "fetchedAt": "2026-11-05T18:51:14.105+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T18:41:00.535+08:00",
+      "fetchedAt": "2026-11-05T18:51:14.115+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T18:41:00.536+08:00",
+      "fetchedAt": "2026-11-05T18:51:14.115+08:00",
       "error": "未启用",
       "disabled": true
     }
