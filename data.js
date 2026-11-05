@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T11:32:52.708+08:00",
+  "updatedAt": "2026-11-05T11:43:05.187+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-05T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T11:32:52.708+08:00",
+    "fetchedAt": "2026-11-05T11:43:05.187+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "敦煌论坛聚焦中亚南亚合作 共商丝路协同发展",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-05/10726483.shtml",
-        "publishedAt": "2026-11-05T11:27:57.000+08:00"
+        "title": "（第九届进博会）业界呼吁增强全球能源体系韧性",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726493.shtml",
+        "publishedAt": "2026-11-05T11:40:13.000+08:00"
       },
       {
-        "title": "靖安县仁首镇：凝聚巾帼力量 共促民族团结",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726482.shtml",
-        "publishedAt": "2026-11-05T11:27:55.000+08:00"
+        "title": "中国海拔最高的超超临界燃煤发电项目1号机组投运",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726491.shtml",
+        "publishedAt": "2026-11-05T11:39:05.000+08:00"
       },
       {
-        "title": "民建宜春市直属总支开展“同心思源” 公益义诊进社区活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726479.shtml",
-        "publishedAt": "2026-11-05T11:24:47.000+08:00"
+        "title": "重庆荣昌：把“同心”做进民营经济里",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726489.shtml",
+        "publishedAt": "2026-11-05T11:36:17.000+08:00"
       },
       {
-        "title": "广东海外联谊会访问团与比利时侨领座谈交流",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726467.shtml",
-        "publishedAt": "2026-11-05T11:24:11.000+08:00"
+        "title": "“民族团结花，开满校园里”——奉新县开展“石榴籽一家亲”活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726487.shtml",
+        "publishedAt": "2026-11-05T11:35:33.000+08:00"
       },
       {
-        "title": "京港洽谈会京港数智经济协同发展专题活动举办 发布系列重要成果",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726471.shtml",
-        "publishedAt": "2026-11-05T11:23:41.000+08:00"
+        "title": "长春市社会主义学院送课助力包保九台区",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726492.shtml",
+        "publishedAt": "2026-11-05T11:35:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T11:32:49.841+08:00",
+    "fetchedAt": "2026-11-05T11:43:01.865+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T11:32:50.520+08:00",
+      "fetchedAt": "2026-11-05T11:43:02.618+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T11:32:50.521+08:00",
+      "fetchedAt": "2026-11-05T11:43:02.621+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T11:32:50.525+08:00",
+      "fetchedAt": "2026-11-05T11:43:02.632+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T11:32:50.525+08:00",
+      "fetchedAt": "2026-11-05T11:43:02.632+08:00",
       "error": "未启用",
       "disabled": true
     }
