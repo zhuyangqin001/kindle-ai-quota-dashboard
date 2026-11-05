@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T09:50:55.731+08:00",
+  "updatedAt": "2026-11-05T10:11:16.257+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.8,
-    "feelsLikeC": 17.7,
-    "humidity": 74,
-    "windKph": 7.7,
+    "tempC": 18.2,
+    "feelsLikeC": 18,
+    "humidity": 73,
+    "windKph": 8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T09:50:55.731+08:00",
+    "observedAt": "2026-11-05T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T10:11:16.257+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "美国佛州飞机坠毁现场曝光 地面出现大坑",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209844.shtml",
-        "publishedAt": "2026-11-05T09:38:12.000+08:00"
+        "title": "期待借进博会进一步融入中国产供链——访中国泰国商会副会长庄派吉",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726427.shtml",
+        "publishedAt": "2026-11-05T10:08:30.000+08:00"
       },
       {
-        "title": "WTT法兰克福冠军赛：国乒小将温瑞博挺进男单16强",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726399.shtml",
-        "publishedAt": "2026-11-05T09:35:51.000+08:00"
+        "title": "第九届进博会开幕式举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726425.shtml",
+        "publishedAt": "2026-11-05T10:06:32.000+08:00"
       },
       {
-        "title": "河北出台一揽子措施支持OPC创新发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726400.shtml",
-        "publishedAt": "2026-11-05T09:34:13.000+08:00"
+        "title": "音乐杂技剧《寻找阿凡提》在乌鲁木齐上演",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726407.shtml",
+        "publishedAt": "2026-11-05T10:04:56.000+08:00"
       },
       {
-        "title": "11月5日央行开展2630亿元隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726398.shtml",
-        "publishedAt": "2026-11-05T09:31:00.000+08:00"
+        "title": "全国今年首批进口曾祖代白羽肉种鸡落户宁夏",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726416.shtml",
+        "publishedAt": "2026-11-05T10:04:46.000+08:00"
       },
       {
-        "title": "文创“进化”，路在何方？（金台随笔）",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726397.shtml",
-        "publishedAt": "2026-11-05T09:28:36.000+08:00"
+        "title": "从两大经贸展会读懂“顺差在中国，利益在各方”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726424.shtml",
+        "publishedAt": "2026-11-05T10:04:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T09:50:53.188+08:00",
+    "fetchedAt": "2026-11-05T10:11:10.186+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T09:50:53.904+08:00",
+      "fetchedAt": "2026-11-05T10:11:10.907+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T09:50:53.908+08:00",
+      "fetchedAt": "2026-11-05T10:11:10.911+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T09:50:53.918+08:00",
+      "fetchedAt": "2026-11-05T10:11:10.922+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T09:50:53.919+08:00",
+      "fetchedAt": "2026-11-05T10:11:10.922+08:00",
       "error": "未启用",
       "disabled": true
     }
