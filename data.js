@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T14:26:01.130+08:00",
+  "updatedAt": "2026-11-05T14:46:19.718+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.5,
+    "tempC": 22.6,
     "feelsLikeC": 22.1,
     "humidity": 54,
-    "windKph": 8.3,
+    "windKph": 8.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T14:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T14:26:01.130+08:00",
+    "observedAt": "2026-11-05T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T14:46:19.718+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "台湾“00后”京剧演员湖北绽芳华",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726557.shtml",
-        "publishedAt": "2026-11-05T14:16:36.000+08:00"
+        "title": "新疆阿克苏：冰糖心苹果迎来采摘季",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726566.shtml",
+        "publishedAt": "2026-11-05T14:37:53.000+08:00"
       },
       {
-        "title": "聚焦新的“金色十年”，澜湄外长会深化各方务实行动",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726558.shtml",
-        "publishedAt": "2026-11-05T14:15:12.000+08:00"
+        "title": "“文学点亮生活”拉美作家走访交流活动在桂林启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726578.shtml",
+        "publishedAt": "2026-11-05T14:36:31.000+08:00"
       },
       {
-        "title": "中国铁路普速旅客列车和货物列车车次变更将于11月实施",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726560.shtml",
-        "publishedAt": "2026-11-05T14:14:28.000+08:00"
+        "title": "山西大同专项巡查长城 守护明代烽燧遗存",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726587.shtml",
+        "publishedAt": "2026-11-05T14:34:33.000+08:00"
       },
       {
-        "title": "不法分子冒充海关实施招聘诈骗 海关总署发布严正声明",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726548.shtml",
-        "publishedAt": "2026-11-05T14:09:15.000+08:00"
+        "title": "重庆成立智能装备及智能制造产研融合服务联合体",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726584.shtml",
+        "publishedAt": "2026-11-05T14:33:45.000+08:00"
       },
       {
-        "title": "（第九届进博会）第九届中国国际进口博览会开幕式在上海举行",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209866.shtml",
-        "publishedAt": "2026-11-05T14:08:32.000+08:00"
+        "title": "张健任浙江衢州市委书记",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726582.shtml",
+        "publishedAt": "2026-11-05T14:33:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T14:25:58.203+08:00",
+    "fetchedAt": "2026-11-05T14:46:15.552+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T14:25:58.926+08:00",
+      "fetchedAt": "2026-11-05T14:46:16.062+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 44,
-          "resetAt": "2026-11-05T14:30:15.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-05T19:46:19.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T14:25:58.929+08:00",
+      "fetchedAt": "2026-11-05T14:46:16.064+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T14:25:58.937+08:00",
+      "fetchedAt": "2026-11-05T14:46:16.069+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T14:25:58.937+08:00",
+      "fetchedAt": "2026-11-05T14:46:16.069+08:00",
       "error": "未启用",
       "disabled": true
     }
