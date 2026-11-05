@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T17:29:47.018+08:00",
+  "updatedAt": "2026-11-05T18:00:14.620+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20,
-    "feelsLikeC": 19.3,
-    "humidity": 65,
-    "windKph": 11.5,
+    "tempC": 19.4,
+    "feelsLikeC": 18.9,
+    "humidity": 67,
+    "windKph": 10.5,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T17:29:47.018+08:00",
+    "observedAt": "2026-11-05T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T18:00:14.620+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "长春车展带热购车消费",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209913.shtml",
-        "publishedAt": "2026-11-05T17:08:18.000+08:00"
+        "title": "（第九届进博会）第九届进博会上海市交易团“首单”签约",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726756.shtml",
+        "publishedAt": "2026-11-05T17:52:10.000+08:00"
       },
       {
-        "title": "受权发布丨国务院关于修改和废止部分行政法规的决定",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726729.shtml",
-        "publishedAt": "2026-11-05T17:03:15.000+08:00"
+        "title": "中资企业助力曼谷垃圾资源化利用",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726750.shtml",
+        "publishedAt": "2026-11-05T17:50:23.000+08:00"
       },
       {
-        "title": "福建天宝岩保护区首现野生流苏贝母兰群落 野生兰科植物增至46种",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726727.shtml",
-        "publishedAt": "2026-11-05T17:01:37.000+08:00"
+        "title": "东西问丨王宏丽：中国式现代化的新疆实践何以超越“中心—边缘”叙事？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-05/10726740.shtml",
+        "publishedAt": "2026-11-05T17:48:49.000+08:00"
       },
       {
-        "title": "调休减少 2027年放假安排来了！",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726728.shtml",
-        "publishedAt": "2026-11-05T17:01:07.000+08:00"
+        "title": "李强签署国务院令 公布《国务院关于修改和废止部分行政法规的决定》",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726752.shtml",
+        "publishedAt": "2026-11-05T17:34:05.000+08:00"
       },
       {
-        "title": "老味道玩出新花样 浙江松阳煨盐鸡烹出“共富味”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726726.shtml",
-        "publishedAt": "2026-11-05T17:00:49.000+08:00"
+        "title": "直击广西武警官兵山林地战术综合演练",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726744.shtml",
+        "publishedAt": "2026-11-05T17:29:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T17:29:44.299+08:00",
+    "fetchedAt": "2026-11-05T18:00:12.027+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T17:29:45.018+08:00",
+      "fetchedAt": "2026-11-05T18:00:12.471+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T22:29:46.000+08:00"
+          "resetAt": "2026-11-05T23:00:14.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T17:29:45.020+08:00",
+      "fetchedAt": "2026-11-05T18:00:12.475+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T17:29:45.025+08:00",
+      "fetchedAt": "2026-11-05T18:00:12.485+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T17:29:45.025+08:00",
+      "fetchedAt": "2026-11-05T18:00:12.485+08:00",
       "error": "未启用",
       "disabled": true
     }
