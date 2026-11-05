@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T12:54:30.443+08:00",
+  "updatedAt": "2026-11-05T13:04:42.303+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.9,
-    "feelsLikeC": 21.9,
-    "humidity": 57,
-    "windKph": 6.7,
+    "tempC": 22.1,
+    "feelsLikeC": 22,
+    "humidity": 56,
+    "windKph": 6.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T12:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T12:54:30.443+08:00",
+    "observedAt": "2026-11-05T13:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T13:04:42.303+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（第九届进博会）以金融联通全球 外资银行共赴进博之约",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726533.shtml",
+        "publishedAt": "2026-11-05T12:57:38.000+08:00"
+      },
       {
         "title": "按年龄分档、零起付线等 多地升级“惠民保”增加保障",
         "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726531.shtml",
@@ -38,14 +43,9 @@
         "title": "摩洛哥称将继续遵守西撒哈拉停火协议",
         "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726490.shtml",
         "publishedAt": "2026-11-05T12:14:03.000+08:00"
-      },
-      {
-        "title": "菲律宾10月通胀率升至7.8% 创2023年2月以来新高",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726499.shtml",
-        "publishedAt": "2026-11-05T12:13:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T12:54:27.595+08:00",
+    "fetchedAt": "2026-11-05T13:04:39.148+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T12:54:28.296+08:00",
+      "fetchedAt": "2026-11-05T13:04:39.884+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T12:54:28.299+08:00",
+      "fetchedAt": "2026-11-05T13:04:39.887+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T12:54:28.308+08:00",
+      "fetchedAt": "2026-11-05T13:04:39.897+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T12:54:28.309+08:00",
+      "fetchedAt": "2026-11-05T13:04:39.897+08:00",
       "error": "未启用",
       "disabled": true
     }
