@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T12:03:25.366+08:00",
+  "updatedAt": "2026-11-05T12:13:39.204+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-05T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T12:03:25.366+08:00",
+    "fetchedAt": "2026-11-05T12:13:39.204+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "广东外贸千年：商港依旧货品常变 外贸向新而行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726511.shtml",
+        "publishedAt": "2026-11-05T12:06:47.000+08:00"
+      },
+      {
+        "title": "吃着吃着就炸了 卡式炉这些错误用法要当心",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726522.shtml",
+        "publishedAt": "2026-11-05T12:05:55.000+08:00"
+      },
       {
         "title": "第十届中国职工足球联赛总决赛柳州开赛 36支球队同场竞技",
         "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726509.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "“毛医生”，一个叫错却无人改口的名字",
         "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726504.shtml",
         "publishedAt": "2026-11-05T11:46:56.000+08:00"
-      },
-      {
-        "title": "蓝白巷弄间，三亚古老渔村写下“诗与远方”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726501.shtml",
-        "publishedAt": "2026-11-05T11:46:28.000+08:00"
-      },
-      {
-        "title": "克林顿夫妇发文：祝贺民主党",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726507.shtml",
-        "publishedAt": "2026-11-05T11:46:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T12:03:19.556+08:00",
+    "fetchedAt": "2026-11-05T12:13:36.514+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T12:03:20.089+08:00",
+      "fetchedAt": "2026-11-05T12:13:37.030+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T12:03:20.091+08:00",
+      "fetchedAt": "2026-11-05T12:13:37.033+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T12:03:20.099+08:00",
+      "fetchedAt": "2026-11-05T12:13:37.040+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T12:03:20.099+08:00",
+      "fetchedAt": "2026-11-05T12:13:37.040+08:00",
       "error": "未启用",
       "disabled": true
     }
