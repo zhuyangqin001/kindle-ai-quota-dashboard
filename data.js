@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T09:30:34.493+08:00",
+  "updatedAt": "2026-11-05T09:40:44.977+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-05T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T09:30:34.494+08:00",
+    "fetchedAt": "2026-11-05T09:40:44.977+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "河北出台一揽子措施支持OPC创新发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726400.shtml",
+        "publishedAt": "2026-11-05T09:34:13.000+08:00"
+      },
+      {
+        "title": "11月5日央行开展2630亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726398.shtml",
+        "publishedAt": "2026-11-05T09:31:00.000+08:00"
+      },
       {
         "title": "文创“进化”，路在何方？（金台随笔）",
         "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726397.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "两部门联合印发《初级、中级养老服务师职业资格考试实施办法》",
         "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726391.shtml",
         "publishedAt": "2026-11-05T09:22:44.000+08:00"
-      },
-      {
-        "title": "云岭动态第三十四期",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726389.shtml",
-        "publishedAt": "2026-11-05T09:22:42.000+08:00"
-      },
-      {
-        "title": "白宫发帖提示：特朗普仍是美国总统",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726395.shtml",
-        "publishedAt": "2026-11-05T09:22:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T09:30:31.448+08:00",
+    "fetchedAt": "2026-11-05T09:40:42.745+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T09:30:32.037+08:00",
+      "fetchedAt": "2026-11-05T09:40:43.225+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 1,
+          "usedPct": 33,
           "resetAt": "2026-11-05T14:30:15.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 44,
+          "usedPct": 49,
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T09:30:32.039+08:00",
+      "fetchedAt": "2026-11-05T09:40:43.227+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T09:30:32.046+08:00",
+      "fetchedAt": "2026-11-05T09:40:43.233+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T09:30:32.046+08:00",
+      "fetchedAt": "2026-11-05T09:40:43.234+08:00",
       "error": "未启用",
       "disabled": true
     }
