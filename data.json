@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T01:18:39.920+08:00",
+  "updatedAt": "2026-11-06T01:28:51.777+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-06T01:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T01:18:39.920+08:00",
+    "fetchedAt": "2026-11-06T01:28:51.777+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "新疆和田地区和康县发生4.8级地震 震源深度60千米",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726977.shtml",
+        "publishedAt": "2026-11-06T01:20:38.000+08:00"
+      },
+      {
+        "title": "新疆和田地区和康县附近发生5.1级左右地震",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726976.shtml",
+        "publishedAt": "2026-11-06T01:15:40.000+08:00"
+      },
       {
         "title": "我国成功发射遥感五十一号07-09星",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10726975.shtml",
@@ -33,19 +43,9 @@
         "title": "2026CFA中国之队·银川五人制足球国际邀请赛开赛",
         "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726973.shtml",
         "publishedAt": "2026-11-05T23:48:29.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）从“展示窗口”到“创新加速器”：进博会医疗创新孵化专区强力链接全球双循环",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726967.shtml",
-        "publishedAt": "2026-11-05T23:48:25.000+08:00"
-      },
-      {
-        "title": "让癌细胞“忙中出错”自我引爆 浙大团队成果登《自然》",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-05/10726966.shtml",
-        "publishedAt": "2026-11-05T23:46:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T01:18:36.597+08:00",
+    "fetchedAt": "2026-11-06T01:28:49.260+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T01:18:37.316+08:00",
+      "fetchedAt": "2026-11-06T01:28:49.986+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T06:18:39.000+08:00"
+          "resetAt": "2026-11-06T06:28:51.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T01:18:37.319+08:00",
+      "fetchedAt": "2026-11-06T01:28:49.989+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T01:18:37.329+08:00",
+      "fetchedAt": "2026-11-06T01:28:49.999+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T01:18:37.329+08:00",
+      "fetchedAt": "2026-11-06T01:28:49.999+08:00",
       "error": "未启用",
       "disabled": true
     }
