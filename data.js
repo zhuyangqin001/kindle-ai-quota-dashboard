@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T22:45:45.736+08:00",
+  "updatedAt": "2026-11-05T22:55:57.827+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-05T22:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T22:45:45.737+08:00",
+    "fetchedAt": "2026-11-05T22:55:57.828+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "大理建州70年：经济总量是建州时1285倍 绿色发展成底色",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726933.shtml",
+        "publishedAt": "2026-11-05T22:48:38.000+08:00"
+      },
+      {
+        "title": "53个科创项目亮相香港 浙港共探科创成果出海",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-05/10726929.shtml",
+        "publishedAt": "2026-11-05T22:47:58.000+08:00"
+      },
+      {
+        "title": "《白衣公卿》还没播，番位先吵起来了！笔画排序为何没能终结争议？",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726928.shtml",
+        "publishedAt": "2026-11-05T22:45:02.000+08:00"
+      },
       {
         "title": "海南自贸港吸引力持续上升 多国客商赴琼寻商机",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726927.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "（第九届进博会）九年进博，见证中国开放引力",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726926.shtml",
         "publishedAt": "2026-11-05T22:39:03.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）香港企业参展进博会数量、规模创新高",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-05/10726925.shtml",
-        "publishedAt": "2026-11-05T22:38:05.000+08:00"
-      },
-      {
-        "title": "广西与加纳阿散蒂省签署建立友好区省关系意向书",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726924.shtml",
-        "publishedAt": "2026-11-05T22:36:59.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）中国欧盟商会副主席：许多欧洲公司在中国做全球生意",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726923.shtml",
-        "publishedAt": "2026-11-05T22:36:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T22:45:42.004+08:00",
+    "fetchedAt": "2026-11-05T22:55:54.523+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T22:45:42.726+08:00",
+      "fetchedAt": "2026-11-05T22:55:55.261+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T03:45:45.000+08:00"
+          "resetAt": "2026-11-06T03:55:56.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T22:45:42.729+08:00",
+      "fetchedAt": "2026-11-05T22:55:55.264+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T22:45:42.739+08:00",
+      "fetchedAt": "2026-11-05T22:55:55.272+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T22:45:42.739+08:00",
+      "fetchedAt": "2026-11-05T22:55:55.273+08:00",
       "error": "未启用",
       "disabled": true
     }
