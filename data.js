@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T20:53:33.088+08:00",
+  "updatedAt": "2026-11-05T21:13:51.164+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 17.8,
-    "feelsLikeC": 18.4,
+    "feelsLikeC": 18.5,
     "humidity": 78,
-    "windKph": 4.6,
-    "windDir": "北风",
+    "windKph": 3.7,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T20:53:33.088+08:00",
+    "observedAt": "2026-11-05T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T21:13:51.164+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "青海发布“十五五”生态规划：到2030年建成美丽中国省域示范样板",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726845.shtml",
-        "publishedAt": "2026-11-05T20:43:21.000+08:00"
+        "title": "215件盆景“进”古建 浙江盆景展在杭启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726860.shtml",
+        "publishedAt": "2026-11-05T20:55:15.000+08:00"
       },
       {
-        "title": "广西三江：载歌载舞庆瑶年",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726867.shtml",
-        "publishedAt": "2026-11-05T20:42:33.000+08:00"
+        "title": "“剧好看 2027新剧推介会”在京举行 多部重点剧集亮相",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726857.shtml",
+        "publishedAt": "2026-11-05T20:53:41.000+08:00"
       },
       {
-        "title": "广州“创享营”结营：公益项目从“好想法”走向“好产品”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726843.shtml",
-        "publishedAt": "2026-11-05T20:42:05.000+08:00"
+        "title": "第十届中华职业教育创新创业大赛贵州省赛开赛",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-05/10726855.shtml",
+        "publishedAt": "2026-11-05T20:49:53.000+08:00"
       },
       {
-        "title": "九赴进博，共启新程——雀巢以160周年焕新之姿亮相第九届进博会",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726836.shtml",
-        "publishedAt": "2026-11-05T20:41:59.000+08:00"
+        "title": "2026中国广播电视精品创作大会·电视剧（网络剧）论坛举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726854.shtml",
+        "publishedAt": "2026-11-05T20:49:19.000+08:00"
       },
       {
-        "title": "2026厦门海洋科技装备博览会启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726859.shtml",
-        "publishedAt": "2026-11-05T20:40:53.000+08:00"
+        "title": "向空图强，“英雄城”南昌如何“飞”向新高度？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726853.shtml",
+        "publishedAt": "2026-11-05T20:48:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T20:53:30.458+08:00",
+    "fetchedAt": "2026-11-05T21:13:48.126+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T20:53:31.197+08:00",
+      "fetchedAt": "2026-11-05T21:13:48.892+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T01:53:32.000+08:00"
+          "resetAt": "2026-11-06T02:13:50.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T20:53:31.200+08:00",
+      "fetchedAt": "2026-11-05T21:13:48.895+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T20:53:31.209+08:00",
+      "fetchedAt": "2026-11-05T21:13:48.904+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T20:53:31.210+08:00",
+      "fetchedAt": "2026-11-05T21:13:48.905+08:00",
       "error": "未启用",
       "disabled": true
     }
