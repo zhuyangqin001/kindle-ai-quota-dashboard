@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T09:40:44.977+08:00",
+  "updatedAt": "2026-11-05T09:50:55.731+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.5,
-    "feelsLikeC": 17.4,
-    "humidity": 76,
-    "windKph": 7.3,
+    "tempC": 17.8,
+    "feelsLikeC": 17.7,
+    "humidity": 74,
+    "windKph": 7.7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T09:40:44.977+08:00",
+    "observedAt": "2026-11-05T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T09:50:55.731+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国佛州飞机坠毁现场曝光 地面出现大坑",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209844.shtml",
+        "publishedAt": "2026-11-05T09:38:12.000+08:00"
+      },
+      {
+        "title": "WTT法兰克福冠军赛：国乒小将温瑞博挺进男单16强",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726399.shtml",
+        "publishedAt": "2026-11-05T09:35:51.000+08:00"
+      },
       {
         "title": "河北出台一揽子措施支持OPC创新发展",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726400.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "文创“进化”，路在何方？（金台随笔）",
         "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726397.shtml",
         "publishedAt": "2026-11-05T09:28:36.000+08:00"
-      },
-      {
-        "title": "11月5日人民币对美元中间价报6.7156 上调24个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726394.shtml",
-        "publishedAt": "2026-11-05T09:24:06.000+08:00"
-      },
-      {
-        "title": "两部门联合印发《初级、中级养老服务师职业资格考试实施办法》",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726391.shtml",
-        "publishedAt": "2026-11-05T09:22:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T09:40:42.745+08:00",
+    "fetchedAt": "2026-11-05T09:50:53.188+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T09:40:43.225+08:00",
+      "fetchedAt": "2026-11-05T09:50:53.904+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 33,
+          "usedPct": 44,
           "resetAt": "2026-11-05T14:30:15.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 49,
+          "usedPct": 51,
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T09:40:43.227+08:00",
+      "fetchedAt": "2026-11-05T09:50:53.908+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T09:40:43.233+08:00",
+      "fetchedAt": "2026-11-05T09:50:53.918+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T09:40:43.234+08:00",
+      "fetchedAt": "2026-11-05T09:50:53.919+08:00",
       "error": "未启用",
       "disabled": true
     }
