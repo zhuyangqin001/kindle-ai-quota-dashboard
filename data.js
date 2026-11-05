@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T10:11:16.257+08:00",
+  "updatedAt": "2026-11-05T10:21:28.253+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.2,
-    "feelsLikeC": 18,
-    "humidity": 73,
-    "windKph": 8,
+    "tempC": 18.6,
+    "feelsLikeC": 18.4,
+    "humidity": 71,
+    "windKph": 8.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T10:11:16.257+08:00",
+    "observedAt": "2026-11-05T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-05T10:21:28.253+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "期待借进博会进一步融入中国产供链——访中国泰国商会副会长庄派吉",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726427.shtml",
-        "publishedAt": "2026-11-05T10:08:30.000+08:00"
+        "title": "《VIVANT》，好一出“颠倒剧”｜真相",
+        "url": "https://www.chinanews.com.cn/chuangyi/2026/11-05/10726429.shtml",
+        "publishedAt": "2026-11-05T10:12:57.000+08:00"
       },
       {
-        "title": "第九届进博会开幕式举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726425.shtml",
-        "publishedAt": "2026-11-05T10:06:32.000+08:00"
+        "title": "交银国际信托有限公司原董事长张文被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726428.shtml",
+        "publishedAt": "2026-11-05T10:12:15.000+08:00"
       },
       {
-        "title": "音乐杂技剧《寻找阿凡提》在乌鲁木齐上演",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726407.shtml",
-        "publishedAt": "2026-11-05T10:04:56.000+08:00"
+        "title": "万斯发长文分析共和党中期选举失利：就是因为这场战争",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726432.shtml",
+        "publishedAt": "2026-11-05T10:11:31.000+08:00"
       },
       {
-        "title": "全国今年首批进口曾祖代白羽肉种鸡落户宁夏",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726416.shtml",
-        "publishedAt": "2026-11-05T10:04:46.000+08:00"
+        "title": "国内航线燃油附加费今起上调",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726430.shtml",
+        "publishedAt": "2026-11-05T10:11:15.000+08:00"
       },
       {
-        "title": "从两大经贸展会读懂“顺差在中国，利益在各方”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726424.shtml",
-        "publishedAt": "2026-11-05T10:04:42.000+08:00"
+        "title": "让数字发展不留“孤岛”！佛得角部长在乌镇峰会谈共建共享数字未来",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726431.shtml",
+        "publishedAt": "2026-11-05T10:11:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T10:11:10.186+08:00",
+    "fetchedAt": "2026-11-05T10:21:25.322+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T10:11:10.907+08:00",
+      "fetchedAt": "2026-11-05T10:21:26.055+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T10:11:10.911+08:00",
+      "fetchedAt": "2026-11-05T10:21:26.058+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T10:11:10.922+08:00",
+      "fetchedAt": "2026-11-05T10:21:26.068+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T10:11:10.922+08:00",
+      "fetchedAt": "2026-11-05T10:21:26.069+08:00",
       "error": "未启用",
       "disabled": true
     }
