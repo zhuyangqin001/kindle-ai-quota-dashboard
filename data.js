@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T19:42:14.893+08:00",
+  "updatedAt": "2026-11-05T20:02:33.076+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.3,
-    "feelsLikeC": 18.2,
-    "humidity": 74,
-    "windKph": 8.5,
-    "windDir": "西北风",
+    "tempC": 17.8,
+    "feelsLikeC": 17.9,
+    "humidity": 77,
+    "windKph": 7.6,
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T19:42:14.893+08:00",
+    "observedAt": "2026-11-05T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T20:02:33.076+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "临时绿化巧盘活 江西彭泽“闲置地”开出“民生花”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726795.shtml",
-        "publishedAt": "2026-11-05T19:23:53.000+08:00"
+        "title": "世界互联网大会乌镇峰会闭幕 绘就智能发展新图景",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726830.shtml",
+        "publishedAt": "2026-11-05T19:57:00.000+08:00"
       },
       {
-        "title": "第140届广交会期间广州口岸出入境人员达126万人次",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726796.shtml",
-        "publishedAt": "2026-11-05T19:23:02.000+08:00"
+        "title": "27个分论坛创近年新高 乌镇之“桥”引各方赞誉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726825.shtml",
+        "publishedAt": "2026-11-05T19:55:50.000+08:00"
       },
       {
-        "title": "宁夏：铁路点亮山区学子远行梦",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-05/10726797.shtml",
-        "publishedAt": "2026-11-05T19:22:58.000+08:00"
+        "title": "世批联主席：中国已成食品流通创新重要中心",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726824.shtml",
+        "publishedAt": "2026-11-05T19:53:44.000+08:00"
       },
       {
-        "title": "原子级制造“院士专家城市行”北京站活动在北京怀柔举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726800.shtml",
-        "publishedAt": "2026-11-05T19:22:26.000+08:00"
+        "title": "2026昆明国际车展启幕 汽车盛宴吸引市民打卡",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726820.shtml",
+        "publishedAt": "2026-11-05T19:53:28.000+08:00"
       },
       {
-        "title": "在三亚“洞天福地，海山奇观”中饱览人文气象",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726808.shtml",
-        "publishedAt": "2026-11-05T19:19:36.000+08:00"
+        "title": "今年秋冬北京降水预计偏多 或出现阶段性强降温",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726822.shtml",
+        "publishedAt": "2026-11-05T19:52:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T19:42:11.981+08:00",
+    "fetchedAt": "2026-11-05T20:02:29.882+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T19:42:12.623+08:00",
+      "fetchedAt": "2026-11-05T20:02:30.603+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T00:42:14.000+08:00"
+          "resetAt": "2026-11-06T01:02:32.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T19:42:12.625+08:00",
+      "fetchedAt": "2026-11-05T20:02:30.606+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T19:42:12.631+08:00",
+      "fetchedAt": "2026-11-05T20:02:30.616+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T19:42:12.631+08:00",
+      "fetchedAt": "2026-11-05T20:02:30.616+08:00",
       "error": "未启用",
       "disabled": true
     }
