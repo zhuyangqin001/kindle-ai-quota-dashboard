@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T11:02:21.751+08:00",
+  "updatedAt": "2026-11-05T11:22:40.804+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.1,
-    "feelsLikeC": 20,
-    "humidity": 65,
-    "windKph": 7.7,
+    "tempC": 20.4,
+    "feelsLikeC": 20.3,
+    "humidity": 64,
+    "windKph": 7.4,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T11:02:21.751+08:00",
+    "observedAt": "2026-11-05T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-05T11:22:40.805+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "《企业风险管理有效性评价指南》国家标准发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726455.shtml",
-        "publishedAt": "2026-11-05T10:54:35.000+08:00"
+        "title": "金观平：开放中国“进”无止境",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726472.shtml",
+        "publishedAt": "2026-11-05T11:18:58.000+08:00"
       },
       {
-        "title": "织就数字文化新画卷——在乌镇峰会感受数字文化新业态",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726460.shtml",
-        "publishedAt": "2026-11-05T10:53:25.000+08:00"
+        "title": "中国原子城历史图片展暨宣讲活动在拉萨启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726468.shtml",
+        "publishedAt": "2026-11-05T11:18:08.000+08:00"
       },
       {
-        "title": "10月物流业景气指数处于扩张区间 预期向好",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726458.shtml",
-        "publishedAt": "2026-11-05T10:51:07.000+08:00"
+        "title": "“中原”与“突突”，金寨县革命博物馆讲解词里的战地女婴",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726470.shtml",
+        "publishedAt": "2026-11-05T11:16:42.000+08:00"
       },
       {
-        "title": "秋假来了 研学游、亲子游火热 多地景区免门票",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726457.shtml",
-        "publishedAt": "2026-11-05T10:50:23.000+08:00"
+        "title": "AI“带货”登场，全球贸易嬗变",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726469.shtml",
+        "publishedAt": "2026-11-05T11:16:30.000+08:00"
       },
       {
-        "title": "市场监管总局依法废止《绵羊绒交易技术规范》团体标准",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726452.shtml",
-        "publishedAt": "2026-11-05T10:48:09.000+08:00"
+        "title": "拜耳影像诊断连续第九年赴约进博会，以全球创新与本土制造服务中国临床需求",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726466.shtml",
+        "publishedAt": "2026-11-05T11:12:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T11:02:17.755+08:00",
+    "fetchedAt": "2026-11-05T11:22:36.224+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T11:02:18.481+08:00",
+      "fetchedAt": "2026-11-05T11:22:36.958+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T11:02:18.485+08:00",
+      "fetchedAt": "2026-11-05T11:22:36.961+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T11:02:18.495+08:00",
+      "fetchedAt": "2026-11-05T11:22:36.971+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T11:02:18.496+08:00",
+      "fetchedAt": "2026-11-05T11:22:36.971+08:00",
       "error": "未启用",
       "disabled": true
     }
