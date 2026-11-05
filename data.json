@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T11:43:05.187+08:00",
+  "updatedAt": "2026-11-05T12:03:25.366+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.6,
-    "feelsLikeC": 20.6,
-    "humidity": 63,
-    "windKph": 7,
+    "tempC": 21.1,
+    "feelsLikeC": 21.1,
+    "humidity": 61,
+    "windKph": 6.5,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T11:43:05.187+08:00",
+    "observedAt": "2026-11-05T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T12:03:25.366+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）业界呼吁增强全球能源体系韧性",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726493.shtml",
-        "publishedAt": "2026-11-05T11:40:13.000+08:00"
+        "title": "第十届中国职工足球联赛总决赛柳州开赛 36支球队同场竞技",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726509.shtml",
+        "publishedAt": "2026-11-05T11:48:28.000+08:00"
       },
       {
-        "title": "中国海拔最高的超超临界燃煤发电项目1号机组投运",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726491.shtml",
-        "publishedAt": "2026-11-05T11:39:05.000+08:00"
+        "title": "河北邯郸：不用一砖一瓦 万千布条拧出仿古戏楼",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726508.shtml",
+        "publishedAt": "2026-11-05T11:47:46.000+08:00"
       },
       {
-        "title": "重庆荣昌：把“同心”做进民营经济里",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726489.shtml",
-        "publishedAt": "2026-11-05T11:36:17.000+08:00"
+        "title": "“毛医生”，一个叫错却无人改口的名字",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726504.shtml",
+        "publishedAt": "2026-11-05T11:46:56.000+08:00"
       },
       {
-        "title": "“民族团结花，开满校园里”——奉新县开展“石榴籽一家亲”活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726487.shtml",
-        "publishedAt": "2026-11-05T11:35:33.000+08:00"
+        "title": "蓝白巷弄间，三亚古老渔村写下“诗与远方”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726501.shtml",
+        "publishedAt": "2026-11-05T11:46:28.000+08:00"
       },
       {
-        "title": "长春市社会主义学院送课助力包保九台区",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726492.shtml",
-        "publishedAt": "2026-11-05T11:35:05.000+08:00"
+        "title": "克林顿夫妇发文：祝贺民主党",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726507.shtml",
+        "publishedAt": "2026-11-05T11:46:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T11:43:01.865+08:00",
+    "fetchedAt": "2026-11-05T12:03:19.556+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T11:43:02.618+08:00",
+      "fetchedAt": "2026-11-05T12:03:20.089+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T11:43:02.621+08:00",
+      "fetchedAt": "2026-11-05T12:03:20.091+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T11:43:02.632+08:00",
+      "fetchedAt": "2026-11-05T12:03:20.099+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T11:43:02.632+08:00",
+      "fetchedAt": "2026-11-05T12:03:20.099+08:00",
       "error": "未启用",
       "disabled": true
     }
