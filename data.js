@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T18:51:16.187+08:00",
+  "updatedAt": "2026-11-05T19:01:27.792+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19,
-    "feelsLikeC": 18.7,
-    "humidity": 70,
-    "windKph": 9.6,
+    "tempC": 18.9,
+    "feelsLikeC": 18.6,
+    "humidity": 71,
+    "windKph": 9.3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T18:51:16.187+08:00",
+    "observedAt": "2026-11-05T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T19:01:27.793+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "他们跨越山海来到大漠，只为跳一支敦煌舞",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726780.shtml",
-        "publishedAt": "2026-11-05T18:41:32.000+08:00"
+        "title": "国网湖南省电力有限公司原副总经理王健接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726743.shtml",
+        "publishedAt": "2026-11-05T18:55:45.000+08:00"
       },
       {
-        "title": "第六届国际道教论坛在中国杭州开幕 王沪宁致信祝贺",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726775.shtml",
-        "publishedAt": "2026-11-05T18:36:02.000+08:00"
+        "title": "C罗宣布从葡萄牙国家足球队退役：“葡萄牙，永在我心”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726787.shtml",
+        "publishedAt": "2026-11-05T18:54:19.000+08:00"
       },
       {
-        "title": "（经济观察）20余城落地“现房销售制” 房地产发展新模式加速构建",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726776.shtml",
-        "publishedAt": "2026-11-05T18:31:18.000+08:00"
+        "title": "多场景“上岗” 安徽机器人“新员工”加速就位",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726779.shtml",
+        "publishedAt": "2026-11-05T18:52:49.000+08:00"
       },
       {
-        "title": "全国首个“电力鸿蒙”兆瓦级液冷超充重卡补能示范站落地昆明",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726772.shtml",
-        "publishedAt": "2026-11-05T18:27:33.000+08:00"
+        "title": "（友城故事）从俄克拉何马城到敦煌：美国师生的丝路“初体验”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726778.shtml",
+        "publishedAt": "2026-11-05T18:52:37.000+08:00"
       },
       {
-        "title": "高山果香富农家 山西繁峙山地优势酿出“甜味经济”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726770.shtml",
-        "publishedAt": "2026-11-05T18:26:31.000+08:00"
+        "title": "（粤港澳大湾区）“三澳”标志首款“白名单”产品顺利出口澳门",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-05/10726777.shtml",
+        "publishedAt": "2026-11-05T18:51:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T18:51:13.378+08:00",
+    "fetchedAt": "2026-11-05T19:01:25.443+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T18:51:14.102+08:00",
+      "fetchedAt": "2026-11-05T19:01:25.919+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T23:51:15.000+08:00"
+          "resetAt": "2026-11-06T00:01:27.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T18:51:14.105+08:00",
+      "fetchedAt": "2026-11-05T19:01:25.920+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T18:51:14.115+08:00",
+      "fetchedAt": "2026-11-05T19:01:25.924+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T18:51:14.115+08:00",
+      "fetchedAt": "2026-11-05T19:01:25.924+08:00",
       "error": "未启用",
       "disabled": true
     }
