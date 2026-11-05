@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T16:18:11.013+08:00",
+  "updatedAt": "2026-11-05T16:28:25.884+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-05T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T16:18:11.013+08:00",
+    "fetchedAt": "2026-11-05T16:28:25.884+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "两岸同胞同心聚合力 助力磨憨尚冈乡村振兴",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726669.shtml",
-        "publishedAt": "2026-11-05T16:14:20.000+08:00"
+        "title": "山西稷山：一块煤的“高端突围”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726682.shtml",
+        "publishedAt": "2026-11-05T16:22:09.000+08:00"
       },
       {
-        "title": "四川成都：中小学生同场“智折方舟”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726672.shtml",
-        "publishedAt": "2026-11-05T16:13:42.000+08:00"
+        "title": "从街头岗亭到乡村茶桌 甘肃陇南“马路学堂”探文明出行新风",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726679.shtml",
+        "publishedAt": "2026-11-05T16:20:37.000+08:00"
       },
       {
-        "title": "乌镇“网事”丨透过峰会海报，遇见互联未来新十年",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726676.shtml",
-        "publishedAt": "2026-11-05T16:12:46.000+08:00"
+        "title": "中国驻刚果（金）使馆提醒在刚中国公民务必高度重视安全问题及埃博拉疫情发展动态",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726677.shtml",
+        "publishedAt": "2026-11-05T16:20:27.000+08:00"
       },
       {
-        "title": "苏州发布开放兴市“1+9”系列行动计划",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726665.shtml",
-        "publishedAt": "2026-11-05T16:12:14.000+08:00"
+        "title": "上新！我国三项档案文献遗产入选《世界记忆亚太地区名录》",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726678.shtml",
+        "publishedAt": "2026-11-05T16:17:26.000+08:00"
       },
       {
-        "title": "湖北武汉：府河湿地迎来越冬候鸟",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726667.shtml",
-        "publishedAt": "2026-11-05T16:11:36.000+08:00"
+        "title": "孙中山与统一战线故事分享会在穗举办",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726674.shtml",
+        "publishedAt": "2026-11-05T16:16:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T16:18:05.739+08:00",
+    "fetchedAt": "2026-11-05T16:28:23.012+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T16:18:06.432+08:00",
+      "fetchedAt": "2026-11-05T16:28:23.697+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T21:18:10.000+08:00"
+          "resetAt": "2026-11-05T21:28:25.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T16:18:06.436+08:00",
+      "fetchedAt": "2026-11-05T16:28:23.700+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T16:18:06.446+08:00",
+      "fetchedAt": "2026-11-05T16:28:23.709+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T16:18:06.446+08:00",
+      "fetchedAt": "2026-11-05T16:28:23.709+08:00",
       "error": "未启用",
       "disabled": true
     }
