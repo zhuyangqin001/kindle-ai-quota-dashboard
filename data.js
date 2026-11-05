@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T14:46:19.718+08:00",
+  "updatedAt": "2026-11-05T15:06:40.493+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.6,
-    "feelsLikeC": 22.1,
-    "humidity": 54,
-    "windKph": 8.8,
-    "windDir": "北风",
+    "tempC": 22.2,
+    "feelsLikeC": 22,
+    "humidity": 56,
+    "windKph": 7.7,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-05T14:46:19.718+08:00",
+    "observedAt": "2026-11-05T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-05T15:06:40.494+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新疆阿克苏：冰糖心苹果迎来采摘季",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726566.shtml",
-        "publishedAt": "2026-11-05T14:37:53.000+08:00"
+        "title": "印尼三季度经济同比增长5.47% 高于市场预期",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726594.shtml",
+        "publishedAt": "2026-11-05T14:57:14.000+08:00"
       },
       {
-        "title": "“文学点亮生活”拉美作家走访交流活动在桂林启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726578.shtml",
-        "publishedAt": "2026-11-05T14:36:31.000+08:00"
+        "title": "侨商侨企投资广州：航空国际货机中心将落户花都",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726598.shtml",
+        "publishedAt": "2026-11-05T14:52:28.000+08:00"
       },
       {
-        "title": "山西大同专项巡查长城 守护明代烽燧遗存",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726587.shtml",
-        "publishedAt": "2026-11-05T14:34:33.000+08:00"
+        "title": "从血染湘江到长眠草地，两张泛黄薄纸藏着红军长征震撼细节",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726597.shtml",
+        "publishedAt": "2026-11-05T14:51:38.000+08:00"
       },
       {
-        "title": "重庆成立智能装备及智能制造产研融合服务联合体",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726584.shtml",
-        "publishedAt": "2026-11-05T14:33:45.000+08:00"
+        "title": "这个故事会，读懂一位统一战线先行者的同心之道",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726593.shtml",
+        "publishedAt": "2026-11-05T14:46:43.000+08:00"
       },
       {
-        "title": "张健任浙江衢州市委书记",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726582.shtml",
-        "publishedAt": "2026-11-05T14:33:07.000+08:00"
+        "title": "国际金价连续两日大涨",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726596.shtml",
+        "publishedAt": "2026-11-05T14:42:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T14:46:15.552+08:00",
+    "fetchedAt": "2026-11-05T15:06:34.639+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T14:46:16.062+08:00",
+      "fetchedAt": "2026-11-05T15:06:35.360+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T19:46:19.000+08:00"
+          "resetAt": "2026-11-05T20:06:39.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T14:46:16.064+08:00",
+      "fetchedAt": "2026-11-05T15:06:35.363+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T14:46:16.069+08:00",
+      "fetchedAt": "2026-11-05T15:06:35.373+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T14:46:16.069+08:00",
+      "fetchedAt": "2026-11-05T15:06:35.374+08:00",
       "error": "未启用",
       "disabled": true
     }
