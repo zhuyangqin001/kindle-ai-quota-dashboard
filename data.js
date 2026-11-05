@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T08:29:31.285+08:00",
+  "updatedAt": "2026-11-05T08:49:52.516+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.7,
-    "feelsLikeC": 16.8,
-    "humidity": 81,
-    "windKph": 6.2,
+    "tempC": 16.9,
+    "feelsLikeC": 17,
+    "humidity": 80,
+    "windKph": 6.5,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T08:29:31.285+08:00",
+    "observedAt": "2026-11-05T08:45:00.000+08:00",
+    "fetchedAt": "2026-11-05T08:49:52.516+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "没有“三高”也可能突发血栓！血液里的“隐形杀手”很多人都忽视了",
-        "url": "https://www.chinanews.com.cn/life/2026/11-05/10726370.shtml",
-        "publishedAt": "2026-11-05T08:01:34.000+08:00"
+        "title": "坚定走好中国特色反腐败之路（学习贯彻党的二十届五中全会精神）",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726376.shtml",
+        "publishedAt": "2026-11-05T08:42:04.000+08:00"
       },
       {
-        "title": "无论走到哪都被精准跟踪，原因竟是它！",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726369.shtml",
-        "publishedAt": "2026-11-05T07:59:13.000+08:00"
+        "title": "法国卢浮宫举办特展纪念摄影术诞生200周年",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209840.shtml",
+        "publishedAt": "2026-11-05T08:37:57.000+08:00"
       },
       {
-        "title": "市场监管行政处罚裁量新规发布 “首违不罚”具体怎么认定？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726367.shtml",
-        "publishedAt": "2026-11-05T07:56:09.000+08:00"
+        "title": "楼市“银十”收官：京沪新房销售面积实现同比增长 18个重点城市二手房成交量同比增长17.5%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726379.shtml",
+        "publishedAt": "2026-11-05T08:37:11.000+08:00"
       },
       {
-        "title": "马斯克砸了近5亿美元，共和党还是输了中期选举",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726366.shtml",
-        "publishedAt": "2026-11-05T07:47:07.000+08:00"
+        "title": "年内上市银行已收编超40家村行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726378.shtml",
+        "publishedAt": "2026-11-05T08:35:39.000+08:00"
       },
       {
-        "title": "【我的天涯海角】“Made in China？”运-20机长陈康：“Of Course！”",
-        "url": "http://www.chinanews.com.cn/mil/shipin/cns/2026/11-05/news1073839.shtml",
-        "publishedAt": "2026-11-05T07:46:03.000+08:00"
+        "title": "贵州湖南江西等地有中到大雨 冷空气将影响内蒙古和东北地区等地",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726375.shtml",
+        "publishedAt": "2026-11-05T08:32:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T08:29:28.955+08:00",
+    "fetchedAt": "2026-11-05T08:49:46.484+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T08:29:29.568+08:00",
+      "fetchedAt": "2026-11-05T08:49:47.195+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -73,7 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-05T08:29:29.570+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-11-05T08:49:47.198+08:00"
     },
     "mimo": {
       "ok": false,
@@ -81,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T08:29:29.576+08:00",
+      "fetchedAt": "2026-11-05T08:49:47.208+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T08:29:29.576+08:00",
+      "fetchedAt": "2026-11-05T08:49:47.209+08:00",
       "error": "未启用",
       "disabled": true
     }
