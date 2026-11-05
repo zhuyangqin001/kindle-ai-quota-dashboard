@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T16:28:25.884+08:00",
+  "updatedAt": "2026-11-05T16:38:39.493+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.2,
-    "feelsLikeC": 20.4,
-    "humidity": 59,
-    "windKph": 11.3,
-    "windDir": "北风",
+    "tempC": 20.9,
+    "feelsLikeC": 20.1,
+    "humidity": 60,
+    "windKph": 11.4,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T16:28:25.884+08:00",
+    "observedAt": "2026-11-05T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-05T16:38:39.494+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "山西稷山：一块煤的“高端突围”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726682.shtml",
-        "publishedAt": "2026-11-05T16:22:09.000+08:00"
+        "title": "直播海报：坐慢火车，赶一场车厢里的山间市集",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726695.shtml",
+        "publishedAt": "2026-11-05T16:30:03.000+08:00"
       },
       {
-        "title": "从街头岗亭到乡村茶桌 甘肃陇南“马路学堂”探文明出行新风",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726679.shtml",
-        "publishedAt": "2026-11-05T16:20:37.000+08:00"
+        "title": "从空心村到共富样本 民企赋能乡村振兴的篁岭答卷",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726686.shtml",
+        "publishedAt": "2026-11-05T16:29:27.000+08:00"
       },
       {
-        "title": "中国驻刚果（金）使馆提醒在刚中国公民务必高度重视安全问题及埃博拉疫情发展动态",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726677.shtml",
-        "publishedAt": "2026-11-05T16:20:27.000+08:00"
+        "title": "美媒：马斯克删除呼吁支持共和党的帖文",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726694.shtml",
+        "publishedAt": "2026-11-05T16:28:35.000+08:00"
       },
       {
-        "title": "上新！我国三项档案文献遗产入选《世界记忆亚太地区名录》",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726678.shtml",
-        "publishedAt": "2026-11-05T16:17:26.000+08:00"
+        "title": "新高有新意：进博会首发首展首秀产品超480件",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726690.shtml",
+        "publishedAt": "2026-11-05T16:27:25.000+08:00"
       },
       {
-        "title": "孙中山与统一战线故事分享会在穗举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726674.shtml",
-        "publishedAt": "2026-11-05T16:16:26.000+08:00"
+        "title": "（第九届进博会）第九届虹桥国际经济论坛“人形机器人与具身智能产业创新发展合作”分论坛举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209895.shtml",
+        "publishedAt": "2026-11-05T16:27:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T16:28:23.012+08:00",
+    "fetchedAt": "2026-11-05T16:38:36.072+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T16:28:23.697+08:00",
+      "fetchedAt": "2026-11-05T16:38:36.817+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T21:28:25.000+08:00"
+          "resetAt": "2026-11-05T21:38:39.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T16:28:23.700+08:00",
+      "fetchedAt": "2026-11-05T16:38:36.820+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T16:28:23.709+08:00",
+      "fetchedAt": "2026-11-05T16:38:36.829+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T16:28:23.709+08:00",
+      "fetchedAt": "2026-11-05T16:38:36.830+08:00",
       "error": "未启用",
       "disabled": true
     }
