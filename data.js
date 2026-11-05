@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T20:33:09.917+08:00",
+  "updatedAt": "2026-11-05T20:43:21.097+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 17.7,
-    "feelsLikeC": 18,
+    "feelsLikeC": 18.1,
     "humidity": 78,
-    "windKph": 6.7,
+    "windKph": 5.9,
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-05T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-05T20:33:09.917+08:00",
+    "fetchedAt": "2026-11-05T20:43:21.097+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）中国兵工集团民用产品吸引外宾参观体验",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209944.shtml",
-        "publishedAt": "2026-11-05T20:27:22.000+08:00"
+        "title": "来义乌站，好像“出国”了！",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726862.shtml",
+        "publishedAt": "2026-11-05T20:37:49.000+08:00"
       },
       {
-        "title": "（第九届进博会）第九届进博会在上海开幕",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-05/1209934.shtml",
-        "publishedAt": "2026-11-05T20:18:52.000+08:00"
+        "title": "探访三亚蜈支洲岛：海天一色美如画",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726841.shtml",
+        "publishedAt": "2026-11-05T20:36:40.000+08:00"
       },
       {
-        "title": "中新健康｜居民医保参保人数连续7年下降？国家医保局回应",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-05/10726844.shtml",
-        "publishedAt": "2026-11-05T20:18:27.000+08:00"
+        "title": "2026第28届中国绍兴柯桥纺织品博览会（秋季）启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726840.shtml",
+        "publishedAt": "2026-11-05T20:33:42.000+08:00"
       },
       {
-        "title": "中国“两高”发布依法惩治新型、隐性职务犯罪典型案例",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726831.shtml",
-        "publishedAt": "2026-11-05T20:10:21.000+08:00"
+        "title": "河南洛阳：黄河秋色美如画",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726839.shtml",
+        "publishedAt": "2026-11-05T20:32:08.000+08:00"
       },
       {
-        "title": "台湾CPI连续六个月突破通货膨胀警戒线",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726829.shtml",
-        "publishedAt": "2026-11-05T20:08:21.000+08:00"
+        "title": "航拍金沙江大峡谷：一江碧水穿群山",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726838.shtml",
+        "publishedAt": "2026-11-05T20:30:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T20:33:06.453+08:00",
+    "fetchedAt": "2026-11-05T20:43:18.522+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T20:33:07.168+08:00",
+      "fetchedAt": "2026-11-05T20:43:19.258+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T01:33:08.000+08:00"
+          "resetAt": "2026-11-06T01:43:20.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T20:33:07.172+08:00",
+      "fetchedAt": "2026-11-05T20:43:19.261+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T20:33:07.181+08:00",
+      "fetchedAt": "2026-11-05T20:43:19.270+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T20:33:07.181+08:00",
+      "fetchedAt": "2026-11-05T20:43:19.271+08:00",
       "error": "未启用",
       "disabled": true
     }
