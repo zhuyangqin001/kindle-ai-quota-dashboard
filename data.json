@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T23:26:30.368+08:00",
+  "updatedAt": "2026-11-05T23:36:42.309+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 17.6,
-    "feelsLikeC": 18.2,
+    "feelsLikeC": 18.3,
     "humidity": 80,
-    "windKph": 5.2,
+    "windKph": 4.6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T23:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T23:26:30.368+08:00",
+    "observedAt": "2026-11-05T23:30:00.000+08:00",
+    "fetchedAt": "2026-11-05T23:36:42.309+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "报告：中国以实际行动提升全球南方蓝色实力",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726956.shtml",
-        "publishedAt": "2026-11-05T23:22:20.000+08:00"
+        "title": "广东电白茂南对口帮扶广西金秀十年：山海协作，瑶山蝶变",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726960.shtml",
+        "publishedAt": "2026-11-05T23:32:20.000+08:00"
       },
       {
-        "title": "从三亚崖州古城阅千年文脉",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726952.shtml",
-        "publishedAt": "2026-11-05T23:20:51.000+08:00"
+        "title": "第八届海外侨团合作论坛在上海举行 发布《企业出海指引》",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726959.shtml",
+        "publishedAt": "2026-11-05T23:30:54.000+08:00"
       },
       {
-        "title": "“外籍人士进政协”暨“中外艺术家看重庆”展览在渝开展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726951.shtml",
-        "publishedAt": "2026-11-05T23:18:45.000+08:00"
+        "title": "受国际科技股回调等冲击 台股连续6个交易日下跌",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726958.shtml",
+        "publishedAt": "2026-11-05T23:26:30.000+08:00"
       },
       {
-        "title": "韩国拟扩大清海部队任务区域至霍尔木兹海峡附近海域",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726955.shtml",
-        "publishedAt": "2026-11-05T23:17:53.000+08:00"
+        "title": "泰国下调部分汽油及汽油醇价格",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726957.shtml",
+        "publishedAt": "2026-11-05T23:25:50.000+08:00"
       },
       {
-        "title": "潜心科研聚力转化 西大团队让超疏自洁涂层“走出”实验室",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726950.shtml",
-        "publishedAt": "2026-11-05T23:17:01.000+08:00"
+        "title": "贵州12部门联合印发高价值专利培育工程实施方案",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726954.shtml",
+        "publishedAt": "2026-11-05T23:23:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T23:26:27.757+08:00",
+    "fetchedAt": "2026-11-05T23:36:39.722+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T23:26:28.398+08:00",
+      "fetchedAt": "2026-11-05T23:36:40.418+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T04:26:30.000+08:00"
+          "resetAt": "2026-11-06T04:36:42.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T23:26:28.400+08:00",
+      "fetchedAt": "2026-11-05T23:36:40.421+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T23:26:28.406+08:00",
+      "fetchedAt": "2026-11-05T23:36:40.430+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T23:26:28.406+08:00",
+      "fetchedAt": "2026-11-05T23:36:40.430+08:00",
       "error": "未启用",
       "disabled": true
     }
