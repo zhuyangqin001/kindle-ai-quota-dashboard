@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T11:22:40.804+08:00",
+  "updatedAt": "2026-11-05T11:32:52.708+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.4,
-    "feelsLikeC": 20.3,
-    "humidity": 64,
-    "windKph": 7.4,
+    "tempC": 20.6,
+    "feelsLikeC": 20.6,
+    "humidity": 63,
+    "windKph": 7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T11:22:40.805+08:00",
+    "observedAt": "2026-11-05T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-05T11:32:52.708+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "金观平：开放中国“进”无止境",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726472.shtml",
-        "publishedAt": "2026-11-05T11:18:58.000+08:00"
+        "title": "敦煌论坛聚焦中亚南亚合作 共商丝路协同发展",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-05/10726483.shtml",
+        "publishedAt": "2026-11-05T11:27:57.000+08:00"
       },
       {
-        "title": "中国原子城历史图片展暨宣讲活动在拉萨启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726468.shtml",
-        "publishedAt": "2026-11-05T11:18:08.000+08:00"
+        "title": "靖安县仁首镇：凝聚巾帼力量 共促民族团结",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726482.shtml",
+        "publishedAt": "2026-11-05T11:27:55.000+08:00"
       },
       {
-        "title": "“中原”与“突突”，金寨县革命博物馆讲解词里的战地女婴",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726470.shtml",
-        "publishedAt": "2026-11-05T11:16:42.000+08:00"
+        "title": "民建宜春市直属总支开展“同心思源” 公益义诊进社区活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726479.shtml",
+        "publishedAt": "2026-11-05T11:24:47.000+08:00"
       },
       {
-        "title": "AI“带货”登场，全球贸易嬗变",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726469.shtml",
-        "publishedAt": "2026-11-05T11:16:30.000+08:00"
+        "title": "广东海外联谊会访问团与比利时侨领座谈交流",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-05/10726467.shtml",
+        "publishedAt": "2026-11-05T11:24:11.000+08:00"
       },
       {
-        "title": "拜耳影像诊断连续第九年赴约进博会，以全球创新与本土制造服务中国临床需求",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726466.shtml",
-        "publishedAt": "2026-11-05T11:12:42.000+08:00"
+        "title": "京港洽谈会京港数智经济协同发展专题活动举办 发布系列重要成果",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726471.shtml",
+        "publishedAt": "2026-11-05T11:23:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T11:22:36.224+08:00",
+    "fetchedAt": "2026-11-05T11:32:49.841+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T11:22:36.958+08:00",
+      "fetchedAt": "2026-11-05T11:32:50.520+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T11:22:36.961+08:00",
+      "fetchedAt": "2026-11-05T11:32:50.521+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T11:22:36.971+08:00",
+      "fetchedAt": "2026-11-05T11:32:50.525+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T11:22:36.971+08:00",
+      "fetchedAt": "2026-11-05T11:32:50.525+08:00",
       "error": "未启用",
       "disabled": true
     }
