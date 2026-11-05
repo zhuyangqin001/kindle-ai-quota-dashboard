@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T13:14:55.185+08:00",
+  "updatedAt": "2026-11-05T13:35:12.399+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.1,
-    "feelsLikeC": 22,
-    "humidity": 56,
-    "windKph": 6.8,
+    "tempC": 22.3,
+    "feelsLikeC": 22.2,
+    "humidity": 55,
+    "windKph": 7.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T13:14:55.186+08:00",
+    "observedAt": "2026-11-05T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-05T13:35:12.399+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "侨聚樟树 助力出海——美国中药联商会刘源凯会长一行赴樟考察中医药出海活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726538.shtml",
+        "publishedAt": "2026-11-05T13:17:55.000+08:00"
+      },
+      {
+        "title": "铜鼓县委统战部传达学习贯彻党的二十届五中全会精神",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-05/10726536.shtml",
+        "publishedAt": "2026-11-05T13:17:19.000+08:00"
+      },
+      {
+        "title": "美国花旗集团超3000人办公区突发枪击 已致2死4伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726537.shtml",
+        "publishedAt": "2026-11-05T13:13:10.000+08:00"
+      },
       {
         "title": "（第九届进博会）以金融联通全球 外资银行共赴进博之约",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726533.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "按年龄分档、零起付线等 多地升级“惠民保”增加保障",
         "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726531.shtml",
         "publishedAt": "2026-11-05T12:49:51.000+08:00"
-      },
-      {
-        "title": "三峡库区重庆忠县现壮美平湖景观",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726480.shtml",
-        "publishedAt": "2026-11-05T12:19:18.000+08:00"
-      },
-      {
-        "title": "“名师带营”“内部名额”别轻信！秋假临近 报研学团先核对这四项",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726524.shtml",
-        "publishedAt": "2026-11-05T12:14:51.000+08:00"
-      },
-      {
-        "title": "摩洛哥称将继续遵守西撒哈拉停火协议",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726490.shtml",
-        "publishedAt": "2026-11-05T12:14:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T13:14:51.340+08:00",
+    "fetchedAt": "2026-11-05T13:35:09.312+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T13:14:52.055+08:00",
+      "fetchedAt": "2026-11-05T13:35:09.671+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T13:14:52.058+08:00",
+      "fetchedAt": "2026-11-05T13:35:09.674+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T13:14:52.067+08:00",
+      "fetchedAt": "2026-11-05T13:35:09.679+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T13:14:52.067+08:00",
+      "fetchedAt": "2026-11-05T13:35:09.679+08:00",
       "error": "未启用",
       "disabled": true
     }
