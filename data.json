@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T18:20:37.178+08:00",
+  "updatedAt": "2026-11-05T18:30:50.476+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.3,
-    "feelsLikeC": 18.8,
-    "humidity": 68,
-    "windKph": 10.2,
+    "tempC": 19.2,
+    "feelsLikeC": 18.7,
+    "humidity": 69,
+    "windKph": 10,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-05T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T18:20:37.178+08:00",
+    "observedAt": "2026-11-05T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-05T18:30:50.476+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第九届广州商务航空展开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726767.shtml",
-        "publishedAt": "2026-11-05T18:10:59.000+08:00"
+        "title": "高山果香富农家 山西繁峙山地优势酿出“甜味经济”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726770.shtml",
+        "publishedAt": "2026-11-05T18:26:31.000+08:00"
       },
       {
-        "title": "（神州写真）红砖旧厂续新章 成都工业遗存有了新“活法”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726755.shtml",
-        "publishedAt": "2026-11-05T18:10:49.000+08:00"
+        "title": "“肖复兴人生四书”出版：于平凡生活中读懂人生滋味",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726771.shtml",
+        "publishedAt": "2026-11-05T18:26:15.000+08:00"
       },
       {
-        "title": "第140届广交会达成意向出口成交额267.5亿美元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726754.shtml",
-        "publishedAt": "2026-11-05T18:10:05.000+08:00"
+        "title": "第33届中国戏剧梅花奖设门槛：参评演员须过30场公开演出关",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726769.shtml",
+        "publishedAt": "2026-11-05T18:23:45.000+08:00"
       },
       {
-        "title": "长江重庆段迎来红嘴鸥 吸引民众蹲点“鸥”遇",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726766.shtml",
-        "publishedAt": "2026-11-05T18:09:12.000+08:00"
+        "title": "吉林靖宇抽水蓄能电站主体工程启动建设",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726768.shtml",
+        "publishedAt": "2026-11-05T18:23:17.000+08:00"
       },
       {
-        "title": "包头西河修复记：清流汇黄河，支流护安澜",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726749.shtml",
-        "publishedAt": "2026-11-05T18:09:10.000+08:00"
+        "title": "第九届进博会丨全球科创种子加速在进博会“破土”",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-05/10726774.shtml",
+        "publishedAt": "2026-11-05T18:22:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T18:20:34.250+08:00",
+    "fetchedAt": "2026-11-05T18:30:46.154+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T18:20:35.010+08:00",
+      "fetchedAt": "2026-11-05T18:30:46.523+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-05T23:20:36.000+08:00"
+          "resetAt": "2026-11-05T23:30:50.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T18:20:35.013+08:00",
+      "fetchedAt": "2026-11-05T18:30:46.526+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T18:20:35.019+08:00",
+      "fetchedAt": "2026-11-05T18:30:46.532+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T18:20:35.020+08:00",
+      "fetchedAt": "2026-11-05T18:30:46.532+08:00",
       "error": "未启用",
       "disabled": true
     }
