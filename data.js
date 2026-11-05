@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T20:02:33.076+08:00",
+  "updatedAt": "2026-11-05T20:12:45.064+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-05T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-05T20:02:33.076+08:00",
+    "fetchedAt": "2026-11-05T20:12:45.064+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "台湾CPI连续六个月突破通货膨胀警戒线",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726829.shtml",
+        "publishedAt": "2026-11-05T20:08:21.000+08:00"
+      },
+      {
+        "title": "（第九届进博会）世界开放报告：中国总体开放水平继续处于历史高位",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726827.shtml",
+        "publishedAt": "2026-11-05T20:05:37.000+08:00"
+      },
+      {
+        "title": "新政实施满一年 海南离岛免税购物金额334.5亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726826.shtml",
+        "publishedAt": "2026-11-05T20:04:07.000+08:00"
+      },
       {
         "title": "世界互联网大会乌镇峰会闭幕 绘就智能发展新图景",
         "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726830.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "27个分论坛创近年新高 乌镇之“桥”引各方赞誉",
         "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726825.shtml",
         "publishedAt": "2026-11-05T19:55:50.000+08:00"
-      },
-      {
-        "title": "世批联主席：中国已成食品流通创新重要中心",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726824.shtml",
-        "publishedAt": "2026-11-05T19:53:44.000+08:00"
-      },
-      {
-        "title": "2026昆明国际车展启幕 汽车盛宴吸引市民打卡",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-05/10726820.shtml",
-        "publishedAt": "2026-11-05T19:53:28.000+08:00"
-      },
-      {
-        "title": "今年秋冬北京降水预计偏多 或出现阶段性强降温",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-05/10726822.shtml",
-        "publishedAt": "2026-11-05T19:52:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T20:02:29.882+08:00",
+    "fetchedAt": "2026-11-05T20:12:42.053+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T20:02:30.603+08:00",
+      "fetchedAt": "2026-11-05T20:12:42.764+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T01:02:32.000+08:00"
+          "resetAt": "2026-11-06T01:12:44.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T20:02:30.606+08:00",
+      "fetchedAt": "2026-11-05T20:12:42.767+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T20:02:30.616+08:00",
+      "fetchedAt": "2026-11-05T20:12:42.777+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T20:02:30.616+08:00",
+      "fetchedAt": "2026-11-05T20:12:42.777+08:00",
       "error": "未启用",
       "disabled": true
     }
