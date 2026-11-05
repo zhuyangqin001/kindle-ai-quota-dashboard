@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-05T23:16:17.440+08:00",
+  "updatedAt": "2026-11-05T23:26:30.368+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-05T23:15:00.000+08:00",
-    "fetchedAt": "2026-11-05T23:16:17.440+08:00",
+    "fetchedAt": "2026-11-05T23:26:30.368+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026天门山云纵天梯跑酷大赛收官 中国选手获两项冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726947.shtml",
-        "publishedAt": "2026-11-05T23:10:39.000+08:00"
+        "title": "报告：中国以实际行动提升全球南方蓝色实力",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726956.shtml",
+        "publishedAt": "2026-11-05T23:22:20.000+08:00"
       },
       {
-        "title": "北京男女排新阵容出征新赛季排超联赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-05/10726946.shtml",
-        "publishedAt": "2026-11-05T23:07:51.000+08:00"
+        "title": "从三亚崖州古城阅千年文脉",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-05/10726952.shtml",
+        "publishedAt": "2026-11-05T23:20:51.000+08:00"
       },
       {
-        "title": "APEC海洋素养行动计划启动 为未来海洋合作构建“社会赋能”支柱",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726945.shtml",
-        "publishedAt": "2026-11-05T23:07:07.000+08:00"
+        "title": "“外籍人士进政协”暨“中外艺术家看重庆”展览在渝开展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726951.shtml",
+        "publishedAt": "2026-11-05T23:18:45.000+08:00"
       },
       {
-        "title": "黑龙江省首个中俄跨境综合办事大厅正式运营",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726944.shtml",
-        "publishedAt": "2026-11-05T23:06:15.000+08:00"
+        "title": "韩国拟扩大清海部队任务区域至霍尔木兹海峡附近海域",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726955.shtml",
+        "publishedAt": "2026-11-05T23:17:53.000+08:00"
       },
       {
-        "title": "向北开放势能持续释放 绥芬河迎来新增长极",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726940.shtml",
-        "publishedAt": "2026-11-05T23:04:01.000+08:00"
+        "title": "潜心科研聚力转化 西大团队让超疏自洁涂层“走出”实验室",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726950.shtml",
+        "publishedAt": "2026-11-05T23:17:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-05T23:16:14.092+08:00",
+    "fetchedAt": "2026-11-05T23:26:27.757+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-05T23:16:14.838+08:00",
+      "fetchedAt": "2026-11-05T23:26:28.398+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T04:16:17.000+08:00"
+          "resetAt": "2026-11-06T04:26:30.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-05T23:16:14.841+08:00",
+      "fetchedAt": "2026-11-05T23:26:28.400+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T23:16:14.850+08:00",
+      "fetchedAt": "2026-11-05T23:26:28.406+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-05T23:16:14.851+08:00",
+      "fetchedAt": "2026-11-05T23:26:28.406+08:00",
       "error": "未启用",
       "disabled": true
     }
