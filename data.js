@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T07:55:04.216+08:00",
+  "updatedAt": "2026-11-06T08:05:16.005+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 17.1,
-    "feelsLikeC": 18.6,
+    "tempC": 17.3,
+    "feelsLikeC": 18.8,
     "humidity": 97,
-    "windKph": 5.6,
+    "windKph": 5.5,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T07:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T07:55:04.216+08:00",
+    "observedAt": "2026-11-06T08:00:00.000+08:00",
+    "fetchedAt": "2026-11-06T08:05:16.006+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "免费、半价！多地官宣→",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726995.shtml",
-        "publishedAt": "2026-11-06T07:44:59.000+08:00"
+        "title": "微短剧热潮中大学生如何“入戏”与“出戏”",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-06/10727002.shtml",
+        "publishedAt": "2026-11-06T07:59:54.000+08:00"
       },
       {
-        "title": "何立峰在北京调研时指出 强化科技创新与产业创新深度融合 推动经济持续向新向优向好发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10726986.shtml",
-        "publishedAt": "2026-11-06T07:44:01.000+08:00"
+        "title": "伊朗官员与普京会面，转达伊朗最高领袖讯息",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727001.shtml",
+        "publishedAt": "2026-11-06T07:58:00.000+08:00"
       },
       {
-        "title": "北京中山公园银杏染金 游人赏秋",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1209963.shtml",
-        "publishedAt": "2026-11-06T07:43:10.000+08:00"
+        "title": "美股芯片股遭大规模抛售 纳指重挫逾5.5%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10726992.shtml",
+        "publishedAt": "2026-11-06T07:56:30.000+08:00"
       },
       {
-        "title": "我国成功发射遥感五十一号07-09星",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1209959.shtml",
-        "publishedAt": "2026-11-06T07:31:22.000+08:00"
+        "title": "最强厄尔尼诺“充满电”，今冬明春将如何“放电”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726998.shtml",
+        "publishedAt": "2026-11-06T07:53:34.000+08:00"
       },
       {
-        "title": "别再乱吃！这些食物是结节“助推器” 这几类人一定要忌口",
-        "url": "https://www.chinanews.com.cn/life/2026/11-06/10726989.shtml",
-        "publishedAt": "2026-11-06T07:25:14.000+08:00"
+        "title": "公共资源不可以随便倒卖 “房产中介”收集房东信息出售获刑",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10726997.shtml",
+        "publishedAt": "2026-11-06T07:51:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T07:55:01.675+08:00",
+    "fetchedAt": "2026-11-06T08:05:13.309+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T07:55:02.397+08:00",
+      "fetchedAt": "2026-11-06T08:05:14.051+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T12:55:03.000+08:00"
+          "resetAt": "2026-11-06T13:05:15.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T07:55:02.400+08:00",
+      "fetchedAt": "2026-11-06T08:05:14.054+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T07:55:02.409+08:00",
+      "fetchedAt": "2026-11-06T08:05:14.064+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T07:55:02.410+08:00",
+      "fetchedAt": "2026-11-06T08:05:14.064+08:00",
       "error": "未启用",
       "disabled": true
     }
