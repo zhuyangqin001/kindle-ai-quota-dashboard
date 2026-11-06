@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T21:19:21.961+08:00",
+  "updatedAt": "2026-11-06T21:39:40.263+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 16.2,
     "feelsLikeC": 15,
-    "humidity": 90,
-    "windKph": 18.2,
+    "humidity": 89,
+    "windKph": 17.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T21:19:21.962+08:00",
+    "observedAt": "2026-11-06T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T21:39:40.263+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第二十届重庆“老博会”开幕 呈现“科技焕老”新场景",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727526.shtml",
-        "publishedAt": "2026-11-06T21:13:43.000+08:00"
+        "title": "习近平会见奥地利总理施托克尔",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210052.shtml",
+        "publishedAt": "2026-11-06T21:35:47.000+08:00"
       },
       {
-        "title": "从断垣残墙到文化名片 山西岢岚千年宋长城赋能乡村振兴",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727525.shtml",
-        "publishedAt": "2026-11-06T21:13:09.000+08:00"
+        "title": "重庆万州恩广高速“3·30”较大瓦斯爆炸事故调查报告公布",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727592.shtml",
+        "publishedAt": "2026-11-06T21:33:38.000+08:00"
       },
       {
-        "title": "2026年“岭南粤剧周”系列活动在广州开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727556.shtml",
-        "publishedAt": "2026-11-06T21:11:41.000+08:00"
+        "title": "11月6日夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-06/10727593.shtml",
+        "publishedAt": "2026-11-06T21:33:30.000+08:00"
       },
       {
-        "title": "北京：到2030年让更多家庭住上“好房子”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727514.shtml",
-        "publishedAt": "2026-11-06T21:11:35.000+08:00"
+        "title": "李强主持召开国务院常务会议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727589.shtml",
+        "publishedAt": "2026-11-06T21:32:20.000+08:00"
       },
       {
-        "title": "重庆巫溪打造渝陕鄂毗邻地区“桥头堡”城市",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727490.shtml",
-        "publishedAt": "2026-11-06T21:10:39.000+08:00"
+        "title": "广东无纺布产业向新发展 积极打造百亿医卫材料集群",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727577.shtml",
+        "publishedAt": "2026-11-06T21:32:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T21:19:19.288+08:00",
+    "fetchedAt": "2026-11-06T21:39:37.345+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T21:19:19.947+08:00",
+      "fetchedAt": "2026-11-06T21:39:38.025+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T21:19:19.950+08:00",
+      "fetchedAt": "2026-11-06T21:39:38.028+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T21:19:19.960+08:00",
+      "fetchedAt": "2026-11-06T21:39:38.039+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T21:19:19.960+08:00",
+      "fetchedAt": "2026-11-06T21:39:38.039+08:00",
       "error": "未启用",
       "disabled": true
     }
