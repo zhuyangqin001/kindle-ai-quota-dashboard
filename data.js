@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T15:22:55.689+08:00",
+  "updatedAt": "2026-11-06T15:33:07.456+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.6,
-    "feelsLikeC": 18,
+    "tempC": 17.4,
+    "feelsLikeC": 17.7,
     "humidity": 94,
-    "windKph": 12.9,
+    "windKph": 13.1,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T15:22:55.689+08:00",
+    "observedAt": "2026-11-06T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T15:33:07.457+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "让企业唱主角，破解科技经济“两张皮”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727277.shtml",
-        "publishedAt": "2026-11-06T15:14:58.000+08:00"
+        "title": "美国对古巴制裁新增两家中国公司 中方：坚决反对所谓“长臂管辖”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727300.shtml",
+        "publishedAt": "2026-11-06T15:28:57.000+08:00"
       },
       {
-        "title": "湖北脑起搏器系统入医保 首批受惠患者出院",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727266.shtml",
-        "publishedAt": "2026-11-06T15:14:02.000+08:00"
+        "title": "国防部：规范涉军信息传播秩序 共同营造清朗涉军网络环境",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727297.shtml",
+        "publishedAt": "2026-11-06T15:28:55.000+08:00"
       },
       {
-        "title": "辽宁理工职业大学举办铸牢中华民族共同体意识音乐思政课",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727271.shtml",
-        "publishedAt": "2026-11-06T15:13:52.000+08:00"
+        "title": "探访山西高平永禄非遗工坊：“双纸”承古韵 非遗润乡土",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727295.shtml",
+        "publishedAt": "2026-11-06T15:27:53.000+08:00"
       },
       {
-        "title": "恶意蹭涉军流量营销牟利等 一批违法违规涉军“自媒体”账号被关",
-        "url": "https://www.chinanews.com.cn/${mypath}/2026/11-06/10727276.shtml",
-        "publishedAt": "2026-11-06T15:12:16.000+08:00"
+        "title": "咖啡香里归邻里 梧桐树下守老街 ——记致公党党员、“巡津归邻”项目负责人张一驰",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727294.shtml",
+        "publishedAt": "2026-11-06T15:27:42.000+08:00"
       },
       {
-        "title": "中期选举失利后 特朗普在办公桌上放了一顶帽子(图)",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727265.shtml",
-        "publishedAt": "2026-11-06T15:10:44.000+08:00"
+        "title": "辽宁省举办涉企法律服务体系建设专题圆桌会议",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727278.shtml",
+        "publishedAt": "2026-11-06T15:27:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T15:22:50.614+08:00",
+    "fetchedAt": "2026-11-06T15:33:04.171+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T15:22:51.398+08:00",
+      "fetchedAt": "2026-11-06T15:33:04.914+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 75,
+          "usedPct": 87,
           "resetAt": "2026-11-06T17:51:54.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 63,
+          "usedPct": 65,
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T15:22:51.401+08:00",
+      "fetchedAt": "2026-11-06T15:33:04.917+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T15:22:51.412+08:00",
+      "fetchedAt": "2026-11-06T15:33:04.924+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T15:22:51.413+08:00",
+      "fetchedAt": "2026-11-06T15:33:04.925+08:00",
       "error": "未启用",
       "disabled": true
     }
