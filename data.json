@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T22:00:09.675+08:00",
+  "updatedAt": "2026-11-06T22:10:23.484+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-06T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T22:00:09.675+08:00",
+    "fetchedAt": "2026-11-06T22:10:23.484+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "探访江西新余蜜桔智能化分选中心：科技赋能“甜蜜事业”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727605.shtml",
+        "publishedAt": "2026-11-06T22:05:12.000+08:00"
+      },
+      {
+        "title": "云南石林风景区引中外游客打卡喀斯特奇观",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727604.shtml",
+        "publishedAt": "2026-11-06T22:03:30.000+08:00"
+      },
+      {
+        "title": "2026中国杯世界花样滑冰大奖赛：“四周跳女王”伊格纳托娃登场亮相",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727603.shtml",
+        "publishedAt": "2026-11-06T22:01:18.000+08:00"
+      },
       {
         "title": "李强同奥地利总理施托克尔会谈",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727590.shtml",
@@ -28,24 +43,9 @@
         "title": "李强会见加蓬总统恩圭马",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727588.shtml",
         "publishedAt": "2026-11-06T21:53:26.000+08:00"
-      },
-      {
-        "title": "习近平会见奥地利总理施托克尔",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727587.shtml",
-        "publishedAt": "2026-11-06T21:52:39.000+08:00"
-      },
-      {
-        "title": "习近平同加蓬总统恩圭马会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727585.shtml",
-        "publishedAt": "2026-11-06T21:52:11.000+08:00"
-      },
-      {
-        "title": "中越代表云南文山共话睦邻 文山州与宣光省签署合作规划",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-06/10727540.shtml",
-        "publishedAt": "2026-11-06T21:51:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T22:00:06.650+08:00",
+    "fetchedAt": "2026-11-06T22:10:19.128+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T22:00:07.498+08:00",
+      "fetchedAt": "2026-11-06T22:10:19.748+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T22:00:07.501+08:00",
+      "fetchedAt": "2026-11-06T22:10:19.750+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T22:00:07.513+08:00",
+      "fetchedAt": "2026-11-06T22:10:19.757+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T22:00:07.513+08:00",
+      "fetchedAt": "2026-11-06T22:10:19.757+08:00",
       "error": "未启用",
       "disabled": true
     }
