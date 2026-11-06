@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T23:01:24.916+08:00",
+  "updatedAt": "2026-11-06T23:21:41.622+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.8,
-    "feelsLikeC": 15,
-    "humidity": 92,
-    "windKph": 15.4,
+    "tempC": 15.9,
+    "feelsLikeC": 15.1,
+    "humidity": 91,
+    "windKph": 15,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T23:01:24.917+08:00",
+    "observedAt": "2026-11-06T23:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T23:21:41.622+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "《永乐未央》舞动长安 山西芮城赴陕推介文旅资源",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727645.shtml",
-        "publishedAt": "2026-11-06T22:50:37.000+08:00"
+        "title": "广东制造企业反向输出高附加值服务提速",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727655.shtml",
+        "publishedAt": "2026-11-06T23:12:20.000+08:00"
       },
       {
-        "title": "宁夏、澳门推进医疗健康领域合作",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-06/10727642.shtml",
-        "publishedAt": "2026-11-06T22:49:49.000+08:00"
+        "title": "黑龙江“十五五”就业“组合拳”：让找工作有奔头",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727654.shtml",
+        "publishedAt": "2026-11-06T23:11:34.000+08:00"
       },
       {
-        "title": "126个老旧小区焕新 广州老城更新样本走向国际舞台",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727641.shtml",
-        "publishedAt": "2026-11-06T22:47:34.000+08:00"
+        "title": "“寻美江西·桔乡有约”暨新余市庆丰收系列活动启动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727653.shtml",
+        "publishedAt": "2026-11-06T23:10:36.000+08:00"
       },
       {
-        "title": "“哈铁”积极应对大范围暴雪 保障铁路运输平稳有序",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727640.shtml",
-        "publishedAt": "2026-11-06T22:46:38.000+08:00"
+        "title": "四川省广元市投资发展集团有限公司原董事覃敏严重违纪违法被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727652.shtml",
+        "publishedAt": "2026-11-06T23:10:08.000+08:00"
       },
       {
-        "title": "郑州惠济区在建两座“大冰箱” 冷链托举百亿食品产业目标",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727639.shtml",
-        "publishedAt": "2026-11-06T22:40:14.000+08:00"
+        "title": "新疆冰雪产业对接会举办 环阿尔泰山自驾大环线发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727651.shtml",
+        "publishedAt": "2026-11-06T23:09:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T23:01:21.273+08:00",
+    "fetchedAt": "2026-11-06T23:21:39.480+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T23:01:21.989+08:00",
+      "fetchedAt": "2026-11-06T23:21:39.801+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T23:01:21.992+08:00",
+      "fetchedAt": "2026-11-06T23:21:39.803+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T23:01:22.001+08:00",
+      "fetchedAt": "2026-11-06T23:21:39.809+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T23:01:22.001+08:00",
+      "fetchedAt": "2026-11-06T23:21:39.809+08:00",
       "error": "未启用",
       "disabled": true
     }
