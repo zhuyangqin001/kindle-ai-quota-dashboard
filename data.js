@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T22:41:00.803+08:00",
+  "updatedAt": "2026-11-06T22:51:12.298+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 15.8,
     "feelsLikeC": 15,
     "humidity": 92,
-    "windKph": 15.9,
-    "windDir": "东风",
+    "windKph": 15.6,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T22:41:00.803+08:00",
+    "observedAt": "2026-11-06T22:45:00.000+08:00",
+    "fetchedAt": "2026-11-06T22:51:12.298+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）从特色产品到产业协同 亚太国家共享进博机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727636.shtml",
-        "publishedAt": "2026-11-06T22:36:12.000+08:00"
+        "title": "“哈铁”积极应对大范围暴雪 保障铁路运输平稳有序",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727640.shtml",
+        "publishedAt": "2026-11-06T22:46:38.000+08:00"
       },
       {
-        "title": "（第九届进博会）华商连续九届参与进博会：从找订单到找伙伴",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727634.shtml",
-        "publishedAt": "2026-11-06T22:35:28.000+08:00"
+        "title": "郑州惠济区在建两座“大冰箱” 冷链托举百亿食品产业目标",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727639.shtml",
+        "publishedAt": "2026-11-06T22:40:14.000+08:00"
       },
       {
-        "title": "白皮书：2030年中国汽车消费服务业市场规模或破10万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727633.shtml",
-        "publishedAt": "2026-11-06T22:34:56.000+08:00"
+        "title": "当万人迷住进52号：写活市井里的英雄",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727649.shtml",
+        "publishedAt": "2026-11-06T22:39:06.000+08:00"
       },
       {
-        "title": "中俄品牌日活动在莫斯科举行",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210069.shtml",
-        "publishedAt": "2026-11-06T22:34:27.000+08:00"
+        "title": "受权发布丨中华人民共和国水法",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727650.shtml",
+        "publishedAt": "2026-11-06T22:38:08.000+08:00"
       },
       {
-        "title": "受权发布丨中华人民共和国南极活动与环境保护法",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727643.shtml",
-        "publishedAt": "2026-11-06T22:34:04.000+08:00"
+        "title": "各界人士齐聚山东济南 共研孙中山思想当代价值",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727638.shtml",
+        "publishedAt": "2026-11-06T22:37:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T22:40:58.169+08:00",
+    "fetchedAt": "2026-11-06T22:51:09.785+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T22:40:58.882+08:00",
+      "fetchedAt": "2026-11-06T22:51:10.504+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T22:40:58.886+08:00",
+      "fetchedAt": "2026-11-06T22:51:10.507+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T22:40:58.895+08:00",
+      "fetchedAt": "2026-11-06T22:51:10.517+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T22:40:58.896+08:00",
+      "fetchedAt": "2026-11-06T22:51:10.517+08:00",
       "error": "未启用",
       "disabled": true
     }
