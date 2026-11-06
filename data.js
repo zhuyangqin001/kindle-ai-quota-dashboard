@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T11:08:34.646+08:00",
+  "updatedAt": "2026-11-06T11:28:51.740+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 19.8,
-    "feelsLikeC": 19.3,
-    "humidity": 72,
-    "windKph": 13.5,
+    "feelsLikeC": 19.2,
+    "humidity": 71,
+    "windKph": 13.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T11:08:34.646+08:00",
+    "observedAt": "2026-11-06T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T11:28:51.740+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "印度尼西亚杭州商会成立仪式在雅加达举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727059.shtml",
-        "publishedAt": "2026-11-06T11:04:26.000+08:00"
+        "title": "2026全国医保影像AI识图大赛颁奖大会在南宁举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727142.shtml",
+        "publishedAt": "2026-11-06T11:19:21.000+08:00"
       },
       {
-        "title": "乡情牵两地 同心促发展——九三学社广州市花都委员会与民盟宜丰县总支开展跨区域党派交流",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727130.shtml",
-        "publishedAt": "2026-11-06T11:03:16.000+08:00"
+        "title": "立冬冷空气携换季式降温来袭 全国感冒指数地图看哪里极易感冒",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727143.shtml",
+        "publishedAt": "2026-11-06T11:17:49.000+08:00"
       },
       {
-        "title": "一粒稻谷的40种可能，在进博会上看懂益海嘉里金龙鱼的农业转型升级样本",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727129.shtml",
-        "publishedAt": "2026-11-06T11:01:46.000+08:00"
+        "title": "土耳其连环枪击案致8死1伤 枪手被捕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727111.shtml",
+        "publishedAt": "2026-11-06T11:16:17.000+08:00"
       },
       {
-        "title": "民革天津市委会开展纪念孙中山先生诞辰160周年系列活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727124.shtml",
-        "publishedAt": "2026-11-06T11:00:56.000+08:00"
+        "title": "中国边城黑河今冬打出跨境冰雪康养“组合拳”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727140.shtml",
+        "publishedAt": "2026-11-06T11:15:35.000+08:00"
       },
       {
-        "title": "11月7日北京供暖开始“热身”，锅炉房陆续点火",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727128.shtml",
-        "publishedAt": "2026-11-06T11:00:20.000+08:00"
+        "title": "（香江观澜）兴盛事聚资本 香港彰显国际金融中心活力",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727137.shtml",
+        "publishedAt": "2026-11-06T11:15:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T11:08:31.650+08:00",
+    "fetchedAt": "2026-11-06T11:28:49.125+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T11:08:32.358+08:00",
+      "fetchedAt": "2026-11-06T11:28:49.767+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T16:08:34.000+08:00"
+          "resetAt": "2026-11-06T16:28:51.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T11:08:32.360+08:00",
+      "fetchedAt": "2026-11-06T11:28:49.769+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T11:08:32.365+08:00",
+      "fetchedAt": "2026-11-06T11:28:49.776+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T11:08:32.365+08:00",
+      "fetchedAt": "2026-11-06T11:28:49.777+08:00",
       "error": "未启用",
       "disabled": true
     }
