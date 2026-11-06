@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T13:10:26.554+08:00",
+  "updatedAt": "2026-11-06T13:20:39.998+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 19.3,
-    "feelsLikeC": 18.8,
-    "humidity": 73,
+    "description": "雨",
+    "iconKey": "rain",
+    "tempC": 19.1,
+    "feelsLikeC": 18.7,
+    "humidity": 75,
     "windKph": 12.6,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T13:10:26.554+08:00",
+    "observedAt": "2026-11-06T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T13:20:39.999+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "付费“导师红黑榜”走红 择校焦虑不该被流量收割",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-06/10727180.shtml",
+        "publishedAt": "2026-11-06T13:14:11.000+08:00"
+      },
       {
         "title": "澳门中联办发言人：坚决支持特区司法机关依法宣判国安首案",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727179.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "国家主席习近平任免驻外大使",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727170.shtml",
         "publishedAt": "2026-11-06T12:32:19.000+08:00"
-      },
-      {
-        "title": "习近平复信澳大利亚青年学生",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727157.shtml",
-        "publishedAt": "2026-11-06T12:10:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T13:10:23.581+08:00",
+    "fetchedAt": "2026-11-06T13:20:36.826+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T13:10:24.306+08:00",
+      "fetchedAt": "2026-11-06T13:20:37.543+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 44,
+          "usedPct": 68,
           "resetAt": "2026-11-06T17:51:54.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 58,
+          "usedPct": 62,
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T13:10:24.310+08:00",
+      "fetchedAt": "2026-11-06T13:20:37.545+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T13:10:24.320+08:00",
+      "fetchedAt": "2026-11-06T13:20:37.552+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T13:10:24.321+08:00",
+      "fetchedAt": "2026-11-06T13:20:37.553+08:00",
       "error": "未启用",
       "disabled": true
     }
