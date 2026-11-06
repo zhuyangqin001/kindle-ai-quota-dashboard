@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T21:49:55.503+08:00",
+  "updatedAt": "2026-11-06T22:00:09.675+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 15.8,
     "feelsLikeC": 14.9,
     "humidity": 93,
-    "windKph": 16.6,
+    "windKph": 16.5,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T21:49:55.503+08:00",
+    "observedAt": "2026-11-06T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-06T22:00:09.675+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026中国（广西）—东盟矿业合作大会在南宁开幕",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-06/10727507.shtml",
-        "publishedAt": "2026-11-06T21:45:13.000+08:00"
+        "title": "李强同奥地利总理施托克尔会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727590.shtml",
+        "publishedAt": "2026-11-06T21:53:42.000+08:00"
       },
       {
-        "title": "“美美与共——中俄美术交流展”在河北秦皇岛开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727582.shtml",
-        "publishedAt": "2026-11-06T21:44:59.000+08:00"
+        "title": "李强会见加蓬总统恩圭马",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727588.shtml",
+        "publishedAt": "2026-11-06T21:53:26.000+08:00"
       },
       {
-        "title": "新书《郁达夫的朋友圈》在京首发",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727601.shtml",
-        "publishedAt": "2026-11-06T21:44:15.000+08:00"
+        "title": "习近平会见奥地利总理施托克尔",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727587.shtml",
+        "publishedAt": "2026-11-06T21:52:39.000+08:00"
       },
       {
-        "title": "“原来古诗词这么好玩” 特展长沙开幕 展示古人“朋友圈”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727581.shtml",
-        "publishedAt": "2026-11-06T21:44:11.000+08:00"
+        "title": "习近平同加蓬总统恩圭马会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727585.shtml",
+        "publishedAt": "2026-11-06T21:52:11.000+08:00"
       },
       {
-        "title": "香港导演唐季礼谈AI：技术进步会淘汰工种，但好故事永在",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727546.shtml",
-        "publishedAt": "2026-11-06T21:43:47.000+08:00"
+        "title": "中越代表云南文山共话睦邻 文山州与宣光省签署合作规划",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-06/10727540.shtml",
+        "publishedAt": "2026-11-06T21:51:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T21:49:49.463+08:00",
+    "fetchedAt": "2026-11-06T22:00:06.650+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T21:49:50.143+08:00",
+      "fetchedAt": "2026-11-06T22:00:07.498+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,10 +72,8 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T21:39:38.028+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
-      "stale": true,
-      "lastAttemptAt": "2026-11-06T21:49:50.146+08:00"
+      "fetchedAt": "2026-11-06T22:00:07.501+08:00",
+      "error": null
     },
     "mimo": {
       "ok": false,
@@ -83,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T21:49:50.152+08:00",
+      "fetchedAt": "2026-11-06T22:00:07.513+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T21:49:50.153+08:00",
+      "fetchedAt": "2026-11-06T22:00:07.513+08:00",
       "error": "未启用",
       "disabled": true
     }
