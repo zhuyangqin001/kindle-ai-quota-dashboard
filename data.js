@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T10:07:23.283+08:00",
+  "updatedAt": "2026-11-06T10:17:37.782+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
-    "tempC": 18.7,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 19,
     "feelsLikeC": 19,
-    "humidity": 85,
-    "windKph": 12.8,
+    "humidity": 81,
+    "windKph": 13.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T10:07:23.283+08:00",
+    "observedAt": "2026-11-06T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T10:17:37.782+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国家卫生健康委员会原党组成员，国家中医药管理局原党组书记、局长余艳红接受中央纪委国家监委纪律审查和监察调",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727056.shtml",
-        "publishedAt": "2026-11-06T10:01:31.000+08:00"
+        "title": "中国成功发射遥感五十一号07-09星",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727063.shtml",
+        "publishedAt": "2026-11-06T10:10:57.000+08:00"
       },
       {
-        "title": "立冬后，建议多吃这些食物，好处不只一个！",
-        "url": "https://www.chinanews.com.cn/life/2026/11-06/10727055.shtml",
-        "publishedAt": "2026-11-06T09:58:45.000+08:00"
+        "title": "黄河实现连续27年不断流",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727066.shtml",
+        "publishedAt": "2026-11-06T10:10:29.000+08:00"
       },
       {
-        "title": "何以中国｜红山曙光映照朝阳烟火日常",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727054.shtml",
-        "publishedAt": "2026-11-06T09:58:31.000+08:00"
+        "title": "69个国家和国际组织亮相国家展 进博会“朋友圈”再扩容",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727065.shtml",
+        "publishedAt": "2026-11-06T10:10:23.000+08:00"
       },
       {
-        "title": "【外链】通栏图：第九届中国国际进口博览会",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-06/10727053.shtml",
-        "publishedAt": "2026-11-06T09:55:57.000+08:00"
+        "title": "北京口岸今年出入境人员破2000万人次 较去年提前31天",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727062.shtml",
+        "publishedAt": "2026-11-06T10:10:23.000+08:00"
       },
       {
-        "title": "弘扬科学家精神·大家小事丨于敏：纸带上揪出的故障",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727052.shtml",
-        "publishedAt": "2026-11-06T09:54:34.000+08:00"
+        "title": "云南 “十五五” 布局边境卫生 打造跨境健康服务通道",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-06/10727061.shtml",
+        "publishedAt": "2026-11-06T10:09:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T10:07:19.360+08:00",
+    "fetchedAt": "2026-11-06T10:17:32.523+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T10:07:20.064+08:00",
+      "fetchedAt": "2026-11-06T10:17:33.254+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T15:07:22.000+08:00"
+          "resetAt": "2026-11-06T15:17:35.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T10:07:20.068+08:00",
+      "fetchedAt": "2026-11-06T10:17:33.257+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T10:07:20.077+08:00",
+      "fetchedAt": "2026-11-06T10:17:33.267+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T10:07:20.077+08:00",
+      "fetchedAt": "2026-11-06T10:17:33.267+08:00",
       "error": "未启用",
       "disabled": true
     }
