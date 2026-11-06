@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T12:29:44.553+08:00",
+  "updatedAt": "2026-11-06T12:39:56.749+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 12.6,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T12:29:44.553+08:00",
+    "observedAt": "2026-11-06T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T12:39:56.750+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国家主席习近平任免驻外大使",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727170.shtml",
+        "publishedAt": "2026-11-06T12:32:19.000+08:00"
+      },
       {
         "title": "习近平复信澳大利亚青年学生",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727157.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "水利部：黄河实现连续27年不断流",
         "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727149.shtml",
         "publishedAt": "2026-11-06T11:50:23.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）进博会聚焦全球经济再平衡：开放合作是关键",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727109.shtml",
-        "publishedAt": "2026-11-06T11:49:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T12:29:42.044+08:00",
+    "fetchedAt": "2026-11-06T12:39:53.673+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T12:29:42.742+08:00",
+      "fetchedAt": "2026-11-06T12:39:54.382+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T17:29:44.000+08:00"
+          "resetAt": "2026-11-06T17:39:56.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T12:29:42.746+08:00",
+      "fetchedAt": "2026-11-06T12:39:54.385+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T12:29:42.756+08:00",
+      "fetchedAt": "2026-11-06T12:39:54.394+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T12:29:42.756+08:00",
+      "fetchedAt": "2026-11-06T12:39:54.395+08:00",
       "error": "未启用",
       "disabled": true
     }
