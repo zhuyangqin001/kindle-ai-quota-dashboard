@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T16:54:33.582+08:00",
+  "updatedAt": "2026-11-06T17:04:46.621+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 16.6,
-    "feelsLikeC": 16.1,
+    "tempC": 16.5,
+    "feelsLikeC": 15.7,
     "humidity": 94,
-    "windKph": 16.6,
+    "windKph": 17.3,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T16:54:33.582+08:00",
+    "observedAt": "2026-11-06T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-06T17:04:46.621+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“全民共享 运动健康”全民健身主题文化展在青岛开幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-06/10727361.shtml",
+        "publishedAt": "2026-11-06T16:55:11.000+08:00"
+      },
+      {
+        "title": "河北井陉：黑鹳翩跹，列车驶过绘就人与自然和谐画卷",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727363.shtml",
+        "publishedAt": "2026-11-06T16:52:33.000+08:00"
+      },
+      {
+        "title": "三峡库区：溪江相连 水清岸阔",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727362.shtml",
+        "publishedAt": "2026-11-06T16:50:43.000+08:00"
+      },
       {
         "title": "“银龄”模特“穿”重庆地标走秀 展巴渝风华",
         "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727350.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "桥吊起落间，看见开放的模样",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727359.shtml",
         "publishedAt": "2026-11-06T16:35:44.000+08:00"
-      },
-      {
-        "title": "厦门国际海洋周启幕 聚焦海洋生态保护与科技创新",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727358.shtml",
-        "publishedAt": "2026-11-06T16:34:26.000+08:00"
-      },
-      {
-        "title": "中国国防部：违法违规涉军“自媒体”账号必须依法依规处置",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727348.shtml",
-        "publishedAt": "2026-11-06T16:34:24.000+08:00"
-      },
-      {
-        "title": "第九届中国非物质文化遗产博览会在重庆开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727298.shtml",
-        "publishedAt": "2026-11-06T16:34:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T16:54:30.323+08:00",
+    "fetchedAt": "2026-11-06T17:04:42.627+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T16:54:31.043+08:00",
+      "fetchedAt": "2026-11-06T17:04:43.317+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T16:54:31.046+08:00",
+      "fetchedAt": "2026-11-06T17:04:43.320+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T16:54:31.056+08:00",
+      "fetchedAt": "2026-11-06T17:04:43.328+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T16:54:31.057+08:00",
+      "fetchedAt": "2026-11-06T17:04:43.328+08:00",
       "error": "未启用",
       "disabled": true
     }
