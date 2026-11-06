@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T09:46:58.545+08:00",
+  "updatedAt": "2026-11-06T09:57:10.563+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-06T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T09:46:58.546+08:00",
+    "fetchedAt": "2026-11-06T09:57:10.563+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026CFA中国之队·银川五人制足球国际邀请赛开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-06/10727042.shtml",
-        "publishedAt": "2026-11-06T09:43:16.000+08:00"
+        "title": "黑龙江省气象台发布大风预报 局地阵风可达8至9级",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727050.shtml",
+        "publishedAt": "2026-11-06T09:49:32.000+08:00"
       },
       {
-        "title": "香港展出海派艺术家山水花鸟及信笺作品",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727044.shtml",
-        "publishedAt": "2026-11-06T09:43:00.000+08:00"
+        "title": "猫山王榴莲苦从何来？云南农业大学最新研究揭示原因",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727045.shtml",
+        "publishedAt": "2026-11-06T09:47:28.000+08:00"
       },
       {
-        "title": "反跨境腐败法表决通过",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727048.shtml",
-        "publishedAt": "2026-11-06T09:42:46.000+08:00"
+        "title": "武汉以城市更新带动文化出新 老空间育出文旅新场景",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727040.shtml",
+        "publishedAt": "2026-11-06T09:44:00.000+08:00"
       },
       {
-        "title": "11月6日央行开展2260亿元隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727037.shtml",
-        "publishedAt": "2026-11-06T09:41:46.000+08:00"
+        "title": "我国秋粮丰收成定局",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727049.shtml",
+        "publishedAt": "2026-11-06T09:43:52.000+08:00"
       },
       {
-        "title": "新华时评·第九届进博会｜中国对外开放的大门越开越大",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-06/10727047.shtml",
-        "publishedAt": "2026-11-06T09:41:04.000+08:00"
+        "title": "11月6日人民币对美元中间价报6.7168 下调12个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727038.shtml",
+        "publishedAt": "2026-11-06T09:43:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T09:46:55.879+08:00",
+    "fetchedAt": "2026-11-06T09:57:07.737+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T09:46:56.258+08:00",
+      "fetchedAt": "2026-11-06T09:57:08.435+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T14:46:57.000+08:00"
+          "resetAt": "2026-11-06T14:57:09.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T09:46:56.261+08:00",
+      "fetchedAt": "2026-11-06T09:57:08.438+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T09:46:56.269+08:00",
+      "fetchedAt": "2026-11-06T09:57:08.447+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T09:46:56.270+08:00",
+      "fetchedAt": "2026-11-06T09:57:08.448+08:00",
       "error": "未启用",
       "disabled": true
     }
