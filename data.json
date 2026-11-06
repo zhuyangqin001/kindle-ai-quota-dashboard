@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T23:21:41.622+08:00",
+  "updatedAt": "2026-11-06T23:31:52.722+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 15.9,
-    "feelsLikeC": 15.1,
+    "feelsLikeC": 15.2,
     "humidity": 91,
-    "windKph": 15,
+    "windKph": 14.7,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T23:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T23:21:41.622+08:00",
+    "observedAt": "2026-11-06T23:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T23:31:52.722+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东制造企业反向输出高附加值服务提速",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727655.shtml",
-        "publishedAt": "2026-11-06T23:12:20.000+08:00"
+        "title": "民革中央孙中山研究学会山东分会换届会议暨纪念孙中山先生诞辰160周年学术研讨会召开",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727683.shtml",
+        "publishedAt": "2026-11-06T23:27:13.000+08:00"
       },
       {
-        "title": "黑龙江“十五五”就业“组合拳”：让找工作有奔头",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727654.shtml",
-        "publishedAt": "2026-11-06T23:11:34.000+08:00"
+        "title": "滇中城市群如何防范直下型地震灾害风险？云南提出针对性解法",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727682.shtml",
+        "publishedAt": "2026-11-06T23:26:35.000+08:00"
       },
       {
-        "title": "“寻美江西·桔乡有约”暨新余市庆丰收系列活动启动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727653.shtml",
-        "publishedAt": "2026-11-06T23:10:36.000+08:00"
+        "title": "（乡村行·看振兴）安徽怀远一粒小糯稻种出百亿大产业",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727679.shtml",
+        "publishedAt": "2026-11-06T23:26:09.000+08:00"
       },
       {
-        "title": "四川省广元市投资发展集团有限公司原董事覃敏严重违纪违法被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727652.shtml",
-        "publishedAt": "2026-11-06T23:10:08.000+08:00"
+        "title": "哈尔滨冰雪文化艺术季启幕 2270场演出奏响中外文艺交流乐章",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727681.shtml",
+        "publishedAt": "2026-11-06T23:25:13.000+08:00"
       },
       {
-        "title": "新疆冰雪产业对接会举办 环阿尔泰山自驾大环线发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727651.shtml",
-        "publishedAt": "2026-11-06T23:09:34.000+08:00"
+        "title": "走进湖南湘江新区：出口清单上的文化新面孔",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727680.shtml",
+        "publishedAt": "2026-11-06T23:24:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T23:21:39.480+08:00",
+    "fetchedAt": "2026-11-06T23:31:50.051+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T23:21:39.801+08:00",
+      "fetchedAt": "2026-11-06T23:31:50.784+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T23:21:39.803+08:00",
+      "fetchedAt": "2026-11-06T23:31:50.788+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T23:21:39.809+08:00",
+      "fetchedAt": "2026-11-06T23:31:50.796+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T23:21:39.809+08:00",
+      "fetchedAt": "2026-11-06T23:31:50.796+08:00",
       "error": "未启用",
       "disabled": true
     }
