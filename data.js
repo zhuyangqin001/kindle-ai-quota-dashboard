@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T16:03:38.850+08:00",
+  "updatedAt": "2026-11-06T16:23:56.376+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.1,
-    "feelsLikeC": 17.2,
+    "tempC": 17,
+    "feelsLikeC": 16.8,
     "humidity": 94,
-    "windKph": 13.9,
+    "windKph": 14.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T16:03:38.850+08:00",
+    "observedAt": "2026-11-06T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T16:23:56.376+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "何立峰将赴加拿大主持第二次中加经济财金战略对话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727315.shtml",
-        "publishedAt": "2026-11-06T15:54:06.000+08:00"
+        "title": "大量硬科技集中亮相 在第九届进博会和未来相遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727343.shtml",
+        "publishedAt": "2026-11-06T16:20:55.000+08:00"
       },
       {
-        "title": "外交部回应广交会、进博会相继举行：是中国连接全球的重要窗口",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727316.shtml",
-        "publishedAt": "2026-11-06T15:52:22.000+08:00"
+        "title": "进博会京东健康将签约超20家全球医药健康品牌，辉瑞、默克、诺和等在列",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727338.shtml",
+        "publishedAt": "2026-11-06T16:17:41.000+08:00"
       },
       {
-        "title": "大豆黄、石榴红绘就多彩富民画卷 特色农业结硕果助振兴",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727313.shtml",
-        "publishedAt": "2026-11-06T15:50:42.000+08:00"
+        "title": "数看进博① | 不止一颗菠萝！进博会如何让更多世界好物跨越山海？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727339.shtml",
+        "publishedAt": "2026-11-06T16:15:17.000+08:00"
       },
       {
-        "title": "十四届全国人大常委会举行第七十六次委员长会议 决定将检察公益诉讼法草案等交付常委会会议表决 赵乐际主持会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727312.shtml",
-        "publishedAt": "2026-11-06T15:48:48.000+08:00"
+        "title": "海内外旅行商及华文媒体代表探访长江巫峡云雾美景",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727283.shtml",
+        "publishedAt": "2026-11-06T16:14:55.000+08:00"
       },
       {
-        "title": "广东外贸千年：报关簿泛黄、负面清单落地……口岸开放走向制度开放",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727311.shtml",
-        "publishedAt": "2026-11-06T15:47:10.000+08:00"
+        "title": "河南：15万亩“虞城荠菜”进入收获季",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727293.shtml",
+        "publishedAt": "2026-11-06T16:14:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T16:03:35.127+08:00",
+    "fetchedAt": "2026-11-06T16:23:53.462+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T16:03:35.701+08:00",
+      "fetchedAt": "2026-11-06T16:23:54.168+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T16:03:35.703+08:00",
+      "fetchedAt": "2026-11-06T16:23:54.170+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T16:03:35.710+08:00",
+      "fetchedAt": "2026-11-06T16:23:54.180+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T16:03:35.711+08:00",
+      "fetchedAt": "2026-11-06T16:23:54.180+08:00",
       "error": "未启用",
       "disabled": true
     }
