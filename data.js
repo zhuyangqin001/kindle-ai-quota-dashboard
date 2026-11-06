@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T06:19:22.803+08:00",
+  "updatedAt": "2026-11-07T06:29:34.343+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-07T06:15:00.000+08:00",
-    "fetchedAt": "2026-11-07T06:19:22.803+08:00",
+    "fetchedAt": "2026-11-07T06:29:34.343+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "客机媒体频遭炸弹威胁 多方溯源无果 欧洲安全神经紧绷",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727729.shtml",
+        "publishedAt": "2026-11-07T06:17:47.000+08:00"
+      },
       {
         "title": "首次在城市场景完成放飞试验 看一台“空中电站”如何诞生",
         "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727726.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "入冬标准如何确定？为何多地秋天越来越短？详解来了",
         "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727723.shtml",
         "publishedAt": "2026-11-06T23:58:22.000+08:00"
-      },
-      {
-        "title": "港浸大举办药食同源会议 助力中医药科研成果转化",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727713.shtml",
-        "publishedAt": "2026-11-06T23:56:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T06:19:20.155+08:00",
+    "fetchedAt": "2026-11-07T06:29:31.770+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T06:19:20.853+08:00",
+      "fetchedAt": "2026-11-07T06:29:32.491+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T11:19:22.000+08:00"
+          "resetAt": "2026-11-07T11:29:34.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T06:19:20.856+08:00",
+      "fetchedAt": "2026-11-07T06:29:32.495+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T06:19:20.864+08:00",
+      "fetchedAt": "2026-11-07T06:29:32.505+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T06:19:20.865+08:00",
+      "fetchedAt": "2026-11-07T06:29:32.505+08:00",
       "error": "未启用",
       "disabled": true
     }
