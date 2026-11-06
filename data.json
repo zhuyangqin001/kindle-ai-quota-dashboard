@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T08:45:50.944+08:00",
+  "updatedAt": "2026-11-06T08:56:03.354+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-06T08:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T08:45:50.944+08:00",
+    "fetchedAt": "2026-11-06T08:56:03.354+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第二艘国产大型邮轮“爱达・花城号”交付 一组数据抢先看→",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727021.shtml",
+        "publishedAt": "2026-11-06T08:52:09.000+08:00"
+      },
+      {
+        "title": "秋粮收储有新招 今年秋粮收购已超1亿吨",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727017.shtml",
+        "publishedAt": "2026-11-06T08:37:56.000+08:00"
+      },
       {
         "title": "价格不再是壁垒，只是入场券？万元级人形机器人迎来“真交付”新竞赛",
         "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727016.shtml",
@@ -33,19 +43,9 @@
         "title": "新雪季提前开启 多地雪场人工造雪抢占“首滑”流量",
         "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727013.shtml",
         "publishedAt": "2026-11-06T08:27:54.000+08:00"
-      },
-      {
-        "title": "中央和国家机关要走好第一方阵（学习贯彻党的二十届五中全会精神）",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10726999.shtml",
-        "publishedAt": "2026-11-06T08:27:02.000+08:00"
-      },
-      {
-        "title": "年内熊猫债发行超2500亿元 再创历史新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727011.shtml",
-        "publishedAt": "2026-11-06T08:26:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T08:45:48.259+08:00",
+    "fetchedAt": "2026-11-06T08:56:00.583+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T08:45:48.968+08:00",
+      "fetchedAt": "2026-11-06T08:56:01.288+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T13:45:50.000+08:00"
+          "resetAt": "2026-11-06T13:56:02.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T08:45:48.970+08:00",
+      "fetchedAt": "2026-11-06T08:56:01.291+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T08:45:48.978+08:00",
+      "fetchedAt": "2026-11-06T08:56:01.301+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T08:45:48.979+08:00",
+      "fetchedAt": "2026-11-06T08:56:01.301+08:00",
       "error": "未启用",
       "disabled": true
     }
