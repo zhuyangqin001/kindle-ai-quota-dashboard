@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T09:26:34.064+08:00",
+  "updatedAt": "2026-11-06T09:36:47.285+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18,
+    "tempC": 18.2,
     "feelsLikeC": 19.1,
-    "humidity": 93,
-    "windKph": 9.2,
+    "humidity": 91,
+    "windKph": 10.1,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T09:26:34.064+08:00",
+    "observedAt": "2026-11-06T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T09:36:47.286+08:00",
     "error": null
   },
   "news": {
@@ -20,9 +20,19 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "大范围降水在酝酿！我国多地将现强雨雪 大部气温将创新低",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727036.shtml",
+        "publishedAt": "2026-11-06T09:25:29.000+08:00"
+      },
+      {
         "title": "各地推动公积金政策精准落地见效 “沉睡”钱包变安居红利",
         "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727034.shtml",
         "publishedAt": "2026-11-06T09:20:13.000+08:00"
+      },
+      {
+        "title": "WTT法兰克福冠军赛：王楚钦无缘男单八强",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-06/10727032.shtml",
+        "publishedAt": "2026-11-06T09:18:56.000+08:00"
       },
       {
         "title": "美国纽约一住宅楼火灾致6亡9伤",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "申请劳动能力鉴定，一般多久能知道结果？人社部解答",
         "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727026.shtml",
         "publishedAt": "2026-11-06T09:17:36.000+08:00"
-      },
-      {
-        "title": "重庆大足加快打造成渝中部新支点和巴蜀文化会客厅",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727031.shtml",
-        "publishedAt": "2026-11-06T09:17:32.000+08:00"
-      },
-      {
-        "title": "冷空气接连来袭 华北北部等地将有强降雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727023.shtml",
-        "publishedAt": "2026-11-06T09:15:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T09:26:30.248+08:00",
+    "fetchedAt": "2026-11-06T09:36:42.469+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T09:26:30.852+08:00",
+      "fetchedAt": "2026-11-06T09:36:42.829+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T14:26:33.000+08:00"
+          "resetAt": "2026-11-06T14:36:45.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T09:26:30.855+08:00",
+      "fetchedAt": "2026-11-06T09:36:42.831+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T09:26:30.863+08:00",
+      "fetchedAt": "2026-11-06T09:36:42.836+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T09:26:30.863+08:00",
+      "fetchedAt": "2026-11-06T09:36:42.836+08:00",
       "error": "未启用",
       "disabled": true
     }
