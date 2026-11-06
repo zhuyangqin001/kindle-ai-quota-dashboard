@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T09:06:15.756+08:00",
+  "updatedAt": "2026-11-06T09:26:34.064+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.8,
-    "feelsLikeC": 19,
-    "humidity": 95,
-    "windKph": 8.9,
+    "tempC": 18,
+    "feelsLikeC": 19.1,
+    "humidity": 93,
+    "windKph": 9.2,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T09:06:15.757+08:00",
+    "observedAt": "2026-11-06T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T09:26:34.064+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "宜春袁州区企业家当选老挝江西商会会长 夯实海外统战联络阵地",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727024.shtml",
-        "publishedAt": "2026-11-06T09:02:58.000+08:00"
+        "title": "各地推动公积金政策精准落地见效 “沉睡”钱包变安居红利",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727034.shtml",
+        "publishedAt": "2026-11-06T09:20:13.000+08:00"
       },
       {
-        "title": "直播：坐慢火车，赶一场车厢里的山间市集",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-06/10727025.shtml",
-        "publishedAt": "2026-11-06T09:02:46.000+08:00"
+        "title": "美国纽约一住宅楼火灾致6亡9伤",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1209968.shtml",
+        "publishedAt": "2026-11-06T09:17:47.000+08:00"
       },
       {
-        "title": "万载县举办“石榴同心一家亲 童心逐梦向未来” 少儿书画艺术作品展",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727020.shtml",
-        "publishedAt": "2026-11-06T09:01:34.000+08:00"
+        "title": "申请劳动能力鉴定，一般多久能知道结果？人社部解答",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727026.shtml",
+        "publishedAt": "2026-11-06T09:17:36.000+08:00"
       },
       {
-        "title": "万载县委统战部开展“追寻长征足迹·凝聚统战共识”谈心之旅活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727018.shtml",
-        "publishedAt": "2026-11-06T08:59:49.000+08:00"
+        "title": "重庆大足加快打造成渝中部新支点和巴蜀文化会客厅",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727031.shtml",
+        "publishedAt": "2026-11-06T09:17:32.000+08:00"
       },
       {
-        "title": "第二艘国产大型邮轮“爱达・花城号”交付 一组数据抢先看→",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727021.shtml",
-        "publishedAt": "2026-11-06T08:52:09.000+08:00"
+        "title": "冷空气接连来袭 华北北部等地将有强降雪",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727023.shtml",
+        "publishedAt": "2026-11-06T09:15:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T09:06:12.299+08:00",
+    "fetchedAt": "2026-11-06T09:26:30.248+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T09:06:13.032+08:00",
+      "fetchedAt": "2026-11-06T09:26:30.852+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T14:06:14.000+08:00"
+          "resetAt": "2026-11-06T14:26:33.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T09:06:13.035+08:00",
+      "fetchedAt": "2026-11-06T09:26:30.855+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T09:06:13.045+08:00",
+      "fetchedAt": "2026-11-06T09:26:30.863+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T09:06:13.045+08:00",
+      "fetchedAt": "2026-11-06T09:26:30.863+08:00",
       "error": "未启用",
       "disabled": true
     }
