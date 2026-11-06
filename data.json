@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T15:12:41.870+08:00",
+  "updatedAt": "2026-11-06T15:22:55.689+08:00",
   "weather": {
     "ok": true,
-    "description": "阵雨",
+    "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.7,
-    "feelsLikeC": 18.2,
+    "tempC": 17.6,
+    "feelsLikeC": 18,
     "humidity": 94,
-    "windKph": 12.5,
+    "windKph": 12.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T15:12:41.870+08:00",
+    "observedAt": "2026-11-06T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T15:22:55.689+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新疆文艺志愿者协会正式成立",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727247.shtml",
-        "publishedAt": "2026-11-06T14:58:55.000+08:00"
+        "title": "让企业唱主角，破解科技经济“两张皮”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727277.shtml",
+        "publishedAt": "2026-11-06T15:14:58.000+08:00"
       },
       {
-        "title": "120支火炬传递百廿暨南侨校薪火 苏炳添全红婵参加",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-06/10727262.shtml",
-        "publishedAt": "2026-11-06T14:58:35.000+08:00"
+        "title": "湖北脑起搏器系统入医保 首批受惠患者出院",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727266.shtml",
+        "publishedAt": "2026-11-06T15:14:02.000+08:00"
       },
       {
-        "title": "（第九届进博会）首部《上海开放发展报告(2026)》蓝皮书发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727249.shtml",
-        "publishedAt": "2026-11-06T14:57:41.000+08:00"
+        "title": "辽宁理工职业大学举办铸牢中华民族共同体意识音乐思政课",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727271.shtml",
+        "publishedAt": "2026-11-06T15:13:52.000+08:00"
       },
       {
-        "title": "探访三亚榴莲基地：一颗榴莲串起一条产业链",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727250.shtml",
-        "publishedAt": "2026-11-06T14:57:27.000+08:00"
+        "title": "恶意蹭涉军流量营销牟利等 一批违法违规涉军“自媒体”账号被关",
+        "url": "https://www.chinanews.com.cn/${mypath}/2026/11-06/10727276.shtml",
+        "publishedAt": "2026-11-06T15:12:16.000+08:00"
       },
       {
-        "title": "六部门联合发文促进适老用品产品消费",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727258.shtml",
-        "publishedAt": "2026-11-06T14:57:27.000+08:00"
+        "title": "中期选举失利后 特朗普在办公桌上放了一顶帽子(图)",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727265.shtml",
+        "publishedAt": "2026-11-06T15:10:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T15:12:39.431+08:00",
+    "fetchedAt": "2026-11-06T15:22:50.614+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T15:12:40.171+08:00",
+      "fetchedAt": "2026-11-06T15:22:51.398+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T15:12:40.174+08:00",
+      "fetchedAt": "2026-11-06T15:22:51.401+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T15:12:40.184+08:00",
+      "fetchedAt": "2026-11-06T15:22:51.412+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T15:12:40.184+08:00",
+      "fetchedAt": "2026-11-06T15:22:51.413+08:00",
       "error": "未启用",
       "disabled": true
     }
