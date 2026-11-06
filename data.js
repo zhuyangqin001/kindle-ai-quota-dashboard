@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T18:05:53.812+08:00",
+  "updatedAt": "2026-11-06T18:26:09.552+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 15.9,
-    "feelsLikeC": 14.9,
-    "humidity": 94,
-    "windKph": 17.9,
+    "feelsLikeC": 14.8,
+    "humidity": 93,
+    "windKph": 18,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T18:05:53.812+08:00",
+    "observedAt": "2026-11-06T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T18:26:09.552+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "习近平同加蓬总统恩圭马共同出席合作文件签字仪式",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727398.shtml",
+        "publishedAt": "2026-11-06T18:05:31.000+08:00"
+      },
       {
         "title": "把路演会搬进校园：航天桥科创孵化论坛首场路演会圆满落幕",
         "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727388.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "外逃职务犯罪嫌疑人李标被遣返回中国",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727384.shtml",
         "publishedAt": "2026-11-06T17:51:14.000+08:00"
-      },
-      {
-        "title": "中国空军八一飞行表演队飞越黄崖关长城",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727383.shtml",
-        "publishedAt": "2026-11-06T17:47:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T18:05:50.661+08:00",
+    "fetchedAt": "2026-11-06T18:26:06.778+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T18:05:51.372+08:00",
+      "fetchedAt": "2026-11-06T18:26:07.515+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T23:05:52.000+08:00"
+          "resetAt": "2026-11-06T23:26:09.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T18:05:51.375+08:00",
+      "fetchedAt": "2026-11-06T18:26:07.518+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T18:05:51.386+08:00",
+      "fetchedAt": "2026-11-06T18:26:07.529+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T18:05:51.386+08:00",
+      "fetchedAt": "2026-11-06T18:26:07.529+08:00",
       "error": "未启用",
       "disabled": true
     }
