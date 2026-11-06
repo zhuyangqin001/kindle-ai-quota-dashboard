@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T14:52:16.723+08:00",
+  "updatedAt": "2026-11-06T15:02:30.533+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 17.8,
-    "feelsLikeC": 18.4,
-    "humidity": 93,
-    "windKph": 11.9,
+    "tempC": 17.7,
+    "feelsLikeC": 18.2,
+    "humidity": 94,
+    "windKph": 12.5,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T14:52:16.724+08:00",
+    "observedAt": "2026-11-06T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-06T15:02:30.534+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "日本参议员批评高市政权罔顾民意 急于推动修宪扩军",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727244.shtml",
-        "publishedAt": "2026-11-06T14:44:30.000+08:00"
+        "title": "120支火炬传递百廿暨南侨校薪火 苏炳添全红婵参加",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-06/10727262.shtml",
+        "publishedAt": "2026-11-06T14:58:35.000+08:00"
       },
       {
-        "title": "射程超100公里，巴基斯坦自研空对空导弹可打隐身飞机？",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727229.shtml",
-        "publishedAt": "2026-11-06T14:43:26.000+08:00"
+        "title": "（第九届进博会）首部《上海开放发展报告(2026)》蓝皮书发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727249.shtml",
+        "publishedAt": "2026-11-06T14:57:41.000+08:00"
       },
       {
-        "title": "百余侨商走进浙江北仑共探中小侨企“抱团出海”新路径",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-06/10727239.shtml",
-        "publishedAt": "2026-11-06T14:41:26.000+08:00"
+        "title": "探访三亚榴莲基地：一颗榴莲串起一条产业链",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727250.shtml",
+        "publishedAt": "2026-11-06T14:57:27.000+08:00"
       },
       {
-        "title": "中国国家中医药管理局原局长余艳红被查 系主动投案",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727218.shtml",
-        "publishedAt": "2026-11-06T14:40:30.000+08:00"
+        "title": "六部门联合发文促进适老用品产品消费",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727258.shtml",
+        "publishedAt": "2026-11-06T14:57:27.000+08:00"
       },
       {
-        "title": "“很脆，可以下啤酒！”李家超进博会逛展，一路吃吃吃",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727241.shtml",
-        "publishedAt": "2026-11-06T14:39:10.000+08:00"
+        "title": "一破纪录、二揽金银，中国“00后”双姝闪耀举重世锦赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-06/10727248.shtml",
+        "publishedAt": "2026-11-06T14:57:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T14:52:12.777+08:00",
+    "fetchedAt": "2026-11-06T15:02:27.038+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T14:52:13.520+08:00",
+      "fetchedAt": "2026-11-06T15:02:27.768+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T14:52:13.523+08:00",
+      "fetchedAt": "2026-11-06T15:02:27.771+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T14:52:13.533+08:00",
+      "fetchedAt": "2026-11-06T15:02:27.781+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T14:52:13.533+08:00",
+      "fetchedAt": "2026-11-06T15:02:27.781+08:00",
       "error": "未启用",
       "disabled": true
     }
