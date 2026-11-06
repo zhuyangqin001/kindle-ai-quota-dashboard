@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T18:56:40.755+08:00",
+  "updatedAt": "2026-11-06T19:06:53.240+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 15.8,
     "feelsLikeC": 14.7,
     "humidity": 93,
-    "windKph": 18.2,
+    "windKph": 18.3,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T18:56:40.755+08:00",
+    "observedAt": "2026-11-06T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-06T19:06:53.240+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "杭州推出八条中医药文旅特色线路",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727403.shtml",
-        "publishedAt": "2026-11-06T18:52:54.000+08:00"
+        "title": "手机变“新农具” 重庆江津乡村主播孵化驿站培育“新农人”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727412.shtml",
+        "publishedAt": "2026-11-06T18:58:30.000+08:00"
       },
       {
-        "title": "辽宁省数据要素创新应用实验室启动",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727401.shtml",
-        "publishedAt": "2026-11-06T18:52:48.000+08:00"
+        "title": "日本关东地区以东海域发生6.1级地震",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727456.shtml",
+        "publishedAt": "2026-11-06T18:57:36.000+08:00"
       },
       {
-        "title": "国际高定“遇见”中国面料：2026柯桥时尚周（秋季）在浙启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727400.shtml",
-        "publishedAt": "2026-11-06T18:52:10.000+08:00"
+        "title": "20年联动接力 民主党派赋能浙西南老区振兴",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-06/10727409.shtml",
+        "publishedAt": "2026-11-06T18:57:28.000+08:00"
       },
       {
-        "title": "2026中国安博会举行 专家建言安防“高低结合，立体防控”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727399.shtml",
-        "publishedAt": "2026-11-06T18:51:34.000+08:00"
+        "title": "陕西商南一刑事案件犯罪嫌疑人自杀身亡",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727408.shtml",
+        "publishedAt": "2026-11-06T18:56:44.000+08:00"
       },
       {
-        "title": "内蒙古发布冬季旅游产品 将发放500万元冰雪消费券",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727423.shtml",
-        "publishedAt": "2026-11-06T18:50:48.000+08:00"
+        "title": "北京严厉打击欠薪行为 公布五起侵害劳动者合法权益典型案例",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727407.shtml",
+        "publishedAt": "2026-11-06T18:56:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T18:56:37.763+08:00",
+    "fetchedAt": "2026-11-06T19:06:49.970+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T18:56:38.516+08:00",
+      "fetchedAt": "2026-11-06T19:06:50.651+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-06T23:56:40.000+08:00"
+          "resetAt": "2026-11-07T00:06:53.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T18:56:38.519+08:00",
+      "fetchedAt": "2026-11-06T19:06:50.653+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T18:56:38.529+08:00",
+      "fetchedAt": "2026-11-06T19:06:50.659+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T18:56:38.529+08:00",
+      "fetchedAt": "2026-11-06T19:06:50.659+08:00",
       "error": "未启用",
       "disabled": true
     }
