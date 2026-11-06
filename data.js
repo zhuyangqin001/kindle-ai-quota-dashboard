@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T20:28:17.339+08:00",
+  "updatedAt": "2026-11-06T20:38:31.075+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 16.1,
     "feelsLikeC": 14.8,
     "humidity": 91,
-    "windKph": 19,
+    "windKph": 18.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-06T20:28:17.339+08:00",
+    "observedAt": "2026-11-06T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T20:38:31.075+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "受权发布丨全国人民代表大会常务委员会关于接受陈福利辞去第十四届全国人民代表大会常务委员会委员等职务的请求",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727520.shtml",
-        "publishedAt": "2026-11-06T20:01:03.000+08:00"
+        "title": "（第九届进博会）进博会上看情绪消费",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210037.shtml",
+        "publishedAt": "2026-11-06T20:31:54.000+08:00"
       },
       {
-        "title": "习近平同加蓬总统恩圭马会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727518.shtml",
-        "publishedAt": "2026-11-06T20:00:29.000+08:00"
+        "title": "中国修订水法 设专章强调推进江河湖泊健康复苏",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727543.shtml",
+        "publishedAt": "2026-11-06T20:30:41.000+08:00"
       },
       {
-        "title": "习近平会见奥地利总理施托克尔",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727517.shtml",
-        "publishedAt": "2026-11-06T19:59:59.000+08:00"
+        "title": "超强厄尔尼诺来袭，如何影响海南？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727519.shtml",
+        "publishedAt": "2026-11-06T20:26:53.000+08:00"
       },
       {
-        "title": "（第九届进博会）第九届进博会在国家会展中心（上海）举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727435.shtml",
-        "publishedAt": "2026-11-06T19:57:25.000+08:00"
+        "title": "中国证监会同意葵花籽油期货和期权注册",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727512.shtml",
+        "publishedAt": "2026-11-06T20:26:29.000+08:00"
       },
       {
-        "title": "受权发布丨全国人民代表大会常务委员会任免名单",
-        "url": "https://www.chinanews.com.cn/kong/2026/11-06/10727516.shtml",
-        "publishedAt": "2026-11-06T19:56:01.000+08:00"
+        "title": "（第九届进博会）“彩虹桥”越架越宽 海内外嘉宾热议中国对外开放",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727511.shtml",
+        "publishedAt": "2026-11-06T20:26:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T20:28:14.746+08:00",
+    "fetchedAt": "2026-11-06T20:38:27.734+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T20:28:15.339+08:00",
+      "fetchedAt": "2026-11-06T20:38:28.316+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-07T01:28:16.000+08:00"
+          "usedPct": 8,
+          "resetAt": "2026-11-07T01:35:07.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 65,
+          "usedPct": 66,
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T20:28:15.341+08:00",
+      "fetchedAt": "2026-11-06T20:38:28.319+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T20:28:15.350+08:00",
+      "fetchedAt": "2026-11-06T20:38:28.328+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T20:28:15.350+08:00",
+      "fetchedAt": "2026-11-06T20:38:28.328+08:00",
       "error": "未启用",
       "disabled": true
     }
