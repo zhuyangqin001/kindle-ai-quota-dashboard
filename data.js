@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T19:57:41.478+08:00",
+  "updatedAt": "2026-11-06T20:07:53.339+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 16,
     "feelsLikeC": 14.7,
     "humidity": 91,
-    "windKph": 18.9,
+    "windKph": 19,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T19:57:41.479+08:00",
+    "observedAt": "2026-11-06T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-06T20:07:53.339+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国家广播电视总局部署开展新一轮微短剧专项治理工作",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727509.shtml",
-        "publishedAt": "2026-11-06T19:53:51.000+08:00"
+        "title": "受权发布丨全国人民代表大会常务委员会关于接受陈福利辞去第十四届全国人民代表大会常务委员会委员等职务的请求",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727520.shtml",
+        "publishedAt": "2026-11-06T20:01:03.000+08:00"
+      },
+      {
+        "title": "习近平同加蓬总统恩圭马会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727518.shtml",
+        "publishedAt": "2026-11-06T20:00:29.000+08:00"
+      },
+      {
+        "title": "习近平会见奥地利总理施托克尔",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727517.shtml",
+        "publishedAt": "2026-11-06T19:59:59.000+08:00"
+      },
+      {
+        "title": "（第九届进博会）第九届进博会在国家会展中心（上海）举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727435.shtml",
+        "publishedAt": "2026-11-06T19:57:25.000+08:00"
       },
       {
         "title": "受权发布丨全国人民代表大会常务委员会任免名单",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727503.shtml",
-        "publishedAt": "2026-11-06T19:51:19.000+08:00"
-      },
-      {
-        "title": "习近平参加北京市区人大代表换届选举投票",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210036.shtml",
-        "publishedAt": "2026-11-06T19:50:32.000+08:00"
-      },
-      {
-        "title": "受权发布丨全国人民代表大会常务委员会决定免职的名单",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727501.shtml",
-        "publishedAt": "2026-11-06T19:49:45.000+08:00"
-      },
-      {
-        "title": "赵乐际主持十四届全国人大常委会第二十五次会议闭幕会并作讲话强调 深入学习贯彻习近平党建思想 以高质量党建",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727496.shtml",
-        "publishedAt": "2026-11-06T19:49:43.000+08:00"
+        "url": "https://www.chinanews.com.cn/kong/2026/11-06/10727516.shtml",
+        "publishedAt": "2026-11-06T19:56:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T19:57:38.670+08:00",
+    "fetchedAt": "2026-11-06T20:07:50.495+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T19:57:39.390+08:00",
+      "fetchedAt": "2026-11-06T20:07:51.104+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T00:57:41.000+08:00"
+          "resetAt": "2026-11-07T01:07:52.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T19:57:39.393+08:00",
+      "fetchedAt": "2026-11-06T20:07:51.106+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T19:57:39.402+08:00",
+      "fetchedAt": "2026-11-06T20:07:51.112+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T19:57:39.403+08:00",
+      "fetchedAt": "2026-11-06T20:07:51.112+08:00",
       "error": "未启用",
       "disabled": true
     }
