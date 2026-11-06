@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T21:39:40.263+08:00",
+  "updatedAt": "2026-11-06T21:49:55.503+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.2,
-    "feelsLikeC": 15,
-    "humidity": 89,
-    "windKph": 17.9,
+    "tempC": 15.8,
+    "feelsLikeC": 14.9,
+    "humidity": 93,
+    "windKph": 16.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T21:39:40.263+08:00",
+    "observedAt": "2026-11-06T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-06T21:49:55.503+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "习近平会见奥地利总理施托克尔",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210052.shtml",
-        "publishedAt": "2026-11-06T21:35:47.000+08:00"
+        "title": "2026中国（广西）—东盟矿业合作大会在南宁开幕",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-06/10727507.shtml",
+        "publishedAt": "2026-11-06T21:45:13.000+08:00"
       },
       {
-        "title": "重庆万州恩广高速“3·30”较大瓦斯爆炸事故调查报告公布",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727592.shtml",
-        "publishedAt": "2026-11-06T21:33:38.000+08:00"
+        "title": "“美美与共——中俄美术交流展”在河北秦皇岛开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727582.shtml",
+        "publishedAt": "2026-11-06T21:44:59.000+08:00"
       },
       {
-        "title": "11月6日夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-06/10727593.shtml",
-        "publishedAt": "2026-11-06T21:33:30.000+08:00"
+        "title": "新书《郁达夫的朋友圈》在京首发",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727601.shtml",
+        "publishedAt": "2026-11-06T21:44:15.000+08:00"
       },
       {
-        "title": "李强主持召开国务院常务会议",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727589.shtml",
-        "publishedAt": "2026-11-06T21:32:20.000+08:00"
+        "title": "“原来古诗词这么好玩” 特展长沙开幕 展示古人“朋友圈”",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727581.shtml",
+        "publishedAt": "2026-11-06T21:44:11.000+08:00"
       },
       {
-        "title": "广东无纺布产业向新发展 积极打造百亿医卫材料集群",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727577.shtml",
-        "publishedAt": "2026-11-06T21:32:10.000+08:00"
+        "title": "香港导演唐季礼谈AI：技术进步会淘汰工种，但好故事永在",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727546.shtml",
+        "publishedAt": "2026-11-06T21:43:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T21:39:37.345+08:00",
+    "fetchedAt": "2026-11-06T21:49:49.463+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T21:39:38.025+08:00",
+      "fetchedAt": "2026-11-06T21:49:50.143+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -73,7 +73,9 @@
         }
       ],
       "fetchedAt": "2026-11-06T21:39:38.028+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-11-06T21:49:50.146+08:00"
     },
     "mimo": {
       "ok": false,
@@ -81,7 +83,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T21:39:38.039+08:00",
+      "fetchedAt": "2026-11-06T21:49:50.152+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +93,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T21:39:38.039+08:00",
+      "fetchedAt": "2026-11-06T21:49:50.153+08:00",
       "error": "未启用",
       "disabled": true
     }
