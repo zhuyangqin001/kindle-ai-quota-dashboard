@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T20:38:31.075+08:00",
+  "updatedAt": "2026-11-06T20:48:44.398+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 16.1,
-    "feelsLikeC": 14.8,
-    "humidity": 91,
-    "windKph": 18.7,
+    "feelsLikeC": 14.9,
+    "humidity": 90,
+    "windKph": 18.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T20:38:31.075+08:00",
+    "observedAt": "2026-11-06T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-06T20:48:44.398+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "哈尔滨亚布力雪中开板 增加亲子滑雪等新业态",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-06/10727534.shtml",
+        "publishedAt": "2026-11-06T20:42:10.000+08:00"
+      },
+      {
+        "title": "（第九届进博会）进博会上的中国元素",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210043.shtml",
+        "publishedAt": "2026-11-06T20:42:01.000+08:00"
+      },
+      {
+        "title": "IEM北京站赛事物流保障就绪 DHL电竞雇主品牌活动首次落地中国",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727459.shtml",
+        "publishedAt": "2026-11-06T20:40:52.000+08:00"
+      },
+      {
+        "title": "不一般！五中全会闭幕后，欧亚非政要在华密集行程，释出重要信号",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727533.shtml",
+        "publishedAt": "2026-11-06T20:38:27.000+08:00"
+      },
+      {
         "title": "（第九届进博会）进博会上看情绪消费",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210037.shtml",
         "publishedAt": "2026-11-06T20:31:54.000+08:00"
-      },
-      {
-        "title": "中国修订水法 设专章强调推进江河湖泊健康复苏",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727543.shtml",
-        "publishedAt": "2026-11-06T20:30:41.000+08:00"
-      },
-      {
-        "title": "超强厄尔尼诺来袭，如何影响海南？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727519.shtml",
-        "publishedAt": "2026-11-06T20:26:53.000+08:00"
-      },
-      {
-        "title": "中国证监会同意葵花籽油期货和期权注册",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727512.shtml",
-        "publishedAt": "2026-11-06T20:26:29.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）“彩虹桥”越架越宽 海内外嘉宾热议中国对外开放",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727511.shtml",
-        "publishedAt": "2026-11-06T20:26:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T20:38:27.734+08:00",
+    "fetchedAt": "2026-11-06T20:48:41.920+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T20:38:28.316+08:00",
+      "fetchedAt": "2026-11-06T20:48:42.551+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
+          "usedPct": 26,
           "resetAt": "2026-11-07T01:35:07.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 66,
+          "usedPct": 69,
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T20:38:28.319+08:00",
+      "fetchedAt": "2026-11-06T20:48:42.552+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T20:38:28.328+08:00",
+      "fetchedAt": "2026-11-06T20:48:42.564+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T20:38:28.328+08:00",
+      "fetchedAt": "2026-11-06T20:48:42.564+08:00",
       "error": "未启用",
       "disabled": true
     }
