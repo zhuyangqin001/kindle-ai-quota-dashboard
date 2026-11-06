@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T21:09:10.200+08:00",
+  "updatedAt": "2026-11-06T21:19:21.961+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.1,
-    "feelsLikeC": 14.9,
+    "tempC": 16.2,
+    "feelsLikeC": 15,
     "humidity": 90,
-    "windKph": 18.3,
+    "windKph": 18.2,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T21:09:10.200+08:00",
+    "observedAt": "2026-11-06T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-06T21:19:21.962+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "德国9月工业产出环比增长0.7%",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727544.shtml",
-        "publishedAt": "2026-11-06T20:51:56.000+08:00"
+        "title": "第二十届重庆“老博会”开幕 呈现“科技焕老”新场景",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727526.shtml",
+        "publishedAt": "2026-11-06T21:13:43.000+08:00"
       },
       {
-        "title": "泰国10月通胀率升至3.9%",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727542.shtml",
-        "publishedAt": "2026-11-06T20:51:02.000+08:00"
+        "title": "从断垣残墙到文化名片 山西岢岚千年宋长城赋能乡村振兴",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727525.shtml",
+        "publishedAt": "2026-11-06T21:13:09.000+08:00"
       },
       {
-        "title": "高市政府强推消费税减税相关法案遭质疑",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727537.shtml",
-        "publishedAt": "2026-11-06T20:50:12.000+08:00"
+        "title": "2026年“岭南粤剧周”系列活动在广州开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727556.shtml",
+        "publishedAt": "2026-11-06T21:11:41.000+08:00"
       },
       {
-        "title": "中领馆提醒中国公民关注印尼两座火山喷发",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727524.shtml",
-        "publishedAt": "2026-11-06T20:48:52.000+08:00"
+        "title": "北京：到2030年让更多家庭住上“好房子”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727514.shtml",
+        "publishedAt": "2026-11-06T21:11:35.000+08:00"
       },
       {
-        "title": "十四届全国人大常委会第二十五次会议在京闭幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727552.shtml",
-        "publishedAt": "2026-11-06T20:48:46.000+08:00"
+        "title": "重庆巫溪打造渝陕鄂毗邻地区“桥头堡”城市",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727490.shtml",
+        "publishedAt": "2026-11-06T21:10:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T21:09:07.190+08:00",
+    "fetchedAt": "2026-11-06T21:19:19.288+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T21:09:07.827+08:00",
+      "fetchedAt": "2026-11-06T21:19:19.947+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T21:09:07.830+08:00",
+      "fetchedAt": "2026-11-06T21:19:19.950+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T21:09:07.840+08:00",
+      "fetchedAt": "2026-11-06T21:19:19.960+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T21:09:07.840+08:00",
+      "fetchedAt": "2026-11-06T21:19:19.960+08:00",
       "error": "未启用",
       "disabled": true
     }
