@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T20:48:44.398+08:00",
+  "updatedAt": "2026-11-06T20:58:56.736+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-06T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-06T20:48:44.398+08:00",
+    "fetchedAt": "2026-11-06T20:58:56.736+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "哈尔滨亚布力雪中开板 增加亲子滑雪等新业态",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-06/10727534.shtml",
-        "publishedAt": "2026-11-06T20:42:10.000+08:00"
+        "title": "德国9月工业产出环比增长0.7%",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727544.shtml",
+        "publishedAt": "2026-11-06T20:51:56.000+08:00"
       },
       {
-        "title": "（第九届进博会）进博会上的中国元素",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210043.shtml",
-        "publishedAt": "2026-11-06T20:42:01.000+08:00"
+        "title": "泰国10月通胀率升至3.9%",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727542.shtml",
+        "publishedAt": "2026-11-06T20:51:02.000+08:00"
       },
       {
-        "title": "IEM北京站赛事物流保障就绪 DHL电竞雇主品牌活动首次落地中国",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727459.shtml",
-        "publishedAt": "2026-11-06T20:40:52.000+08:00"
+        "title": "高市政府强推消费税减税相关法案遭质疑",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727537.shtml",
+        "publishedAt": "2026-11-06T20:50:12.000+08:00"
       },
       {
-        "title": "不一般！五中全会闭幕后，欧亚非政要在华密集行程，释出重要信号",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727533.shtml",
-        "publishedAt": "2026-11-06T20:38:27.000+08:00"
+        "title": "中领馆提醒中国公民关注印尼两座火山喷发",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727524.shtml",
+        "publishedAt": "2026-11-06T20:48:52.000+08:00"
       },
       {
-        "title": "（第九届进博会）进博会上看情绪消费",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210037.shtml",
-        "publishedAt": "2026-11-06T20:31:54.000+08:00"
+        "title": "十四届全国人大常委会第二十五次会议在京闭幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727552.shtml",
+        "publishedAt": "2026-11-06T20:48:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T20:48:41.920+08:00",
+    "fetchedAt": "2026-11-06T20:58:53.607+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T20:48:42.551+08:00",
+      "fetchedAt": "2026-11-06T20:58:54.312+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T20:48:42.552+08:00",
+      "fetchedAt": "2026-11-06T20:58:54.315+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T20:48:42.564+08:00",
+      "fetchedAt": "2026-11-06T20:58:54.325+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T20:48:42.564+08:00",
+      "fetchedAt": "2026-11-06T20:58:54.325+08:00",
       "error": "未启用",
       "disabled": true
     }
