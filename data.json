@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T15:02:30.533+08:00",
+  "updatedAt": "2026-11-06T15:12:41.870+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-06T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T15:02:30.534+08:00",
+    "fetchedAt": "2026-11-06T15:12:41.870+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "新疆文艺志愿者协会正式成立",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727247.shtml",
+        "publishedAt": "2026-11-06T14:58:55.000+08:00"
+      },
       {
         "title": "120支火炬传递百廿暨南侨校薪火 苏炳添全红婵参加",
         "url": "https://www.chinanews.com.cn/edu/2026/11-06/10727262.shtml",
@@ -38,14 +43,9 @@
         "title": "六部门联合发文促进适老用品产品消费",
         "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727258.shtml",
         "publishedAt": "2026-11-06T14:57:27.000+08:00"
-      },
-      {
-        "title": "一破纪录、二揽金银，中国“00后”双姝闪耀举重世锦赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-06/10727248.shtml",
-        "publishedAt": "2026-11-06T14:57:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T15:02:27.038+08:00",
+    "fetchedAt": "2026-11-06T15:12:39.431+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T15:02:27.768+08:00",
+      "fetchedAt": "2026-11-06T15:12:40.171+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T15:02:27.771+08:00",
+      "fetchedAt": "2026-11-06T15:12:40.174+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T15:02:27.781+08:00",
+      "fetchedAt": "2026-11-06T15:12:40.184+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T15:02:27.781+08:00",
+      "fetchedAt": "2026-11-06T15:12:40.184+08:00",
       "error": "未启用",
       "disabled": true
     }
