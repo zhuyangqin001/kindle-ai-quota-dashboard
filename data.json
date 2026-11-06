@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-06T17:14:58.789+08:00",
+  "updatedAt": "2026-11-06T17:35:17.658+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 16.5,
-    "feelsLikeC": 15.7,
+    "tempC": 16.2,
+    "feelsLikeC": 15.3,
     "humidity": 94,
-    "windKph": 17.3,
+    "windKph": 17.8,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-06T17:14:58.789+08:00",
+    "observedAt": "2026-11-06T17:30:00.000+08:00",
+    "fetchedAt": "2026-11-06T17:35:17.658+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）主宾国斯里兰卡携锡兰红茶“回娘家”",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210029.shtml",
-        "publishedAt": "2026-11-06T17:09:16.000+08:00"
+        "title": "东西问丨赵卫星：上海为何要抢这张未来产业门票？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-06/10727368.shtml",
+        "publishedAt": "2026-11-06T17:31:39.000+08:00"
       },
       {
-        "title": "国家网信办 金融监管总局集中整治网上金融“黑灰产”信息乱象",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727371.shtml",
-        "publishedAt": "2026-11-06T17:04:52.000+08:00"
+        "title": "广东省住房和城乡建设厅原二级巡视员林兆雄接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727369.shtml",
+        "publishedAt": "2026-11-06T17:26:49.000+08:00"
       },
       {
-        "title": "澳门特区初级法院判决区锦新危害国家安全案罪成",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-06/10727370.shtml",
-        "publishedAt": "2026-11-06T17:02:06.000+08:00"
+        "title": "敦煌印象：游客“错峰游”赴大漠之约",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727376.shtml",
+        "publishedAt": "2026-11-06T17:23:45.000+08:00"
       },
       {
-        "title": "“全民共享 运动健康”全民健身主题文化展在青岛开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-06/10727361.shtml",
-        "publishedAt": "2026-11-06T16:55:11.000+08:00"
+        "title": "（经济观察）COP31前瞻：安塔利亚的“落实之考”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727367.shtml",
+        "publishedAt": "2026-11-06T17:18:35.000+08:00"
       },
       {
-        "title": "河北井陉：黑鹳翩跹，列车驶过绘就人与自然和谐画卷",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727363.shtml",
-        "publishedAt": "2026-11-06T16:52:33.000+08:00"
+        "title": "习近平同加蓬总统恩圭马会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727373.shtml",
+        "publishedAt": "2026-11-06T17:16:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T17:14:56.100+08:00",
+    "fetchedAt": "2026-11-06T17:35:14.529+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T17:14:56.815+08:00",
+      "fetchedAt": "2026-11-06T17:35:15.252+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T17:14:56.818+08:00",
+      "fetchedAt": "2026-11-06T17:35:15.255+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T17:14:56.828+08:00",
+      "fetchedAt": "2026-11-06T17:35:15.265+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T17:14:56.829+08:00",
+      "fetchedAt": "2026-11-06T17:35:15.265+08:00",
       "error": "未启用",
       "disabled": true
     }
