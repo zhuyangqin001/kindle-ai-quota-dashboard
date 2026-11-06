@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T22:30:48.599+08:00",
+  "updatedAt": "2026-11-06T22:41:00.803+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-06T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T22:30:48.599+08:00",
+    "fetchedAt": "2026-11-06T22:41:00.803+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "李强会见加蓬总统恩圭马",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210064.shtml",
-        "publishedAt": "2026-11-06T22:21:21.000+08:00"
+        "title": "（第九届进博会）从特色产品到产业协同 亚太国家共享进博机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727636.shtml",
+        "publishedAt": "2026-11-06T22:36:12.000+08:00"
       },
       {
-        "title": "新易盛、中际旭创、天孚通信集体就股份回购事项发声",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727618.shtml",
-        "publishedAt": "2026-11-06T22:19:55.000+08:00"
+        "title": "（第九届进博会）华商连续九届参与进博会：从找订单到找伙伴",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727634.shtml",
+        "publishedAt": "2026-11-06T22:35:28.000+08:00"
       },
       {
-        "title": "第二十届新疆冬季旅游产业交易博览会开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727489.shtml",
-        "publishedAt": "2026-11-06T22:18:53.000+08:00"
+        "title": "白皮书：2030年中国汽车消费服务业市场规模或破10万亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727633.shtml",
+        "publishedAt": "2026-11-06T22:34:56.000+08:00"
       },
       {
-        "title": "受权发布丨中华人民共和国水法",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727620.shtml",
-        "publishedAt": "2026-11-06T22:18:31.000+08:00"
+        "title": "中俄品牌日活动在莫斯科举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-06/1210069.shtml",
+        "publishedAt": "2026-11-06T22:34:27.000+08:00"
       },
       {
-        "title": "第七届“海洋合作与治理论坛”在海南三亚开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727614.shtml",
-        "publishedAt": "2026-11-06T22:16:01.000+08:00"
+        "title": "受权发布丨中华人民共和国南极活动与环境保护法",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727643.shtml",
+        "publishedAt": "2026-11-06T22:34:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T22:30:45.681+08:00",
+    "fetchedAt": "2026-11-06T22:40:58.169+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T22:30:46.396+08:00",
+      "fetchedAt": "2026-11-06T22:40:58.882+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T22:30:46.399+08:00",
+      "fetchedAt": "2026-11-06T22:40:58.886+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T22:30:46.409+08:00",
+      "fetchedAt": "2026-11-06T22:40:58.895+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T22:30:46.409+08:00",
+      "fetchedAt": "2026-11-06T22:40:58.896+08:00",
       "error": "未启用",
       "disabled": true
     }
