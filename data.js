@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-06T16:44:21.265+08:00",
+  "updatedAt": "2026-11-06T16:54:33.582+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 16.8,
-    "feelsLikeC": 16.4,
+    "tempC": 16.6,
+    "feelsLikeC": 16.1,
     "humidity": 94,
-    "windKph": 15.8,
+    "windKph": 16.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-06T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-06T16:44:21.265+08:00",
+    "observedAt": "2026-11-06T16:45:00.000+08:00",
+    "fetchedAt": "2026-11-06T16:54:33.582+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“银龄”模特“穿”重庆地标走秀 展巴渝风华",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727350.shtml",
+        "publishedAt": "2026-11-06T16:43:01.000+08:00"
+      },
       {
         "title": "桥吊起落间，看见开放的模样",
         "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727359.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "第九届中国非物质文化遗产博览会在重庆开幕",
         "url": "https://www.chinanews.com.cn/tp/2026/11-06/10727298.shtml",
         "publishedAt": "2026-11-06T16:34:18.000+08:00"
-      },
-      {
-        "title": "骨折旅客买到中铺，想换下铺未成功？官方通报",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-06/10727356.shtml",
-        "publishedAt": "2026-11-06T16:33:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-06T16:44:17.897+08:00",
+    "fetchedAt": "2026-11-06T16:54:30.323+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-06T16:44:18.606+08:00",
+      "fetchedAt": "2026-11-06T16:54:31.043+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-06T16:44:18.610+08:00",
+      "fetchedAt": "2026-11-06T16:54:31.046+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T16:44:18.620+08:00",
+      "fetchedAt": "2026-11-06T16:54:31.056+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-06T16:44:18.621+08:00",
+      "fetchedAt": "2026-11-06T16:54:31.057+08:00",
       "error": "未启用",
       "disabled": true
     }
