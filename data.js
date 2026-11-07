@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T07:14:31.077+08:00",
+  "updatedAt": "2026-11-08T07:24:41.827+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.1,
-    "feelsLikeC": 19.2,
+    "tempC": 17.2,
+    "feelsLikeC": 19.3,
     "humidity": 97,
     "windKph": 1.9,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T07:14:31.077+08:00",
+    "observedAt": "2026-11-08T07:15:00.000+08:00",
+    "fetchedAt": "2026-11-08T07:24:41.827+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "买棉服别踩坑！名字带棉不一定是棉花，重点看吊牌",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728201.shtml",
+        "publishedAt": "2026-11-08T07:14:19.000+08:00"
+      },
       {
         "title": "11月8日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-08/10728200.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "AI生成负面动漫等 一批违法违规涉军“自媒体”账号被关闭",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728197.shtml",
         "publishedAt": "2026-11-08T06:46:31.000+08:00"
-      },
-      {
-        "title": "从“追顶流”到“追古流”，年轻人为何爱上“访古”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728196.shtml",
-        "publishedAt": "2026-11-08T06:42:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T07:14:28.732+08:00",
+    "fetchedAt": "2026-11-08T07:24:39.140+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T07:14:29.199+08:00",
+      "fetchedAt": "2026-11-08T07:24:39.569+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T12:14:30.000+08:00"
+          "resetAt": "2026-11-08T12:24:41.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T07:14:29.202+08:00",
+      "fetchedAt": "2026-11-08T07:24:39.572+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T07:14:29.207+08:00",
+      "fetchedAt": "2026-11-08T07:24:39.579+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T07:14:29.208+08:00",
+      "fetchedAt": "2026-11-08T07:24:39.579+08:00",
       "error": "未启用",
       "disabled": true
     }
