@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-07T09:12:18.639+08:00",
+  "updatedAt": "2026-11-07T09:22:30.644+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 16.9,
-    "feelsLikeC": 17,
+    "tempC": 17,
+    "feelsLikeC": 17.1,
     "humidity": 92,
-    "windKph": 12.4,
+    "windKph": 12.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-07T09:12:18.639+08:00",
+    "observedAt": "2026-11-07T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-07T09:22:30.645+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "朝“问”健康丨立冬护血管注意避开三个“高危时刻” 对照自查→",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-07/10727755.shtml",
-        "publishedAt": "2026-11-07T09:01:36.000+08:00"
+        "title": "首套、首条、首台！本周我国多项硬核成果上新",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727759.shtml",
+        "publishedAt": "2026-11-07T09:12:21.000+08:00"
       },
       {
-        "title": "特朗普任命新白宫办公厅主任 美副总统、国务卿、国防部长等人表态",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727754.shtml",
-        "publishedAt": "2026-11-07T08:54:50.000+08:00"
+        "title": "伊朗称两枚导弹击中格什姆岛，宣布击落一架美国MQ-9无人机",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727758.shtml",
+        "publishedAt": "2026-11-07T09:07:17.000+08:00"
       },
       {
-        "title": "大范围降水来袭！华北北部局地有大暴雪 冷空气影响将直抵华南",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727753.shtml",
-        "publishedAt": "2026-11-07T08:54:48.000+08:00"
+        "title": "谷神星二号遥三运载火箭发射成功",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210073.shtml",
+        "publishedAt": "2026-11-07T09:05:42.000+08:00"
       },
       {
-        "title": "中央气象台：中东部地区将有大范围雨雪降温天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727751.shtml",
-        "publishedAt": "2026-11-07T08:54:02.000+08:00"
+        "title": "前三季度科技、涉农贷款数据出炉 金融支持实体力度持续显现",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727756.shtml",
+        "publishedAt": "2026-11-07T09:04:08.000+08:00"
       },
       {
-        "title": "节气物候图鉴：立冬寒意渐深 全国水始冰分布地图看哪里薄冰初现",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727752.shtml",
-        "publishedAt": "2026-11-07T08:52:00.000+08:00"
+        "title": "赵乐际分别会见加蓬总统恩圭马、奥地利总理施托克尔",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727749.shtml",
+        "publishedAt": "2026-11-07T09:03:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T09:12:15.892+08:00",
+    "fetchedAt": "2026-11-07T09:22:28.034+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T09:12:16.641+08:00",
+      "fetchedAt": "2026-11-07T09:22:28.798+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T14:12:18.000+08:00"
+          "resetAt": "2026-11-07T14:22:30.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T09:12:16.644+08:00",
+      "fetchedAt": "2026-11-07T09:22:28.801+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T09:12:16.653+08:00",
+      "fetchedAt": "2026-11-07T09:22:28.811+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T09:12:16.653+08:00",
+      "fetchedAt": "2026-11-07T09:22:28.811+08:00",
       "error": "未启用",
       "disabled": true
     }
