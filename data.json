@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-07T18:42:19.777+08:00",
+  "updatedAt": "2026-11-07T18:52:31.168+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.9,
-    "feelsLikeC": 18.1,
+    "tempC": 17.8,
+    "feelsLikeC": 17.9,
     "humidity": 97,
-    "windKph": 16.2,
+    "windKph": 16.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T18:42:19.777+08:00",
+    "observedAt": "2026-11-07T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-07T18:52:31.168+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "医保影像AI大赛收官 广西打造面向东盟AI+医疗健康创新枢纽",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728017.shtml",
+        "publishedAt": "2026-11-07T18:42:24.000+08:00"
+      },
+      {
+        "title": "从一粒种子到一片森林 中非智库论坛在义乌举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728016.shtml",
+        "publishedAt": "2026-11-07T18:41:18.000+08:00"
+      },
+      {
+        "title": "重庆城口开启彩叶文化旅游季 邀游客共赏巴山盛景",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728015.shtml",
+        "publishedAt": "2026-11-07T18:39:51.000+08:00"
+      },
+      {
+        "title": "农业机器人会“动脑筋” 业界专家合肥共探农业具身智能落地之路",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728013.shtml",
+        "publishedAt": "2026-11-07T18:37:55.000+08:00"
+      },
+      {
         "title": "2026年广西文化旅游嘉年华举办 六大活动呈现八桂文旅融合新貌",
         "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728012.shtml",
         "publishedAt": "2026-11-07T18:36:49.000+08:00"
-      },
-      {
-        "title": "省部共建文山三七产地市场启幕 打造连接国际市场平台",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728009.shtml",
-        "publishedAt": "2026-11-07T18:36:09.000+08:00"
-      },
-      {
-        "title": "世界卫生组织性传播感染预防与创新合作中心在广州揭牌",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728008.shtml",
-        "publishedAt": "2026-11-07T18:34:51.000+08:00"
-      },
-      {
-        "title": "城市更新遇上青春经济，长三角如何抓住“十五五”新机遇？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728007.shtml",
-        "publishedAt": "2026-11-07T18:33:59.000+08:00"
-      },
-      {
-        "title": "吉林黑土地鲜食玉米“锁鲜”记：从一穗好粮到一条好链",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728006.shtml",
-        "publishedAt": "2026-11-07T18:32:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T18:42:17.278+08:00",
+    "fetchedAt": "2026-11-07T18:52:28.423+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T18:42:17.976+08:00",
+      "fetchedAt": "2026-11-07T18:52:29.193+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T18:42:19.000+08:00"
+          "resetAt": "2026-11-14T18:52:31.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T18:42:17.979+08:00",
+      "fetchedAt": "2026-11-07T18:52:29.195+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T18:42:17.989+08:00",
+      "fetchedAt": "2026-11-07T18:52:29.206+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T18:42:17.989+08:00",
+      "fetchedAt": "2026-11-07T18:52:29.207+08:00",
       "error": "未启用",
       "disabled": true
     }
