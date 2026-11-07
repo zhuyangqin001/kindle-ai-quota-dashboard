@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T06:44:00.190+08:00",
+  "updatedAt": "2026-11-08T06:54:10.723+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17,
-    "feelsLikeC": 18.9,
+    "tempC": 17.1,
+    "feelsLikeC": 19,
     "humidity": 97,
-    "windKph": 2.8,
+    "windKph": 2.2,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T06:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T06:44:00.190+08:00",
+    "observedAt": "2026-11-08T06:45:00.000+08:00",
+    "fetchedAt": "2026-11-08T06:54:10.723+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "AI生成负面动漫等 一批违法违规涉军“自媒体”账号被关闭",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728197.shtml",
+        "publishedAt": "2026-11-08T06:46:31.000+08:00"
+      },
       {
         "title": "从“追顶流”到“追古流”，年轻人为何爱上“访古”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728196.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "伊朗南部多地接连传出类似爆炸巨响",
         "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728194.shtml",
         "publishedAt": "2026-11-08T06:34:31.000+08:00"
-      },
-      {
-        "title": "泰国强调粮食和能源安全 以多元供应体系应对外部风险",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728192.shtml",
-        "publishedAt": "2026-11-07T23:52:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T06:43:57.824+08:00",
+    "fetchedAt": "2026-11-08T06:54:08.162+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T06:43:58.292+08:00",
+      "fetchedAt": "2026-11-08T06:54:08.636+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T11:44:00.000+08:00"
+          "resetAt": "2026-11-08T11:54:10.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T06:43:58.295+08:00",
+      "fetchedAt": "2026-11-08T06:54:08.638+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T06:43:58.301+08:00",
+      "fetchedAt": "2026-11-08T06:54:08.644+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T06:43:58.301+08:00",
+      "fetchedAt": "2026-11-08T06:54:08.644+08:00",
       "error": "未启用",
       "disabled": true
     }
