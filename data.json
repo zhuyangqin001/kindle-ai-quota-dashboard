@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-07T16:40:12.188+08:00",
+  "updatedAt": "2026-11-07T17:00:31.146+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.8,
-    "feelsLikeC": 19.4,
-    "humidity": 95,
-    "windKph": 15.2,
+    "tempC": 18.4,
+    "feelsLikeC": 19,
+    "humidity": 96,
+    "windKph": 15.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T16:40:12.189+08:00",
+    "observedAt": "2026-11-07T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-07T17:00:31.146+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国—马来西亚国际高等研究院揭牌",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727920.shtml",
-        "publishedAt": "2026-11-07T16:34:29.000+08:00"
+        "title": "河北鸡泽：市政铸件畅销海内外",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727928.shtml",
+        "publishedAt": "2026-11-07T16:53:18.000+08:00"
       },
       {
-        "title": "从展厅到论坛，五粮液在进博会书写中国白酒国际化新表达",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727889.shtml",
-        "publishedAt": "2026-11-07T16:34:03.000+08:00"
+        "title": "广州港南沙四期全自动化码头迎来首条外贸班轮航线",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727944.shtml",
+        "publishedAt": "2026-11-07T16:47:35.000+08:00"
       },
       {
-        "title": "2026北京冰雪消费季推介会举行 推出17条冰雪旅游线路",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10727948.shtml",
-        "publishedAt": "2026-11-07T16:32:33.000+08:00"
+        "title": "湖南低空装备加速出海 “株洲造”飞向全球",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727939.shtml",
+        "publishedAt": "2026-11-07T16:46:49.000+08:00"
       },
       {
-        "title": "汇聚海内外客商 无锡锡山加码产业科创对外开放",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727913.shtml",
-        "publishedAt": "2026-11-07T16:30:39.000+08:00"
+        "title": "“与韩有约 仙境烟台”中韩文旅推介会举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727941.shtml",
+        "publishedAt": "2026-11-07T16:46:19.000+08:00"
       },
       {
-        "title": "近500场活动服务9.6万人次 民进重庆市委会推动社会服务品牌化",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727910.shtml",
-        "publishedAt": "2026-11-07T16:28:48.000+08:00"
+        "title": "中缅国际通道大瑞铁路大保段旅客发送量突破2000万人次",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727943.shtml",
+        "publishedAt": "2026-11-07T16:45:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T16:40:09.239+08:00",
+    "fetchedAt": "2026-11-07T17:00:27.510+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T16:40:09.956+08:00",
+      "fetchedAt": "2026-11-07T17:00:28.279+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T16:40:12.000+08:00"
+          "resetAt": "2026-11-14T17:00:31.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T16:40:09.958+08:00",
+      "fetchedAt": "2026-11-07T17:00:28.282+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T16:40:09.967+08:00",
+      "fetchedAt": "2026-11-07T17:00:28.293+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T16:40:09.967+08:00",
+      "fetchedAt": "2026-11-07T17:00:28.293+08:00",
       "error": "未启用",
       "disabled": true
     }
