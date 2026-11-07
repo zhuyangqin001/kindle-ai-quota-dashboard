@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T18:32:08.160+08:00",
+  "updatedAt": "2026-11-07T18:42:19.777+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-07T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T18:32:08.160+08:00",
+    "fetchedAt": "2026-11-07T18:42:19.777+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "梅汝璈后人回望东京审判：“青年应了解国家走过的历史”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727996.shtml",
-        "publishedAt": "2026-11-07T18:26:15.000+08:00"
+        "title": "2026年广西文化旅游嘉年华举办 六大活动呈现八桂文旅融合新貌",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728012.shtml",
+        "publishedAt": "2026-11-07T18:36:49.000+08:00"
       },
       {
-        "title": "内蒙古冬季旅游活动在“中国冷极”根河市启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727995.shtml",
-        "publishedAt": "2026-11-07T18:24:57.000+08:00"
+        "title": "省部共建文山三七产地市场启幕 打造连接国际市场平台",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728009.shtml",
+        "publishedAt": "2026-11-07T18:36:09.000+08:00"
       },
       {
-        "title": "中使馆驳斥荷兰网络安全部门有关报告涉华内容",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727990.shtml",
-        "publishedAt": "2026-11-07T18:24:11.000+08:00"
+        "title": "世界卫生组织性传播感染预防与创新合作中心在广州揭牌",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728008.shtml",
+        "publishedAt": "2026-11-07T18:34:51.000+08:00"
       },
       {
-        "title": "百余中希学者齐聚河南 共探以古典德性智慧回应时代课题",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727994.shtml",
-        "publishedAt": "2026-11-07T18:23:43.000+08:00"
+        "title": "城市更新遇上青春经济，长三角如何抓住“十五五”新机遇？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728007.shtml",
+        "publishedAt": "2026-11-07T18:33:59.000+08:00"
       },
       {
-        "title": "菲律宾“中国大使教育基金”颁奖仪式在马尼拉举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727986.shtml",
-        "publishedAt": "2026-11-07T18:23:01.000+08:00"
+        "title": "吉林黑土地鲜食玉米“锁鲜”记：从一穗好粮到一条好链",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728006.shtml",
+        "publishedAt": "2026-11-07T18:32:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T18:32:05.597+08:00",
+    "fetchedAt": "2026-11-07T18:42:17.278+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T18:32:06.331+08:00",
+      "fetchedAt": "2026-11-07T18:42:17.976+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T18:32:07.000+08:00"
+          "resetAt": "2026-11-14T18:42:19.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T18:32:06.334+08:00",
+      "fetchedAt": "2026-11-07T18:42:17.979+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T18:32:06.344+08:00",
+      "fetchedAt": "2026-11-07T18:42:17.989+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T18:32:06.344+08:00",
+      "fetchedAt": "2026-11-07T18:42:17.989+08:00",
       "error": "未启用",
       "disabled": true
     }
