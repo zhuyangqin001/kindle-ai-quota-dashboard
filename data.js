@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T18:11:50.354+08:00",
+  "updatedAt": "2026-11-07T18:32:08.160+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18,
-    "feelsLikeC": 18.3,
+    "tempC": 17.9,
+    "feelsLikeC": 18.1,
     "humidity": 97,
-    "windKph": 16.1,
+    "windKph": 16.2,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-07T18:11:50.354+08:00",
+    "observedAt": "2026-11-07T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-07T18:32:08.160+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第四届黄精产业发展大会举行 四项成果赋能产业发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727988.shtml",
-        "publishedAt": "2026-11-07T18:03:12.000+08:00"
+        "title": "梅汝璈后人回望东京审判：“青年应了解国家走过的历史”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727996.shtml",
+        "publishedAt": "2026-11-07T18:26:15.000+08:00"
       },
       {
-        "title": "(第九届进博会)各国好物汇聚第九届进博会 中国大市场全球共享",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727965.shtml",
-        "publishedAt": "2026-11-07T17:57:13.000+08:00"
+        "title": "内蒙古冬季旅游活动在“中国冷极”根河市启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727995.shtml",
+        "publishedAt": "2026-11-07T18:24:57.000+08:00"
       },
       {
-        "title": "厦门：300艘船艇齐聚港湾",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727929.shtml",
-        "publishedAt": "2026-11-07T17:51:57.000+08:00"
+        "title": "中使馆驳斥荷兰网络安全部门有关报告涉华内容",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727990.shtml",
+        "publishedAt": "2026-11-07T18:24:11.000+08:00"
       },
       {
-        "title": "（第九届进博会）展台架起手机支架 进博会现场秒变直播间",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727974.shtml",
-        "publishedAt": "2026-11-07T17:51:41.000+08:00"
+        "title": "百余中希学者齐聚河南 共探以古典德性智慧回应时代课题",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727994.shtml",
+        "publishedAt": "2026-11-07T18:23:43.000+08:00"
       },
       {
-        "title": "（第九届进博会）银发经济拓展国际合作空间 企业共享市场机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727985.shtml",
-        "publishedAt": "2026-11-07T17:51:33.000+08:00"
+        "title": "菲律宾“中国大使教育基金”颁奖仪式在马尼拉举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727986.shtml",
+        "publishedAt": "2026-11-07T18:23:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T18:11:47.093+08:00",
+    "fetchedAt": "2026-11-07T18:32:05.597+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T18:11:47.808+08:00",
+      "fetchedAt": "2026-11-07T18:32:06.331+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T18:11:49.000+08:00"
+          "resetAt": "2026-11-14T18:32:07.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T18:11:47.811+08:00",
+      "fetchedAt": "2026-11-07T18:32:06.334+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T18:11:47.821+08:00",
+      "fetchedAt": "2026-11-07T18:32:06.344+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T18:11:47.822+08:00",
+      "fetchedAt": "2026-11-07T18:32:06.344+08:00",
       "error": "未启用",
       "disabled": true
     }
