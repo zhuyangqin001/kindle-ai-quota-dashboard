@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T19:23:03.094+08:00",
+  "updatedAt": "2026-11-07T19:43:21.213+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -7,11 +7,11 @@
     "tempC": 17.7,
     "feelsLikeC": 17.9,
     "humidity": 97,
-    "windKph": 15.8,
+    "windKph": 15.5,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-07T19:23:03.094+08:00",
+    "observedAt": "2026-11-07T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-07T19:43:21.213+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西安交通大学科技商学高质量发展大会暨科技商学院揭牌仪式举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728043.shtml",
-        "publishedAt": "2026-11-07T19:18:08.000+08:00"
+        "title": "筑牢安全底座 推动高质量发展——国家发展改革委新闻发布会聚焦能源和粮食安全",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728073.shtml",
+        "publishedAt": "2026-11-07T19:32:08.000+08:00"
       },
       {
-        "title": "西电自研船用导航雷达成功应用",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728042.shtml",
-        "publishedAt": "2026-11-07T19:17:03.000+08:00"
+        "title": "人民锐评：零和博弈为何没市场？三场“东方之约”有答案",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-07/10728070.shtml",
+        "publishedAt": "2026-11-07T19:29:48.000+08:00"
       },
       {
-        "title": "（第九届进博会）舌尖上的进博会",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210141.shtml",
-        "publishedAt": "2026-11-07T19:16:33.000+08:00"
+        "title": "爱上三亚：老外的N种理由",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728057.shtml",
+        "publishedAt": "2026-11-07T19:26:32.000+08:00"
       },
       {
-        "title": "APEC经济体代表聚厦门共商亚太海洋生态保护与韧性提升",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728041.shtml",
-        "publishedAt": "2026-11-07T19:16:01.000+08:00"
+        "title": "2026中非经贸和文化论坛：现场项目签约总额达409.6亿元人民币",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728054.shtml",
+        "publishedAt": "2026-11-07T19:25:12.000+08:00"
       },
       {
-        "title": "2026青少年陶艺研学实践教学研讨会举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728040.shtml",
-        "publishedAt": "2026-11-07T19:15:21.000+08:00"
+        "title": "从“一口锅”到“千万产值”，大运河鱼羊美食季何以飘香17年？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728059.shtml",
+        "publishedAt": "2026-11-07T19:24:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T19:23:00.369+08:00",
+    "fetchedAt": "2026-11-07T19:43:18.422+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T19:23:01.122+08:00",
+      "fetchedAt": "2026-11-07T19:43:19.154+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T00:23:02.000+08:00"
+          "resetAt": "2026-11-08T00:43:20.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T19:23:02.000+08:00"
+          "resetAt": "2026-11-14T19:43:20.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T19:23:01.126+08:00",
+      "fetchedAt": "2026-11-07T19:43:19.158+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T19:23:01.137+08:00",
+      "fetchedAt": "2026-11-07T19:43:19.167+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T19:23:01.138+08:00",
+      "fetchedAt": "2026-11-07T19:43:19.168+08:00",
       "error": "未启用",
       "disabled": true
     }
