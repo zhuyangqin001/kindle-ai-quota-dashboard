@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T12:46:13.537+08:00",
+  "updatedAt": "2026-11-07T13:06:30.879+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 20.5,
-    "feelsLikeC": 21.2,
+    "tempC": 20.7,
+    "feelsLikeC": 21.5,
     "humidity": 79,
-    "windKph": 11.2,
+    "windKph": 11.3,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T12:45:00.000+08:00",
-    "fetchedAt": "2026-11-07T12:46:13.537+08:00",
+    "observedAt": "2026-11-07T13:00:00.000+08:00",
+    "fetchedAt": "2026-11-07T13:06:30.879+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国驻杜塞尔多夫总领馆举行2026年度国家留学基金委奖学金颁奖仪式",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727840.shtml",
-        "publishedAt": "2026-11-07T12:37:18.000+08:00"
+        "title": "聚焦协定履约相关议题 BBNJ科学与治理国际研讨会在厦门举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727834.shtml",
+        "publishedAt": "2026-11-07T13:02:15.000+08:00"
       },
       {
-        "title": "中国第43次南极考察队从三亚启航",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727848.shtml",
-        "publishedAt": "2026-11-07T12:30:38.000+08:00"
+        "title": "“广西梧州—平陆运河—越南胡志明”外贸航线开通",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727831.shtml",
+        "publishedAt": "2026-11-07T13:01:25.000+08:00"
       },
       {
-        "title": "欧洲多地接连遭遇炸弹威胁和网络攻击 民用设施安全引发关注",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727833.shtml",
-        "publishedAt": "2026-11-07T12:25:03.000+08:00"
+        "title": "澳门特区政府和立法会强烈反对外部势力干涉特区司法独立",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-07/10727817.shtml",
+        "publishedAt": "2026-11-07T13:01:21.000+08:00"
       },
       {
-        "title": "刘海星同朝鲜劳动党中央政治局委员、中央书记、国际部部长金成男举行会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727816.shtml",
-        "publishedAt": "2026-11-07T12:18:07.000+08:00"
+        "title": "从沉浸式秋收劳作到文博奇妙体验 多彩秋假带动跨省游需求集中释放",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727857.shtml",
+        "publishedAt": "2026-11-07T12:57:41.000+08:00"
       },
       {
-        "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727818.shtml",
-        "publishedAt": "2026-11-07T12:07:30.000+08:00"
+        "title": "“玉”见8000年 辽宁有“石”力",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727855.shtml",
+        "publishedAt": "2026-11-07T12:54:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T12:46:11.002+08:00",
+    "fetchedAt": "2026-11-07T13:06:28.334+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T12:46:11.611+08:00",
+      "fetchedAt": "2026-11-07T13:06:29.005+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T17:46:13.000+08:00"
+          "resetAt": "2026-11-07T18:06:30.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T12:46:11.613+08:00",
+      "fetchedAt": "2026-11-07T13:06:29.009+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T12:46:11.620+08:00",
+      "fetchedAt": "2026-11-07T13:06:29.018+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T12:46:11.620+08:00",
+      "fetchedAt": "2026-11-07T13:06:29.018+08:00",
       "error": "未启用",
       "disabled": true
     }
