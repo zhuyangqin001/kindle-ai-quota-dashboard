@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T18:52:31.168+08:00",
+  "updatedAt": "2026-11-07T19:02:42.790+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.8,
+    "tempC": 17.7,
     "feelsLikeC": 17.9,
     "humidity": 97,
-    "windKph": 16.4,
+    "windKph": 16.2,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-07T18:52:31.168+08:00",
+    "observedAt": "2026-11-07T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-07T19:02:42.790+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "医保影像AI大赛收官 广西打造面向东盟AI+医疗健康创新枢纽",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728017.shtml",
-        "publishedAt": "2026-11-07T18:42:24.000+08:00"
+        "title": "首届云台“醉雕杯”海峡两岸慢投垒球交流赛在昆明挥棒开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10728032.shtml",
+        "publishedAt": "2026-11-07T18:57:02.000+08:00"
       },
       {
-        "title": "从一粒种子到一片森林 中非智库论坛在义乌举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728016.shtml",
-        "publishedAt": "2026-11-07T18:41:18.000+08:00"
+        "title": "南开大学支教团带拉萨青少年“重走长征路”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728035.shtml",
+        "publishedAt": "2026-11-07T18:56:44.000+08:00"
       },
       {
-        "title": "重庆城口开启彩叶文化旅游季 邀游客共赏巴山盛景",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728015.shtml",
-        "publishedAt": "2026-11-07T18:39:51.000+08:00"
+        "title": "AI走进寻常家 居家康养、养宠迎来智慧新方案",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728027.shtml",
+        "publishedAt": "2026-11-07T18:56:12.000+08:00"
       },
       {
-        "title": "农业机器人会“动脑筋” 业界专家合肥共探农业具身智能落地之路",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728013.shtml",
-        "publishedAt": "2026-11-07T18:37:55.000+08:00"
+        "title": "（第九届进博会）技术装备展区吸引参观者",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210136.shtml",
+        "publishedAt": "2026-11-07T18:56:01.000+08:00"
       },
       {
-        "title": "2026年广西文化旅游嘉年华举办 六大活动呈现八桂文旅融合新貌",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728012.shtml",
-        "publishedAt": "2026-11-07T18:36:49.000+08:00"
+        "title": "2026中欧蓝色发展投资研讨会在厦门举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728028.shtml",
+        "publishedAt": "2026-11-07T18:55:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T18:52:28.423+08:00",
+    "fetchedAt": "2026-11-07T19:02:40.404+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T18:52:29.193+08:00",
+      "fetchedAt": "2026-11-07T19:02:40.959+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T18:52:31.000+08:00"
+          "resetAt": "2026-11-14T19:02:42.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T18:52:29.195+08:00",
+      "fetchedAt": "2026-11-07T19:02:40.962+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T18:52:29.206+08:00",
+      "fetchedAt": "2026-11-07T19:02:40.972+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T18:52:29.207+08:00",
+      "fetchedAt": "2026-11-07T19:02:40.972+08:00",
       "error": "未启用",
       "disabled": true
     }
