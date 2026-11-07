@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-07T12:25:51.898+08:00",
+  "updatedAt": "2026-11-07T12:36:02.512+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 19.7,
-    "feelsLikeC": 20.3,
+    "tempC": 20.1,
+    "feelsLikeC": 20.8,
     "humidity": 80,
     "windKph": 10.8,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-07T12:25:51.898+08:00",
+    "observedAt": "2026-11-07T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-07T12:36:02.512+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国第43次南极考察队从三亚启航",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727848.shtml",
+        "publishedAt": "2026-11-07T12:30:38.000+08:00"
+      },
+      {
+        "title": "欧洲多地接连遭遇炸弹威胁和网络攻击 民用设施安全引发关注",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727833.shtml",
+        "publishedAt": "2026-11-07T12:25:03.000+08:00"
+      },
       {
         "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
         "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727818.shtml",
@@ -33,19 +43,9 @@
         "title": "中国杯世界花样滑冰大奖赛在深圳开赛 “冰上芭蕾”再掀鹏城冰雪热潮",
         "url": "https://www.chinanews.com.cn/ty/2026/11-07/10727829.shtml",
         "publishedAt": "2026-11-07T12:01:16.000+08:00"
-      },
-      {
-        "title": "“千年回响——多彩甘肃”主题美术创作交流展（广西站）在南宁举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727823.shtml",
-        "publishedAt": "2026-11-07T12:00:50.000+08:00"
-      },
-      {
-        "title": "中国驻墨尔本总领馆通报一名中国公民遇害",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727774.shtml",
-        "publishedAt": "2026-11-07T11:53:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T12:25:49.187+08:00",
+    "fetchedAt": "2026-11-07T12:36:00.422+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T12:25:49.917+08:00",
+      "fetchedAt": "2026-11-07T12:36:00.809+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T17:25:51.000+08:00"
+          "resetAt": "2026-11-07T17:36:02.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T12:25:49.920+08:00",
+      "fetchedAt": "2026-11-07T12:36:00.811+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T12:25:49.929+08:00",
+      "fetchedAt": "2026-11-07T12:36:00.817+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T12:25:49.929+08:00",
+      "fetchedAt": "2026-11-07T12:36:00.817+08:00",
       "error": "未启用",
       "disabled": true
     }
