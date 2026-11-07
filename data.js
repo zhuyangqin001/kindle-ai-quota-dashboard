@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T09:22:30.644+08:00",
+  "updatedAt": "2026-11-07T09:32:41.243+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
-    "tempC": 17,
-    "feelsLikeC": 17.1,
-    "humidity": 92,
-    "windKph": 12.6,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 17.8,
+    "feelsLikeC": 17.8,
+    "humidity": 84,
+    "windKph": 11.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-07T09:22:30.645+08:00",
+    "observedAt": "2026-11-07T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-07T09:32:41.243+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "首套、首条、首台！本周我国多项硬核成果上新",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727759.shtml",
-        "publishedAt": "2026-11-07T09:12:21.000+08:00"
+        "title": "商务部新闻发言人就美制裁中国企业答记者问",
+        "url": "https://www.chinanews.com.cn/kong/2026/11-07/10727763.shtml",
+        "publishedAt": "2026-11-07T09:24:56.000+08:00"
       },
       {
-        "title": "伊朗称两枚导弹击中格什姆岛，宣布击落一架美国MQ-9无人机",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727758.shtml",
-        "publishedAt": "2026-11-07T09:07:17.000+08:00"
+        "title": "中国第43次南极考察队起航仪式在三亚举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727762.shtml",
+        "publishedAt": "2026-11-07T09:23:31.000+08:00"
       },
       {
-        "title": "谷神星二号遥三运载火箭发射成功",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210073.shtml",
-        "publishedAt": "2026-11-07T09:05:42.000+08:00"
+        "title": "学习贯彻党的二十届五中全会精神｜学习贯彻党的二十届五中全会精神中央宣讲团在重庆宣讲",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727761.shtml",
+        "publishedAt": "2026-11-07T09:21:23.000+08:00"
       },
       {
-        "title": "前三季度科技、涉农贷款数据出炉 金融支持实体力度持续显现",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727756.shtml",
-        "publishedAt": "2026-11-07T09:04:08.000+08:00"
+        "title": "学习贯彻党的二十届五中全会精神丨学习贯彻党的二十届五中全会精神中央宣讲团在河南宣讲",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727748.shtml",
+        "publishedAt": "2026-11-07T09:20:09.000+08:00"
       },
       {
-        "title": "赵乐际分别会见加蓬总统恩圭马、奥地利总理施托克尔",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727749.shtml",
-        "publishedAt": "2026-11-07T09:03:52.000+08:00"
+        "title": "学习贯彻党的二十届五中全会精神丨学习贯彻党的二十届五中全会精神中央宣讲团在江苏宣讲",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727747.shtml",
+        "publishedAt": "2026-11-07T09:19:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T09:22:28.034+08:00",
+    "fetchedAt": "2026-11-07T09:32:39.050+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T09:22:28.798+08:00",
+      "fetchedAt": "2026-11-07T09:32:39.435+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T14:22:30.000+08:00"
+          "resetAt": "2026-11-07T14:32:40.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T09:22:28.801+08:00",
+      "fetchedAt": "2026-11-07T09:32:39.437+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T09:22:28.811+08:00",
+      "fetchedAt": "2026-11-07T09:32:39.442+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T09:22:28.811+08:00",
+      "fetchedAt": "2026-11-07T09:32:39.442+08:00",
       "error": "未启用",
       "disabled": true
     }
