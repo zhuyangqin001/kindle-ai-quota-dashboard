@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-07T17:51:32.427+08:00",
+  "updatedAt": "2026-11-07T18:11:50.354+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.1,
-    "feelsLikeC": 18.5,
+    "tempC": 18,
+    "feelsLikeC": 18.3,
     "humidity": 97,
-    "windKph": 15.9,
+    "windKph": 16.1,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-07T17:51:32.428+08:00",
+    "observedAt": "2026-11-07T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-07T18:11:50.354+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年名师巡讲活动走进马来西亚沙巴",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-07/10727980.shtml",
-        "publishedAt": "2026-11-07T17:44:19.000+08:00"
+        "title": "第四届黄精产业发展大会举行 四项成果赋能产业发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727988.shtml",
+        "publishedAt": "2026-11-07T18:03:12.000+08:00"
       },
       {
-        "title": "四川首次组团赴澳门推介民族手工业",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727927.shtml",
-        "publishedAt": "2026-11-07T17:33:36.000+08:00"
+        "title": "(第九届进博会)各国好物汇聚第九届进博会 中国大市场全球共享",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727965.shtml",
+        "publishedAt": "2026-11-07T17:57:13.000+08:00"
       },
       {
-        "title": "200余家企业携万余岗位揽才 三峡库区大型招聘会成求职者“跨省择业站”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727908.shtml",
-        "publishedAt": "2026-11-07T17:30:44.000+08:00"
+        "title": "厦门：300艘船艇齐聚港湾",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727929.shtml",
+        "publishedAt": "2026-11-07T17:51:57.000+08:00"
       },
       {
-        "title": "一部小说如何保存市井人生 黎紫书再谈《流俗地》",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-07/10727975.shtml",
-        "publishedAt": "2026-11-07T17:30:28.000+08:00"
+        "title": "（第九届进博会）展台架起手机支架 进博会现场秒变直播间",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727974.shtml",
+        "publishedAt": "2026-11-07T17:51:41.000+08:00"
       },
       {
-        "title": "中外花滑选手在深圳感受“暖冬”与热情",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10727973.shtml",
-        "publishedAt": "2026-11-07T17:28:58.000+08:00"
+        "title": "（第九届进博会）银发经济拓展国际合作空间 企业共享市场机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727985.shtml",
+        "publishedAt": "2026-11-07T17:51:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T17:51:29.479+08:00",
+    "fetchedAt": "2026-11-07T18:11:47.093+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T17:51:30.224+08:00",
+      "fetchedAt": "2026-11-07T18:11:47.808+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T17:51:32.000+08:00"
+          "resetAt": "2026-11-14T18:11:49.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T17:51:30.227+08:00",
+      "fetchedAt": "2026-11-07T18:11:47.811+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T17:51:30.239+08:00",
+      "fetchedAt": "2026-11-07T18:11:47.821+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T17:51:30.239+08:00",
+      "fetchedAt": "2026-11-07T18:11:47.822+08:00",
       "error": "未启用",
       "disabled": true
     }
