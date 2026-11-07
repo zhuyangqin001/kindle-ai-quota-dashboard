@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T08:51:55.055+08:00",
+  "updatedAt": "2026-11-07T09:02:06.700+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 16.8,
-    "feelsLikeC": 16.9,
-    "humidity": 92,
-    "windKph": 12.4,
+    "tempC": 17.5,
+    "feelsLikeC": 17.3,
+    "humidity": 84,
+    "windKph": 12.1,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T08:45:00.000+08:00",
-    "fetchedAt": "2026-11-07T08:51:55.055+08:00",
+    "observedAt": "2026-11-07T09:00:00.000+08:00",
+    "fetchedAt": "2026-11-07T09:02:06.700+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "特朗普任命新白宫办公厅主任 美副总统、国务卿、国防部长等人表态",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727754.shtml",
+        "publishedAt": "2026-11-07T08:54:50.000+08:00"
+      },
+      {
+        "title": "大范围降水来袭！华北北部局地有大暴雪 冷空气影响将直抵华南",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727753.shtml",
+        "publishedAt": "2026-11-07T08:54:48.000+08:00"
+      },
+      {
+        "title": "中央气象台：中东部地区将有大范围雨雪降温天气",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727751.shtml",
+        "publishedAt": "2026-11-07T08:54:02.000+08:00"
+      },
+      {
+        "title": "节气物候图鉴：立冬寒意渐深 全国水始冰分布地图看哪里薄冰初现",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727752.shtml",
+        "publishedAt": "2026-11-07T08:52:00.000+08:00"
+      },
+      {
         "title": "复刻声音商用，可识别性是侵权认定核心",
         "url": "https://www.chinanews.com.cn/fz/2026/11-07/10727745.shtml",
         "publishedAt": "2026-11-07T08:16:18.000+08:00"
-      },
-      {
-        "title": "谷神星二号遥三运载火箭发射成功",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727744.shtml",
-        "publishedAt": "2026-11-07T08:08:07.000+08:00"
-      },
-      {
-        "title": "AI时代职场人的心理健康需要更多支持系统",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727743.shtml",
-        "publishedAt": "2026-11-07T08:07:19.000+08:00"
-      },
-      {
-        "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727742.shtml",
-        "publishedAt": "2026-11-07T08:01:51.000+08:00"
-      },
-      {
-        "title": "美国10月非农就业新增16.5万 失业率4.1%",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727739.shtml",
-        "publishedAt": "2026-11-07T07:46:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T08:51:52.544+08:00",
+    "fetchedAt": "2026-11-07T09:02:04.139+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T08:51:53.241+08:00",
+      "fetchedAt": "2026-11-07T09:02:04.858+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T13:51:54.000+08:00"
+          "resetAt": "2026-11-07T14:02:06.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T08:51:53.244+08:00",
+      "fetchedAt": "2026-11-07T09:02:04.861+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T08:51:53.254+08:00",
+      "fetchedAt": "2026-11-07T09:02:04.871+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T08:51:53.254+08:00",
+      "fetchedAt": "2026-11-07T09:02:04.871+08:00",
       "error": "未启用",
       "disabled": true
     }
