@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T06:54:10.723+08:00",
+  "updatedAt": "2026-11-08T07:04:21.261+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 17.1,
-    "feelsLikeC": 19,
+    "feelsLikeC": 19.2,
     "humidity": 97,
-    "windKph": 2.2,
+    "windKph": 1.9,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-08T06:54:10.723+08:00",
+    "observedAt": "2026-11-08T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-08T07:04:21.261+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "胡塞武装称沙特空袭萨那周边 已致27人死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728199.shtml",
+        "publishedAt": "2026-11-08T06:53:16.000+08:00"
+      },
+      {
+        "title": "伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728198.shtml",
+        "publishedAt": "2026-11-08T06:49:32.000+08:00"
+      },
       {
         "title": "AI生成负面动漫等 一批违法违规涉军“自媒体”账号被关闭",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728197.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "大风+寒潮双预警！15省份部分地区降温超10°C",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728195.shtml",
         "publishedAt": "2026-11-08T06:38:53.000+08:00"
-      },
-      {
-        "title": "俄外交部：欧洲多国军演挑动局势升级 在乌部署外国军事力量不可接受",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728193.shtml",
-        "publishedAt": "2026-11-08T06:35:15.000+08:00"
-      },
-      {
-        "title": "伊朗南部多地接连传出类似爆炸巨响",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728194.shtml",
-        "publishedAt": "2026-11-08T06:34:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T06:54:08.162+08:00",
+    "fetchedAt": "2026-11-08T07:04:18.868+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T06:54:08.636+08:00",
+      "fetchedAt": "2026-11-08T07:04:19.338+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T11:54:10.000+08:00"
+          "resetAt": "2026-11-08T12:04:21.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T21:33:02.000+08:00"
+          "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T06:54:08.638+08:00",
+      "fetchedAt": "2026-11-08T07:04:19.340+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T06:54:08.644+08:00",
+      "fetchedAt": "2026-11-08T07:04:19.346+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T06:54:08.644+08:00",
+      "fetchedAt": "2026-11-08T07:04:19.346+08:00",
       "error": "未启用",
       "disabled": true
     }
