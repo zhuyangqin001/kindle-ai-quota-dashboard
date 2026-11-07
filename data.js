@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T16:19:54.869+08:00",
+  "updatedAt": "2026-11-07T16:40:12.188+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.9,
-    "feelsLikeC": 19.7,
+    "tempC": 18.8,
+    "feelsLikeC": 19.4,
     "humidity": 95,
-    "windKph": 15,
+    "windKph": 15.2,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-07T16:19:54.870+08:00",
+    "observedAt": "2026-11-07T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-07T16:40:12.189+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第32号台风“查帕卡”生成 今年台风个数刷新21世纪以来最多纪录",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727923.shtml",
-        "publishedAt": "2026-11-07T16:05:33.000+08:00"
+        "title": "中国—马来西亚国际高等研究院揭牌",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727920.shtml",
+        "publishedAt": "2026-11-07T16:34:29.000+08:00"
       },
       {
-        "title": "（第九届进博会）免费展位扩容17% 进博会带“最不发达国家”互利共赢",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210112.shtml",
-        "publishedAt": "2026-11-07T16:04:23.000+08:00"
+        "title": "从展厅到论坛，五粮液在进博会书写中国白酒国际化新表达",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727889.shtml",
+        "publishedAt": "2026-11-07T16:34:03.000+08:00"
       },
       {
-        "title": "两部门会商调度雨雪天气防范应对工作",
-        "url": "https://www.chinanews.com.cn/kong/2026/11-07/10727918.shtml",
-        "publishedAt": "2026-11-07T16:02:09.000+08:00"
+        "title": "2026北京冰雪消费季推介会举行 推出17条冰雪旅游线路",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10727948.shtml",
+        "publishedAt": "2026-11-07T16:32:33.000+08:00"
       },
       {
-        "title": "日本民众集会抗议政府企图突破“无核三原则”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727914.shtml",
-        "publishedAt": "2026-11-07T15:54:55.000+08:00"
+        "title": "汇聚海内外客商 无锡锡山加码产业科创对外开放",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727913.shtml",
+        "publishedAt": "2026-11-07T16:30:39.000+08:00"
       },
       {
-        "title": "美企高管：开放的中国与世界共享机遇、共同发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727911.shtml",
-        "publishedAt": "2026-11-07T15:52:08.000+08:00"
+        "title": "近500场活动服务9.6万人次 民进重庆市委会推动社会服务品牌化",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727910.shtml",
+        "publishedAt": "2026-11-07T16:28:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T16:19:51.897+08:00",
+    "fetchedAt": "2026-11-07T16:40:09.239+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T16:19:52.642+08:00",
+      "fetchedAt": "2026-11-07T16:40:09.956+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T16:19:54.000+08:00"
+          "resetAt": "2026-11-14T16:40:12.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T16:19:52.644+08:00",
+      "fetchedAt": "2026-11-07T16:40:09.958+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T16:19:52.654+08:00",
+      "fetchedAt": "2026-11-07T16:40:09.967+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T16:19:52.655+08:00",
+      "fetchedAt": "2026-11-07T16:40:09.967+08:00",
       "error": "未启用",
       "disabled": true
     }
