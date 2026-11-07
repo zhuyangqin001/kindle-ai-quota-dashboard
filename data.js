@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T21:25:03.074+08:00",
+  "updatedAt": "2026-11-07T21:35:15.984+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 17.3,
-    "feelsLikeC": 17.5,
+    "feelsLikeC": 17.6,
     "humidity": 96,
-    "windKph": 14.5,
+    "windKph": 14.1,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-07T21:25:03.074+08:00",
+    "observedAt": "2026-11-07T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-07T21:35:15.984+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国仫佬族民众欢度依饭节",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728148.shtml",
-        "publishedAt": "2026-11-07T21:20:16.000+08:00"
+        "title": "巴渝地名“活”起来 在渝外籍师生同台读懂重庆",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728131.shtml",
+        "publishedAt": "2026-11-07T21:26:43.000+08:00"
       },
       {
-        "title": "首届云台“醉雕杯”海峡两岸慢投垒球交流赛昆明开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10728149.shtml",
-        "publishedAt": "2026-11-07T21:17:26.000+08:00"
+        "title": "（第九届进博会）华商侨企接入进博“引力场”：从商品贸易到生态共生",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728124.shtml",
+        "publishedAt": "2026-11-07T21:26:22.000+08:00"
       },
       {
-        "title": "柬埔寨官方：过去16个月起诉并羁押电诈犯罪嫌疑人逾五千名",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728150.shtml",
-        "publishedAt": "2026-11-07T21:16:02.000+08:00"
+        "title": "中国女排超级联赛开赛 天津队胜北京队迎“开门红”",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10728122.shtml",
+        "publishedAt": "2026-11-07T21:25:42.000+08:00"
       },
       {
-        "title": "黄河中上游跨径最大上承式钢管混凝土拱桥主桥贯通",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728151.shtml",
-        "publishedAt": "2026-11-07T21:15:32.000+08:00"
+        "title": "以光影叩问真实 云南艺术学院纪实影像联展在昆明启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-07/10728133.shtml",
+        "publishedAt": "2026-11-07T21:25:34.000+08:00"
       },
       {
-        "title": "高市政府用“漫才”包装扩军政策有何企图？",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-07/10728161.shtml",
-        "publishedAt": "2026-11-07T21:14:58.000+08:00"
+        "title": "（第九届进博会）广西借进博会平台邀全球客商加大投资力度",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728135.shtml",
+        "publishedAt": "2026-11-07T21:25:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T21:25:00.483+08:00",
+    "fetchedAt": "2026-11-07T21:35:13.200+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T21:25:01.222+08:00",
+      "fetchedAt": "2026-11-07T21:35:13.944+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T02:25:02.000+08:00"
+          "resetAt": "2026-11-08T02:33:03.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T21:25:02.000+08:00"
+          "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T21:25:01.226+08:00",
+      "fetchedAt": "2026-11-07T21:35:13.948+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T21:25:01.237+08:00",
+      "fetchedAt": "2026-11-07T21:35:13.957+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T21:25:01.237+08:00",
+      "fetchedAt": "2026-11-07T21:35:13.957+08:00",
       "error": "未启用",
       "disabled": true
     }
