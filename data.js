@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T07:04:21.261+08:00",
+  "updatedAt": "2026-11-08T07:14:31.077+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-08T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T07:04:21.261+08:00",
+    "fetchedAt": "2026-11-08T07:14:31.077+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月8日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-08/10728200.shtml",
+        "publishedAt": "2026-11-08T07:04:24.000+08:00"
+      },
       {
         "title": "胡塞武装称沙特空袭萨那周边 已致27人死亡",
         "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728199.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "从“追顶流”到“追古流”，年轻人为何爱上“访古”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728196.shtml",
         "publishedAt": "2026-11-08T06:42:29.000+08:00"
-      },
-      {
-        "title": "大风+寒潮双预警！15省份部分地区降温超10°C",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728195.shtml",
-        "publishedAt": "2026-11-08T06:38:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T07:04:18.868+08:00",
+    "fetchedAt": "2026-11-08T07:14:28.732+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T07:04:19.338+08:00",
+      "fetchedAt": "2026-11-08T07:14:29.199+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T12:04:21.000+08:00"
+          "resetAt": "2026-11-08T12:14:30.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T21:33:03.000+08:00"
+          "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T07:04:19.340+08:00",
+      "fetchedAt": "2026-11-08T07:14:29.202+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T07:04:19.346+08:00",
+      "fetchedAt": "2026-11-08T07:14:29.207+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T07:04:19.346+08:00",
+      "fetchedAt": "2026-11-08T07:14:29.208+08:00",
       "error": "未启用",
       "disabled": true
     }
