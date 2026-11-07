@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T10:33:40.976+08:00",
+  "updatedAt": "2026-11-07T10:43:53.101+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-07T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T10:33:40.976+08:00",
+    "fetchedAt": "2026-11-07T10:43:53.101+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "他们的“进博第一天”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727792.shtml",
+        "publishedAt": "2026-11-07T10:36:11.000+08:00"
+      },
+      {
+        "title": "开“新”进博会丨“全勤生”与“新面孔”，都用行动投下信任票！",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727791.shtml",
+        "publishedAt": "2026-11-07T10:33:27.000+08:00"
+      },
       {
         "title": "第三届C Art艺术节在武汉举行 以当代艺术探索城市更新",
         "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727773.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "五支毛笔四支来自这里，千年小镇“写”出百亿元产业",
         "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727788.shtml",
         "publishedAt": "2026-11-07T10:20:51.000+08:00"
-      },
-      {
-        "title": "旅美大熊猫“平平”“福双”亮相亚特兰大动物园",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210082.shtml",
-        "publishedAt": "2026-11-07T10:20:03.000+08:00"
-      },
-      {
-        "title": "开源开放 共建共享——2026年世界互联网大会乌镇峰会综述",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727786.shtml",
-        "publishedAt": "2026-11-07T10:13:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T10:33:38.854+08:00",
+    "fetchedAt": "2026-11-07T10:43:50.360+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T10:33:39.282+08:00",
+      "fetchedAt": "2026-11-07T10:43:51.080+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-07T15:33:40.000+08:00"
+          "resetAt": "2026-11-07T15:43:52.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-07T15:04:01.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T10:33:39.284+08:00",
+      "fetchedAt": "2026-11-07T10:43:51.084+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T10:33:39.289+08:00",
+      "fetchedAt": "2026-11-07T10:43:51.094+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T10:33:39.289+08:00",
+      "fetchedAt": "2026-11-07T10:43:51.094+08:00",
       "error": "未启用",
       "disabled": true
     }
