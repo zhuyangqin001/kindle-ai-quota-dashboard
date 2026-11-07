@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T15:08:43.434+08:00",
+  "updatedAt": "2026-11-07T15:29:00.888+08:00",
   "weather": {
     "ok": true,
-    "description": "阵雨",
+    "description": "雨",
     "iconKey": "rain",
-    "tempC": 19.8,
-    "feelsLikeC": 21.5,
+    "tempC": 19.7,
+    "feelsLikeC": 21.2,
     "humidity": 95,
-    "windKph": 11.2,
+    "windKph": 11.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-07T15:08:43.434+08:00",
+    "observedAt": "2026-11-07T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-07T15:29:00.889+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "乌鲁木齐：援疆精品舞台剧《觉醒年代》吸引民众观看",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727888.shtml",
+        "publishedAt": "2026-11-07T15:23:47.000+08:00"
+      },
+      {
+        "title": "2026世界斯诺克巡回赛国际锦标赛：苏格兰选手约翰·希金斯晋级决赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727878.shtml",
+        "publishedAt": "2026-11-07T15:21:51.000+08:00"
+      },
+      {
+        "title": "广东东莞：狮子洋通道主塔封顶后转入上部结构施工",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-07/1210106.shtml",
+        "publishedAt": "2026-11-07T15:19:12.000+08:00"
+      },
       {
         "title": "中国社会科学院大学冷门绝学学院成立暨全国冷门绝学联盟启动",
         "url": "https://www.chinanews.com.cn/cul/2026/11-07/10727884.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "四川苍溪：国际摄影师用镜头讲述“苍溪故事”",
         "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727873.shtml",
         "publishedAt": "2026-11-07T14:55:23.000+08:00"
-      },
-      {
-        "title": "欧加隆携手京东健康 探索血脂健康管理创新实践",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727869.shtml",
-        "publishedAt": "2026-11-07T14:41:25.000+08:00"
-      },
-      {
-        "title": "中国风味，世界表达，产能领跑！历时三年半，郎酒峨上酒庄正式投产",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727862.shtml",
-        "publishedAt": "2026-11-07T14:40:39.000+08:00"
-      },
-      {
-        "title": "欧加隆携手美团医药健康深化战略合作 共建“家门口健康管理”服务生态",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727868.shtml",
-        "publishedAt": "2026-11-07T14:39:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T15:08:40.677+08:00",
+    "fetchedAt": "2026-11-07T15:28:57.601+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T15:08:41.449+08:00",
+      "fetchedAt": "2026-11-07T15:28:58.357+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T15:08:42.000+08:00"
+          "resetAt": "2026-11-14T15:29:00.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T15:08:41.452+08:00",
+      "fetchedAt": "2026-11-07T15:28:58.360+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T15:08:41.463+08:00",
+      "fetchedAt": "2026-11-07T15:28:58.371+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T15:08:41.463+08:00",
+      "fetchedAt": "2026-11-07T15:28:58.371+08:00",
       "error": "未启用",
       "disabled": true
     }
