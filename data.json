@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-07T17:10:43.878+08:00",
+  "updatedAt": "2026-11-07T17:20:55.334+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.4,
-    "feelsLikeC": 19,
+    "tempC": 18.3,
+    "feelsLikeC": 18.8,
     "humidity": 96,
-    "windKph": 15.4,
+    "windKph": 15.5,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-07T17:10:43.878+08:00",
+    "observedAt": "2026-11-07T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-07T17:20:55.334+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "矿业出海报告发布 建言矿企推动上下游产业协同",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727963.shtml",
+        "publishedAt": "2026-11-07T17:19:23.000+08:00"
+      },
+      {
+        "title": "中国科普作家协会发布2026年度十大科普热词 人工智能相关占据七席",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727962.shtml",
+        "publishedAt": "2026-11-07T17:05:28.000+08:00"
+      },
       {
         "title": "太极拳传承实践展演在重庆举行 600名爱好者共展非遗之美",
         "url": "https://www.chinanews.com.cn/sh/2026/11-07/10727961.shtml",
@@ -33,19 +43,9 @@
         "title": "兼具东方内核与国际审美 《只此青绿》等作品屡登国际舞台展中国文化底蕴",
         "url": "https://www.chinanews.com.cn/cul/2026/11-07/10727959.shtml",
         "publishedAt": "2026-11-07T17:02:48.000+08:00"
-      },
-      {
-        "title": "无人机海上着舰有多难？详解“攻击-21”着舰四川舰全流程",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727958.shtml",
-        "publishedAt": "2026-11-07T17:02:32.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）报告：中国企业全球化呈现新动能、深融合与强韧性三大趋势",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727957.shtml",
-        "publishedAt": "2026-11-07T17:01:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T17:10:40.633+08:00",
+    "fetchedAt": "2026-11-07T17:20:52.833+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T17:10:41.375+08:00",
+      "fetchedAt": "2026-11-07T17:20:53.482+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T17:10:43.000+08:00"
+          "resetAt": "2026-11-14T17:20:55.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T17:10:41.378+08:00",
+      "fetchedAt": "2026-11-07T17:20:53.485+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T17:10:41.388+08:00",
+      "fetchedAt": "2026-11-07T17:20:53.495+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T17:10:41.388+08:00",
+      "fetchedAt": "2026-11-07T17:20:53.495+08:00",
       "error": "未启用",
       "disabled": true
     }
