@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T17:41:20.629+08:00",
+  "updatedAt": "2026-11-07T17:51:32.427+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.2,
-    "feelsLikeC": 18.6,
-    "humidity": 96,
-    "windKph": 15.7,
+    "tempC": 18.1,
+    "feelsLikeC": 18.5,
+    "humidity": 97,
+    "windKph": 15.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-07T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-07T17:41:20.629+08:00",
+    "observedAt": "2026-11-07T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-07T17:51:32.428+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年名师巡讲活动走进马来西亚沙巴",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-07/10727980.shtml",
+        "publishedAt": "2026-11-07T17:44:19.000+08:00"
+      },
       {
         "title": "四川首次组团赴澳门推介民族手工业",
         "url": "https://www.chinanews.com.cn/tp/2026/11-07/10727927.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中外花滑选手在深圳感受“暖冬”与热情",
         "url": "https://www.chinanews.com.cn/ty/2026/11-07/10727973.shtml",
         "publishedAt": "2026-11-07T17:28:58.000+08:00"
-      },
-      {
-        "title": "在喀什，足球不缺土壤",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-07/10727972.shtml",
-        "publishedAt": "2026-11-07T17:27:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T17:41:17.556+08:00",
+    "fetchedAt": "2026-11-07T17:51:29.479+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T17:41:18.292+08:00",
+      "fetchedAt": "2026-11-07T17:51:30.224+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T17:41:20.000+08:00"
+          "resetAt": "2026-11-14T17:51:32.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T17:41:18.295+08:00",
+      "fetchedAt": "2026-11-07T17:51:30.227+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T17:41:18.305+08:00",
+      "fetchedAt": "2026-11-07T17:51:30.239+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T17:41:18.305+08:00",
+      "fetchedAt": "2026-11-07T17:51:30.239+08:00",
       "error": "未启用",
       "disabled": true
     }
