@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-07T21:45:27.294+08:00",
+  "updatedAt": "2026-11-07T21:55:37.474+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-07T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-07T21:45:27.294+08:00",
+    "fetchedAt": "2026-11-07T21:55:37.474+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（第九届进博会）百年茶缘续新篇 斯里兰卡红茶借进博会“回家”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728165.shtml",
+        "publishedAt": "2026-11-07T21:47:14.000+08:00"
+      },
+      {
+        "title": "原创性“中国方案”→国家法律制度 检察公益诉讼法明年起施行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-07/10728166.shtml",
+        "publishedAt": "2026-11-07T21:45:48.000+08:00"
+      },
       {
         "title": "巴渝地名“活”起来 在渝外籍师生同台读懂重庆",
         "url": "https://www.chinanews.com.cn/sh/2026/11-07/10728131.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国女排超级联赛开赛 天津队胜北京队迎“开门红”",
         "url": "https://www.chinanews.com.cn/ty/2026/11-07/10728122.shtml",
         "publishedAt": "2026-11-07T21:25:42.000+08:00"
-      },
-      {
-        "title": "以光影叩问真实 云南艺术学院纪实影像联展在昆明启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-07/10728133.shtml",
-        "publishedAt": "2026-11-07T21:25:34.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）广西借进博会平台邀全球客商加大投资力度",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728135.shtml",
-        "publishedAt": "2026-11-07T21:25:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-07T21:45:24.686+08:00",
+    "fetchedAt": "2026-11-07T21:55:35.461+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-07T21:45:25.349+08:00",
+      "fetchedAt": "2026-11-07T21:55:35.766+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-07T21:45:25.351+08:00",
+      "fetchedAt": "2026-11-07T21:55:35.768+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T21:45:25.360+08:00",
+      "fetchedAt": "2026-11-07T21:55:35.775+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-07T21:45:25.360+08:00",
+      "fetchedAt": "2026-11-07T21:55:35.775+08:00",
       "error": "未启用",
       "disabled": true
     }
