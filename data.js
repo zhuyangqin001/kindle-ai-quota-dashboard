@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T14:21:29.512+08:00",
+  "updatedAt": "2026-11-08T14:31:39.448+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.2,
+    "tempC": 18.1,
     "feelsLikeC": 19.3,
-    "humidity": 94,
-    "windKph": 9.5,
+    "humidity": 95,
+    "windKph": 9.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T14:15:00.000+08:00",
-    "fetchedAt": "2026-11-08T14:21:29.512+08:00",
+    "observedAt": "2026-11-08T14:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T14:31:39.448+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "2026年世界国际跳棋青少年锦标赛收官 中国队斩获四金",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728326.shtml",
+        "publishedAt": "2026-11-08T14:26:50.000+08:00"
+      },
+      {
+        "title": "成渝地区“一带一路”国际技术转移中心白俄罗斯节点建设正式启动",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-08/10728322.shtml",
+        "publishedAt": "2026-11-08T14:26:08.000+08:00"
+      },
+      {
+        "title": "全国119消防奖先进个人阳剑华：一只“蓝色背包”把安全背进村里",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728321.shtml",
+        "publishedAt": "2026-11-08T14:25:16.000+08:00"
+      },
+      {
+        "title": "不靠海却通江达海 重庆开州以港口为牵引构建现代化集疏运体系",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728317.shtml",
+        "publishedAt": "2026-11-08T14:24:24.000+08:00"
+      },
+      {
         "title": "西藏考古的话语权，如何从西方学者逐渐转移到中国学者手中？",
         "url": "https://www.chinanews.com.cn/dxw/2026/11-08/10728343.shtml",
         "publishedAt": "2026-11-08T14:05:13.000+08:00"
-      },
-      {
-        "title": "南宁粉纸扇扮靓城市 游客驻足打卡",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728333.shtml",
-        "publishedAt": "2026-11-08T13:53:57.000+08:00"
-      },
-      {
-        "title": "纪念孙中山先生诞辰160周年活动在菲律宾马尼拉举行",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-08/10728335.shtml",
-        "publishedAt": "2026-11-08T13:52:46.000+08:00"
-      },
-      {
-        "title": "广西规范华侨事务预算专项经费管理 推动侨务工作发展",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-08/10728328.shtml",
-        "publishedAt": "2026-11-08T13:48:46.000+08:00"
-      },
-      {
-        "title": "2025年我国海洋工程建筑业实现增加值2110亿元 同比增长0.3%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728316.shtml",
-        "publishedAt": "2026-11-08T13:48:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T14:21:27.268+08:00",
+    "fetchedAt": "2026-11-08T14:31:37.111+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T14:21:27.739+08:00",
+      "fetchedAt": "2026-11-08T14:31:37.577+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T19:21:29.000+08:00"
+          "resetAt": "2026-11-08T19:31:39.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T14:21:27.742+08:00",
+      "fetchedAt": "2026-11-08T14:31:37.580+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T14:21:27.748+08:00",
+      "fetchedAt": "2026-11-08T14:31:37.586+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T14:21:27.748+08:00",
+      "fetchedAt": "2026-11-08T14:31:37.586+08:00",
       "error": "未启用",
       "disabled": true
     }
