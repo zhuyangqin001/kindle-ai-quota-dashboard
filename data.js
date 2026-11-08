@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T08:56:04.749+08:00",
+  "updatedAt": "2026-11-08T09:06:14.811+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18,
+    "tempC": 18.2,
     "feelsLikeC": 20,
-    "humidity": 96,
-    "windKph": 4.2,
+    "humidity": 95,
+    "windKph": 5.2,
     "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T08:45:00.000+08:00",
-    "fetchedAt": "2026-11-08T08:56:04.749+08:00",
+    "observedAt": "2026-11-08T09:00:00.000+08:00",
+    "fetchedAt": "2026-11-08T09:06:14.811+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“五洲侨心促统情”海外代表人士主题交流分享会在江西赣州举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728215.shtml",
-        "publishedAt": "2026-11-08T08:44:36.000+08:00"
+        "title": "四川广元：航拍曾家山数万亩林海披上“黄金甲”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728225.shtml",
+        "publishedAt": "2026-11-08T08:51:50.000+08:00"
       },
       {
-        "title": "香港举办中小学生历史文化知识竞赛 超8万名学生参与",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-08/10728212.shtml",
-        "publishedAt": "2026-11-08T08:43:50.000+08:00"
+        "title": "湖北巴东：600余人立冬横渡三峡",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728226.shtml",
+        "publishedAt": "2026-11-08T08:51:16.000+08:00"
       },
       {
-        "title": "（第九届进博会）汽车技术跨界出圈 赋能具身智能新赛道",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728211.shtml",
-        "publishedAt": "2026-11-08T08:42:14.000+08:00"
+        "title": "2026中国杯世界花样滑冰大奖赛：女子单人滑·自由滑项目展开角逐",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728223.shtml",
+        "publishedAt": "2026-11-08T08:50:00.000+08:00"
       },
       {
-        "title": "聚焦AI等前沿科技领域 中欧青年创新产业对接活动在北京举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728209.shtml",
-        "publishedAt": "2026-11-08T08:37:27.000+08:00"
+        "title": "浙江杭州：市民游客打卡杭州ADM展 解锁多元生活方式",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728228.shtml",
+        "publishedAt": "2026-11-08T08:47:54.000+08:00"
       },
       {
-        "title": "近百名专家聚海南研讨海洋地震科技 赋能自贸港安全发展",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728214.shtml",
-        "publishedAt": "2026-11-08T08:36:39.000+08:00"
+        "title": "浙江省第十二届残疾人运动会在衢州开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728227.shtml",
+        "publishedAt": "2026-11-08T08:47:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T08:56:02.504+08:00",
+    "fetchedAt": "2026-11-08T09:06:12.362+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T08:56:02.971+08:00",
+      "fetchedAt": "2026-11-08T09:06:12.827+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T13:56:04.000+08:00"
+          "resetAt": "2026-11-08T14:06:14.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T08:56:02.974+08:00",
+      "fetchedAt": "2026-11-08T09:06:12.830+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T08:56:02.980+08:00",
+      "fetchedAt": "2026-11-08T09:06:12.835+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T08:56:02.980+08:00",
+      "fetchedAt": "2026-11-08T09:06:12.835+08:00",
       "error": "未启用",
       "disabled": true
     }
