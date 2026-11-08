@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T10:47:54.784+08:00",
+  "updatedAt": "2026-11-08T10:58:06.721+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-08T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-08T10:47:54.784+08:00",
+    "fetchedAt": "2026-11-08T10:58:06.721+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "人手一个全职管家的时代来了？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728265.shtml",
-        "publishedAt": "2026-11-08T10:36:14.000+08:00"
+        "title": "胡塞武装称沙特空袭也门萨那周边",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210168.shtml",
+        "publishedAt": "2026-11-08T10:54:20.000+08:00"
       },
       {
-        "title": "青春华章 疆来可期丨邝斐婷：传承袁隆平院士精神，让一粒种子在新疆沙漠扎下根",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728262.shtml",
-        "publishedAt": "2026-11-08T10:33:16.000+08:00"
+        "title": "从“进博好物”看消费新趋势",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728270.shtml",
+        "publishedAt": "2026-11-08T10:53:59.000+08:00"
       },
       {
-        "title": "民众参观红军西路军进疆纪念馆",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210164.shtml",
-        "publishedAt": "2026-11-08T10:27:43.000+08:00"
+        "title": "日媒：日本新版防卫战略或强化“持续作战能力”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728269.shtml",
+        "publishedAt": "2026-11-08T10:49:19.000+08:00"
       },
       {
-        "title": "举重世锦赛：廖桂芳摘得三金 刷新两项世界纪录",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728252.shtml",
-        "publishedAt": "2026-11-08T10:25:09.000+08:00"
+        "title": "中国杯世界花样滑冰大奖赛：米希纳/加利亚莫夫夺得双人滑冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728245.shtml",
+        "publishedAt": "2026-11-08T10:48:48.000+08:00"
       },
       {
-        "title": "国家图书馆举办“纪念八大山人诞辰400周年”国图公开课特别活动",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728249.shtml",
-        "publishedAt": "2026-11-08T10:24:21.000+08:00"
+        "title": "立冬迎初雪 五台山银装素裹、美不胜收",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728246.shtml",
+        "publishedAt": "2026-11-08T10:44:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T10:47:52.530+08:00",
+    "fetchedAt": "2026-11-08T10:58:03.643+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T10:47:53.048+08:00",
+      "fetchedAt": "2026-11-08T10:58:04.483+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T15:47:54.000+08:00"
+          "resetAt": "2026-11-08T15:58:06.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T10:47:53.050+08:00",
+      "fetchedAt": "2026-11-08T10:58:04.486+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T10:47:53.057+08:00",
+      "fetchedAt": "2026-11-08T10:58:04.496+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T10:47:53.057+08:00",
+      "fetchedAt": "2026-11-08T10:58:04.496+08:00",
       "error": "未启用",
       "disabled": true
     }
