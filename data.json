@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-08T23:11:06.495+08:00",
+  "updatedAt": "2026-11-08T23:21:18.534+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.5,
-    "feelsLikeC": 12.7,
+    "tempC": 14.3,
+    "feelsLikeC": 12.5,
     "humidity": 90,
-    "windKph": 17.9,
+    "windKph": 18.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T23:11:06.496+08:00",
+    "observedAt": "2026-11-08T23:15:00.000+08:00",
+    "fetchedAt": "2026-11-08T23:21:18.534+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "举重世锦赛落幕：中国队夺得17金10银6铜",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728569.shtml",
+        "publishedAt": "2026-11-08T23:16:05.000+08:00"
+      },
       {
         "title": "畅通教育科技人才良性循环 为新质生产力蓄势赋能",
         "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728567.shtml",
@@ -38,14 +43,9 @@
         "title": "风雪迎冠，荣光归城——大连英博加冕中超冠军侧记",
         "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728563.shtml",
         "publishedAt": "2026-11-08T22:09:45.000+08:00"
-      },
-      {
-        "title": "中超末轮综述：英博大逆转夺冠 蓉城不敌泰山功亏一篑",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728562.shtml",
-        "publishedAt": "2026-11-08T22:08:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T23:11:03.687+08:00",
+    "fetchedAt": "2026-11-08T23:21:15.964+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T23:11:04.418+08:00",
+      "fetchedAt": "2026-11-08T23:21:16.715+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T23:11:04.421+08:00",
+      "fetchedAt": "2026-11-08T23:21:16.718+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T23:11:04.430+08:00",
+      "fetchedAt": "2026-11-08T23:21:16.728+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T23:11:04.431+08:00",
+      "fetchedAt": "2026-11-08T23:21:16.728+08:00",
       "error": "未启用",
       "disabled": true
     }
