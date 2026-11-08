@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T09:46:57.081+08:00",
+  "updatedAt": "2026-11-08T10:07:12.701+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 18.2,
     "feelsLikeC": 19.5,
     "humidity": 94,
-    "windKph": 8.2,
+    "windKph": 9.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-08T09:46:57.081+08:00",
+    "observedAt": "2026-11-08T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-08T10:07:12.701+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第九届虹桥国际经济论坛举行，与会人士呼吁——坚守多边主义，推进普惠包容的经济全球化",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728239.shtml",
+        "publishedAt": "2026-11-08T09:43:59.000+08:00"
+      },
       {
         "title": "中国新闻社7件作品获中国新闻奖，2件作品一等奖！",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728238.shtml",
@@ -30,7 +35,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-08T09:33:10.000+08:00"
       },
       {
-        "title": "光“星巴扎”就破防？那我告诉你，国际酒店也成群去新疆了",
+        "title": "国际酒店“集体抢滩”新疆",
         "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728236.shtml",
         "publishedAt": "2026-11-08T09:20:38.000+08:00"
       },
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "日本静冈县西部发生5.7级地震",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210155.shtml",
         "publishedAt": "2026-11-08T09:16:15.000+08:00"
-      },
-      {
-        "title": "广西开行首趟“八桂嗦粉”主题旅游列车 列车上设有米粉展示区",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728219.shtml",
-        "publishedAt": "2026-11-08T09:15:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T09:46:54.444+08:00",
+    "fetchedAt": "2026-11-08T10:07:10.137+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T09:46:54.877+08:00",
+      "fetchedAt": "2026-11-08T10:07:10.613+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T14:46:56.000+08:00"
+          "resetAt": "2026-11-08T15:07:12.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T09:46:54.878+08:00",
+      "fetchedAt": "2026-11-08T10:07:10.616+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T09:46:54.883+08:00",
+      "fetchedAt": "2026-11-08T10:07:10.622+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T09:46:54.884+08:00",
+      "fetchedAt": "2026-11-08T10:07:10.622+08:00",
       "error": "未启用",
       "disabled": true
     }
