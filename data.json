@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-08T21:29:11.973+08:00",
+  "updatedAt": "2026-11-08T21:39:23.676+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.5,
-    "feelsLikeC": 14.4,
-    "humidity": 91,
-    "windKph": 16.3,
+    "tempC": 15.4,
+    "feelsLikeC": 14.1,
+    "humidity": 90,
+    "windKph": 16.5,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-08T21:29:11.973+08:00",
+    "observedAt": "2026-11-08T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T21:39:23.676+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "以首发经济看进博：一场关于“未来”的剧透",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728549.shtml",
+        "publishedAt": "2026-11-08T21:26:35.000+08:00"
+      },
       {
         "title": "埃及列车脱轨事故致司机死亡 64人受伤",
         "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728548.shtml",
@@ -38,14 +43,9 @@
         "title": "舞剧《五星出东方》将亮相希腊舞台",
         "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728538.shtml",
         "publishedAt": "2026-11-08T21:02:24.000+08:00"
-      },
-      {
-        "title": "尼泊尔举行敬狗日庆祝活动 呼吁关注动物福利",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728534.shtml",
-        "publishedAt": "2026-11-08T21:02:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T21:29:09.256+08:00",
+    "fetchedAt": "2026-11-08T21:39:21.038+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T21:29:09.998+08:00",
+      "fetchedAt": "2026-11-08T21:39:21.783+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@
         {
           "name": "周",
           "usedPct": 2,
-          "resetAt": "2026-11-14T21:33:03.000+08:00"
+          "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T21:29:10.001+08:00",
+      "fetchedAt": "2026-11-08T21:39:21.786+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T21:29:10.008+08:00",
+      "fetchedAt": "2026-11-08T21:39:21.796+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T21:29:10.008+08:00",
+      "fetchedAt": "2026-11-08T21:39:21.796+08:00",
       "error": "未启用",
       "disabled": true
     }
