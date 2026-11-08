@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T20:38:12.963+08:00",
+  "updatedAt": "2026-11-08T20:48:25.430+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.9,
-    "feelsLikeC": 15,
-    "humidity": 93,
-    "windKph": 16.5,
+    "tempC": 15.8,
+    "feelsLikeC": 14.8,
+    "humidity": 92,
+    "windKph": 16.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T20:38:12.963+08:00",
+    "observedAt": "2026-11-08T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-08T20:48:25.430+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "闲置资产变身医养小院 青海同仁各族老人开启融居生活",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-08/10728515.shtml",
-        "publishedAt": "2026-11-08T20:33:26.000+08:00"
+        "title": "2026河北文旅走进大湾区宣传推广活动进入深圳",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-08/10728512.shtml",
+        "publishedAt": "2026-11-08T20:39:06.000+08:00"
       },
       {
-        "title": "2026喀什马拉松鸣笛开跑",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728509.shtml",
-        "publishedAt": "2026-11-08T20:32:24.000+08:00"
+        "title": "2026赛季中国足球超级联赛收官 大连英博夺冠",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728519.shtml",
+        "publishedAt": "2026-11-08T20:38:38.000+08:00"
       },
       {
-        "title": "广西钦州市获2028年广西文化旅游发展大会承办权",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728508.shtml",
-        "publishedAt": "2026-11-08T20:31:38.000+08:00"
+        "title": "北京市向台生台青推介500余个就业实习机会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728520.shtml",
+        "publishedAt": "2026-11-08T20:38:02.000+08:00"
       },
       {
-        "title": "广西文化旅游产业招商推介会现场集中签约21个项目",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728507.shtml",
-        "publishedAt": "2026-11-08T20:31:04.000+08:00"
+        "title": "2026年APEC领导人会议周新闻中心网站上线",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728521.shtml",
+        "publishedAt": "2026-11-08T20:37:50.000+08:00"
       },
       {
-        "title": "山西太原一高层建筑发生火灾",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210269.shtml",
-        "publishedAt": "2026-11-08T20:30:19.000+08:00"
+        "title": "共绘出海新蓝图 2026专精特新企业国际化发展大会在沪举行",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-08/10728522.shtml",
+        "publishedAt": "2026-11-08T20:36:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T20:38:10.376+08:00",
+    "fetchedAt": "2026-11-08T20:48:22.851+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T20:38:11.125+08:00",
+      "fetchedAt": "2026-11-08T20:48:23.490+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T20:38:11.128+08:00",
+      "fetchedAt": "2026-11-08T20:48:23.494+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T20:38:11.134+08:00",
+      "fetchedAt": "2026-11-08T20:48:23.504+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T20:38:11.134+08:00",
+      "fetchedAt": "2026-11-08T20:48:23.504+08:00",
       "error": "未启用",
       "disabled": true
     }
