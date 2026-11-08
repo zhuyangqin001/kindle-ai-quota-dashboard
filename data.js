@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T20:48:25.430+08:00",
+  "updatedAt": "2026-11-08T20:58:36.678+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-08T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-08T20:48:25.430+08:00",
+    "fetchedAt": "2026-11-08T20:58:36.678+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026河北文旅走进大湾区宣传推广活动进入深圳",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-08/10728512.shtml",
-        "publishedAt": "2026-11-08T20:39:06.000+08:00"
+        "title": "文旅体商加速融合释放消费潜力——中国经济三季报亮点解析",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728531.shtml",
+        "publishedAt": "2026-11-08T20:48:59.000+08:00"
       },
       {
-        "title": "2026赛季中国足球超级联赛收官 大连英博夺冠",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728519.shtml",
-        "publishedAt": "2026-11-08T20:38:38.000+08:00"
+        "title": "埃及发生火车脱轨事故 已致约50人受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728530.shtml",
+        "publishedAt": "2026-11-08T20:46:53.000+08:00"
       },
       {
-        "title": "北京市向台生台青推介500余个就业实习机会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728520.shtml",
-        "publishedAt": "2026-11-08T20:38:02.000+08:00"
+        "title": "新华社快讯：埃及发生列车脱轨事故致至少50人受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728529.shtml",
+        "publishedAt": "2026-11-08T20:44:59.000+08:00"
       },
       {
-        "title": "2026年APEC领导人会议周新闻中心网站上线",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728521.shtml",
-        "publishedAt": "2026-11-08T20:37:50.000+08:00"
+        "title": "“局部理想主义”沙龙在京举办 《村庄无小事》记录基层变迁",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728506.shtml",
+        "publishedAt": "2026-11-08T20:43:23.000+08:00"
       },
       {
-        "title": "共绘出海新蓝图 2026专精特新企业国际化发展大会在沪举行",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-08/10728522.shtml",
-        "publishedAt": "2026-11-08T20:36:38.000+08:00"
+        "title": "（第九届进博会）借进博之窗融通中外 世界500强华侨华人高管共话AI全球化新机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728513.shtml",
+        "publishedAt": "2026-11-08T20:42:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T20:48:22.851+08:00",
+    "fetchedAt": "2026-11-08T20:58:34.197+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T20:48:23.490+08:00",
+      "fetchedAt": "2026-11-08T20:58:34.830+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T20:48:23.494+08:00",
+      "fetchedAt": "2026-11-08T20:58:34.833+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T20:48:23.504+08:00",
+      "fetchedAt": "2026-11-08T20:58:34.844+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T20:48:23.504+08:00",
+      "fetchedAt": "2026-11-08T20:58:34.844+08:00",
       "error": "未启用",
       "disabled": true
     }
