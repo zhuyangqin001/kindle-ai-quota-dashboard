@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T23:31:31.354+08:00",
+  "updatedAt": "2026-11-08T23:41:42.224+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-08T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T23:31:31.354+08:00",
+    "fetchedAt": "2026-11-08T23:41:42.225+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026中超盘点：竞争格局下的奇迹上演与神话破灭",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728572.shtml",
+        "publishedAt": "2026-11-08T23:30:40.000+08:00"
+      },
       {
         "title": "举重世锦赛落幕：中国队夺得17金10银6铜",
         "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728569.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "WTA250香港公开赛收官 美国选手刘婧文击败菲律宾选手埃亚拉夺得女单冠军",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-08/10728566.shtml",
         "publishedAt": "2026-11-08T22:25:50.000+08:00"
-      },
-      {
-        "title": "风雪迎冠，荣光归城——大连英博加冕中超冠军侧记",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728563.shtml",
-        "publishedAt": "2026-11-08T22:09:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T23:31:28.606+08:00",
+    "fetchedAt": "2026-11-08T23:41:39.635+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T23:31:29.348+08:00",
+      "fetchedAt": "2026-11-08T23:41:40.365+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T04:31:31.000+08:00"
+          "resetAt": "2026-11-09T04:41:42.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T23:31:29.351+08:00",
+      "fetchedAt": "2026-11-08T23:41:40.368+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T23:31:29.361+08:00",
+      "fetchedAt": "2026-11-08T23:41:40.379+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T23:31:29.361+08:00",
+      "fetchedAt": "2026-11-08T23:41:40.379+08:00",
       "error": "未启用",
       "disabled": true
     }
