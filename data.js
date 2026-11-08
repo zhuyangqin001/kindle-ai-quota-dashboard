@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T18:46:05.836+08:00",
+  "updatedAt": "2026-11-08T18:56:18.488+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-08T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-08T18:46:05.837+08:00",
+    "fetchedAt": "2026-11-08T18:56:18.488+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "寒潮继续影响中东部地区 云南等地多降水",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728462.shtml",
+        "publishedAt": "2026-11-08T18:45:54.000+08:00"
+      },
       {
         "title": "山西太原一高层建筑发生火灾 消防人员仍在扑救",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728461.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026中国杯世界花样滑冰大奖赛：男子单人滑·自由滑项目展开角逐",
         "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728445.shtml",
         "publishedAt": "2026-11-08T18:25:27.000+08:00"
-      },
-      {
-        "title": "河南新乡：蔬菜智慧种植引民众参观打卡",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728437.shtml",
-        "publishedAt": "2026-11-08T18:24:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T18:46:03.041+08:00",
+    "fetchedAt": "2026-11-08T18:56:15.952+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T18:46:03.766+08:00",
+      "fetchedAt": "2026-11-08T18:56:16.700+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T18:46:03.769+08:00",
+      "fetchedAt": "2026-11-08T18:56:16.704+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T18:46:03.779+08:00",
+      "fetchedAt": "2026-11-08T18:56:16.713+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T18:46:03.779+08:00",
+      "fetchedAt": "2026-11-08T18:56:16.714+08:00",
       "error": "未启用",
       "disabled": true
     }
