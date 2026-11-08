@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-08T15:42:48.360+08:00",
+  "updatedAt": "2026-11-08T15:52:58.841+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.4,
+    "tempC": 18.3,
     "feelsLikeC": 18.8,
     "humidity": 88,
-    "windKph": 12.1,
+    "windKph": 11.5,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T15:42:48.361+08:00",
+    "observedAt": "2026-11-08T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-08T15:52:58.841+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "红色中华报：跨越95年的回响｜一张布告 人民江山",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728361.shtml",
+        "publishedAt": "2026-11-08T15:40:52.000+08:00"
+      },
       {
         "title": "12分10板 杨瀚森拿下NBA生涯首个两双",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210208.shtml",
@@ -38,14 +43,9 @@
         "title": "国际锐评丨进博之约让世界共享开放红利",
         "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728355.shtml",
         "publishedAt": "2026-11-08T15:18:41.000+08:00"
-      },
-      {
-        "title": "波兰克拉科夫发生枪击事件 已致6死16伤",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210194.shtml",
-        "publishedAt": "2026-11-08T15:11:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T15:42:45.287+08:00",
+    "fetchedAt": "2026-11-08T15:52:56.601+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T15:42:46.248+08:00",
+      "fetchedAt": "2026-11-08T15:52:57.081+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T20:42:48.000+08:00"
+          "resetAt": "2026-11-08T20:52:58.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T15:42:46.250+08:00",
+      "fetchedAt": "2026-11-08T15:52:57.083+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T15:42:46.258+08:00",
+      "fetchedAt": "2026-11-08T15:52:57.089+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T15:42:46.259+08:00",
+      "fetchedAt": "2026-11-08T15:52:57.089+08:00",
       "error": "未启用",
       "disabled": true
     }
