@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-08T11:08:18.078+08:00",
+  "updatedAt": "2026-11-08T11:18:28.405+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.3,
+    "tempC": 18.4,
     "feelsLikeC": 19.7,
     "humidity": 94,
-    "windKph": 8.1,
+    "windKph": 8.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T11:08:18.079+08:00",
+    "observedAt": "2026-11-08T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-08T11:18:28.405+08:00",
     "error": null
   },
   "news": {
@@ -20,8 +20,18 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "广东近300名女篮运动员齐聚中山“以球会友”",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728288.shtml",
+        "publishedAt": "2026-11-08T11:09:22.000+08:00"
+      },
+      {
+        "title": "（第九届进博会）上海美国商会会长：带美国中小企业参加“甲级联赛”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728277.shtml",
+        "publishedAt": "2026-11-08T11:05:15.000+08:00"
+      },
+      {
         "title": "评论：台企“回流”大陆印证产供链深度嵌合",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728278.shtml",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728278.shtml",
         "publishedAt": "2026-11-08T11:03:37.000+08:00"
       },
       {
@@ -33,19 +43,9 @@
         "title": "日本静冈县地震已致20余人受伤",
         "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728274.shtml",
         "publishedAt": "2026-11-08T10:59:33.000+08:00"
-      },
-      {
-        "title": "心脑血管急症身体会有哪些预警？这些症状要警惕",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-08/10728273.shtml",
-        "publishedAt": "2026-11-08T10:57:21.000+08:00"
-      },
-      {
-        "title": "日本有识之士：热播日剧颠倒黑白别有用心 缺乏正确史观",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728272.shtml",
-        "publishedAt": "2026-11-08T10:55:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T11:08:15.597+08:00",
+    "fetchedAt": "2026-11-08T11:18:26.106+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T11:08:16.070+08:00",
+      "fetchedAt": "2026-11-08T11:18:26.565+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T16:08:17.000+08:00"
+          "resetAt": "2026-11-08T16:18:27.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T11:08:16.074+08:00",
+      "fetchedAt": "2026-11-08T11:18:26.568+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T11:08:16.081+08:00",
+      "fetchedAt": "2026-11-08T11:18:26.574+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T11:08:16.081+08:00",
+      "fetchedAt": "2026-11-08T11:18:26.574+08:00",
       "error": "未启用",
       "disabled": true
     }
