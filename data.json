@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-08T16:23:33.834+08:00",
+  "updatedAt": "2026-11-08T16:33:44.713+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 18.1,
-    "feelsLikeC": 18.6,
-    "humidity": 90,
-    "windKph": 11.4,
+    "tempC": 18,
+    "feelsLikeC": 18.5,
+    "humidity": 91,
+    "windKph": 11.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-08T16:23:33.834+08:00",
+    "observedAt": "2026-11-08T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T16:33:44.713+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "河北唐山：初迎降雪 冬景如画",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728378.shtml",
-        "publishedAt": "2026-11-08T16:15:58.000+08:00"
+        "title": "当AI也能画水墨，艺术家的价值在哪里？",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728374.shtml",
+        "publishedAt": "2026-11-08T16:25:03.000+08:00"
       },
       {
-        "title": "湖北省政务领域无人机大队成立",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728390.shtml",
-        "publishedAt": "2026-11-08T16:15:44.000+08:00"
+        "title": "重大革命题材电视剧《伟大的长征》创作座谈会在京召开",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728373.shtml",
+        "publishedAt": "2026-11-08T16:23:47.000+08:00"
       },
       {
-        "title": "河南鹿邑：寻迹老子故里，品读道家文脉",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728377.shtml",
-        "publishedAt": "2026-11-08T16:15:30.000+08:00"
+        "title": "2026中国·白沟国际箱包博览会开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728372.shtml",
+        "publishedAt": "2026-11-08T16:21:53.000+08:00"
       },
       {
-        "title": "一半载客一半赶集：乌蒙山慢火车成流动“乡村集市”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728391.shtml",
-        "publishedAt": "2026-11-08T16:14:48.000+08:00"
+        "title": "近万名中外选手畅跑2026重庆荣昌马拉松",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728370.shtml",
+        "publishedAt": "2026-11-08T16:20:58.000+08:00"
       },
       {
-        "title": "（第九届进博会）进博会看外企新动作：从“在中国销售”到深入布局“在中国智造”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728385.shtml",
-        "publishedAt": "2026-11-08T16:13:56.000+08:00"
+        "title": "2026眉山东坡马拉松比赛鸣枪开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728388.shtml",
+        "publishedAt": "2026-11-08T16:20:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T16:23:31.346+08:00",
+    "fetchedAt": "2026-11-08T16:33:42.281+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T16:23:32.052+08:00",
+      "fetchedAt": "2026-11-08T16:33:42.869+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T21:23:33.000+08:00"
+          "resetAt": "2026-11-08T21:33:44.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T21:33:02.000+08:00"
+          "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T16:23:32.055+08:00",
+      "fetchedAt": "2026-11-08T16:33:42.872+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T16:23:32.062+08:00",
+      "fetchedAt": "2026-11-08T16:33:42.880+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T16:23:32.063+08:00",
+      "fetchedAt": "2026-11-08T16:33:42.880+08:00",
       "error": "未启用",
       "disabled": true
     }
