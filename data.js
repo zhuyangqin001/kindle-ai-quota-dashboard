@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T15:12:21.035+08:00",
+  "updatedAt": "2026-11-08T15:32:37.099+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.5,
-    "feelsLikeC": 18.9,
-    "humidity": 89,
-    "windKph": 12.6,
+    "tempC": 18.4,
+    "feelsLikeC": 18.8,
+    "humidity": 88,
+    "windKph": 12.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T15:12:21.035+08:00",
+    "observedAt": "2026-11-08T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T15:32:37.100+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "口袋绿地、便民工坊 群众家门口有了“幸福圈”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728357.shtml",
+        "publishedAt": "2026-11-08T15:27:40.000+08:00"
+      },
+      {
+        "title": "以更优服务解决群众急难愁盼（贯彻五中全会精神一线见闻）",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728356.shtml",
+        "publishedAt": "2026-11-08T15:23:09.000+08:00"
+      },
+      {
+        "title": "国际锐评丨进博之约让世界共享开放红利",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728355.shtml",
+        "publishedAt": "2026-11-08T15:18:41.000+08:00"
+      },
+      {
+        "title": "波兰克拉科夫发生枪击事件 已致6死16伤",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210194.shtml",
+        "publishedAt": "2026-11-08T15:11:37.000+08:00"
+      },
+      {
         "title": "数据中心回收服务器余热 为供暖提供“热源”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728353.shtml",
         "publishedAt": "2026-11-08T15:05:30.000+08:00"
-      },
-      {
-        "title": "综述｜从亲历到读懂：国际媒体人士共话真实中国",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728352.shtml",
-        "publishedAt": "2026-11-08T15:01:50.000+08:00"
-      },
-      {
-        "title": "全国消防日 | 火灾调查行家说：冷静判断、科学逃生是保命根本",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728351.shtml",
-        "publishedAt": "2026-11-08T14:52:56.000+08:00"
-      },
-      {
-        "title": "住宅楼起火如何正确逃生？2个避险误区要警惕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728344.shtml",
-        "publishedAt": "2026-11-08T14:30:49.000+08:00"
-      },
-      {
-        "title": "2026年世界国际跳棋青少年锦标赛收官 中国队斩获四金",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728326.shtml",
-        "publishedAt": "2026-11-08T14:26:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T15:12:18.641+08:00",
+    "fetchedAt": "2026-11-08T15:32:34.303+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T15:12:19.097+08:00",
+      "fetchedAt": "2026-11-08T15:32:34.791+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T20:12:20.000+08:00"
+          "resetAt": "2026-11-08T20:32:36.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T15:12:19.099+08:00",
+      "fetchedAt": "2026-11-08T15:32:34.793+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T15:12:19.106+08:00",
+      "fetchedAt": "2026-11-08T15:32:34.800+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T15:12:19.106+08:00",
+      "fetchedAt": "2026-11-08T15:32:34.800+08:00",
       "error": "未启用",
       "disabled": true
     }
