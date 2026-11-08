@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T08:05:17.298+08:00",
+  "updatedAt": "2026-11-08T08:15:27.759+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.5,
-    "feelsLikeC": 19.7,
+    "tempC": 17.7,
+    "feelsLikeC": 19.8,
     "humidity": 97,
-    "windKph": 2.3,
+    "windKph": 2.4,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T08:05:17.298+08:00",
+    "observedAt": "2026-11-08T08:15:00.000+08:00",
+    "fetchedAt": "2026-11-08T08:15:27.759+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728204.shtml",
+        "publishedAt": "2026-11-08T08:02:22.000+08:00"
+      },
       {
         "title": "日本静冈县西部发生5.7级地震",
         "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728203.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "11月8日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-08/10728200.shtml",
         "publishedAt": "2026-11-08T07:04:24.000+08:00"
-      },
-      {
-        "title": "胡塞武装称沙特空袭萨那周边 已致27人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728199.shtml",
-        "publishedAt": "2026-11-08T06:53:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T08:05:14.805+08:00",
+    "fetchedAt": "2026-11-08T08:15:25.318+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T08:05:15.265+08:00",
+      "fetchedAt": "2026-11-08T08:15:25.778+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T13:05:17.000+08:00"
+          "resetAt": "2026-11-08T13:15:27.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T08:05:15.268+08:00",
+      "fetchedAt": "2026-11-08T08:15:25.781+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T08:05:15.275+08:00",
+      "fetchedAt": "2026-11-08T08:15:25.786+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T08:05:15.275+08:00",
+      "fetchedAt": "2026-11-08T08:15:25.787+08:00",
       "error": "未启用",
       "disabled": true
     }
