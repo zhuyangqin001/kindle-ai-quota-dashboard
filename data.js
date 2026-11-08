@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T13:20:32.758+08:00",
+  "updatedAt": "2026-11-08T13:30:43.066+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 18.2,
     "feelsLikeC": 19.3,
-    "humidity": 95,
-    "windKph": 10.6,
+    "humidity": 94,
+    "windKph": 10.3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-08T13:20:32.758+08:00",
+    "observedAt": "2026-11-08T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T13:30:43.066+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（第九届进博会）进博会上，全球合作社好物“组团”入华",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728305.shtml",
+        "publishedAt": "2026-11-08T13:20:11.000+08:00"
+      },
+      {
+        "title": "受大风影响 辽鲁省际、大连陆岛客运全线停航",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728306.shtml",
+        "publishedAt": "2026-11-08T13:18:13.000+08:00"
+      },
       {
         "title": "新一代通信网加快建设 筑牢高质量发展数字底座",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728299.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "跨国组队竞牌艺 2026年亚太秋季桥牌公开赛在山东青岛收官",
         "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728287.shtml",
         "publishedAt": "2026-11-08T11:23:44.000+08:00"
-      },
-      {
-        "title": "地球深部探测与亚洲四维地形国际研讨会在京开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728289.shtml",
-        "publishedAt": "2026-11-08T11:23:32.000+08:00"
-      },
-      {
-        "title": "AI技术在财务领域加速应用 报告建言建立规范可操作流程",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728290.shtml",
-        "publishedAt": "2026-11-08T11:22:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T13:20:30.507+08:00",
+    "fetchedAt": "2026-11-08T13:30:40.802+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T13:20:30.968+08:00",
+      "fetchedAt": "2026-11-08T13:30:41.266+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T18:20:32.000+08:00"
+          "resetAt": "2026-11-08T18:30:42.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T13:20:30.970+08:00",
+      "fetchedAt": "2026-11-08T13:30:41.269+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T13:20:30.976+08:00",
+      "fetchedAt": "2026-11-08T13:30:41.275+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T13:20:30.976+08:00",
+      "fetchedAt": "2026-11-08T13:30:41.275+08:00",
       "error": "未启用",
       "disabled": true
     }
