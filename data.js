@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T15:32:37.099+08:00",
+  "updatedAt": "2026-11-08T15:42:48.360+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-08T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T15:32:37.100+08:00",
+    "fetchedAt": "2026-11-08T15:42:48.361+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "12分10板 杨瀚森拿下NBA生涯首个两双",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210208.shtml",
+        "publishedAt": "2026-11-08T15:32:25.000+08:00"
+      },
       {
         "title": "口袋绿地、便民工坊 群众家门口有了“幸福圈”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728357.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "波兰克拉科夫发生枪击事件 已致6死16伤",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210194.shtml",
         "publishedAt": "2026-11-08T15:11:37.000+08:00"
-      },
-      {
-        "title": "数据中心回收服务器余热 为供暖提供“热源”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728353.shtml",
-        "publishedAt": "2026-11-08T15:05:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T15:32:34.303+08:00",
+    "fetchedAt": "2026-11-08T15:42:45.287+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T15:32:34.791+08:00",
+      "fetchedAt": "2026-11-08T15:42:46.248+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T20:32:36.000+08:00"
+          "resetAt": "2026-11-08T20:42:48.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T15:32:34.793+08:00",
+      "fetchedAt": "2026-11-08T15:42:46.250+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T15:32:34.800+08:00",
+      "fetchedAt": "2026-11-08T15:42:46.258+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T15:32:34.800+08:00",
+      "fetchedAt": "2026-11-08T15:42:46.259+08:00",
       "error": "未启用",
       "disabled": true
     }
