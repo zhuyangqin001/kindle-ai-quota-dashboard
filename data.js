@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T21:39:23.676+08:00",
+  "updatedAt": "2026-11-08T21:49:35.438+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.4,
-    "feelsLikeC": 14.1,
-    "humidity": 90,
-    "windKph": 16.5,
+    "tempC": 15.3,
+    "feelsLikeC": 13.9,
+    "humidity": 89,
+    "windKph": 16.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T21:39:23.676+08:00",
+    "observedAt": "2026-11-08T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-08T21:49:35.439+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "以首发经济看进博：一场关于“未来”的剧透",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728549.shtml",
-        "publishedAt": "2026-11-08T21:26:35.000+08:00"
+        "title": "2026年红河流域中越合作周在河口开幕 边交会同步举办",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-08/10728555.shtml",
+        "publishedAt": "2026-11-08T21:44:26.000+08:00"
       },
       {
-        "title": "埃及列车脱轨事故致司机死亡 64人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728548.shtml",
-        "publishedAt": "2026-11-08T21:20:13.000+08:00"
+        "title": "民众齐唱《小白杨》送别词作家梁上泉",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728554.shtml",
+        "publishedAt": "2026-11-08T21:43:46.000+08:00"
       },
       {
-        "title": "“人民创生·美美共融——中国社区公共艺术创新成果展”首展在渝启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728532.shtml",
-        "publishedAt": "2026-11-08T21:04:50.000+08:00"
+        "title": "铸牢共同体 中华一家亲丨六星街：奏响多民族共居共乐的“最美和声”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-08/10728553.shtml",
+        "publishedAt": "2026-11-08T21:40:36.000+08:00"
       },
       {
-        "title": "山西太原一高层建筑发生火灾 有人员送医",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728536.shtml",
-        "publishedAt": "2026-11-08T21:04:20.000+08:00"
+        "title": "专访美中贸易全国委员会会长：美企不希望看到贸易保护主义抬头",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728551.shtml",
+        "publishedAt": "2026-11-08T21:35:05.000+08:00"
       },
       {
-        "title": "舞剧《五星出东方》将亮相希腊舞台",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728538.shtml",
-        "publishedAt": "2026-11-08T21:02:24.000+08:00"
+        "title": "对接、洽谈、签约 进博会各项配套活动全面展开",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728550.shtml",
+        "publishedAt": "2026-11-08T21:31:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T21:39:21.038+08:00",
+    "fetchedAt": "2026-11-08T21:49:32.785+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T21:39:21.783+08:00",
+      "fetchedAt": "2026-11-08T21:49:33.536+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T21:39:21.786+08:00",
+      "fetchedAt": "2026-11-08T21:49:33.539+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T21:39:21.796+08:00",
+      "fetchedAt": "2026-11-08T21:49:33.549+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T21:39:21.796+08:00",
+      "fetchedAt": "2026-11-08T21:49:33.549+08:00",
       "error": "未启用",
       "disabled": true
     }
