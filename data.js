@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T18:35:54.016+08:00",
+  "updatedAt": "2026-11-08T18:46:05.836+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 17.1,
-    "feelsLikeC": 17.4,
-    "humidity": 97,
-    "windKph": 13.5,
+    "feelsLikeC": 17.3,
+    "humidity": 96,
+    "windKph": 13.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T18:35:54.016+08:00",
+    "observedAt": "2026-11-08T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-08T18:46:05.837+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "山西太原一高层建筑发生火灾 消防人员仍在扑救",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728461.shtml",
+        "publishedAt": "2026-11-08T18:36:56.000+08:00"
+      },
+      {
+        "title": "韩正访问格鲁吉亚",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728428.shtml",
+        "publishedAt": "2026-11-08T18:34:16.000+08:00"
+      },
       {
         "title": "海峡两岸机械产业博览会在福建龙岩开幕",
         "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728456.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "河南新乡：蔬菜智慧种植引民众参观打卡",
         "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728437.shtml",
         "publishedAt": "2026-11-08T18:24:53.000+08:00"
-      },
-      {
-        "title": "重庆市第八届大学生艺术展演活动现场集中展演举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728436.shtml",
-        "publishedAt": "2026-11-08T18:23:49.000+08:00"
-      },
-      {
-        "title": "通讯：APEC之城：出海路上的“侨”力量",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-08/10728447.shtml",
-        "publishedAt": "2026-11-08T18:23:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T18:35:51.760+08:00",
+    "fetchedAt": "2026-11-08T18:46:03.041+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T18:35:52.197+08:00",
+      "fetchedAt": "2026-11-08T18:46:03.766+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T18:35:52.199+08:00",
+      "fetchedAt": "2026-11-08T18:46:03.769+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T18:35:52.205+08:00",
+      "fetchedAt": "2026-11-08T18:46:03.779+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T18:35:52.205+08:00",
+      "fetchedAt": "2026-11-08T18:46:03.779+08:00",
       "error": "未启用",
       "disabled": true
     }
