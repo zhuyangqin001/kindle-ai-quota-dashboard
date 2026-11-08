@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T08:25:37.731+08:00",
+  "updatedAt": "2026-11-08T08:35:48.514+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.7,
-    "feelsLikeC": 19.8,
-    "humidity": 97,
-    "windKph": 2.4,
-    "windDir": "南风",
+    "tempC": 17.9,
+    "feelsLikeC": 20,
+    "humidity": 96,
+    "windKph": 3.2,
+    "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-08T08:25:37.731+08:00",
+    "observedAt": "2026-11-08T08:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T08:35:48.514+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728204.shtml",
-        "publishedAt": "2026-11-08T08:02:22.000+08:00"
+        "title": "本周末中东部地区有大范围降水 今日为雨雪最强时段",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728222.shtml",
+        "publishedAt": "2026-11-08T08:29:45.000+08:00"
       },
       {
-        "title": "日本静冈县西部发生5.7级地震",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728203.shtml",
-        "publishedAt": "2026-11-08T07:54:25.000+08:00"
+        "title": "雨雪降温来袭 天津部分高速封闭限行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728231.shtml",
+        "publishedAt": "2026-11-08T08:28:29.000+08:00"
       },
       {
-        "title": "年轻人为何爱看“古人开演唱会”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728202.shtml",
-        "publishedAt": "2026-11-08T07:53:25.000+08:00"
+        "title": "浙江西塘上演国风主题活动 传统文化在水乡“活”起来",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728206.shtml",
+        "publishedAt": "2026-11-08T08:26:19.000+08:00"
       },
       {
-        "title": "买棉服别踩坑！名字带棉不一定是棉花，重点看吊牌",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728201.shtml",
-        "publishedAt": "2026-11-08T07:14:19.000+08:00"
+        "title": "河北秦皇岛凌晨发布暴雪红色预警 降雪仍在持续",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728229.shtml",
+        "publishedAt": "2026-11-08T08:25:41.000+08:00"
       },
       {
-        "title": "11月8日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-08/10728200.shtml",
-        "publishedAt": "2026-11-08T07:04:24.000+08:00"
+        "title": "（第九届进博会）中欧商界寻找合作共振点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728205.shtml",
+        "publishedAt": "2026-11-08T08:24:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T08:25:35.371+08:00",
+    "fetchedAt": "2026-11-08T08:35:46.007+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T08:25:35.846+08:00",
+      "fetchedAt": "2026-11-08T08:35:46.474+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T13:25:37.000+08:00"
+          "resetAt": "2026-11-08T13:35:48.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T08:25:35.848+08:00",
+      "fetchedAt": "2026-11-08T08:35:46.477+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T08:25:35.854+08:00",
+      "fetchedAt": "2026-11-08T08:35:46.483+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T08:25:35.854+08:00",
+      "fetchedAt": "2026-11-08T08:35:46.483+08:00",
       "error": "未启用",
       "disabled": true
     }
