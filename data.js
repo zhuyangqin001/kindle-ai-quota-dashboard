@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T16:13:21.295+08:00",
+  "updatedAt": "2026-11-08T16:23:33.834+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 18.2,
-    "feelsLikeC": 18.7,
-    "humidity": 89,
-    "windKph": 11.3,
+    "description": "雨",
+    "iconKey": "rain",
+    "tempC": 18.1,
+    "feelsLikeC": 18.6,
+    "humidity": 90,
+    "windKph": 11.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T16:13:21.295+08:00",
+    "observedAt": "2026-11-08T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-08T16:23:33.834+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（第九届进博会）牵手全球伙伴 多个参展方“签单”织密产业合作网络",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728383.shtml",
-        "publishedAt": "2026-11-08T16:09:14.000+08:00"
+        "title": "河北唐山：初迎降雪 冬景如画",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728378.shtml",
+        "publishedAt": "2026-11-08T16:15:58.000+08:00"
       },
       {
-        "title": "全国首个全域多场景外籍人员入境专属保障方案亮相进博会",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728368.shtml",
-        "publishedAt": "2026-11-08T16:05:58.000+08:00"
+        "title": "湖北省政务领域无人机大队成立",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728390.shtml",
+        "publishedAt": "2026-11-08T16:15:44.000+08:00"
       },
       {
-        "title": "黑龙江“一键玩龙江”智慧文旅小程序焕新上线",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728371.shtml",
-        "publishedAt": "2026-11-08T16:02:53.000+08:00"
+        "title": "河南鹿邑：寻迹老子故里，品读道家文脉",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728377.shtml",
+        "publishedAt": "2026-11-08T16:15:30.000+08:00"
       },
       {
-        "title": "东西问丨西班牙第二副首相为何在乌镇峰会提到“通宝”？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-08/10728362.shtml",
-        "publishedAt": "2026-11-08T16:00:33.000+08:00"
+        "title": "一半载客一半赶集：乌蒙山慢火车成流动“乡村集市”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728391.shtml",
+        "publishedAt": "2026-11-08T16:14:48.000+08:00"
       },
       {
-        "title": "（第九届进博会）美国康菲石油高管：中国能源政策令人备受鼓舞",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728367.shtml",
-        "publishedAt": "2026-11-08T15:57:51.000+08:00"
+        "title": "（第九届进博会）进博会看外企新动作：从“在中国销售”到深入布局“在中国智造”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728385.shtml",
+        "publishedAt": "2026-11-08T16:13:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T16:13:18.622+08:00",
+    "fetchedAt": "2026-11-08T16:23:31.346+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T16:13:19.344+08:00",
+      "fetchedAt": "2026-11-08T16:23:32.052+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T21:13:21.000+08:00"
+          "resetAt": "2026-11-08T21:23:33.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T16:13:19.347+08:00",
+      "fetchedAt": "2026-11-08T16:23:32.055+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T16:13:19.357+08:00",
+      "fetchedAt": "2026-11-08T16:23:32.062+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T16:13:19.357+08:00",
+      "fetchedAt": "2026-11-08T16:23:32.063+08:00",
       "error": "未启用",
       "disabled": true
     }
