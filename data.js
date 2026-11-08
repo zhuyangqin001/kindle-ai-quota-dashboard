@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T17:45:09.453+08:00",
+  "updatedAt": "2026-11-08T17:55:21.564+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-08T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-08T17:45:09.453+08:00",
+    "fetchedAt": "2026-11-08T17:55:21.564+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "阿勒泰市第三中学：以法润校 守护民族团结之花",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728424.shtml",
+        "publishedAt": "2026-11-08T17:46:17.000+08:00"
+      },
       {
         "title": "第九届进博会｜进博会上东非鲜切花探路中国",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728422.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "特稿｜中国微短剧在欧洲激起涟漪",
         "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728419.shtml",
         "publishedAt": "2026-11-08T17:20:02.000+08:00"
-      },
-      {
-        "title": "日本大阪发生持刀伤人事件致1人受伤 嫌犯被捕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728417.shtml",
-        "publishedAt": "2026-11-08T17:10:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T17:45:06.718+08:00",
+    "fetchedAt": "2026-11-08T17:55:18.436+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T17:45:07.461+08:00",
+      "fetchedAt": "2026-11-08T17:55:19.181+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T22:45:08.000+08:00"
+          "resetAt": "2026-11-08T22:55:20.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T17:45:07.465+08:00",
+      "fetchedAt": "2026-11-08T17:55:19.184+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T17:45:07.474+08:00",
+      "fetchedAt": "2026-11-08T17:55:19.194+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T17:45:07.475+08:00",
+      "fetchedAt": "2026-11-08T17:55:19.194+08:00",
       "error": "未启用",
       "disabled": true
     }
