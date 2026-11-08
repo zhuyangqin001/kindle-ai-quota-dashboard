@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T06:49:36.684+08:00",
+  "updatedAt": "2026-11-09T06:59:47.827+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-09T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-09T06:49:36.684+08:00",
+    "fetchedAt": "2026-11-09T06:59:47.827+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国一大学接连发生两起枪击事件 致1死3伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728584.shtml",
+        "publishedAt": "2026-11-09T06:49:56.000+08:00"
+      },
+      {
+        "title": "11月9日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-09/10728583.shtml",
+        "publishedAt": "2026-11-09T06:46:10.000+08:00"
+      },
       {
         "title": "我国成功发射卫星互联网低轨29组卫星",
         "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728582.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "美国一大学校园发生两起枪击事件 致1死3伤",
         "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728580.shtml",
         "publishedAt": "2026-11-09T06:05:37.000+08:00"
-      },
-      {
-        "title": "埃及列车脱轨事故已致7死112伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728579.shtml",
-        "publishedAt": "2026-11-09T05:54:59.000+08:00"
-      },
-      {
-        "title": "南非地方选举计票结束 非国大保住第一大党地位",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728578.shtml",
-        "publishedAt": "2026-11-09T05:54:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T06:49:34.275+08:00",
+    "fetchedAt": "2026-11-09T06:59:45.234+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-09T06:49:34.920+08:00",
+      "fetchedAt": "2026-11-09T06:59:45.954+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T11:49:36.000+08:00"
+          "resetAt": "2026-11-09T11:59:47.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T06:49:34.923+08:00",
+      "fetchedAt": "2026-11-09T06:59:45.957+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T06:49:34.933+08:00",
+      "fetchedAt": "2026-11-09T06:59:45.967+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T06:49:34.933+08:00",
+      "fetchedAt": "2026-11-09T06:59:45.967+08:00",
       "error": "未启用",
       "disabled": true
     }
