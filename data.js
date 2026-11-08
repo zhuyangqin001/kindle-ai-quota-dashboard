@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T06:08:51.774+08:00",
+  "updatedAt": "2026-11-09T06:19:03.040+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12,
-    "feelsLikeC": 8.6,
+    "tempC": 11.9,
+    "feelsLikeC": 8.5,
     "humidity": 75,
-    "windKph": 19,
+    "windKph": 18.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-09T06:00:00.000+08:00",
-    "fetchedAt": "2026-11-09T06:08:51.774+08:00",
+    "observedAt": "2026-11-09T06:15:00.000+08:00",
+    "fetchedAt": "2026-11-09T06:19:03.040+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国一大学校园发生两起枪击事件 致1死3伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728580.shtml",
+        "publishedAt": "2026-11-09T06:05:37.000+08:00"
+      },
       {
         "title": "埃及列车脱轨事故已致7死112伤",
         "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728579.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "飞行数据显示两架美军机同日分别在黑海和俄边境附近活动",
         "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728576.shtml",
         "publishedAt": "2026-11-09T05:51:35.000+08:00"
-      },
-      {
-        "title": "伊拉克库尔德自治区天然气田遭不明来源无人机袭击",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728575.shtml",
-        "publishedAt": "2026-11-09T05:50:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T06:08:49.082+08:00",
+    "fetchedAt": "2026-11-09T06:19:00.613+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-09T06:08:49.843+08:00",
+      "fetchedAt": "2026-11-09T06:19:01.309+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T11:08:51.000+08:00"
+          "resetAt": "2026-11-09T11:19:02.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T06:08:49.846+08:00",
+      "fetchedAt": "2026-11-09T06:19:01.310+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T06:08:49.856+08:00",
+      "fetchedAt": "2026-11-09T06:19:01.314+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T06:08:49.856+08:00",
+      "fetchedAt": "2026-11-09T06:19:01.315+08:00",
       "error": "未启用",
       "disabled": true
     }
