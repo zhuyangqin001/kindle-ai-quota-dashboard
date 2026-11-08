@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T22:40:36.342+08:00",
+  "updatedAt": "2026-11-08T23:00:54.297+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.8,
-    "feelsLikeC": 13.2,
-    "humidity": 89,
-    "windKph": 17.5,
+    "tempC": 14.5,
+    "feelsLikeC": 12.7,
+    "humidity": 90,
+    "windKph": 17.9,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T22:40:36.342+08:00",
+    "observedAt": "2026-11-08T23:00:00.000+08:00",
+    "fetchedAt": "2026-11-08T23:00:54.297+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "畅通教育科技人才良性循环 为新质生产力蓄势赋能",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728567.shtml",
+        "publishedAt": "2026-11-08T22:53:10.000+08:00"
+      },
+      {
+        "title": "山西太原一公寓发生火灾 致5人遇难",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728568.shtml",
+        "publishedAt": "2026-11-08T22:49:37.000+08:00"
+      },
       {
         "title": "WTA250香港公开赛收官 美国选手刘婧文击败菲律宾选手埃亚拉夺得女单冠军",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-08/10728566.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中超末轮综述：英博大逆转夺冠 蓉城不敌泰山功亏一篑",
         "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728562.shtml",
         "publishedAt": "2026-11-08T22:08:53.000+08:00"
-      },
-      {
-        "title": "2026年红河流域中越合作周在河口开幕 边交会同步举办",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-08/10728555.shtml",
-        "publishedAt": "2026-11-08T21:44:26.000+08:00"
-      },
-      {
-        "title": "民众齐唱《小白杨》送别词作家梁上泉",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728554.shtml",
-        "publishedAt": "2026-11-08T21:43:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T22:40:33.566+08:00",
+    "fetchedAt": "2026-11-08T23:00:51.321+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T22:40:34.282+08:00",
+      "fetchedAt": "2026-11-08T23:00:52.049+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T22:40:34.288+08:00",
+      "fetchedAt": "2026-11-08T23:00:52.053+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T22:40:34.299+08:00",
+      "fetchedAt": "2026-11-08T23:00:52.063+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T22:40:34.299+08:00",
+      "fetchedAt": "2026-11-08T23:00:52.063+08:00",
       "error": "未启用",
       "disabled": true
     }
