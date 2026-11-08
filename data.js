@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T10:27:33.423+08:00",
+  "updatedAt": "2026-11-08T10:37:44.898+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 18.2,
-    "feelsLikeC": 19.4,
+    "feelsLikeC": 19.5,
     "humidity": 94,
-    "windKph": 9.3,
+    "windKph": 8.8,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-08T10:27:33.423+08:00",
+    "observedAt": "2026-11-08T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T10:37:44.898+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "特朗普称邀请达纳·怀特担任白宫新闻秘书",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728261.shtml",
-        "publishedAt": "2026-11-08T10:15:39.000+08:00"
+        "title": "青春华章 疆来可期丨邝斐婷：传承袁隆平院士精神，让一粒种子在新疆沙漠扎下根",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728262.shtml",
+        "publishedAt": "2026-11-08T10:33:16.000+08:00"
       },
       {
-        "title": "WTT法兰克福冠军赛：中国选手无缘四强",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728253.shtml",
-        "publishedAt": "2026-11-08T10:15:33.000+08:00"
+        "title": "民众参观红军西路军进疆纪念馆",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210164.shtml",
+        "publishedAt": "2026-11-08T10:27:43.000+08:00"
       },
       {
-        "title": "美军称在阿曼湾打击一艘货船，使其丧失航行能力",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728260.shtml",
-        "publishedAt": "2026-11-08T10:13:01.000+08:00"
+        "title": "举重世锦赛：廖桂芳摘得三金 刷新两项世界纪录",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728252.shtml",
+        "publishedAt": "2026-11-08T10:25:09.000+08:00"
       },
       {
-        "title": "东西问丨全球治理，为何需要市长对话？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-08/10728250.shtml",
-        "publishedAt": "2026-11-08T10:12:31.000+08:00"
+        "title": "国家图书馆举办“纪念八大山人诞辰400周年”国图公开课特别活动",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728249.shtml",
+        "publishedAt": "2026-11-08T10:24:21.000+08:00"
       },
       {
-        "title": "新型研究型大学，何以破解“纸上得来终觉浅”？",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-08/10728251.shtml",
-        "publishedAt": "2026-11-08T10:11:12.000+08:00"
+        "title": "览草原盛事品边城风味 《藏不住的好去处》走进呼伦贝尔",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728248.shtml",
+        "publishedAt": "2026-11-08T10:24:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T10:27:31.012+08:00",
+    "fetchedAt": "2026-11-08T10:37:42.432+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T10:27:31.477+08:00",
+      "fetchedAt": "2026-11-08T10:37:42.882+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T15:27:33.000+08:00"
+          "resetAt": "2026-11-08T15:37:44.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-14T21:33:03.000+08:00"
+          "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T10:27:31.480+08:00",
+      "fetchedAt": "2026-11-08T10:37:42.884+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T10:27:31.485+08:00",
+      "fetchedAt": "2026-11-08T10:37:42.890+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T10:27:31.486+08:00",
+      "fetchedAt": "2026-11-08T10:37:42.890+08:00",
       "error": "未启用",
       "disabled": true
     }
