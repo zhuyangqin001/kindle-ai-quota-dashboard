@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T20:28:01.874+08:00",
+  "updatedAt": "2026-11-08T20:38:12.963+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.7,
-    "feelsLikeC": 16.1,
-    "humidity": 92,
-    "windKph": 16.3,
-    "windDir": "西北风",
+    "tempC": 15.9,
+    "feelsLikeC": 15,
+    "humidity": 93,
+    "windKph": 16.5,
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-08T20:28:01.874+08:00",
+    "observedAt": "2026-11-08T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T20:38:12.963+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "关注非博会｜舌尖上的非遗齐聚山城，邀你来尝“百味山河”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728505.shtml",
-        "publishedAt": "2026-11-08T20:22:27.000+08:00"
+        "title": "闲置资产变身医养小院 青海同仁各族老人开启融居生活",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-08/10728515.shtml",
+        "publishedAt": "2026-11-08T20:33:26.000+08:00"
       },
       {
-        "title": "直播：谁是舞王？国际街舞联赛全球总决赛热血开跳",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-08/10728504.shtml",
-        "publishedAt": "2026-11-08T20:20:49.000+08:00"
+        "title": "2026喀什马拉松鸣笛开跑",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728509.shtml",
+        "publishedAt": "2026-11-08T20:32:24.000+08:00"
       },
       {
-        "title": "便民有温度、消费有热度 消费重磅新政再“加码”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728503.shtml",
-        "publishedAt": "2026-11-08T20:12:05.000+08:00"
+        "title": "广西钦州市获2028年广西文化旅游发展大会承办权",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728508.shtml",
+        "publishedAt": "2026-11-08T20:31:38.000+08:00"
       },
       {
-        "title": "专访｜“推动全球人工智能治理不断完善，中国是正确的”——访俄罗斯塔斯社社长安德烈·孔德拉绍夫",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728502.shtml",
-        "publishedAt": "2026-11-08T20:07:23.000+08:00"
+        "title": "广西文化旅游产业招商推介会现场集中签约21个项目",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728507.shtml",
+        "publishedAt": "2026-11-08T20:31:04.000+08:00"
       },
       {
-        "title": "第十三届“好记者讲好故事”优秀记者在京开讲",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728501.shtml",
-        "publishedAt": "2026-11-08T20:04:08.000+08:00"
+        "title": "山西太原一高层建筑发生火灾",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210269.shtml",
+        "publishedAt": "2026-11-08T20:30:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T20:27:59.452+08:00",
+    "fetchedAt": "2026-11-08T20:38:10.376+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T20:28:00.075+08:00",
+      "fetchedAt": "2026-11-08T20:38:11.125+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T20:28:00.078+08:00",
+      "fetchedAt": "2026-11-08T20:38:11.128+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T20:28:00.089+08:00",
+      "fetchedAt": "2026-11-08T20:38:11.134+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T20:28:00.089+08:00",
+      "fetchedAt": "2026-11-08T20:38:11.134+08:00",
       "error": "未启用",
       "disabled": true
     }
