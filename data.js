@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T07:30:22.790+08:00",
+  "updatedAt": "2026-11-09T07:40:34.377+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-09T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-09T07:30:22.790+08:00",
+    "fetchedAt": "2026-11-09T07:40:34.377+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "不明来历快递里的二维码，扫完会通向哪里",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728589.shtml",
+        "publishedAt": "2026-11-09T07:35:10.000+08:00"
+      },
+      {
+        "title": "婚介服务市场调查：说好“精准匹配”，实则名不副实",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-09/10728588.shtml",
+        "publishedAt": "2026-11-09T07:30:16.000+08:00"
+      },
       {
         "title": "打蚊子、陪聊天、认小鸟 中国AI消费品海外走俏",
         "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728587.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "美国一大学接连发生两起枪击事件 致1死3伤",
         "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728584.shtml",
         "publishedAt": "2026-11-09T06:49:56.000+08:00"
-      },
-      {
-        "title": "11月9日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-09/10728583.shtml",
-        "publishedAt": "2026-11-09T06:46:10.000+08:00"
-      },
-      {
-        "title": "我国成功发射卫星互联网低轨29组卫星",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728582.shtml",
-        "publishedAt": "2026-11-09T06:40:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T07:30:19.629+08:00",
+    "fetchedAt": "2026-11-09T07:40:31.857+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-09T07:30:20.355+08:00",
+      "fetchedAt": "2026-11-09T07:40:32.553+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T07:30:20.359+08:00",
+      "fetchedAt": "2026-11-09T07:40:32.556+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T07:30:20.367+08:00",
+      "fetchedAt": "2026-11-09T07:40:32.565+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T07:30:20.368+08:00",
+      "fetchedAt": "2026-11-09T07:40:32.566+08:00",
       "error": "未启用",
       "disabled": true
     }
