@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T09:06:14.811+08:00",
+  "updatedAt": "2026-11-08T09:16:26.096+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 18.2,
     "feelsLikeC": 20,
     "humidity": 95,
-    "windKph": 5.2,
-    "windDir": "西南风",
+    "windKph": 6.1,
+    "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-08T09:06:14.811+08:00",
+    "observedAt": "2026-11-08T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-08T09:16:26.096+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "四川广元：航拍曾家山数万亩林海披上“黄金甲”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728225.shtml",
-        "publishedAt": "2026-11-08T08:51:50.000+08:00"
+        "title": "第二十三届北京论坛开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728220.shtml",
+        "publishedAt": "2026-11-08T09:03:45.000+08:00"
       },
       {
-        "title": "湖北巴东：600余人立冬横渡三峡",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728226.shtml",
-        "publishedAt": "2026-11-08T08:51:16.000+08:00"
+        "title": "东南亚警察组队赴“村超”踢球",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728218.shtml",
+        "publishedAt": "2026-11-08T09:02:47.000+08:00"
       },
       {
-        "title": "2026中国杯世界花样滑冰大奖赛：女子单人滑·自由滑项目展开角逐",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728223.shtml",
-        "publishedAt": "2026-11-08T08:50:00.000+08:00"
+        "title": "寒潮继续影响中东部地区 局地降温可达14℃以上",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728234.shtml",
+        "publishedAt": "2026-11-08T08:59:57.000+08:00"
       },
       {
-        "title": "浙江杭州：市民游客打卡杭州ADM展 解锁多元生活方式",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728228.shtml",
-        "publishedAt": "2026-11-08T08:47:54.000+08:00"
+        "title": "“90后”返乡青年深耕电商 花木衍生产业年销近亿元",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728217.shtml",
+        "publishedAt": "2026-11-08T08:58:03.000+08:00"
       },
       {
-        "title": "浙江省第十二届残疾人运动会在衢州开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728227.shtml",
-        "publishedAt": "2026-11-08T08:47:28.000+08:00"
+        "title": "云南“十五五”将建成多源多尺度实景三维云南",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728216.shtml",
+        "publishedAt": "2026-11-08T08:57:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T09:06:12.362+08:00",
+    "fetchedAt": "2026-11-08T09:16:23.554+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T09:06:12.827+08:00",
+      "fetchedAt": "2026-11-08T09:16:24.178+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T14:06:14.000+08:00"
+          "resetAt": "2026-11-08T14:16:25.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T09:06:12.830+08:00",
+      "fetchedAt": "2026-11-08T09:16:24.180+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T09:06:12.835+08:00",
+      "fetchedAt": "2026-11-08T09:16:24.186+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T09:06:12.835+08:00",
+      "fetchedAt": "2026-11-08T09:16:24.186+08:00",
       "error": "未启用",
       "disabled": true
     }
