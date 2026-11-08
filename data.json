@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-08T09:36:46.182+08:00",
+  "updatedAt": "2026-11-08T09:46:57.081+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 18.2,
-    "feelsLikeC": 19.8,
-    "humidity": 95,
-    "windKph": 7.2,
-    "windDir": "西风",
+    "feelsLikeC": 19.5,
+    "humidity": 94,
+    "windKph": 8.2,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-08T09:36:46.182+08:00",
+    "observedAt": "2026-11-08T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-08T09:46:57.081+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国新闻社7件作品获中国新闻奖，2件作品一等奖！",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728238.shtml",
+        "publishedAt": "2026-11-08T09:35:27.000+08:00"
+      },
+      {
+        "title": "“航母五件套”未来还可能升级！专家解读“5+X”新模式",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728237.shtml",
+        "publishedAt": "2026-11-08T09:33:10.000+08:00"
+      },
       {
         "title": "光“星巴扎”就破防？那我告诉你，国际酒店也成群去新疆了",
         "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728236.shtml",
@@ -33,19 +43,9 @@
         "title": "广西开行首趟“八桂嗦粉”主题旅游列车 列车上设有米粉展示区",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728219.shtml",
         "publishedAt": "2026-11-08T09:15:13.000+08:00"
-      },
-      {
-        "title": "第二十三届北京论坛开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728220.shtml",
-        "publishedAt": "2026-11-08T09:03:45.000+08:00"
-      },
-      {
-        "title": "东南亚警察组队赴“村超”踢球",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728218.shtml",
-        "publishedAt": "2026-11-08T09:02:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T09:36:43.673+08:00",
+    "fetchedAt": "2026-11-08T09:46:54.444+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T09:36:44.060+08:00",
+      "fetchedAt": "2026-11-08T09:46:54.877+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-08T14:36:45.000+08:00"
+          "resetAt": "2026-11-08T14:46:56.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T09:36:44.062+08:00",
+      "fetchedAt": "2026-11-08T09:46:54.878+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T09:36:44.066+08:00",
+      "fetchedAt": "2026-11-08T09:46:54.883+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T09:36:44.066+08:00",
+      "fetchedAt": "2026-11-08T09:46:54.884+08:00",
       "error": "未启用",
       "disabled": true
     }
