@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-08T18:56:18.488+08:00",
+  "updatedAt": "2026-11-08T19:06:30.007+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17.1,
-    "feelsLikeC": 17.3,
+    "tempC": 17,
+    "feelsLikeC": 17.1,
     "humidity": 96,
-    "windKph": 13.6,
+    "windKph": 14,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-08T18:56:18.488+08:00",
+    "observedAt": "2026-11-08T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-08T19:06:30.007+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "寒潮蓝色预警：湖北等10省份部分地区降温10～12℃",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728464.shtml",
+        "publishedAt": "2026-11-08T18:59:47.000+08:00"
+      },
+      {
+        "title": "“资本市场辟谣平台”正式上线",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728463.shtml",
+        "publishedAt": "2026-11-08T18:51:02.000+08:00"
+      },
       {
         "title": "寒潮继续影响中东部地区 云南等地多降水",
         "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728462.shtml",
@@ -33,19 +43,9 @@
         "title": "韩正访问格鲁吉亚",
         "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728428.shtml",
         "publishedAt": "2026-11-08T18:34:16.000+08:00"
-      },
-      {
-        "title": "海峡两岸机械产业博览会在福建龙岩开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728456.shtml",
-        "publishedAt": "2026-11-08T18:27:27.000+08:00"
-      },
-      {
-        "title": "2026中国杯世界花样滑冰大奖赛：男子单人滑·自由滑项目展开角逐",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728445.shtml",
-        "publishedAt": "2026-11-08T18:25:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T18:56:15.952+08:00",
+    "fetchedAt": "2026-11-08T19:06:27.559+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T18:56:16.700+08:00",
+      "fetchedAt": "2026-11-08T19:06:28.304+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T18:56:16.704+08:00",
+      "fetchedAt": "2026-11-08T19:06:28.308+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T18:56:16.713+08:00",
+      "fetchedAt": "2026-11-08T19:06:28.316+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T18:56:16.714+08:00",
+      "fetchedAt": "2026-11-08T19:06:28.317+08:00",
       "error": "未启用",
       "disabled": true
     }
