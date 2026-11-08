@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-08T18:15:37.592+08:00",
+  "updatedAt": "2026-11-08T18:35:54.016+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 17.1,
-    "feelsLikeC": 17.5,
+    "feelsLikeC": 17.4,
     "humidity": 97,
-    "windKph": 13.1,
+    "windKph": 13.5,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-08T18:15:37.592+08:00",
+    "observedAt": "2026-11-08T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-08T18:35:54.016+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“00后”接棒非遗传承：传统技艺碰撞青春表达",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728429.shtml",
-        "publishedAt": "2026-11-08T18:08:04.000+08:00"
+        "title": "海峡两岸机械产业博览会在福建龙岩开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728456.shtml",
+        "publishedAt": "2026-11-08T18:27:27.000+08:00"
       },
       {
-        "title": "印尼举办“文化博览日”活动",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210230.shtml",
-        "publishedAt": "2026-11-08T18:01:35.000+08:00"
+        "title": "2026中国杯世界花样滑冰大奖赛：男子单人滑·自由滑项目展开角逐",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728445.shtml",
+        "publishedAt": "2026-11-08T18:25:27.000+08:00"
       },
       {
-        "title": "非法窃取个人信息10亿余条 “开盒”者数罪并罚被严惩",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728426.shtml",
-        "publishedAt": "2026-11-08T17:54:57.000+08:00"
+        "title": "河南新乡：蔬菜智慧种植引民众参观打卡",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728437.shtml",
+        "publishedAt": "2026-11-08T18:24:53.000+08:00"
       },
       {
-        "title": "今年前10个月国开行发放制造业贷款超4800亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728425.shtml",
-        "publishedAt": "2026-11-08T17:50:31.000+08:00"
+        "title": "重庆市第八届大学生艺术展演活动现场集中展演举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-08/10728436.shtml",
+        "publishedAt": "2026-11-08T18:23:49.000+08:00"
       },
       {
-        "title": "大连英博队获中超冠军 成都蓉城队四连败丢冠",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-08/10728423.shtml",
-        "publishedAt": "2026-11-08T17:49:17.000+08:00"
+        "title": "通讯：APEC之城：出海路上的“侨”力量",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-08/10728447.shtml",
+        "publishedAt": "2026-11-08T18:23:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T18:15:34.936+08:00",
+    "fetchedAt": "2026-11-08T18:35:51.760+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T18:15:35.467+08:00",
+      "fetchedAt": "2026-11-08T18:35:52.197+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-08T23:15:37.000+08:00"
+          "usedPct": 12,
+          "resetAt": "2026-11-08T23:23:31.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 0,
+          "usedPct": 2,
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T18:15:35.470+08:00",
+      "fetchedAt": "2026-11-08T18:35:52.199+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T18:15:35.477+08:00",
+      "fetchedAt": "2026-11-08T18:35:52.205+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T18:15:35.477+08:00",
+      "fetchedAt": "2026-11-08T18:35:52.205+08:00",
       "error": "未启用",
       "disabled": true
     }
