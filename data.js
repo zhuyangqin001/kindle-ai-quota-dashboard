@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-08T20:58:36.678+08:00",
+  "updatedAt": "2026-11-08T21:08:48.169+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.8,
-    "feelsLikeC": 14.8,
-    "humidity": 92,
-    "windKph": 16.3,
+    "tempC": 15.6,
+    "feelsLikeC": 14.6,
+    "humidity": 91,
+    "windKph": 16.2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-08T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-08T20:58:36.678+08:00",
+    "observedAt": "2026-11-08T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-08T21:08:48.169+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "文旅体商加速融合释放消费潜力——中国经济三季报亮点解析",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728531.shtml",
-        "publishedAt": "2026-11-08T20:48:59.000+08:00"
+        "title": "“人民创生·美美共融——中国社区公共艺术创新成果展”首展在渝启幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728532.shtml",
+        "publishedAt": "2026-11-08T21:04:50.000+08:00"
       },
       {
-        "title": "埃及发生火车脱轨事故 已致约50人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728530.shtml",
-        "publishedAt": "2026-11-08T20:46:53.000+08:00"
+        "title": "山西太原一高层建筑发生火灾 有人员送医",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-08/10728536.shtml",
+        "publishedAt": "2026-11-08T21:04:20.000+08:00"
       },
       {
-        "title": "新华社快讯：埃及发生列车脱轨事故致至少50人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728529.shtml",
-        "publishedAt": "2026-11-08T20:44:59.000+08:00"
+        "title": "舞剧《五星出东方》将亮相希腊舞台",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728538.shtml",
+        "publishedAt": "2026-11-08T21:02:24.000+08:00"
       },
       {
-        "title": "“局部理想主义”沙龙在京举办 《村庄无小事》记录基层变迁",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-08/10728506.shtml",
-        "publishedAt": "2026-11-08T20:43:23.000+08:00"
+        "title": "尼泊尔举行敬狗日庆祝活动 呼吁关注动物福利",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728534.shtml",
+        "publishedAt": "2026-11-08T21:02:04.000+08:00"
       },
       {
-        "title": "（第九届进博会）借进博之窗融通中外 世界500强华侨华人高管共话AI全球化新机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728513.shtml",
-        "publishedAt": "2026-11-08T20:42:19.000+08:00"
+        "title": "埃及列车脱轨事故致司机死亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-08/10728543.shtml",
+        "publishedAt": "2026-11-08T21:02:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-08T20:58:34.197+08:00",
+    "fetchedAt": "2026-11-08T21:08:45.534+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-08T20:58:34.830+08:00",
+      "fetchedAt": "2026-11-08T21:08:46.271+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-08T20:58:34.833+08:00",
+      "fetchedAt": "2026-11-08T21:08:46.274+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T20:58:34.844+08:00",
+      "fetchedAt": "2026-11-08T21:08:46.284+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-08T20:58:34.844+08:00",
+      "fetchedAt": "2026-11-08T21:08:46.284+08:00",
       "error": "未启用",
       "disabled": true
     }
