@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T06:19:03.040+08:00",
+  "updatedAt": "2026-11-09T06:29:14.274+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-09T06:15:00.000+08:00",
-    "fetchedAt": "2026-11-09T06:19:03.040+08:00",
+    "fetchedAt": "2026-11-09T06:29:14.274+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "特朗普：美伊谈判若取得进展 “极不可能”再对伊动武",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728581.shtml",
+        "publishedAt": "2026-11-09T06:22:42.000+08:00"
+      },
       {
         "title": "美国一大学校园发生两起枪击事件 致1死3伤",
         "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728580.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "土伊重申合作终结库尔德工人党在辛贾尔地区的存在",
         "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728577.shtml",
         "publishedAt": "2026-11-09T05:53:11.000+08:00"
-      },
-      {
-        "title": "飞行数据显示两架美军机同日分别在黑海和俄边境附近活动",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728576.shtml",
-        "publishedAt": "2026-11-09T05:51:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T06:19:00.613+08:00",
+    "fetchedAt": "2026-11-09T06:29:11.704+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-09T06:19:01.309+08:00",
+      "fetchedAt": "2026-11-09T06:29:12.428+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-09T11:19:02.000+08:00"
+          "resetAt": "2026-11-09T11:29:13.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T06:19:01.310+08:00",
+      "fetchedAt": "2026-11-09T06:29:12.430+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T06:19:01.314+08:00",
+      "fetchedAt": "2026-11-09T06:29:12.439+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T06:19:01.315+08:00",
+      "fetchedAt": "2026-11-09T06:29:12.440+08:00",
       "error": "未启用",
       "disabled": true
     }
