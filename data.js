@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T21:59:49.643+08:00",
+  "updatedAt": "2026-11-09T22:10:06.664+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 8.9,
-    "feelsLikeC": 4.9,
-    "humidity": 56,
-    "windKph": 13.2,
+    "tempC": 8.7,
+    "feelsLikeC": 4.8,
+    "humidity": 57,
+    "windKph": 12.7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-09T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-09T21:59:49.643+08:00",
+    "observedAt": "2026-11-09T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-09T22:10:06.665+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "安徽砀山警方通报一起持刀伤人案：4人受伤，嫌犯被抓获",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729144.shtml",
+        "publishedAt": "2026-11-09T22:03:39.000+08:00"
+      },
+      {
+        "title": "2026年10月份我国CPI同比上涨0.7%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729143.shtml",
+        "publishedAt": "2026-11-09T21:56:43.000+08:00"
+      },
       {
         "title": "中欧班列（长沙）双枢纽班列首发 驶入“枢纽对枢纽”阶段",
         "url": "https://www.chinanews.com.cn/ydyl/2026/11-09/10729141.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "澳门青少年赴四川北川研学 体验羌族非遗感知民族文化魅力",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-09/10729140.shtml",
         "publishedAt": "2026-11-09T21:50:43.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）进博会成全球前沿科技“首秀场”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729139.shtml",
-        "publishedAt": "2026-11-09T21:50:27.000+08:00"
-      },
-      {
-        "title": "部省联动 海南升级全域土地综合整治工作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729136.shtml",
-        "publishedAt": "2026-11-09T21:49:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T21:59:46.833+08:00",
+    "fetchedAt": "2026-11-09T22:10:03.259+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-09T21:59:47.614+08:00",
+      "fetchedAt": "2026-11-09T22:10:03.966+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T21:59:47.617+08:00",
+      "fetchedAt": "2026-11-09T22:10:03.969+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T21:59:47.628+08:00",
+      "fetchedAt": "2026-11-09T22:10:03.979+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T21:59:47.628+08:00",
+      "fetchedAt": "2026-11-09T22:10:03.979+08:00",
       "error": "未启用",
       "disabled": true
     }
