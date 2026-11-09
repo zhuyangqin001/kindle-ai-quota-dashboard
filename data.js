@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T07:50:45.901+08:00",
+  "updatedAt": "2026-11-09T08:00:57.341+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12,
-    "feelsLikeC": 8.3,
-    "humidity": 72,
-    "windKph": 19.6,
+    "tempC": 12.1,
+    "feelsLikeC": 8.4,
+    "humidity": 71,
+    "windKph": 20,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-09T07:45:00.000+08:00",
-    "fetchedAt": "2026-11-09T07:50:45.901+08:00",
+    "observedAt": "2026-11-09T08:00:00.000+08:00",
+    "fetchedAt": "2026-11-09T08:00:57.341+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "未来三天北京以晴为主 昼夜温差较大最低温仍在冰点上下",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728594.shtml",
+        "publishedAt": "2026-11-09T07:52:03.000+08:00"
+      },
+      {
+        "title": "员工用AI辅助办公，出错谁担责？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728593.shtml",
+        "publishedAt": "2026-11-09T07:49:49.000+08:00"
+      },
+      {
+        "title": "AI打开新空间，影视创作如何向新而行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-09/10728592.shtml",
+        "publishedAt": "2026-11-09T07:46:33.000+08:00"
+      },
       {
         "title": "满屏“人生赢家”，不是你的标准答案",
         "url": "https://www.chinanews.com.cn/ll/2026/11-09/10728591.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "今天，想请你重新认识一下“蓝朋友”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728590.shtml",
         "publishedAt": "2026-11-09T07:39:07.000+08:00"
-      },
-      {
-        "title": "不明来历快递里的二维码，扫完会通向哪里",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728589.shtml",
-        "publishedAt": "2026-11-09T07:35:10.000+08:00"
-      },
-      {
-        "title": "婚介服务市场调查：说好“精准匹配”，实则名不副实",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-09/10728588.shtml",
-        "publishedAt": "2026-11-09T07:30:16.000+08:00"
-      },
-      {
-        "title": "打蚊子、陪聊天、认小鸟 中国AI消费品海外走俏",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728587.shtml",
-        "publishedAt": "2026-11-09T07:24:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T07:50:43.386+08:00",
+    "fetchedAt": "2026-11-09T08:00:54.774+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-09T07:50:44.113+08:00",
+      "fetchedAt": "2026-11-09T08:00:55.500+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T07:50:44.116+08:00",
+      "fetchedAt": "2026-11-09T08:00:55.504+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T07:50:44.124+08:00",
+      "fetchedAt": "2026-11-09T08:00:55.514+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T07:50:44.125+08:00",
+      "fetchedAt": "2026-11-09T08:00:55.514+08:00",
       "error": "未启用",
       "disabled": true
     }
