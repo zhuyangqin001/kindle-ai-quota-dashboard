@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T23:01:20.622+08:00",
+  "updatedAt": "2026-11-09T23:11:36.993+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-09T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-09T23:01:20.622+08:00",
+    "fetchedAt": "2026-11-09T23:11:36.993+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "德国总理默茨正式提名艾格纳竞选总统",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10729157.shtml",
+        "publishedAt": "2026-11-09T23:02:24.000+08:00"
+      },
+      {
+        "title": "泰国商务部与泰国商会加强合作应对全球贸易挑战",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-09/10729156.shtml",
+        "publishedAt": "2026-11-09T23:01:50.000+08:00"
+      },
       {
         "title": "新西兰作家尤金·道尔：全球气候行动中，中国是“房间里成熟的大人”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729152.shtml",
@@ -33,19 +43,9 @@
         "title": "送别翻译家谢莹莹：明亮的生命之歌将永远回响",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729148.shtml",
         "publishedAt": "2026-11-09T22:14:18.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）华商话进博：这里是“入海口”更是“加油站”",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-09/10729147.shtml",
-        "publishedAt": "2026-11-09T22:12:24.000+08:00"
-      },
-      {
-        "title": "云南多地迎来今冬初雪 高海拔山区银装素裹",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729146.shtml",
-        "publishedAt": "2026-11-09T22:09:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T23:01:17.140+08:00",
+    "fetchedAt": "2026-11-09T23:11:34.521+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-09T23:01:17.873+08:00",
+      "fetchedAt": "2026-11-09T23:11:35.225+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@
         {
           "name": "周",
           "usedPct": 4,
-          "resetAt": "2026-11-14T21:33:02.000+08:00"
+          "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T23:01:17.876+08:00",
+      "fetchedAt": "2026-11-09T23:11:35.228+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T23:01:17.886+08:00",
+      "fetchedAt": "2026-11-09T23:11:35.239+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T23:01:17.887+08:00",
+      "fetchedAt": "2026-11-09T23:11:35.239+08:00",
       "error": "未启用",
       "disabled": true
     }
