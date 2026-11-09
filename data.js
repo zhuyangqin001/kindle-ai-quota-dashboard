@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T22:20:24.623+08:00",
+  "updatedAt": "2026-11-09T22:40:46.748+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 8.6,
-    "feelsLikeC": 4.7,
-    "humidity": 57,
-    "windKph": 12.5,
+    "tempC": 8.5,
+    "feelsLikeC": 4.6,
+    "humidity": 58,
+    "windKph": 12.6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-09T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-09T22:20:24.623+08:00",
+    "observedAt": "2026-11-09T22:30:00.000+08:00",
+    "fetchedAt": "2026-11-09T22:40:46.749+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "新西兰作家尤金·道尔：全球气候行动中，中国是“房间里成熟的大人”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729152.shtml",
+        "publishedAt": "2026-11-09T22:29:37.000+08:00"
+      },
+      {
+        "title": "克莱恩斯欧洲环保协会龙迪：中国是全球气候行动“最坚定的支持者”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729151.shtml",
+        "publishedAt": "2026-11-09T22:27:20.000+08:00"
+      },
       {
         "title": "送别翻译家谢莹莹：明亮的生命之歌将永远回响",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729148.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "云南多地迎来今冬初雪 高海拔山区银装素裹",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729146.shtml",
         "publishedAt": "2026-11-09T22:09:42.000+08:00"
-      },
-      {
-        "title": "2026国际山地旅游暨户外运动大会在贵州兴义开幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729145.shtml",
-        "publishedAt": "2026-11-09T22:07:37.000+08:00"
-      },
-      {
-        "title": "安徽砀山警方通报一起持刀伤人案：4人受伤，嫌犯被抓获",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729144.shtml",
-        "publishedAt": "2026-11-09T22:03:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T22:20:21.653+08:00",
+    "fetchedAt": "2026-11-09T22:40:44.088+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-09T22:20:22.391+08:00",
+      "fetchedAt": "2026-11-09T22:40:44.827+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T22:20:22.394+08:00",
+      "fetchedAt": "2026-11-09T22:40:44.830+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T22:20:22.404+08:00",
+      "fetchedAt": "2026-11-09T22:40:44.841+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T22:20:22.404+08:00",
+      "fetchedAt": "2026-11-09T22:40:44.841+08:00",
       "error": "未启用",
       "disabled": true
     }
