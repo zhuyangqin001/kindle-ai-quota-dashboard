@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-09T22:10:06.664+08:00",
+  "updatedAt": "2026-11-09T22:20:24.623+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 8.7,
-    "feelsLikeC": 4.8,
+    "tempC": 8.6,
+    "feelsLikeC": 4.7,
     "humidity": 57,
-    "windKph": 12.7,
+    "windKph": 12.5,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-09T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-09T22:10:06.665+08:00",
+    "observedAt": "2026-11-09T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-09T22:20:24.623+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "送别翻译家谢莹莹：明亮的生命之歌将永远回响",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729148.shtml",
+        "publishedAt": "2026-11-09T22:14:18.000+08:00"
+      },
+      {
+        "title": "（第九届进博会）华商话进博：这里是“入海口”更是“加油站”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-09/10729147.shtml",
+        "publishedAt": "2026-11-09T22:12:24.000+08:00"
+      },
+      {
+        "title": "云南多地迎来今冬初雪 高海拔山区银装素裹",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729146.shtml",
+        "publishedAt": "2026-11-09T22:09:42.000+08:00"
+      },
+      {
+        "title": "2026国际山地旅游暨户外运动大会在贵州兴义开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729145.shtml",
+        "publishedAt": "2026-11-09T22:07:37.000+08:00"
+      },
+      {
         "title": "安徽砀山警方通报一起持刀伤人案：4人受伤，嫌犯被抓获",
         "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729144.shtml",
         "publishedAt": "2026-11-09T22:03:39.000+08:00"
-      },
-      {
-        "title": "2026年10月份我国CPI同比上涨0.7%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729143.shtml",
-        "publishedAt": "2026-11-09T21:56:43.000+08:00"
-      },
-      {
-        "title": "中欧班列（长沙）双枢纽班列首发 驶入“枢纽对枢纽”阶段",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-09/10729141.shtml",
-        "publishedAt": "2026-11-09T21:53:31.000+08:00"
-      },
-      {
-        "title": "（第九届进博会）进博会“首发效应”凸显 展品加速变爆款",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729142.shtml",
-        "publishedAt": "2026-11-09T21:52:23.000+08:00"
-      },
-      {
-        "title": "澳门青少年赴四川北川研学 体验羌族非遗感知民族文化魅力",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-09/10729140.shtml",
-        "publishedAt": "2026-11-09T21:50:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T22:10:03.259+08:00",
+    "fetchedAt": "2026-11-09T22:20:21.653+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-09T22:10:03.966+08:00",
+      "fetchedAt": "2026-11-09T22:20:22.391+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T22:10:03.969+08:00",
+      "fetchedAt": "2026-11-09T22:20:22.394+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T22:10:03.979+08:00",
+      "fetchedAt": "2026-11-09T22:20:22.404+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T22:10:03.979+08:00",
+      "fetchedAt": "2026-11-09T22:20:22.404+08:00",
       "error": "未启用",
       "disabled": true
     }
