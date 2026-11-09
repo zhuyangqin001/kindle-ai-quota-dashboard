@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-09T08:00:57.341+08:00",
+  "updatedAt": "2026-11-09T21:39:13.555+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.1,
-    "feelsLikeC": 8.4,
-    "humidity": 71,
-    "windKph": 20,
+    "tempC": 9.2,
+    "feelsLikeC": 5,
+    "humidity": 55,
+    "windKph": 14.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-09T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-09T08:00:57.341+08:00",
+    "observedAt": "2026-11-09T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-09T21:39:13.555+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "未来三天北京以晴为主 昼夜温差较大最低温仍在冰点上下",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728594.shtml",
-        "publishedAt": "2026-11-09T07:52:03.000+08:00"
+        "title": "超过一半老年人每天蛋白质没吃够？快告诉爸妈别总喝粥",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-09/10729116.shtml",
+        "publishedAt": "2026-11-09T21:29:15.000+08:00"
       },
       {
-        "title": "员工用AI辅助办公，出错谁担责？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728593.shtml",
-        "publishedAt": "2026-11-09T07:49:49.000+08:00"
+        "title": "（第九届进博会）进博会双向开放“惠全球”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-09/10729115.shtml",
+        "publishedAt": "2026-11-09T21:26:49.000+08:00"
       },
       {
-        "title": "AI打开新空间，影视创作如何向新而行",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-09/10728592.shtml",
-        "publishedAt": "2026-11-09T07:46:33.000+08:00"
+        "title": "中国学者发起人工智能赋能政策研究计划入选联合国科学议程",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-09/10729111.shtml",
+        "publishedAt": "2026-11-09T21:14:55.000+08:00"
       },
       {
-        "title": "满屏“人生赢家”，不是你的标准答案",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-09/10728591.shtml",
-        "publishedAt": "2026-11-09T07:43:55.000+08:00"
+        "title": "湖北唐崖土司城遗址考古报告首次公开",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-09/10729113.shtml",
+        "publishedAt": "2026-11-09T21:13:37.000+08:00"
       },
       {
-        "title": "今天，想请你重新认识一下“蓝朋友”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-09/10728590.shtml",
-        "publishedAt": "2026-11-09T07:39:07.000+08:00"
+        "title": "新赛季WCBA联赛将启 新增两支参赛队伍",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-09/10729112.shtml",
+        "publishedAt": "2026-11-09T21:13:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-09T08:00:54.774+08:00",
+    "fetchedAt": "2026-11-09T21:39:10.873+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-09T08:00:55.500+08:00",
+      "fetchedAt": "2026-11-09T21:39:11.343+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 4,
-          "resetAt": "2026-11-09T12:24:20.000+08:00"
+          "usedPct": 3,
+          "resetAt": "2026-11-10T02:22:04.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 3,
+          "usedPct": 4,
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-09T08:00:55.504+08:00",
+      "fetchedAt": "2026-11-09T21:39:11.346+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T08:00:55.514+08:00",
+      "fetchedAt": "2026-11-09T21:39:11.352+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-09T08:00:55.514+08:00",
+      "fetchedAt": "2026-11-09T21:39:11.353+08:00",
       "error": "未启用",
       "disabled": true
     }
