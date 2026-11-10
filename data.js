@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T10:05:03.224+08:00",
+  "updatedAt": "2026-11-10T10:15:15.392+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.6,
-    "feelsLikeC": 7.6,
+    "tempC": 10.7,
+    "feelsLikeC": 8,
     "humidity": 53,
-    "windKph": 8.1,
+    "windKph": 8,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-10T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-10T10:05:03.225+08:00",
+    "observedAt": "2026-11-10T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-10T10:15:15.392+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "海南检察机关依法对戴北方涉嫌受贿案提起公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729239.shtml",
-        "publishedAt": "2026-11-10T10:02:07.000+08:00"
+        "title": "四面八方话进博｜“进博会是双向奔赴的平台”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729243.shtml",
+        "publishedAt": "2026-11-10T10:12:15.000+08:00"
       },
       {
-        "title": "新阶层主题月：专场活动之“新善大连·爱在沙河口”温情启幕",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729230.shtml",
-        "publishedAt": "2026-11-10T10:00:43.000+08:00"
+        "title": "11月10日央行开展1900亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729227.shtml",
+        "publishedAt": "2026-11-10T10:11:11.000+08:00"
       },
       {
-        "title": "加拿大延长对部分美国进口商品的关税减免至2028年",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729222.shtml",
-        "publishedAt": "2026-11-10T09:59:55.000+08:00"
+        "title": "金观平：协同合作共护共兴全球海洋",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-10/10729242.shtml",
+        "publishedAt": "2026-11-10T10:10:11.000+08:00"
       },
       {
-        "title": "日本新版防卫战略或强化“持续作战能力”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729237.shtml",
-        "publishedAt": "2026-11-10T09:58:24.000+08:00"
+        "title": "云岭动态第三十七期",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729216.shtml",
+        "publishedAt": "2026-11-10T10:08:59.000+08:00"
       },
       {
-        "title": "土耳其钢铁厂爆炸已致16人死亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729221.shtml",
-        "publishedAt": "2026-11-10T09:56:54.000+08:00"
+        "title": "让进博会“展品变商品”再快一步 智慧口岸将这样升级",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729241.shtml",
+        "publishedAt": "2026-11-10T10:08:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T10:05:00.121+08:00",
+    "fetchedAt": "2026-11-10T10:15:12.493+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T10:05:00.862+08:00",
+      "fetchedAt": "2026-11-10T10:15:13.174+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-10T15:05:03.000+08:00"
+          "resetAt": "2026-11-10T15:15:14.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T10:05:00.865+08:00",
+      "fetchedAt": "2026-11-10T10:15:13.177+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T10:05:00.874+08:00",
+      "fetchedAt": "2026-11-10T10:15:13.187+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T10:05:00.875+08:00",
+      "fetchedAt": "2026-11-10T10:15:13.188+08:00",
       "error": "未启用",
       "disabled": true
     }
