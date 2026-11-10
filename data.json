@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-10T19:56:33.801+08:00",
+  "updatedAt": "2026-11-10T20:26:56.640+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10,
-    "feelsLikeC": 7.6,
-    "humidity": 65,
-    "windKph": 6.1,
+    "tempC": 9.6,
+    "feelsLikeC": 7.3,
+    "humidity": 68,
+    "windKph": 5.6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-10T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-10T19:56:33.801+08:00",
+    "observedAt": "2026-11-10T20:15:00.000+08:00",
+    "fetchedAt": "2026-11-10T20:26:56.640+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国国家发改委：千方百计解决“养老愁、托育难”等问题",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729694.shtml",
-        "publishedAt": "2026-11-10T19:48:48.000+08:00"
+        "title": "台积电10月合并营收创单月历史新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729731.shtml",
+        "publishedAt": "2026-11-10T20:17:00.000+08:00"
       },
       {
-        "title": "“妈祖故里”来了台湾“新村民”：从乡建乡创到生态农业",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729695.shtml",
-        "publishedAt": "2026-11-10T19:48:40.000+08:00"
+        "title": "新书《数智化在西藏：共享与发展》讲述更“聪明”的雪域高原",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729722.shtml",
+        "publishedAt": "2026-11-10T20:13:20.000+08:00"
       },
       {
-        "title": "前10月中国纺织服装出口值同比增长6.2%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729697.shtml",
-        "publishedAt": "2026-11-10T19:47:58.000+08:00"
+        "title": "澜湄六国代表聚首四川乐山共拓务实合作",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729719.shtml",
+        "publishedAt": "2026-11-10T20:13:14.000+08:00"
       },
       {
-        "title": "10月中国城市轨道交通完成客运量29.4亿人次",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729698.shtml",
-        "publishedAt": "2026-11-10T19:47:50.000+08:00"
+        "title": "福建“侨批馆”首次亮相北京 让老侨批成新国潮",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-10/10729718.shtml",
+        "publishedAt": "2026-11-10T20:13:12.000+08:00"
       },
       {
-        "title": "王毅同斯洛伐克外长布拉纳尔会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729713.shtml",
-        "publishedAt": "2026-11-10T19:46:36.000+08:00"
+        "title": "中国国家知识产权局受理泰国3个地理标志产品保护申请",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729723.shtml",
+        "publishedAt": "2026-11-10T20:13:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T19:56:30.743+08:00",
+    "fetchedAt": "2026-11-10T20:26:53.730+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T19:56:31.425+08:00",
+      "fetchedAt": "2026-11-10T20:26:54.323+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T00:56:33.000+08:00"
+          "resetAt": "2026-11-11T01:26:56.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T19:56:31.427+08:00",
+      "fetchedAt": "2026-11-10T20:26:54.325+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T19:56:31.438+08:00",
+      "fetchedAt": "2026-11-10T20:26:54.334+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T19:56:31.438+08:00",
+      "fetchedAt": "2026-11-10T20:26:54.335+08:00",
       "error": "未启用",
       "disabled": true
     }
