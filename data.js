@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T07:29:42.340+08:00",
+  "updatedAt": "2026-11-11T07:39:51.788+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 8.8,
-    "feelsLikeC": 7.4,
-    "humidity": 82,
-    "windKph": 2.4,
+    "tempC": 9,
+    "feelsLikeC": 7.6,
+    "humidity": 80,
+    "windKph": 2.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T07:15:00.000+08:00",
-    "fetchedAt": "2026-11-11T07:29:42.340+08:00",
+    "observedAt": "2026-11-11T07:30:00.000+08:00",
+    "fetchedAt": "2026-11-11T07:39:51.788+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第一批新车次列车车票 今起陆续发售",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729887.shtml",
+        "publishedAt": "2026-11-11T07:34:33.000+08:00"
+      },
       {
         "title": "保加利亚连环车祸已致12死 政府宣布全国哀悼",
         "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729883.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "俄美乌时隔9个月再谈 欧洲争取上桌 俄乌互袭不止",
         "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729880.shtml",
         "publishedAt": "2026-11-11T06:50:41.000+08:00"
-      },
-      {
-        "title": "11月11日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-11/10729879.shtml",
-        "publishedAt": "2026-11-11T06:48:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T07:29:39.644+08:00",
+    "fetchedAt": "2026-11-11T07:39:49.210+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T07:29:40.394+08:00",
+      "fetchedAt": "2026-11-11T07:39:49.944+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T12:29:42.000+08:00"
+          "resetAt": "2026-11-11T12:39:51.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T07:29:40.397+08:00",
+      "fetchedAt": "2026-11-11T07:39:49.948+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T07:29:40.405+08:00",
+      "fetchedAt": "2026-11-11T07:39:49.958+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T07:29:40.405+08:00",
+      "fetchedAt": "2026-11-11T07:39:49.958+08:00",
       "error": "未启用",
       "disabled": true
     }
