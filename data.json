@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T00:01:35.708+08:00",
+  "updatedAt": "2026-11-11T00:11:51.667+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-11T00:00:00.000+08:00",
-    "fetchedAt": "2026-11-11T00:01:35.708+08:00",
+    "fetchedAt": "2026-11-11T00:11:51.667+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "马来西亚前总理纳吉布开始居家服刑",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729865.shtml",
+        "publishedAt": "2026-11-11T00:01:07.000+08:00"
+      },
       {
         "title": "商家呼吁“取消外卖”？实为MCN制造对立、虚假摆拍引流",
         "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729864.shtml",
@@ -38,14 +43,9 @@
         "title": "2026年度邵逸夫奖在港颁奖 获奖者：合作是成功关键",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-10/10729853.shtml",
         "publishedAt": "2026-11-10T22:23:23.000+08:00"
-      },
-      {
-        "title": "以味为桥 80名厨师烹制西部陆海新通道沿线美食",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729839.shtml",
-        "publishedAt": "2026-11-10T22:17:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T00:01:32.490+08:00",
+    "fetchedAt": "2026-11-11T00:11:48.079+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T00:01:33.216+08:00",
+      "fetchedAt": "2026-11-11T00:11:48.795+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T05:01:35.000+08:00"
+          "resetAt": "2026-11-11T05:11:50.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T00:01:33.219+08:00",
+      "fetchedAt": "2026-11-11T00:11:48.798+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T00:01:33.229+08:00",
+      "fetchedAt": "2026-11-11T00:11:48.808+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T00:01:33.230+08:00",
+      "fetchedAt": "2026-11-11T00:11:48.808+08:00",
       "error": "未启用",
       "disabled": true
     }
