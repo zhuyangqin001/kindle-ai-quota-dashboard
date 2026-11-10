@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T11:57:31.581+08:00",
+  "updatedAt": "2026-11-10T12:07:43.795+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.3,
-    "feelsLikeC": 10.2,
-    "humidity": 48,
-    "windKph": 8.5,
+    "tempC": 12.6,
+    "feelsLikeC": 10.4,
+    "humidity": 47,
+    "windKph": 8.6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-10T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-10T11:57:31.581+08:00",
+    "observedAt": "2026-11-10T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-10T12:07:43.795+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "寒潮过后大回暖！全国升温大赛来了 看看你家能升到多少度",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729333.shtml",
-        "publishedAt": "2026-11-10T11:51:49.000+08:00"
+        "title": "中国—土耳其绿色发展商务论坛在伊斯坦布尔举办",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729305.shtml",
+        "publishedAt": "2026-11-10T12:04:01.000+08:00"
       },
       {
-        "title": "（第九届进博会）全球灵感在此交汇 进博会见证创新要素双向流动",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729330.shtml",
-        "publishedAt": "2026-11-10T11:51:01.000+08:00"
+        "title": "“卷帙匠心——古今书籍装帧美学”展在柏林开幕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729303.shtml",
+        "publishedAt": "2026-11-10T12:03:09.000+08:00"
       },
       {
-        "title": "山东凝侨心、聚侨力 书写侨务工作奋进画卷",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-10/10729325.shtml",
-        "publishedAt": "2026-11-10T11:49:08.000+08:00"
+        "title": "最新气候变化研究：全球区域性变暖或已与升温1.5 °C的世界相仿",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729295.shtml",
+        "publishedAt": "2026-11-10T12:03:01.000+08:00"
       },
       {
-        "title": "“中场抓住嘛！”新疆足球大叔和他的草根训练场",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729323.shtml",
-        "publishedAt": "2026-11-10T11:47:28.000+08:00"
+        "title": "老藤长篇小说《上东北》讲述五代人守护黑土地的平民史诗",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729329.shtml",
+        "publishedAt": "2026-11-10T12:02:57.000+08:00"
       },
       {
-        "title": "（第九届进博会）进博会加速AI从“炫技”走向“生产力”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729318.shtml",
-        "publishedAt": "2026-11-10T11:47:26.000+08:00"
+        "title": "人民论坛网评 | 于细处深耕 向实处发力",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-10/10729339.shtml",
+        "publishedAt": "2026-11-10T12:02:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T11:57:27.650+08:00",
+    "fetchedAt": "2026-11-10T12:07:41.105+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T11:57:28.417+08:00",
+      "fetchedAt": "2026-11-10T12:07:41.821+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-10T16:57:31.000+08:00"
+          "resetAt": "2026-11-10T17:07:43.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T11:57:28.421+08:00",
+      "fetchedAt": "2026-11-10T12:07:41.824+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T11:57:28.431+08:00",
+      "fetchedAt": "2026-11-10T12:07:41.836+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T11:57:28.431+08:00",
+      "fetchedAt": "2026-11-10T12:07:41.836+08:00",
       "error": "未启用",
       "disabled": true
     }
