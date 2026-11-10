@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T07:39:51.788+08:00",
+  "updatedAt": "2026-11-11T07:50:01.643+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 9,
-    "feelsLikeC": 7.6,
-    "humidity": 80,
-    "windKph": 2.6,
+    "tempC": 9.3,
+    "feelsLikeC": 7.8,
+    "humidity": 78,
+    "windKph": 2.8,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T07:39:51.788+08:00",
+    "observedAt": "2026-11-11T07:45:00.000+08:00",
+    "fetchedAt": "2026-11-11T07:50:01.643+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "你囤Token了吗？“双十一”AI消费套路避坑指南",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729890.shtml",
+        "publishedAt": "2026-11-11T07:43:54.000+08:00"
+      },
+      {
+        "title": "冬天洗澡 早上洗还是晚上洗？这些“坏习惯”赶紧改",
+        "url": "https://www.chinanews.com.cn/life/2026/11-11/10729888.shtml",
+        "publishedAt": "2026-11-11T07:40:05.000+08:00"
+      },
+      {
         "title": "第一批新车次列车车票 今起陆续发售",
         "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729887.shtml",
         "publishedAt": "2026-11-11T07:34:33.000+08:00"
       },
       {
+        "title": "严格贯彻执行民主集中制（学习贯彻党的二十届五中全会精神）",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729885.shtml",
+        "publishedAt": "2026-11-11T07:31:39.000+08:00"
+      },
+      {
         "title": "保加利亚连环车祸已致12死 政府宣布全国哀悼",
         "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729883.shtml",
         "publishedAt": "2026-11-11T07:19:42.000+08:00"
-      },
-      {
-        "title": "今天，祝你生日快乐！",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729882.shtml",
-        "publishedAt": "2026-11-11T07:00:01.000+08:00"
-      },
-      {
-        "title": "阿布扎比首日会谈持续近4小时 俄美乌三方表态",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729881.shtml",
-        "publishedAt": "2026-11-11T06:56:43.000+08:00"
-      },
-      {
-        "title": "俄美乌时隔9个月再谈 欧洲争取上桌 俄乌互袭不止",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729880.shtml",
-        "publishedAt": "2026-11-11T06:50:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T07:39:49.210+08:00",
+    "fetchedAt": "2026-11-11T07:49:58.909+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T07:39:49.944+08:00",
+      "fetchedAt": "2026-11-11T07:49:59.643+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T12:39:51.000+08:00"
+          "resetAt": "2026-11-11T12:50:01.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T07:39:49.948+08:00",
+      "fetchedAt": "2026-11-11T07:49:59.647+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T07:39:49.958+08:00",
+      "fetchedAt": "2026-11-11T07:49:59.656+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T07:39:49.958+08:00",
+      "fetchedAt": "2026-11-11T07:49:59.656+08:00",
       "error": "未启用",
       "disabled": true
     }
