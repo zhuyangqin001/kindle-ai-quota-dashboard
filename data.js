@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T21:17:59.628+08:00",
+  "updatedAt": "2026-11-10T21:28:12.176+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.8,
-    "feelsLikeC": 6.6,
+    "tempC": 8.9,
+    "feelsLikeC": 6.8,
     "humidity": 74,
-    "windKph": 5.5,
+    "windKph": 4.7,
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-10T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-10T21:17:59.628+08:00",
+    "fetchedAt": "2026-11-10T21:28:12.176+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中泰交响乐《山海和鸣》奏响中国—东盟音乐周闭幕式",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729761.shtml",
-        "publishedAt": "2026-11-10T21:13:25.000+08:00"
+        "title": "算力总规模位居世界第二 我国推进具身智能等领域数据标准制定",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729798.shtml",
+        "publishedAt": "2026-11-10T21:19:47.000+08:00"
       },
       {
-        "title": "未来科学大奖获奖者对话青少年：陪伴新一代奔赴更远征途",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729760.shtml",
-        "publishedAt": "2026-11-10T21:13:19.000+08:00"
+        "title": "山西将织密现代水网 破解“煤长水短”制约",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729762.shtml",
+        "publishedAt": "2026-11-10T21:18:01.000+08:00"
       },
       {
-        "title": "用音乐致敬长征精神 民族交响合唱《向光而行》首登京城舞台",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729769.shtml",
-        "publishedAt": "2026-11-10T21:12:49.000+08:00"
+        "title": "广西防城港建设面向东盟微短剧创作生产基地",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729763.shtml",
+        "publishedAt": "2026-11-10T21:17:03.000+08:00"
       },
       {
-        "title": "天津“十五五”布局“数智医保” 医保影像云、个人医保云将落地",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729770.shtml",
-        "publishedAt": "2026-11-10T21:12:31.000+08:00"
+        "title": "浙江乐清民建送摄影下乡 用九年公益长跑定格“最美夕阳红”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729765.shtml",
+        "publishedAt": "2026-11-10T21:16:07.000+08:00"
       },
       {
-        "title": "哈尔滨今冬推出百余项冰雪主题活动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729758.shtml",
-        "publishedAt": "2026-11-10T21:12:23.000+08:00"
+        "title": "11月10日夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-10/10729797.shtml",
+        "publishedAt": "2026-11-10T21:15:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T21:17:55.632+08:00",
+    "fetchedAt": "2026-11-10T21:28:09.111+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T21:17:56.349+08:00",
+      "fetchedAt": "2026-11-10T21:28:09.822+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T02:17:59.000+08:00"
+          "resetAt": "2026-11-11T02:28:11.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T21:17:56.353+08:00",
+      "fetchedAt": "2026-11-10T21:28:09.825+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T21:17:56.364+08:00",
+      "fetchedAt": "2026-11-10T21:28:09.836+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T21:17:56.364+08:00",
+      "fetchedAt": "2026-11-10T21:28:09.837+08:00",
       "error": "未启用",
       "disabled": true
     }
