@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-10T10:25:28.778+08:00",
+  "updatedAt": "2026-11-10T10:35:42.296+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.7,
-    "feelsLikeC": 8,
-    "humidity": 53,
-    "windKph": 8,
+    "tempC": 11.3,
+    "feelsLikeC": 8.7,
+    "humidity": 50,
+    "windKph": 8.1,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-10T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-10T10:25:28.779+08:00",
+    "observedAt": "2026-11-10T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-10T10:35:42.296+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026“中国熊猫杯”学生中文演讲大赛在多伦多举行",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-10/10729248.shtml",
+        "publishedAt": "2026-11-10T10:28:20.000+08:00"
+      },
+      {
+        "title": "近视防控镜片行业“标尺”，应该怎么立",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729252.shtml",
+        "publishedAt": "2026-11-10T10:26:42.000+08:00"
+      },
       {
         "title": "美国参展商的进博“新故事”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729250.shtml",
@@ -33,19 +43,9 @@
         "title": "国家发改委：多渠道增加普通高中和高等教育学位供给",
         "url": "https://www.chinanews.com.cn/edu/2026/11-10/10729247.shtml",
         "publishedAt": "2026-11-10T10:18:10.000+08:00"
-      },
-      {
-        "title": "中美两军举行“驼峰航线”美军援华抗日飞行员遗骸移交仪式",
-        "url": "https://www.chinanews.com.cn/kong/2026/11-10/10729246.shtml",
-        "publishedAt": "2026-11-10T10:18:06.000+08:00"
-      },
-      {
-        "title": "11月10日人民币对美元中间价报6.7167 上调21个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729234.shtml",
-        "publishedAt": "2026-11-10T10:14:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T10:25:25.788+08:00",
+    "fetchedAt": "2026-11-10T10:35:39.538+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T10:25:26.384+08:00",
+      "fetchedAt": "2026-11-10T10:35:40.249+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-10T15:25:28.000+08:00"
+          "resetAt": "2026-11-10T15:35:42.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T10:25:26.385+08:00",
+      "fetchedAt": "2026-11-10T10:35:40.252+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T10:25:26.393+08:00",
+      "fetchedAt": "2026-11-10T10:35:40.260+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T10:25:26.393+08:00",
+      "fetchedAt": "2026-11-10T10:35:40.260+08:00",
       "error": "未启用",
       "disabled": true
     }
