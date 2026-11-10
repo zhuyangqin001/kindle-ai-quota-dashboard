@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T22:19:14.877+08:00",
+  "updatedAt": "2026-11-10T22:29:28.132+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-10T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-10T22:19:14.877+08:00",
+    "fetchedAt": "2026-11-10T22:29:28.133+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年度邵逸夫奖在港颁奖 获奖者：合作是成功关键",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-10/10729853.shtml",
+        "publishedAt": "2026-11-10T22:23:23.000+08:00"
+      },
+      {
+        "title": "以味为桥 80名厨师烹制西部陆海新通道沿线美食",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729839.shtml",
+        "publishedAt": "2026-11-10T22:17:06.000+08:00"
+      },
+      {
+        "title": "2026澜沧江—湄公河地方政府合作论坛暨历史文化名城对话会在乐山开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729828.shtml",
+        "publishedAt": "2026-11-10T22:16:32.000+08:00"
+      },
       {
         "title": "韩国拟扩大派驻亚丁湾部队任务区域",
         "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729850.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中国深部岩芯钻探最大深度提升至7000米级",
         "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729849.shtml",
         "publishedAt": "2026-11-10T22:10:18.000+08:00"
-      },
-      {
-        "title": "河北邯郸：废弃锅炉房变身公共文化空间",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729811.shtml",
-        "publishedAt": "2026-11-10T22:08:36.000+08:00"
-      },
-      {
-        "title": "生态环境部应对气候变化司司长夏应显：中国建成全球最大、最完整的清洁能源产业链",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729847.shtml",
-        "publishedAt": "2026-11-10T22:07:18.000+08:00"
-      },
-      {
-        "title": "深圳福田红树林成候鸟越冬地 黑脸琵鹭等陆续抵达",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729813.shtml",
-        "publishedAt": "2026-11-10T22:07:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T22:19:09.409+08:00",
+    "fetchedAt": "2026-11-10T22:29:24.758+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T22:19:10.098+08:00",
+      "fetchedAt": "2026-11-10T22:29:25.475+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T03:19:14.000+08:00"
+          "resetAt": "2026-11-11T03:29:27.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T22:19:10.102+08:00",
+      "fetchedAt": "2026-11-10T22:29:25.479+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T22:19:10.113+08:00",
+      "fetchedAt": "2026-11-10T22:29:25.486+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T22:19:10.113+08:00",
+      "fetchedAt": "2026-11-10T22:29:25.486+08:00",
       "error": "未启用",
       "disabled": true
     }
