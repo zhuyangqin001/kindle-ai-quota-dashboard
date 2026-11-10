@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T22:09:01.025+08:00",
+  "updatedAt": "2026-11-10T22:19:14.877+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.5,
+    "tempC": 8.4,
     "feelsLikeC": 6.4,
-    "humidity": 76,
-    "windKph": 4.9,
+    "humidity": 77,
+    "windKph": 4.4,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-10T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-10T22:09:01.025+08:00",
+    "observedAt": "2026-11-10T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-10T22:19:14.877+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国国民党举办孙中山先生诞辰纪念座谈会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729840.shtml",
-        "publishedAt": "2026-11-10T22:03:06.000+08:00"
+        "title": "韩国拟扩大派驻亚丁湾部队任务区域",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729850.shtml",
+        "publishedAt": "2026-11-10T22:10:52.000+08:00"
       },
       {
-        "title": "上海文艺创作成果“绽放”艺术节",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729837.shtml",
-        "publishedAt": "2026-11-10T22:03:06.000+08:00"
+        "title": "中国深部岩芯钻探最大深度提升至7000米级",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729849.shtml",
+        "publishedAt": "2026-11-10T22:10:18.000+08:00"
       },
       {
-        "title": "中国地矿领域首台全自动化钻机在川西高原投用",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729835.shtml",
-        "publishedAt": "2026-11-10T22:02:16.000+08:00"
+        "title": "河北邯郸：废弃锅炉房变身公共文化空间",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729811.shtml",
+        "publishedAt": "2026-11-10T22:08:36.000+08:00"
       },
       {
-        "title": "王沪宁会见老挝建国阵线中央委员会副主席布沙迪",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-10/1210503.shtml",
-        "publishedAt": "2026-11-10T22:01:52.000+08:00"
+        "title": "生态环境部应对气候变化司司长夏应显：中国建成全球最大、最完整的清洁能源产业链",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729847.shtml",
+        "publishedAt": "2026-11-10T22:07:18.000+08:00"
       },
       {
-        "title": "海南推进城乡建设低碳转型 全面推广绿色建筑",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729843.shtml",
-        "publishedAt": "2026-11-10T22:01:48.000+08:00"
+        "title": "深圳福田红树林成候鸟越冬地 黑脸琵鹭等陆续抵达",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729813.shtml",
+        "publishedAt": "2026-11-10T22:07:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T22:08:57.626+08:00",
+    "fetchedAt": "2026-11-10T22:19:09.409+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T22:08:58.358+08:00",
+      "fetchedAt": "2026-11-10T22:19:10.098+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T03:09:00.000+08:00"
+          "resetAt": "2026-11-11T03:19:14.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T22:08:58.361+08:00",
+      "fetchedAt": "2026-11-10T22:19:10.102+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T22:08:58.371+08:00",
+      "fetchedAt": "2026-11-10T22:19:10.113+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T22:08:58.371+08:00",
+      "fetchedAt": "2026-11-10T22:19:10.113+08:00",
       "error": "未启用",
       "disabled": true
     }
