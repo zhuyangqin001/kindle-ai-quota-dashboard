@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:16:35.042+08:00",
+  "updatedAt": "2026-11-10T11:26:50.545+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-10T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-10T11:16:35.042+08:00",
+    "fetchedAt": "2026-11-10T11:26:50.546+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西藏察隅消防救援机动大队开展送教下基层活动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729270.shtml",
-        "publishedAt": "2026-11-10T11:14:29.000+08:00"
+        "title": "国铁沈阳局东北环线12趟动车雪具随车同行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729309.shtml",
+        "publishedAt": "2026-11-10T11:23:29.000+08:00"
       },
       {
-        "title": "西藏金融运行“量增价稳” “金融活水”润泽高原民生",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729268.shtml",
-        "publishedAt": "2026-11-10T11:13:53.000+08:00"
+        "title": "我国加速低轨卫星互联网组网",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729320.shtml",
+        "publishedAt": "2026-11-10T11:23:17.000+08:00"
       },
       {
-        "title": "袁州区组织统一战线代表人士开展实践研学活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729264.shtml",
-        "publishedAt": "2026-11-10T11:13:02.000+08:00"
+        "title": "2026中国网球匹克球双拍赛暨首届“国金杯”上海站收官",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-10/10729308.shtml",
+        "publishedAt": "2026-11-10T11:22:11.000+08:00"
       },
       {
-        "title": "你我身边的“六张网”丨“看不见”的温暖从何来",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729300.shtml",
-        "publishedAt": "2026-11-10T11:10:34.000+08:00"
+        "title": "机器人登泰山“中暑”暴露哪些短板",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729317.shtml",
+        "publishedAt": "2026-11-10T11:21:55.000+08:00"
       },
       {
-        "title": "青海省原国土资源厅党委委员、副厅长李志勇接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729294.shtml",
-        "publishedAt": "2026-11-10T11:08:54.000+08:00"
+        "title": "三秦少年塞上争锋 陕西省青少年排球冠军赛启幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-10/10729306.shtml",
+        "publishedAt": "2026-11-10T11:21:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T11:16:31.599+08:00",
+    "fetchedAt": "2026-11-10T11:26:46.904+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T11:16:32.295+08:00",
+      "fetchedAt": "2026-11-10T11:26:47.628+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-10T16:16:34.000+08:00"
+          "resetAt": "2026-11-10T16:26:49.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T11:16:32.298+08:00",
+      "fetchedAt": "2026-11-10T11:26:47.632+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T11:16:32.305+08:00",
+      "fetchedAt": "2026-11-10T11:26:47.643+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T11:16:32.306+08:00",
+      "fetchedAt": "2026-11-10T11:26:47.643+08:00",
       "error": "未启用",
       "disabled": true
     }
