@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T17:33:11.827+08:00",
+  "updatedAt": "2026-11-10T17:43:23.075+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-10T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-10T17:33:11.827+08:00",
+    "fetchedAt": "2026-11-10T17:43:23.075+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "急难愁盼现场处置 沈阳“科长值班窗口”兜底解决办事难题",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729555.shtml",
-        "publishedAt": "2026-11-10T17:29:21.000+08:00"
+        "title": "事关民法典继承编的解释 最高法向社会公开征求意见",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-10/10729597.shtml",
+        "publishedAt": "2026-11-10T17:36:21.000+08:00"
       },
       {
-        "title": "湖北出土音乐文物在美国展出 再现中华礼乐文明",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729556.shtml",
-        "publishedAt": "2026-11-10T17:29:19.000+08:00"
+        "title": "中国牵头制定的光栅扫描激光显示国际标准发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729550.shtml",
+        "publishedAt": "2026-11-10T17:36:07.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）广西扶绥岜伦村：推动小村庄实现大变样 绘就和美新画卷",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729557.shtml",
-        "publishedAt": "2026-11-10T17:29:17.000+08:00"
+        "title": "微短剧《侨批生命线》广西东兴开机 再现东兴汇路烽火往事",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-10/10729546.shtml",
+        "publishedAt": "2026-11-10T17:35:59.000+08:00"
       },
       {
-        "title": "（第九届进博会）九年赴进博之约 归侨任美霏乐当“西语政商超级联络人”",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-10/10729559.shtml",
-        "publishedAt": "2026-11-10T17:29:15.000+08:00"
+        "title": "直播海报：致敬人民空军成立77周年 体验飞行员的一天",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729598.shtml",
+        "publishedAt": "2026-11-10T17:35:27.000+08:00"
       },
       {
-        "title": "桂林老国企牵手院士团队 攻关高端铜基材料关键工艺",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729558.shtml",
-        "publishedAt": "2026-11-10T17:29:13.000+08:00"
+        "title": "展示电影资源与成果 金鸡百花电影节专场推介福建电影",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729551.shtml",
+        "publishedAt": "2026-11-10T17:35:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T17:33:09.428+08:00",
+    "fetchedAt": "2026-11-10T17:43:20.631+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T17:33:10.168+08:00",
+      "fetchedAt": "2026-11-10T17:43:21.354+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -75,7 +75,7 @@
       "fetchedAt": "2026-11-10T16:12:20.534+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-10T17:33:10.171+08:00"
+      "lastAttemptAt": "2026-11-10T17:43:21.357+08:00"
     },
     "mimo": {
       "ok": false,
@@ -83,7 +83,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T17:33:10.182+08:00",
+      "fetchedAt": "2026-11-10T17:43:21.368+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +93,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T17:33:10.182+08:00",
+      "fetchedAt": "2026-11-10T17:43:21.368+08:00",
       "error": "未启用",
       "disabled": true
     }
