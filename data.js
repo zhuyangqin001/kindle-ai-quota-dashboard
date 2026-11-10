@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T13:59:57.345+08:00",
+  "updatedAt": "2026-11-10T14:10:15.014+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.9,
+    "tempC": 14,
     "feelsLikeC": 11.4,
     "humidity": 45,
-    "windKph": 7.5,
+    "windKph": 7.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-10T13:45:00.000+08:00",
-    "fetchedAt": "2026-11-10T13:59:57.345+08:00",
+    "observedAt": "2026-11-10T14:00:00.000+08:00",
+    "fetchedAt": "2026-11-10T14:10:15.014+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "洋浦海关2号驻勤楼电梯节能改造项目比选成交公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729379.shtml",
+        "publishedAt": "2026-11-10T14:00:44.000+08:00"
+      },
+      {
+        "title": "四部门：进一步做好创新药安全合理配备使用工作",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729375.shtml",
+        "publishedAt": "2026-11-10T13:59:36.000+08:00"
+      },
       {
         "title": "从“单打独斗”到“五方联动”：江苏高邮探索东方白鹳“赔修一体”新路径",
         "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729370.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "（第九届进博会）进博会读懂中国“聚侨力”：侨心所向机遇共享",
         "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729372.shtml",
         "publishedAt": "2026-11-10T13:41:07.000+08:00"
-      },
-      {
-        "title": "镇村开行“云公交” 常州算对几笔账",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729374.shtml",
-        "publishedAt": "2026-11-10T13:40:18.000+08:00"
-      },
-      {
-        "title": "玉林海关2026年12月份“关领导接待日”公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729371.shtml",
-        "publishedAt": "2026-11-10T13:29:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T13:59:54.610+08:00",
+    "fetchedAt": "2026-11-10T14:10:11.161+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T13:59:55.348+08:00",
+      "fetchedAt": "2026-11-10T14:10:11.890+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-10T18:59:56.000+08:00"
+          "resetAt": "2026-11-10T19:10:14.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T13:59:55.351+08:00",
+      "fetchedAt": "2026-11-10T14:10:11.893+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T13:59:55.357+08:00",
+      "fetchedAt": "2026-11-10T14:10:11.904+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T13:59:55.358+08:00",
+      "fetchedAt": "2026-11-10T14:10:11.904+08:00",
       "error": "未启用",
       "disabled": true
     }
