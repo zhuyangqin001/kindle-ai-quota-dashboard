@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T21:07:47.349+08:00",
+  "updatedAt": "2026-11-10T21:17:59.628+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9,
-    "feelsLikeC": 6.9,
-    "humidity": 72,
-    "windKph": 5,
+    "tempC": 8.8,
+    "feelsLikeC": 6.6,
+    "humidity": 74,
+    "windKph": 5.5,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-10T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-10T21:07:47.349+08:00",
+    "observedAt": "2026-11-10T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-10T21:17:59.628+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“先数字后纸本” 《JUZI汉语学习词典（初中阶）》首发",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729783.shtml",
-        "publishedAt": "2026-11-10T21:02:24.000+08:00"
+        "title": "中泰交响乐《山海和鸣》奏响中国—东盟音乐周闭幕式",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729761.shtml",
+        "publishedAt": "2026-11-10T21:13:25.000+08:00"
       },
       {
-        "title": "中国红十字基金会赴江西鄱阳探访白血病患儿",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729784.shtml",
-        "publishedAt": "2026-11-10T21:02:16.000+08:00"
+        "title": "未来科学大奖获奖者对话青少年：陪伴新一代奔赴更远征途",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729760.shtml",
+        "publishedAt": "2026-11-10T21:13:19.000+08:00"
       },
       {
-        "title": "宁夏百名图书馆员集中学习AI应用",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729785.shtml",
-        "publishedAt": "2026-11-10T20:58:42.000+08:00"
+        "title": "用音乐致敬长征精神 民族交响合唱《向光而行》首登京城舞台",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729769.shtml",
+        "publishedAt": "2026-11-10T21:12:49.000+08:00"
       },
       {
-        "title": "秉承厚重客家文脉 福建永定举办篝火狂欢活动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729787.shtml",
-        "publishedAt": "2026-11-10T20:58:04.000+08:00"
+        "title": "天津“十五五”布局“数智医保” 医保影像云、个人医保云将落地",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729770.shtml",
+        "publishedAt": "2026-11-10T21:12:31.000+08:00"
       },
       {
-        "title": "第二届全国小戏小品展演将在长沙解锁多元戏剧场景",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729792.shtml",
-        "publishedAt": "2026-11-10T20:57:10.000+08:00"
+        "title": "哈尔滨今冬推出百余项冰雪主题活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729758.shtml",
+        "publishedAt": "2026-11-10T21:12:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T21:07:44.563+08:00",
+    "fetchedAt": "2026-11-10T21:17:55.632+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T21:07:45.242+08:00",
+      "fetchedAt": "2026-11-10T21:17:56.349+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T02:07:47.000+08:00"
+          "resetAt": "2026-11-11T02:17:59.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T21:07:45.245+08:00",
+      "fetchedAt": "2026-11-10T21:17:56.353+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T21:07:45.256+08:00",
+      "fetchedAt": "2026-11-10T21:17:56.364+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T21:07:45.256+08:00",
+      "fetchedAt": "2026-11-10T21:17:56.364+08:00",
       "error": "未启用",
       "disabled": true
     }
