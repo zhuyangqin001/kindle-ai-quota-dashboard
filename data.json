@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T21:48:35.693+08:00",
+  "updatedAt": "2026-11-10T21:58:48.938+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-10T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-10T21:48:35.693+08:00",
+    "fetchedAt": "2026-11-10T21:58:48.938+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "内蒙古自治区党委金融工作委员会原副书记马保国被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729801.shtml",
-        "publishedAt": "2026-11-10T21:43:43.000+08:00"
+        "title": "重庆河长制十年巡河超536万人次 解决涉河问题31万个",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729816.shtml",
+        "publishedAt": "2026-11-10T21:54:19.000+08:00"
       },
       {
-        "title": "内蒙古自治区党委政法委员会原副书记房瑞被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729800.shtml",
-        "publishedAt": "2026-11-10T21:43:37.000+08:00"
+        "title": "烟台港2026年件杂货班轮发运量突破2000万吨",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729814.shtml",
+        "publishedAt": "2026-11-10T21:54:05.000+08:00"
       },
       {
-        "title": "算力总规模位居世界第二 我国推进具身智能等领域数据标准制定",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729798.shtml",
-        "publishedAt": "2026-11-10T21:19:47.000+08:00"
+        "title": "“双十一”将至 河北廊坊快递分拨中心作业忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729807.shtml",
+        "publishedAt": "2026-11-10T21:53:53.000+08:00"
       },
       {
-        "title": "山西将织密现代水网 破解“煤长水短”制约",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729762.shtml",
-        "publishedAt": "2026-11-10T21:18:01.000+08:00"
+        "title": "李家超呼吁英国企业及大学参与香港北都发展",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-10/10729806.shtml",
+        "publishedAt": "2026-11-10T21:53:43.000+08:00"
       },
       {
-        "title": "广西防城港建设面向东盟微短剧创作生产基地",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729763.shtml",
-        "publishedAt": "2026-11-10T21:17:03.000+08:00"
+        "title": "敦煌骆驼冬天去哪了？轮休、复训，还能解锁“恋爱福利”",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729821.shtml",
+        "publishedAt": "2026-11-10T21:52:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T21:48:32.793+08:00",
+    "fetchedAt": "2026-11-10T21:58:45.617+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T21:48:33.205+08:00",
+      "fetchedAt": "2026-11-10T21:58:46.328+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T02:48:35.000+08:00"
+          "resetAt": "2026-11-11T02:58:47.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 4,
-          "resetAt": "2026-11-14T21:33:03.000+08:00"
+          "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T21:48:33.208+08:00",
+      "fetchedAt": "2026-11-10T21:58:46.331+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T21:48:33.214+08:00",
+      "fetchedAt": "2026-11-10T21:58:46.342+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T21:48:33.214+08:00",
+      "fetchedAt": "2026-11-10T21:58:46.342+08:00",
       "error": "未启用",
       "disabled": true
     }
