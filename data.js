@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T23:30:57.046+08:00",
+  "updatedAt": "2026-11-10T23:41:10.694+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-10T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-10T23:30:57.046+08:00",
+    "fetchedAt": "2026-11-10T23:41:10.694+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "商家呼吁“取消外卖”？实为MCN制造对立、虚假摆拍引流",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729864.shtml",
+        "publishedAt": "2026-11-10T23:33:43.000+08:00"
+      },
+      {
+        "title": "胡军：产业向新向绿让中国经济增长动能更加强劲",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729860.shtml",
+        "publishedAt": "2026-11-10T23:28:40.000+08:00"
+      },
       {
         "title": "北京一零一中教育集团校长熊永昌：让生态文明扎根孩子心中",
         "url": "https://www.chinanews.com.cn/edu/2026/11-10/10729857.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "以味为桥 80名厨师烹制西部陆海新通道沿线美食",
         "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729839.shtml",
         "publishedAt": "2026-11-10T22:17:06.000+08:00"
-      },
-      {
-        "title": "2026澜沧江—湄公河地方政府合作论坛暨历史文化名城对话会在乐山开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-10/10729828.shtml",
-        "publishedAt": "2026-11-10T22:16:32.000+08:00"
-      },
-      {
-        "title": "韩国拟扩大派驻亚丁湾部队任务区域",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729850.shtml",
-        "publishedAt": "2026-11-10T22:10:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T23:30:53.934+08:00",
+    "fetchedAt": "2026-11-10T23:41:07.159+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T23:30:54.654+08:00",
+      "fetchedAt": "2026-11-10T23:41:07.897+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T04:30:56.000+08:00"
+          "resetAt": "2026-11-11T04:41:10.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T23:30:54.657+08:00",
+      "fetchedAt": "2026-11-10T23:41:07.901+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T23:30:54.668+08:00",
+      "fetchedAt": "2026-11-10T23:41:07.909+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T23:30:54.668+08:00",
+      "fetchedAt": "2026-11-10T23:41:07.909+08:00",
       "error": "未启用",
       "disabled": true
     }
