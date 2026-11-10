@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T15:41:58.341+08:00",
+  "updatedAt": "2026-11-10T16:12:22.611+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.2,
-    "feelsLikeC": 11.4,
-    "humidity": 46,
-    "windKph": 8,
+    "tempC": 14,
+    "feelsLikeC": 11.2,
+    "humidity": 47,
+    "windKph": 7.7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-10T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-10T15:41:58.341+08:00",
+    "observedAt": "2026-11-10T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-10T16:12:22.612+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "歌手邓紫棋第二部科幻小说开启连载 评价两极分化",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729461.shtml",
-        "publishedAt": "2026-11-10T15:37:47.000+08:00"
+        "title": "行进的海岸线｜黄渤海交汇处澎湃全球海岛绿色新动能",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729479.shtml",
+        "publishedAt": "2026-11-10T16:04:28.000+08:00"
       },
       {
-        "title": "上高县委统战部召开专题会议传达学习党的二十届五中全会精神",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729458.shtml",
-        "publishedAt": "2026-11-10T15:37:05.000+08:00"
+        "title": "陕西“三项改革”打通转化堵点 科研力量燃动创新燎原之势",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729477.shtml",
+        "publishedAt": "2026-11-10T16:03:02.000+08:00"
       },
       {
-        "title": "黄乐是否为中国公民？外交部回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729457.shtml",
-        "publishedAt": "2026-11-10T15:36:05.000+08:00"
+        "title": "打好扫黑除恶的“新战役”（人民时评）",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-10/10729475.shtml",
+        "publishedAt": "2026-11-10T16:02:10.000+08:00"
       },
       {
-        "title": "短剧广告“连环跳”诱老人上当 刷个剧怎么就被“收割”了？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729456.shtml",
-        "publishedAt": "2026-11-10T15:35:53.000+08:00"
+        "title": "特朗普质疑中期选举结果 民主党人回应：迟早的事",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729474.shtml",
+        "publishedAt": "2026-11-10T16:02:06.000+08:00"
       },
       {
-        "title": "（第九届进博会）进博会推进健康服务创新加速落地",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729431.shtml",
-        "publishedAt": "2026-11-10T15:35:51.000+08:00"
+        "title": "电视剧《伟大的长征》主创团队走进北大 与师生共话伟大长征精神",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-10/10729463.shtml",
+        "publishedAt": "2026-11-10T16:02:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T15:41:54.654+08:00",
+    "fetchedAt": "2026-11-10T16:12:19.835+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T15:41:55.404+08:00",
+      "fetchedAt": "2026-11-10T16:12:20.530+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-10T20:41:56.000+08:00"
+          "resetAt": "2026-11-10T21:12:22.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T15:41:55.407+08:00",
+      "fetchedAt": "2026-11-10T16:12:20.534+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T15:41:55.417+08:00",
+      "fetchedAt": "2026-11-10T16:12:20.543+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T15:41:55.417+08:00",
+      "fetchedAt": "2026-11-10T16:12:20.543+08:00",
       "error": "未启用",
       "disabled": true
     }
