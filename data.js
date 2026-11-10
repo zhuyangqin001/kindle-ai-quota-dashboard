@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-10T09:44:37.018+08:00",
+  "updatedAt": "2026-11-10T09:54:49.753+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.9,
-    "feelsLikeC": 6.8,
-    "humidity": 56,
-    "windKph": 8.1,
+    "tempC": 10.3,
+    "feelsLikeC": 7.2,
+    "humidity": 54,
+    "windKph": 8,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-10T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-10T09:44:37.018+08:00",
+    "observedAt": "2026-11-10T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-10T09:54:49.753+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "在这里，港澳青年与创意尽情生长",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729212.shtml",
-        "publishedAt": "2026-11-10T09:35:55.000+08:00"
+        "title": "体验中国共享机遇 进博会中国馆硬核成果反向圈粉",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729231.shtml",
+        "publishedAt": "2026-11-10T09:52:02.000+08:00"
       },
       {
-        "title": "北海海关业务网新版门户网站开发建设服务项目协商谈判采购公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729220.shtml",
-        "publishedAt": "2026-11-10T09:34:13.000+08:00"
+        "title": "成品油零售加油站全面推广“交易即开票” 消费者加油有何新变化",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729229.shtml",
+        "publishedAt": "2026-11-10T09:50:40.000+08:00"
       },
       {
-        "title": "教育部、公安部、农业农村部部署实施服务乡村振兴高校招生专项计划",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-10/10729219.shtml",
-        "publishedAt": "2026-11-10T09:33:17.000+08:00"
+        "title": "组团“上岗”！进博会这些AI太懂你",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729228.shtml",
+        "publishedAt": "2026-11-10T09:50:06.000+08:00"
       },
       {
-        "title": "寒潮影响已近尾声 云南贵州新疆等地多降水",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-10/10729214.shtml",
-        "publishedAt": "2026-11-10T09:28:39.000+08:00"
+        "title": "侨聚进博时刻，一日双场联动！",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729215.shtml",
+        "publishedAt": "2026-11-10T09:44:22.000+08:00"
       },
       {
-        "title": "打好扫黑除恶的“新战役”（人民时评）",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-10/10729218.shtml",
-        "publishedAt": "2026-11-10T09:28:17.000+08:00"
+        "title": "眉山：发挥基层文化优势 推进统一战线思想政治引领",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729213.shtml",
+        "publishedAt": "2026-11-10T09:43:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T09:44:33.708+08:00",
+    "fetchedAt": "2026-11-10T09:54:46.228+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T09:44:34.415+08:00",
+      "fetchedAt": "2026-11-10T09:54:46.965+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-10T14:44:36.000+08:00"
+          "resetAt": "2026-11-10T14:54:49.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T09:44:34.418+08:00",
+      "fetchedAt": "2026-11-10T09:54:46.967+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T09:44:34.427+08:00",
+      "fetchedAt": "2026-11-10T09:54:46.975+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T09:44:34.427+08:00",
+      "fetchedAt": "2026-11-10T09:54:46.976+08:00",
       "error": "未启用",
       "disabled": true
     }
