@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-10T21:38:23.857+08:00",
+  "updatedAt": "2026-11-10T21:48:35.693+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 8.7,
-    "feelsLikeC": 6.5,
-    "humidity": 75,
-    "windKph": 5.4,
+    "feelsLikeC": 6.7,
+    "humidity": 76,
+    "windKph": 4.4,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-10T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-10T21:38:23.857+08:00",
+    "observedAt": "2026-11-10T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-10T21:48:35.693+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "内蒙古自治区党委金融工作委员会原副书记马保国被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729801.shtml",
+        "publishedAt": "2026-11-10T21:43:43.000+08:00"
+      },
+      {
+        "title": "内蒙古自治区党委政法委员会原副书记房瑞被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729800.shtml",
+        "publishedAt": "2026-11-10T21:43:37.000+08:00"
+      },
       {
         "title": "算力总规模位居世界第二 我国推进具身智能等领域数据标准制定",
         "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729798.shtml",
@@ -33,19 +43,9 @@
         "title": "广西防城港建设面向东盟微短剧创作生产基地",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-10/10729763.shtml",
         "publishedAt": "2026-11-10T21:17:03.000+08:00"
-      },
-      {
-        "title": "浙江乐清民建送摄影下乡 用九年公益长跑定格“最美夕阳红”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-10/10729765.shtml",
-        "publishedAt": "2026-11-10T21:16:07.000+08:00"
-      },
-      {
-        "title": "11月10日夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-10/10729797.shtml",
-        "publishedAt": "2026-11-10T21:15:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-10T21:38:20.626+08:00",
+    "fetchedAt": "2026-11-10T21:48:32.793+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-10T21:38:21.345+08:00",
+      "fetchedAt": "2026-11-10T21:48:33.205+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T02:38:23.000+08:00"
+          "resetAt": "2026-11-11T02:48:35.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-10T21:38:21.348+08:00",
+      "fetchedAt": "2026-11-10T21:48:33.208+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T21:38:21.359+08:00",
+      "fetchedAt": "2026-11-10T21:48:33.214+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-10T21:38:21.359+08:00",
+      "fetchedAt": "2026-11-10T21:48:33.214+08:00",
       "error": "未启用",
       "disabled": true
     }
