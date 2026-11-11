@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T03:03:22.332+08:00",
+  "updatedAt": "2026-11-12T03:13:55.694+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-12T03:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T03:03:22.332+08:00",
+    "fetchedAt": "2026-11-12T03:13:55.694+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-11T22:05:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T03:03:16.659+08:00",
+    "fetchedAt": "2026-11-12T03:13:50.053+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T03:03:17.112+08:00",
+      "fetchedAt": "2026-11-12T03:13:50.497+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-11T23:49:57.100+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-12T03:03:17.114+08:00"
+      "lastAttemptAt": "2026-11-12T03:13:50.500+08:00"
     },
     "mimo": {
       "ok": false,
@@ -83,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T03:03:17.118+08:00",
+      "fetchedAt": "2026-11-12T03:13:50.504+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T03:03:17.118+08:00",
+      "fetchedAt": "2026-11-12T03:13:50.504+08:00",
       "error": "未启用",
       "disabled": true
     }
