@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T16:19:21.155+08:00",
+  "updatedAt": "2026-11-11T16:29:32.897+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-11T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-11T16:19:21.155+08:00",
+    "fetchedAt": "2026-11-11T16:29:32.898+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "消费基建“20条”出台，让投资与消费相互赋能",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730246.shtml",
-        "publishedAt": "2026-11-11T16:09:51.000+08:00"
+        "title": "承古开新 西安有章",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730257.shtml",
+        "publishedAt": "2026-11-11T16:19:04.000+08:00"
       },
       {
-        "title": "港科大研发自闭症儿童支援AI智能体 助力早期筛查与干预",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730240.shtml",
-        "publishedAt": "2026-11-11T16:09:47.000+08:00"
+        "title": "让实体书店焕发新活力",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730256.shtml",
+        "publishedAt": "2026-11-11T16:18:04.000+08:00"
       },
       {
-        "title": "实施更加公平普惠、精准有力的社会政策——国家发展改革委新闻发布会聚焦保障和改善民生",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730245.shtml",
-        "publishedAt": "2026-11-11T16:08:59.000+08:00"
+        "title": "（台湾写真）在台北找寻中山先生的历史回响",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730231.shtml",
+        "publishedAt": "2026-11-11T16:17:59.000+08:00"
       },
       {
-        "title": "上海市党外知识分子思想政治工作交流会举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-11/10730241.shtml",
-        "publishedAt": "2026-11-11T16:08:51.000+08:00"
+        "title": "一位美国老人的中国乡愁",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730254.shtml",
+        "publishedAt": "2026-11-11T16:17:01.000+08:00"
       },
       {
-        "title": "中国新能源汽车出口占比连续五个月超过50%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730233.shtml",
-        "publishedAt": "2026-11-11T16:08:45.000+08:00"
+        "title": "“入坑”容易退费难，AI短视频培训套路层出不穷",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-11/10730253.shtml",
+        "publishedAt": "2026-11-11T16:16:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T16:19:17.747+08:00",
+    "fetchedAt": "2026-11-11T16:29:29.539+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T16:19:18.526+08:00",
+      "fetchedAt": "2026-11-11T16:29:30.292+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T21:19:20.000+08:00"
+          "resetAt": "2026-11-11T21:29:32.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T16:19:18.530+08:00",
+      "fetchedAt": "2026-11-11T16:29:30.295+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T16:19:18.541+08:00",
+      "fetchedAt": "2026-11-11T16:29:30.305+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T16:19:18.541+08:00",
+      "fetchedAt": "2026-11-11T16:29:30.305+08:00",
       "error": "未启用",
       "disabled": true
     }
