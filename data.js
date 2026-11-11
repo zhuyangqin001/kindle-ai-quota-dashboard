@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T07:50:01.643+08:00",
+  "updatedAt": "2026-11-11T08:00:13.017+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 9.3,
-    "feelsLikeC": 7.8,
-    "humidity": 78,
-    "windKph": 2.8,
+    "tempC": 9.7,
+    "feelsLikeC": 8.1,
+    "humidity": 76,
+    "windKph": 2.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T07:45:00.000+08:00",
-    "fetchedAt": "2026-11-11T07:50:01.643+08:00",
+    "observedAt": "2026-11-11T08:00:00.000+08:00",
+    "fetchedAt": "2026-11-11T08:00:13.017+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "多地车主收到“车辆召回”短信 确有其事吗？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729893.shtml",
+        "publishedAt": "2026-11-11T07:53:56.000+08:00"
+      },
+      {
+        "title": "美国防长赫格塞思举行记者会回应弹劾",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729884.shtml",
+        "publishedAt": "2026-11-11T07:52:26.000+08:00"
+      },
+      {
+        "title": "“只吃粗粮等于健康”盛行网络 真的如此吗？",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-11/10729892.shtml",
+        "publishedAt": "2026-11-11T07:48:32.000+08:00"
+      },
+      {
+        "title": "外媒：美国众议院共和党人阻止了对赫格塞思的弹劾提案",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729891.shtml",
+        "publishedAt": "2026-11-11T07:47:38.000+08:00"
+      },
+      {
         "title": "你囤Token了吗？“双十一”AI消费套路避坑指南",
         "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729890.shtml",
         "publishedAt": "2026-11-11T07:43:54.000+08:00"
-      },
-      {
-        "title": "冬天洗澡 早上洗还是晚上洗？这些“坏习惯”赶紧改",
-        "url": "https://www.chinanews.com.cn/life/2026/11-11/10729888.shtml",
-        "publishedAt": "2026-11-11T07:40:05.000+08:00"
-      },
-      {
-        "title": "第一批新车次列车车票 今起陆续发售",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729887.shtml",
-        "publishedAt": "2026-11-11T07:34:33.000+08:00"
-      },
-      {
-        "title": "严格贯彻执行民主集中制（学习贯彻党的二十届五中全会精神）",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729885.shtml",
-        "publishedAt": "2026-11-11T07:31:39.000+08:00"
-      },
-      {
-        "title": "保加利亚连环车祸已致12死 政府宣布全国哀悼",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729883.shtml",
-        "publishedAt": "2026-11-11T07:19:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T07:49:58.909+08:00",
+    "fetchedAt": "2026-11-11T08:00:10.072+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T07:49:59.643+08:00",
+      "fetchedAt": "2026-11-11T08:00:10.804+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T12:50:01.000+08:00"
+          "resetAt": "2026-11-11T13:00:12.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T07:49:59.647+08:00",
+      "fetchedAt": "2026-11-11T08:00:10.807+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T07:49:59.656+08:00",
+      "fetchedAt": "2026-11-11T08:00:10.817+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T07:49:59.656+08:00",
+      "fetchedAt": "2026-11-11T08:00:10.817+08:00",
       "error": "未启用",
       "disabled": true
     }
