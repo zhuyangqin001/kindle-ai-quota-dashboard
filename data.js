@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T21:26:57.391+08:00",
+  "updatedAt": "2026-11-11T21:37:14.369+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13,
-    "feelsLikeC": 12.6,
-    "humidity": 81,
-    "windKph": 2.2,
+    "tempC": 12.5,
+    "feelsLikeC": 12.1,
+    "humidity": 84,
+    "windKph": 2.3,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-11T21:26:57.391+08:00",
+    "observedAt": "2026-11-11T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-11T21:37:14.369+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "11月11日夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-11/10730511.shtml",
-        "publishedAt": "2026-11-11T21:15:20.000+08:00"
+        "title": "浙江发布可持续发展开发区蓝皮书 擦亮绿色发展底色",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730520.shtml",
+        "publishedAt": "2026-11-11T21:31:06.000+08:00"
       },
       {
-        "title": "我国成功发射探源计划探路者卫星",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-11/1210571.shtml",
-        "publishedAt": "2026-11-11T21:13:08.000+08:00"
+        "title": "澜湄六国深化人力资源合作 依托职教搭建桥梁",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730522.shtml",
+        "publishedAt": "2026-11-11T21:30:56.000+08:00"
       },
       {
-        "title": "三个关键词解读前10个月我国外贸进出口数据",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730507.shtml",
-        "publishedAt": "2026-11-11T21:08:39.000+08:00"
+        "title": "土耳其航空开通成都至伊斯坦布尔客运航线",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730490.shtml",
+        "publishedAt": "2026-11-11T21:30:40.000+08:00"
       },
       {
-        "title": "COP31开幕，中国以实干诠释气候治理担当",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730478.shtml",
-        "publishedAt": "2026-11-11T20:52:42.000+08:00"
+        "title": "中亚媒体人：“百闻不如一见，这里是充满活力的新疆”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730525.shtml",
+        "publishedAt": "2026-11-11T21:30:04.000+08:00"
       },
       {
-        "title": "中国财政部：严查会计审计违法违规行为",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730497.shtml",
-        "publishedAt": "2026-11-11T20:51:26.000+08:00"
+        "title": "宁夏银川：闽宁传统工艺精品展引游人参观",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730488.shtml",
+        "publishedAt": "2026-11-11T21:29:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T21:26:52.886+08:00",
+    "fetchedAt": "2026-11-11T21:37:12.174+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T21:26:53.302+08:00",
+      "fetchedAt": "2026-11-11T21:37:12.623+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 22,
+          "usedPct": 34,
           "resetAt": "2026-11-11T22:37:37.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 8,
-          "resetAt": "2026-11-14T21:33:02.000+08:00"
+          "usedPct": 9,
+          "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T21:26:53.304+08:00",
+      "fetchedAt": "2026-11-11T21:37:12.624+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T21:26:53.310+08:00",
+      "fetchedAt": "2026-11-11T21:37:12.628+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T21:26:53.310+08:00",
+      "fetchedAt": "2026-11-11T21:37:12.629+08:00",
       "error": "未启用",
       "disabled": true
     }
