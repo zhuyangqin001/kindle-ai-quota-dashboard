@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T15:28:07.972+08:00",
+  "updatedAt": "2026-11-11T15:38:26.733+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@
     "tempC": 18.3,
     "feelsLikeC": 16.9,
     "humidity": 51,
-    "windKph": 6.2,
+    "windKph": 6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-11T15:28:07.972+08:00",
+    "observedAt": "2026-11-11T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-11T15:38:26.734+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "11月11日“农产品批发价格200指数”比昨天上升0.02个点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730187.shtml",
+        "publishedAt": "2026-11-11T15:34:57.000+08:00"
+      },
+      {
+        "title": "加拿大总理称中国等国家不应干预加拿大内政 外交部：中方从来没有兴趣",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730188.shtml",
+        "publishedAt": "2026-11-11T15:30:59.000+08:00"
+      },
+      {
+        "title": "日常好习惯守护身体健康 这份防病秘诀请收好",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-11/10730184.shtml",
+        "publishedAt": "2026-11-11T15:27:01.000+08:00"
+      },
+      {
+        "title": "“统一，是理解中山精神的底色”——专访孙中山家族后人孙伟勇",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730172.shtml",
+        "publishedAt": "2026-11-11T15:25:17.000+08:00"
+      },
+      {
         "title": "中日领导人是否将在APEC会议期间会晤？外交部回应",
         "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730183.shtml",
         "publishedAt": "2026-11-11T15:24:21.000+08:00"
-      },
-      {
-        "title": "连续15次！他们联合开展同心义诊",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-11/10730179.shtml",
-        "publishedAt": "2026-11-11T15:24:21.000+08:00"
-      },
-      {
-        "title": "中国已与25个“一带一路”共建国家签署19个自贸协定",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730181.shtml",
-        "publishedAt": "2026-11-11T15:23:23.000+08:00"
-      },
-      {
-        "title": "东西问丨黄子坚：海外华人研究如何助力破解华人融入难题？",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-11/10730171.shtml",
-        "publishedAt": "2026-11-11T15:22:44.000+08:00"
-      },
-      {
-        "title": "韩国一辆公交车冲撞32辆汽车致48人伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730174.shtml",
-        "publishedAt": "2026-11-11T15:22:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T15:28:04.005+08:00",
+    "fetchedAt": "2026-11-11T15:38:18.052+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T15:28:04.770+08:00",
+      "fetchedAt": "2026-11-11T15:38:18.836+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T20:28:07.000+08:00"
+          "resetAt": "2026-11-11T20:38:26.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T15:28:04.774+08:00",
+      "fetchedAt": "2026-11-11T15:38:18.839+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T15:28:04.785+08:00",
+      "fetchedAt": "2026-11-11T15:38:18.850+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T15:28:04.785+08:00",
+      "fetchedAt": "2026-11-11T15:38:18.850+08:00",
       "error": "未启用",
       "disabled": true
     }
