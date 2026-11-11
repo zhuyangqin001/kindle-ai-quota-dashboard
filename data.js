@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T23:09:16.967+08:00",
+  "updatedAt": "2026-11-11T23:39:43.041+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.1,
-    "feelsLikeC": 13.1,
-    "humidity": 83,
-    "windKph": 0.3,
-    "windDir": "东南风",
+    "tempC": 12.6,
+    "feelsLikeC": 12.5,
+    "humidity": 84,
+    "windKph": 0.2,
+    "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-11T23:09:16.967+08:00",
+    "observedAt": "2026-11-11T23:30:00.000+08:00",
+    "fetchedAt": "2026-11-11T23:39:43.042+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“熊猫杯”国际足球锦标赛中国U19男足首站告捷",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730566.shtml",
+        "publishedAt": "2026-11-11T23:27:17.000+08:00"
+      },
+      {
+        "title": "2026年中国国际拳击公开赛收官 中国选手9金领跑",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730565.shtml",
+        "publishedAt": "2026-11-11T23:26:45.000+08:00"
+      },
+      {
+        "title": "王毅同美国国务卿鲁比奥通电话",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730564.shtml",
+        "publishedAt": "2026-11-11T23:09:42.000+08:00"
+      },
       {
         "title": "（深圳APEC）2026年APEC领导人会议周新闻中心启用",
         "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730556.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "俄美乌三方会谈结束 俄乌就大规模换俘达成一致",
         "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730554.shtml",
         "publishedAt": "2026-11-11T22:03:46.000+08:00"
-      },
-      {
-        "title": "纪念孙中山诞辰160周年图片展在菲律宾马尼拉开幕",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-11/10730555.shtml",
-        "publishedAt": "2026-11-11T22:03:42.000+08:00"
-      },
-      {
-        "title": "（友城故事）成都与莫斯科再签三年行动计划促各领域合作深化",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-11/10730552.shtml",
-        "publishedAt": "2026-11-11T22:03:10.000+08:00"
-      },
-      {
-        "title": "两岸民众在北京碧云寺追思中山先生",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730551.shtml",
-        "publishedAt": "2026-11-11T22:01:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T23:09:13.156+08:00",
+    "fetchedAt": "2026-11-11T23:39:39.205+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T23:09:13.592+08:00",
+      "fetchedAt": "2026-11-11T23:39:39.660+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 4,
-          "resetAt": "2026-11-12T03:45:49.000+08:00"
+          "resetAt": "2026-11-12T03:45:48.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T23:09:13.595+08:00",
+      "fetchedAt": "2026-11-11T23:39:39.662+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T23:09:13.601+08:00",
+      "fetchedAt": "2026-11-11T23:39:39.666+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T23:09:13.601+08:00",
+      "fetchedAt": "2026-11-11T23:39:39.666+08:00",
       "error": "未启用",
       "disabled": true
     }
