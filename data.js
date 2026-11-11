@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T14:36:49.091+08:00",
+  "updatedAt": "2026-11-11T14:57:16.133+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.1,
     "feelsLikeC": 16.6,
-    "humidity": 50,
-    "windKph": 6,
+    "humidity": 49,
+    "windKph": 5.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T14:36:49.091+08:00",
+    "observedAt": "2026-11-11T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-11T14:57:16.133+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "百年口岸绥芬河借势“双11” 跨境电商贸易额破3.3亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730076.shtml",
-        "publishedAt": "2026-11-11T14:32:00.000+08:00"
+        "title": "宁夏发布“掌上维权攻略” 多渠道护航劳动者依法讨薪",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730115.shtml",
+        "publishedAt": "2026-11-11T14:53:11.000+08:00"
       },
       {
-        "title": "医生有了AI分身，看病会不一样吗？还有哪些障碍？",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-11/10730108.shtml",
-        "publishedAt": "2026-11-11T14:31:46.000+08:00"
+        "title": "丰城市召开党外干部培养选拔工作联席会议",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-11/10730148.shtml",
+        "publishedAt": "2026-11-11T14:52:27.000+08:00"
       },
       {
-        "title": "国家发改委5场发布会稳预期、提信心",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730100.shtml",
-        "publishedAt": "2026-11-11T14:29:56.000+08:00"
+        "title": "2026年世界数码及AI排名出炉 香港三项指标摘全球第一",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730151.shtml",
+        "publishedAt": "2026-11-11T14:52:01.000+08:00"
       },
       {
-        "title": "三峡水运新通道前置保障工程取得新进展",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730078.shtml",
-        "publishedAt": "2026-11-11T14:24:53.000+08:00"
+        "title": "菲律宾约60个地区高温达高度警戒级 局地达41摄氏度",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730144.shtml",
+        "publishedAt": "2026-11-11T14:51:55.000+08:00"
       },
       {
-        "title": "系列纪录片《对话东盟》开播",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730079.shtml",
-        "publishedAt": "2026-11-11T14:23:55.000+08:00"
+        "title": "宁夏深化耕地占补平衡改革 守牢耕地保护红线",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730113.shtml",
+        "publishedAt": "2026-11-11T14:51:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T14:36:44.779+08:00",
+    "fetchedAt": "2026-11-11T14:57:12.444+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T14:36:45.554+08:00",
+      "fetchedAt": "2026-11-11T14:57:13.183+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T19:36:48.000+08:00"
+          "resetAt": "2026-11-11T19:57:15.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T14:36:45.557+08:00",
+      "fetchedAt": "2026-11-11T14:57:13.187+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T14:36:45.568+08:00",
+      "fetchedAt": "2026-11-11T14:57:13.198+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T14:36:45.568+08:00",
+      "fetchedAt": "2026-11-11T14:57:13.199+08:00",
       "error": "未启用",
       "disabled": true
     }
