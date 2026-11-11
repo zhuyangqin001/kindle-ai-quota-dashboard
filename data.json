@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T13:04:44.500+08:00",
+  "updatedAt": "2026-11-11T13:14:56.330+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-11T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-11T13:04:44.500+08:00",
+    "fetchedAt": "2026-11-11T13:14:56.331+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中新健康｜想赚医院的钱，不那么容易了！医疗信息化相关厂商业绩承压",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-11/10730041.shtml",
+        "publishedAt": "2026-11-11T13:04:05.000+08:00"
+      },
+      {
+        "title": "探访港澳孙中山史迹：潮起南天，传承不息",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730040.shtml",
+        "publishedAt": "2026-11-11T13:02:07.000+08:00"
+      },
       {
         "title": "报告：“十五五”政策有望支撑中国2027至2029年实现碳达峰",
         "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730038.shtml",
@@ -33,19 +43,9 @@
         "title": "诺华高管COP31现场分享“生态共赢”实践：期待继续与中国合作｜新闻会客厅",
         "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730033.shtml",
         "publishedAt": "2026-11-11T12:33:11.000+08:00"
-      },
-      {
-        "title": "浩瀚大洋连起21个经济体 带你读懂APEC",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730035.shtml",
-        "publishedAt": "2026-11-11T12:25:15.000+08:00"
-      },
-      {
-        "title": "炮制历史谣言、筛选受众卖课 揭露伪史博主的流量生意",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730034.shtml",
-        "publishedAt": "2026-11-11T12:21:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T13:04:40.838+08:00",
+    "fetchedAt": "2026-11-11T13:14:53.200+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T13:04:41.589+08:00",
+      "fetchedAt": "2026-11-11T13:14:53.974+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T18:04:44.000+08:00"
+          "resetAt": "2026-11-11T18:14:55.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T13:04:41.592+08:00",
+      "fetchedAt": "2026-11-11T13:14:53.978+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T13:04:41.602+08:00",
+      "fetchedAt": "2026-11-11T13:14:53.988+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T13:04:41.603+08:00",
+      "fetchedAt": "2026-11-11T13:14:53.989+08:00",
       "error": "未启用",
       "disabled": true
     }
