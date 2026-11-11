@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T15:58:55.369+08:00",
+  "updatedAt": "2026-11-11T16:09:08.380+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.2,
-    "feelsLikeC": 16.8,
-    "humidity": 52,
-    "windKph": 5.6,
+    "tempC": 18,
+    "feelsLikeC": 16.7,
+    "humidity": 53,
+    "windKph": 5.2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-11T15:58:55.370+08:00",
+    "observedAt": "2026-11-11T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-11T16:09:08.380+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "海南首个国际文物艺术品交易公用型保税仓库获批设立于三亚",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730209.shtml",
-        "publishedAt": "2026-11-11T15:54:54.000+08:00"
+        "title": "迎“双十一”物流高峰期 南铁安排400余列载客动车组装运快件",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730225.shtml",
+        "publishedAt": "2026-11-11T16:05:19.000+08:00"
       },
       {
-        "title": "“中交助梦”澳门培正志愿服务项目揭牌",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730205.shtml",
-        "publishedAt": "2026-11-11T15:54:28.000+08:00"
+        "title": "财政部：开展财会监督质效提升三年行动 全链条惩治违法违规行为",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730239.shtml",
+        "publishedAt": "2026-11-11T16:04:37.000+08:00"
       },
       {
-        "title": "赋能师生“心”力量 专家建言探索多方协同支持方式",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730210.shtml",
-        "publishedAt": "2026-11-11T15:54:24.000+08:00"
+        "title": "2026年前三季度青海加大重点领域金融供给",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730226.shtml",
+        "publishedAt": "2026-11-11T16:04:19.000+08:00"
       },
       {
-        "title": "2026江苏人工智能创新发展大会在苏州启幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730204.shtml",
-        "publishedAt": "2026-11-11T15:53:26.000+08:00"
+        "title": "上海市文史研究馆开展“海上名家新疆行”活动",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730228.shtml",
+        "publishedAt": "2026-11-11T16:03:45.000+08:00"
       },
       {
-        "title": "江苏盐城市亭湖区卫健委开展拟上市企业职业卫生分类监督执法指导",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730202.shtml",
-        "publishedAt": "2026-11-11T15:52:40.000+08:00"
+        "title": "贵州动态遴选重点关注企业 集中力量打造企业科技创新力量",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730229.shtml",
+        "publishedAt": "2026-11-11T16:03:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T15:58:52.021+08:00",
+    "fetchedAt": "2026-11-11T16:09:05.043+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T15:58:52.800+08:00",
+      "fetchedAt": "2026-11-11T16:09:05.810+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T20:58:55.000+08:00"
+          "resetAt": "2026-11-11T21:09:08.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T15:58:52.804+08:00",
+      "fetchedAt": "2026-11-11T16:09:05.813+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T15:58:52.814+08:00",
+      "fetchedAt": "2026-11-11T16:09:05.824+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T15:58:52.814+08:00",
+      "fetchedAt": "2026-11-11T16:09:05.824+08:00",
       "error": "未启用",
       "disabled": true
     }
