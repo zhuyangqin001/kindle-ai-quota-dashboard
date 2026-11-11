@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:17:29.568+08:00",
+  "updatedAt": "2026-11-12T07:27:38.407+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-12T07:15:00.000+08:00",
-    "fetchedAt": "2026-11-12T07:17:29.568+08:00",
+    "fetchedAt": "2026-11-12T07:27:38.407+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美国中央司令部发布声明：严格执行对伊朗海上封锁",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730583.shtml",
+        "publishedAt": "2026-11-12T07:24:27.000+08:00"
+      },
       {
         "title": "美军机被曝撤出驻英基地 包括至少10架加油机和3架“鱼鹰”运输机",
         "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730580.shtml",
@@ -38,14 +43,9 @@
         "title": "11月12日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-12/10730577.shtml",
         "publishedAt": "2026-11-12T06:45:51.000+08:00"
-      },
-      {
-        "title": "俄罗斯驻美国大使达尔奇耶夫去世，终年66岁",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730576.shtml",
-        "publishedAt": "2026-11-12T06:39:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T07:17:27.973+08:00",
+    "fetchedAt": "2026-11-12T07:27:36.881+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T07:17:28.419+08:00",
+      "fetchedAt": "2026-11-12T07:27:37.274+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T12:17:29.000+08:00"
+          "resetAt": "2026-11-12T12:27:38.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T07:17:28.421+08:00",
+      "fetchedAt": "2026-11-12T07:27:37.276+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T07:17:28.427+08:00",
+      "fetchedAt": "2026-11-12T07:27:37.280+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T07:17:28.428+08:00",
+      "fetchedAt": "2026-11-12T07:27:37.280+08:00",
       "error": "未启用",
       "disabled": true
     }
