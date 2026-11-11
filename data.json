@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T11:33:00.419+08:00",
+  "updatedAt": "2026-11-11T11:43:12.553+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-11T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T11:33:00.419+08:00",
+    "fetchedAt": "2026-11-11T11:43:12.553+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "颗粒归仓、秋粮丰收！一起守护大国粮仓",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730013.shtml",
-        "publishedAt": "2026-11-11T11:27:24.000+08:00"
+        "title": "A股午评：超2700只个股飘红，沪指收跌，深指、创业板指收涨",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730026.shtml",
+        "publishedAt": "2026-11-11T11:37:16.000+08:00"
       },
       {
-        "title": "中非标准信息分享机制已覆盖16个国家",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730012.shtml",
-        "publishedAt": "2026-11-11T11:27:22.000+08:00"
+        "title": "国台办：深化两岸融合发展 促进两岸交流交往",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730008.shtml",
+        "publishedAt": "2026-11-11T11:36:40.000+08:00"
       },
       {
-        "title": "新版《人类遗传资源管理条例实施细则》发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730010.shtml",
-        "publishedAt": "2026-11-11T11:25:10.000+08:00"
+        "title": "2026年中国金鸡百花电影节闭幕《给阿嬷的情书》获两项大奖",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730019.shtml",
+        "publishedAt": "2026-11-11T11:34:02.000+08:00"
       },
       {
-        "title": "红星照耀中国｜一颗松子串起产业链 一片草场拓展新空间",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730009.shtml",
-        "publishedAt": "2026-11-11T11:24:52.000+08:00"
+        "title": "全国首票进口原油“锚地直提”业务落地广州港三门岛",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730020.shtml",
+        "publishedAt": "2026-11-11T11:33:50.000+08:00"
       },
       {
-        "title": "广东引才专列驶入福州大学 新兴产业岗位占比过半",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729994.shtml",
-        "publishedAt": "2026-11-11T11:24:32.000+08:00"
+        "title": "天津首单养老产业专项债务融资工具落地 2.5亿元资金赋能银发经济",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730011.shtml",
+        "publishedAt": "2026-11-11T11:32:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T11:32:57.445+08:00",
+    "fetchedAt": "2026-11-11T11:43:09.289+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T11:32:58.196+08:00",
+      "fetchedAt": "2026-11-11T11:43:10.018+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T16:33:00.000+08:00"
+          "resetAt": "2026-11-11T16:43:11.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T11:32:58.199+08:00",
+      "fetchedAt": "2026-11-11T11:43:10.021+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T11:32:58.208+08:00",
+      "fetchedAt": "2026-11-11T11:43:10.030+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T11:32:58.209+08:00",
+      "fetchedAt": "2026-11-11T11:43:10.030+08:00",
       "error": "未启用",
       "disabled": true
     }
