@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T15:48:42.056+08:00",
+  "updatedAt": "2026-11-11T15:58:55.369+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-11T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-11T15:48:42.056+08:00",
+    "fetchedAt": "2026-11-11T15:58:55.370+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "实体书店首次纳入图书馆总分馆体系 如何更好服务全民阅读？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730196.shtml",
-        "publishedAt": "2026-11-11T15:43:06.000+08:00"
+        "title": "海南首个国际文物艺术品交易公用型保税仓库获批设立于三亚",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730209.shtml",
+        "publishedAt": "2026-11-11T15:54:54.000+08:00"
       },
       {
-        "title": "李强将访问泰国并赴菲律宾出席中国—东盟领导人会议 外交部介绍情况",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730189.shtml",
-        "publishedAt": "2026-11-11T15:40:43.000+08:00"
+        "title": "“中交助梦”澳门培正志愿服务项目揭牌",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730205.shtml",
+        "publishedAt": "2026-11-11T15:54:28.000+08:00"
       },
       {
-        "title": "距离按米收费、一口价变翻倍价 警惕搬家“套路搬”",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-11/10730194.shtml",
-        "publishedAt": "2026-11-11T15:39:45.000+08:00"
+        "title": "赋能师生“心”力量 专家建言探索多方协同支持方式",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730210.shtml",
+        "publishedAt": "2026-11-11T15:54:24.000+08:00"
       },
       {
-        "title": "王毅同古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730190.shtml",
-        "publishedAt": "2026-11-11T15:37:27.000+08:00"
+        "title": "2026江苏人工智能创新发展大会在苏州启幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730204.shtml",
+        "publishedAt": "2026-11-11T15:53:26.000+08:00"
       },
       {
-        "title": "两场专项对接会，拓宽沪企出海合作之路",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-11/10730186.shtml",
-        "publishedAt": "2026-11-11T15:36:49.000+08:00"
+        "title": "江苏盐城市亭湖区卫健委开展拟上市企业职业卫生分类监督执法指导",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730202.shtml",
+        "publishedAt": "2026-11-11T15:52:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T15:48:35.395+08:00",
+    "fetchedAt": "2026-11-11T15:58:52.021+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T15:48:36.168+08:00",
+      "fetchedAt": "2026-11-11T15:58:52.800+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,18 +64,16 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T20:38:26.000+08:00"
+          "resetAt": "2026-11-11T20:58:55.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 4,
-          "resetAt": "2026-11-14T21:33:02.000+08:00"
+          "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T15:38:18.839+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
-      "stale": true,
-      "lastAttemptAt": "2026-11-11T15:48:36.171+08:00"
+      "fetchedAt": "2026-11-11T15:58:52.804+08:00",
+      "error": null
     },
     "mimo": {
       "ok": false,
@@ -83,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T15:48:36.182+08:00",
+      "fetchedAt": "2026-11-11T15:58:52.814+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T15:48:36.182+08:00",
+      "fetchedAt": "2026-11-11T15:58:52.814+08:00",
       "error": "未启用",
       "disabled": true
     }
