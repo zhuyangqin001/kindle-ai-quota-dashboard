@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T10:52:13.159+08:00",
+  "updatedAt": "2026-11-11T11:02:24.243+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.1,
-    "feelsLikeC": 12.7,
-    "humidity": 60,
-    "windKph": 3.2,
+    "tempC": 14.6,
+    "feelsLikeC": 13.3,
+    "humidity": 59,
+    "windKph": 3.3,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-11T10:52:13.160+08:00",
+    "observedAt": "2026-11-11T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-11T11:02:24.243+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“十五五”时期我国将采取多项举措保障和改善民生",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729975.shtml",
-        "publishedAt": "2026-11-11T10:47:56.000+08:00"
+        "title": "国际随笔丨九届进博的“变”与“不变”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729979.shtml",
+        "publishedAt": "2026-11-11T10:52:10.000+08:00"
       },
       {
-        "title": "我国已与150多个国家30多个国际组织签署共建“一带一路”合作文件",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-11/10729970.shtml",
-        "publishedAt": "2026-11-11T10:46:42.000+08:00"
+        "title": "心梗发作前，身体会发出哪些警报？",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-11/10729978.shtml",
+        "publishedAt": "2026-11-11T10:52:06.000+08:00"
       },
       {
-        "title": "一首童谣传唱近百年：美国人柏大卫与青海湟源的双向牵挂",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729972.shtml",
-        "publishedAt": "2026-11-11T10:46:18.000+08:00"
+        "title": "亚行报告：东盟基础设施融资缺口巨大",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10729966.shtml",
+        "publishedAt": "2026-11-11T10:51:24.000+08:00"
       },
       {
-        "title": "人民空军，生日快乐！",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729971.shtml",
-        "publishedAt": "2026-11-11T10:41:29.000+08:00"
+        "title": "公安机关依法严打网络售假犯罪 公布10起典型案例",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729962.shtml",
+        "publishedAt": "2026-11-11T10:50:48.000+08:00"
       },
       {
-        "title": "2026年中英清洁能源合作论坛举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729960.shtml",
-        "publishedAt": "2026-11-11T10:38:13.000+08:00"
+        "title": "一艘运载4万吨俄柴油的油轮驶向纽约，却在“临门一脚”时停航？",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729931.shtml",
+        "publishedAt": "2026-11-11T10:50:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T10:52:09.986+08:00",
+    "fetchedAt": "2026-11-11T11:02:21.311+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T10:52:10.716+08:00",
+      "fetchedAt": "2026-11-11T11:02:22.063+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T15:52:12.000+08:00"
+          "resetAt": "2026-11-11T16:02:24.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T10:52:10.719+08:00",
+      "fetchedAt": "2026-11-11T11:02:22.066+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T10:52:10.729+08:00",
+      "fetchedAt": "2026-11-11T11:02:22.075+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T10:52:10.729+08:00",
+      "fetchedAt": "2026-11-11T11:02:22.076+08:00",
       "error": "未启用",
       "disabled": true
     }
