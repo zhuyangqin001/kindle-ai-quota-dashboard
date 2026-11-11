@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-11T21:37:14.369+08:00",
+  "updatedAt": "2026-11-11T21:47:25.978+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.5,
-    "feelsLikeC": 12.1,
+    "tempC": 12.4,
+    "feelsLikeC": 12,
     "humidity": 84,
-    "windKph": 2.3,
-    "windDir": "东北风",
+    "windKph": 2.5,
+    "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T21:37:14.369+08:00",
+    "observedAt": "2026-11-11T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-11T21:47:25.978+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "重庆市永川区人大常委会原副主任王寒峰被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730536.shtml",
+        "publishedAt": "2026-11-11T21:34:31.000+08:00"
+      },
+      {
+        "title": "河北廊坊：中试平台赋能 助力京津科创成果落地转化",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730492.shtml",
+        "publishedAt": "2026-11-11T21:32:33.000+08:00"
+      },
       {
         "title": "浙江发布可持续发展开发区蓝皮书 擦亮绿色发展底色",
         "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730520.shtml",
@@ -33,19 +43,9 @@
         "title": "土耳其航空开通成都至伊斯坦布尔客运航线",
         "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730490.shtml",
         "publishedAt": "2026-11-11T21:30:40.000+08:00"
-      },
-      {
-        "title": "中亚媒体人：“百闻不如一见，这里是充满活力的新疆”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730525.shtml",
-        "publishedAt": "2026-11-11T21:30:04.000+08:00"
-      },
-      {
-        "title": "宁夏银川：闽宁传统工艺精品展引游人参观",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-11/10730488.shtml",
-        "publishedAt": "2026-11-11T21:29:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T21:37:12.174+08:00",
+    "fetchedAt": "2026-11-11T21:47:23.813+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T21:37:12.623+08:00",
+      "fetchedAt": "2026-11-11T21:47:24.157+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@
         {
           "name": "周",
           "usedPct": 9,
-          "resetAt": "2026-11-14T21:33:03.000+08:00"
+          "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T21:37:12.624+08:00",
+      "fetchedAt": "2026-11-11T21:47:24.159+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T21:37:12.628+08:00",
+      "fetchedAt": "2026-11-11T21:47:24.163+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T21:37:12.629+08:00",
+      "fetchedAt": "2026-11-11T21:47:24.163+08:00",
       "error": "未启用",
       "disabled": true
     }
