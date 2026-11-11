@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T06:06:34.083+08:00",
+  "updatedAt": "2026-11-12T06:16:41.918+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.8,
-    "feelsLikeC": 11.9,
-    "humidity": 91,
-    "windKph": 0.2,
-    "windDir": "北风",
+    "tempC": 11.9,
+    "feelsLikeC": 12,
+    "humidity": 92,
+    "windKph": 0.3,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T06:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T06:06:34.083+08:00",
+    "observedAt": "2026-11-12T06:15:00.000+08:00",
+    "fetchedAt": "2026-11-12T06:16:41.918+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "德权威机构大幅上调2026年德国经济增长预期",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730567.shtml",
-        "publishedAt": "2026-11-11T23:58:12.000+08:00"
+        "title": "伊朗议长：美国必须满足伊方提出的七项条件",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730573.shtml",
+        "publishedAt": "2026-11-12T06:07:37.000+08:00"
       },
       {
-        "title": "“熊猫杯”国际足球锦标赛中国U19男足首站告捷",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730566.shtml",
-        "publishedAt": "2026-11-11T23:27:17.000+08:00"
+        "title": "俄外交部：俄驻美大使达尔奇耶夫猝然去世",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730572.shtml",
+        "publishedAt": "2026-11-12T06:04:49.000+08:00"
       },
       {
-        "title": "2026年中国国际拳击公开赛收官 中国选手9金领跑",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730565.shtml",
-        "publishedAt": "2026-11-11T23:26:45.000+08:00"
+        "title": "第22届中美电影节和电视节在洛杉矶举行“金天使奖”颁奖典礼",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730571.shtml",
+        "publishedAt": "2026-11-12T06:04:23.000+08:00"
       },
       {
-        "title": "王毅同美国国务卿鲁比奥通电话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730564.shtml",
-        "publishedAt": "2026-11-11T23:09:42.000+08:00"
+        "title": "集安组织峰会通过宣言 取消亚美尼亚投票权",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730570.shtml",
+        "publishedAt": "2026-11-12T06:04:15.000+08:00"
       },
       {
-        "title": "（深圳APEC）2026年APEC领导人会议周新闻中心启用",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730556.shtml",
-        "publishedAt": "2026-11-11T22:05:50.000+08:00"
+        "title": "英爱多地学校收到威胁邮件 当局认定系境外恶作剧",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730569.shtml",
+        "publishedAt": "2026-11-12T06:03:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T06:06:32.611+08:00",
+    "fetchedAt": "2026-11-12T06:16:40.531+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T06:06:32.968+08:00",
+      "fetchedAt": "2026-11-12T06:16:40.885+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T11:06:34.000+08:00"
+          "resetAt": "2026-11-12T11:16:41.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T06:06:32.970+08:00",
+      "fetchedAt": "2026-11-12T06:16:40.887+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T06:06:32.975+08:00",
+      "fetchedAt": "2026-11-12T06:16:40.892+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T06:06:32.975+08:00",
+      "fetchedAt": "2026-11-12T06:16:40.892+08:00",
       "error": "未启用",
       "disabled": true
     }
