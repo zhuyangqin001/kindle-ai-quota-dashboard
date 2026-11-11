@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T19:01:58.728+08:00",
+  "updatedAt": "2026-11-11T19:52:13.334+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14,
-    "feelsLikeC": 13.1,
-    "humidity": 74,
-    "windKph": 4.8,
-    "windDir": "西北风",
+    "tempC": 13.4,
+    "feelsLikeC": 12.4,
+    "humidity": 78,
+    "windKph": 5.6,
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-11T19:01:58.728+08:00",
+    "observedAt": "2026-11-11T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-11T19:52:13.334+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "出行注意！未来三天大气扩散条件转差 这份全国能见度地图请收好",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730365.shtml",
-        "publishedAt": "2026-11-11T18:53:44.000+08:00"
+        "title": "王沪宁会见古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730401.shtml",
+        "publishedAt": "2026-11-11T19:41:30.000+08:00"
       },
       {
-        "title": "大雾黄色预警：京津冀等6省市部分地区有大雾 局地有强浓雾",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730354.shtml",
-        "publishedAt": "2026-11-11T18:51:46.000+08:00"
+        "title": "央行发布2026年第三季度中国货币政策执行报告",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730398.shtml",
+        "publishedAt": "2026-11-11T19:33:04.000+08:00"
       },
       {
-        "title": "2026年前三季度全国广播电视服务业总收入11330.88亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730348.shtml",
-        "publishedAt": "2026-11-11T18:45:03.000+08:00"
+        "title": "俄方公布本轮俄美乌三方会谈成果",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730400.shtml",
+        "publishedAt": "2026-11-11T19:33:02.000+08:00"
       },
       {
-        "title": "涉及百姓生活、高新技术等 市场监管总局批准发布一批国家标准",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730352.shtml",
-        "publishedAt": "2026-11-11T18:32:29.000+08:00"
+        "title": "总台起底MCN机构“暴力起号”套路 四川宜宾成立调查组",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730399.shtml",
+        "publishedAt": "2026-11-11T19:30:02.000+08:00"
       },
       {
-        "title": "俄美乌第二日三方会谈已结束",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730351.shtml",
-        "publishedAt": "2026-11-11T18:28:27.000+08:00"
+        "title": "@高校毕业生 131场就业服务活动等你来",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-11/10730394.shtml",
+        "publishedAt": "2026-11-11T19:21:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T19:01:55.626+08:00",
+    "fetchedAt": "2026-11-11T19:52:09.934+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T19:01:56.392+08:00",
+      "fetchedAt": "2026-11-11T19:52:10.663+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
+          "usedPct": 4,
           "resetAt": "2026-11-11T22:37:37.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 5,
-          "resetAt": "2026-11-14T21:33:03.000+08:00"
+          "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T19:01:56.396+08:00",
+      "fetchedAt": "2026-11-11T19:52:10.665+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T19:01:56.405+08:00",
+      "fetchedAt": "2026-11-11T19:52:10.675+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T19:01:56.406+08:00",
+      "fetchedAt": "2026-11-11T19:52:10.675+08:00",
       "error": "未启用",
       "disabled": true
     }
