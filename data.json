@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-11T16:09:08.380+08:00",
+  "updatedAt": "2026-11-11T16:19:21.155+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18,
-    "feelsLikeC": 16.7,
-    "humidity": 53,
-    "windKph": 5.2,
+    "tempC": 17.7,
+    "feelsLikeC": 16.6,
+    "humidity": 55,
+    "windKph": 4.5,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-11T16:09:08.380+08:00",
+    "observedAt": "2026-11-11T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-11T16:19:21.155+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "迎“双十一”物流高峰期 南铁安排400余列载客动车组装运快件",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730225.shtml",
-        "publishedAt": "2026-11-11T16:05:19.000+08:00"
+        "title": "消费基建“20条”出台，让投资与消费相互赋能",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730246.shtml",
+        "publishedAt": "2026-11-11T16:09:51.000+08:00"
       },
       {
-        "title": "财政部：开展财会监督质效提升三年行动 全链条惩治违法违规行为",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730239.shtml",
-        "publishedAt": "2026-11-11T16:04:37.000+08:00"
+        "title": "港科大研发自闭症儿童支援AI智能体 助力早期筛查与干预",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730240.shtml",
+        "publishedAt": "2026-11-11T16:09:47.000+08:00"
       },
       {
-        "title": "2026年前三季度青海加大重点领域金融供给",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730226.shtml",
-        "publishedAt": "2026-11-11T16:04:19.000+08:00"
+        "title": "实施更加公平普惠、精准有力的社会政策——国家发展改革委新闻发布会聚焦保障和改善民生",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730245.shtml",
+        "publishedAt": "2026-11-11T16:08:59.000+08:00"
       },
       {
-        "title": "上海市文史研究馆开展“海上名家新疆行”活动",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730228.shtml",
-        "publishedAt": "2026-11-11T16:03:45.000+08:00"
+        "title": "上海市党外知识分子思想政治工作交流会举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-11/10730241.shtml",
+        "publishedAt": "2026-11-11T16:08:51.000+08:00"
       },
       {
-        "title": "贵州动态遴选重点关注企业 集中力量打造企业科技创新力量",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730229.shtml",
-        "publishedAt": "2026-11-11T16:03:09.000+08:00"
+        "title": "中国新能源汽车出口占比连续五个月超过50%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730233.shtml",
+        "publishedAt": "2026-11-11T16:08:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T16:09:05.043+08:00",
+    "fetchedAt": "2026-11-11T16:19:17.747+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T16:09:05.810+08:00",
+      "fetchedAt": "2026-11-11T16:19:18.526+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T21:09:08.000+08:00"
+          "resetAt": "2026-11-11T21:19:20.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T16:09:05.813+08:00",
+      "fetchedAt": "2026-11-11T16:19:18.530+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T16:09:05.824+08:00",
+      "fetchedAt": "2026-11-11T16:19:18.541+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T16:09:05.824+08:00",
+      "fetchedAt": "2026-11-11T16:19:18.541+08:00",
       "error": "未启用",
       "disabled": true
     }
