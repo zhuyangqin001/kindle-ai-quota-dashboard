@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-12T03:13:55.694+08:00",
+  "updatedAt": "2026-11-12T03:24:18.388+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.8,
-    "feelsLikeC": 11.8,
-    "humidity": 92,
+    "tempC": 11.7,
+    "feelsLikeC": 11.6,
+    "humidity": 93,
     "windKph": 1.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T03:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T03:13:55.694+08:00",
+    "observedAt": "2026-11-12T03:15:00.000+08:00",
+    "fetchedAt": "2026-11-12T03:24:18.388+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-11T22:05:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T03:13:50.053+08:00",
+    "fetchedAt": "2026-11-12T03:24:16.381+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T03:13:50.497+08:00",
+      "fetchedAt": "2026-11-12T03:24:16.756+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,13 +69,11 @@
         {
           "name": "周",
           "usedPct": 13,
-          "resetAt": "2026-11-14T21:33:03.000+08:00"
+          "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T23:49:57.100+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
-      "stale": true,
-      "lastAttemptAt": "2026-11-12T03:13:50.500+08:00"
+      "fetchedAt": "2026-11-12T03:24:16.758+08:00",
+      "error": null
     },
     "mimo": {
       "ok": false,
@@ -83,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T03:13:50.504+08:00",
+      "fetchedAt": "2026-11-12T03:24:16.762+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T03:13:50.504+08:00",
+      "fetchedAt": "2026-11-12T03:24:16.762+08:00",
       "error": "未启用",
       "disabled": true
     }
