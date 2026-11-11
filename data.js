@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T18:11:00.424+08:00",
+  "updatedAt": "2026-11-11T18:21:11.760+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.4,
-    "feelsLikeC": 14.8,
-    "humidity": 68,
-    "windKph": 2.9,
-    "windDir": "西风",
+    "tempC": 15,
+    "feelsLikeC": 14.4,
+    "humidity": 69,
+    "windKph": 3.2,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-11T18:11:00.424+08:00",
+    "observedAt": "2026-11-11T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-11T18:21:11.761+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "王毅：中方将坚定支持古巴维护国家主权和正当权益",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730333.shtml",
+        "publishedAt": "2026-11-11T18:11:52.000+08:00"
+      },
       {
         "title": "财政部将在香港发行美元主权债券",
         "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730346.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "我国首款商用级中小型纯太阳能无人机首飞成功",
         "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730345.shtml",
         "publishedAt": "2026-11-11T17:54:31.000+08:00"
-      },
-      {
-        "title": "避开“盐糖陷阱”，防癌吃法学起来",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-11/10730344.shtml",
-        "publishedAt": "2026-11-11T17:52:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T18:10:54.461+08:00",
+    "fetchedAt": "2026-11-11T18:21:09.133+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T18:10:55.142+08:00",
+      "fetchedAt": "2026-11-11T18:21:09.888+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,10 +72,8 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T18:00:43.006+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
-      "stale": true,
-      "lastAttemptAt": "2026-11-11T18:10:55.146+08:00"
+      "fetchedAt": "2026-11-11T18:21:09.891+08:00",
+      "error": null
     },
     "mimo": {
       "ok": false,
@@ -83,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T18:10:55.157+08:00",
+      "fetchedAt": "2026-11-11T18:21:09.901+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T18:10:55.158+08:00",
+      "fetchedAt": "2026-11-11T18:21:09.902+08:00",
       "error": "未启用",
       "disabled": true
     }
