@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T18:41:32.446+08:00",
+  "updatedAt": "2026-11-11T18:51:45.227+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 14.7,
-    "feelsLikeC": 13.9,
-    "humidity": 71,
-    "windKph": 3.9,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 14.3,
+    "feelsLikeC": 13.5,
+    "humidity": 72,
+    "windKph": 4.3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T18:41:32.447+08:00",
+    "observedAt": "2026-11-11T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-11T18:51:45.228+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年前三季度全国广播电视服务业总收入11330.88亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730348.shtml",
+        "publishedAt": "2026-11-11T18:45:03.000+08:00"
+      },
       {
         "title": "涉及百姓生活、高新技术等 市场监管总局批准发布一批国家标准",
         "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730352.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "王毅：中方将坚定支持古巴维护国家主权和正当权益",
         "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730333.shtml",
         "publishedAt": "2026-11-11T18:11:52.000+08:00"
-      },
-      {
-        "title": "财政部将在香港发行美元主权债券",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730346.shtml",
-        "publishedAt": "2026-11-11T18:04:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T18:41:29.822+08:00",
+    "fetchedAt": "2026-11-11T18:51:41.934+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T18:41:30.559+08:00",
+      "fetchedAt": "2026-11-11T18:51:42.704+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T18:41:30.563+08:00",
+      "fetchedAt": "2026-11-11T18:51:42.707+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T18:41:30.573+08:00",
+      "fetchedAt": "2026-11-11T18:51:42.718+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T18:41:30.574+08:00",
+      "fetchedAt": "2026-11-11T18:51:42.718+08:00",
       "error": "未启用",
       "disabled": true
     }
