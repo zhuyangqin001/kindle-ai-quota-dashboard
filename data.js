@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T11:22:49.003+08:00",
+  "updatedAt": "2026-11-11T11:33:00.419+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15,
-    "feelsLikeC": 13.7,
-    "humidity": 58,
-    "windKph": 3.4,
+    "tempC": 15.4,
+    "feelsLikeC": 14.1,
+    "humidity": 57,
+    "windKph": 3.6,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-11T11:22:49.004+08:00",
+    "observedAt": "2026-11-11T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-11T11:33:00.419+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国台办：将一如既往支持广大台商台企来大陆投资兴业",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729992.shtml",
-        "publishedAt": "2026-11-11T11:15:59.000+08:00"
+        "title": "颗粒归仓、秋粮丰收！一起守护大国粮仓",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730013.shtml",
+        "publishedAt": "2026-11-11T11:27:24.000+08:00"
       },
       {
-        "title": "风笛伴寒而行，筑牢冬供“温暖防线”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730003.shtml",
-        "publishedAt": "2026-11-11T11:15:49.000+08:00"
+        "title": "中非标准信息分享机制已覆盖16个国家",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730012.shtml",
+        "publishedAt": "2026-11-11T11:27:22.000+08:00"
       },
       {
-        "title": "以色列新一届议会议员宣誓就职 议会举行首次会议",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730001.shtml",
-        "publishedAt": "2026-11-11T11:15:19.000+08:00"
+        "title": "新版《人类遗传资源管理条例实施细则》发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730010.shtml",
+        "publishedAt": "2026-11-11T11:25:10.000+08:00"
       },
       {
-        "title": "秋冬光影，佳片上新！一睹为快→",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730002.shtml",
-        "publishedAt": "2026-11-11T11:14:51.000+08:00"
+        "title": "红星照耀中国｜一颗松子串起产业链 一片草场拓展新空间",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730009.shtml",
+        "publishedAt": "2026-11-11T11:24:52.000+08:00"
       },
       {
-        "title": "美国众议院搁置弹劾防长赫格塞思的决议案",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729984.shtml",
-        "publishedAt": "2026-11-11T11:14:17.000+08:00"
+        "title": "广东引才专列驶入福州大学 新兴产业岗位占比过半",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729994.shtml",
+        "publishedAt": "2026-11-11T11:24:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T11:22:45.860+08:00",
+    "fetchedAt": "2026-11-11T11:32:57.445+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T11:22:46.526+08:00",
+      "fetchedAt": "2026-11-11T11:32:58.196+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T16:22:48.000+08:00"
+          "resetAt": "2026-11-11T16:33:00.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T11:22:46.528+08:00",
+      "fetchedAt": "2026-11-11T11:32:58.199+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T11:22:46.537+08:00",
+      "fetchedAt": "2026-11-11T11:32:58.208+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T11:22:46.537+08:00",
+      "fetchedAt": "2026-11-11T11:32:58.209+08:00",
       "error": "未启用",
       "disabled": true
     }
