@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T23:49:59.543+08:00",
+  "updatedAt": "2026-11-12T00:20:26.021+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.3,
-    "feelsLikeC": 12.2,
-    "humidity": 85,
-    "windKph": 0.4,
+    "tempC": 12,
+    "feelsLikeC": 11.9,
+    "humidity": 87,
+    "windKph": 0.6,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T23:45:00.000+08:00",
-    "fetchedAt": "2026-11-11T23:49:59.543+08:00",
+    "observedAt": "2026-11-12T00:15:00.000+08:00",
+    "fetchedAt": "2026-11-12T00:20:26.022+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "德权威机构大幅上调2026年德国经济增长预期",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730567.shtml",
+        "publishedAt": "2026-11-11T23:58:12.000+08:00"
+      },
       {
         "title": "“熊猫杯”国际足球锦标赛中国U19男足首站告捷",
         "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730566.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（深圳APEC）2026年APEC领导人会议周新闻中心启用",
         "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730556.shtml",
         "publishedAt": "2026-11-11T22:05:50.000+08:00"
-      },
-      {
-        "title": "俄美乌三方会谈结束 俄乌就大规模换俘达成一致",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730554.shtml",
-        "publishedAt": "2026-11-11T22:03:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T23:49:56.749+08:00",
+    "fetchedAt": "2026-11-12T00:20:20.415+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T23:49:57.098+08:00",
+      "fetchedAt": "2026-11-12T00:20:20.805+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -73,7 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-11T23:49:57.100+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-11-12T00:20:20.807+08:00"
     },
     "mimo": {
       "ok": false,
@@ -81,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T23:49:57.104+08:00",
+      "fetchedAt": "2026-11-12T00:20:20.811+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T23:49:57.104+08:00",
+      "fetchedAt": "2026-11-12T00:20:20.811+08:00",
       "error": "未启用",
       "disabled": true
     }
