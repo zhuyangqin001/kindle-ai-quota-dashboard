@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-11T08:40:52.192+08:00",
+  "updatedAt": "2026-11-11T10:52:13.159+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 10.7,
-    "feelsLikeC": 9,
-    "humidity": 70,
-    "windKph": 3.8,
-    "windDir": "东风",
+    "tempC": 14.1,
+    "feelsLikeC": 12.7,
+    "humidity": 60,
+    "windKph": 3.2,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T08:40:52.192+08:00",
+    "observedAt": "2026-11-11T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-11T10:52:13.160+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地将有霾天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729898.shtml",
-        "publishedAt": "2026-11-11T08:33:40.000+08:00"
+        "title": "“十五五”时期我国将采取多项举措保障和改善民生",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729975.shtml",
+        "publishedAt": "2026-11-11T10:47:56.000+08:00"
       },
       {
-        "title": "从“飞两遍”到“双隐身”，这片天空他们守了77年",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729896.shtml",
-        "publishedAt": "2026-11-11T08:19:38.000+08:00"
+        "title": "我国已与150多个国家30多个国际组织签署共建“一带一路”合作文件",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-11/10729970.shtml",
+        "publishedAt": "2026-11-11T10:46:42.000+08:00"
       },
       {
-        "title": "“训练”AI模型输出淫秽图片牟利，开发者获刑",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-11/10729895.shtml",
-        "publishedAt": "2026-11-11T08:03:03.000+08:00"
+        "title": "一首童谣传唱近百年：美国人柏大卫与青海湟源的双向牵挂",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729972.shtml",
+        "publishedAt": "2026-11-11T10:46:18.000+08:00"
       },
       {
-        "title": "从线上到线下 求职招聘如何更好实现双向奔赴？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10729894.shtml",
-        "publishedAt": "2026-11-11T07:57:52.000+08:00"
+        "title": "人民空军，生日快乐！",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729971.shtml",
+        "publishedAt": "2026-11-11T10:41:29.000+08:00"
       },
       {
-        "title": "第九届巴黎和平论坛开幕 聚焦“从主权到合作”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729889.shtml",
-        "publishedAt": "2026-11-11T07:56:22.000+08:00"
+        "title": "2026年中英清洁能源合作论坛举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729960.shtml",
+        "publishedAt": "2026-11-11T10:38:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T08:40:49.726+08:00",
+    "fetchedAt": "2026-11-11T10:52:09.986+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T08:40:50.464+08:00",
+      "fetchedAt": "2026-11-11T10:52:10.716+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T13:40:52.000+08:00"
+          "resetAt": "2026-11-11T15:52:12.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T08:40:50.468+08:00",
+      "fetchedAt": "2026-11-11T10:52:10.719+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T08:40:50.478+08:00",
+      "fetchedAt": "2026-11-11T10:52:10.729+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T08:40:50.478+08:00",
+      "fetchedAt": "2026-11-11T10:52:10.729+08:00",
       "error": "未启用",
       "disabled": true
     }
