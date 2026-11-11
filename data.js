@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T17:40:21.694+08:00",
+  "updatedAt": "2026-11-11T17:50:33.420+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.9,
-    "feelsLikeC": 15.5,
+    "tempC": 15.6,
+    "feelsLikeC": 15.1,
     "humidity": 68,
-    "windKph": 2.4,
-    "windDir": "西北风",
+    "windKph": 2.7,
+    "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T17:40:21.694+08:00",
+    "observedAt": "2026-11-11T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-11T17:50:33.420+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "伊朗外交部将阿根廷海军和空军列为“恐怖组织”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730291.shtml",
-        "publishedAt": "2026-11-11T17:32:09.000+08:00"
+        "title": "总台起底MCN机构“暴力起号”套路",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730336.shtml",
+        "publishedAt": "2026-11-11T17:41:22.000+08:00"
       },
       {
-        "title": "孟加拉国患者跨海赴山西临汾寻中医",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730308.shtml",
-        "publishedAt": "2026-11-11T17:31:27.000+08:00"
+        "title": "宁夏兴庆：一朵玫瑰开出亿元美丽经济",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730331.shtml",
+        "publishedAt": "2026-11-11T17:40:28.000+08:00"
       },
       {
-        "title": "原创内容被判“AI生成未标识” 用户起诉平台，法院认定→",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-11/10730318.shtml",
-        "publishedAt": "2026-11-11T17:29:59.000+08:00"
+        "title": "甘肃临夏建州70周年：借通道优势激活文旅首位产业",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-11/10730328.shtml",
+        "publishedAt": "2026-11-11T17:40:22.000+08:00"
       },
       {
-        "title": "（机遇香港）香港IPO市场持续升温 今年前10个月集资额同比增长84%",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730292.shtml",
-        "publishedAt": "2026-11-11T17:29:55.000+08:00"
+        "title": "五十五载脐橙香 江西信丰何以擦亮“世界橙乡”金字招牌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730327.shtml",
+        "publishedAt": "2026-11-11T17:40:12.000+08:00"
       },
       {
-        "title": "哈尔滨“领跑”中国冰雪旅游过夜目的地",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730301.shtml",
-        "publishedAt": "2026-11-11T17:29:49.000+08:00"
+        "title": "统一IP、三大产品、四季业态 山西晋中推动“怡然见晋中”品牌破圈出圈",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730326.shtml",
+        "publishedAt": "2026-11-11T17:40:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T17:40:18.656+08:00",
+    "fetchedAt": "2026-11-11T17:50:30.282+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T17:40:19.427+08:00",
+      "fetchedAt": "2026-11-11T17:50:31.037+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 1,
+          "usedPct": 3,
           "resetAt": "2026-11-11T22:37:37.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 4,
-          "resetAt": "2026-11-14T21:33:02.000+08:00"
+          "usedPct": 5,
+          "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T17:40:19.431+08:00",
+      "fetchedAt": "2026-11-11T17:50:31.040+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T17:40:19.440+08:00",
+      "fetchedAt": "2026-11-11T17:50:31.050+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T17:40:19.441+08:00",
+      "fetchedAt": "2026-11-11T17:50:31.051+08:00",
       "error": "未启用",
       "disabled": true
     }
