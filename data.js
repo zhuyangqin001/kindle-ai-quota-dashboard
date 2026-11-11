@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T19:52:13.334+08:00",
+  "updatedAt": "2026-11-11T21:06:33.464+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.4,
-    "feelsLikeC": 12.4,
-    "humidity": 78,
-    "windKph": 5.6,
+    "tempC": 12.7,
+    "feelsLikeC": 12.2,
+    "humidity": 83,
+    "windKph": 3.5,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-11T19:52:13.334+08:00",
+    "observedAt": "2026-11-11T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-11T21:06:33.464+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "王沪宁会见古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730401.shtml",
-        "publishedAt": "2026-11-11T19:41:30.000+08:00"
+        "title": "COP31开幕，中国以实干诠释气候治理担当",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730478.shtml",
+        "publishedAt": "2026-11-11T20:52:42.000+08:00"
       },
       {
-        "title": "央行发布2026年第三季度中国货币政策执行报告",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730398.shtml",
-        "publishedAt": "2026-11-11T19:33:04.000+08:00"
+        "title": "中国财政部：严查会计审计违法违规行为",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730497.shtml",
+        "publishedAt": "2026-11-11T20:51:26.000+08:00"
       },
       {
-        "title": "俄方公布本轮俄美乌三方会谈成果",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730400.shtml",
-        "publishedAt": "2026-11-11T19:33:02.000+08:00"
+        "title": "中国央行：支持更多境外主体发行熊猫债",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730498.shtml",
+        "publishedAt": "2026-11-11T20:50:24.000+08:00"
       },
       {
-        "title": "总台起底MCN机构“暴力起号”套路 四川宜宾成立调查组",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730399.shtml",
-        "publishedAt": "2026-11-11T19:30:02.000+08:00"
+        "title": "（走进中国乡村）年产劳保手套60亿副 沂蒙小镇拓国际大市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730499.shtml",
+        "publishedAt": "2026-11-11T20:48:14.000+08:00"
       },
       {
-        "title": "@高校毕业生 131场就业服务活动等你来",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-11/10730394.shtml",
-        "publishedAt": "2026-11-11T19:21:33.000+08:00"
+        "title": "宁夏未来五年设十个重大科技专项 攻关直指产业化",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730500.shtml",
+        "publishedAt": "2026-11-11T20:48:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T19:52:09.934+08:00",
+    "fetchedAt": "2026-11-11T21:06:24.080+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T19:52:10.663+08:00",
+      "fetchedAt": "2026-11-11T21:06:27.769+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 5,
-          "resetAt": "2026-11-14T21:33:02.000+08:00"
+          "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T19:52:10.665+08:00",
+      "fetchedAt": "2026-11-11T21:06:27.843+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T19:52:10.675+08:00",
+      "fetchedAt": "2026-11-11T21:06:28.191+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T19:52:10.675+08:00",
+      "fetchedAt": "2026-11-11T21:06:28.192+08:00",
       "error": "未启用",
       "disabled": true
     }
