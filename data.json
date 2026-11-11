@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T17:30:09.756+08:00",
+  "updatedAt": "2026-11-11T17:40:21.694+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-11T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T17:30:09.756+08:00",
+    "fetchedAt": "2026-11-11T17:40:21.694+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国A股周三放量上涨 创业板指涨逾3％",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730293.shtml",
-        "publishedAt": "2026-11-11T17:26:37.000+08:00"
+        "title": "伊朗外交部将阿根廷海军和空军列为“恐怖组织”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730291.shtml",
+        "publishedAt": "2026-11-11T17:32:09.000+08:00"
       },
       {
-        "title": "国台办例行新闻发布会关注台企“回流”大陆等热点",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730290.shtml",
-        "publishedAt": "2026-11-11T17:25:59.000+08:00"
+        "title": "孟加拉国患者跨海赴山西临汾寻中医",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730308.shtml",
+        "publishedAt": "2026-11-11T17:31:27.000+08:00"
       },
       {
-        "title": "江西邀德企投资先进材料与绿色制造产业",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-11/10730289.shtml",
-        "publishedAt": "2026-11-11T17:25:09.000+08:00"
+        "title": "原创内容被判“AI生成未标识” 用户起诉平台，法院认定→",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-11/10730318.shtml",
+        "publishedAt": "2026-11-11T17:29:59.000+08:00"
       },
       {
-        "title": "北京力争到2030年经常参加体育锻炼人数比例达55%",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730288.shtml",
-        "publishedAt": "2026-11-11T17:24:51.000+08:00"
+        "title": "（机遇香港）香港IPO市场持续升温 今年前10个月集资额同比增长84%",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730292.shtml",
+        "publishedAt": "2026-11-11T17:29:55.000+08:00"
       },
       {
-        "title": "实验室来的“汪汪队”，凭什么卖了2.5万台？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730295.shtml",
-        "publishedAt": "2026-11-11T17:24:49.000+08:00"
+        "title": "哈尔滨“领跑”中国冰雪旅游过夜目的地",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730301.shtml",
+        "publishedAt": "2026-11-11T17:29:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T17:30:06.742+08:00",
+    "fetchedAt": "2026-11-11T17:40:18.656+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T17:30:07.533+08:00",
+      "fetchedAt": "2026-11-11T17:40:19.427+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-11T22:30:09.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-11-11T22:37:37.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 4,
-          "resetAt": "2026-11-14T21:33:03.000+08:00"
+          "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T17:30:07.536+08:00",
+      "fetchedAt": "2026-11-11T17:40:19.431+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T17:30:07.546+08:00",
+      "fetchedAt": "2026-11-11T17:40:19.440+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T17:30:07.547+08:00",
+      "fetchedAt": "2026-11-11T17:40:19.441+08:00",
       "error": "未启用",
       "disabled": true
     }
