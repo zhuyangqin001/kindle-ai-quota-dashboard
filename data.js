@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T13:25:09.334+08:00",
+  "updatedAt": "2026-11-11T13:35:20.975+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.6,
-    "feelsLikeC": 16.4,
-    "humidity": 51,
-    "windKph": 5.4,
+    "tempC": 17.8,
+    "feelsLikeC": 16.5,
+    "humidity": 50,
+    "windKph": 5.6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-11T13:25:09.334+08:00",
+    "observedAt": "2026-11-11T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-11T13:35:20.975+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "韩国京畿道公交车连环撞车事故致48人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730039.shtml",
-        "publishedAt": "2026-11-11T13:15:56.000+08:00"
+        "title": "八所海关缉私分局业务用房院区前后门修缮改造与防撞柱安装工程项目比选公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730059.shtml",
+        "publishedAt": "2026-11-11T13:30:08.000+08:00"
       },
       {
-        "title": "委内瑞拉修法向私人开放电力领域",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730022.shtml",
-        "publishedAt": "2026-11-11T13:15:00.000+08:00"
+        "title": "《中非标准化合作发展蓝皮书》发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730055.shtml",
+        "publishedAt": "2026-11-11T13:26:44.000+08:00"
       },
       {
-        "title": "伊朗最高国家安全委员会秘书否认将与万斯会面",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730006.shtml",
-        "publishedAt": "2026-11-11T13:14:54.000+08:00"
+        "title": "民生调查局 | 洁厕剂、洗洁精长得像果汁、闻着像果茶，喝下去却可能要命",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730042.shtml",
+        "publishedAt": "2026-11-11T13:24:12.000+08:00"
       },
       {
-        "title": "中新健康｜想赚医院的钱，不那么容易了！医疗信息化相关厂商业绩承压",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-11/10730041.shtml",
-        "publishedAt": "2026-11-11T13:04:05.000+08:00"
+        "title": "日本多方批评高市政府：不应在扩军道路上一路狂奔",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730044.shtml",
+        "publishedAt": "2026-11-11T13:22:16.000+08:00"
       },
       {
-        "title": "探访港澳孙中山史迹：潮起南天，传承不息",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-11/10730040.shtml",
-        "publishedAt": "2026-11-11T13:02:07.000+08:00"
+        "title": "国台办：台湾问题是中国内政 不容任何外来干涉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730043.shtml",
+        "publishedAt": "2026-11-11T13:21:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T13:25:05.521+08:00",
+    "fetchedAt": "2026-11-11T13:35:17.855+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T13:25:06.301+08:00",
+      "fetchedAt": "2026-11-11T13:35:18.624+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T18:25:08.000+08:00"
+          "resetAt": "2026-11-11T18:35:20.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T13:25:06.304+08:00",
+      "fetchedAt": "2026-11-11T13:35:18.627+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T13:25:06.315+08:00",
+      "fetchedAt": "2026-11-11T13:35:18.637+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T13:25:06.315+08:00",
+      "fetchedAt": "2026-11-11T13:35:18.638+08:00",
       "error": "未启用",
       "disabled": true
     }
