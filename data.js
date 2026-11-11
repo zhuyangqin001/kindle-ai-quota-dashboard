@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T06:47:04.815+08:00",
+  "updatedAt": "2026-11-12T06:57:12.444+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-12T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T06:47:04.815+08:00",
+    "fetchedAt": "2026-11-12T06:57:12.444+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "阿布扎比会谈结束 俄乌宣告达成换俘协议 普京今日会见美特使",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730578.shtml",
+        "publishedAt": "2026-11-12T06:53:58.000+08:00"
+      },
+      {
+        "title": "11月12日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-12/10730577.shtml",
+        "publishedAt": "2026-11-12T06:45:51.000+08:00"
+      },
       {
         "title": "俄罗斯驻美国大使达尔奇耶夫去世，终年66岁",
         "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730576.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "守住你的钱袋子 “双十一”网购防骗指南请查收",
         "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730574.shtml",
         "publishedAt": "2026-11-12T06:14:19.000+08:00"
-      },
-      {
-        "title": "伊朗议长：美国必须满足伊方提出的七项条件",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730573.shtml",
-        "publishedAt": "2026-11-12T06:07:37.000+08:00"
-      },
-      {
-        "title": "俄外交部：俄驻美大使达尔奇耶夫猝然去世",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730572.shtml",
-        "publishedAt": "2026-11-12T06:04:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T06:47:03.506+08:00",
+    "fetchedAt": "2026-11-12T06:57:10.976+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T06:47:03.850+08:00",
+      "fetchedAt": "2026-11-12T06:57:11.330+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T11:47:04.000+08:00"
+          "resetAt": "2026-11-12T11:57:12.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T06:47:03.852+08:00",
+      "fetchedAt": "2026-11-12T06:57:11.332+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T06:47:03.859+08:00",
+      "fetchedAt": "2026-11-12T06:57:11.337+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T06:47:03.859+08:00",
+      "fetchedAt": "2026-11-12T06:57:11.337+08:00",
       "error": "未启用",
       "disabled": true
     }
