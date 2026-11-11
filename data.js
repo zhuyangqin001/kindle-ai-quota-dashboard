@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T12:23:57.717+08:00",
+  "updatedAt": "2026-11-11T12:34:11.126+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.5,
-    "feelsLikeC": 15.4,
-    "humidity": 54,
-    "windKph": 4,
-    "windDir": "东北风",
+    "tempC": 16.8,
+    "feelsLikeC": 15.8,
+    "humidity": 53,
+    "windKph": 4.4,
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-11T12:23:57.717+08:00",
+    "observedAt": "2026-11-11T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-11T12:34:11.126+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "浩瀚大洋连起21个经济体 带你读懂APEC",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730035.shtml",
+        "publishedAt": "2026-11-11T12:25:15.000+08:00"
+      },
+      {
+        "title": "炮制历史谣言、筛选受众卖课 揭露伪史博主的流量生意",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730034.shtml",
+        "publishedAt": "2026-11-11T12:21:35.000+08:00"
+      },
       {
         "title": "直播间买到假货谁来赔？典型案例厘清商家、主播、平台责任",
         "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730032.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "枯水期逆势回升 中国最大淡水湖水位突破12米枯水位线",
         "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730024.shtml",
         "publishedAt": "2026-11-11T12:09:32.000+08:00"
-      },
-      {
-        "title": "2026北京·天桥音乐剧年度盛典立足“聚力”促资源对接与交流",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730023.shtml",
-        "publishedAt": "2026-11-11T12:09:28.000+08:00"
-      },
-      {
-        "title": "中山精神联结两岸，百年初心照进现实——各界纪念孙中山诞辰160周年",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729981.shtml",
-        "publishedAt": "2026-11-11T12:07:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T12:23:54.109+08:00",
+    "fetchedAt": "2026-11-11T12:34:07.415+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T12:23:54.612+08:00",
+      "fetchedAt": "2026-11-11T12:34:08.169+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-11T17:23:56.000+08:00"
+          "resetAt": "2026-11-11T17:34:10.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T12:23:54.614+08:00",
+      "fetchedAt": "2026-11-11T12:34:08.172+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T12:23:54.620+08:00",
+      "fetchedAt": "2026-11-11T12:34:08.184+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T12:23:54.620+08:00",
+      "fetchedAt": "2026-11-11T12:34:08.185+08:00",
       "error": "未启用",
       "disabled": true
     }
