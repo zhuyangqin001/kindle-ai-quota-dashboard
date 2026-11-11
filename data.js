@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-11T13:55:49.275+08:00",
+  "updatedAt": "2026-11-11T14:06:06.901+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.9,
+    "tempC": 18,
     "feelsLikeC": 16.5,
     "humidity": 50,
-    "windKph": 5.8,
+    "windKph": 6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T13:45:00.000+08:00",
-    "fetchedAt": "2026-11-11T13:55:49.276+08:00",
+    "observedAt": "2026-11-11T14:00:00.000+08:00",
+    "fetchedAt": "2026-11-11T14:06:06.901+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "新修订《人类遗传资源管理条例实施细则》公布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730058.shtml",
+        "publishedAt": "2026-11-11T14:00:10.000+08:00"
+      },
+      {
+        "title": "《过来人》、“闪身步”走红两岸 国台办：共鸣是密码",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730062.shtml",
+        "publishedAt": "2026-11-11T13:52:50.000+08:00"
+      },
+      {
+        "title": "海口海关基础设施功能恢复项目（文昌海关）施工招标公告",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730070.shtml",
+        "publishedAt": "2026-11-11T13:52:22.000+08:00"
+      },
+      {
+        "title": "印度官员称印美继续磋商双边贸易协议",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730069.shtml",
+        "publishedAt": "2026-11-11T13:51:08.000+08:00"
+      },
+      {
         "title": "中国“两次发射”方案亮相 全球载人登月进入多路线并行时代",
         "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730068.shtml",
         "publishedAt": "2026-11-11T13:50:09.000+08:00"
-      },
-      {
-        "title": "斯诺克冠中冠赛：特鲁姆普首轮出局 尼尔·罗伯逊晋级四强",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-11/10730049.shtml",
-        "publishedAt": "2026-11-11T13:38:37.000+08:00"
-      },
-      {
-        "title": "国台办：欢迎台湾有关方面积极参与“妈祖”相关活动及项目",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730046.shtml",
-        "publishedAt": "2026-11-11T13:38:31.000+08:00"
-      },
-      {
-        "title": "海口港海关基础设施功能恢复项目监理服务采购比选公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-11/10730063.shtml",
-        "publishedAt": "2026-11-11T13:34:25.000+08:00"
-      },
-      {
-        "title": "第39届中国电影金鸡奖揭晓 爱奇艺出品电影《捕风追影》主演梁家辉斩获最佳男主角",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-11/10730056.shtml",
-        "publishedAt": "2026-11-11T13:33:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T13:55:45.223+08:00",
+    "fetchedAt": "2026-11-11T14:06:00.204+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T13:55:45.988+08:00",
+      "fetchedAt": "2026-11-11T14:06:00.955+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -73,7 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-11T13:55:45.991+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-11-11T14:06:00.959+08:00"
     },
     "mimo": {
       "ok": false,
@@ -81,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T13:55:46.001+08:00",
+      "fetchedAt": "2026-11-11T14:06:00.969+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T13:55:46.002+08:00",
+      "fetchedAt": "2026-11-11T14:06:00.969+08:00",
       "error": "未启用",
       "disabled": true
     }
