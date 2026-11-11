@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-11T15:38:26.733+08:00",
+  "updatedAt": "2026-11-11T15:48:42.056+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.3,
-    "feelsLikeC": 16.9,
-    "humidity": 51,
-    "windKph": 6,
+    "tempC": 18.2,
+    "feelsLikeC": 16.8,
+    "humidity": 52,
+    "windKph": 5.6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-11T15:38:26.734+08:00",
+    "observedAt": "2026-11-11T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-11T15:48:42.056+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "11月11日“农产品批发价格200指数”比昨天上升0.02个点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730187.shtml",
-        "publishedAt": "2026-11-11T15:34:57.000+08:00"
+        "title": "实体书店首次纳入图书馆总分馆体系 如何更好服务全民阅读？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730196.shtml",
+        "publishedAt": "2026-11-11T15:43:06.000+08:00"
       },
       {
-        "title": "加拿大总理称中国等国家不应干预加拿大内政 外交部：中方从来没有兴趣",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730188.shtml",
-        "publishedAt": "2026-11-11T15:30:59.000+08:00"
+        "title": "李强将访问泰国并赴菲律宾出席中国—东盟领导人会议 外交部介绍情况",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730189.shtml",
+        "publishedAt": "2026-11-11T15:40:43.000+08:00"
       },
       {
-        "title": "日常好习惯守护身体健康 这份防病秘诀请收好",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-11/10730184.shtml",
-        "publishedAt": "2026-11-11T15:27:01.000+08:00"
+        "title": "距离按米收费、一口价变翻倍价 警惕搬家“套路搬”",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-11/10730194.shtml",
+        "publishedAt": "2026-11-11T15:39:45.000+08:00"
       },
       {
-        "title": "“统一，是理解中山精神的底色”——专访孙中山家族后人孙伟勇",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730172.shtml",
-        "publishedAt": "2026-11-11T15:25:17.000+08:00"
+        "title": "王毅同古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730190.shtml",
+        "publishedAt": "2026-11-11T15:37:27.000+08:00"
       },
       {
-        "title": "中日领导人是否将在APEC会议期间会晤？外交部回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730183.shtml",
-        "publishedAt": "2026-11-11T15:24:21.000+08:00"
+        "title": "两场专项对接会，拓宽沪企出海合作之路",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-11/10730186.shtml",
+        "publishedAt": "2026-11-11T15:36:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T15:38:18.052+08:00",
+    "fetchedAt": "2026-11-11T15:48:35.395+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T15:38:18.836+08:00",
+      "fetchedAt": "2026-11-11T15:48:36.168+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -73,7 +73,9 @@
         }
       ],
       "fetchedAt": "2026-11-11T15:38:18.839+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-11-11T15:48:36.171+08:00"
     },
     "mimo": {
       "ok": false,
@@ -81,7 +83,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T15:38:18.850+08:00",
+      "fetchedAt": "2026-11-11T15:48:36.182+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +93,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T15:38:18.850+08:00",
+      "fetchedAt": "2026-11-11T15:48:36.182+08:00",
       "error": "未启用",
       "disabled": true
     }
