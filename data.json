@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-11T18:51:45.227+08:00",
+  "updatedAt": "2026-11-11T19:01:58.728+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.3,
-    "feelsLikeC": 13.5,
-    "humidity": 72,
-    "windKph": 4.3,
+    "tempC": 14,
+    "feelsLikeC": 13.1,
+    "humidity": 74,
+    "windKph": 4.8,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-11T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-11T18:51:45.228+08:00",
+    "observedAt": "2026-11-11T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-11T19:01:58.728+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "出行注意！未来三天大气扩散条件转差 这份全国能见度地图请收好",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730365.shtml",
+        "publishedAt": "2026-11-11T18:53:44.000+08:00"
+      },
+      {
+        "title": "大雾黄色预警：京津冀等6省市部分地区有大雾 局地有强浓雾",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-11/10730354.shtml",
+        "publishedAt": "2026-11-11T18:51:46.000+08:00"
+      },
       {
         "title": "2026年前三季度全国广播电视服务业总收入11330.88亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730348.shtml",
@@ -33,19 +43,9 @@
         "title": "俄美乌第二日三方会谈已结束",
         "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730351.shtml",
         "publishedAt": "2026-11-11T18:28:27.000+08:00"
-      },
-      {
-        "title": "“全妆”深圳，出圈了",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730349.shtml",
-        "publishedAt": "2026-11-11T18:16:52.000+08:00"
-      },
-      {
-        "title": "王毅：中方将坚定支持古巴维护国家主权和正当权益",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730333.shtml",
-        "publishedAt": "2026-11-11T18:11:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-11T18:51:41.934+08:00",
+    "fetchedAt": "2026-11-11T19:01:55.626+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-11T18:51:42.704+08:00",
+      "fetchedAt": "2026-11-11T19:01:56.392+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-11T18:51:42.707+08:00",
+      "fetchedAt": "2026-11-11T19:01:56.396+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T18:51:42.718+08:00",
+      "fetchedAt": "2026-11-11T19:01:56.405+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-11T18:51:42.718+08:00",
+      "fetchedAt": "2026-11-11T19:01:56.406+08:00",
       "error": "未启用",
       "disabled": true
     }
