@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T15:50:11.507+08:00",
+  "updatedAt": "2026-11-12T16:10:32.414+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.1,
-    "feelsLikeC": 18.9,
+    "tempC": 19,
+    "feelsLikeC": 18.8,
     "humidity": 65,
     "windKph": 5.7,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T15:50:11.507+08:00",
+    "observedAt": "2026-11-12T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T16:10:32.414+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "人力资源社会保障部关于《技能人才评价条例（征求意见稿）》公开征求意见的通知",
-        "url": "https://www.chinanews.com.cn/kong/2026/11-12/10730834.shtml",
-        "publishedAt": "2026-11-12T15:43:54.000+08:00"
+        "title": "重庆綦江一包装制品公司发生火灾 现场无人员伤亡",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730838.shtml",
+        "publishedAt": "2026-11-12T16:03:21.000+08:00"
       },
       {
-        "title": "事关技能人才评价 这部条例公开征求意见",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730832.shtml",
-        "publishedAt": "2026-11-12T15:41:38.000+08:00"
+        "title": "韩国外长赵显将访华 中国外交部介绍有关安排",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730841.shtml",
+        "publishedAt": "2026-11-12T16:02:53.000+08:00"
       },
       {
-        "title": "外交部：坚决反对美方泛化国家安全概念 无理打压中国机构",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730831.shtml",
-        "publishedAt": "2026-11-12T15:39:08.000+08:00"
+        "title": "18起涉食品安全重大犯罪案件被挂牌督办",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730848.shtml",
+        "publishedAt": "2026-11-12T16:01:55.000+08:00"
       },
       {
-        "title": "大连大学联合大连市对口支援工作队共建铸牢中华民族共同体意识实践育人平台",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730772.shtml",
-        "publishedAt": "2026-11-12T15:38:12.000+08:00"
+        "title": "油吃多了不好，怎样吃才健康？真相在这儿！",
+        "url": "https://www.chinanews.com.cn/life/2026/11-12/10730845.shtml",
+        "publishedAt": "2026-11-12T15:59:05.000+08:00"
       },
       {
-        "title": "九三学社：找好选题 讲好“自己的故事”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730823.shtml",
-        "publishedAt": "2026-11-12T15:36:58.000+08:00"
+        "title": "商务部：中美经贸关系本质是互利共赢 合作是唯一正确道路",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730839.shtml",
+        "publishedAt": "2026-11-12T15:54:49.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T15:50:08.864+08:00",
+    "fetchedAt": "2026-11-12T16:10:28.747+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T15:50:09.228+08:00",
+      "fetchedAt": "2026-11-12T16:10:29.311+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T20:50:11.000+08:00"
+          "resetAt": "2026-11-12T21:10:31.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T15:50:09.230+08:00",
+      "fetchedAt": "2026-11-12T16:10:29.313+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T15:50:09.235+08:00",
+      "fetchedAt": "2026-11-12T16:10:29.317+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T15:50:09.235+08:00",
+      "fetchedAt": "2026-11-12T16:10:29.317+08:00",
       "error": "未启用",
       "disabled": true
     }
