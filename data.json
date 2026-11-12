@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-12T21:57:04.182+08:00",
+  "updatedAt": "2026-11-12T22:07:17.755+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 15.6,
-    "feelsLikeC": 16,
+    "feelsLikeC": 15.9,
     "humidity": 88,
-    "windKph": 4.8,
+    "windKph": 5.4,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T21:57:04.182+08:00",
+    "observedAt": "2026-11-12T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T22:07:17.755+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“日新万象”展香港揭幕 纪念孙中山先生诞辰160周年",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731186.shtml",
-        "publishedAt": "2026-11-12T21:51:16.000+08:00"
+        "title": "成渝三地联合进京推介文旅 西部国际AI漫剧产业园亮相",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731214.shtml",
+        "publishedAt": "2026-11-12T22:05:47.000+08:00"
       },
       {
-        "title": "第三届海峡两岸书画艺术交流展巡展在沪开幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731203.shtml",
-        "publishedAt": "2026-11-12T21:50:58.000+08:00"
+        "title": "7吨级大型运投无人机“长鹰-8”完成运输投送试验",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731213.shtml",
+        "publishedAt": "2026-11-12T22:05:07.000+08:00"
       },
       {
-        "title": "退休铁路工人拍摄30余万张照片 为百年滇越铁路“留影”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731199.shtml",
-        "publishedAt": "2026-11-12T21:50:28.000+08:00"
+        "title": "马来西亚槟城举办展览记录华人机器公会历史",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-12/10731215.shtml",
+        "publishedAt": "2026-11-12T22:03:57.000+08:00"
       },
       {
-        "title": "海南国资“十五五”将投266亿元锻造“五向图强”产业链",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731196.shtml",
-        "publishedAt": "2026-11-12T21:50:04.000+08:00"
+        "title": "罗大佑怒批民进党当局引发岛内共鸣",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731211.shtml",
+        "publishedAt": "2026-11-12T22:01:57.000+08:00"
       },
       {
-        "title": "云南拓航线增航班出惠民措施 吸引游客感受“七彩云南”魅力",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731195.shtml",
-        "publishedAt": "2026-11-12T21:49:34.000+08:00"
+        "title": "内蒙古搭建起自贸试验区建设的“四梁八柱”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731210.shtml",
+        "publishedAt": "2026-11-12T22:00:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T21:56:58.589+08:00",
+    "fetchedAt": "2026-11-12T22:07:13.651+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T21:56:58.943+08:00",
+      "fetchedAt": "2026-11-12T22:07:14.097+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T21:56:58.945+08:00",
+      "fetchedAt": "2026-11-12T22:07:14.101+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T21:56:58.950+08:00",
+      "fetchedAt": "2026-11-12T22:07:14.110+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T21:56:58.950+08:00",
+      "fetchedAt": "2026-11-12T22:07:14.111+08:00",
       "error": "未启用",
       "disabled": true
     }
