@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T21:05:49.213+08:00",
+  "updatedAt": "2026-11-12T21:16:00.793+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.6,
-    "feelsLikeC": 16.2,
+    "tempC": 15.5,
+    "feelsLikeC": 16.1,
     "humidity": 88,
-    "windKph": 3.1,
+    "windKph": 3.6,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T21:05:49.213+08:00",
+    "observedAt": "2026-11-12T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-12T21:16:00.794+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "洛杉矶奥运会女足亚预赛抽签揭晓 中国女足与朝鲜、韩国队同组",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-12/10731145.shtml",
-        "publishedAt": "2026-11-12T21:02:42.000+08:00"
+        "title": "2026“长安·罗马”法律服务论坛在西安举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731155.shtml",
+        "publishedAt": "2026-11-12T21:13:10.000+08:00"
       },
       {
-        "title": "奔驰CEO称在中国车要大得惊人！难道造车的尽头只能“以大为优”？",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-12/10731147.shtml",
-        "publishedAt": "2026-11-12T21:00:31.000+08:00"
+        "title": "多家机构在三亚共建海洋生物制造业创新中心",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731154.shtml",
+        "publishedAt": "2026-11-12T21:10:34.000+08:00"
       },
       {
-        "title": "港澳各界人士：继承发扬中山精神，为民族复兴贡献力量",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731136.shtml",
-        "publishedAt": "2026-11-12T20:58:09.000+08:00"
+        "title": "金积750千伏输变电站正式投运 畅通宁夏东部新能源外送通道",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731151.shtml",
+        "publishedAt": "2026-11-12T21:09:38.000+08:00"
       },
       {
-        "title": "孙中山诞辰160周年 江苏省暨南京市各界人士拜谒中山陵",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731134.shtml",
-        "publishedAt": "2026-11-12T20:55:03.000+08:00"
+        "title": "意大利12日再有超1800所学校收到炸弹威胁邮件",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731158.shtml",
+        "publishedAt": "2026-11-12T21:09:14.000+08:00"
       },
       {
-        "title": "“duanju”爆火背后的中国短剧产业跃迁",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731139.shtml",
-        "publishedAt": "2026-11-12T20:52:43.000+08:00"
+        "title": "“外婆家的美术馆”影像展在浙江桐乡开展 留存江南小镇变迁史",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10731152.shtml",
+        "publishedAt": "2026-11-12T21:08:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T21:05:45.750+08:00",
+    "fetchedAt": "2026-11-12T21:15:58.032+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T21:05:46.102+08:00",
+      "fetchedAt": "2026-11-12T21:15:58.458+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T21:05:46.104+08:00",
+      "fetchedAt": "2026-11-12T21:15:58.460+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T21:05:46.110+08:00",
+      "fetchedAt": "2026-11-12T21:15:58.465+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T21:05:46.110+08:00",
+      "fetchedAt": "2026-11-12T21:15:58.465+08:00",
       "error": "未启用",
       "disabled": true
     }
