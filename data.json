@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-12T21:26:16.155+08:00",
+  "updatedAt": "2026-11-12T21:36:31.994+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.5,
+    "tempC": 15.6,
     "feelsLikeC": 16.1,
     "humidity": 88,
-    "windKph": 3.6,
+    "windKph": 4.1,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-12T21:26:16.155+08:00",
+    "observedAt": "2026-11-12T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-12T21:36:31.994+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "于魁智、李胜素领衔 大陆戏曲名家赴台演出",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10731146.shtml",
-        "publishedAt": "2026-11-12T21:25:13.000+08:00"
+        "title": "青海省2026年秋季迁徙水鸟监测数量较去年增加25万余只",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731163.shtml",
+        "publishedAt": "2026-11-12T21:28:43.000+08:00"
       },
       {
-        "title": "山东黄河三角洲再现“鸟浪”奇观 网友：课本里的《逍遥游》诚不欺我",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731166.shtml",
-        "publishedAt": "2026-11-12T21:23:59.000+08:00"
+        "title": "新交所集团CEO罗文才：中国市场蕴含更多机遇",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731161.shtml",
+        "publishedAt": "2026-11-12T21:28:41.000+08:00"
       },
       {
-        "title": "西藏亚东县在拉萨举办文化旅游推介会",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731165.shtml",
-        "publishedAt": "2026-11-12T21:23:55.000+08:00"
+        "title": "“双碳”绿色技术赋能中小企业高质量发展交流会在济南举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731148.shtml",
+        "publishedAt": "2026-11-12T21:27:25.000+08:00"
       },
       {
-        "title": "11月12日夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-12/10731167.shtml",
-        "publishedAt": "2026-11-12T21:22:45.000+08:00"
+        "title": "“LED灯会让人变胖”冲上热搜 这些人群要注意",
+        "url": "https://www.chinanews.com.cn/life/2026/11-12/10731174.shtml",
+        "publishedAt": "2026-11-12T21:27:03.000+08:00"
       },
       {
-        "title": "专访麦家——香港文学，扎根在城市的缝隙中",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10731160.shtml",
-        "publishedAt": "2026-11-12T21:21:01.000+08:00"
+        "title": "中国铁路工程首次应用“格构墩”结构",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731164.shtml",
+        "publishedAt": "2026-11-12T21:26:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T21:26:12.588+08:00",
+    "fetchedAt": "2026-11-12T21:36:26.699+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T21:26:12.942+08:00",
+      "fetchedAt": "2026-11-12T21:36:27.271+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T21:26:12.945+08:00",
+      "fetchedAt": "2026-11-12T21:36:27.273+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T21:26:12.949+08:00",
+      "fetchedAt": "2026-11-12T21:36:27.278+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T21:26:12.950+08:00",
+      "fetchedAt": "2026-11-12T21:36:27.278+08:00",
       "error": "未启用",
       "disabled": true
     }
