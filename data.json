@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-12T09:19:10.347+08:00",
+  "updatedAt": "2026-11-12T09:39:26.762+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.8,
-    "feelsLikeC": 15.6,
+    "tempC": 16.2,
+    "feelsLikeC": 16,
     "humidity": 68,
-    "windKph": 1.2,
+    "windKph": 1.3,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-12T09:19:10.347+08:00",
+    "observedAt": "2026-11-12T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-12T09:39:26.762+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年APEC领导人会议周新闻中心启用",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210591.shtml",
-        "publishedAt": "2026-11-12T08:41:32.000+08:00"
+        "title": "2026年中央八项规定精神贯彻执行情况网络调查问卷",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-12/10730619.shtml",
+        "publishedAt": "2026-11-12T09:33:34.000+08:00"
       },
       {
-        "title": "学习手记丨向着全面建成世界一流空军奋飞",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730604.shtml",
-        "publishedAt": "2026-11-12T08:39:01.000+08:00"
+        "title": "第22届中美电影节和电视节在洛杉矶举行“金天使奖”颁奖典礼",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210611.shtml",
+        "publishedAt": "2026-11-12T09:33:27.000+08:00"
       },
       {
-        "title": "89.0%受访者感觉当前AI卖家秀与收到实物差距大",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730603.shtml",
-        "publishedAt": "2026-11-12T08:29:19.000+08:00"
+        "title": "11月12日人民币对美元中间价报6.7174 上调17个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730616.shtml",
+        "publishedAt": "2026-11-12T09:28:58.000+08:00"
       },
       {
-        "title": "第二艘国产大型邮轮“爱达·花城号”完成首个试运营航次",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730602.shtml",
-        "publishedAt": "2026-11-12T08:26:27.000+08:00"
+        "title": "【四时映画】河南郑州：天鹅戏水晨雾间",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210606.shtml",
+        "publishedAt": "2026-11-12T09:23:58.000+08:00"
       },
       {
-        "title": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地有雾霾天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730596.shtml",
-        "publishedAt": "2026-11-12T08:23:16.000+08:00"
+        "title": "湖南省邵阳市政协副主席孙清良接受监察调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730612.shtml",
+        "publishedAt": "2026-11-12T09:22:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T09:19:08.585+08:00",
+    "fetchedAt": "2026-11-12T09:39:23.721+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T09:19:08.927+08:00",
+      "fetchedAt": "2026-11-12T09:39:24.321+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T14:19:10.000+08:00"
+          "resetAt": "2026-11-12T14:39:26.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 13,
-          "resetAt": "2026-11-14T21:33:03.000+08:00"
+          "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T09:19:08.929+08:00",
+      "fetchedAt": "2026-11-12T09:39:24.323+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T09:19:08.934+08:00",
+      "fetchedAt": "2026-11-12T09:39:24.334+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T09:19:08.934+08:00",
+      "fetchedAt": "2026-11-12T09:39:24.335+08:00",
       "error": "未启用",
       "disabled": true
     }
