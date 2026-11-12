@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-12T13:53:09.961+08:00",
+  "updatedAt": "2026-11-12T14:13:27.023+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.3,
-    "feelsLikeC": 18,
+    "feelsLikeC": 17.9,
     "humidity": 64,
     "windKph": 5.2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T13:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T13:53:09.961+08:00",
+    "observedAt": "2026-11-12T14:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T14:13:27.024+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "累计报告数千麻疹病例 美国或失去“麻疹消除国”地位",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730747.shtml",
-        "publishedAt": "2026-11-12T13:43:00.000+08:00"
+        "title": "密西西比州民主党人翻转参议院席位",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730753.shtml",
+        "publishedAt": "2026-11-12T14:00:21.000+08:00"
       },
       {
-        "title": "斯诺克冠中冠赛：中国球手吴宜泽、常冰玉出局",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-12/10730742.shtml",
-        "publishedAt": "2026-11-12T13:38:42.000+08:00"
+        "title": "电影《云水谣》二十周年系列主题活动在福建南靖举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730751.shtml",
+        "publishedAt": "2026-11-12T13:55:28.000+08:00"
       },
       {
-        "title": "突发：美国纽约一建筑发生坍塌事故 已致至少2死17伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730741.shtml",
-        "publishedAt": "2026-11-12T13:29:45.000+08:00"
+        "title": "中国证监会：汇聚各方合力 全力维护市场平稳运行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730755.shtml",
+        "publishedAt": "2026-11-12T13:52:44.000+08:00"
       },
       {
-        "title": "中新健康｜AI十年内攻克癌症？Anthropic CEO预测引质疑",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730740.shtml",
-        "publishedAt": "2026-11-12T13:22:29.000+08:00"
+        "title": "纪念孙中山先生诞辰160周年大会在北京举行",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210621.shtml",
+        "publishedAt": "2026-11-12T13:52:42.000+08:00"
       },
       {
-        "title": "李家超寄语香港下一代：传承孙中山先生矢志不渝振兴中华民族的精神",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730739.shtml",
-        "publishedAt": "2026-11-12T13:07:54.000+08:00"
+        "title": "纪念孙中山先生诞辰160周年大会在北京举行 习近平发表重要讲话",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730743.shtml",
+        "publishedAt": "2026-11-12T13:52:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T13:53:05.992+08:00",
+    "fetchedAt": "2026-11-12T14:13:24.218+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T13:53:06.343+08:00",
+      "fetchedAt": "2026-11-12T14:13:24.597+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T13:53:06.346+08:00",
+      "fetchedAt": "2026-11-12T14:13:24.598+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T13:53:06.350+08:00",
+      "fetchedAt": "2026-11-12T14:13:24.602+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T13:53:06.350+08:00",
+      "fetchedAt": "2026-11-12T14:13:24.602+08:00",
       "error": "未启用",
       "disabled": true
     }
