@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T17:31:54.840+08:00",
+  "updatedAt": "2026-11-12T17:42:07.425+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-12T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T17:31:54.840+08:00",
+    "fetchedAt": "2026-11-12T17:42:07.425+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "定居两地、偶尔相聚……东方白鹳姐妹迁徙“不走寻常路”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730937.shtml",
-        "publishedAt": "2026-11-12T17:25:46.000+08:00"
+        "title": "（乡村行·看振兴）从“砍树”到“看树” 川东一座林场的“绿色账本”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730952.shtml",
+        "publishedAt": "2026-11-12T17:36:06.000+08:00"
       },
       {
-        "title": "以“他山之石”来“攻玉” 学者带读者把西方经典读薄读活",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730874.shtml",
-        "publishedAt": "2026-11-12T17:25:42.000+08:00"
+        "title": "全国秋冬进程图出炉，看看你家入冬了吗？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730972.shtml",
+        "publishedAt": "2026-11-12T17:35:10.000+08:00"
       },
       {
-        "title": "“孙中山与统一战线”学术研讨会在上海大学举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730873.shtml",
-        "publishedAt": "2026-11-12T17:24:46.000+08:00"
+        "title": "中国三部门挂牌督办18起涉食品安全重大犯罪案件",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730935.shtml",
+        "publishedAt": "2026-11-12T17:34:24.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）一码溯源黑土粮：磐石千塘稻凭生境数字化走向国际",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730872.shtml",
-        "publishedAt": "2026-11-12T17:24:12.000+08:00"
+        "title": "企业出海“走出去”专题论坛在沪举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730946.shtml",
+        "publishedAt": "2026-11-12T17:33:08.000+08:00"
       },
       {
-        "title": "列车装上“AI大脑” 新型地铁智慧列车在山东青岛下线",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730875.shtml",
-        "publishedAt": "2026-11-12T17:22:28.000+08:00"
+        "title": "新雪季长白山升级雪雕版云顶天宫 增设“青铜门”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730945.shtml",
+        "publishedAt": "2026-11-12T17:33:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T17:31:51.449+08:00",
+    "fetchedAt": "2026-11-12T17:42:03.437+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T17:31:51.812+08:00",
+      "fetchedAt": "2026-11-12T17:42:03.808+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T22:31:54.000+08:00"
+          "resetAt": "2026-11-12T22:42:07.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T17:31:51.814+08:00",
+      "fetchedAt": "2026-11-12T17:42:03.810+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T17:31:51.818+08:00",
+      "fetchedAt": "2026-11-12T17:42:03.814+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T17:31:51.819+08:00",
+      "fetchedAt": "2026-11-12T17:42:03.815+08:00",
       "error": "未启用",
       "disabled": true
     }
