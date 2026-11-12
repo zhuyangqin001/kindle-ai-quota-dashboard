@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T08:58:54.585+08:00",
+  "updatedAt": "2026-11-12T09:19:10.347+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.1,
-    "feelsLikeC": 14.9,
-    "humidity": 71,
-    "windKph": 0.9,
-    "windDir": "东风",
+    "tempC": 15.8,
+    "feelsLikeC": 15.6,
+    "humidity": 68,
+    "windKph": 1.2,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T08:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T08:58:54.585+08:00",
+    "observedAt": "2026-11-12T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-12T09:19:10.347+08:00",
     "error": null
   },
   "news": {
@@ -23,6 +23,11 @@ window.DASH_DATA = {
         "title": "2026年APEC领导人会议周新闻中心启用",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210591.shtml",
         "publishedAt": "2026-11-12T08:41:32.000+08:00"
+      },
+      {
+        "title": "学习手记丨向着全面建成世界一流空军奋飞",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730604.shtml",
+        "publishedAt": "2026-11-12T08:39:01.000+08:00"
       },
       {
         "title": "89.0%受访者感觉当前AI卖家秀与收到实物差距大",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地有雾霾天气",
         "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730596.shtml",
         "publishedAt": "2026-11-12T08:23:16.000+08:00"
-      },
-      {
-        "title": "中央气象台对台风“查帕卡”停止编号",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730601.shtml",
-        "publishedAt": "2026-11-12T08:21:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T08:58:52.770+08:00",
+    "fetchedAt": "2026-11-12T09:19:08.585+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T08:58:53.123+08:00",
+      "fetchedAt": "2026-11-12T09:19:08.927+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T13:58:54.000+08:00"
+          "resetAt": "2026-11-12T14:19:10.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T08:58:53.125+08:00",
+      "fetchedAt": "2026-11-12T09:19:08.929+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T08:58:53.129+08:00",
+      "fetchedAt": "2026-11-12T09:19:08.934+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T08:58:53.129+08:00",
+      "fetchedAt": "2026-11-12T09:19:08.934+08:00",
       "error": "未启用",
       "disabled": true
     }
