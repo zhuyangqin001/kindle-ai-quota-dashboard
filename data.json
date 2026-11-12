@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-12T17:42:07.425+08:00",
+  "updatedAt": "2026-11-12T18:12:31.077+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.6,
-    "feelsLikeC": 17.7,
-    "humidity": 74,
-    "windKph": 5.8,
+    "tempC": 17.2,
+    "feelsLikeC": 17.1,
+    "humidity": 76,
+    "windKph": 7.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T17:42:07.425+08:00",
+    "observedAt": "2026-11-12T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T18:12:31.077+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（乡村行·看振兴）从“砍树”到“看树” 川东一座林场的“绿色账本”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730952.shtml",
-        "publishedAt": "2026-11-12T17:36:06.000+08:00"
+        "title": "贴秋膘练编队！莫莫格湿地候鸟整装奔赴越冬家园",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730996.shtml",
+        "publishedAt": "2026-11-12T18:04:28.000+08:00"
       },
       {
-        "title": "全国秋冬进程图出炉，看看你家入冬了吗？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730972.shtml",
-        "publishedAt": "2026-11-12T17:35:10.000+08:00"
+        "title": "湖北当阳季家湖：天鹅组团赴冬约",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730959.shtml",
+        "publishedAt": "2026-11-12T18:02:36.000+08:00"
       },
       {
-        "title": "中国三部门挂牌督办18起涉食品安全重大犯罪案件",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730935.shtml",
-        "publishedAt": "2026-11-12T17:34:24.000+08:00"
+        "title": "山西万荣：立冬拾穗忙 滩区粮归仓",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730962.shtml",
+        "publishedAt": "2026-11-12T18:01:44.000+08:00"
       },
       {
-        "title": "企业出海“走出去”专题论坛在沪举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730946.shtml",
-        "publishedAt": "2026-11-12T17:33:08.000+08:00"
+        "title": "扇贝迎丰收！河北秦皇岛“蓝色粮仓”采收忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730969.shtml",
+        "publishedAt": "2026-11-12T18:01:26.000+08:00"
       },
       {
-        "title": "新雪季长白山升级雪雕版云顶天宫 增设“青铜门”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730945.shtml",
-        "publishedAt": "2026-11-12T17:33:06.000+08:00"
+        "title": "中国商务部：中美正就贸易、投资等问题保持密切沟通",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730989.shtml",
+        "publishedAt": "2026-11-12T18:00:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T17:42:03.437+08:00",
+    "fetchedAt": "2026-11-12T18:12:27.505+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T17:42:03.808+08:00",
+      "fetchedAt": "2026-11-12T18:12:27.863+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-12T22:42:07.000+08:00"
+          "usedPct": 22,
+          "resetAt": "2026-11-12T22:48:00.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 14,
+          "usedPct": 17,
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T17:42:03.810+08:00",
+      "fetchedAt": "2026-11-12T18:12:27.865+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T17:42:03.814+08:00",
+      "fetchedAt": "2026-11-12T18:12:27.870+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T17:42:03.815+08:00",
+      "fetchedAt": "2026-11-12T18:12:27.870+08:00",
       "error": "未启用",
       "disabled": true
     }
