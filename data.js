@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T13:22:46.547+08:00",
+  "updatedAt": "2026-11-12T13:53:09.961+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.5,
-    "feelsLikeC": 18.1,
-    "humidity": 63,
-    "windKph": 5.5,
+    "tempC": 18.3,
+    "feelsLikeC": 18,
+    "humidity": 64,
+    "windKph": 5.2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-12T13:22:46.547+08:00",
+    "observedAt": "2026-11-12T13:45:00.000+08:00",
+    "fetchedAt": "2026-11-12T13:53:09.961+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "累计报告数千麻疹病例 美国或失去“麻疹消除国”地位",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730747.shtml",
+        "publishedAt": "2026-11-12T13:43:00.000+08:00"
+      },
+      {
+        "title": "斯诺克冠中冠赛：中国球手吴宜泽、常冰玉出局",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-12/10730742.shtml",
+        "publishedAt": "2026-11-12T13:38:42.000+08:00"
+      },
+      {
+        "title": "突发：美国纽约一建筑发生坍塌事故 已致至少2死17伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730741.shtml",
+        "publishedAt": "2026-11-12T13:29:45.000+08:00"
+      },
+      {
+        "title": "中新健康｜AI十年内攻克癌症？Anthropic CEO预测引质疑",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730740.shtml",
+        "publishedAt": "2026-11-12T13:22:29.000+08:00"
+      },
+      {
         "title": "李家超寄语香港下一代：传承孙中山先生矢志不渝振兴中华民族的精神",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730739.shtml",
         "publishedAt": "2026-11-12T13:07:54.000+08:00"
-      },
-      {
-        "title": "海外多地办展 回望孙中山与海外华侨的革命同行路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730738.shtml",
-        "publishedAt": "2026-11-12T13:06:38.000+08:00"
-      },
-      {
-        "title": "美国纽约一楼房倒塌致至少2死17伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730734.shtml",
-        "publishedAt": "2026-11-12T13:06:28.000+08:00"
-      },
-      {
-        "title": "尹艳林：中国经济增长动力结构正发生积极变化",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730737.shtml",
-        "publishedAt": "2026-11-12T12:50:31.000+08:00"
-      },
-      {
-        "title": "中国在风电领域实现国际标准新突破",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730736.shtml",
-        "publishedAt": "2026-11-12T12:49:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T13:22:44.554+08:00",
+    "fetchedAt": "2026-11-12T13:53:05.992+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T13:22:44.908+08:00",
+      "fetchedAt": "2026-11-12T13:53:06.343+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 14,
-          "resetAt": "2026-11-14T21:33:03.000+08:00"
+          "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T13:22:44.910+08:00",
+      "fetchedAt": "2026-11-12T13:53:06.346+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T13:22:44.915+08:00",
+      "fetchedAt": "2026-11-12T13:53:06.350+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T13:22:44.915+08:00",
+      "fetchedAt": "2026-11-12T13:53:06.350+08:00",
       "error": "未启用",
       "disabled": true
     }
