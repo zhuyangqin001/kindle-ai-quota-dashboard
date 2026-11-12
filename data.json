@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T16:30:55.410+08:00",
+  "updatedAt": "2026-11-12T16:41:09.788+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-12T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T16:30:55.410+08:00",
+    "fetchedAt": "2026-11-12T16:41:09.788+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "投资结构持续向新向优——中国经济三季报亮点解析",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730896.shtml",
-        "publishedAt": "2026-11-12T16:25:17.000+08:00"
+        "title": "桑德罗·马科斯的腐败风波",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730913.shtml",
+        "publishedAt": "2026-11-12T16:35:25.000+08:00"
       },
       {
-        "title": "油价迎年内第六次下调 加满一箱油省24.5元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730869.shtml",
-        "publishedAt": "2026-11-12T16:24:20.000+08:00"
+        "title": "2026年全国残疾人跳绳比赛在北京举办",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210622.shtml",
+        "publishedAt": "2026-11-12T16:33:55.000+08:00"
       },
       {
-        "title": "江苏盐城市亭湖区组织开展医疗机构依法执业专题培训",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730855.shtml",
-        "publishedAt": "2026-11-12T16:23:30.000+08:00"
+        "title": "脱贫后，看一个西部县“造血式”振兴",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730909.shtml",
+        "publishedAt": "2026-11-12T16:33:29.000+08:00"
       },
       {
-        "title": "因安全担忧 美国男足宣布退赛",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730891.shtml",
-        "publishedAt": "2026-11-12T16:23:08.000+08:00"
+        "title": "直播：“北冥鲲鹏”不是神话 在东营蹲一场鸟浪扶摇",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-12/10730908.shtml",
+        "publishedAt": "2026-11-12T16:32:45.000+08:00"
       },
       {
-        "title": "“停车费比饭钱还贵”，这事儿终于有说法了",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730887.shtml",
-        "publishedAt": "2026-11-12T16:22:58.000+08:00"
+        "title": "一组数据看前10个月我国外贸强劲增长",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730907.shtml",
+        "publishedAt": "2026-11-12T16:30:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T16:30:50.495+08:00",
+    "fetchedAt": "2026-11-12T16:41:05.168+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T16:30:50.849+08:00",
+      "fetchedAt": "2026-11-12T16:41:05.527+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T21:30:55.000+08:00"
+          "resetAt": "2026-11-12T21:41:07.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T16:30:50.852+08:00",
+      "fetchedAt": "2026-11-12T16:41:05.529+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T16:30:50.856+08:00",
+      "fetchedAt": "2026-11-12T16:41:05.533+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T16:30:50.856+08:00",
+      "fetchedAt": "2026-11-12T16:41:05.534+08:00",
       "error": "未启用",
       "disabled": true
     }
