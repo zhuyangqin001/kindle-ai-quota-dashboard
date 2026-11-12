@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-12T19:23:51.556+08:00",
+  "updatedAt": "2026-11-12T19:34:02.546+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.5,
-    "feelsLikeC": 16.5,
-    "humidity": 81,
-    "windKph": 6.8,
-    "windDir": "北风",
+    "tempC": 16.4,
+    "feelsLikeC": 16.4,
+    "humidity": 82,
+    "windKph": 6.7,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-12T19:23:51.556+08:00",
+    "observedAt": "2026-11-12T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-12T19:34:02.546+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "花钱就能进央国企？一图拆解四类诈骗套路",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-12/10731056.shtml",
-        "publishedAt": "2026-11-12T19:18:40.000+08:00"
+        "title": "内蒙古自贸试验区获批七个月，发展有何亮点？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731059.shtml",
+        "publishedAt": "2026-11-12T19:28:43.000+08:00"
       },
       {
-        "title": "金条卖脱销了？本轮购金有何不同？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731048.shtml",
-        "publishedAt": "2026-11-12T19:12:52.000+08:00"
+        "title": "山西省职业技能大赛开赛 2302名选手同台竞技",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731054.shtml",
+        "publishedAt": "2026-11-12T19:28:04.000+08:00"
       },
       {
-        "title": "探访内蒙古通辽新型蛋白生产车间：玉米副产物生物合成新型蛋白",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731040.shtml",
-        "publishedAt": "2026-11-12T19:12:38.000+08:00"
+        "title": "福建政和大溪盆地持续发掘侏罗纪化石",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731053.shtml",
+        "publishedAt": "2026-11-12T19:26:42.000+08:00"
       },
       {
-        "title": "印尼人民币清算行开业 便利双边本币结算",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730988.shtml",
-        "publishedAt": "2026-11-12T19:11:38.000+08:00"
+        "title": "国家药监局批准芮弗西拜单抗注射液（皮下注射）上市",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-12/10731058.shtml",
+        "publishedAt": "2026-11-12T19:26:06.000+08:00"
       },
       {
-        "title": "台湾各界关注孙中山诞辰160周年 吁两岸相向而行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731039.shtml",
-        "publishedAt": "2026-11-12T19:07:39.000+08:00"
+        "title": "浙江安昌古镇“酱味”登场 千年水乡风景如画",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731051.shtml",
+        "publishedAt": "2026-11-12T19:25:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T19:23:49.229+08:00",
+    "fetchedAt": "2026-11-12T19:33:59.475+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T19:23:49.574+08:00",
+      "fetchedAt": "2026-11-12T19:33:59.825+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T19:23:49.576+08:00",
+      "fetchedAt": "2026-11-12T19:33:59.827+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T19:23:49.581+08:00",
+      "fetchedAt": "2026-11-12T19:33:59.832+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T19:23:49.581+08:00",
+      "fetchedAt": "2026-11-12T19:33:59.832+08:00",
       "error": "未启用",
       "disabled": true
     }
