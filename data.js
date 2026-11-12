@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T16:10:32.414+08:00",
+  "updatedAt": "2026-11-12T16:30:55.410+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19,
-    "feelsLikeC": 18.8,
-    "humidity": 65,
-    "windKph": 5.7,
+    "tempC": 18.5,
+    "feelsLikeC": 18.6,
+    "humidity": 69,
+    "windKph": 5.1,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-12T16:10:32.414+08:00",
+    "observedAt": "2026-11-12T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-12T16:30:55.410+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重庆綦江一包装制品公司发生火灾 现场无人员伤亡",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730838.shtml",
-        "publishedAt": "2026-11-12T16:03:21.000+08:00"
+        "title": "投资结构持续向新向优——中国经济三季报亮点解析",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730896.shtml",
+        "publishedAt": "2026-11-12T16:25:17.000+08:00"
       },
       {
-        "title": "韩国外长赵显将访华 中国外交部介绍有关安排",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730841.shtml",
-        "publishedAt": "2026-11-12T16:02:53.000+08:00"
+        "title": "油价迎年内第六次下调 加满一箱油省24.5元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730869.shtml",
+        "publishedAt": "2026-11-12T16:24:20.000+08:00"
       },
       {
-        "title": "18起涉食品安全重大犯罪案件被挂牌督办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730848.shtml",
-        "publishedAt": "2026-11-12T16:01:55.000+08:00"
+        "title": "江苏盐城市亭湖区组织开展医疗机构依法执业专题培训",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730855.shtml",
+        "publishedAt": "2026-11-12T16:23:30.000+08:00"
       },
       {
-        "title": "油吃多了不好，怎样吃才健康？真相在这儿！",
-        "url": "https://www.chinanews.com.cn/life/2026/11-12/10730845.shtml",
-        "publishedAt": "2026-11-12T15:59:05.000+08:00"
+        "title": "因安全担忧 美国男足宣布退赛",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730891.shtml",
+        "publishedAt": "2026-11-12T16:23:08.000+08:00"
       },
       {
-        "title": "商务部：中美经贸关系本质是互利共赢 合作是唯一正确道路",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730839.shtml",
-        "publishedAt": "2026-11-12T15:54:49.000+08:00"
+        "title": "“停车费比饭钱还贵”，这事儿终于有说法了",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730887.shtml",
+        "publishedAt": "2026-11-12T16:22:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T16:10:28.747+08:00",
+    "fetchedAt": "2026-11-12T16:30:50.495+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T16:10:29.311+08:00",
+      "fetchedAt": "2026-11-12T16:30:50.849+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T21:10:31.000+08:00"
+          "resetAt": "2026-11-12T21:30:55.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T16:10:29.313+08:00",
+      "fetchedAt": "2026-11-12T16:30:50.852+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T16:10:29.317+08:00",
+      "fetchedAt": "2026-11-12T16:30:50.856+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T16:10:29.317+08:00",
+      "fetchedAt": "2026-11-12T16:30:50.856+08:00",
       "error": "未启用",
       "disabled": true
     }
