@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T11:51:25.115+08:00",
+  "updatedAt": "2026-11-12T12:11:42.942+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.1,
-    "feelsLikeC": 17.6,
+    "tempC": 18.4,
+    "feelsLikeC": 17.9,
     "humidity": 65,
-    "windKph": 6.3,
+    "windKph": 6.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T11:51:25.115+08:00",
+    "observedAt": "2026-11-12T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T12:11:42.942+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "探访盐城鹤行书局：方寸书香点亮一座城",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730725.shtml",
-        "publishedAt": "2026-11-12T11:45:31.000+08:00"
+        "title": "去不去养老院，老人和子女谁说了算",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730731.shtml",
+        "publishedAt": "2026-11-12T12:01:40.000+08:00"
       },
       {
-        "title": "男子醉驾后伪造“送孕妻就医”记录 缘何被从重处罚→",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730727.shtml",
-        "publishedAt": "2026-11-12T11:45:09.000+08:00"
+        "title": "第二艘国产大型邮轮完成首个试运营航次 抵达广州",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730720.shtml",
+        "publishedAt": "2026-11-12T11:57:34.000+08:00"
       },
       {
-        "title": "收紧管控边界 新修正《陕西省秦始皇陵保护条例》施行",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730726.shtml",
-        "publishedAt": "2026-11-12T11:41:39.000+08:00"
+        "title": "建设银行举办2026年对公客户经理技能竞赛",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730713.shtml",
+        "publishedAt": "2026-11-12T11:55:50.000+08:00"
       },
       {
-        "title": "MCN机构如何织起“买号—洗稿—刷量”的黑灰产业链？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730723.shtml",
-        "publishedAt": "2026-11-12T11:39:33.000+08:00"
+        "title": "2026年广东省女子篮球联赛四强出炉",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-12/10730722.shtml",
+        "publishedAt": "2026-11-12T11:54:08.000+08:00"
       },
       {
-        "title": "外媒：马克龙迎接斯洛伐克总统 仪仗队队员当场晕倒",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730718.shtml",
-        "publishedAt": "2026-11-12T11:38:29.000+08:00"
+        "title": "“彩电大王”倪润峰逝世 享年82岁",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730724.shtml",
+        "publishedAt": "2026-11-12T11:52:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T11:51:23.024+08:00",
+    "fetchedAt": "2026-11-12T12:11:39.328+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T11:51:23.367+08:00",
+      "fetchedAt": "2026-11-12T12:11:39.684+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 9,
-          "resetAt": "2026-11-12T14:42:33.000+08:00"
+          "resetAt": "2026-11-12T14:42:34.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T11:51:23.369+08:00",
+      "fetchedAt": "2026-11-12T12:11:39.686+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T11:51:23.374+08:00",
+      "fetchedAt": "2026-11-12T12:11:39.690+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T11:51:23.374+08:00",
+      "fetchedAt": "2026-11-12T12:11:39.691+08:00",
       "error": "未启用",
       "disabled": true
     }
