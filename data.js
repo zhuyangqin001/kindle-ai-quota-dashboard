@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T20:45:18.778+08:00",
+  "updatedAt": "2026-11-12T20:55:33.755+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-12T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T20:45:18.778+08:00",
+    "fetchedAt": "2026-11-12T20:55:33.755+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "速度滑冰世界杯北京站将启 冬奥冠军宁忠岩、高亭宇新周期轻松上阵",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-12/10731131.shtml",
-        "publishedAt": "2026-11-12T20:39:18.000+08:00"
+        "title": "（粤港澳大湾区）横琴口岸年度车流首破400万辆次 澳门单牌车成主力军",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10731133.shtml",
+        "publishedAt": "2026-11-12T20:48:49.000+08:00"
       },
       {
-        "title": "湖南省(国际)创新创业大赛总决赛开赛 54支海内外团队“顶峰相见”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731124.shtml",
-        "publishedAt": "2026-11-12T20:39:02.000+08:00"
+        "title": "香港立法会通过条例草案 助力加快北都建设",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10731135.shtml",
+        "publishedAt": "2026-11-12T20:46:17.000+08:00"
       },
       {
-        "title": "2027赛季“东北超”参赛队伍增至12支",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-12/10731125.shtml",
-        "publishedAt": "2026-11-12T20:38:46.000+08:00"
+        "title": "2026泉州南少林功夫精英赛开幕 逾千名海内外选手参赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-12/10731137.shtml",
+        "publishedAt": "2026-11-12T20:45:31.000+08:00"
       },
       {
-        "title": "银川阅海湾科创港两大创新载体启用 打通成果转化与超级个体创业通道",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731126.shtml",
-        "publishedAt": "2026-11-12T20:38:44.000+08:00"
+        "title": "超大城市如何更具安全韧性 杭州市政协专题协商建言",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10731121.shtml",
+        "publishedAt": "2026-11-12T20:43:23.000+08:00"
       },
       {
-        "title": "亚洲青年科学家基金已资助48位学者 首批获资助者成果斐然",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-12/10731104.shtml",
-        "publishedAt": "2026-11-12T20:38:42.000+08:00"
+        "title": "黑龙江民营企业家参加“龙商铸魂·北大荒精神行”研学活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10731122.shtml",
+        "publishedAt": "2026-11-12T20:41:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T20:45:13.073+08:00",
+    "fetchedAt": "2026-11-12T20:55:30.070+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T20:45:13.431+08:00",
+      "fetchedAt": "2026-11-12T20:55:30.424+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T20:45:13.433+08:00",
+      "fetchedAt": "2026-11-12T20:55:30.427+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T20:45:13.438+08:00",
+      "fetchedAt": "2026-11-12T20:55:30.431+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T20:45:13.438+08:00",
+      "fetchedAt": "2026-11-12T20:55:30.431+08:00",
       "error": "未启用",
       "disabled": true
     }
