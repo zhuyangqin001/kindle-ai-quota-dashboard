@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T19:34:02.546+08:00",
+  "updatedAt": "2026-11-12T19:44:14.268+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-12T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T19:34:02.546+08:00",
+    "fetchedAt": "2026-11-12T19:44:14.268+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国经济圆桌会｜黑龙江绿色有机食品认定面积突破1亿亩",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731063.shtml",
+        "publishedAt": "2026-11-12T19:38:51.000+08:00"
+      },
+      {
+        "title": "当秋招遇上AI面试 高校学生该如何避免被算法误判？",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-12/10731062.shtml",
+        "publishedAt": "2026-11-12T19:36:45.000+08:00"
+      },
+      {
+        "title": "直播：民歌大观“我就是‘民’星”特别节目",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-12/10731060.shtml",
+        "publishedAt": "2026-11-12T19:31:27.000+08:00"
+      },
       {
         "title": "内蒙古自贸试验区获批七个月，发展有何亮点？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731059.shtml",
@@ -28,24 +43,9 @@
         "title": "山西省职业技能大赛开赛 2302名选手同台竞技",
         "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731054.shtml",
         "publishedAt": "2026-11-12T19:28:04.000+08:00"
-      },
-      {
-        "title": "福建政和大溪盆地持续发掘侏罗纪化石",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731053.shtml",
-        "publishedAt": "2026-11-12T19:26:42.000+08:00"
-      },
-      {
-        "title": "国家药监局批准芮弗西拜单抗注射液（皮下注射）上市",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-12/10731058.shtml",
-        "publishedAt": "2026-11-12T19:26:06.000+08:00"
-      },
-      {
-        "title": "浙江安昌古镇“酱味”登场 千年水乡风景如画",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731051.shtml",
-        "publishedAt": "2026-11-12T19:25:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T19:33:59.475+08:00",
+    "fetchedAt": "2026-11-12T19:44:09.466+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T19:33:59.825+08:00",
+      "fetchedAt": "2026-11-12T19:44:09.830+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T19:33:59.827+08:00",
+      "fetchedAt": "2026-11-12T19:44:09.833+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T19:33:59.832+08:00",
+      "fetchedAt": "2026-11-12T19:44:09.838+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T19:33:59.832+08:00",
+      "fetchedAt": "2026-11-12T19:44:09.838+08:00",
       "error": "未启用",
       "disabled": true
     }
