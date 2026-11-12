@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T10:30:08.166+08:00",
+  "updatedAt": "2026-11-12T10:40:21.275+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-12T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T10:30:08.166+08:00",
+    "fetchedAt": "2026-11-12T10:40:21.275+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "大洋彼岸，95岁的他还在想念“酸啾啾”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730658.shtml",
-        "publishedAt": "2026-11-12T10:23:37.000+08:00"
+        "title": "AI短剧火到海外，千亿赛道凭“新”突围",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730665.shtml",
+        "publishedAt": "2026-11-12T10:34:54.000+08:00"
       },
       {
-        "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730650.shtml",
-        "publishedAt": "2026-11-12T10:17:29.000+08:00"
+        "title": "韩正出席《联合国气候变化框架公约》第三十一次缔约方大会安塔利亚领导人峰会并作国别发言",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730624.shtml",
+        "publishedAt": "2026-11-12T10:29:59.000+08:00"
       },
       {
-        "title": "巴黎和平论坛“解读中国的全球角色和影响力”专题研讨会举办",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730598.shtml",
-        "publishedAt": "2026-11-12T10:06:50.000+08:00"
+        "title": "“万万火急”昭初心 红土山乡启新程",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730662.shtml",
+        "publishedAt": "2026-11-12T10:28:41.000+08:00"
       },
       {
-        "title": "巴拿马外长回应美防长：运河由巴拿马掌控",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730613.shtml",
-        "publishedAt": "2026-11-12T10:06:06.000+08:00"
+        "title": "朝中社：金正恩现场指导重要海军基地建设",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730649.shtml",
+        "publishedAt": "2026-11-12T10:27:11.000+08:00"
       },
       {
-        "title": "荷兰禽流感疫情蔓延 近8万只家禽被扑杀",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730626.shtml",
-        "publishedAt": "2026-11-12T10:05:26.000+08:00"
+        "title": "“双11”购物车折射消费新趋势",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730660.shtml",
+        "publishedAt": "2026-11-12T10:26:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T10:30:06.394+08:00",
+    "fetchedAt": "2026-11-12T10:40:15.687+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T10:30:06.744+08:00",
+      "fetchedAt": "2026-11-12T10:40:16.044+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -73,7 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-12T10:30:06.746+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-11-12T10:40:16.046+08:00"
     },
     "mimo": {
       "ok": false,
@@ -81,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T10:30:06.750+08:00",
+      "fetchedAt": "2026-11-12T10:40:16.050+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T10:30:06.750+08:00",
+      "fetchedAt": "2026-11-12T10:40:16.050+08:00",
       "error": "未启用",
       "disabled": true
     }
