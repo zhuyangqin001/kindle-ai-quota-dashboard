@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-12T11:20:56.013+08:00",
+  "updatedAt": "2026-11-12T11:41:12.446+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.5,
-    "feelsLikeC": 17.1,
-    "humidity": 67,
-    "windKph": 5.2,
+    "tempC": 17.8,
+    "feelsLikeC": 17.4,
+    "humidity": 66,
+    "windKph": 5.7,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-12T11:20:56.014+08:00",
+    "observedAt": "2026-11-12T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-12T11:41:12.446+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“文明互鉴国际论坛二〇二六”在澳门举办 以文化为桥 跨山海对话",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10730707.shtml",
-        "publishedAt": "2026-11-12T11:15:06.000+08:00"
+        "title": "（长征胜利90周年）红军烈士后代广西兴安界首渡口祭英烈：湘江没有忘记你",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730711.shtml",
+        "publishedAt": "2026-11-12T11:34:53.000+08:00"
       },
       {
-        "title": "上海气质 国际风范——在进博会感受有序与活力",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730706.shtml",
-        "publishedAt": "2026-11-12T11:13:08.000+08:00"
+        "title": "早期像感冒、严重可致命！很多人分不清",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-12/10730716.shtml",
+        "publishedAt": "2026-11-12T11:32:31.000+08:00"
       },
       {
-        "title": "国际人士热切期待APEC“深圳时间”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730703.shtml",
-        "publishedAt": "2026-11-12T11:10:23.000+08:00"
+        "title": "青春华章·我们的新长征丨走进百年南开中学，从一面镜子开始",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730636.shtml",
+        "publishedAt": "2026-11-12T11:32:29.000+08:00"
       },
       {
-        "title": "广西龙胜：培训技艺传非遗",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10730694.shtml",
-        "publishedAt": "2026-11-12T11:09:57.000+08:00"
+        "title": "中国-墨西哥亚克斯科波伊尔联合考古项目发掘开工",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730712.shtml",
+        "publishedAt": "2026-11-12T11:24:44.000+08:00"
       },
       {
-        "title": "直播海报：“北冥鲲鹏”不是神话 在东营蹲一场鸟浪扶摇",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730699.shtml",
-        "publishedAt": "2026-11-12T11:06:59.000+08:00"
+        "title": "美国费城交响乐团2026年中国巡演海南首站启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-12/10730700.shtml",
+        "publishedAt": "2026-11-12T11:18:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T11:20:53.925+08:00",
+    "fetchedAt": "2026-11-12T11:41:10.440+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T11:20:54.275+08:00",
+      "fetchedAt": "2026-11-12T11:41:10.784+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T11:20:54.278+08:00",
+      "fetchedAt": "2026-11-12T11:41:10.786+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T11:20:54.282+08:00",
+      "fetchedAt": "2026-11-12T11:41:10.791+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T11:20:54.282+08:00",
+      "fetchedAt": "2026-11-12T11:41:10.791+08:00",
       "error": "未启用",
       "disabled": true
     }
