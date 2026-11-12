@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T16:41:09.788+08:00",
+  "updatedAt": "2026-11-12T17:01:30.164+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.5,
-    "feelsLikeC": 18.6,
-    "humidity": 69,
-    "windKph": 5.1,
+    "tempC": 18,
+    "feelsLikeC": 18.3,
+    "humidity": 72,
+    "windKph": 4.5,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T16:41:09.788+08:00",
+    "observedAt": "2026-11-12T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T17:01:30.164+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "桑德罗·马科斯的腐败风波",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730913.shtml",
-        "publishedAt": "2026-11-12T16:35:25.000+08:00"
+        "title": "从“浙”次访学起，把“再见”约在新疆阿克苏",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-12/10730901.shtml",
+        "publishedAt": "2026-11-12T16:54:56.000+08:00"
       },
       {
-        "title": "2026年全国残疾人跳绳比赛在北京举办",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210622.shtml",
-        "publishedAt": "2026-11-12T16:33:55.000+08:00"
+        "title": "更多全球南方国家企业登上进博会展台——把全球南方好物送到中国（进博连线）",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730925.shtml",
+        "publishedAt": "2026-11-12T16:54:12.000+08:00"
       },
       {
-        "title": "脱贫后，看一个西部县“造血式”振兴",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730909.shtml",
-        "publishedAt": "2026-11-12T16:33:29.000+08:00"
+        "title": "涉巧克力广告宣扬错误婚恋观等 12起违法广告典型案例公布",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-12/10730924.shtml",
+        "publishedAt": "2026-11-12T16:52:58.000+08:00"
       },
       {
-        "title": "直播：“北冥鲲鹏”不是神话 在东营蹲一场鸟浪扶摇",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-12/10730908.shtml",
-        "publishedAt": "2026-11-12T16:32:45.000+08:00"
+        "title": "从一头牛到一杯奶 宁夏兴庆做强本土鲜奶全产业链",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730902.shtml",
+        "publishedAt": "2026-11-12T16:52:56.000+08:00"
       },
       {
-        "title": "一组数据看前10个月我国外贸强劲增长",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730907.shtml",
-        "publishedAt": "2026-11-12T16:30:55.000+08:00"
+        "title": "在进博会上感受AI产业新脉动",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730923.shtml",
+        "publishedAt": "2026-11-12T16:52:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T16:41:05.168+08:00",
+    "fetchedAt": "2026-11-12T17:01:26.015+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T16:41:05.527+08:00",
+      "fetchedAt": "2026-11-12T17:01:26.381+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T21:41:07.000+08:00"
+          "resetAt": "2026-11-12T22:01:29.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T16:41:05.529+08:00",
+      "fetchedAt": "2026-11-12T17:01:26.384+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T16:41:05.533+08:00",
+      "fetchedAt": "2026-11-12T17:01:26.389+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T16:41:05.534+08:00",
+      "fetchedAt": "2026-11-12T17:01:26.389+08:00",
       "error": "未启用",
       "disabled": true
     }
