@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T23:18:35.480+08:00",
+  "updatedAt": "2026-11-12T23:28:51.031+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-12T23:15:00.000+08:00",
-    "fetchedAt": "2026-11-12T23:18:35.480+08:00",
+    "fetchedAt": "2026-11-12T23:28:51.032+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中新社“新闻会客厅”在土耳其迎来首批国际客人",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731184.shtml",
+        "publishedAt": "2026-11-12T23:18:37.000+08:00"
+      },
       {
         "title": "英伟达股价开盘暴跌13% 或创2025年以来最大单日跌幅",
         "url": "https://www.chinanews.com.cn/gj/2026/11-12/10731230.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "北京将推进第四使馆区重点项目建设",
         "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731226.shtml",
         "publishedAt": "2026-11-12T22:27:18.000+08:00"
-      },
-      {
-        "title": "澳门特区政府举办纪念孙中山先生诞辰160周年图片展",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-12/10731224.shtml",
-        "publishedAt": "2026-11-12T22:26:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T23:18:32.210+08:00",
+    "fetchedAt": "2026-11-12T23:28:48.123+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T23:18:32.571+08:00",
+      "fetchedAt": "2026-11-12T23:28:48.537+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T04:18:35.000+08:00"
+          "resetAt": "2026-11-13T04:28:50.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 17,
-          "resetAt": "2026-11-14T21:33:02.000+08:00"
+          "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T23:18:32.573+08:00",
+      "fetchedAt": "2026-11-12T23:28:48.539+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T23:18:32.579+08:00",
+      "fetchedAt": "2026-11-12T23:28:48.543+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T23:18:32.579+08:00",
+      "fetchedAt": "2026-11-12T23:28:48.543+08:00",
       "error": "未启用",
       "disabled": true
     }
