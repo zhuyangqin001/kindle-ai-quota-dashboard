@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T02:31:54.601+08:00",
+  "updatedAt": "2026-11-13T02:42:03.715+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-13T02:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T02:31:54.601+08:00",
+    "fetchedAt": "2026-11-13T02:42:03.715+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-12T22:51:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T02:31:52.314+08:00",
+    "fetchedAt": "2026-11-13T02:42:01.619+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-13T02:31:52.866+08:00",
+      "fetchedAt": "2026-11-13T02:42:01.976+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T07:31:54.000+08:00"
+          "resetAt": "2026-11-13T07:42:03.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T02:31:52.868+08:00",
+      "fetchedAt": "2026-11-13T02:42:01.978+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-13T02:31:52.872+08:00",
+      "fetchedAt": "2026-11-13T02:42:01.982+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-13T02:31:52.873+08:00",
+      "fetchedAt": "2026-11-13T02:42:01.982+08:00",
       "error": "未启用",
       "disabled": true
     }
