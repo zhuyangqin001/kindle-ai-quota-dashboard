@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T19:44:14.268+08:00",
+  "updatedAt": "2026-11-12T20:04:29.877+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.4,
-    "feelsLikeC": 16.4,
-    "humidity": 82,
-    "windKph": 6.7,
+    "tempC": 16.1,
+    "feelsLikeC": 16.3,
+    "humidity": 85,
+    "windKph": 5.9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T19:44:14.268+08:00",
+    "observedAt": "2026-11-12T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T20:04:29.877+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "李强主持国务院第二十二次专题学习",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10731067.shtml",
+        "publishedAt": "2026-11-12T19:53:10.000+08:00"
+      },
+      {
+        "title": "中国经济圆桌会｜专家：抢抓数字乡村建设机遇推动发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731066.shtml",
+        "publishedAt": "2026-11-12T19:42:13.000+08:00"
+      },
+      {
+        "title": "中国经济圆桌会丨湖北东郊村：更多新农人把农田变成创业热土",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731065.shtml",
+        "publishedAt": "2026-11-12T19:41:13.000+08:00"
+      },
+      {
+        "title": "中国经济圆桌会｜中国一拖：推动国产农机“颜值”和“功力”双双提升",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731064.shtml",
+        "publishedAt": "2026-11-12T19:40:15.000+08:00"
+      },
+      {
         "title": "中国经济圆桌会｜黑龙江绿色有机食品认定面积突破1亿亩",
         "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731063.shtml",
         "publishedAt": "2026-11-12T19:38:51.000+08:00"
-      },
-      {
-        "title": "当秋招遇上AI面试 高校学生该如何避免被算法误判？",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-12/10731062.shtml",
-        "publishedAt": "2026-11-12T19:36:45.000+08:00"
-      },
-      {
-        "title": "直播：民歌大观“我就是‘民’星”特别节目",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-12/10731060.shtml",
-        "publishedAt": "2026-11-12T19:31:27.000+08:00"
-      },
-      {
-        "title": "内蒙古自贸试验区获批七个月，发展有何亮点？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731059.shtml",
-        "publishedAt": "2026-11-12T19:28:43.000+08:00"
-      },
-      {
-        "title": "山西省职业技能大赛开赛 2302名选手同台竞技",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-12/10731054.shtml",
-        "publishedAt": "2026-11-12T19:28:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T19:44:09.466+08:00",
+    "fetchedAt": "2026-11-12T20:04:27.619+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T19:44:09.830+08:00",
+      "fetchedAt": "2026-11-12T20:04:27.966+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T19:44:09.833+08:00",
+      "fetchedAt": "2026-11-12T20:04:27.968+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T19:44:09.838+08:00",
+      "fetchedAt": "2026-11-12T20:04:27.972+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T19:44:09.838+08:00",
+      "fetchedAt": "2026-11-12T20:04:27.972+08:00",
       "error": "未启用",
       "disabled": true
     }
