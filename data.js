@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-12T09:39:26.762+08:00",
+  "updatedAt": "2026-11-12T10:09:48.551+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.2,
-    "feelsLikeC": 16,
-    "humidity": 68,
-    "windKph": 1.3,
-    "windDir": "东北风",
+    "tempC": 16.8,
+    "feelsLikeC": 16.6,
+    "humidity": 67,
+    "windKph": 2,
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-12T09:39:26.762+08:00",
+    "observedAt": "2026-11-12T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T10:09:48.551+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年中央八项规定精神贯彻执行情况网络调查问卷",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-12/10730619.shtml",
-        "publishedAt": "2026-11-12T09:33:34.000+08:00"
+        "title": "全国冬小麦播种过八成 秋冬种进展顺利",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730641.shtml",
+        "publishedAt": "2026-11-12T10:03:20.000+08:00"
       },
       {
-        "title": "第22届中美电影节和电视节在洛杉矶举行“金天使奖”颁奖典礼",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210611.shtml",
-        "publishedAt": "2026-11-12T09:33:27.000+08:00"
+        "title": "从“双11”购物车看消费新意",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730640.shtml",
+        "publishedAt": "2026-11-12T10:03:18.000+08:00"
       },
       {
-        "title": "11月12日人民币对美元中间价报6.7174 上调17个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730616.shtml",
-        "publishedAt": "2026-11-12T09:28:58.000+08:00"
+        "title": "湖南检察机关依法对韩嵩涉嫌受贿案提起公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730638.shtml",
+        "publishedAt": "2026-11-12T10:01:28.000+08:00"
       },
       {
-        "title": "【四时映画】河南郑州：天鹅戏水晨雾间",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-12/1210606.shtml",
-        "publishedAt": "2026-11-12T09:23:58.000+08:00"
+        "title": "内蒙古乌海一地“出现刺鼻气味” 当地通报：系应急演练催泪弹产生",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-12/10730628.shtml",
+        "publishedAt": "2026-11-12T09:59:12.000+08:00"
       },
       {
-        "title": "湖南省邵阳市政协副主席孙清良接受监察调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730612.shtml",
-        "publishedAt": "2026-11-12T09:22:54.000+08:00"
+        "title": "“不只盯着干，大家还一起商量着办”（贯彻五中全会精神一线见闻）",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730634.shtml",
+        "publishedAt": "2026-11-12T09:57:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T09:39:23.721+08:00",
+    "fetchedAt": "2026-11-12T10:09:46.670+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T09:39:24.321+08:00",
+      "fetchedAt": "2026-11-12T10:09:47.052+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-12T14:39:26.000+08:00"
+          "usedPct": 9,
+          "resetAt": "2026-11-12T14:42:33.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 13,
+          "usedPct": 14,
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T09:39:24.323+08:00",
+      "fetchedAt": "2026-11-12T10:09:47.054+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T09:39:24.334+08:00",
+      "fetchedAt": "2026-11-12T10:09:47.059+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T09:39:24.335+08:00",
+      "fetchedAt": "2026-11-12T10:09:47.059+08:00",
       "error": "未启用",
       "disabled": true
     }
