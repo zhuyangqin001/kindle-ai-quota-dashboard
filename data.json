@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-12T07:58:01.943+08:00",
+  "updatedAt": "2026-11-12T08:08:12.454+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.4,
-    "feelsLikeC": 13.3,
-    "humidity": 82,
+    "tempC": 13.8,
+    "feelsLikeC": 13.7,
+    "humidity": 80,
     "windKph": 0.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-12T07:45:00.000+08:00",
-    "fetchedAt": "2026-11-12T07:58:01.943+08:00",
+    "observedAt": "2026-11-12T08:00:00.000+08:00",
+    "fetchedAt": "2026-11-12T08:08:12.454+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-12T07:36:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-12T07:58:00.438+08:00",
+    "fetchedAt": "2026-11-12T08:08:10.577+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-12T07:58:00.804+08:00",
+      "fetchedAt": "2026-11-12T08:08:10.934+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-12T12:58:01.000+08:00"
+          "resetAt": "2026-11-12T13:08:12.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-12T07:58:00.806+08:00",
+      "fetchedAt": "2026-11-12T08:08:10.936+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T07:58:00.811+08:00",
+      "fetchedAt": "2026-11-12T08:08:10.941+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-12T07:58:00.811+08:00",
+      "fetchedAt": "2026-11-12T08:08:10.941+08:00",
       "error": "未启用",
       "disabled": true
     }
