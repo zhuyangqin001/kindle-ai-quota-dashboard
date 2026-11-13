@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T23:19:27.705+08:00",
+  "updatedAt": "2026-11-13T23:39:44.600+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 16.9,
-    "feelsLikeC": 18.3,
+    "feelsLikeC": 18.1,
     "humidity": 97,
-    "windKph": 4.8,
+    "windKph": 6.1,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-13T23:15:00.000+08:00",
-    "fetchedAt": "2026-11-13T23:19:27.705+08:00",
+    "observedAt": "2026-11-13T23:30:00.000+08:00",
+    "fetchedAt": "2026-11-13T23:39:44.600+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "香港中通社举办系列活动庆祝成立70周年",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731869.shtml",
+        "publishedAt": "2026-11-13T23:28:18.000+08:00"
+      },
+      {
+        "title": "湄南河灯光节展现泰国历史文化魅力",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731867.shtml",
+        "publishedAt": "2026-11-13T23:19:28.000+08:00"
+      },
+      {
+        "title": "“投资中国”比荷卢企业圆桌会在布鲁塞尔举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731866.shtml",
+        "publishedAt": "2026-11-13T23:18:52.000+08:00"
+      },
       {
         "title": "速度滑冰世界杯北京站开赛 宁忠岩男子1000米破场地纪录夺冠",
         "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731865.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "厉娜带火的鸭舌，十根有四根来自温州！",
         "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731864.shtml",
         "publishedAt": "2026-11-13T23:13:31.000+08:00"
-      },
-      {
-        "title": "王毅同韩国外长赵显会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731860.shtml",
-        "publishedAt": "2026-11-13T22:55:46.000+08:00"
-      },
-      {
-        "title": "韩国财政经济部：韩国经济总体保持“稳健增长”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731855.shtml",
-        "publishedAt": "2026-11-13T22:50:08.000+08:00"
-      },
-      {
-        "title": "香港将2026年经济增长预测上调至4.8%",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731854.shtml",
-        "publishedAt": "2026-11-13T22:49:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T23:19:25.676+08:00",
+    "fetchedAt": "2026-11-13T23:39:42.041+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-13T23:19:26.018+08:00",
+      "fetchedAt": "2026-11-13T23:39:42.612+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 36,
+          "usedPct": 53,
           "resetAt": "2026-11-14T03:44:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 29,
+          "usedPct": 32,
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T23:19:26.020+08:00",
+      "fetchedAt": "2026-11-13T23:39:42.615+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-13T23:19:26.025+08:00",
+      "fetchedAt": "2026-11-13T23:39:42.622+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-13T23:19:26.025+08:00",
+      "fetchedAt": "2026-11-13T23:39:42.622+08:00",
       "error": "未启用",
       "disabled": true
     }
