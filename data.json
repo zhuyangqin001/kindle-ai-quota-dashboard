@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-13T21:07:14.809+08:00",
+  "updatedAt": "2026-11-13T21:27:38.249+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 17.1,
-    "feelsLikeC": 18.9,
+    "feelsLikeC": 18.6,
     "humidity": 96,
-    "windKph": 3.1,
+    "windKph": 4.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-13T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-13T21:07:14.809+08:00",
+    "observedAt": "2026-11-13T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-13T21:27:38.249+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "浙大研究团队首次揭示溶酶体钙摄取机制 筑基罕见病研究",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-13/10731723.shtml",
-        "publishedAt": "2026-11-13T21:04:26.000+08:00"
+        "title": "先贤往事“声”入人心 民盟盟员在可感可知中重温盟史",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-13/10731736.shtml",
+        "publishedAt": "2026-11-13T21:23:05.000+08:00"
       },
       {
-        "title": "2026年海峡两岸农博会·花博会在杭州举办",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731722.shtml",
-        "publishedAt": "2026-11-13T21:02:56.000+08:00"
+        "title": "浙江：2026义乌新能源与储能出口博览会启幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731735.shtml",
+        "publishedAt": "2026-11-13T21:22:35.000+08:00"
       },
       {
-        "title": "到2030年中国新型储能装机规模计划达3亿千瓦",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731719.shtml",
-        "publishedAt": "2026-11-13T21:01:50.000+08:00"
+        "title": "致敬中国生态文明 4K超高清纪录片《红树林》发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731733.shtml",
+        "publishedAt": "2026-11-13T21:22:03.000+08:00"
       },
       {
-        "title": "第十三届上海国际童书展开幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-13/10731720.shtml",
-        "publishedAt": "2026-11-13T21:00:46.000+08:00"
+        "title": "台湾媒体人走进广州大元帅府 追寻孙中山革命初心",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731783.shtml",
+        "publishedAt": "2026-11-13T21:21:37.000+08:00"
       },
       {
-        "title": "“双十一”包裹奔赴东盟 “中国购”解锁跨境极速达",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-13/10731721.shtml",
-        "publishedAt": "2026-11-13T20:59:50.000+08:00"
+        "title": "文艺复兴艺术与明清书画特展在海口展出",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731778.shtml",
+        "publishedAt": "2026-11-13T21:21:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T21:07:11.826+08:00",
+    "fetchedAt": "2026-11-13T21:27:33.443+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-13T21:07:12.550+08:00",
+      "fetchedAt": "2026-11-13T21:27:34.113+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T21:07:12.552+08:00",
+      "fetchedAt": "2026-11-13T21:27:34.116+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-13T21:07:12.557+08:00",
+      "fetchedAt": "2026-11-13T21:27:34.123+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-13T21:07:12.557+08:00",
+      "fetchedAt": "2026-11-13T21:27:34.123+08:00",
       "error": "未启用",
       "disabled": true
     }
