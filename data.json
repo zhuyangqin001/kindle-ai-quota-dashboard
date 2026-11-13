@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T16:33:19.467+08:00",
+  "updatedAt": "2026-11-13T16:43:31.148+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-13T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T16:33:19.468+08:00",
+    "fetchedAt": "2026-11-13T16:43:31.148+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“万里茶道”中蒙美术家精品联合巡展走进福州",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731532.shtml",
-        "publishedAt": "2026-11-13T16:26:25.000+08:00"
+        "title": "湖北神农架：村民“设宴” 鸟雀“吃席”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731542.shtml",
+        "publishedAt": "2026-11-13T16:35:32.000+08:00"
       },
       {
-        "title": "天开“多点”走好新时代科创长征路",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731544.shtml",
-        "publishedAt": "2026-11-13T16:25:55.000+08:00"
+        "title": "国际人士：中国绿色转型为世界提供经验",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731552.shtml",
+        "publishedAt": "2026-11-13T16:35:16.000+08:00"
       },
       {
-        "title": "新华漫说丨党在新形势下的“四大挑战”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731536.shtml",
-        "publishedAt": "2026-11-13T16:23:39.000+08:00"
+        "title": "新武侠舞剧《神雕侠侣》南京首演：舞武相融重构金庸江湖",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-13/10731541.shtml",
+        "publishedAt": "2026-11-13T16:35:04.000+08:00"
       },
       {
-        "title": "国家卫健委：我国严禁任何形式代孕 组织代孕属于违法犯罪行为",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731530.shtml",
-        "publishedAt": "2026-11-13T16:23:35.000+08:00"
+        "title": "秋假拉动出游热 长沙景区人气攀升",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731538.shtml",
+        "publishedAt": "2026-11-13T16:33:42.000+08:00"
       },
       {
-        "title": "厦门搭建大中小企业融通平台 链通供需激活产业新动能",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731531.shtml",
-        "publishedAt": "2026-11-13T16:19:11.000+08:00"
+        "title": "中国团队揭示大脑三维空间实时导航系统 助力新一代脑机接口研发",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731540.shtml",
+        "publishedAt": "2026-11-13T16:33:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T16:33:16.538+08:00",
+    "fetchedAt": "2026-11-13T16:43:28.109+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-13T16:33:16.897+08:00",
+      "fetchedAt": "2026-11-13T16:43:28.745+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T21:33:18.000+08:00"
+          "resetAt": "2026-11-13T21:43:30.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T16:33:16.899+08:00",
+      "fetchedAt": "2026-11-13T16:43:28.747+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-13T16:33:16.903+08:00",
+      "fetchedAt": "2026-11-13T16:43:28.752+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-13T16:33:16.904+08:00",
+      "fetchedAt": "2026-11-13T16:43:28.752+08:00",
       "error": "未启用",
       "disabled": true
     }
