@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T13:40:36.185+08:00",
+  "updatedAt": "2026-11-13T15:42:17.249+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.5,
-    "feelsLikeC": 20.2,
-    "humidity": 73,
-    "windKph": 5,
+    "tempC": 18.6,
+    "feelsLikeC": 19.8,
+    "humidity": 81,
+    "windKph": 3.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-13T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T13:40:36.185+08:00",
+    "observedAt": "2026-11-13T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-13T15:42:17.249+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "海口海关龙昆北院区房产及临街铺面公开招租公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-13/10731448.shtml",
-        "publishedAt": "2026-11-13T13:38:34.000+08:00"
+        "title": "今年以来北京新增道路非机动车停车位22.2万个",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731496.shtml",
+        "publishedAt": "2026-11-13T15:35:12.000+08:00"
       },
       {
-        "title": "海口海关华为延伸云平台硬件设备维保服务项目比选成交公告",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-13/10731445.shtml",
-        "publishedAt": "2026-11-13T13:35:24.000+08:00"
+        "title": "国家卫健委：重点人群应优先接种流感疫苗",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-13/10731514.shtml",
+        "publishedAt": "2026-11-13T15:35:08.000+08:00"
       },
       {
-        "title": "中国教育部：2027年全国硕士研究生报考人数为347万",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731427.shtml",
-        "publishedAt": "2026-11-13T13:29:58.000+08:00"
+        "title": "中方回应中俄美元首会晤：同相关方保持着沟通",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731513.shtml",
+        "publishedAt": "2026-11-13T15:35:06.000+08:00"
       },
       {
-        "title": "AI时代，软件产业靠什么赢得竞争",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731424.shtml",
-        "publishedAt": "2026-11-13T13:20:57.000+08:00"
+        "title": "中国外交部谈本届进博会：各国企业再次对中国市场投下“信任票”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731512.shtml",
+        "publishedAt": "2026-11-13T15:35:02.000+08:00"
       },
       {
-        "title": "跟车700多公里，看新能源重卡何以越跑越远",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731421.shtml",
-        "publishedAt": "2026-11-13T13:16:47.000+08:00"
+        "title": "（乡村行·看振兴）川东广子村：从“静静等待”到“田野新生”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731495.shtml",
+        "publishedAt": "2026-11-13T15:34:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T13:40:30.470+08:00",
+    "fetchedAt": "2026-11-13T15:42:12.700+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-13T13:40:30.831+08:00",
+      "fetchedAt": "2026-11-13T15:42:12.986+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-13T08:53:06.000+08:00"
+          "resetAt": "2026-11-13T20:42:15.000+08:00"
         },
         {
           "name": "周",
@@ -72,10 +72,8 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T03:53:04.700+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
-      "stale": true,
-      "lastAttemptAt": "2026-11-13T13:40:30.833+08:00"
+      "fetchedAt": "2026-11-13T15:42:12.988+08:00",
+      "error": null
     },
     "mimo": {
       "ok": false,
@@ -83,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-13T13:40:30.838+08:00",
+      "fetchedAt": "2026-11-13T15:42:12.992+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-13T13:40:30.838+08:00",
+      "fetchedAt": "2026-11-13T15:42:12.992+08:00",
       "error": "未启用",
       "disabled": true
     }
