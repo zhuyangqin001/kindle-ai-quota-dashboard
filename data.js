@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-13T21:47:59.215+08:00",
+  "updatedAt": "2026-11-13T22:08:17.931+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 17,
-    "feelsLikeC": 17.9,
+    "tempC": 16.9,
+    "feelsLikeC": 17.7,
     "humidity": 97,
-    "windKph": 8.9,
+    "windKph": 9.9,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-13T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-13T21:47:59.215+08:00",
+    "observedAt": "2026-11-13T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-13T22:08:17.931+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "浙江：到2030年全域旅游综合收入达1.5万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731822.shtml",
-        "publishedAt": "2026-11-13T21:42:30.000+08:00"
+        "title": "浙江杭州：第二十三届中国国际农产品交易会举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731835.shtml",
+        "publishedAt": "2026-11-13T22:00:41.000+08:00"
       },
       {
-        "title": "科技赋能储粮 七台河市勃利县31万吨智慧粮库即将投用",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731794.shtml",
-        "publishedAt": "2026-11-13T21:42:28.000+08:00"
+        "title": "海外华文媒体代表走进山东重工集团 感受高端装备制造实力",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-13/10731815.shtml",
+        "publishedAt": "2026-11-13T22:00:25.000+08:00"
       },
       {
-        "title": "世界最长跨海高铁桥海上架梁提速",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731821.shtml",
-        "publishedAt": "2026-11-13T21:42:26.000+08:00"
+        "title": "韩正出席2026世界中文大会开幕式并致辞",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731828.shtml",
+        "publishedAt": "2026-11-13T21:59:03.000+08:00"
       },
       {
-        "title": "湖南冷水滩晚稻抢收忙 社会化烘干告别 “靠天晒谷”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731762.shtml",
-        "publishedAt": "2026-11-13T21:42:26.000+08:00"
+        "title": "多份艺术市场报告在沪发布 上海拓展文物艺术品跨境交易",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-13/10731829.shtml",
+        "publishedAt": "2026-11-13T21:56:15.000+08:00"
       },
       {
-        "title": "《颠覆性技术产业化指数报告（2026）》在天津发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731808.shtml",
-        "publishedAt": "2026-11-13T21:42:24.000+08:00"
+        "title": "2026黄河—湄公河交流周在山东德州开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731836.shtml",
+        "publishedAt": "2026-11-13T21:55:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T21:47:55.201+08:00",
+    "fetchedAt": "2026-11-13T22:08:15.719+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-13T21:47:55.878+08:00",
+      "fetchedAt": "2026-11-13T22:08:16.325+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
+          "usedPct": 28,
           "resetAt": "2026-11-13T22:21:13.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 20,
+          "usedPct": 22,
           "resetAt": "2026-11-14T21:33:02.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T21:47:55.881+08:00",
+      "fetchedAt": "2026-11-13T22:08:16.329+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-13T21:47:55.888+08:00",
+      "fetchedAt": "2026-11-13T22:08:16.337+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-13T21:47:55.888+08:00",
+      "fetchedAt": "2026-11-13T22:08:16.337+08:00",
       "error": "未启用",
       "disabled": true
     }
