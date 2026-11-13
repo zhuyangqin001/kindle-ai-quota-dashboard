@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T07:48:19.060+08:00",
+  "updatedAt": "2026-11-14T07:58:28.187+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-14T07:45:00.000+08:00",
-    "fetchedAt": "2026-11-14T07:48:19.060+08:00",
+    "fetchedAt": "2026-11-14T07:58:28.187+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-14T00:34:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T07:48:17.076+08:00",
+    "fetchedAt": "2026-11-14T07:58:26.063+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-14T07:48:17.784+08:00",
+      "fetchedAt": "2026-11-14T07:58:26.846+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T12:48:18.000+08:00"
+          "resetAt": "2026-11-14T12:58:28.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T07:48:17.787+08:00",
+      "fetchedAt": "2026-11-14T07:58:26.850+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T07:48:17.793+08:00",
+      "fetchedAt": "2026-11-14T07:58:26.859+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T07:48:17.794+08:00",
+      "fetchedAt": "2026-11-14T07:58:26.859+08:00",
       "error": "未启用",
       "disabled": true
     }
