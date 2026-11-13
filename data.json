@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-13T22:38:55.983+08:00",
+  "updatedAt": "2026-11-13T23:19:27.705+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 16.9,
-    "feelsLikeC": 18,
+    "feelsLikeC": 18.3,
     "humidity": 97,
-    "windKph": 6.9,
+    "windKph": 4.8,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-13T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-13T22:38:55.983+08:00",
+    "observedAt": "2026-11-13T23:15:00.000+08:00",
+    "fetchedAt": "2026-11-13T23:19:27.705+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "在槟城百年机器行追寻南侨机工来时路",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-13/10731845.shtml",
-        "publishedAt": "2026-11-13T22:30:25.000+08:00"
+        "title": "速度滑冰世界杯北京站开赛 宁忠岩男子1000米破场地纪录夺冠",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731865.shtml",
+        "publishedAt": "2026-11-13T23:17:47.000+08:00"
       },
       {
-        "title": "江豚逐水入画来 千年古镇“守”与“新”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731847.shtml",
-        "publishedAt": "2026-11-13T22:28:43.000+08:00"
+        "title": "厉娜带火的鸭舌，十根有四根来自温州！",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-13/10731864.shtml",
+        "publishedAt": "2026-11-13T23:13:31.000+08:00"
       },
       {
-        "title": "全球首座半潜式风电制氢平台拖航启程",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731848.shtml",
-        "publishedAt": "2026-11-13T22:27:53.000+08:00"
+        "title": "王毅同韩国外长赵显会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731860.shtml",
+        "publishedAt": "2026-11-13T22:55:46.000+08:00"
       },
       {
-        "title": "（机遇香港）香港ETP日均成交额创新高 全球资本在港找到“锚点”",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731849.shtml",
-        "publishedAt": "2026-11-13T22:27:13.000+08:00"
+        "title": "韩国财政经济部：韩国经济总体保持“稳健增长”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731855.shtml",
+        "publishedAt": "2026-11-13T22:50:08.000+08:00"
       },
       {
-        "title": "【外链】通栏图：亚太经合组织第三十三次领导人非正式会议",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-13/10731851.shtml",
-        "publishedAt": "2026-11-13T22:22:30.000+08:00"
+        "title": "香港将2026年经济增长预测上调至4.8%",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-13/10731854.shtml",
+        "publishedAt": "2026-11-13T22:49:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-13T22:38:53.320+08:00",
+    "fetchedAt": "2026-11-13T23:19:25.676+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-13T22:38:54.082+08:00",
+      "fetchedAt": "2026-11-13T23:19:26.018+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-14T03:38:55.000+08:00"
+          "usedPct": 36,
+          "resetAt": "2026-11-14T03:44:23.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 24,
+          "usedPct": 29,
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-13T22:38:54.085+08:00",
+      "fetchedAt": "2026-11-13T23:19:26.020+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-13T22:38:54.095+08:00",
+      "fetchedAt": "2026-11-13T23:19:26.025+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-13T22:38:54.095+08:00",
+      "fetchedAt": "2026-11-13T23:19:26.025+08:00",
       "error": "未启用",
       "disabled": true
     }
