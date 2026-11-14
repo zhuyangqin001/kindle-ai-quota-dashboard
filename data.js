@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T05:30:34.155+08:00",
+  "updatedAt": "2026-11-15T05:50:54.182+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 15.4,
-    "feelsLikeC": 16.4,
+    "feelsLikeC": 16.3,
     "humidity": 97,
-    "windKph": 3.9,
+    "windKph": 4.3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T05:30:00.000+08:00",
-    "fetchedAt": "2026-11-15T05:30:34.155+08:00",
+    "observedAt": "2026-11-15T05:45:00.000+08:00",
+    "fetchedAt": "2026-11-15T05:50:54.183+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-14T22:35:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T05:30:32.379+08:00",
+    "fetchedAt": "2026-11-15T05:50:48.476+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T05:30:32.842+08:00",
+      "fetchedAt": "2026-11-15T05:50:48.904+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -73,7 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-15T05:30:32.845+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-11-15T05:50:48.907+08:00"
     },
     "mimo": {
       "ok": false,
@@ -81,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T05:30:32.850+08:00",
+      "fetchedAt": "2026-11-15T05:50:48.913+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T05:30:32.850+08:00",
+      "fetchedAt": "2026-11-15T05:50:48.914+08:00",
       "error": "未启用",
       "disabled": true
     }
