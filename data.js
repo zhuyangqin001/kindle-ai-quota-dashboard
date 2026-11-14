@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T06:51:59.729+08:00",
+  "updatedAt": "2026-11-15T07:02:12.398+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 15.2,
     "feelsLikeC": 15.9,
-    "humidity": 97,
+    "humidity": 96,
     "windKph": 5.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-15T06:51:59.729+08:00",
+    "observedAt": "2026-11-15T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-15T07:02:12.399+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-14T22:55:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T06:51:57.333+08:00",
+    "fetchedAt": "2026-11-15T07:02:06.584+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T06:51:57.794+08:00",
+      "fetchedAt": "2026-11-15T07:02:07.042+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -73,7 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-15T06:51:57.797+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-11-15T07:02:07.045+08:00"
     },
     "mimo": {
       "ok": false,
@@ -81,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T06:51:57.802+08:00",
+      "fetchedAt": "2026-11-15T07:02:07.050+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T06:51:57.802+08:00",
+      "fetchedAt": "2026-11-15T07:02:07.050+08:00",
       "error": "未启用",
       "disabled": true
     }
