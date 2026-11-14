@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T09:29:47.422+08:00",
+  "updatedAt": "2026-11-14T16:06:22.061+08:00",
   "weather": {
     "ok": true,
-    "description": "雨",
-    "iconKey": "rain",
-    "tempC": 17.5,
-    "feelsLikeC": 19.4,
-    "humidity": 95,
-    "windKph": 2.8,
-    "windDir": "北风",
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 19.6,
+    "feelsLikeC": 21.4,
+    "humidity": 88,
+    "windKph": 5.9,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-14T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-14T09:29:47.423+08:00",
+    "observedAt": "2026-11-14T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-14T16:06:22.061+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "别把生活中的每一种不适都病理化",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731899.shtml",
-        "publishedAt": "2026-11-14T09:21:51.000+08:00"
+        "title": "山西太原：古戏台上演沉浸式新派戏剧",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732033.shtml",
+        "publishedAt": "2026-11-14T16:02:44.000+08:00"
       },
       {
-        "title": "李强同泰国总理阿努廷会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731877.shtml",
-        "publishedAt": "2026-11-14T09:21:13.000+08:00"
+        "title": "首位外籍航天员将进入中国空间站！来自巴基斯坦，先学会了说中文",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732034.shtml",
+        "publishedAt": "2026-11-14T16:01:36.000+08:00"
       },
       {
-        "title": "民众走进铜陵浮山 揽地质奇观识千年文脉",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10731887.shtml",
-        "publishedAt": "2026-11-14T09:20:57.000+08:00"
+        "title": "没了闰秒，会不会影响我们的日常生活",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732030.shtml",
+        "publishedAt": "2026-11-14T15:55:32.000+08:00"
       },
       {
-        "title": "特朗普：美空管系统故障疑由老旧破损的基础设施所致",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731897.shtml",
-        "publishedAt": "2026-11-14T09:18:42.000+08:00"
+        "title": "哈尔滨松花江畔现雾凇美景",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732027.shtml",
+        "publishedAt": "2026-11-14T15:54:52.000+08:00"
       },
       {
-        "title": "泰国湄南河灯光节开启",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-14/1210753.shtml",
-        "publishedAt": "2026-11-14T09:12:29.000+08:00"
+        "title": "辽宁省沈阳市发布大雾橙色预警信号",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732022.shtml",
+        "publishedAt": "2026-11-14T15:53:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T09:29:44.856+08:00",
+    "fetchedAt": "2026-11-14T16:06:19.120+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-14T09:29:45.633+08:00",
+      "fetchedAt": "2026-11-14T16:06:19.636+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-14T14:29:47.000+08:00"
+          "usedPct": 15,
+          "resetAt": "2026-11-14T20:50:57.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 39,
-          "resetAt": "2026-11-14T21:33:03.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T09:29:45.637+08:00",
+      "fetchedAt": "2026-11-14T16:06:19.638+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T09:29:45.646+08:00",
+      "fetchedAt": "2026-11-14T16:06:19.646+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T09:29:45.646+08:00",
+      "fetchedAt": "2026-11-14T16:06:19.646+08:00",
       "error": "未启用",
       "disabled": true
     }
