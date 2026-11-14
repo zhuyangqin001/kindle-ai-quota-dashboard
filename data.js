@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T20:41:04.279+08:00",
+  "updatedAt": "2026-11-14T21:01:25.971+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.4,
-    "feelsLikeC": 18.9,
+    "tempC": 17.1,
+    "feelsLikeC": 18.8,
     "humidity": 94,
-    "windKph": 4,
+    "windKph": 3.2,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-14T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T20:41:04.280+08:00",
+    "observedAt": "2026-11-14T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-14T21:01:25.971+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "十八年十万张照片 宁夏摄影师为银川红花渠留下影像档案",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732151.shtml",
-        "publishedAt": "2026-11-14T20:37:27.000+08:00"
+        "title": "新疆低空空域智能管控及安全保障技术重点实验室揭牌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732175.shtml",
+        "publishedAt": "2026-11-14T20:55:24.000+08:00"
       },
       {
-        "title": "从育雏到越冬 多地科研人员江西南昌共议东方白鹳保护",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732149.shtml",
-        "publishedAt": "2026-11-14T20:35:13.000+08:00"
+        "title": "青年医者捐献“生命种子”：以热血为舟，传递爱与希望",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732173.shtml",
+        "publishedAt": "2026-11-14T20:55:10.000+08:00"
       },
       {
-        "title": "2026企业科技创新发展论坛在天津举行 未来产业竞争转向转化效率",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732167.shtml",
-        "publishedAt": "2026-11-14T20:34:41.000+08:00"
+        "title": "从实验室到手术室——中国眼谷技术创新背后的生态涵养",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732172.shtml",
+        "publishedAt": "2026-11-14T20:53:26.000+08:00"
       },
       {
-        "title": "一塘碧水润泽千年 海外华文媒体走读“天下第一塘”",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-14/10732166.shtml",
-        "publishedAt": "2026-11-14T20:33:03.000+08:00"
+        "title": "海外华文媒体走进安徽楚文化博物馆 邂逅“最后楚都”千年文脉",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732169.shtml",
+        "publishedAt": "2026-11-14T20:43:49.000+08:00"
       },
       {
-        "title": "第五届“陈伯吹新儿童文学创作大赛”获奖名单揭晓",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732146.shtml",
-        "publishedAt": "2026-11-14T20:33:03.000+08:00"
+        "title": "海外华文媒体探访安徽寿县安丰塘 感受千年古塘“在岗”智慧",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732163.shtml",
+        "publishedAt": "2026-11-14T20:41:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T20:41:00.379+08:00",
+    "fetchedAt": "2026-11-14T21:01:22.217+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-14T20:41:01.168+08:00",
+      "fetchedAt": "2026-11-14T21:01:22.893+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 92,
-          "resetAt": "2026-11-14T20:50:58.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-15T02:01:24.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T20:41:01.172+08:00",
+      "fetchedAt": "2026-11-14T21:01:22.896+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T20:41:01.183+08:00",
+      "fetchedAt": "2026-11-14T21:01:22.906+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T20:41:01.183+08:00",
+      "fetchedAt": "2026-11-14T21:01:22.906+08:00",
       "error": "未启用",
       "disabled": true
     }
