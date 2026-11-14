@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T20:10:29.744+08:00",
+  "updatedAt": "2026-11-14T20:41:04.279+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.6,
-    "feelsLikeC": 19.6,
+    "tempC": 17.4,
+    "feelsLikeC": 18.9,
     "humidity": 94,
-    "windKph": 2.3,
+    "windKph": 4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-14T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-14T20:10:29.744+08:00",
+    "observedAt": "2026-11-14T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-14T20:41:04.280+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "粤港澳大湾区已成为中国经济活力最强的区域之一",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-14/10732147.shtml",
-        "publishedAt": "2026-11-14T20:05:15.000+08:00"
+        "title": "十八年十万张照片 宁夏摄影师为银川红花渠留下影像档案",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732151.shtml",
+        "publishedAt": "2026-11-14T20:37:27.000+08:00"
       },
       {
-        "title": "绿皮车里“赶巴扎”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732145.shtml",
-        "publishedAt": "2026-11-14T20:02:03.000+08:00"
+        "title": "从育雏到越冬 多地科研人员江西南昌共议东方白鹳保护",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732149.shtml",
+        "publishedAt": "2026-11-14T20:35:13.000+08:00"
       },
       {
-        "title": "深圳以开放创新应答亚太合作新考题",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732130.shtml",
-        "publishedAt": "2026-11-14T19:59:47.000+08:00"
+        "title": "2026企业科技创新发展论坛在天津举行 未来产业竞争转向转化效率",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732167.shtml",
+        "publishedAt": "2026-11-14T20:34:41.000+08:00"
       },
       {
-        "title": "天津南开大学第34届外语节启幕 搭建中外文化互鉴平台",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732139.shtml",
-        "publishedAt": "2026-11-14T19:57:33.000+08:00"
+        "title": "一塘碧水润泽千年 海外华文媒体走读“天下第一塘”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-14/10732166.shtml",
+        "publishedAt": "2026-11-14T20:33:03.000+08:00"
       },
       {
-        "title": "主播说联播丨95岁美国老人的“中国乡愁”，为何引发全网关注？",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732143.shtml",
-        "publishedAt": "2026-11-14T19:56:23.000+08:00"
+        "title": "第五届“陈伯吹新儿童文学创作大赛”获奖名单揭晓",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732146.shtml",
+        "publishedAt": "2026-11-14T20:33:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T20:10:26.387+08:00",
+    "fetchedAt": "2026-11-14T20:41:00.379+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-14T20:10:27.144+08:00",
+      "fetchedAt": "2026-11-14T20:41:01.168+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T20:10:27.146+08:00",
+      "fetchedAt": "2026-11-14T20:41:01.172+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T20:10:27.152+08:00",
+      "fetchedAt": "2026-11-14T20:41:01.183+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T20:10:27.153+08:00",
+      "fetchedAt": "2026-11-14T20:41:01.183+08:00",
       "error": "未启用",
       "disabled": true
     }
