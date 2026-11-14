@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T06:21:34.349+08:00",
+  "updatedAt": "2026-11-15T06:31:44.684+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.3,
-    "feelsLikeC": 16.1,
+    "tempC": 15.2,
+    "feelsLikeC": 16,
     "humidity": 97,
-    "windKph": 4.8,
+    "windKph": 5,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T06:15:00.000+08:00",
-    "fetchedAt": "2026-11-15T06:21:34.349+08:00",
+    "observedAt": "2026-11-15T06:30:00.000+08:00",
+    "fetchedAt": "2026-11-15T06:31:44.684+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026伦敦金融城市长巡游举行 “你好！中国”主题花车亮相",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732212.shtml",
+        "publishedAt": "2026-11-15T06:20:57.000+08:00"
+      },
+      {
+        "title": "两球零封马来西亚 中国男足终结三连败",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732211.shtml",
+        "publishedAt": "2026-11-15T06:20:27.000+08:00"
+      },
       {
         "title": "在柬埔寨金边“法语国家文化村”感受多元文化魅力",
         "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732210.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "速度滑冰世界杯北京站第二日 中国队收获2金2铜",
         "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732205.shtml",
         "publishedAt": "2026-11-14T22:55:15.000+08:00"
-      },
-      {
-        "title": "跨越山海照亮万家！一度电，如何点亮亚太合作之光？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732204.shtml",
-        "publishedAt": "2026-11-14T22:38:36.000+08:00"
-      },
-      {
-        "title": "APEC朋友圈丨中国无人机如何改变智利农田",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732203.shtml",
-        "publishedAt": "2026-11-14T22:35:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T06:21:31.754+08:00",
+    "fetchedAt": "2026-11-15T06:31:41.609+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T06:21:32.216+08:00",
+      "fetchedAt": "2026-11-15T06:31:42.072+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T11:21:34.000+08:00"
+          "resetAt": "2026-11-15T11:31:43.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T06:21:32.218+08:00",
+      "fetchedAt": "2026-11-15T06:31:42.075+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T06:21:32.224+08:00",
+      "fetchedAt": "2026-11-15T06:31:42.080+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T06:21:32.224+08:00",
+      "fetchedAt": "2026-11-15T06:31:42.080+08:00",
       "error": "未启用",
       "disabled": true
     }
