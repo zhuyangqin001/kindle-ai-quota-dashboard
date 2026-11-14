@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T08:39:06.222+08:00",
+  "updatedAt": "2026-11-14T08:59:21.015+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 16.8,
-    "feelsLikeC": 18.8,
-    "humidity": 98,
-    "windKph": 1.4,
+    "tempC": 17,
+    "feelsLikeC": 18.9,
+    "humidity": 97,
+    "windKph": 2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-14T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T08:39:06.223+08:00",
+    "observedAt": "2026-11-14T08:45:00.000+08:00",
+    "fetchedAt": "2026-11-14T08:59:21.015+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "美国联邦航空管理局因通信问题暂停全美航班起飞",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731875.shtml",
-        "publishedAt": "2026-11-14T07:57:02.000+08:00"
+        "title": "劫案电影魔术秀登陆纽约百老汇",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-14/1210751.shtml",
+        "publishedAt": "2026-11-14T08:53:35.000+08:00"
       },
       {
-        "title": "11月14日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-14/10731874.shtml",
-        "publishedAt": "2026-11-14T07:06:43.000+08:00"
+        "title": "今年1至10月全国铁路发送旅客41.3亿人次 创历史同期新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731881.shtml",
+        "publishedAt": "2026-11-14T08:53:27.000+08:00"
       },
       {
-        "title": "科斯塔：欧洲五国及欧盟机构将参与下一轮乌克兰问题谈判",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731873.shtml",
-        "publishedAt": "2026-11-14T06:32:49.000+08:00"
+        "title": "华北黄淮东北等地仍有雾霾天气 中东部将有大范围大风降温和雨雪天气",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731878.shtml",
+        "publishedAt": "2026-11-14T08:52:27.000+08:00"
       },
       {
-        "title": "美国联邦航空管理局发布全国范围地面停飞指令",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731872.shtml",
-        "publishedAt": "2026-11-14T06:31:03.000+08:00"
+        "title": "北京：2026中意陶瓷艺术展开幕",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-14/1210748.shtml",
+        "publishedAt": "2026-11-14T08:46:14.000+08:00"
       },
       {
-        "title": "《惊天魔盗团·魔幻现场秀》登陆纽约百老汇",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-14/10731871.shtml",
-        "publishedAt": "2026-11-14T06:28:57.000+08:00"
+        "title": "每8个成年人中就有1人患病，被称为“沉默的杀手”，35岁以上人群请注意！",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-14/10731879.shtml",
+        "publishedAt": "2026-11-14T08:40:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T08:39:04.189+08:00",
+    "fetchedAt": "2026-11-14T08:59:19.259+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-14T08:39:04.952+08:00",
+      "fetchedAt": "2026-11-14T08:59:19.798+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-14T13:39:06.000+08:00"
+          "resetAt": "2026-11-14T13:59:20.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-14T21:33:03.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T08:39:04.955+08:00",
+      "fetchedAt": "2026-11-14T08:59:19.801+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T08:39:04.965+08:00",
+      "fetchedAt": "2026-11-14T08:59:19.811+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T08:39:04.965+08:00",
+      "fetchedAt": "2026-11-14T08:59:19.811+08:00",
       "error": "未启用",
       "disabled": true
     }
