@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-14T17:27:32.302+08:00",
+  "updatedAt": "2026-11-14T18:28:23.892+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.9,
-    "feelsLikeC": 21.1,
-    "humidity": 91,
-    "windKph": 2.7,
-    "windDir": "北风",
+    "tempC": 18,
+    "feelsLikeC": 20.1,
+    "humidity": 93,
+    "windKph": 1.6,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-14T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-14T17:27:32.302+08:00",
+    "observedAt": "2026-11-14T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-14T18:28:23.892+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第一观察｜推动构建亚太共同体的中国担当",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732015.shtml",
-        "publishedAt": "2026-11-14T17:15:16.000+08:00"
+        "title": "直播海报：国新办就2026年10月份国民经济运行情况举行新闻发布会",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732085.shtml",
+        "publishedAt": "2026-11-14T18:17:20.000+08:00"
       },
       {
-        "title": "伊朗通报4艘油轮触雷起火 联合国通报134起商船袭击事件",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732056.shtml",
-        "publishedAt": "2026-11-14T17:13:42.000+08:00"
+        "title": "易中天谈走马观花逛博物馆：应在中小学设置选修课",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732071.shtml",
+        "publishedAt": "2026-11-14T18:17:12.000+08:00"
       },
       {
-        "title": "700余幅摄影作品亮相重庆 定格千村万景",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732059.shtml",
-        "publishedAt": "2026-11-14T17:10:52.000+08:00"
+        "title": "“跟着民歌去旅行”中国民歌合唱交流音乐会唱响越南河内",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732083.shtml",
+        "publishedAt": "2026-11-14T18:12:25.000+08:00"
       },
       {
-        "title": "青海东部山区“小酸果”发展“甜产业”促民增收",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732044.shtml",
-        "publishedAt": "2026-11-14T17:08:58.000+08:00"
+        "title": "（深圳APEC）当中国经济特区遇上APEC：探寻亚太经贸合作新路径",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732078.shtml",
+        "publishedAt": "2026-11-14T18:11:35.000+08:00"
       },
       {
-        "title": "“固原优品”亮相第二十三届农交会 特色农产品拓长三角市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732041.shtml",
-        "publishedAt": "2026-11-14T17:08:22.000+08:00"
+        "title": "李强同泰国总理阿努廷共同出席中泰企业家座谈会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732080.shtml",
+        "publishedAt": "2026-11-14T18:11:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T17:27:26.317+08:00",
+    "fetchedAt": "2026-11-14T18:28:20.331+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-14T17:27:26.749+08:00",
+      "fetchedAt": "2026-11-14T18:28:21.023+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 74,
+          "usedPct": 88,
           "resetAt": "2026-11-14T20:50:58.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 12,
+          "usedPct": 14,
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T17:27:26.751+08:00",
+      "fetchedAt": "2026-11-14T18:28:21.027+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T17:27:26.756+08:00",
+      "fetchedAt": "2026-11-14T18:28:21.038+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T17:27:26.756+08:00",
+      "fetchedAt": "2026-11-14T18:28:21.038+08:00",
       "error": "未启用",
       "disabled": true
     }
