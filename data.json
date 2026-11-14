@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-14T18:48:45.583+08:00",
+  "updatedAt": "2026-11-14T19:19:19.162+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.8,
-    "feelsLikeC": 19.9,
-    "humidity": 93,
-    "windKph": 1.4,
+    "tempC": 17.7,
+    "feelsLikeC": 19.8,
+    "humidity": 94,
+    "windKph": 1.5,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-14T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-14T18:48:45.583+08:00",
+    "observedAt": "2026-11-14T19:15:00.000+08:00",
+    "fetchedAt": "2026-11-14T19:19:19.162+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“一带一路”中阿工商对话在江苏苏州举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732103.shtml",
-        "publishedAt": "2026-11-14T18:46:07.000+08:00"
+        "title": "鞠振任山西省副省长",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732109.shtml",
+        "publishedAt": "2026-11-14T19:14:49.000+08:00"
       },
       {
-        "title": "鼎州窑博物馆16件瓷器亮相2026中意陶瓷艺术展",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732101.shtml",
-        "publishedAt": "2026-11-14T18:45:11.000+08:00"
+        "title": "青春华章·我们的新长征｜同上“大思政课”，让青春在新长征路上踏出铿锵回响",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-14/10732117.shtml",
+        "publishedAt": "2026-11-14T19:11:32.000+08:00"
       },
       {
-        "title": "重庆今年以来已救护放归近200只鸟类",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732097.shtml",
-        "publishedAt": "2026-11-14T18:42:15.000+08:00"
+        "title": "3.5米预制棒拉制2万公里光纤 以技术创新回应市场需求",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732116.shtml",
+        "publishedAt": "2026-11-14T19:07:32.000+08:00"
       },
       {
-        "title": "2026中国网球巡回赛职业级总决赛将在澳门举行",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732098.shtml",
-        "publishedAt": "2026-11-14T18:41:47.000+08:00"
+        "title": "中新健康｜男子视力一周内掉到几乎看不见，医生紧急提醒",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-14/10732115.shtml",
+        "publishedAt": "2026-11-14T19:07:26.000+08:00"
       },
       {
-        "title": "刘海星：中方将始终做中东和平的建设者、稳定的促进者、发展的贡献者",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732095.shtml",
-        "publishedAt": "2026-11-14T18:41:23.000+08:00"
+        "title": "在这里看见未来丨民生见暖意 细节见开放 包容见共识",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732114.shtml",
+        "publishedAt": "2026-11-14T19:03:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T18:48:42.102+08:00",
+    "fetchedAt": "2026-11-14T19:19:15.284+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-14T18:48:42.751+08:00",
+      "fetchedAt": "2026-11-14T19:19:16.062+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 88,
-          "resetAt": "2026-11-14T20:50:58.000+08:00"
+          "resetAt": "2026-11-14T20:50:57.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 14,
-          "resetAt": "2026-11-21T15:50:58.000+08:00"
+          "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T18:48:42.752+08:00",
+      "fetchedAt": "2026-11-14T19:19:16.066+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T18:48:42.759+08:00",
+      "fetchedAt": "2026-11-14T19:19:16.077+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T18:48:42.759+08:00",
+      "fetchedAt": "2026-11-14T19:19:16.077+08:00",
       "error": "未启用",
       "disabled": true
     }
