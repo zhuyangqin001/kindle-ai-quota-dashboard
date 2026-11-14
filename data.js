@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T21:42:29.266+08:00",
+  "updatedAt": "2026-11-14T22:02:57.719+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.9,
-    "feelsLikeC": 18.5,
-    "humidity": 95,
+    "tempC": 16.6,
+    "feelsLikeC": 18.2,
+    "humidity": 96,
     "windKph": 3.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-14T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T21:42:29.266+08:00",
+    "observedAt": "2026-11-14T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-14T22:02:57.720+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "WWF气候负责人：气候行动走向落实 中国发挥关键桥梁作用",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732198.shtml",
+        "publishedAt": "2026-11-14T21:54:21.000+08:00"
+      },
+      {
+        "title": "从承诺到行动：COP31上的中国答卷",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732197.shtml",
+        "publishedAt": "2026-11-14T21:44:41.000+08:00"
+      },
+      {
+        "title": "“开板”是拥抱冬天的独特方式 八方雪友乐享火热冰雪赛事",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732196.shtml",
+        "publishedAt": "2026-11-14T21:39:30.000+08:00"
+      },
       {
         "title": "“一张票”化身“一条消费链” 交通流量转化为文旅消费与区域经济增量‌",
         "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732195.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "数说APEC丨中国生态治理经验 如何为亚太增“绿”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732194.shtml",
         "publishedAt": "2026-11-14T21:34:18.000+08:00"
-      },
-      {
-        "title": "深圳通江达海的物流网如何昼夜运转？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732193.shtml",
-        "publishedAt": "2026-11-14T21:32:32.000+08:00"
-      },
-      {
-        "title": "两岸网友共创视频｜我们的城市有条中山路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732186.shtml",
-        "publishedAt": "2026-11-14T21:29:10.000+08:00"
-      },
-      {
-        "title": "习近平主席引领亚太大家庭扬帆前行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732184.shtml",
-        "publishedAt": "2026-11-14T21:26:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T21:42:24.342+08:00",
+    "fetchedAt": "2026-11-14T22:02:53.178+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-14T21:42:25.064+08:00",
+      "fetchedAt": "2026-11-14T22:02:53.822+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T02:42:27.000+08:00"
+          "resetAt": "2026-11-15T03:02:55.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T21:42:25.067+08:00",
+      "fetchedAt": "2026-11-14T22:02:53.825+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T21:42:25.077+08:00",
+      "fetchedAt": "2026-11-14T22:02:53.834+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T21:42:25.077+08:00",
+      "fetchedAt": "2026-11-14T22:02:53.835+08:00",
       "error": "未启用",
       "disabled": true
     }
