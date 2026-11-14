@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T16:06:22.061+08:00",
+  "updatedAt": "2026-11-14T17:27:32.302+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.6,
-    "feelsLikeC": 21.4,
-    "humidity": 88,
-    "windKph": 5.9,
-    "windDir": "西北风",
+    "tempC": 18.9,
+    "feelsLikeC": 21.1,
+    "humidity": 91,
+    "windKph": 2.7,
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-14T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-14T16:06:22.061+08:00",
+    "observedAt": "2026-11-14T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-14T17:27:32.302+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "山西太原：古戏台上演沉浸式新派戏剧",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732033.shtml",
-        "publishedAt": "2026-11-14T16:02:44.000+08:00"
+        "title": "第一观察｜推动构建亚太共同体的中国担当",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732015.shtml",
+        "publishedAt": "2026-11-14T17:15:16.000+08:00"
       },
       {
-        "title": "首位外籍航天员将进入中国空间站！来自巴基斯坦，先学会了说中文",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732034.shtml",
-        "publishedAt": "2026-11-14T16:01:36.000+08:00"
+        "title": "伊朗通报4艘油轮触雷起火 联合国通报134起商船袭击事件",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732056.shtml",
+        "publishedAt": "2026-11-14T17:13:42.000+08:00"
       },
       {
-        "title": "没了闰秒，会不会影响我们的日常生活",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732030.shtml",
-        "publishedAt": "2026-11-14T15:55:32.000+08:00"
+        "title": "700余幅摄影作品亮相重庆 定格千村万景",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732059.shtml",
+        "publishedAt": "2026-11-14T17:10:52.000+08:00"
       },
       {
-        "title": "哈尔滨松花江畔现雾凇美景",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732027.shtml",
-        "publishedAt": "2026-11-14T15:54:52.000+08:00"
+        "title": "青海东部山区“小酸果”发展“甜产业”促民增收",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732044.shtml",
+        "publishedAt": "2026-11-14T17:08:58.000+08:00"
       },
       {
-        "title": "辽宁省沈阳市发布大雾橙色预警信号",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-14/10732022.shtml",
-        "publishedAt": "2026-11-14T15:53:10.000+08:00"
+        "title": "“固原优品”亮相第二十三届农交会 特色农产品拓长三角市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732041.shtml",
+        "publishedAt": "2026-11-14T17:08:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T16:06:19.120+08:00",
+    "fetchedAt": "2026-11-14T17:27:26.317+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-14T16:06:19.636+08:00",
+      "fetchedAt": "2026-11-14T17:27:26.749+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 15,
-          "resetAt": "2026-11-14T20:50:57.000+08:00"
+          "usedPct": 74,
+          "resetAt": "2026-11-14T20:50:58.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 2,
-          "resetAt": "2026-11-21T15:50:57.000+08:00"
+          "usedPct": 12,
+          "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T16:06:19.638+08:00",
+      "fetchedAt": "2026-11-14T17:27:26.751+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T16:06:19.646+08:00",
+      "fetchedAt": "2026-11-14T17:27:26.756+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T16:06:19.646+08:00",
+      "fetchedAt": "2026-11-14T17:27:26.756+08:00",
       "error": "未启用",
       "disabled": true
     }
