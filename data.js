@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T21:32:07.732+08:00",
+  "updatedAt": "2026-11-14T21:42:29.266+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-14T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-14T21:32:07.732+08:00",
+    "fetchedAt": "2026-11-14T21:42:29.266+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“一张票”化身“一条消费链” 交通流量转化为文旅消费与区域经济增量‌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732195.shtml",
+        "publishedAt": "2026-11-14T21:36:34.000+08:00"
+      },
+      {
+        "title": "数说APEC丨中国生态治理经验 如何为亚太增“绿”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732194.shtml",
+        "publishedAt": "2026-11-14T21:34:18.000+08:00"
+      },
+      {
+        "title": "深圳通江达海的物流网如何昼夜运转？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732193.shtml",
+        "publishedAt": "2026-11-14T21:32:32.000+08:00"
+      },
+      {
+        "title": "两岸网友共创视频｜我们的城市有条中山路",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732186.shtml",
+        "publishedAt": "2026-11-14T21:29:10.000+08:00"
+      },
+      {
         "title": "习近平主席引领亚太大家庭扬帆前行",
         "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732184.shtml",
         "publishedAt": "2026-11-14T21:26:24.000+08:00"
-      },
-      {
-        "title": "文物“一张图”非遗“一本账” 云南“十五五”将加强文化遗产保护传承",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732179.shtml",
-        "publishedAt": "2026-11-14T21:19:25.000+08:00"
-      },
-      {
-        "title": "专家学者厦门共话中国—东盟旅游安全治理",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732187.shtml",
-        "publishedAt": "2026-11-14T21:18:41.000+08:00"
-      },
-      {
-        "title": "逾300部（卷）藏传佛教宁玛派古籍文献整理出版",
-        "url": "https://www.chinanews.com.cn/zj/2026/11-14/10732189.shtml",
-        "publishedAt": "2026-11-14T21:17:39.000+08:00"
-      },
-      {
-        "title": "荷兰学者奥雷·伯曼：万里归来，“东游”未止",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732168.shtml",
-        "publishedAt": "2026-11-14T21:06:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T21:32:03.269+08:00",
+    "fetchedAt": "2026-11-14T21:42:24.342+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-14T21:32:03.953+08:00",
+      "fetchedAt": "2026-11-14T21:42:25.064+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T02:32:06.000+08:00"
+          "resetAt": "2026-11-15T02:42:27.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T21:32:03.956+08:00",
+      "fetchedAt": "2026-11-14T21:42:25.067+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T21:32:03.966+08:00",
+      "fetchedAt": "2026-11-14T21:42:25.077+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T21:32:03.967+08:00",
+      "fetchedAt": "2026-11-14T21:42:25.077+08:00",
       "error": "未启用",
       "disabled": true
     }
