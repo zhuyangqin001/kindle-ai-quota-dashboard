@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-14T18:28:23.892+08:00",
+  "updatedAt": "2026-11-14T18:48:45.583+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18,
-    "feelsLikeC": 20.1,
+    "tempC": 17.8,
+    "feelsLikeC": 19.9,
     "humidity": 93,
-    "windKph": 1.6,
+    "windKph": 1.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-14T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-14T18:28:23.892+08:00",
+    "observedAt": "2026-11-14T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-14T18:48:45.583+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "直播海报：国新办就2026年10月份国民经济运行情况举行新闻发布会",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732085.shtml",
-        "publishedAt": "2026-11-14T18:17:20.000+08:00"
+        "title": "“一带一路”中阿工商对话在江苏苏州举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732103.shtml",
+        "publishedAt": "2026-11-14T18:46:07.000+08:00"
       },
       {
-        "title": "易中天谈走马观花逛博物馆：应在中小学设置选修课",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732071.shtml",
-        "publishedAt": "2026-11-14T18:17:12.000+08:00"
+        "title": "鼎州窑博物馆16件瓷器亮相2026中意陶瓷艺术展",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732101.shtml",
+        "publishedAt": "2026-11-14T18:45:11.000+08:00"
       },
       {
-        "title": "“跟着民歌去旅行”中国民歌合唱交流音乐会唱响越南河内",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-14/10732083.shtml",
-        "publishedAt": "2026-11-14T18:12:25.000+08:00"
+        "title": "重庆今年以来已救护放归近200只鸟类",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-14/10732097.shtml",
+        "publishedAt": "2026-11-14T18:42:15.000+08:00"
       },
       {
-        "title": "（深圳APEC）当中国经济特区遇上APEC：探寻亚太经贸合作新路径",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732078.shtml",
-        "publishedAt": "2026-11-14T18:11:35.000+08:00"
+        "title": "2026中国网球巡回赛职业级总决赛将在澳门举行",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732098.shtml",
+        "publishedAt": "2026-11-14T18:41:47.000+08:00"
       },
       {
-        "title": "李强同泰国总理阿努廷共同出席中泰企业家座谈会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732080.shtml",
-        "publishedAt": "2026-11-14T18:11:29.000+08:00"
+        "title": "刘海星：中方将始终做中东和平的建设者、稳定的促进者、发展的贡献者",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732095.shtml",
+        "publishedAt": "2026-11-14T18:41:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-14T18:28:20.331+08:00",
+    "fetchedAt": "2026-11-14T18:48:42.102+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-14T18:28:21.023+08:00",
+      "fetchedAt": "2026-11-14T18:48:42.751+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-14T18:28:21.027+08:00",
+      "fetchedAt": "2026-11-14T18:48:42.752+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T18:28:21.038+08:00",
+      "fetchedAt": "2026-11-14T18:48:42.759+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-14T18:28:21.038+08:00",
+      "fetchedAt": "2026-11-14T18:48:42.759+08:00",
       "error": "未启用",
       "disabled": true
     }
