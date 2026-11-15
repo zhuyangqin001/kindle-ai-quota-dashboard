@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T19:18:27.029+08:00",
+  "updatedAt": "2026-11-15T19:28:42.640+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-15T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-15T19:18:27.029+08:00",
+    "fetchedAt": "2026-11-15T19:28:42.640+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "荆州崇湖湿地现初冬生态画卷",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732412.shtml",
-        "publishedAt": "2026-11-15T18:55:04.000+08:00"
+        "title": "（深圳APEC）打卡“深圳之眼” 媒体记者走进岗厦北枢纽",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-15/1210869.shtml",
+        "publishedAt": "2026-11-15T19:21:39.000+08:00"
       },
       {
-        "title": "中西部首次落地 海南航空在渝开通“跨航司国际通程中转”业务",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732428.shtml",
-        "publishedAt": "2026-11-15T18:50:10.000+08:00"
+        "title": "一馆看遍琼岛文脉 “海南文博综合馆”博博会人气旺",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732449.shtml",
+        "publishedAt": "2026-11-15T19:20:00.000+08:00"
       },
       {
-        "title": "从羊倌到供货商 甘肃临夏把牛羊“吃干榨净”有一套",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732425.shtml",
-        "publishedAt": "2026-11-15T18:48:22.000+08:00"
+        "title": "“城市地理视野下的北京文学研究”研讨会在京举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732447.shtml",
+        "publishedAt": "2026-11-15T19:19:16.000+08:00"
       },
       {
-        "title": "（经济观察）COP31中场：气候行动“知易行难”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732423.shtml",
-        "publishedAt": "2026-11-15T18:47:26.000+08:00"
+        "title": "一秒一度皆底线 退役飞行员长春揭秘飞行表演",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732444.shtml",
+        "publishedAt": "2026-11-15T19:18:58.000+08:00"
       },
       {
-        "title": "（深圳APEC）从深圳港口到海外市场，跨境物流链升级通达亚太",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732421.shtml",
-        "publishedAt": "2026-11-15T18:47:20.000+08:00"
+        "title": "2026重庆璧山马拉松鸣枪起跑 万名选手畅跑“公园之城”",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732443.shtml",
+        "publishedAt": "2026-11-15T19:18:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T19:18:23.809+08:00",
+    "fetchedAt": "2026-11-15T19:28:37.742+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T19:18:24.973+08:00",
+      "fetchedAt": "2026-11-15T19:28:38.419+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 23,
           "resetAt": "2026-11-16T00:15:01.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 15,
-          "resetAt": "2026-11-21T15:50:57.000+08:00"
+          "usedPct": 18,
+          "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T19:18:24.976+08:00",
+      "fetchedAt": "2026-11-15T19:28:38.421+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T19:18:24.986+08:00",
+      "fetchedAt": "2026-11-15T19:28:38.427+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T19:18:24.987+08:00",
+      "fetchedAt": "2026-11-15T19:28:38.427+08:00",
       "error": "未启用",
       "disabled": true
     }
