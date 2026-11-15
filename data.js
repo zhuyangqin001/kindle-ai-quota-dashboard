@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T07:32:42.085+08:00",
+  "updatedAt": "2026-11-16T07:53:00.612+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.8,
-    "feelsLikeC": 14.3,
-    "humidity": 78,
-    "windKph": 14,
+    "tempC": 16.1,
+    "feelsLikeC": 14.6,
+    "humidity": 77,
+    "windKph": 14.1,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-16T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T07:32:42.085+08:00",
+    "observedAt": "2026-11-16T07:45:00.000+08:00",
+    "fetchedAt": "2026-11-16T07:53:00.613+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "老龄陪伴式服务正从社区试点走向家庭场景 如何让陪伴服务更可持续？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732545.shtml",
+        "publishedAt": "2026-11-16T07:46:39.000+08:00"
+      },
+      {
+        "title": "伊朗外交部：伊朗“不会等待任何人”，将继续回应任何军事侵略",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732541.shtml",
+        "publishedAt": "2026-11-16T07:41:55.000+08:00"
+      },
+      {
+        "title": "方言何以在青年网络生活中“潮”起来",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732539.shtml",
+        "publishedAt": "2026-11-16T07:30:54.000+08:00"
+      },
       {
         "title": "骑手拿了“新职伤”，就不能获赔商业意外险？",
         "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732538.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "伊朗：两艘油轮在霍尔木兹海峡触雷引发剧烈爆炸",
         "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732537.shtml",
         "publishedAt": "2026-11-16T07:20:21.000+08:00"
-      },
-      {
-        "title": "胡塞武装宣布：沙特联军24小时内75次袭击也门多地",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732534.shtml",
-        "publishedAt": "2026-11-16T07:03:46.000+08:00"
-      },
-      {
-        "title": "11月16日早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-16/10732533.shtml",
-        "publishedAt": "2026-11-16T06:43:25.000+08:00"
-      },
-      {
-        "title": "伊朗称一艘油轮在霍尔木兹海峡以东触雷起火",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732532.shtml",
-        "publishedAt": "2026-11-16T06:20:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T07:32:39.395+08:00",
+    "fetchedAt": "2026-11-16T07:52:57.984+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-16T07:32:40.123+08:00",
+      "fetchedAt": "2026-11-16T07:52:58.720+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T12:32:41.000+08:00"
+          "resetAt": "2026-11-16T12:53:00.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T07:32:40.126+08:00",
+      "fetchedAt": "2026-11-16T07:52:58.723+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T07:32:40.135+08:00",
+      "fetchedAt": "2026-11-16T07:52:58.733+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T07:32:40.135+08:00",
+      "fetchedAt": "2026-11-16T07:52:58.734+08:00",
       "error": "未启用",
       "disabled": true
     }
