@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-15T17:05:48.423+08:00",
+  "updatedAt": "2026-11-15T17:16:02.732+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.8,
-    "feelsLikeC": 21.5,
-    "humidity": 71,
-    "windKph": 7.5,
+    "tempC": 20.5,
+    "feelsLikeC": 21.2,
+    "humidity": 73,
+    "windKph": 7.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-15T17:05:48.423+08:00",
+    "observedAt": "2026-11-15T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-15T17:16:02.732+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“中国中小电机之都”福建福安：产业向“新” 发展向“兴”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732384.shtml",
-        "publishedAt": "2026-11-15T17:00:32.000+08:00"
+        "title": "“热雪新疆·相约首尔”新疆冬季旅游推介会在韩国首尔举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732400.shtml",
+        "publishedAt": "2026-11-15T17:08:17.000+08:00"
       },
       {
-        "title": "3.2万名跑者竞速2026南昌马拉松",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732386.shtml",
-        "publishedAt": "2026-11-15T17:00:30.000+08:00"
+        "title": "百余名专家探讨后申遗时代西夏陵破局之路",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732398.shtml",
+        "publishedAt": "2026-11-15T17:07:30.000+08:00"
       },
       {
-        "title": "2026年医保商保“双目录”在江苏苏州发布 医保目录新增107种药品",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732382.shtml",
-        "publishedAt": "2026-11-15T16:59:18.000+08:00"
+        "title": "港珠澳大桥半马开跑 近万名中外跑者迎风竞逐",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-15/10732397.shtml",
+        "publishedAt": "2026-11-15T17:03:26.000+08:00"
       },
       {
-        "title": "安徽淮南：民众周末走进博物馆探寻地球生命起源",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732357.shtml",
-        "publishedAt": "2026-11-15T16:34:37.000+08:00"
+        "title": "台湾博主行走大陆 用镜头述烟火温情",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732396.shtml",
+        "publishedAt": "2026-11-15T17:03:22.000+08:00"
       },
       {
-        "title": "天涯共此诗",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732389.shtml",
-        "publishedAt": "2026-11-15T16:30:54.000+08:00"
+        "title": "成渝中线高铁成都站主体结构完工",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732395.shtml",
+        "publishedAt": "2026-11-15T17:03:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T17:05:43.566+08:00",
+    "fetchedAt": "2026-11-15T17:15:59.752+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T17:05:44.335+08:00",
+      "fetchedAt": "2026-11-15T17:16:00.523+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T17:05:44.338+08:00",
+      "fetchedAt": "2026-11-15T17:16:00.526+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T17:05:44.348+08:00",
+      "fetchedAt": "2026-11-15T17:16:00.537+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T17:05:44.348+08:00",
+      "fetchedAt": "2026-11-15T17:16:00.537+08:00",
       "error": "未启用",
       "disabled": true
     }
