@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T22:42:12.676+08:00",
+  "updatedAt": "2026-11-15T22:52:28.259+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.3,
-    "feelsLikeC": 18.9,
+    "tempC": 18.4,
+    "feelsLikeC": 19,
     "humidity": 79,
-    "windKph": 6.6,
+    "windKph": 6.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-15T22:42:12.677+08:00",
+    "observedAt": "2026-11-15T22:45:00.000+08:00",
+    "fetchedAt": "2026-11-15T22:52:28.260+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（深圳APEC）APEC经济体相关侨批原件首次联合展出 见证亚太民间往来",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732514.shtml",
+        "publishedAt": "2026-11-15T22:39:02.000+08:00"
+      },
       {
         "title": "聚焦APEC丨2000余位政商界领袖将参加APEC工商领导人峰会",
         "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732511.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "云南镇康：雨林深处种出富民“金豆子”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732494.shtml",
         "publishedAt": "2026-11-15T21:10:20.000+08:00"
-      },
-      {
-        "title": "云南提出建设RCEP国际教育合作区",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732492.shtml",
-        "publishedAt": "2026-11-15T21:10:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T22:42:07.830+08:00",
+    "fetchedAt": "2026-11-15T22:52:25.507+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T22:42:08.604+08:00",
+      "fetchedAt": "2026-11-15T22:52:26.277+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 58,
-          "resetAt": "2026-11-16T00:15:02.000+08:00"
+          "resetAt": "2026-11-16T00:15:01.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T22:42:08.608+08:00",
+      "fetchedAt": "2026-11-15T22:52:26.280+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T22:42:08.617+08:00",
+      "fetchedAt": "2026-11-15T22:52:26.289+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T22:42:08.617+08:00",
+      "fetchedAt": "2026-11-15T22:52:26.289+08:00",
       "error": "未启用",
       "disabled": true
     }
