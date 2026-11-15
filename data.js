@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T18:17:25.471+08:00",
+  "updatedAt": "2026-11-15T18:27:37.510+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-15T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-15T18:17:25.471+08:00",
+    "fetchedAt": "2026-11-15T18:27:37.510+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "南京老机场跑道变身文化园地 战机模型吸睛",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732411.shtml",
+        "publishedAt": "2026-11-15T18:13:00.000+08:00"
+      },
+      {
+        "title": "第49届东盟峰会在菲律宾马尼拉开幕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732417.shtml",
+        "publishedAt": "2026-11-15T18:12:38.000+08:00"
+      },
+      {
+        "title": "河南登封：冬染少林客如织",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732410.shtml",
+        "publishedAt": "2026-11-15T18:11:48.000+08:00"
+      },
       {
         "title": "全美突发航班停飞，美国交通部长被要求辞职",
         "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732418.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "广西仫佬族乡金色稻田成画卷 各族民众共赴丰收之约",
         "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732407.shtml",
         "publishedAt": "2026-11-15T18:03:34.000+08:00"
-      },
-      {
-        "title": "美国突发飞机相撞事故",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732416.shtml",
-        "publishedAt": "2026-11-15T17:56:25.000+08:00"
-      },
-      {
-        "title": "百元包吃住还能看海景房？起底“低价团”围猎老年人内幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732414.shtml",
-        "publishedAt": "2026-11-15T17:44:24.000+08:00"
-      },
-      {
-        "title": "中共中央印发《中国共产党地方委员会工作条例》",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732406.shtml",
-        "publishedAt": "2026-11-15T17:36:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T18:17:22.017+08:00",
+    "fetchedAt": "2026-11-15T18:27:34.845+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T18:17:22.767+08:00",
+      "fetchedAt": "2026-11-15T18:27:35.605+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T18:17:22.770+08:00",
+      "fetchedAt": "2026-11-15T18:27:35.608+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T18:17:22.779+08:00",
+      "fetchedAt": "2026-11-15T18:27:35.618+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T18:17:22.779+08:00",
+      "fetchedAt": "2026-11-15T18:27:35.618+08:00",
       "error": "未启用",
       "disabled": true
     }
