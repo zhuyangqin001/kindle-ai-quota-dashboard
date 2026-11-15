@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T21:30:42.134+08:00",
+  "updatedAt": "2026-11-15T21:40:55.436+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-15T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-15T21:30:42.134+08:00",
+    "fetchedAt": "2026-11-15T21:40:55.436+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "聚焦APEC丨2000余位政商界领袖将参加APEC工商领导人峰会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732511.shtml",
+        "publishedAt": "2026-11-15T21:33:45.000+08:00"
+      },
       {
         "title": "（深圳APEC）三个建筑师，给深圳APEC写了一份“国家答卷”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732513.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "云南提出建设RCEP国际教育合作区",
         "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732492.shtml",
         "publishedAt": "2026-11-15T21:10:06.000+08:00"
-      },
-      {
-        "title": "上海：多方携手成立关爱自闭症儿童公益联合体",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732495.shtml",
-        "publishedAt": "2026-11-15T21:09:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T21:30:39.563+08:00",
+    "fetchedAt": "2026-11-15T21:40:52.947+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T21:30:40.234+08:00",
+      "fetchedAt": "2026-11-15T21:40:53.645+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T21:30:40.237+08:00",
+      "fetchedAt": "2026-11-15T21:40:53.647+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T21:30:40.245+08:00",
+      "fetchedAt": "2026-11-15T21:40:53.657+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T21:30:40.246+08:00",
+      "fetchedAt": "2026-11-15T21:40:53.658+08:00",
       "error": "未启用",
       "disabled": true
     }
