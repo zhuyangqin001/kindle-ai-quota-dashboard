@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T09:57:09.700+08:00",
+  "updatedAt": "2026-11-15T10:07:24.719+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.5,
-    "feelsLikeC": 19.5,
-    "humidity": 82,
-    "windKph": 5,
+    "tempC": 18.8,
+    "feelsLikeC": 19.8,
+    "humidity": 81,
+    "windKph": 5.2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-15T09:57:09.700+08:00",
+    "observedAt": "2026-11-15T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-15T10:07:24.719+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "职场年轻人谨防胃肠“亮红灯” 专家：条件允许尽量自制餐食",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-15/10732247.shtml",
+        "publishedAt": "2026-11-15T09:55:47.000+08:00"
+      },
+      {
+        "title": "千亿产值之后 云南文山绿色铝求解“精深”之问",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732244.shtml",
+        "publishedAt": "2026-11-15T09:52:41.000+08:00"
+      },
       {
         "title": "《手捧繁星》亮相广州推介会：在低谷中寻光，于助人中成长",
         "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732242.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "高过姚明的章丘大葱 凭什么撑起35亿元产值？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732239.shtml",
         "publishedAt": "2026-11-15T09:49:41.000+08:00"
-      },
-      {
-        "title": "第三届成都天问华语科幻文学大赛八大奖项揭晓",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732238.shtml",
-        "publishedAt": "2026-11-15T09:49:31.000+08:00"
-      },
-      {
-        "title": "一道寿州城墙守护一城烟火",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732234.shtml",
-        "publishedAt": "2026-11-15T09:48:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T09:57:03.850+08:00",
+    "fetchedAt": "2026-11-15T10:07:18.782+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T09:57:04.328+08:00",
+      "fetchedAt": "2026-11-15T10:07:19.354+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-15T06:51:57.797+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-15T09:57:04.331+08:00"
+      "lastAttemptAt": "2026-11-15T10:07:19.358+08:00"
     },
     "mimo": {
       "ok": false,
@@ -83,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T09:57:04.337+08:00",
+      "fetchedAt": "2026-11-15T10:07:19.365+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T09:57:04.338+08:00",
+      "fetchedAt": "2026-11-15T10:07:19.366+08:00",
       "error": "未启用",
       "disabled": true
     }
