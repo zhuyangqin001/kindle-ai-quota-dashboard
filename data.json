@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-16T03:38:40.151+08:00",
+  "updatedAt": "2026-11-16T03:48:57.938+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.6,
-    "feelsLikeC": 15,
-    "humidity": 73,
-    "windKph": 14.4,
+    "tempC": 16.3,
+    "feelsLikeC": 15.2,
+    "humidity": 78,
+    "windKph": 12.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-16T03:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T03:38:40.151+08:00",
+    "observedAt": "2026-11-16T03:45:00.000+08:00",
+    "fetchedAt": "2026-11-16T03:48:57.938+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-15T22:46:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T03:38:36.372+08:00",
+    "fetchedAt": "2026-11-16T03:48:54.180+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-16T03:38:37.132+08:00",
+      "fetchedAt": "2026-11-16T03:48:54.926+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T08:38:40.000+08:00"
+          "resetAt": "2026-11-16T08:48:57.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T03:38:37.135+08:00",
+      "fetchedAt": "2026-11-16T03:48:54.929+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T03:38:37.145+08:00",
+      "fetchedAt": "2026-11-16T03:48:54.939+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T03:38:37.145+08:00",
+      "fetchedAt": "2026-11-16T03:48:54.940+08:00",
       "error": "未启用",
       "disabled": true
     }
