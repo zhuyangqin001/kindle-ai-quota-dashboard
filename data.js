@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T20:40:01.637+08:00",
+  "updatedAt": "2026-11-15T21:10:24.674+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.4,
-    "feelsLikeC": 19.6,
-    "humidity": 83,
-    "windKph": 4.4,
+    "tempC": 18.6,
+    "feelsLikeC": 19,
+    "humidity": 78,
+    "windKph": 7.4,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-15T20:40:01.637+08:00",
+    "observedAt": "2026-11-15T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-15T21:10:24.675+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "暨南大学120周年校庆累计获超4.6亿元捐赠",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732472.shtml",
-        "publishedAt": "2026-11-15T20:23:33.000+08:00"
+        "title": "全国步道联赛在嵊州古村开跑 跑者奔赴山野之约",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732478.shtml",
+        "publishedAt": "2026-11-15T21:03:49.000+08:00"
       },
       {
-        "title": "年度收官之战 2026中国龙舟公开赛总决赛在福建延平举行",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732471.shtml",
-        "publishedAt": "2026-11-15T20:23:13.000+08:00"
+        "title": "一穿四LCK，BLG夺得2026英雄联盟S赛冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732488.shtml",
+        "publishedAt": "2026-11-15T21:02:43.000+08:00"
       },
       {
-        "title": "2026横店马拉松在浙江东阳横店鸣枪开跑 跑者共赴光影之约",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732470.shtml",
-        "publishedAt": "2026-11-15T20:22:27.000+08:00"
+        "title": "李强抵马尼拉出席中国－东盟领导人会议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732510.shtml",
+        "publishedAt": "2026-11-15T21:01:17.000+08:00"
       },
       {
-        "title": "乌鲁木齐地铁2号线北段开通运营",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732468.shtml",
-        "publishedAt": "2026-11-15T20:22:15.000+08:00"
+        "title": "把服务阵地建到群众家门口 福建漳州持续推进民生综合体建设",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732496.shtml",
+        "publishedAt": "2026-11-15T20:51:27.000+08:00"
       },
       {
-        "title": "中国环境记协会主席：做好生态文明国际传播",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732467.shtml",
-        "publishedAt": "2026-11-15T20:21:59.000+08:00"
+        "title": "天津“遇见国防”市集周末人气十足",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732483.shtml",
+        "publishedAt": "2026-11-15T20:48:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T20:39:58.978+08:00",
+    "fetchedAt": "2026-11-15T21:10:22.341+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T20:39:59.729+08:00",
+      "fetchedAt": "2026-11-15T21:10:22.765+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T20:39:59.732+08:00",
+      "fetchedAt": "2026-11-15T21:10:22.767+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T20:39:59.742+08:00",
+      "fetchedAt": "2026-11-15T21:10:22.773+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T20:39:59.743+08:00",
+      "fetchedAt": "2026-11-15T21:10:22.773+08:00",
       "error": "未启用",
       "disabled": true
     }
