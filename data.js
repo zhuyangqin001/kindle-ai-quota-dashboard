@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T09:15:17.872+08:00",
+  "updatedAt": "2026-11-15T09:25:33.218+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-15T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-15T09:15:17.872+08:00",
+    "fetchedAt": "2026-11-15T09:25:33.218+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中东部将有大范围大风降温和雨雪天气 华北黄淮等地雾霾将减弱消散",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732220.shtml",
-        "publishedAt": "2026-11-15T09:07:22.000+08:00"
+        "title": "部分电动自行车3C认证卡壳 消费者上牌遇阻",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732245.shtml",
+        "publishedAt": "2026-11-15T09:21:45.000+08:00"
       },
       {
-        "title": "1至10月份国家铁路发送货物34.2亿吨",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732221.shtml",
-        "publishedAt": "2026-11-15T09:02:18.000+08:00"
+        "title": "“AI漫剧”成健康科普新形式，如何避免“伪科普”陷阱？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732243.shtml",
+        "publishedAt": "2026-11-15T09:19:59.000+08:00"
       },
       {
-        "title": "肺癌一发现就是晚期？出现这些症状，千万别拖！",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-15/10732228.shtml",
-        "publishedAt": "2026-11-15T08:50:30.000+08:00"
+        "title": "金融机构外汇存款准备金率今起提高至6%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732240.shtml",
+        "publishedAt": "2026-11-15T09:18:01.000+08:00"
       },
       {
-        "title": "为什么有人每天睡得少却很精神？科学家发现“短睡基因”",
-        "url": "https://www.chinanews.com.cn/life/2026/11-15/10732227.shtml",
-        "publishedAt": "2026-11-15T08:47:27.000+08:00"
+        "title": "青春华章｜机器人跑得比博尔特还快，要闯过多少关？",
+        "url": "http://www.chinanews.com.cn/sh/shipin/2026/11-15/news1074910.shtml",
+        "publishedAt": "2026-11-15T09:09:05.000+08:00"
       },
       {
-        "title": "中东部气温将大范围创新低 雨雪增强北方局地有暴雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732226.shtml",
-        "publishedAt": "2026-11-15T08:43:43.000+08:00"
+        "title": "对话中国首位奥运冠军许海峰：国家安全体现在各行各业，要时刻有保密观念",
+        "url": "http://www.chinanews.com.cn/ty/shipin/2026/11-15/news1074909.shtml",
+        "publishedAt": "2026-11-15T09:07:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T09:15:11.853+08:00",
+    "fetchedAt": "2026-11-15T09:25:27.116+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T09:15:12.319+08:00",
+      "fetchedAt": "2026-11-15T09:25:27.880+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-15T06:51:57.797+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-15T09:15:12.322+08:00"
+      "lastAttemptAt": "2026-11-15T09:25:27.883+08:00"
     },
     "mimo": {
       "ok": false,
@@ -83,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T09:15:12.327+08:00",
+      "fetchedAt": "2026-11-15T09:25:27.893+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T09:15:12.328+08:00",
+      "fetchedAt": "2026-11-15T09:25:27.893+08:00",
       "error": "未启用",
       "disabled": true
     }
