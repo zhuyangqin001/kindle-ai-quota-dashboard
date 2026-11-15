@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T18:07:11.037+08:00",
+  "updatedAt": "2026-11-15T18:17:25.471+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.6,
-    "feelsLikeC": 20.4,
+    "tempC": 19.5,
+    "feelsLikeC": 20.2,
     "humidity": 77,
-    "windKph": 7.1,
+    "windKph": 7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-15T18:07:11.037+08:00",
+    "observedAt": "2026-11-15T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-15T18:17:25.471+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "全美突发航班停飞，美国交通部长被要求辞职",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732418.shtml",
+        "publishedAt": "2026-11-15T18:07:00.000+08:00"
+      },
+      {
+        "title": "广西仫佬族乡金色稻田成画卷 各族民众共赴丰收之约",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732407.shtml",
+        "publishedAt": "2026-11-15T18:03:34.000+08:00"
+      },
       {
         "title": "美国突发飞机相撞事故",
         "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732416.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中共中央印发《中国共产党地方委员会工作条例》",
         "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732406.shtml",
         "publishedAt": "2026-11-15T17:36:10.000+08:00"
-      },
-      {
-        "title": "连休5天、免费滑雪！多地公布“雪假”时间",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732413.shtml",
-        "publishedAt": "2026-11-15T17:29:58.000+08:00"
-      },
-      {
-        "title": "美“星舰”第15次试飞：“筷子夹飞船”首试成功，助推器未能返回发射场",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732408.shtml",
-        "publishedAt": "2026-11-15T17:22:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T18:07:07.626+08:00",
+    "fetchedAt": "2026-11-15T18:17:22.017+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T18:07:08.393+08:00",
+      "fetchedAt": "2026-11-15T18:17:22.767+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T18:07:08.396+08:00",
+      "fetchedAt": "2026-11-15T18:17:22.770+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T18:07:08.406+08:00",
+      "fetchedAt": "2026-11-15T18:17:22.779+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T18:07:08.407+08:00",
+      "fetchedAt": "2026-11-15T18:17:22.779+08:00",
       "error": "未启用",
       "disabled": true
     }
