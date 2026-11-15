@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-15T23:43:17.416+08:00",
+  "updatedAt": "2026-11-16T00:03:56.087+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.9,
-    "feelsLikeC": 18.1,
-    "humidity": 80,
-    "windKph": 8.9,
+    "tempC": 17.3,
+    "feelsLikeC": 17,
+    "humidity": 81,
+    "windKph": 11.4,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-15T23:43:17.416+08:00",
+    "observedAt": "2026-11-16T00:00:00.000+08:00",
+    "fetchedAt": "2026-11-16T00:03:56.088+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "乒乓球前国手方博夺得复出后首冠",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732529.shtml",
+        "publishedAt": "2026-11-15T23:55:31.000+08:00"
+      },
+      {
+        "title": "重返“冰丝带”，北京冬奥会冠军高亭宇速滑世界杯夺金",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732528.shtml",
+        "publishedAt": "2026-11-15T23:53:55.000+08:00"
+      },
       {
         "title": "海外华媒走读安徽：“新”、“古”、“变”",
         "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732518.shtml",
@@ -33,19 +43,9 @@
         "title": "（深圳APEC）专访郑永年：西方唱衰中国经济毫无道理，商界知道动力在哪",
         "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732516.shtml",
         "publishedAt": "2026-11-15T22:45:23.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）APEC盛会核心场馆“静待花开” 会场外围成打卡热点",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732515.shtml",
-        "publishedAt": "2026-11-15T22:44:43.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）APEC经济体相关侨批原件首次联合展出 见证亚太民间往来",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732514.shtml",
-        "publishedAt": "2026-11-15T22:39:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T23:43:14.812+08:00",
+    "fetchedAt": "2026-11-16T00:03:49.702+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T23:43:15.468+08:00",
+      "fetchedAt": "2026-11-16T00:03:50.415+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@
         {
           "name": "周",
           "usedPct": 23,
-          "resetAt": "2026-11-21T15:50:57.000+08:00"
+          "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T23:43:15.472+08:00",
+      "fetchedAt": "2026-11-16T00:03:50.419+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T23:43:15.483+08:00",
+      "fetchedAt": "2026-11-16T00:03:50.428+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T23:43:15.483+08:00",
+      "fetchedAt": "2026-11-16T00:03:50.428+08:00",
       "error": "未启用",
       "disabled": true
     }
