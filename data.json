@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-15T09:05:03.287+08:00",
+  "updatedAt": "2026-11-15T09:15:17.872+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.4,
-    "feelsLikeC": 18.6,
-    "humidity": 87,
-    "windKph": 4.3,
+    "tempC": 17.7,
+    "feelsLikeC": 18.8,
+    "humidity": 86,
+    "windKph": 4.4,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-15T09:05:03.288+08:00",
+    "observedAt": "2026-11-15T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-15T09:15:17.872+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中东部将有大范围大风降温和雨雪天气 华北黄淮等地雾霾将减弱消散",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732220.shtml",
+        "publishedAt": "2026-11-15T09:07:22.000+08:00"
+      },
+      {
+        "title": "1至10月份国家铁路发送货物34.2亿吨",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732221.shtml",
+        "publishedAt": "2026-11-15T09:02:18.000+08:00"
+      },
       {
         "title": "肺癌一发现就是晚期？出现这些症状，千万别拖！",
         "url": "https://www.chinanews.com.cn/jk/2026/11-15/10732228.shtml",
@@ -33,19 +43,9 @@
         "title": "中东部气温将大范围创新低 雨雪增强北方局地有暴雪",
         "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732226.shtml",
         "publishedAt": "2026-11-15T08:43:43.000+08:00"
-      },
-      {
-        "title": "北交所开市五周年 总市值约8000亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732225.shtml",
-        "publishedAt": "2026-11-15T08:41:11.000+08:00"
-      },
-      {
-        "title": "【和合共生】习言道｜谈APEC合作，习近平引用这些古语",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732216.shtml",
-        "publishedAt": "2026-11-15T08:40:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T09:04:57.556+08:00",
+    "fetchedAt": "2026-11-15T09:15:11.853+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T09:04:58.017+08:00",
+      "fetchedAt": "2026-11-15T09:15:12.319+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -75,7 +75,7 @@
       "fetchedAt": "2026-11-15T06:51:57.797+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-15T09:04:58.020+08:00"
+      "lastAttemptAt": "2026-11-15T09:15:12.322+08:00"
     },
     "mimo": {
       "ok": false,
@@ -83,7 +83,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T09:04:58.025+08:00",
+      "fetchedAt": "2026-11-15T09:15:12.327+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +93,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T09:04:58.026+08:00",
+      "fetchedAt": "2026-11-15T09:15:12.328+08:00",
       "error": "未启用",
       "disabled": true
     }
