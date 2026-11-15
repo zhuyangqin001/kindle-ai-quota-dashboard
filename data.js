@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T18:58:09.903+08:00",
+  "updatedAt": "2026-11-15T19:18:27.029+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.2,
-    "feelsLikeC": 20,
-    "humidity": 79,
-    "windKph": 7,
+    "tempC": 18.9,
+    "feelsLikeC": 19.8,
+    "humidity": 81,
+    "windKph": 6.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-15T18:58:09.903+08:00",
+    "observedAt": "2026-11-15T19:15:00.000+08:00",
+    "fetchedAt": "2026-11-15T19:18:27.029+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "荆州崇湖湿地现初冬生态画卷",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732412.shtml",
+        "publishedAt": "2026-11-15T18:55:04.000+08:00"
+      },
       {
         "title": "中西部首次落地 海南航空在渝开通“跨航司国际通程中转”业务",
         "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732428.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（深圳APEC）从深圳港口到海外市场，跨境物流链升级通达亚太",
         "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732421.shtml",
         "publishedAt": "2026-11-15T18:47:20.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）从“APEC蓝”到“APEC紫”，主场外交“色彩出圈”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732419.shtml",
-        "publishedAt": "2026-11-15T18:43:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T18:58:07.445+08:00",
+    "fetchedAt": "2026-11-15T19:18:23.809+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T18:58:08.235+08:00",
+      "fetchedAt": "2026-11-15T19:18:24.973+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-15T19:11:29.000+08:00"
+          "usedPct": 5,
+          "resetAt": "2026-11-16T00:15:01.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 14,
-          "resetAt": "2026-11-21T15:50:58.000+08:00"
+          "usedPct": 15,
+          "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T18:58:08.238+08:00",
+      "fetchedAt": "2026-11-15T19:18:24.976+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T18:58:08.248+08:00",
+      "fetchedAt": "2026-11-15T19:18:24.986+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T18:58:08.248+08:00",
+      "fetchedAt": "2026-11-15T19:18:24.987+08:00",
       "error": "未启用",
       "disabled": true
     }
