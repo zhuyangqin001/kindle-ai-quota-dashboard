@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T17:36:29.080+08:00",
+  "updatedAt": "2026-11-15T17:46:45.015+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.2,
-    "feelsLikeC": 20.9,
-    "humidity": 74,
-    "windKph": 7.4,
+    "tempC": 19.9,
+    "feelsLikeC": 20.6,
+    "humidity": 76,
+    "windKph": 7.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-15T17:36:29.080+08:00",
+    "observedAt": "2026-11-15T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-15T17:46:45.015+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中共中央印发《中国共产党地方委员会工作条例》",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732406.shtml",
+        "publishedAt": "2026-11-15T17:36:10.000+08:00"
+      },
       {
         "title": "连休5天、免费滑雪！多地公布“雪假”时间",
         "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732413.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（深圳APEC）一杯咖啡里的“APEC浓度”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732404.shtml",
         "publishedAt": "2026-11-15T17:19:15.000+08:00"
-      },
-      {
-        "title": "陈茂波：前三季人民币成在港上市债券市场最大发行币种",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-15/10732405.shtml",
-        "publishedAt": "2026-11-15T17:18:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T17:36:24.435+08:00",
+    "fetchedAt": "2026-11-15T17:46:40.480+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T17:36:25.617+08:00",
+      "fetchedAt": "2026-11-15T17:46:41.220+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T17:36:25.621+08:00",
+      "fetchedAt": "2026-11-15T17:46:41.224+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T17:36:25.632+08:00",
+      "fetchedAt": "2026-11-15T17:46:41.234+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T17:36:25.633+08:00",
+      "fetchedAt": "2026-11-15T17:46:41.234+08:00",
       "error": "未启用",
       "disabled": true
     }
