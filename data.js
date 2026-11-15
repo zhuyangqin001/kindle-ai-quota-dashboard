@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T09:25:33.218+08:00",
+  "updatedAt": "2026-11-15T09:35:48.876+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.7,
-    "feelsLikeC": 18.8,
-    "humidity": 86,
-    "windKph": 4.4,
+    "tempC": 18.1,
+    "feelsLikeC": 19.2,
+    "humidity": 84,
+    "windKph": 4.6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-15T09:25:33.218+08:00",
+    "observedAt": "2026-11-15T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-15T09:35:48.877+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "亚洲备灾中心执行主任：中国助力各国建设与未来发展",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732236.shtml",
+        "publishedAt": "2026-11-15T09:25:01.000+08:00"
+      },
+      {
+        "title": "南非夸纳省一华人超市遭遇持枪抢劫 中国驻德班总领馆发布安全提醒",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732229.shtml",
+        "publishedAt": "2026-11-15T09:24:15.000+08:00"
+      },
       {
         "title": "部分电动自行车3C认证卡壳 消费者上牌遇阻",
         "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732245.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "金融机构外汇存款准备金率今起提高至6%",
         "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732240.shtml",
         "publishedAt": "2026-11-15T09:18:01.000+08:00"
-      },
-      {
-        "title": "青春华章｜机器人跑得比博尔特还快，要闯过多少关？",
-        "url": "http://www.chinanews.com.cn/sh/shipin/2026/11-15/news1074910.shtml",
-        "publishedAt": "2026-11-15T09:09:05.000+08:00"
-      },
-      {
-        "title": "对话中国首位奥运冠军许海峰：国家安全体现在各行各业，要时刻有保密观念",
-        "url": "http://www.chinanews.com.cn/ty/shipin/2026/11-15/news1074909.shtml",
-        "publishedAt": "2026-11-15T09:07:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T09:25:27.116+08:00",
+    "fetchedAt": "2026-11-15T09:35:42.835+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T09:25:27.880+08:00",
+      "fetchedAt": "2026-11-15T09:35:43.494+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-15T06:51:57.797+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-15T09:25:27.883+08:00"
+      "lastAttemptAt": "2026-11-15T09:35:43.496+08:00"
     },
     "mimo": {
       "ok": false,
@@ -83,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T09:25:27.893+08:00",
+      "fetchedAt": "2026-11-15T09:35:43.505+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T09:25:27.893+08:00",
+      "fetchedAt": "2026-11-15T09:35:43.506+08:00",
       "error": "未启用",
       "disabled": true
     }
