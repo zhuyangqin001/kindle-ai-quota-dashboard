@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T08:24:07.727+08:00",
+  "updatedAt": "2026-11-15T08:34:22.027+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.6,
-    "feelsLikeC": 17.6,
-    "humidity": 91,
-    "windKph": 4.9,
+    "tempC": 16.9,
+    "feelsLikeC": 17.9,
+    "humidity": 90,
+    "windKph": 4.7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-15T08:24:07.727+08:00",
+    "observedAt": "2026-11-15T08:30:00.000+08:00",
+    "fetchedAt": "2026-11-15T08:34:22.028+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "提升气候韧性 四川在COP31大会上分享应对气候变化创新案例",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732214.shtml",
+        "publishedAt": "2026-11-15T08:23:06.000+08:00"
+      },
+      {
+        "title": "小学生凌晨梦游从7楼坠落，专家解读儿童梦游真相，这件事千万别做",
+        "url": "https://www.chinanews.com.cn/life/2026/11-15/10732218.shtml",
+        "publishedAt": "2026-11-15T08:21:42.000+08:00"
+      },
       {
         "title": "冬季进补误区：不是所有人都适合“大补” 一个办法简单自测",
         "url": "https://www.chinanews.com.cn/life/2026/11-15/10732217.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "11月15日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-15/10732213.shtml",
         "publishedAt": "2026-11-15T07:16:46.000+08:00"
-      },
-      {
-        "title": "2026伦敦金融城市长巡游举行 “你好！中国”主题花车亮相",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732212.shtml",
-        "publishedAt": "2026-11-15T06:20:57.000+08:00"
-      },
-      {
-        "title": "两球零封马来西亚 中国男足终结三连败",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732211.shtml",
-        "publishedAt": "2026-11-15T06:20:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T08:24:01.876+08:00",
+    "fetchedAt": "2026-11-15T08:34:16.211+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T08:24:02.339+08:00",
+      "fetchedAt": "2026-11-15T08:34:16.684+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-15T06:51:57.797+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-15T08:24:02.342+08:00"
+      "lastAttemptAt": "2026-11-15T08:34:16.686+08:00"
     },
     "mimo": {
       "ok": false,
@@ -83,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T08:24:02.347+08:00",
+      "fetchedAt": "2026-11-15T08:34:16.691+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T08:24:02.347+08:00",
+      "fetchedAt": "2026-11-15T08:34:16.692+08:00",
       "error": "未启用",
       "disabled": true
     }
