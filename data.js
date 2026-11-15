@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T22:52:28.259+08:00",
+  "updatedAt": "2026-11-15T23:22:53.576+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 18.4,
-    "feelsLikeC": 19,
-    "humidity": 79,
-    "windKph": 6.8,
-    "windDir": "北风",
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 18.2,
+    "feelsLikeC": 18.5,
+    "humidity": 80,
+    "windKph": 7.8,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T22:45:00.000+08:00",
-    "fetchedAt": "2026-11-15T22:52:28.260+08:00",
+    "observedAt": "2026-11-15T23:15:00.000+08:00",
+    "fetchedAt": "2026-11-15T23:22:53.577+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "海外华媒走读安徽：“新”、“古”、“变”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732518.shtml",
+        "publishedAt": "2026-11-15T22:46:19.000+08:00"
+      },
+      {
+        "title": "中国平台企业“出招”优化新就业群体劳动权益保障",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732517.shtml",
+        "publishedAt": "2026-11-15T22:46:03.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）专访郑永年：西方唱衰中国经济毫无道理，商界知道动力在哪",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732516.shtml",
+        "publishedAt": "2026-11-15T22:45:23.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）APEC盛会核心场馆“静待花开” 会场外围成打卡热点",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732515.shtml",
+        "publishedAt": "2026-11-15T22:44:43.000+08:00"
+      },
+      {
         "title": "（深圳APEC）APEC经济体相关侨批原件首次联合展出 见证亚太民间往来",
         "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732514.shtml",
         "publishedAt": "2026-11-15T22:39:02.000+08:00"
-      },
-      {
-        "title": "聚焦APEC丨2000余位政商界领袖将参加APEC工商领导人峰会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732511.shtml",
-        "publishedAt": "2026-11-15T21:33:45.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）三个建筑师，给深圳APEC写了一份“国家答卷”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732513.shtml",
-        "publishedAt": "2026-11-15T21:22:20.000+08:00"
-      },
-      {
-        "title": "云岭龙狮舞出新气象 云南民族大学彩带龙队全国锦标赛夺魁",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732493.shtml",
-        "publishedAt": "2026-11-15T21:10:32.000+08:00"
-      },
-      {
-        "title": "云南镇康：雨林深处种出富民“金豆子”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732494.shtml",
-        "publishedAt": "2026-11-15T21:10:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T22:52:25.507+08:00",
+    "fetchedAt": "2026-11-15T23:22:50.652+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T22:52:26.277+08:00",
+      "fetchedAt": "2026-11-15T23:22:51.407+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 23,
-          "resetAt": "2026-11-21T15:50:58.000+08:00"
+          "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T22:52:26.280+08:00",
+      "fetchedAt": "2026-11-15T23:22:51.410+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T22:52:26.289+08:00",
+      "fetchedAt": "2026-11-15T23:22:51.417+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T22:52:26.289+08:00",
+      "fetchedAt": "2026-11-15T23:22:51.418+08:00",
       "error": "未启用",
       "disabled": true
     }
