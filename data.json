@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-16T07:12:24.071+08:00",
+  "updatedAt": "2026-11-16T07:32:42.085+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.3,
-    "feelsLikeC": 13.9,
-    "humidity": 80,
-    "windKph": 13.6,
+    "tempC": 15.8,
+    "feelsLikeC": 14.3,
+    "humidity": 78,
+    "windKph": 14,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-16T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T07:12:24.071+08:00",
+    "observedAt": "2026-11-16T07:30:00.000+08:00",
+    "fetchedAt": "2026-11-16T07:32:42.085+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "骑手拿了“新职伤”，就不能获赔商业意外险？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732538.shtml",
+        "publishedAt": "2026-11-16T07:27:14.000+08:00"
+      },
+      {
+        "title": "伊朗：两艘油轮在霍尔木兹海峡触雷引发剧烈爆炸",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732537.shtml",
+        "publishedAt": "2026-11-16T07:20:21.000+08:00"
+      },
       {
         "title": "胡塞武装宣布：沙特联军24小时内75次袭击也门多地",
         "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732534.shtml",
@@ -33,19 +43,9 @@
         "title": "伊朗称一艘油轮在霍尔木兹海峡以东触雷起火",
         "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732532.shtml",
         "publishedAt": "2026-11-16T06:20:44.000+08:00"
-      },
-      {
-        "title": "美“火神”火箭未能将亚马逊卫星送入预定轨道",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732531.shtml",
-        "publishedAt": "2026-11-16T06:20:40.000+08:00"
-      },
-      {
-        "title": "法国周末示威活动中超过400人被拘捕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732530.shtml",
-        "publishedAt": "2026-11-16T00:06:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T07:12:21.419+08:00",
+    "fetchedAt": "2026-11-16T07:32:39.395+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-16T07:12:22.181+08:00",
+      "fetchedAt": "2026-11-16T07:32:40.123+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T12:12:23.000+08:00"
+          "resetAt": "2026-11-16T12:32:41.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T07:12:22.184+08:00",
+      "fetchedAt": "2026-11-16T07:32:40.126+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T07:12:22.193+08:00",
+      "fetchedAt": "2026-11-16T07:32:40.135+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T07:12:22.193+08:00",
+      "fetchedAt": "2026-11-16T07:32:40.135+08:00",
       "error": "未启用",
       "disabled": true
     }
