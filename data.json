@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-15T10:27:56.002+08:00",
+  "updatedAt": "2026-11-15T10:38:25.905+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19,
-    "feelsLikeC": 20,
-    "humidity": 79,
-    "windKph": 5.6,
+    "tempC": 19.3,
+    "feelsLikeC": 20.2,
+    "humidity": 78,
+    "windKph": 5.9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-15T10:27:56.002+08:00",
+    "observedAt": "2026-11-15T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-15T10:38:25.905+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-15T09:55:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T10:27:50.092+08:00",
+    "fetchedAt": "2026-11-15T10:38:05.340+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T10:27:50.701+08:00",
+      "fetchedAt": "2026-11-15T10:38:05.894+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -73,9 +73,9 @@
         }
       ],
       "fetchedAt": "2026-11-15T06:51:57.797+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "error": "Codex app-server 查询超时",
       "stale": true,
-      "lastAttemptAt": "2026-11-15T10:27:50.704+08:00"
+      "lastAttemptAt": "2026-11-15T10:38:05.897+08:00"
     },
     "mimo": {
       "ok": false,
@@ -83,7 +83,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T10:27:50.711+08:00",
+      "fetchedAt": "2026-11-15T10:38:05.904+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +93,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T10:27:50.712+08:00",
+      "fetchedAt": "2026-11-15T10:38:05.904+08:00",
       "error": "未启用",
       "disabled": true
     }
