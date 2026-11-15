@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T17:46:45.015+08:00",
+  "updatedAt": "2026-11-15T17:56:58.191+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-15T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-15T17:46:45.015+08:00",
+    "fetchedAt": "2026-11-15T17:56:58.191+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "百元包吃住还能看海景房？起底“低价团”围猎老年人内幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732414.shtml",
+        "publishedAt": "2026-11-15T17:44:24.000+08:00"
+      },
       {
         "title": "中共中央印发《中国共产党地方委员会工作条例》",
         "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732406.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "广西千年坭兴陶：以数智焕陶韵 借文创拓出海",
         "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732403.shtml",
         "publishedAt": "2026-11-15T17:19:35.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）一杯咖啡里的“APEC浓度”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732404.shtml",
-        "publishedAt": "2026-11-15T17:19:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T17:46:40.480+08:00",
+    "fetchedAt": "2026-11-15T17:56:55.574+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T17:46:41.220+08:00",
+      "fetchedAt": "2026-11-15T17:56:56.330+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T17:46:41.224+08:00",
+      "fetchedAt": "2026-11-15T17:56:56.334+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T17:46:41.234+08:00",
+      "fetchedAt": "2026-11-15T17:56:56.343+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T17:46:41.234+08:00",
+      "fetchedAt": "2026-11-15T17:56:56.343+08:00",
       "error": "未启用",
       "disabled": true
     }
