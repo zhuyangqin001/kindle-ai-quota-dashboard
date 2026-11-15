@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T14:22:53.669+08:00",
+  "updatedAt": "2026-11-15T16:14:36.642+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22,
-    "feelsLikeC": 22.8,
-    "humidity": 64,
-    "windKph": 5.5,
+    "tempC": 22.2,
+    "feelsLikeC": 22.7,
+    "humidity": 63,
+    "windKph": 6.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T14:15:00.000+08:00",
-    "fetchedAt": "2026-11-15T14:22:53.669+08:00",
+    "observedAt": "2026-11-15T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-15T16:14:36.642+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国产AI漫剧，抢占全球",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732321.shtml",
-        "publishedAt": "2026-11-15T13:55:30.000+08:00"
+        "title": "直播海报：共赴深圳之约——APEC“中国年”全媒体特别节目",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732369.shtml",
+        "publishedAt": "2026-11-15T16:08:29.000+08:00"
       },
       {
-        "title": "科技巨头押注AI制药",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732320.shtml",
-        "publishedAt": "2026-11-15T13:52:20.000+08:00"
+        "title": "（深圳APEC）APEC工商领导人峰会将发布深圳倡议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732363.shtml",
+        "publishedAt": "2026-11-15T16:06:39.000+08:00"
       },
       {
-        "title": "王牌飞行员王延周的传奇人生",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732318.shtml",
-        "publishedAt": "2026-11-15T13:04:55.000+08:00"
+        "title": "（走进中国乡村）走出深山变网红 沂蒙百花峪村焕发新生",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732362.shtml",
+        "publishedAt": "2026-11-15T16:05:01.000+08:00"
       },
       {
-        "title": "联合国秘书长古特雷斯：充分肯定中国在可再生能源领域作出的努力丨新闻会客厅",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732319.shtml",
-        "publishedAt": "2026-11-15T13:00:53.000+08:00"
+        "title": "从登山到“读山”：秦岭“轻户外”渐成风尚",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732361.shtml",
+        "publishedAt": "2026-11-15T16:03:33.000+08:00"
       },
       {
-        "title": "同心织就沂蒙韵 统战赋能布艺兴",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732317.shtml",
-        "publishedAt": "2026-11-15T12:57:33.000+08:00"
+        "title": "博物馆的“焕新”图景：文创出圈 科技造境",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732360.shtml",
+        "publishedAt": "2026-11-15T16:02:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T14:22:51.386+08:00",
+    "fetchedAt": "2026-11-15T16:14:32.835+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T14:22:51.852+08:00",
+      "fetchedAt": "2026-11-15T16:14:33.567+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T19:11:28.000+08:00"
+          "resetAt": "2026-11-15T19:11:29.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T14:22:51.854+08:00",
+      "fetchedAt": "2026-11-15T16:14:33.570+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T14:22:51.861+08:00",
+      "fetchedAt": "2026-11-15T16:14:33.579+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T14:22:51.861+08:00",
+      "fetchedAt": "2026-11-15T16:14:33.579+08:00",
       "error": "未启用",
       "disabled": true
     }
