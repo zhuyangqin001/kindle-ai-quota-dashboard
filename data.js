@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T08:13:53.174+08:00",
+  "updatedAt": "2026-11-15T08:24:07.727+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.4,
-    "feelsLikeC": 17.4,
-    "humidity": 92,
+    "tempC": 16.6,
+    "feelsLikeC": 17.6,
+    "humidity": 91,
     "windKph": 4.9,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-15T08:13:53.174+08:00",
+    "observedAt": "2026-11-15T08:15:00.000+08:00",
+    "fetchedAt": "2026-11-15T08:24:07.727+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "冬季进补误区：不是所有人都适合“大补” 一个办法简单自测",
+        "url": "https://www.chinanews.com.cn/life/2026/11-15/10732217.shtml",
+        "publishedAt": "2026-11-15T08:19:22.000+08:00"
+      },
       {
         "title": "高铁开窗会把人吸出去？新鲜空气从哪来？高铁“呼吸系统”揭秘",
         "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732215.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "两球零封马来西亚 中国男足终结三连败",
         "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732211.shtml",
         "publishedAt": "2026-11-15T06:20:27.000+08:00"
-      },
-      {
-        "title": "在柬埔寨金边“法语国家文化村”感受多元文化魅力",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732210.shtml",
-        "publishedAt": "2026-11-14T23:43:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T08:13:47.239+08:00",
+    "fetchedAt": "2026-11-15T08:24:01.876+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T08:13:47.675+08:00",
+      "fetchedAt": "2026-11-15T08:24:02.339+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-15T06:51:57.797+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-15T08:13:47.677+08:00"
+      "lastAttemptAt": "2026-11-15T08:24:02.342+08:00"
     },
     "mimo": {
       "ok": false,
@@ -83,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T08:13:47.682+08:00",
+      "fetchedAt": "2026-11-15T08:24:02.347+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T08:13:47.682+08:00",
+      "fetchedAt": "2026-11-15T08:24:02.347+08:00",
       "error": "未启用",
       "disabled": true
     }
