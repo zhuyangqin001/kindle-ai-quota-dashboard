@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T02:17:14.633+08:00",
+  "updatedAt": "2026-11-16T02:27:27.090+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-16T02:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T02:17:14.633+08:00",
+    "fetchedAt": "2026-11-16T02:27:27.091+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-15T22:46:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T02:17:08.512+08:00",
+    "fetchedAt": "2026-11-16T02:27:24.352+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-16T02:17:09.260+08:00",
+      "fetchedAt": "2026-11-16T02:27:25.114+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-16T06:46:35.000+08:00"
+          "resetAt": "2026-11-16T07:27:26.000+08:00"
         },
         {
           "name": "周",
@@ -72,10 +72,8 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T01:46:33.663+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
-      "stale": true,
-      "lastAttemptAt": "2026-11-16T02:17:09.263+08:00"
+      "fetchedAt": "2026-11-16T02:27:25.117+08:00",
+      "error": null
     },
     "mimo": {
       "ok": false,
@@ -83,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T02:17:09.272+08:00",
+      "fetchedAt": "2026-11-16T02:27:25.126+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T02:17:09.273+08:00",
+      "fetchedAt": "2026-11-16T02:27:25.126+08:00",
       "error": "未启用",
       "disabled": true
     }
