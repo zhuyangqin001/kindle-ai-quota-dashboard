@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-15T08:03:38.743+08:00",
+  "updatedAt": "2026-11-15T08:13:53.174+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.8,
-    "feelsLikeC": 16.7,
-    "humidity": 93,
-    "windKph": 4.2,
-    "windDir": "西北风",
+    "tempC": 16.4,
+    "feelsLikeC": 17.4,
+    "humidity": 92,
+    "windKph": 4.9,
+    "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-15T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-15T08:03:38.744+08:00",
+    "fetchedAt": "2026-11-15T08:13:53.174+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-14T23:43:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T08:03:32.942+08:00",
+    "fetchedAt": "2026-11-15T08:13:47.239+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T08:03:33.407+08:00",
+      "fetchedAt": "2026-11-15T08:13:47.675+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -75,7 +75,7 @@
       "fetchedAt": "2026-11-15T06:51:57.797+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-15T08:03:33.410+08:00"
+      "lastAttemptAt": "2026-11-15T08:13:47.677+08:00"
     },
     "mimo": {
       "ok": false,
@@ -83,7 +83,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T08:03:33.415+08:00",
+      "fetchedAt": "2026-11-15T08:13:47.682+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +93,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T08:03:33.415+08:00",
+      "fetchedAt": "2026-11-15T08:13:47.682+08:00",
       "error": "未启用",
       "disabled": true
     }
