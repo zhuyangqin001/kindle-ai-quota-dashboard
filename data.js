@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T08:34:22.027+08:00",
+  "updatedAt": "2026-11-15T08:44:36.378+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-15T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-15T08:34:22.028+08:00",
+    "fetchedAt": "2026-11-15T08:44:36.378+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "当AI剧集走上领奖台，中国科幻作家如何思考未来？",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732219.shtml",
+        "publishedAt": "2026-11-15T08:35:05.000+08:00"
+      },
       {
         "title": "提升气候韧性 四川在COP31大会上分享应对气候变化创新案例",
         "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732214.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "高铁开窗会把人吸出去？新鲜空气从哪来？高铁“呼吸系统”揭秘",
         "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732215.shtml",
         "publishedAt": "2026-11-15T07:34:53.000+08:00"
-      },
-      {
-        "title": "11月15日新闻早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-15/10732213.shtml",
-        "publishedAt": "2026-11-15T07:16:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T08:34:16.211+08:00",
+    "fetchedAt": "2026-11-15T08:44:30.538+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T08:34:16.684+08:00",
+      "fetchedAt": "2026-11-15T08:44:31.005+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-15T06:51:57.797+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-15T08:34:16.686+08:00"
+      "lastAttemptAt": "2026-11-15T08:44:31.008+08:00"
     },
     "mimo": {
       "ok": false,
@@ -83,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T08:34:16.691+08:00",
+      "fetchedAt": "2026-11-15T08:44:31.014+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T08:34:16.692+08:00",
+      "fetchedAt": "2026-11-15T08:44:31.014+08:00",
       "error": "未启用",
       "disabled": true
     }
