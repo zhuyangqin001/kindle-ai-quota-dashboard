@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-15T16:24:56.820+08:00",
+  "updatedAt": "2026-11-15T17:05:48.423+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.9,
-    "feelsLikeC": 22.5,
-    "humidity": 64,
-    "windKph": 6.9,
-    "windDir": "北风",
+    "tempC": 20.8,
+    "feelsLikeC": 21.5,
+    "humidity": 71,
+    "windKph": 7.5,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-15T16:24:56.820+08:00",
+    "observedAt": "2026-11-15T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-15T17:05:48.423+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从武王墩到异国餐桌 一碗淮南牛肉汤熬出千年江淮烟火",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732367.shtml",
-        "publishedAt": "2026-11-15T16:15:32.000+08:00"
+        "title": "“中国中小电机之都”福建福安：产业向“新” 发展向“兴”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732384.shtml",
+        "publishedAt": "2026-11-15T17:00:32.000+08:00"
       },
       {
-        "title": "海外华文媒体代表：天天挂在嘴边的成语“老家”原来在淮南",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-15/10732366.shtml",
-        "publishedAt": "2026-11-15T16:15:28.000+08:00"
+        "title": "3.2万名跑者竞速2026南昌马拉松",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732386.shtml",
+        "publishedAt": "2026-11-15T17:00:30.000+08:00"
       },
       {
-        "title": "（深圳APEC）风光绿电点亮APEC会场，“奇迹之城”深耕绿色转型",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732365.shtml",
-        "publishedAt": "2026-11-15T16:14:40.000+08:00"
+        "title": "2026年医保商保“双目录”在江苏苏州发布 医保目录新增107种药品",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732382.shtml",
+        "publishedAt": "2026-11-15T16:59:18.000+08:00"
       },
       {
-        "title": "中法专家聚山西为晋祠申遗提供学术支撑",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732364.shtml",
-        "publishedAt": "2026-11-15T16:13:30.000+08:00"
+        "title": "安徽淮南：民众周末走进博物馆探寻地球生命起源",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732357.shtml",
+        "publishedAt": "2026-11-15T16:34:37.000+08:00"
       },
       {
-        "title": "近镜头｜习近平主席妙论亚太合作之道",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732342.shtml",
-        "publishedAt": "2026-11-15T16:12:03.000+08:00"
+        "title": "天涯共此诗",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-15/10732389.shtml",
+        "publishedAt": "2026-11-15T16:30:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T16:24:51.896+08:00",
+    "fetchedAt": "2026-11-15T17:05:43.566+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T16:24:52.638+08:00",
+      "fetchedAt": "2026-11-15T17:05:44.335+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T16:24:52.641+08:00",
+      "fetchedAt": "2026-11-15T17:05:44.338+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T16:24:52.650+08:00",
+      "fetchedAt": "2026-11-15T17:05:44.348+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T16:24:52.651+08:00",
+      "fetchedAt": "2026-11-15T17:05:44.348+08:00",
       "error": "未启用",
       "disabled": true
     }
