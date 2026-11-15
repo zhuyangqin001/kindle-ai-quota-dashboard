@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-15T10:38:25.905+08:00",
+  "updatedAt": "2026-11-15T14:22:53.669+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.3,
-    "feelsLikeC": 20.2,
-    "humidity": 78,
-    "windKph": 5.9,
-    "windDir": "西北风",
+    "tempC": 22,
+    "feelsLikeC": 22.8,
+    "humidity": 64,
+    "windKph": 5.5,
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-15T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-15T10:38:25.905+08:00",
+    "observedAt": "2026-11-15T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-15T14:22:53.669+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "聚焦深化全民阅读 “十五五·同心聚力自贸港”七期沙龙举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732248.shtml",
-        "publishedAt": "2026-11-15T10:16:48.000+08:00"
+        "title": "国产AI漫剧，抢占全球",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732321.shtml",
+        "publishedAt": "2026-11-15T13:55:30.000+08:00"
       },
       {
-        "title": "刺绣高技能人才集群培养计划在湘启动 产教联动共育非遗绣才",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732249.shtml",
-        "publishedAt": "2026-11-15T10:16:46.000+08:00"
+        "title": "科技巨头押注AI制药",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732320.shtml",
+        "publishedAt": "2026-11-15T13:52:20.000+08:00"
       },
       {
-        "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732253.shtml",
-        "publishedAt": "2026-11-15T10:13:42.000+08:00"
+        "title": "王牌飞行员王延周的传奇人生",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732318.shtml",
+        "publishedAt": "2026-11-15T13:04:55.000+08:00"
       },
       {
-        "title": "直播海报：2026年APEC工商界活动专题新闻发布会",
-        "url": "https://www.chinanews.com.cn/kong/2026/11-15/10732252.shtml",
-        "publishedAt": "2026-11-15T10:08:44.000+08:00"
+        "title": "联合国秘书长古特雷斯：充分肯定中国在可再生能源领域作出的努力丨新闻会客厅",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732319.shtml",
+        "publishedAt": "2026-11-15T13:00:53.000+08:00"
       },
       {
-        "title": "职场年轻人谨防胃肠“亮红灯” 专家：条件允许尽量自制餐食",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-15/10732247.shtml",
-        "publishedAt": "2026-11-15T09:55:47.000+08:00"
+        "title": "同心织就沂蒙韵 统战赋能布艺兴",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-15/10732317.shtml",
+        "publishedAt": "2026-11-15T12:57:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T10:38:05.340+08:00",
+    "fetchedAt": "2026-11-15T14:22:51.386+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T10:38:05.894+08:00",
+      "fetchedAt": "2026-11-15T14:22:51.852+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,18 +64,16 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T11:51:59.000+08:00"
+          "resetAt": "2026-11-15T19:11:28.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 14,
-          "resetAt": "2026-11-21T15:50:57.000+08:00"
+          "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T06:51:57.797+08:00",
-      "error": "Codex app-server 查询超时",
-      "stale": true,
-      "lastAttemptAt": "2026-11-15T10:38:05.897+08:00"
+      "fetchedAt": "2026-11-15T14:22:51.854+08:00",
+      "error": null
     },
     "mimo": {
       "ok": false,
@@ -83,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T10:38:05.904+08:00",
+      "fetchedAt": "2026-11-15T14:22:51.861+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T10:38:05.904+08:00",
+      "fetchedAt": "2026-11-15T14:22:51.861+08:00",
       "error": "未启用",
       "disabled": true
     }
