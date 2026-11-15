@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T18:47:57.468+08:00",
+  "updatedAt": "2026-11-15T18:58:09.903+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-15T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-15T18:47:57.468+08:00",
+    "fetchedAt": "2026-11-15T18:58:09.903+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "南京老机场跑道变身文化园地 战机模型吸睛",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732411.shtml",
-        "publishedAt": "2026-11-15T18:13:00.000+08:00"
+        "title": "中西部首次落地 海南航空在渝开通“跨航司国际通程中转”业务",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732428.shtml",
+        "publishedAt": "2026-11-15T18:50:10.000+08:00"
       },
       {
-        "title": "第49届东盟峰会在菲律宾马尼拉开幕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732417.shtml",
-        "publishedAt": "2026-11-15T18:12:38.000+08:00"
+        "title": "从羊倌到供货商 甘肃临夏把牛羊“吃干榨净”有一套",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732425.shtml",
+        "publishedAt": "2026-11-15T18:48:22.000+08:00"
       },
       {
-        "title": "河南登封：冬染少林客如织",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732410.shtml",
-        "publishedAt": "2026-11-15T18:11:48.000+08:00"
+        "title": "（经济观察）COP31中场：气候行动“知易行难”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732423.shtml",
+        "publishedAt": "2026-11-15T18:47:26.000+08:00"
       },
       {
-        "title": "全美突发航班停飞，美国交通部长被要求辞职",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732418.shtml",
-        "publishedAt": "2026-11-15T18:07:00.000+08:00"
+        "title": "（深圳APEC）从深圳港口到海外市场，跨境物流链升级通达亚太",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732421.shtml",
+        "publishedAt": "2026-11-15T18:47:20.000+08:00"
       },
       {
-        "title": "广西仫佬族乡金色稻田成画卷 各族民众共赴丰收之约",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-15/10732407.shtml",
-        "publishedAt": "2026-11-15T18:03:34.000+08:00"
+        "title": "（深圳APEC）从“APEC蓝”到“APEC紫”，主场外交“色彩出圈”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732419.shtml",
+        "publishedAt": "2026-11-15T18:43:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-15T18:47:54.615+08:00",
+    "fetchedAt": "2026-11-15T18:58:07.445+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-15T18:47:55.386+08:00",
+      "fetchedAt": "2026-11-15T18:58:08.235+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-15T19:11:28.000+08:00"
+          "resetAt": "2026-11-15T19:11:29.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 14,
-          "resetAt": "2026-11-21T15:50:57.000+08:00"
+          "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-15T18:47:55.389+08:00",
+      "fetchedAt": "2026-11-15T18:58:08.238+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T18:47:55.398+08:00",
+      "fetchedAt": "2026-11-15T18:58:08.248+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-15T18:47:55.399+08:00",
+      "fetchedAt": "2026-11-15T18:58:08.248+08:00",
       "error": "未启用",
       "disabled": true
     }
