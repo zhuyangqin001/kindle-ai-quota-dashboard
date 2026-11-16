@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-16T13:08:53.665+08:00",
+  "updatedAt": "2026-11-16T13:29:11.459+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.9,
+    "tempC": 22,
     "feelsLikeC": 22.4,
-    "humidity": 64,
-    "windKph": 8.6,
+    "humidity": 63,
+    "windKph": 9,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-16T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T13:08:53.666+08:00",
+    "observedAt": "2026-11-16T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-16T13:29:11.460+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（深圳APEC）中国深圳迎接APEC",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210895.shtml",
+        "publishedAt": "2026-11-16T13:24:48.000+08:00"
+      },
+      {
+        "title": "一张自拍照，AI给癌症患者“算命”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732716.shtml",
+        "publishedAt": "2026-11-16T13:11:50.000+08:00"
+      },
+      {
+        "title": "海地遇刺总统遗孀登记为总统选举候选人",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732711.shtml",
+        "publishedAt": "2026-11-16T13:11:24.000+08:00"
+      },
+      {
+        "title": "李强出席第29次中国－东盟领导人会议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732713.shtml",
+        "publishedAt": "2026-11-16T13:05:30.000+08:00"
+      },
+      {
         "title": "我国自主研发电子航海日志系统今天正式发布",
         "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732710.shtml",
         "publishedAt": "2026-11-16T12:47:09.000+08:00"
-      },
-      {
-        "title": "APEC进入深圳时间：花团织锦绣 鹏城迎客来",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732700.shtml",
-        "publishedAt": "2026-11-16T12:39:13.000+08:00"
-      },
-      {
-        "title": "自媒体“陪跑”起号 一场精心包装的变现骗局",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732709.shtml",
-        "publishedAt": "2026-11-16T12:33:08.000+08:00"
-      },
-      {
-        "title": "广西南宁：异木棉绚烂盛开 成初冬亮丽风景",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-16/10732692.shtml",
-        "publishedAt": "2026-11-16T12:25:06.000+08:00"
-      },
-      {
-        "title": "我国牵头制定的覆雪冰模型试验国际标准发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732708.shtml",
-        "publishedAt": "2026-11-16T12:24:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T13:08:51.079+08:00",
+    "fetchedAt": "2026-11-16T13:29:08.828+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-16T13:08:51.791+08:00",
+      "fetchedAt": "2026-11-16T13:29:09.589+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T13:08:51.793+08:00",
+      "fetchedAt": "2026-11-16T13:29:09.592+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T13:08:51.802+08:00",
+      "fetchedAt": "2026-11-16T13:29:09.601+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T13:08:51.802+08:00",
+      "fetchedAt": "2026-11-16T13:29:09.601+08:00",
       "error": "未启用",
       "disabled": true
     }
