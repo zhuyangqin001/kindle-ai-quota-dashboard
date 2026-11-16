@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-16T14:40:17.592+08:00",
+  "updatedAt": "2026-11-16T15:00:35.267+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 22.1,
-    "feelsLikeC": 22.3,
-    "humidity": 62,
-    "windKph": 8.4,
-    "windDir": "东北风",
+    "tempC": 21.7,
+    "feelsLikeC": 21.9,
+    "humidity": 63,
+    "windKph": 8.2,
+    "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-16T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T14:40:17.592+08:00",
+    "observedAt": "2026-11-16T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-16T15:00:35.267+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全国青少年匹克球选手广州同台“比武”",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-16/10732735.shtml",
-        "publishedAt": "2026-11-16T14:31:11.000+08:00"
+        "title": "六项水上北斗领域国家标准发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732778.shtml",
+        "publishedAt": "2026-11-16T14:56:26.000+08:00"
       },
       {
-        "title": "侨见深圳新生代：以针线织就山海韵，以算力链通四海潮",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-16/10732736.shtml",
-        "publishedAt": "2026-11-16T14:30:03.000+08:00"
+        "title": "TVB剧《玫瑰战争》开播",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732772.shtml",
+        "publishedAt": "2026-11-16T14:48:24.000+08:00"
       },
       {
-        "title": "10月中国一线城市二手房价续升 各线房价同比降幅收窄",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732756.shtml",
-        "publishedAt": "2026-11-16T14:29:03.000+08:00"
+        "title": "延边歌舞团以文艺精品促进各民族交往交流交融",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732767.shtml",
+        "publishedAt": "2026-11-16T14:48:16.000+08:00"
       },
       {
-        "title": "《丁未年》特种邮票图稿发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732752.shtml",
-        "publishedAt": "2026-11-16T14:26:28.000+08:00"
+        "title": "第16届“亚洲物流航运及空运会议”在港揭幕 共探全球供应链新格局",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10732753.shtml",
+        "publishedAt": "2026-11-16T14:46:52.000+08:00"
       },
       {
-        "title": "2026年京澳高校足球邀请赛首次分设澳门、横琴两站",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-16/10732747.shtml",
-        "publishedAt": "2026-11-16T14:24:38.000+08:00"
+        "title": "美国新奥尔良港一游船与油轮相撞后部分沉没",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210900.shtml",
+        "publishedAt": "2026-11-16T14:46:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T14:40:14.519+08:00",
+    "fetchedAt": "2026-11-16T15:00:32.586+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-16T14:40:15.255+08:00",
+      "fetchedAt": "2026-11-16T15:00:33.355+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@
         {
           "name": "周",
           "usedPct": 24,
-          "resetAt": "2026-11-21T15:50:57.000+08:00"
+          "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T14:40:15.258+08:00",
+      "fetchedAt": "2026-11-16T15:00:33.359+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T14:40:15.267+08:00",
+      "fetchedAt": "2026-11-16T15:00:33.368+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T14:40:15.267+08:00",
+      "fetchedAt": "2026-11-16T15:00:33.369+08:00",
       "error": "未启用",
       "disabled": true
     }
