@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T16:42:49.665+08:00",
+  "updatedAt": "2026-11-16T17:03:24.547+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.9,
-    "feelsLikeC": 21.7,
-    "humidity": 71,
-    "windKph": 7.1,
+    "tempC": 20.2,
+    "feelsLikeC": 21.2,
+    "humidity": 77,
+    "windKph": 7.2,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-16T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-16T16:42:49.665+08:00",
+    "observedAt": "2026-11-16T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-16T17:03:24.547+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "瓦莱丽·希基：中国绿色财税金融经验可为其他发展中国家提供借鉴",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732857.shtml",
-        "publishedAt": "2026-11-16T16:37:06.000+08:00"
+        "title": "（深圳APEC）皇岗口岸推出APEC专用通道便利参会人士通关",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210908.shtml",
+        "publishedAt": "2026-11-16T16:56:35.000+08:00"
       },
       {
-        "title": "深圳：稳中向好，为中国经济写下鲜活注脚",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732867.shtml",
-        "publishedAt": "2026-11-16T16:36:51.000+08:00"
+        "title": "巴基斯坦中巴教育文化中心校长马斌：让华文教师扎根南亚课堂 育好中巴交流“架桥人”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-16/10732875.shtml",
+        "publishedAt": "2026-11-16T16:56:33.000+08:00"
       },
       {
-        "title": "江西首列专载汽车成套散件中亚班列开行",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-16/10732858.shtml",
-        "publishedAt": "2026-11-16T16:36:47.000+08:00"
+        "title": "民进宜春市委会赴明月山开展优化营商环境民主监督调研",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732873.shtml",
+        "publishedAt": "2026-11-16T16:55:46.000+08:00"
       },
       {
-        "title": "我国中小学校、幼儿园将聘任健康副校（园）长",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-16/10732819.shtml",
-        "publishedAt": "2026-11-16T16:35:49.000+08:00"
+        "title": "铸牢共同体 中华一家亲丨一朵红花的“三级跳”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732872.shtml",
+        "publishedAt": "2026-11-16T16:47:52.000+08:00"
       },
       {
-        "title": "第十四届中国中部投资贸易博览会将于11月21日至23日举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732813.shtml",
-        "publishedAt": "2026-11-16T16:35:33.000+08:00"
+        "title": "新疆：团结同心书写共富华章",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732871.shtml",
+        "publishedAt": "2026-11-16T16:44:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T16:42:43.348+08:00",
+    "fetchedAt": "2026-11-16T17:03:22.049+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-16T16:42:44.105+08:00",
+      "fetchedAt": "2026-11-16T17:03:22.704+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
-          "resetAt": "2026-11-16T16:54:35.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-16T22:03:24.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T16:42:44.108+08:00",
+      "fetchedAt": "2026-11-16T17:03:22.706+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T16:42:44.117+08:00",
+      "fetchedAt": "2026-11-16T17:03:22.711+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T16:42:44.118+08:00",
+      "fetchedAt": "2026-11-16T17:03:22.711+08:00",
       "error": "未启用",
       "disabled": true
     }
