@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T11:47:24.970+08:00",
+  "updatedAt": "2026-11-16T11:57:42.729+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-16T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-16T11:47:24.970+08:00",
+    "fetchedAt": "2026-11-16T11:57:42.729+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732698.shtml",
+        "publishedAt": "2026-11-16T11:53:44.000+08:00"
+      },
+      {
+        "title": "A股午评：超3500只个股飘绿，三大指数集体收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732697.shtml",
+        "publishedAt": "2026-11-16T11:48:18.000+08:00"
+      },
+      {
+        "title": "“戏聚天津”，在小洋楼里沉浸式入戏",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732696.shtml",
+        "publishedAt": "2026-11-16T11:45:46.000+08:00"
+      },
       {
         "title": "10万候鸟的选择——深圳向亚太亮出生态名片",
         "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732695.shtml",
@@ -28,24 +43,9 @@
         "title": "墨西哥总统辛鲍姆抵达深圳 将出席APEC领导人非正式会议",
         "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732694.shtml",
         "publishedAt": "2026-11-16T11:38:05.000+08:00"
-      },
-      {
-        "title": "直播外链：墨西哥总统辛鲍姆抵达深圳",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-16/10732693.shtml",
-        "publishedAt": "2026-11-16T11:37:25.000+08:00"
-      },
-      {
-        "title": "河南商丘虞城县：多措并举 提升统一战线宣传工作质效",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732686.shtml",
-        "publishedAt": "2026-11-16T11:35:59.000+08:00"
-      },
-      {
-        "title": "2026年APEC工商领导人峰会将举行 这些亮点不容错过",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732691.shtml",
-        "publishedAt": "2026-11-16T11:35:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T11:47:21.003+08:00",
+    "fetchedAt": "2026-11-16T11:57:39.977+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-16T11:47:21.556+08:00",
+      "fetchedAt": "2026-11-16T11:57:40.785+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-16T16:47:24.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-11-16T16:54:35.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 23,
-          "resetAt": "2026-11-21T15:50:58.000+08:00"
+          "usedPct": 24,
+          "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T11:47:21.558+08:00",
+      "fetchedAt": "2026-11-16T11:57:40.789+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T11:47:21.564+08:00",
+      "fetchedAt": "2026-11-16T11:57:40.801+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T11:47:21.564+08:00",
+      "fetchedAt": "2026-11-16T11:57:40.801+08:00",
       "error": "未启用",
       "disabled": true
     }
