@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T05:47:35.752+08:00",
+  "updatedAt": "2026-11-17T05:57:44.465+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-17T05:45:00.000+08:00",
-    "fetchedAt": "2026-11-17T05:47:35.752+08:00",
+    "fetchedAt": "2026-11-17T05:57:44.465+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "伊朗官方否认伊斯法罕省启动防空系统",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733163.shtml",
+        "publishedAt": "2026-11-17T05:53:39.000+08:00"
+      },
+      {
+        "title": "中方敦促推进叙利亚包容治理进程",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733162.shtml",
+        "publishedAt": "2026-11-17T05:52:19.000+08:00"
+      },
       {
         "title": "波黑新一届主席团成员宣誓就职",
         "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733161.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "亚太工商界看好APEC机遇：深化开放合作，共享发展红利",
         "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733159.shtml",
         "publishedAt": "2026-11-17T00:30:52.000+08:00"
-      },
-      {
-        "title": "第十四届中部博览会开幕在即 助力中部地区加快崛起",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733158.shtml",
-        "publishedAt": "2026-11-17T00:24:11.000+08:00"
-      },
-      {
-        "title": "欧盟对俄罗斯发起新一轮制裁列单145名个人和实体",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10733157.shtml",
-        "publishedAt": "2026-11-16T23:54:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T05:47:33.932+08:00",
+    "fetchedAt": "2026-11-17T05:57:42.507+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-17T05:47:34.631+08:00",
+      "fetchedAt": "2026-11-17T05:57:43.227+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T10:47:35.000+08:00"
+          "resetAt": "2026-11-17T10:57:44.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 55,
-          "resetAt": "2026-11-21T15:50:57.000+08:00"
+          "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T05:47:34.635+08:00",
+      "fetchedAt": "2026-11-17T05:57:43.230+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T05:47:34.644+08:00",
+      "fetchedAt": "2026-11-17T05:57:43.240+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T05:47:34.645+08:00",
+      "fetchedAt": "2026-11-17T05:57:43.240+08:00",
       "error": "未启用",
       "disabled": true
     }
