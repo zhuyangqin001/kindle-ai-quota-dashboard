@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T10:05:20.121+08:00",
+  "updatedAt": "2026-11-16T11:06:24.178+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.5,
-    "feelsLikeC": 18.9,
-    "humidity": 67,
-    "windKph": 11.2,
+    "tempC": 20.4,
+    "feelsLikeC": 20.5,
+    "humidity": 68,
+    "windKph": 8.1,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-16T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T10:05:20.121+08:00",
+    "observedAt": "2026-11-16T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-16T11:06:24.179+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "西部教师教育高质量发展论坛落地宁夏师范大学 探寻区域育人新路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732605.shtml",
-        "publishedAt": "2026-11-16T09:56:12.000+08:00"
+        "title": "数说APEC丨中国贸易伙伴网如何越织越密？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732672.shtml",
+        "publishedAt": "2026-11-16T11:02:31.000+08:00"
       },
       {
-        "title": "以色列爆料“伊朗近期可能袭击特朗普”，特朗普减少公开活动，贝森特、鲁比奥等高官住进“安全屋”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732610.shtml",
-        "publishedAt": "2026-11-16T09:54:46.000+08:00"
+        "title": "日本民众举行集会 反对高市政权扩军修宪",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732670.shtml",
+        "publishedAt": "2026-11-16T11:00:29.000+08:00"
       },
       {
-        "title": "农银债市宝 让投资债券触手可及",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732598.shtml",
-        "publishedAt": "2026-11-16T09:53:54.000+08:00"
+        "title": "朝中社发文谴责日本拥核野心",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732667.shtml",
+        "publishedAt": "2026-11-16T10:58:27.000+08:00"
       },
       {
-        "title": "村民组队乡亲助威 湖南桃江“村拔”赛出乡村体育热",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732604.shtml",
-        "publishedAt": "2026-11-16T09:53:12.000+08:00"
+        "title": "推动新型储能进入市场化发展阶段(锐财经)",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732668.shtml",
+        "publishedAt": "2026-11-16T10:57:57.000+08:00"
       },
       {
-        "title": "官方通报“湘超”球迷拉侮辱性横幅：2人被行拘",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732584.shtml",
-        "publishedAt": "2026-11-16T09:51:34.000+08:00"
+        "title": "上海加码涉外经贸急需紧缺人才培养",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732652.shtml",
+        "publishedAt": "2026-11-16T10:57:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T10:05:16.537+08:00",
+    "fetchedAt": "2026-11-16T11:06:16.672+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-16T10:05:17.290+08:00",
+      "fetchedAt": "2026-11-16T11:06:17.423+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -73,7 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-16T10:05:17.293+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: GET https://chatgpt.com/backend-api/wham/usage failed: 403 Forbidden; content-type=text/html; charset=UTF-8; body=<html>\n  <head>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n",
+      "stale": true,
+      "lastAttemptAt": "2026-11-16T11:06:17.426+08:00"
     },
     "mimo": {
       "ok": false,
@@ -81,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T10:05:17.302+08:00",
+      "fetchedAt": "2026-11-16T11:06:17.436+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T10:05:17.303+08:00",
+      "fetchedAt": "2026-11-16T11:06:17.437+08:00",
       "error": "未启用",
       "disabled": true
     }
