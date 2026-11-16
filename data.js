@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T15:10:47.984+08:00",
+  "updatedAt": "2026-11-16T15:21:02.449+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 21.7,
+    "description": "雨",
+    "iconKey": "rain",
+    "tempC": 21.5,
     "feelsLikeC": 21.9,
-    "humidity": 63,
-    "windKph": 8.2,
+    "humidity": 65,
+    "windKph": 7.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-16T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T15:10:47.984+08:00",
+    "observedAt": "2026-11-16T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-16T15:21:02.449+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "10月份中国工业机器人产量同比增长26%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732784.shtml",
+        "publishedAt": "2026-11-16T15:16:51.000+08:00"
+      },
+      {
+        "title": "印尼总统就跨境烟霾影响向邻国道歉",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732755.shtml",
+        "publishedAt": "2026-11-16T15:08:35.000+08:00"
+      },
+      {
+        "title": "我国牵头的首个智能制造仿真技术国际标准正式发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732782.shtml",
+        "publishedAt": "2026-11-16T15:07:13.000+08:00"
+      },
+      {
+        "title": "山西晋中未来五年推进农村供水与农田灌溉“双保障、双增效”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732777.shtml",
+        "publishedAt": "2026-11-16T15:06:49.000+08:00"
+      },
+      {
         "title": "四川扩投资提速：前10月省重点项目完成投资超8000亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732775.shtml",
         "publishedAt": "2026-11-16T15:04:27.000+08:00"
-      },
-      {
-        "title": "我国中小学校、幼儿园将聘任健康副校（园）长",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-16/10732781.shtml",
-        "publishedAt": "2026-11-16T15:02:32.000+08:00"
-      },
-      {
-        "title": "中国国家统计局：实现全年经济发展预期目标有支撑有条件",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732774.shtml",
-        "publishedAt": "2026-11-16T15:01:20.000+08:00"
-      },
-      {
-        "title": "山东东营：G220东深线上跨张东铁路万吨桥梁顺利完成转体",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732776.shtml",
-        "publishedAt": "2026-11-16T15:00:54.000+08:00"
-      },
-      {
-        "title": "中国国家统计局：房地产市场出现一定积极变化",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732773.shtml",
-        "publishedAt": "2026-11-16T14:59:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T15:10:45.081+08:00",
+    "fetchedAt": "2026-11-16T15:20:59.797+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-16T15:10:45.464+08:00",
+      "fetchedAt": "2026-11-16T15:21:00.545+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T15:10:45.466+08:00",
+      "fetchedAt": "2026-11-16T15:21:00.548+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T15:10:45.471+08:00",
+      "fetchedAt": "2026-11-16T15:21:00.556+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T15:10:45.471+08:00",
+      "fetchedAt": "2026-11-16T15:21:00.557+08:00",
       "error": "未启用",
       "disabled": true
     }
