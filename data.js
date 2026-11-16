@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T17:03:24.547+08:00",
+  "updatedAt": "2026-11-16T20:26:55.307+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.2,
-    "feelsLikeC": 21.2,
-    "humidity": 77,
-    "windKph": 7.2,
-    "windDir": "东北风",
+    "tempC": 17.9,
+    "feelsLikeC": 18.5,
+    "humidity": 90,
+    "windKph": 9.8,
+    "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-16T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-16T17:03:24.547+08:00",
+    "observedAt": "2026-11-16T20:15:00.000+08:00",
+    "fetchedAt": "2026-11-16T20:26:55.307+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（深圳APEC）皇岗口岸推出APEC专用通道便利参会人士通关",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210908.shtml",
-        "publishedAt": "2026-11-16T16:56:35.000+08:00"
+        "title": "2025年广东林业产业总产值超万亿元",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10733016.shtml",
+        "publishedAt": "2026-11-16T20:24:16.000+08:00"
       },
       {
-        "title": "巴基斯坦中巴教育文化中心校长马斌：让华文教师扎根南亚课堂 育好中巴交流“架桥人”",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-16/10732875.shtml",
-        "publishedAt": "2026-11-16T16:56:33.000+08:00"
+        "title": "从馄饨店走出来的新大众文艺作家常玫瑰：烟火有诗情 小草也开花",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10733008.shtml",
+        "publishedAt": "2026-11-16T20:22:54.000+08:00"
       },
       {
-        "title": "民进宜春市委会赴明月山开展优化营商环境民主监督调研",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732873.shtml",
-        "publishedAt": "2026-11-16T16:55:46.000+08:00"
+        "title": "粤港合办纪念香港达德学院创校80周年展览 96岁校友寄语后辈心怀家国",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10733021.shtml",
+        "publishedAt": "2026-11-16T20:22:14.000+08:00"
       },
       {
-        "title": "铸牢共同体 中华一家亲丨一朵红花的“三级跳”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732872.shtml",
-        "publishedAt": "2026-11-16T16:47:52.000+08:00"
+        "title": "广东携超5.5万个岗位再赴赣揽人才",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-16/10733018.shtml",
+        "publishedAt": "2026-11-16T20:22:02.000+08:00"
       },
       {
-        "title": "新疆：团结同心书写共富华章",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732871.shtml",
-        "publishedAt": "2026-11-16T16:44:56.000+08:00"
+        "title": "“沈阳故宫 光影百年”图片展开展 呈现百年文博路",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10733004.shtml",
+        "publishedAt": "2026-11-16T20:21:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T17:03:22.049+08:00",
+    "fetchedAt": "2026-11-16T20:26:52.300+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-16T17:03:22.704+08:00",
+      "fetchedAt": "2026-11-16T20:26:53.062+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-16T22:03:24.000+08:00"
+          "usedPct": 42,
+          "resetAt": "2026-11-16T22:06:25.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 24,
-          "resetAt": "2026-11-21T15:50:58.000+08:00"
+          "usedPct": 30,
+          "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T17:03:22.706+08:00",
+      "fetchedAt": "2026-11-16T20:26:53.065+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T17:03:22.711+08:00",
+      "fetchedAt": "2026-11-16T20:26:53.075+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T17:03:22.711+08:00",
+      "fetchedAt": "2026-11-16T20:26:53.075+08:00",
       "error": "未启用",
       "disabled": true
     }
