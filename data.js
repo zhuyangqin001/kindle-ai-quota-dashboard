@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T15:21:02.449+08:00",
+  "updatedAt": "2026-11-16T15:41:22.450+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 21.5,
-    "feelsLikeC": 21.9,
-    "humidity": 65,
-    "windKph": 7.9,
+    "tempC": 21.3,
+    "feelsLikeC": 21.8,
+    "humidity": 68,
+    "windKph": 7.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-16T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T15:21:02.449+08:00",
+    "observedAt": "2026-11-16T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-16T15:41:22.450+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "10月份中国工业机器人产量同比增长26%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732784.shtml",
-        "publishedAt": "2026-11-16T15:16:51.000+08:00"
+        "title": "2026年APEC工商界活动形成14份成果文件",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732802.shtml",
+        "publishedAt": "2026-11-16T15:36:52.000+08:00"
       },
       {
-        "title": "印尼总统就跨境烟霾影响向邻国道歉",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10732755.shtml",
-        "publishedAt": "2026-11-16T15:08:35.000+08:00"
+        "title": "中方：敦促日本早日彻底清除日遗化武毒害，还中国人民以净土",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732798.shtml",
+        "publishedAt": "2026-11-16T15:34:30.000+08:00"
       },
       {
-        "title": "我国牵头的首个智能制造仿真技术国际标准正式发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732782.shtml",
-        "publishedAt": "2026-11-16T15:07:13.000+08:00"
+        "title": "美食文旅节目《寻味山海》在辽宁海城品人与自然的和谐共生",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10732793.shtml",
+        "publishedAt": "2026-11-16T15:34:28.000+08:00"
       },
       {
-        "title": "山西晋中未来五年推进农村供水与农田灌溉“双保障、双增效”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732777.shtml",
-        "publishedAt": "2026-11-16T15:06:49.000+08:00"
+        "title": "AI博主如何交税、要交哪些税？专家解读",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-16/10732797.shtml",
+        "publishedAt": "2026-11-16T15:33:00.000+08:00"
       },
       {
-        "title": "四川扩投资提速：前10月省重点项目完成投资超8000亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732775.shtml",
-        "publishedAt": "2026-11-16T15:04:27.000+08:00"
+        "title": "外交部：关于中美元首会晤双方保持着沟通",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732796.shtml",
+        "publishedAt": "2026-11-16T15:32:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T15:20:59.797+08:00",
+    "fetchedAt": "2026-11-16T15:41:19.817+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-16T15:21:00.545+08:00",
+      "fetchedAt": "2026-11-16T15:41:20.575+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 24,
-          "resetAt": "2026-11-21T15:50:57.000+08:00"
+          "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T15:21:00.548+08:00",
+      "fetchedAt": "2026-11-16T15:41:20.579+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T15:21:00.556+08:00",
+      "fetchedAt": "2026-11-16T15:41:20.588+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T15:21:00.557+08:00",
+      "fetchedAt": "2026-11-16T15:41:20.588+08:00",
       "error": "未启用",
       "disabled": true
     }
