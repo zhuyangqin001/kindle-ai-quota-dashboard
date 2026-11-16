@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T21:48:38.432+08:00",
+  "updatedAt": "2026-11-16T22:09:06.529+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.8,
-    "feelsLikeC": 17.9,
-    "humidity": 84,
-    "windKph": 10,
+    "tempC": 17.9,
+    "feelsLikeC": 18.2,
+    "humidity": 83,
+    "windKph": 8.8,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-16T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-16T21:48:38.432+08:00",
+    "observedAt": "2026-11-16T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-16T22:09:06.529+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（深圳APEC）媒体记者走进腾讯总部园区",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210933.shtml",
-        "publishedAt": "2026-11-16T21:40:05.000+08:00"
+        "title": "五年GDP年均增长8.4% 福建宁德聚力跃升谱写发展新篇",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733117.shtml",
+        "publishedAt": "2026-11-16T22:05:41.000+08:00"
       },
       {
-        "title": "日本东京突发持刀伤人事件 1人被刺身亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10733096.shtml",
-        "publishedAt": "2026-11-16T21:34:21.000+08:00"
+        "title": "广西巴马瑶族自治县成立70周年 将推进兴业强县富民一体发展",
+        "url": "https://www.chinanews.com.cn/mz/2026/11-16/10733115.shtml",
+        "publishedAt": "2026-11-16T22:05:11.000+08:00"
       },
       {
-        "title": "（深圳APEC）中外媒体参访荣耀全球制造中心",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210927.shtml",
-        "publishedAt": "2026-11-16T21:33:15.000+08:00"
+        "title": "伊朗外长呼吁建立区域主导的独立安全框架和可靠能源机制",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10733084.shtml",
+        "publishedAt": "2026-11-16T22:03:07.000+08:00"
       },
       {
-        "title": "第十届沈阳青年影像节学术论坛举办 聚焦“想象东北的方法”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-16/10733090.shtml",
-        "publishedAt": "2026-11-16T21:29:15.000+08:00"
+        "title": "南非学者：“中国方案”走向全球南方应更重视文化维度",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10733062.shtml",
+        "publishedAt": "2026-11-16T22:02:23.000+08:00"
       },
       {
-        "title": "（深圳APEC）前海这片“海”，何以链接亚太？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-16/10733092.shtml",
-        "publishedAt": "2026-11-16T21:28:53.000+08:00"
+        "title": "国际计划全球气候中心负责人：女性主导的气候行动实践值得被投资",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-16/10733059.shtml",
+        "publishedAt": "2026-11-16T22:02:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T21:48:34.485+08:00",
+    "fetchedAt": "2026-11-16T22:09:00.912+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-16T21:48:35.144+08:00",
+      "fetchedAt": "2026-11-16T22:09:01.644+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 87,
-          "resetAt": "2026-11-16T22:06:25.000+08:00"
+          "usedPct": 2,
+          "resetAt": "2026-11-17T03:07:49.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 37,
+          "usedPct": 40,
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T21:48:35.146+08:00",
+      "fetchedAt": "2026-11-16T22:09:01.647+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T21:48:35.154+08:00",
+      "fetchedAt": "2026-11-16T22:09:01.655+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T21:48:35.154+08:00",
+      "fetchedAt": "2026-11-16T22:09:01.655+08:00",
       "error": "未启用",
       "disabled": true
     }
