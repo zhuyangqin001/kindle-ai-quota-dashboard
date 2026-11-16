@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-16T12:18:07.135+08:00",
+  "updatedAt": "2026-11-16T12:28:18.632+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-16T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-16T12:18:07.135+08:00",
+    "fetchedAt": "2026-11-16T12:28:18.632+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "草原遇硒泉 文化架桥梁——明月山以文艺交流推动各民族交往交流交融",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-16/10732690.shtml",
+        "publishedAt": "2026-11-16T12:17:42.000+08:00"
+      },
+      {
+        "title": "Token首次走进直播间 如何管住AI解决问题的能力？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732705.shtml",
+        "publishedAt": "2026-11-16T12:15:21.000+08:00"
+      },
       {
         "title": "从“速度竞赛”转向“价值深耕” 小零食何以做出大声量",
         "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732703.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "墨西哥总统辛鲍姆抵达深圳 将出席APEC领导人非正式会议 记者现场直击",
         "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-16/news1075031.shtml",
         "publishedAt": "2026-11-16T12:01:13.000+08:00"
-      },
-      {
-        "title": "中国与东盟宣布将2027年定为人工智能合作年",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732701.shtml",
-        "publishedAt": "2026-11-16T11:57:48.000+08:00"
-      },
-      {
-        "title": "中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732698.shtml",
-        "publishedAt": "2026-11-16T11:53:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-16T12:18:04.474+08:00",
+    "fetchedAt": "2026-11-16T12:28:16.126+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-16T12:18:05.230+08:00",
+      "fetchedAt": "2026-11-16T12:28:16.873+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 24,
-          "resetAt": "2026-11-21T15:50:57.000+08:00"
+          "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-16T12:18:05.234+08:00",
+      "fetchedAt": "2026-11-16T12:28:16.876+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T12:18:05.244+08:00",
+      "fetchedAt": "2026-11-16T12:28:16.886+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-16T12:18:05.244+08:00",
+      "fetchedAt": "2026-11-16T12:28:16.886+08:00",
       "error": "未启用",
       "disabled": true
     }
