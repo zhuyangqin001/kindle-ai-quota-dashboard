@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T08:10:08.818+08:00",
+  "updatedAt": "2026-11-17T08:20:17.996+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.7,
-    "feelsLikeC": 17,
-    "humidity": 94,
-    "windKph": 10.9,
+    "tempC": 16.9,
+    "feelsLikeC": 17.2,
+    "humidity": 92,
+    "windKph": 10.8,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-17T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T08:10:08.818+08:00",
+    "observedAt": "2026-11-17T08:15:00.000+08:00",
+    "fetchedAt": "2026-11-17T08:20:17.996+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "医保钱包代缴居民医保费统筹地区范围不断扩大",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733186.shtml",
+        "publishedAt": "2026-11-17T08:04:30.000+08:00"
+      },
       {
         "title": "第49届东盟峰会及系列会议在菲律宾举行",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210950.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "保持惩治腐败高压态势（学习贯彻党的二十届五中全会精神）",
         "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733180.shtml",
         "publishedAt": "2026-11-17T07:56:26.000+08:00"
-      },
-      {
-        "title": "习近平致电祝贺波黑新一届主席团成员就职",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733177.shtml",
-        "publishedAt": "2026-11-17T07:53:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T08:10:07.034+08:00",
+    "fetchedAt": "2026-11-17T08:20:16.015+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-17T08:10:07.742+08:00",
+      "fetchedAt": "2026-11-17T08:20:16.725+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T13:10:08.000+08:00"
+          "resetAt": "2026-11-17T13:20:17.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 55,
-          "resetAt": "2026-11-21T15:50:57.000+08:00"
+          "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T08:10:07.746+08:00",
+      "fetchedAt": "2026-11-17T08:20:16.728+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T08:10:07.755+08:00",
+      "fetchedAt": "2026-11-17T08:20:16.738+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T08:10:07.755+08:00",
+      "fetchedAt": "2026-11-17T08:20:16.738+08:00",
       "error": "未启用",
       "disabled": true
     }
