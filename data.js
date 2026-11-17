@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T11:33:23.562+08:00",
+  "updatedAt": "2026-11-17T13:45:32.056+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 21.3,
-    "feelsLikeC": 22.2,
-    "humidity": 70,
-    "windKph": 6.5,
+    "tempC": 21.6,
+    "feelsLikeC": 22.1,
+    "humidity": 67,
+    "windKph": 9,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-17T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-17T11:33:23.562+08:00",
+    "observedAt": "2026-11-17T13:45:00.000+08:00",
+    "fetchedAt": "2026-11-17T13:45:32.056+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "APEC领导人会议周期间将继续围绕贸易议题寻求“最大公约数”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733309.shtml",
-        "publishedAt": "2026-11-17T11:31:12.000+08:00"
+        "title": "（深圳APEC）越共中央总书记、国家主席苏林抵达深圳",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210964.shtml",
+        "publishedAt": "2026-11-17T13:40:59.000+08:00"
       },
       {
-        "title": "姜坤：萤火微光，聚之如芒",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733300.shtml",
-        "publishedAt": "2026-11-17T11:30:02.000+08:00"
+        "title": "宁夏第八届大学生艺术展演启幕 美育筑梦向未来",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733345.shtml",
+        "publishedAt": "2026-11-17T13:39:45.000+08:00"
       },
       {
-        "title": "500强企业集聚海口江东新区：在这里出海更高效",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733299.shtml",
-        "publishedAt": "2026-11-17T11:27:39.000+08:00"
+        "title": "今年前10月上海对APEC其他经济体进出口额同比增逾两成",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733332.shtml",
+        "publishedAt": "2026-11-17T13:23:58.000+08:00"
       },
       {
-        "title": "吉林大学李珮瑶副教授在吉林省铸牢中华民族共同体意识宣讲精品课交流活动中荣获一等奖",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733297.shtml",
-        "publishedAt": "2026-11-17T11:26:11.000+08:00"
+        "title": "报告：北斗产业告别单纯硬件外销 出口产品“量减价增”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733331.shtml",
+        "publishedAt": "2026-11-17T13:21:06.000+08:00"
       },
       {
-        "title": "“意大利美食周”系列活动在京举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733295.shtml",
-        "publishedAt": "2026-11-17T11:23:25.000+08:00"
+        "title": "中新网评：5个师傅3个虚报故障，谁在逼维修师傅撒谎？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733335.shtml",
+        "publishedAt": "2026-11-17T13:15:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T11:33:21.036+08:00",
+    "fetchedAt": "2026-11-17T13:45:29.406+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-17T11:33:21.785+08:00",
+      "fetchedAt": "2026-11-17T13:45:30.143+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 49,
-          "resetAt": "2026-11-17T13:30:02.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-17T18:45:31.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T11:33:21.788+08:00",
+      "fetchedAt": "2026-11-17T13:45:30.147+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T11:33:21.798+08:00",
+      "fetchedAt": "2026-11-17T13:45:30.156+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T11:33:21.798+08:00",
+      "fetchedAt": "2026-11-17T13:45:30.157+08:00",
       "error": "未启用",
       "disabled": true
     }
