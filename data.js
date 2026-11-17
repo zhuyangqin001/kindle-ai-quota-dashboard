@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T06:53:40.438+08:00",
+  "updatedAt": "2026-11-18T07:03:49.177+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 13.6,
-    "feelsLikeC": 12,
-    "humidity": 97,
-    "windKph": 17.5,
+    "tempC": 13.5,
+    "feelsLikeC": 11.9,
+    "humidity": 96,
+    "windKph": 17.3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T06:53:40.438+08:00",
+    "observedAt": "2026-11-18T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T07:03:49.177+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月18日早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-18/10733824.shtml",
+        "publishedAt": "2026-11-18T06:55:01.000+08:00"
+      },
+      {
+        "title": "以色列议会选举马坦·卡哈纳担任新任议长",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733823.shtml",
+        "publishedAt": "2026-11-18T06:49:15.000+08:00"
+      },
       {
         "title": "美官员称对伊朗格什姆岛实施“自卫”打击",
         "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733822.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "从1.0到3.0 中国—东盟自贸区“升级包”带来哪些商机",
         "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733820.shtml",
         "publishedAt": "2026-11-18T06:12:05.000+08:00"
-      },
-      {
-        "title": "中国U19击败韩国U19 夺得熊猫杯冠军",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-18/10733819.shtml",
-        "publishedAt": "2026-11-18T06:10:45.000+08:00"
-      },
-      {
-        "title": "聚焦APEC｜俄罗斯总统普京抵达深圳 蔡奇前往机场迎接",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733815.shtml",
-        "publishedAt": "2026-11-18T02:13:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T06:53:38.035+08:00",
+    "fetchedAt": "2026-11-18T07:03:47.516+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T06:53:38.798+08:00",
+      "fetchedAt": "2026-11-18T07:03:47.858+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T11:53:40.000+08:00"
+          "resetAt": "2026-11-18T12:03:49.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T06:53:38.802+08:00",
+      "fetchedAt": "2026-11-18T07:03:47.859+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T06:53:38.808+08:00",
+      "fetchedAt": "2026-11-18T07:03:47.863+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T06:53:38.809+08:00",
+      "fetchedAt": "2026-11-18T07:03:47.863+08:00",
       "error": "未启用",
       "disabled": true
     }
