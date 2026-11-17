@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T15:06:55.910+08:00",
+  "updatedAt": "2026-11-17T15:27:13.125+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 20.1,
-    "feelsLikeC": 20.1,
-    "humidity": 76,
-    "windKph": 13.3,
+    "tempC": 19.9,
+    "feelsLikeC": 19.9,
+    "humidity": 77,
+    "windKph": 13.2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-17T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T15:06:55.910+08:00",
+    "observedAt": "2026-11-17T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-17T15:27:13.125+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "辽宁司法救助“免申即享”织密民生保障网",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733404.shtml",
-        "publishedAt": "2026-11-17T14:57:41.000+08:00"
+        "title": "青春华章·我们的新长征丨深耕职教沃土 培育“大国工匠”",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-17/10733448.shtml",
+        "publishedAt": "2026-11-17T15:19:10.000+08:00"
       },
       {
-        "title": "（深圳APEC）习近平会见加拿大总理卡尼",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733427.shtml",
-        "publishedAt": "2026-11-17T14:57:11.000+08:00"
+        "title": "（洋话香江）香港咏春师傅Nima：把中国武学“翻译”给世界各地",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733410.shtml",
+        "publishedAt": "2026-11-17T15:11:30.000+08:00"
       },
       {
-        "title": "（深圳APEC）习近平会见巴布亚新几内亚总理马拉佩",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733426.shtml",
-        "publishedAt": "2026-11-17T14:56:57.000+08:00"
+        "title": "兴凯湖明水期捕捞作业结束 湖面进入流冰期",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733403.shtml",
+        "publishedAt": "2026-11-17T15:10:54.000+08:00"
       },
       {
-        "title": "USANA跨境购上架首款内服美肤产品，以“细胞营养”切入美肤赛道",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733430.shtml",
-        "publishedAt": "2026-11-17T14:55:33.000+08:00"
+        "title": "西安闹市区现北宋神秘群墓",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733441.shtml",
+        "publishedAt": "2026-11-17T15:09:36.000+08:00"
       },
       {
-        "title": "探访海南文昌宋氏祖居：中国华侨国际文化交流基地",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733402.shtml",
-        "publishedAt": "2026-11-17T14:54:47.000+08:00"
+        "title": "生态环境部：到2030年基本建成生态环境智慧执法体系",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733439.shtml",
+        "publishedAt": "2026-11-17T15:08:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T15:06:52.724+08:00",
+    "fetchedAt": "2026-11-17T15:27:10.464+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-17T15:06:53.472+08:00",
+      "fetchedAt": "2026-11-17T15:27:11.228+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T20:06:54.000+08:00"
+          "resetAt": "2026-11-17T20:27:12.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T15:06:53.476+08:00",
+      "fetchedAt": "2026-11-17T15:27:11.231+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T15:06:53.485+08:00",
+      "fetchedAt": "2026-11-17T15:27:11.241+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T15:06:53.485+08:00",
+      "fetchedAt": "2026-11-17T15:27:11.241+08:00",
       "error": "未启用",
       "disabled": true
     }
