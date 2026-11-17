@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T15:47:36.004+08:00",
+  "updatedAt": "2026-11-17T15:57:49.469+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 19.6,
     "feelsLikeC": 19.7,
     "humidity": 77,
-    "windKph": 12,
+    "windKph": 11.9,
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-17T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-17T15:47:36.004+08:00",
+    "fetchedAt": "2026-11-17T15:57:49.470+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "200余件民族服饰亮相山西 展现各族女性服饰风采",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-17/10733458.shtml",
-        "publishedAt": "2026-11-17T15:40:21.000+08:00"
+        "title": "习言道丨建设大湾区，习近平寄语“开路先锋”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733444.shtml",
+        "publishedAt": "2026-11-17T15:50:00.000+08:00"
       },
       {
-        "title": "世行MIGA官员：中国气候投融资试点成效值得肯定 期待深化合作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733414.shtml",
-        "publishedAt": "2026-11-17T15:39:27.000+08:00"
+        "title": "（深圳APEC）深圳APEC领导人非正式会议成果文件磋商工作已启动",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733437.shtml",
+        "publishedAt": "2026-11-17T15:48:16.000+08:00"
       },
       {
-        "title": "民企成亚太合作重要纽带",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733472.shtml",
-        "publishedAt": "2026-11-17T15:38:51.000+08:00"
+        "title": "美媒记者深圳体验自动驾驶汽车 外媒点赞中国科技创新，见证发展活力",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733481.shtml",
+        "publishedAt": "2026-11-17T15:47:16.000+08:00"
       },
       {
-        "title": "九三学社沈阳市委会举办纪念中国工农红军长征胜利90周年红色诗文歌咏展演",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733417.shtml",
-        "publishedAt": "2026-11-17T15:37:29.000+08:00"
+        "title": "煤电气多源协同发力 迎峰度冬能源供应有保障",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733480.shtml",
+        "publishedAt": "2026-11-17T15:46:56.000+08:00"
       },
       {
-        "title": "“智能好物”热卖，消费解锁新空间（读数）",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733471.shtml",
-        "publishedAt": "2026-11-17T15:36:27.000+08:00"
+        "title": "前十月新动能贡献超五成 工业增长焕发强劲创新活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733469.shtml",
+        "publishedAt": "2026-11-17T15:44:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T15:47:32.267+08:00",
+    "fetchedAt": "2026-11-17T15:57:45.921+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-17T15:47:33.015+08:00",
+      "fetchedAt": "2026-11-17T15:57:46.677+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T20:47:35.000+08:00"
+          "resetAt": "2026-11-17T20:57:49.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T15:47:33.018+08:00",
+      "fetchedAt": "2026-11-17T15:57:46.680+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T15:47:33.024+08:00",
+      "fetchedAt": "2026-11-17T15:57:46.689+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T15:47:33.024+08:00",
+      "fetchedAt": "2026-11-17T15:57:46.689+08:00",
       "error": "未启用",
       "disabled": true
     }
