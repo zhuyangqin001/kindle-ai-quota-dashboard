@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-18T04:41:27.080+08:00",
+  "updatedAt": "2026-11-18T05:01:47.682+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 14.4,
-    "feelsLikeC": 13.5,
+    "tempC": 14.2,
+    "feelsLikeC": 13,
     "humidity": 97,
-    "windKph": 15.3,
+    "windKph": 16.5,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T04:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T04:41:27.080+08:00",
+    "observedAt": "2026-11-18T05:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T05:01:47.682+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-18T00:31:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T04:41:24.907+08:00",
+    "fetchedAt": "2026-11-18T05:01:45.836+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T04:41:25.663+08:00",
+      "fetchedAt": "2026-11-18T05:01:46.352+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T09:41:26.000+08:00"
+          "resetAt": "2026-11-18T10:01:47.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T04:41:25.666+08:00",
+      "fetchedAt": "2026-11-18T05:01:46.355+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T04:41:25.676+08:00",
+      "fetchedAt": "2026-11-18T05:01:46.366+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T04:41:25.676+08:00",
+      "fetchedAt": "2026-11-18T05:01:46.366+08:00",
       "error": "未启用",
       "disabled": true
     }
