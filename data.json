@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T07:34:29.071+08:00",
+  "updatedAt": "2026-11-18T07:44:39.284+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-18T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T07:34:29.071+08:00",
+    "fetchedAt": "2026-11-18T07:44:39.284+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "新型电网，新在哪？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733835.shtml",
+        "publishedAt": "2026-11-18T07:36:50.000+08:00"
+      },
+      {
+        "title": "植物能“听”会“说”，你知道吗？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733834.shtml",
+        "publishedAt": "2026-11-18T07:34:51.000+08:00"
+      },
+      {
+        "title": "西藏拉萨：民众参观朗孜夏陈列馆",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10733833.shtml",
+        "publishedAt": "2026-11-18T07:33:17.000+08:00"
+      },
       {
         "title": "神舟二十四号船箭就位 发射准备进展如何？",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733832.shtml",
@@ -28,24 +43,9 @@
         "title": "中共全国政协党组理论学习中心组举行2026年第五次集体学习 王沪宁主持并讲话",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733826.shtml",
         "publishedAt": "2026-11-18T07:29:49.000+08:00"
-      },
-      {
-        "title": "手机中虚拟骰子扔出的随机数，真的“随机”吗？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733827.shtml",
-        "publishedAt": "2026-11-18T07:26:29.000+08:00"
-      },
-      {
-        "title": "外媒：沙特联军袭击也门多地，已致17人死亡、39人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733825.shtml",
-        "publishedAt": "2026-11-18T07:09:36.000+08:00"
-      },
-      {
-        "title": "11月18日早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-18/10733824.shtml",
-        "publishedAt": "2026-11-18T06:55:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T07:34:23.100+08:00",
+    "fetchedAt": "2026-11-18T07:44:36.919+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T07:34:23.731+08:00",
+      "fetchedAt": "2026-11-18T07:44:37.607+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T12:03:49.000+08:00"
+          "resetAt": "2026-11-18T12:44:39.000+08:00"
         },
         {
           "name": "周",
@@ -72,10 +72,8 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T07:03:47.859+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
-      "stale": true,
-      "lastAttemptAt": "2026-11-18T07:34:23.735+08:00"
+      "fetchedAt": "2026-11-18T07:44:37.610+08:00",
+      "error": null
     },
     "mimo": {
       "ok": false,
@@ -83,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T07:34:23.741+08:00",
+      "fetchedAt": "2026-11-18T07:44:37.619+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T07:34:23.742+08:00",
+      "fetchedAt": "2026-11-18T07:44:37.620+08:00",
       "error": "未启用",
       "disabled": true
     }
