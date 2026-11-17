@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T00:36:55.614+08:00",
+  "updatedAt": "2026-11-18T01:07:25.898+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 15.2,
+    "tempC": 15.1,
     "feelsLikeC": 15.4,
     "humidity": 98,
-    "windKph": 9.5,
+    "windKph": 8.8,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T00:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T00:36:55.615+08:00",
+    "observedAt": "2026-11-18T01:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T01:07:25.898+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "聚焦APEC｜韩国总统李在明抵达深圳",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733805.shtml",
+        "publishedAt": "2026-11-18T00:51:40.000+08:00"
+      },
+      {
+        "title": "聚焦APEC｜马来西亚总理安瓦尔抵达深圳",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733804.shtml",
+        "publishedAt": "2026-11-18T00:33:13.000+08:00"
+      },
       {
         "title": "聚焦APEC｜文莱苏丹哈桑纳尔抵达深圳",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733803.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "韩国高考防作弊“升级” 李在明称作弊行为是严重犯罪",
         "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733799.shtml",
         "publishedAt": "2026-11-18T00:02:07.000+08:00"
-      },
-      {
-        "title": "日本“隼鸟2”号小行星探测器因发动机故障变更探测目标",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733796.shtml",
-        "publishedAt": "2026-11-17T23:56:36.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）1500把椅子的“亚太时刻”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733795.shtml",
-        "publishedAt": "2026-11-17T23:56:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T00:36:48.680+08:00",
+    "fetchedAt": "2026-11-18T01:07:22.693+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T00:36:49.438+08:00",
+      "fetchedAt": "2026-11-18T01:07:23.454+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T00:36:49.441+08:00",
+      "fetchedAt": "2026-11-18T01:07:23.458+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T00:36:49.450+08:00",
+      "fetchedAt": "2026-11-18T01:07:23.467+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T00:36:49.450+08:00",
+      "fetchedAt": "2026-11-18T01:07:23.467+08:00",
       "error": "未启用",
       "disabled": true
     }
