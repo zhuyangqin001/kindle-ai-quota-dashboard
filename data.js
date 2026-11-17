@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T07:44:39.284+08:00",
+  "updatedAt": "2026-11-18T07:54:49.408+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 13.4,
+    "tempC": 13.3,
     "feelsLikeC": 11.8,
     "humidity": 96,
-    "windKph": 16.6,
+    "windKph": 16.2,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T07:44:39.284+08:00",
+    "observedAt": "2026-11-18T07:45:00.000+08:00",
+    "fetchedAt": "2026-11-18T07:54:49.408+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "新型电网，新在哪？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733835.shtml",
-        "publishedAt": "2026-11-18T07:36:50.000+08:00"
+        "title": "点进去容易，退出来难 弹窗广告为何“越关越多”？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733844.shtml",
+        "publishedAt": "2026-11-18T07:48:56.000+08:00"
       },
       {
-        "title": "植物能“听”会“说”，你知道吗？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733834.shtml",
-        "publishedAt": "2026-11-18T07:34:51.000+08:00"
+        "title": "深化党建引领基层治理和基层政权建设（学习贯彻党的二十届五中全会精神）",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733843.shtml",
+        "publishedAt": "2026-11-18T07:45:48.000+08:00"
       },
       {
-        "title": "西藏拉萨：民众参观朗孜夏陈列馆",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10733833.shtml",
-        "publishedAt": "2026-11-18T07:33:17.000+08:00"
+        "title": "出国干工程 未来五年，我国工程师这样“走出去”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733842.shtml",
+        "publishedAt": "2026-11-18T07:41:04.000+08:00"
       },
       {
-        "title": "神舟二十四号船箭就位 发射准备进展如何？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733832.shtml",
-        "publishedAt": "2026-11-18T07:29:53.000+08:00"
+        "title": "美媒：美军对伊朗格什姆岛实施“自卫”打击",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733838.shtml",
+        "publishedAt": "2026-11-18T07:39:06.000+08:00"
       },
       {
-        "title": "中共全国政协党组理论学习中心组举行2026年第五次集体学习 王沪宁主持并讲话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733826.shtml",
-        "publishedAt": "2026-11-18T07:29:49.000+08:00"
+        "title": "新国货品牌，从“看见”到“记住”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733836.shtml",
+        "publishedAt": "2026-11-18T07:38:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T07:44:36.919+08:00",
+    "fetchedAt": "2026-11-18T07:54:47.143+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T07:44:37.607+08:00",
+      "fetchedAt": "2026-11-18T07:54:47.886+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T12:44:39.000+08:00"
+          "resetAt": "2026-11-18T12:54:49.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T07:44:37.610+08:00",
+      "fetchedAt": "2026-11-18T07:54:47.890+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T07:44:37.619+08:00",
+      "fetchedAt": "2026-11-18T07:54:47.900+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T07:44:37.620+08:00",
+      "fetchedAt": "2026-11-18T07:54:47.900+08:00",
       "error": "未启用",
       "disabled": true
     }
