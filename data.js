@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T08:50:44.894+08:00",
+  "updatedAt": "2026-11-17T09:00:54.062+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.3,
-    "feelsLikeC": 18.7,
-    "humidity": 85,
-    "windKph": 9.8,
+    "tempC": 18.7,
+    "feelsLikeC": 19.2,
+    "humidity": 82,
+    "windKph": 9.4,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-17T08:45:00.000+08:00",
-    "fetchedAt": "2026-11-17T08:50:44.894+08:00",
+    "observedAt": "2026-11-17T09:00:00.000+08:00",
+    "fetchedAt": "2026-11-17T09:00:54.062+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "（寻味中华丨艺林）白纸坊太狮：狮头七铃响 坊间京韵长",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733189.shtml",
+        "publishedAt": "2026-11-17T08:53:09.000+08:00"
+      },
+      {
+        "title": "中东部降水依然广泛 寒潮将制造大风降温天气",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733196.shtml",
+        "publishedAt": "2026-11-17T08:50:13.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）加拿大总理卡尼抵达深圳",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210953.shtml",
+        "publishedAt": "2026-11-17T08:46:20.000+08:00"
+      },
+      {
         "title": "直播外链：APEC进行时：漫游深圳，打卡城市地标",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-17/10733192.shtml",
         "publishedAt": "2026-11-17T08:44:33.000+08:00"
       },
       {
-        "title": "一枚胸针如何给人赋能？把AI穿戴在人身上，延伸人的感知、记忆、经验与决策",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733191.shtml",
-        "publishedAt": "2026-11-17T08:39:14.000+08:00"
-      },
-      {
-        "title": "几十元就能破解电话手表 刷机服务暗藏哪些安全风险？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733190.shtml",
-        "publishedAt": "2026-11-17T08:31:58.000+08:00"
-      },
-      {
-        "title": "中东部将有大范围雨雪和寒潮天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733187.shtml",
-        "publishedAt": "2026-11-17T08:29:32.000+08:00"
-      },
-      {
-        "title": "公共场合不同需求怎相容？“静音舱”背后的治理智慧",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733188.shtml",
-        "publishedAt": "2026-11-17T08:28:02.000+08:00"
+        "title": "丘成桐谈AI与数学：守住对真理的好奇",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733193.shtml",
+        "publishedAt": "2026-11-17T08:44:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T08:50:42.972+08:00",
+    "fetchedAt": "2026-11-17T09:00:51.846+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-17T08:50:43.721+08:00",
+      "fetchedAt": "2026-11-17T09:00:52.537+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 12,
+          "usedPct": 18,
           "resetAt": "2026-11-17T13:30:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 57,
+          "usedPct": 58,
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T08:50:43.724+08:00",
+      "fetchedAt": "2026-11-17T09:00:52.539+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T08:50:43.734+08:00",
+      "fetchedAt": "2026-11-17T09:00:52.544+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T08:50:43.734+08:00",
+      "fetchedAt": "2026-11-17T09:00:52.544+08:00",
       "error": "未启用",
       "disabled": true
     }
