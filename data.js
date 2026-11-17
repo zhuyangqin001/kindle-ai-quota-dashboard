@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T09:00:54.062+08:00",
+  "updatedAt": "2026-11-17T09:11:04.230+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-17T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T09:00:54.062+08:00",
+    "fetchedAt": "2026-11-17T09:11:04.230+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "这些不起眼的习惯正在悄悄助长“超级细菌”",
+        "url": "https://www.chinanews.com.cn/life/2026/11-17/10733202.shtml",
+        "publishedAt": "2026-11-17T09:03:00.000+08:00"
+      },
       {
         "title": "（寻味中华丨艺林）白纸坊太狮：狮头七铃响 坊间京韵长",
         "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733189.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "直播外链：APEC进行时：漫游深圳，打卡城市地标",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-17/10733192.shtml",
         "publishedAt": "2026-11-17T08:44:33.000+08:00"
-      },
-      {
-        "title": "丘成桐谈AI与数学：守住对真理的好奇",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733193.shtml",
-        "publishedAt": "2026-11-17T08:44:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T09:00:51.846+08:00",
+    "fetchedAt": "2026-11-17T09:11:01.819+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-17T09:00:52.537+08:00",
+      "fetchedAt": "2026-11-17T09:11:02.567+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,7 +63,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 18,
+          "usedPct": 21,
           "resetAt": "2026-11-17T13:30:02.000+08:00"
         },
         {
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T09:00:52.539+08:00",
+      "fetchedAt": "2026-11-17T09:11:02.570+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T09:00:52.544+08:00",
+      "fetchedAt": "2026-11-17T09:11:02.579+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T09:00:52.544+08:00",
+      "fetchedAt": "2026-11-17T09:11:02.580+08:00",
       "error": "未启用",
       "disabled": true
     }
