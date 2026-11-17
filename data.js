@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T09:11:04.230+08:00",
+  "updatedAt": "2026-11-17T11:33:23.562+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.7,
-    "feelsLikeC": 19.2,
-    "humidity": 82,
-    "windKph": 9.4,
-    "windDir": "东北风",
+    "tempC": 21.3,
+    "feelsLikeC": 22.2,
+    "humidity": 70,
+    "windKph": 6.5,
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-17T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-17T09:11:04.230+08:00",
+    "observedAt": "2026-11-17T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-17T11:33:23.562+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "这些不起眼的习惯正在悄悄助长“超级细菌”",
-        "url": "https://www.chinanews.com.cn/life/2026/11-17/10733202.shtml",
-        "publishedAt": "2026-11-17T09:03:00.000+08:00"
+        "title": "APEC领导人会议周期间将继续围绕贸易议题寻求“最大公约数”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733309.shtml",
+        "publishedAt": "2026-11-17T11:31:12.000+08:00"
       },
       {
-        "title": "（寻味中华丨艺林）白纸坊太狮：狮头七铃响 坊间京韵长",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733189.shtml",
-        "publishedAt": "2026-11-17T08:53:09.000+08:00"
+        "title": "姜坤：萤火微光，聚之如芒",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733300.shtml",
+        "publishedAt": "2026-11-17T11:30:02.000+08:00"
       },
       {
-        "title": "中东部降水依然广泛 寒潮将制造大风降温天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733196.shtml",
-        "publishedAt": "2026-11-17T08:50:13.000+08:00"
+        "title": "500强企业集聚海口江东新区：在这里出海更高效",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733299.shtml",
+        "publishedAt": "2026-11-17T11:27:39.000+08:00"
       },
       {
-        "title": "（深圳APEC）加拿大总理卡尼抵达深圳",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210953.shtml",
-        "publishedAt": "2026-11-17T08:46:20.000+08:00"
+        "title": "吉林大学李珮瑶副教授在吉林省铸牢中华民族共同体意识宣讲精品课交流活动中荣获一等奖",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-17/10733297.shtml",
+        "publishedAt": "2026-11-17T11:26:11.000+08:00"
       },
       {
-        "title": "直播外链：APEC进行时：漫游深圳，打卡城市地标",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-17/10733192.shtml",
-        "publishedAt": "2026-11-17T08:44:33.000+08:00"
+        "title": "“意大利美食周”系列活动在京举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733295.shtml",
+        "publishedAt": "2026-11-17T11:23:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T09:11:01.819+08:00",
+    "fetchedAt": "2026-11-17T11:33:21.036+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-17T09:11:02.567+08:00",
+      "fetchedAt": "2026-11-17T11:33:21.785+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 21,
+          "usedPct": 49,
           "resetAt": "2026-11-17T13:30:02.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 58,
+          "usedPct": 63,
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T09:11:02.570+08:00",
+      "fetchedAt": "2026-11-17T11:33:21.788+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T09:11:02.579+08:00",
+      "fetchedAt": "2026-11-17T11:33:21.798+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T09:11:02.580+08:00",
+      "fetchedAt": "2026-11-17T11:33:21.798+08:00",
       "error": "未启用",
       "disabled": true
     }
