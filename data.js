@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T15:27:13.125+08:00",
+  "updatedAt": "2026-11-17T15:37:23.411+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 19.9,
-    "feelsLikeC": 19.9,
+    "tempC": 19.8,
+    "feelsLikeC": 19.8,
     "humidity": 77,
-    "windKph": 13.2,
+    "windKph": 12.7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-17T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-17T15:27:13.125+08:00",
+    "observedAt": "2026-11-17T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-17T15:37:23.411+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "青春华章·我们的新长征丨深耕职教沃土 培育“大国工匠”",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-17/10733448.shtml",
-        "publishedAt": "2026-11-17T15:19:10.000+08:00"
+        "title": "近500名残疾人选手佛山同台竞技",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733406.shtml",
+        "publishedAt": "2026-11-17T15:29:25.000+08:00"
       },
       {
-        "title": "（洋话香江）香港咏春师傅Nima：把中国武学“翻译”给世界各地",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-17/10733410.shtml",
-        "publishedAt": "2026-11-17T15:11:30.000+08:00"
+        "title": "（深圳APEC）六成生意在亚太，中国外贸的“亚太账本”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733463.shtml",
+        "publishedAt": "2026-11-17T15:29:05.000+08:00"
       },
       {
-        "title": "兴凯湖明水期捕捞作业结束 湖面进入流冰期",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733403.shtml",
-        "publishedAt": "2026-11-17T15:10:54.000+08:00"
+        "title": "（乡村行·看振兴）吉林磐石：一枚卤蛋“孵”出乡村振兴产业链",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733405.shtml",
+        "publishedAt": "2026-11-17T15:27:25.000+08:00"
       },
       {
-        "title": "西安闹市区现北宋神秘群墓",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733441.shtml",
-        "publishedAt": "2026-11-17T15:09:36.000+08:00"
+        "title": "中方斥美国涉华规定：典型的经济胁迫和长臂管辖",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733460.shtml",
+        "publishedAt": "2026-11-17T15:26:33.000+08:00"
       },
       {
-        "title": "生态环境部：到2030年基本建成生态环境智慧执法体系",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733439.shtml",
-        "publishedAt": "2026-11-17T15:08:18.000+08:00"
+        "title": "作家伊人睽睽：珍惜笔下每一个故事 不会为了影视化写作",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-17/10733452.shtml",
+        "publishedAt": "2026-11-17T15:24:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T15:27:10.464+08:00",
+    "fetchedAt": "2026-11-17T15:37:20.997+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-17T15:27:11.228+08:00",
+      "fetchedAt": "2026-11-17T15:37:21.731+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-17T20:27:12.000+08:00"
+          "resetAt": "2026-11-17T20:37:23.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T15:27:11.231+08:00",
+      "fetchedAt": "2026-11-17T15:37:21.735+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T15:27:11.241+08:00",
+      "fetchedAt": "2026-11-17T15:37:21.743+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T15:27:11.241+08:00",
+      "fetchedAt": "2026-11-17T15:37:21.743+08:00",
       "error": "未启用",
       "disabled": true
     }
