@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-17T08:20:17.996+08:00",
+  "updatedAt": "2026-11-17T08:30:27.147+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.9,
-    "feelsLikeC": 17.2,
-    "humidity": 92,
-    "windKph": 10.8,
-    "windDir": "东风",
+    "tempC": 17.8,
+    "feelsLikeC": 18.2,
+    "humidity": 87,
+    "windKph": 10.3,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-17T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-17T08:20:17.996+08:00",
+    "observedAt": "2026-11-17T08:30:00.000+08:00",
+    "fetchedAt": "2026-11-17T08:30:27.147+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "公共场合不同需求怎相容？“静音舱”背后的治理智慧",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-17/10733188.shtml",
+        "publishedAt": "2026-11-17T08:28:02.000+08:00"
+      },
       {
         "title": "医保钱包代缴居民医保费统筹地区范围不断扩大",
         "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733186.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "习言道｜奋力开创粤港澳大湾区高质量发展新局面",
         "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733178.shtml",
         "publishedAt": "2026-11-17T07:56:52.000+08:00"
-      },
-      {
-        "title": "保持惩治腐败高压态势（学习贯彻党的二十届五中全会精神）",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733180.shtml",
-        "publishedAt": "2026-11-17T07:56:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-17T08:20:16.015+08:00",
+    "fetchedAt": "2026-11-17T08:30:25.046+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-17T08:20:16.725+08:00",
+      "fetchedAt": "2026-11-17T08:30:25.814+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-17T13:20:17.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-11-17T13:30:02.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-17T08:20:16.728+08:00",
+      "fetchedAt": "2026-11-17T08:30:25.818+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T08:20:16.738+08:00",
+      "fetchedAt": "2026-11-17T08:30:25.828+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-17T08:20:16.738+08:00",
+      "fetchedAt": "2026-11-17T08:30:25.828+08:00",
       "error": "未启用",
       "disabled": true
     }
