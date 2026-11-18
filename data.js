@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T10:58:15.472+08:00",
+  "updatedAt": "2026-11-18T11:28:49.011+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.2,
-    "feelsLikeC": 12.4,
-    "humidity": 82,
-    "windKph": 14.1,
+    "tempC": 14.6,
+    "feelsLikeC": 12.7,
+    "humidity": 78,
+    "windKph": 14.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T10:58:15.472+08:00",
+    "observedAt": "2026-11-18T11:15:00.000+08:00",
+    "fetchedAt": "2026-11-18T11:28:49.012+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "苹果、万豪等美国公司突发网络技术故障",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733908.shtml",
-        "publishedAt": "2026-11-18T10:53:42.000+08:00"
+        "title": "广西硕龙口岸首迎越南团签入境旅游团",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10733922.shtml",
+        "publishedAt": "2026-11-18T11:17:14.000+08:00"
       },
       {
-        "title": "国台办批陆委会恐吓台商",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733939.shtml",
-        "publishedAt": "2026-11-18T10:53:20.000+08:00"
+        "title": "28名华裔青年获奖学金 入琼学中文了解中华文化",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-18/10733919.shtml",
+        "publishedAt": "2026-11-18T11:15:03.000+08:00"
       },
       {
-        "title": "岛内人士提议两岸2032年统一货币，国台办回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733938.shtml",
-        "publishedAt": "2026-11-18T10:51:20.000+08:00"
+        "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733950.shtml",
+        "publishedAt": "2026-11-18T11:14:07.000+08:00"
       },
       {
-        "title": "国台办引论语评罗大佑痛批民进党",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733937.shtml",
-        "publishedAt": "2026-11-18T10:50:04.000+08:00"
+        "title": "习近平会见韩国总统李在明",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733949.shtml",
+        "publishedAt": "2026-11-18T11:12:23.000+08:00"
       },
       {
-        "title": "国台办回应台检调部门起诉高金素梅",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733936.shtml",
-        "publishedAt": "2026-11-18T10:48:32.000+08:00"
+        "title": "藏在海南乡墟里的“袖珍”中山公园：侨胞参与捐建",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-18/10733918.shtml",
+        "publishedAt": "2026-11-18T11:10:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T10:58:12.217+08:00",
+    "fetchedAt": "2026-11-18T11:28:46.389+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T10:58:12.970+08:00",
+      "fetchedAt": "2026-11-18T11:28:47.015+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T15:58:15.000+08:00"
+          "resetAt": "2026-11-18T16:28:48.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T10:58:12.973+08:00",
+      "fetchedAt": "2026-11-18T11:28:47.018+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T10:58:12.983+08:00",
+      "fetchedAt": "2026-11-18T11:28:47.028+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T10:58:12.983+08:00",
+      "fetchedAt": "2026-11-18T11:28:47.028+08:00",
       "error": "未启用",
       "disabled": true
     }
