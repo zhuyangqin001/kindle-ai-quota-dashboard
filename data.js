@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T16:14:29.938+08:00",
+  "updatedAt": "2026-11-18T16:24:47.385+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.4,
+    "tempC": 15.3,
     "feelsLikeC": 12.6,
-    "humidity": 60,
-    "windKph": 15,
+    "humidity": 61,
+    "windKph": 14.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T16:14:29.938+08:00",
+    "observedAt": "2026-11-18T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-18T16:24:47.385+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "感冒“扛一扛”就能好？出现这4种情况别大意！",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-18/10734126.shtml",
-        "publishedAt": "2026-11-18T16:06:15.000+08:00"
+        "title": "古典诗意搭起共情的桥梁",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734138.shtml",
+        "publishedAt": "2026-11-18T16:18:44.000+08:00"
       },
       {
-        "title": "胶州秧歌携手青岛特产精彩亮相第三届澳门家乡市集嘉年华",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-18/10734119.shtml",
-        "publishedAt": "2026-11-18T16:06:15.000+08:00"
+        "title": "晶采观察丨APEC“深圳时刻”激活中国经济新增量",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734137.shtml",
+        "publishedAt": "2026-11-18T16:17:06.000+08:00"
       },
       {
-        "title": "星厨巡味、沪赏华章 全聚德集团非遗匠心美食巡礼在沪启幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734112.shtml",
-        "publishedAt": "2026-11-18T16:04:19.000+08:00"
+        "title": "（深圳APEC）习近平会见韩国总统李在明",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734125.shtml",
+        "publishedAt": "2026-11-18T16:16:46.000+08:00"
       },
       {
-        "title": "中方：欢迎亚太工商界继续共享中国式现代化机遇",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734117.shtml",
-        "publishedAt": "2026-11-18T15:59:59.000+08:00"
+        "title": "北上追雪、南下向暖 为冬季户外消费注入新增量",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734135.shtml",
+        "publishedAt": "2026-11-18T16:15:06.000+08:00"
       },
       {
-        "title": "习近平会见韩国总统李在明",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211108.shtml",
-        "publishedAt": "2026-11-18T15:58:28.000+08:00"
+        "title": "（深圳APEC）马来西亚总理安瓦尔：新兴经济体应当获得尊重与平等对待",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734131.shtml",
+        "publishedAt": "2026-11-18T16:14:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T16:14:27.409+08:00",
+    "fetchedAt": "2026-11-18T16:24:43.275+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T16:14:28.059+08:00",
+      "fetchedAt": "2026-11-18T16:24:44.045+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T21:14:29.000+08:00"
+          "resetAt": "2026-11-18T21:24:46.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T16:14:28.062+08:00",
+      "fetchedAt": "2026-11-18T16:24:44.048+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T16:14:28.072+08:00",
+      "fetchedAt": "2026-11-18T16:24:44.058+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T16:14:28.072+08:00",
+      "fetchedAt": "2026-11-18T16:24:44.059+08:00",
       "error": "未启用",
       "disabled": true
     }
