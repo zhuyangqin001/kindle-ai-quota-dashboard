@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T19:59:03.894+08:00",
+  "updatedAt": "2026-11-18T20:09:18.154+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.3,
-    "feelsLikeC": 10.6,
+    "tempC": 12,
+    "feelsLikeC": 10.2,
     "humidity": 74,
     "windKph": 7.8,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T19:59:03.894+08:00",
+    "observedAt": "2026-11-18T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T20:09:18.154+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "湖南新田农闲资源“再上岗” 富硒木耳种植拓宽农户增收路",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734315.shtml",
+        "publishedAt": "2026-11-18T19:58:24.000+08:00"
+      },
+      {
+        "title": "习近平在亚太经合组织第三十三次领导人非正式会议欢迎晚宴上的祝酒辞（全文）",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734313.shtml",
+        "publishedAt": "2026-11-18T19:58:14.000+08:00"
+      },
       {
         "title": "今年以来中缅边境勐啊口岸出入境人员突破150万人次",
         "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734316.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "赵乐际在云南调研时强调 深入学习贯彻党的二十届五中全会精神 提高人大党建和工作质量",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734302.shtml",
         "publishedAt": "2026-11-18T19:47:45.000+08:00"
-      },
-      {
-        "title": "海南博鳌：百年侨村 沙美如画",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734307.shtml",
-        "publishedAt": "2026-11-18T19:47:37.000+08:00"
-      },
-      {
-        "title": "澳大利亚总理：中国是澳方最大贸易伙伴，期待在深圳为澳企创造更多机遇",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10734303.shtml",
-        "publishedAt": "2026-11-18T19:37:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T19:58:59.756+08:00",
+    "fetchedAt": "2026-11-18T20:09:14.213+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T19:59:00.464+08:00",
+      "fetchedAt": "2026-11-18T20:09:14.845+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T00:59:03.000+08:00"
+          "resetAt": "2026-11-19T01:09:16.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T19:59:00.468+08:00",
+      "fetchedAt": "2026-11-18T20:09:14.848+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T19:59:00.478+08:00",
+      "fetchedAt": "2026-11-18T20:09:14.855+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T19:59:00.479+08:00",
+      "fetchedAt": "2026-11-18T20:09:14.855+08:00",
       "error": "未启用",
       "disabled": true
     }
