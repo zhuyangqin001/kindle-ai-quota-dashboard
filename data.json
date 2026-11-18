@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-18T12:30:01.644+08:00",
+  "updatedAt": "2026-11-18T12:40:21.393+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.8,
+    "tempC": 16,
     "feelsLikeC": 13.4,
-    "humidity": 66,
-    "windKph": 15.5,
+    "humidity": 64,
+    "windKph": 16,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-18T12:30:01.644+08:00",
+    "observedAt": "2026-11-18T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-18T12:40:21.393+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国证监会新闻发言人答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733990.shtml",
+        "publishedAt": "2026-11-18T12:32:50.000+08:00"
+      },
       {
         "title": "A股午评：超4500只个股飘绿，三大指数集体收跌",
         "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733986.shtml",
@@ -38,14 +43,9 @@
         "title": "兰州牛肉面出海“破题”：“一碗面”香飘80余国",
         "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733971.shtml",
         "publishedAt": "2026-11-18T11:59:04.000+08:00"
-      },
-      {
-        "title": "福建三明“以侨为桥”聚侨力促发展",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-18/10733967.shtml",
-        "publishedAt": "2026-11-18T11:57:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T12:29:58.327+08:00",
+    "fetchedAt": "2026-11-18T12:40:18.445+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T12:29:59.123+08:00",
+      "fetchedAt": "2026-11-18T12:40:19.177+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T17:30:01.000+08:00"
+          "resetAt": "2026-11-18T17:40:20.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T12:29:59.128+08:00",
+      "fetchedAt": "2026-11-18T12:40:19.180+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T12:29:59.138+08:00",
+      "fetchedAt": "2026-11-18T12:40:19.190+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T12:29:59.138+08:00",
+      "fetchedAt": "2026-11-18T12:40:19.191+08:00",
       "error": "未启用",
       "disabled": true
     }
