@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T17:36:22.469+08:00",
+  "updatedAt": "2026-11-18T17:46:33.580+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.4,
-    "feelsLikeC": 12.5,
-    "humidity": 67,
-    "windKph": 9.8,
+    "tempC": 14.3,
+    "feelsLikeC": 12.6,
+    "humidity": 68,
+    "windKph": 8.9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T17:36:22.469+08:00",
+    "observedAt": "2026-11-18T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-18T17:46:33.581+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "巩金龙任北京化工大学校长",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734228.shtml",
+        "publishedAt": "2026-11-18T17:39:50.000+08:00"
+      },
+      {
+        "title": "重庆梁平将高水平建设“新和富美”特色城市",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734217.shtml",
+        "publishedAt": "2026-11-18T17:35:52.000+08:00"
+      },
       {
         "title": "中俄美会晤影响涉及台湾？国台办强调台湾问题纯属中国内政",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734210.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "辟谣丨网传铁岭尼尔科达板材致癌为不实信息",
         "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734207.shtml",
         "publishedAt": "2026-11-18T17:13:59.000+08:00"
-      },
-      {
-        "title": "习近平迎接美国总统特朗普",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734214.shtml",
-        "publishedAt": "2026-11-18T17:12:43.000+08:00"
-      },
-      {
-        "title": "浙江临海“小城故事”：何以让青年创业“不烧心”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734209.shtml",
-        "publishedAt": "2026-11-18T17:12:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T17:36:19.095+08:00",
+    "fetchedAt": "2026-11-18T17:46:30.350+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T17:36:19.863+08:00",
+      "fetchedAt": "2026-11-18T17:46:31.101+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T22:36:22.000+08:00"
+          "resetAt": "2026-11-18T22:46:32.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T17:36:19.866+08:00",
+      "fetchedAt": "2026-11-18T17:46:31.104+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T17:36:19.876+08:00",
+      "fetchedAt": "2026-11-18T17:46:31.114+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T17:36:19.877+08:00",
+      "fetchedAt": "2026-11-18T17:46:31.114+08:00",
       "error": "未启用",
       "disabled": true
     }
