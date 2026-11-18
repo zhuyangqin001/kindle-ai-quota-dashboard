@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T12:40:21.393+08:00",
+  "updatedAt": "2026-11-18T13:00:45.454+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16,
-    "feelsLikeC": 13.4,
-    "humidity": 64,
-    "windKph": 16,
+    "tempC": 16.4,
+    "feelsLikeC": 13.5,
+    "humidity": 59,
+    "windKph": 17,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T12:40:21.393+08:00",
+    "observedAt": "2026-11-18T13:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T13:00:45.454+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国证监会新闻发言人答记者问",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733990.shtml",
-        "publishedAt": "2026-11-18T12:32:50.000+08:00"
+        "title": "一张收款码，如何让小店接住国际客流？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734000.shtml",
+        "publishedAt": "2026-11-18T12:57:09.000+08:00"
       },
       {
-        "title": "A股午评：超4500只个股飘绿，三大指数集体收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733986.shtml",
-        "publishedAt": "2026-11-18T12:19:39.000+08:00"
+        "title": "（深圳APEC）习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733987.shtml",
+        "publishedAt": "2026-11-18T12:50:07.000+08:00"
       },
       {
-        "title": "聚焦APEC｜印度尼西亚总统普拉博沃抵达深圳",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733981.shtml",
-        "publishedAt": "2026-11-18T12:15:13.000+08:00"
+        "title": "（深圳APEC）习近平：“十五五”规划是中国面向全球工商界发出的合作邀约",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733985.shtml",
+        "publishedAt": "2026-11-18T12:49:49.000+08:00"
       },
       {
-        "title": "习近平会见俄罗斯总统普京",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733979.shtml",
-        "publishedAt": "2026-11-18T12:06:58.000+08:00"
+        "title": "（深圳APEC）习近平：中方支持成立世界湾区经济合作联盟",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733983.shtml",
+        "publishedAt": "2026-11-18T12:49:29.000+08:00"
       },
       {
-        "title": "兰州牛肉面出海“破题”：“一碗面”香飘80余国",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733971.shtml",
-        "publishedAt": "2026-11-18T11:59:04.000+08:00"
+        "title": "（深圳APEC）习近平：坚定信心、勇毅前行 促进亚太共同繁荣",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733984.shtml",
+        "publishedAt": "2026-11-18T12:49:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T12:40:18.445+08:00",
+    "fetchedAt": "2026-11-18T13:00:42.524+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T12:40:19.177+08:00",
+      "fetchedAt": "2026-11-18T13:00:43.265+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T17:40:20.000+08:00"
+          "resetAt": "2026-11-18T18:00:45.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T12:40:19.180+08:00",
+      "fetchedAt": "2026-11-18T13:00:43.269+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T12:40:19.190+08:00",
+      "fetchedAt": "2026-11-18T13:00:43.278+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T12:40:19.191+08:00",
+      "fetchedAt": "2026-11-18T13:00:43.279+08:00",
       "error": "未启用",
       "disabled": true
     }
