@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-18T22:43:07.377+08:00",
+  "updatedAt": "2026-11-18T23:13:51.741+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 10.4,
-    "feelsLikeC": 8,
-    "humidity": 72,
-    "windKph": 9.1,
+    "tempC": 10.1,
+    "feelsLikeC": 7.6,
+    "humidity": 73,
+    "windKph": 9.7,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T22:43:07.378+08:00",
+    "observedAt": "2026-11-18T23:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T23:13:51.741+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "习近平：看五十年的中国就来深圳",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734411.shtml",
-        "publishedAt": "2026-11-18T22:33:20.000+08:00"
+        "title": "到大学演讲、给车厘子“带货”、打卡家乡菜……各国领导人在深圳忙不停",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734423.shtml",
+        "publishedAt": "2026-11-18T22:55:01.000+08:00"
       },
       {
-        "title": "从“买卖全球”到共创共享 浙江诠释对外开放新内涵",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734418.shtml",
-        "publishedAt": "2026-11-18T22:32:40.000+08:00"
+        "title": "“国常会上有人表态不会再频繁救市了”系谣言",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734213.shtml",
+        "publishedAt": "2026-11-18T22:54:03.000+08:00"
       },
       {
-        "title": "【和合共生】习言道丨为了建设亚太共同体，我们跨越山海走到一起",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734403.shtml",
-        "publishedAt": "2026-11-18T22:32:40.000+08:00"
+        "title": "（深圳APEC）详讯：习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734415.shtml",
+        "publishedAt": "2026-11-18T22:42:57.000+08:00"
       },
       {
-        "title": "宋庆龄和平天使艺术团京昆表演团2026年戏曲晚会在北京上演",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734417.shtml",
-        "publishedAt": "2026-11-18T22:32:00.000+08:00"
+        "title": "（深圳APEC）中国为何支持成立世界湾区经济合作联盟？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734416.shtml",
+        "publishedAt": "2026-11-18T22:42:51.000+08:00"
       },
       {
-        "title": "新华图讯丨习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734405.shtml",
-        "publishedAt": "2026-11-18T22:31:20.000+08:00"
+        "title": "从墨累河畔到苍山洱海：一封越洋贺信里的大理开放故事",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734419.shtml",
+        "publishedAt": "2026-11-18T22:38:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T22:43:04.505+08:00",
+    "fetchedAt": "2026-11-18T23:13:48.903+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T22:43:05.211+08:00",
+      "fetchedAt": "2026-11-18T23:13:49.606+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T22:43:05.214+08:00",
+      "fetchedAt": "2026-11-18T23:13:49.610+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T22:43:05.222+08:00",
+      "fetchedAt": "2026-11-18T23:13:49.619+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T22:43:05.223+08:00",
+      "fetchedAt": "2026-11-18T23:13:49.619+08:00",
       "error": "未启用",
       "disabled": true
     }
