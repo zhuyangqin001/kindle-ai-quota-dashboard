@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T11:49:14.318+08:00",
+  "updatedAt": "2026-11-18T11:59:32.174+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-18T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T11:49:14.318+08:00",
+    "fetchedAt": "2026-11-18T11:59:32.175+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "东西问丨世界聚焦深圳：邂逅一座没有“科技焦虑”的未来之城",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-18/10733957.shtml",
-        "publishedAt": "2026-11-18T11:24:46.000+08:00"
+        "title": "大漠戈壁繁育作物良种 为寒旱农业注入“芯”动能",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733962.shtml",
+        "publishedAt": "2026-11-18T11:55:24.000+08:00"
       },
       {
-        "title": "现场直击：多国领导人抵达深圳（视频+高清大图）",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733966.shtml",
-        "publishedAt": "2026-11-18T11:23:00.000+08:00"
+        "title": "湖北神农架守护金丝猴平安越冬",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733961.shtml",
+        "publishedAt": "2026-11-18T11:54:34.000+08:00"
       },
       {
-        "title": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文）",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733955.shtml",
-        "publishedAt": "2026-11-18T11:22:26.000+08:00"
+        "title": "载重5吨全球最大、可从北京直飞新疆，两款“空中卡车”试飞成功",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733956.shtml",
+        "publishedAt": "2026-11-18T11:53:21.000+08:00"
       },
       {
-        "title": "聚焦APEC｜泰国总理阿努廷抵达深圳",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733965.shtml",
-        "publishedAt": "2026-11-18T11:20:54.000+08:00"
+        "title": "大连市上线统一战线特色宣传阵地电子地图",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-18/10733947.shtml",
+        "publishedAt": "2026-11-18T11:51:51.000+08:00"
       },
       {
-        "title": "广西硕龙口岸首迎越南团签入境旅游团",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10733922.shtml",
-        "publishedAt": "2026-11-18T11:17:14.000+08:00"
+        "title": "云岭动态第四十三期",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-18/10733946.shtml",
+        "publishedAt": "2026-11-18T11:50:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T11:49:11.522+08:00",
+    "fetchedAt": "2026-11-18T11:59:29.681+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T11:49:12.244+08:00",
+      "fetchedAt": "2026-11-18T11:59:30.448+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T16:49:13.000+08:00"
+          "resetAt": "2026-11-18T16:59:32.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T11:49:12.247+08:00",
+      "fetchedAt": "2026-11-18T11:59:30.452+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T11:49:12.256+08:00",
+      "fetchedAt": "2026-11-18T11:59:30.461+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T11:49:12.256+08:00",
+      "fetchedAt": "2026-11-18T11:59:30.462+08:00",
       "error": "未启用",
       "disabled": true
     }
