@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-18T20:29:58.248+08:00",
+  "updatedAt": "2026-11-18T20:40:52.705+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.7,
-    "feelsLikeC": 9.8,
+    "tempC": 11.4,
+    "feelsLikeC": 9.5,
     "humidity": 76,
-    "windKph": 8.2,
+    "windKph": 8.3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-18T20:29:58.248+08:00",
+    "observedAt": "2026-11-18T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-18T20:40:52.705+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "跨学科科学排名出炉 香港大学跻身全球前十",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-18/10734277.shtml",
-        "publishedAt": "2026-11-18T20:23:31.000+08:00"
+        "title": "（乡村行·看振兴）千年甜香依旧 一颗蜜橘如何撬动超20亿元产值？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734286.shtml",
+        "publishedAt": "2026-11-18T20:36:26.000+08:00"
       },
       {
-        "title": "市场监管总局：深入治理特种设备领域弄虚作假问题",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734278.shtml",
-        "publishedAt": "2026-11-18T20:22:27.000+08:00"
+        "title": "中国研制当前全球最大机载分布式推进电机系统完成实飞验证",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734283.shtml",
+        "publishedAt": "2026-11-18T20:34:38.000+08:00"
       },
       {
-        "title": "东盟秘书长高金洪：东盟与中国数字经济合作关乎下一代发展",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734331.shtml",
-        "publishedAt": "2026-11-18T20:20:11.000+08:00"
+        "title": "中国驻布里斯班总领馆举办中昆“旅游+”对话会",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10734335.shtml",
+        "publishedAt": "2026-11-18T20:33:48.000+08:00"
       },
       {
-        "title": "亚太之声·深圳时刻 | 新中友好协会总会会长欧百利：中国在APEC中发挥关键作用",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734330.shtml",
-        "publishedAt": "2026-11-18T20:18:39.000+08:00"
+        "title": "黑龙江省气象台发布道路结冰和大风预报",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734273.shtml",
+        "publishedAt": "2026-11-18T20:33:34.000+08:00"
       },
       {
-        "title": "习近平迎接美国总统特朗普",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211130.shtml",
-        "publishedAt": "2026-11-18T20:18:12.000+08:00"
+        "title": "重庆：争取到2030年城市“15分钟养老服务圈”建成率达80%",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734284.shtml",
+        "publishedAt": "2026-11-18T20:33:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T20:29:37.539+08:00",
+    "fetchedAt": "2026-11-18T20:40:49.175+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T20:29:38.233+08:00",
+      "fetchedAt": "2026-11-18T20:40:49.812+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T01:09:16.000+08:00"
+          "resetAt": "2026-11-19T01:40:52.000+08:00"
         },
         {
           "name": "周",
@@ -72,10 +72,8 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T20:09:14.848+08:00",
-      "error": "Codex app-server 查询超时",
-      "stale": true,
-      "lastAttemptAt": "2026-11-18T20:29:38.236+08:00"
+      "fetchedAt": "2026-11-18T20:40:49.816+08:00",
+      "error": null
     },
     "mimo": {
       "ok": false,
@@ -83,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T20:29:38.246+08:00",
+      "fetchedAt": "2026-11-18T20:40:49.824+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T20:29:38.246+08:00",
+      "fetchedAt": "2026-11-18T20:40:49.824+08:00",
       "error": "未启用",
       "disabled": true
     }
