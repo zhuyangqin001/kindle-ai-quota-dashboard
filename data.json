@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-18T12:09:42.390+08:00",
+  "updatedAt": "2026-11-18T12:30:01.644+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.6,
-    "feelsLikeC": 13.3,
-    "humidity": 69,
-    "windKph": 15.2,
-    "windDir": "西北风",
+    "tempC": 15.8,
+    "feelsLikeC": 13.4,
+    "humidity": 66,
+    "windKph": 15.5,
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T12:09:42.390+08:00",
+    "observedAt": "2026-11-18T12:15:00.000+08:00",
+    "fetchedAt": "2026-11-18T12:30:01.644+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "A股午评：超4500只个股飘绿，三大指数集体收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733986.shtml",
+        "publishedAt": "2026-11-18T12:19:39.000+08:00"
+      },
+      {
+        "title": "聚焦APEC｜印度尼西亚总统普拉博沃抵达深圳",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733981.shtml",
+        "publishedAt": "2026-11-18T12:15:13.000+08:00"
+      },
+      {
+        "title": "习近平会见俄罗斯总统普京",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733979.shtml",
+        "publishedAt": "2026-11-18T12:06:58.000+08:00"
+      },
       {
         "title": "兰州牛肉面出海“破题”：“一碗面”香飘80余国",
         "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733971.shtml",
@@ -28,24 +43,9 @@
         "title": "福建三明“以侨为桥”聚侨力促发展",
         "url": "https://www.chinanews.com.cn/hr/2026/11-18/10733967.shtml",
         "publishedAt": "2026-11-18T11:57:20.000+08:00"
-      },
-      {
-        "title": "大漠戈壁繁育作物良种 为寒旱农业注入“芯”动能",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733962.shtml",
-        "publishedAt": "2026-11-18T11:55:24.000+08:00"
-      },
-      {
-        "title": "湖北神农架守护金丝猴平安越冬",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733961.shtml",
-        "publishedAt": "2026-11-18T11:54:34.000+08:00"
-      },
-      {
-        "title": "载重5吨全球最大、可从北京直飞新疆，两款“空中卡车”试飞成功",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10733956.shtml",
-        "publishedAt": "2026-11-18T11:53:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T12:09:40.147+08:00",
+    "fetchedAt": "2026-11-18T12:29:58.327+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T12:09:40.913+08:00",
+      "fetchedAt": "2026-11-18T12:29:59.123+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T17:09:42.000+08:00"
+          "resetAt": "2026-11-18T17:30:01.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T12:09:40.916+08:00",
+      "fetchedAt": "2026-11-18T12:29:59.128+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T12:09:40.926+08:00",
+      "fetchedAt": "2026-11-18T12:29:59.138+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T12:09:40.926+08:00",
+      "fetchedAt": "2026-11-18T12:29:59.138+08:00",
       "error": "未启用",
       "disabled": true
     }
