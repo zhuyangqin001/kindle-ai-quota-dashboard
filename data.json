@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T04:20:43.105+08:00",
+  "updatedAt": "2026-11-19T04:30:51.791+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@
     "tempC": 7.3,
     "feelsLikeC": 5.8,
     "humidity": 82,
-    "windKph": 0.8,
-    "windDir": "西北风",
+    "windKph": 0.7,
+    "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T04:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T04:20:43.105+08:00",
+    "observedAt": "2026-11-19T04:30:00.000+08:00",
+    "fetchedAt": "2026-11-19T04:30:51.791+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-18T22:55:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T04:20:41.117+08:00",
+    "fetchedAt": "2026-11-19T04:30:49.806+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T04:20:41.872+08:00",
+      "fetchedAt": "2026-11-19T04:30:50.518+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T09:20:42.000+08:00"
+          "resetAt": "2026-11-19T09:30:51.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T04:20:41.876+08:00",
+      "fetchedAt": "2026-11-19T04:30:50.522+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T04:20:41.885+08:00",
+      "fetchedAt": "2026-11-19T04:30:50.531+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T04:20:41.885+08:00",
+      "fetchedAt": "2026-11-19T04:30:50.531+08:00",
       "error": "未启用",
       "disabled": true
     }
