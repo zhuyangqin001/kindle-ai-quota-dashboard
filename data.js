@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T07:23:30.239+08:00",
+  "updatedAt": "2026-11-19T07:33:39.320+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 7.4,
-    "feelsLikeC": 5.8,
-    "humidity": 88,
-    "windKph": 3.3,
+    "tempC": 8.1,
+    "feelsLikeC": 6.4,
+    "humidity": 85,
+    "windKph": 3.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T07:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T07:23:30.239+08:00",
+    "observedAt": "2026-11-19T07:30:00.000+08:00",
+    "fetchedAt": "2026-11-19T07:33:39.320+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "美众议院民主党人提名杰弗里斯为众议长",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734443.shtml",
+        "publishedAt": "2026-11-19T07:28:42.000+08:00"
+      },
+      {
+        "title": "南非10月通胀率升至5.2% 创近两年半新高",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734444.shtml",
+        "publishedAt": "2026-11-19T07:27:54.000+08:00"
+      },
       {
         "title": "我国成功发射实践二十四号卫星",
         "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734441.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "美国民主党提名杰弗里斯为众议院议长",
         "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734439.shtml",
         "publishedAt": "2026-11-19T06:51:22.000+08:00"
-      },
-      {
-        "title": "11月19日早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-19/10734438.shtml",
-        "publishedAt": "2026-11-19T06:43:59.000+08:00"
-      },
-      {
-        "title": "马来西亚总理和23家中国知名企业代表对话：展望新能源等多领域合作机遇",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734437.shtml",
-        "publishedAt": "2026-11-19T06:38:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T07:23:28.205+08:00",
+    "fetchedAt": "2026-11-19T07:33:37.255+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T07:23:28.965+08:00",
+      "fetchedAt": "2026-11-19T07:33:38.004+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T12:23:30.000+08:00"
+          "resetAt": "2026-11-19T12:33:39.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T07:23:28.968+08:00",
+      "fetchedAt": "2026-11-19T07:33:38.007+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T07:23:28.977+08:00",
+      "fetchedAt": "2026-11-19T07:33:38.016+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T07:23:28.978+08:00",
+      "fetchedAt": "2026-11-19T07:33:38.016+08:00",
       "error": "未启用",
       "disabled": true
     }
