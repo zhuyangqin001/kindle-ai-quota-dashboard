@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T23:24:07.366+08:00",
+  "updatedAt": "2026-11-18T23:34:24.252+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 9.8,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T23:15:00.000+08:00",
-    "fetchedAt": "2026-11-18T23:24:07.367+08:00",
+    "observedAt": "2026-11-18T23:30:00.000+08:00",
+    "fetchedAt": "2026-11-18T23:34:24.252+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734424.shtml",
+        "publishedAt": "2026-11-18T23:18:41.000+08:00"
+      },
       {
         "title": "到大学演讲、给车厘子“带货”、打卡家乡菜……各国领导人在深圳忙不停",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734423.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（深圳APEC）中国为何支持成立世界湾区经济合作联盟？",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734416.shtml",
         "publishedAt": "2026-11-18T22:42:51.000+08:00"
-      },
-      {
-        "title": "从墨累河畔到苍山洱海：一封越洋贺信里的大理开放故事",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734419.shtml",
-        "publishedAt": "2026-11-18T22:38:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T23:24:04.543+08:00",
+    "fetchedAt": "2026-11-18T23:34:21.437+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T23:24:05.256+08:00",
+      "fetchedAt": "2026-11-18T23:34:22.177+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T23:24:05.260+08:00",
+      "fetchedAt": "2026-11-18T23:34:22.180+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T23:24:05.269+08:00",
+      "fetchedAt": "2026-11-18T23:34:22.189+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T23:24:05.269+08:00",
+      "fetchedAt": "2026-11-18T23:34:22.190+08:00",
       "error": "未启用",
       "disabled": true
     }
