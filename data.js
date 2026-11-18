@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T17:56:44.715+08:00",
+  "updatedAt": "2026-11-18T18:06:55.725+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.3,
-    "feelsLikeC": 12.6,
-    "humidity": 68,
-    "windKph": 8.9,
+    "tempC": 14.1,
+    "feelsLikeC": 12.5,
+    "humidity": 69,
+    "windKph": 8.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T17:56:44.715+08:00",
+    "observedAt": "2026-11-18T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T18:06:55.725+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "广西工业城市创新监管机制 推动“新三样”货物海运便利出口",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734224.shtml",
+        "publishedAt": "2026-11-18T17:58:39.000+08:00"
+      },
+      {
+        "title": "习近平迎接美国总统特朗普",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734239.shtml",
+        "publishedAt": "2026-11-18T17:58:35.000+08:00"
+      },
+      {
+        "title": "（走进中国乡村）西藏措美县“爱心湖”古如拉错风光壮美引客来",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734232.shtml",
+        "publishedAt": "2026-11-18T17:57:23.000+08:00"
+      },
       {
         "title": "中国民营船企首次完成大型LNG船舶批量建造",
         "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734230.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "货通山海 双向集散：2026武陵山（秀山）与东盟合作论坛举行",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734220.shtml",
         "publishedAt": "2026-11-18T17:52:45.000+08:00"
-      },
-      {
-        "title": "中国国家文物局发布长江文明溯源最新考古成果",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734231.shtml",
-        "publishedAt": "2026-11-18T17:51:45.000+08:00"
-      },
-      {
-        "title": "绍剧经典剧目《孙悟空三打白骨精》在京上演",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734218.shtml",
-        "publishedAt": "2026-11-18T17:49:47.000+08:00"
-      },
-      {
-        "title": "河北省2026年“保护野生动物宣传月”活动启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734223.shtml",
-        "publishedAt": "2026-11-18T17:49:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T17:56:41.962+08:00",
+    "fetchedAt": "2026-11-18T18:06:52.761+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T17:56:42.710+08:00",
+      "fetchedAt": "2026-11-18T18:06:53.536+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T22:56:44.000+08:00"
+          "resetAt": "2026-11-18T23:06:55.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T17:56:42.712+08:00",
+      "fetchedAt": "2026-11-18T18:06:53.539+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T17:56:42.721+08:00",
+      "fetchedAt": "2026-11-18T18:06:53.546+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T17:56:42.722+08:00",
+      "fetchedAt": "2026-11-18T18:06:53.546+08:00",
       "error": "未启用",
       "disabled": true
     }
