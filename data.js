@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T18:37:35.992+08:00",
+  "updatedAt": "2026-11-18T18:47:51.136+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.8,
-    "feelsLikeC": 12.2,
+    "tempC": 13.6,
+    "feelsLikeC": 12,
     "humidity": 71,
-    "windKph": 7.8,
+    "windKph": 8,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T18:37:35.992+08:00",
+    "observedAt": "2026-11-18T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-18T18:47:51.136+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（深圳APEC）新鸿基地产郭基煇：把握APEC机遇 港深同心双向赋能",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734248.shtml",
+        "publishedAt": "2026-11-18T18:38:58.000+08:00"
+      },
       {
         "title": "广西基层卫生发展条例草案一审 立法守护家门口健康",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734259.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "日本连续第6个月出现贸易逆差",
         "url": "https://www.chinanews.com.cn/gj/2026/11-18/10734252.shtml",
         "publishedAt": "2026-11-18T18:28:39.000+08:00"
-      },
-      {
-        "title": "河北崇礼新雪季：AI数字陪练亮相雪场",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734227.shtml",
-        "publishedAt": "2026-11-18T18:22:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T18:37:32.580+08:00",
+    "fetchedAt": "2026-11-18T18:47:48.122+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T18:37:33.344+08:00",
+      "fetchedAt": "2026-11-18T18:47:48.878+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T23:37:35.000+08:00"
+          "resetAt": "2026-11-18T23:47:50.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T18:37:33.346+08:00",
+      "fetchedAt": "2026-11-18T18:47:48.881+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T18:37:33.354+08:00",
+      "fetchedAt": "2026-11-18T18:47:48.890+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T18:37:33.354+08:00",
+      "fetchedAt": "2026-11-18T18:47:48.891+08:00",
       "error": "未启用",
       "disabled": true
     }
