@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-18T15:54:04.145+08:00",
+  "updatedAt": "2026-11-18T16:04:17.157+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.6,
-    "feelsLikeC": 12.7,
+    "tempC": 15.4,
+    "feelsLikeC": 12.6,
     "humidity": 60,
-    "windKph": 15.4,
+    "windKph": 15,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T15:54:04.145+08:00",
+    "observedAt": "2026-11-18T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T16:04:17.157+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211107.shtml",
+        "publishedAt": "2026-11-18T15:49:39.000+08:00"
+      },
       {
         "title": "图集丨习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734106.shtml",
@@ -38,14 +43,9 @@
         "title": "两人代寄近3000封虚假“催款律师函”被上海警方刑拘",
         "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734104.shtml",
         "publishedAt": "2026-11-18T15:42:28.000+08:00"
-      },
-      {
-        "title": "就业帮扶到人到岗 湖南桂东精准服务稳就业",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734102.shtml",
-        "publishedAt": "2026-11-18T15:41:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T15:54:01.351+08:00",
+    "fetchedAt": "2026-11-18T16:04:14.615+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T15:54:02.077+08:00",
+      "fetchedAt": "2026-11-18T16:04:15.358+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T20:54:03.000+08:00"
+          "resetAt": "2026-11-18T21:04:16.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T15:54:02.079+08:00",
+      "fetchedAt": "2026-11-18T16:04:15.362+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T15:54:02.088+08:00",
+      "fetchedAt": "2026-11-18T16:04:15.372+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T15:54:02.088+08:00",
+      "fetchedAt": "2026-11-18T16:04:15.372+08:00",
       "error": "未启用",
       "disabled": true
     }
