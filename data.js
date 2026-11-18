@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T22:22:46.834+08:00",
+  "updatedAt": "2026-11-18T22:43:07.377+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 10.6,
-    "feelsLikeC": 8.2,
+    "tempC": 10.4,
+    "feelsLikeC": 8,
     "humidity": 72,
-    "windKph": 8.7,
+    "windKph": 9.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-18T22:22:46.834+08:00",
+    "observedAt": "2026-11-18T22:30:00.000+08:00",
+    "fetchedAt": "2026-11-18T22:43:07.378+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "甘肃保安腰刀迎来“工厂模式”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734404.shtml",
-        "publishedAt": "2026-11-18T22:16:13.000+08:00"
+        "title": "习近平：看五十年的中国就来深圳",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734411.shtml",
+        "publishedAt": "2026-11-18T22:33:20.000+08:00"
       },
       {
-        "title": "数智赋能 浙江云和木玩产业加速“闯”世界",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734396.shtml",
-        "publishedAt": "2026-11-18T22:13:55.000+08:00"
+        "title": "从“买卖全球”到共创共享 浙江诠释对外开放新内涵",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734418.shtml",
+        "publishedAt": "2026-11-18T22:32:40.000+08:00"
       },
       {
-        "title": "“第十一届书籍设计艺术展览”在广西桂林开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734394.shtml",
-        "publishedAt": "2026-11-18T22:11:49.000+08:00"
+        "title": "【和合共生】习言道丨为了建设亚太共同体，我们跨越山海走到一起",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734403.shtml",
+        "publishedAt": "2026-11-18T22:32:40.000+08:00"
       },
       {
-        "title": "广西打造面向东盟开放的国际化法治化营商环境",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734401.shtml",
-        "publishedAt": "2026-11-18T22:09:53.000+08:00"
+        "title": "宋庆龄和平天使艺术团京昆表演团2026年戏曲晚会在北京上演",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734417.shtml",
+        "publishedAt": "2026-11-18T22:32:00.000+08:00"
       },
       {
-        "title": "多名内地选手亮相香港羽毛球公开赛单打首轮赛事",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734392.shtml",
-        "publishedAt": "2026-11-18T22:09:13.000+08:00"
+        "title": "新华图讯丨习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734405.shtml",
+        "publishedAt": "2026-11-18T22:31:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T22:22:43.837+08:00",
+    "fetchedAt": "2026-11-18T22:43:04.505+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T22:22:44.539+08:00",
+      "fetchedAt": "2026-11-18T22:43:05.211+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T22:22:44.542+08:00",
+      "fetchedAt": "2026-11-18T22:43:05.214+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T22:22:44.548+08:00",
+      "fetchedAt": "2026-11-18T22:43:05.222+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T22:22:44.548+08:00",
+      "fetchedAt": "2026-11-18T22:43:05.223+08:00",
       "error": "未启用",
       "disabled": true
     }
