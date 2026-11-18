@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T04:51:09.533+08:00",
+  "updatedAt": "2026-11-19T05:01:18.260+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 7.2,
     "feelsLikeC": 5.8,
-    "humidity": 83,
+    "humidity": 84,
     "windKph": 0.6,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T04:45:00.000+08:00",
-    "fetchedAt": "2026-11-19T04:51:09.533+08:00",
+    "observedAt": "2026-11-19T05:00:00.000+08:00",
+    "fetchedAt": "2026-11-19T05:01:18.260+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-18T22:55:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T04:51:07.577+08:00",
+    "fetchedAt": "2026-11-19T05:01:16.391+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T04:51:08.316+08:00",
+      "fetchedAt": "2026-11-19T05:01:17.162+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T09:51:09.000+08:00"
+          "resetAt": "2026-11-19T10:01:18.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T04:51:08.319+08:00",
+      "fetchedAt": "2026-11-19T05:01:17.164+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T04:51:08.329+08:00",
+      "fetchedAt": "2026-11-19T05:01:17.174+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T04:51:08.329+08:00",
+      "fetchedAt": "2026-11-19T05:01:17.175+08:00",
       "error": "未启用",
       "disabled": true
     }
