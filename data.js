@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T13:11:06.016+08:00",
+  "updatedAt": "2026-11-18T13:31:33.414+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.4,
-    "feelsLikeC": 13.5,
-    "humidity": 59,
-    "windKph": 17,
+    "tempC": 17,
+    "feelsLikeC": 14,
+    "humidity": 55,
+    "windKph": 17.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-18T13:11:06.016+08:00",
+    "observedAt": "2026-11-18T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-18T13:31:33.414+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "体育消费新观察：动起来，消费“跑”起来",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734008.shtml",
+        "publishedAt": "2026-11-18T13:19:44.000+08:00"
+      },
       {
         "title": "一张收款码，如何让小店接住国际客流？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734000.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（深圳APEC）习近平：中方支持成立世界湾区经济合作联盟",
         "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733983.shtml",
         "publishedAt": "2026-11-18T12:49:29.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）习近平：坚定信心、勇毅前行 促进亚太共同繁荣",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733984.shtml",
-        "publishedAt": "2026-11-18T12:49:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T13:11:02.472+08:00",
+    "fetchedAt": "2026-11-18T13:31:29.200+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T13:11:03.263+08:00",
+      "fetchedAt": "2026-11-18T13:31:29.953+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-18T18:11:05.000+08:00"
+          "resetAt": "2026-11-18T18:31:31.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T13:11:03.265+08:00",
+      "fetchedAt": "2026-11-18T13:31:29.956+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T13:11:03.272+08:00",
+      "fetchedAt": "2026-11-18T13:31:29.961+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T13:11:03.272+08:00",
+      "fetchedAt": "2026-11-18T13:31:29.961+08:00",
       "error": "未启用",
       "disabled": true
     }
