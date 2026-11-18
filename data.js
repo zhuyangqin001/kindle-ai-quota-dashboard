@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T23:34:24.252+08:00",
+  "updatedAt": "2026-11-18T23:54:52.125+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 10,
-    "feelsLikeC": 7.4,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 9.9,
+    "feelsLikeC": 7.3,
     "humidity": 73,
     "windKph": 9.8,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-18T23:34:24.252+08:00",
+    "observedAt": "2026-11-18T23:45:00.000+08:00",
+    "fetchedAt": "2026-11-18T23:54:52.125+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211155.shtml",
+        "publishedAt": "2026-11-18T23:46:02.000+08:00"
+      },
+      {
+        "title": "英国10月通胀率升至一年来新高",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10734425.shtml",
+        "publishedAt": "2026-11-18T23:32:15.000+08:00"
+      },
       {
         "title": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问",
         "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734424.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "“国常会上有人表态不会再频繁救市了”系谣言",
         "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734213.shtml",
         "publishedAt": "2026-11-18T22:54:03.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）详讯：习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734415.shtml",
-        "publishedAt": "2026-11-18T22:42:57.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）中国为何支持成立世界湾区经济合作联盟？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734416.shtml",
-        "publishedAt": "2026-11-18T22:42:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T23:34:21.437+08:00",
+    "fetchedAt": "2026-11-18T23:54:48.668+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T23:34:22.177+08:00",
+      "fetchedAt": "2026-11-18T23:54:49.430+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T23:34:22.180+08:00",
+      "fetchedAt": "2026-11-18T23:54:49.433+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T23:34:22.189+08:00",
+      "fetchedAt": "2026-11-18T23:54:49.443+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T23:34:22.190+08:00",
+      "fetchedAt": "2026-11-18T23:54:49.443+08:00",
       "error": "未启用",
       "disabled": true
     }
