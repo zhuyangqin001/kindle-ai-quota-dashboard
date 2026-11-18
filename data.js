@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T21:52:13.483+08:00",
+  "updatedAt": "2026-11-18T22:22:46.834+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 10.8,
-    "feelsLikeC": 8.6,
-    "humidity": 73,
-    "windKph": 8.3,
+    "tempC": 10.6,
+    "feelsLikeC": 8.2,
+    "humidity": 72,
+    "windKph": 8.7,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T21:52:13.483+08:00",
+    "observedAt": "2026-11-18T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-18T22:22:46.834+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中美专家团队最新研究成果为阿尔茨海默病治疗提供新思路",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-18/10734374.shtml",
-        "publishedAt": "2026-11-18T21:45:56.000+08:00"
+        "title": "甘肃保安腰刀迎来“工厂模式”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734404.shtml",
+        "publishedAt": "2026-11-18T22:16:13.000+08:00"
       },
       {
-        "title": "日本新潟县佐渡附近发生5.0级地震",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-18/10734352.shtml",
-        "publishedAt": "2026-11-18T21:45:50.000+08:00"
+        "title": "数智赋能 浙江云和木玩产业加速“闯”世界",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734396.shtml",
+        "publishedAt": "2026-11-18T22:13:55.000+08:00"
       },
       {
-        "title": "中蒙气象人携手护晴空",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734342.shtml",
-        "publishedAt": "2026-11-18T21:43:00.000+08:00"
+        "title": "“第十一届书籍设计艺术展览”在广西桂林开幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734394.shtml",
+        "publishedAt": "2026-11-18T22:11:49.000+08:00"
       },
       {
-        "title": "“奇石妙想：罗杰·卡约瓦的诗与石”展览亮相申城 展开跨文化对话",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734345.shtml",
-        "publishedAt": "2026-11-18T21:41:44.000+08:00"
+        "title": "广西打造面向东盟开放的国际化法治化营商环境",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-18/10734401.shtml",
+        "publishedAt": "2026-11-18T22:09:53.000+08:00"
       },
       {
-        "title": "昔日撂荒山地变身打卡地 湖南祁阳团栗村产业富民",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734309.shtml",
-        "publishedAt": "2026-11-18T21:40:41.000+08:00"
+        "title": "多名内地选手亮相香港羽毛球公开赛单打首轮赛事",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-18/10734392.shtml",
+        "publishedAt": "2026-11-18T22:09:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T21:52:10.389+08:00",
+    "fetchedAt": "2026-11-18T22:22:43.837+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T21:52:11.070+08:00",
+      "fetchedAt": "2026-11-18T22:22:44.539+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-18T21:52:11.074+08:00",
+      "fetchedAt": "2026-11-18T22:22:44.542+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T21:52:11.083+08:00",
+      "fetchedAt": "2026-11-18T22:22:44.548+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T21:52:11.083+08:00",
+      "fetchedAt": "2026-11-18T22:22:44.548+08:00",
       "error": "未启用",
       "disabled": true
     }
