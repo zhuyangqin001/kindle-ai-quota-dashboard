@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-18T16:55:35.868+08:00",
+  "updatedAt": "2026-11-18T17:05:51.712+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.9,
+    "tempC": 14.8,
     "feelsLikeC": 12.5,
-    "humidity": 64,
-    "windKph": 12.9,
+    "humidity": 65,
+    "windKph": 12,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-18T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-18T16:55:35.868+08:00",
+    "observedAt": "2026-11-18T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-18T17:05:51.712+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "亚太青年眼中的APEC“中国年”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734179.shtml",
-        "publishedAt": "2026-11-18T16:48:26.000+08:00"
+        "title": "中国种子加速“出海” 陕西杨凌布局中亚商品种子供应基地",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-18/10734200.shtml",
+        "publishedAt": "2026-11-18T16:59:38.000+08:00"
       },
       {
-        "title": "清明上河园指路牌火了！看河南文旅如何把服务做进细节里",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-18/10734145.shtml",
-        "publishedAt": "2026-11-18T16:46:53.000+08:00"
+        "title": "海棠树下的回望——山西医生和娟援疆的三年",
+        "url": "https://www.chinanews.com.cn/mz/2026/11-18/10734199.shtml",
+        "publishedAt": "2026-11-18T16:59:34.000+08:00"
       },
       {
-        "title": "全球洞察 | 意大利学者：开放创新合作是全球工商界的共识",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734178.shtml",
-        "publishedAt": "2026-11-18T16:46:39.000+08:00"
+        "title": "湖北当阳聚力打造关公文化旅游目的地",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-18/10734164.shtml",
+        "publishedAt": "2026-11-18T16:58:52.000+08:00"
       },
       {
-        "title": "《2026年亚太经合组织工商领导人峰会深圳倡议》11月18日发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734176.shtml",
-        "publishedAt": "2026-11-18T16:46:07.000+08:00"
+        "title": "国台办发布会回应“两岸和平倡议”、罗大佑发声等热点",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734161.shtml",
+        "publishedAt": "2026-11-18T16:58:46.000+08:00"
       },
       {
-        "title": "多国工商界人士：期待APEC各经济体加强合作 创造繁荣",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734174.shtml",
-        "publishedAt": "2026-11-18T16:45:23.000+08:00"
+        "title": "QS世界大学可持续发展排名公布 香港11所高校上榜",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-18/10734160.shtml",
+        "publishedAt": "2026-11-18T16:57:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-18T16:55:32.237+08:00",
+    "fetchedAt": "2026-11-18T17:05:45.627+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-18T16:55:32.620+08:00",
+      "fetchedAt": "2026-11-18T17:05:46.361+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -73,7 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-18T16:55:32.622+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-11-18T17:05:46.365+08:00"
     },
     "mimo": {
       "ok": false,
@@ -81,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T16:55:32.626+08:00",
+      "fetchedAt": "2026-11-18T17:05:46.375+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-18T16:55:32.627+08:00",
+      "fetchedAt": "2026-11-18T17:05:46.375+08:00",
       "error": "未启用",
       "disabled": true
     }
