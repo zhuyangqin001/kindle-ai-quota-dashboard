@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T15:31:24.581+08:00",
+  "updatedAt": "2026-11-19T15:41:48.592+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-19T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T15:31:24.581+08:00",
+    "fetchedAt": "2026-11-19T15:41:48.593+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "驻哈巴罗夫斯克总领馆提醒中国公民和企业注意消防安全",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-19/10734625.shtml",
-        "publishedAt": "2026-11-19T15:25:28.000+08:00"
+        "title": "2026零售创新大会在沪召开 探索零售可持续增长路径",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734661.shtml",
+        "publishedAt": "2026-11-19T15:37:08.000+08:00"
       },
       {
-        "title": "长征何以是人类极限？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734652.shtml",
-        "publishedAt": "2026-11-19T15:25:26.000+08:00"
+        "title": "东西问丨刘瀚博：数字时代，海外华文教育如何应变深耕？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-19/10734646.shtml",
+        "publishedAt": "2026-11-19T15:36:28.000+08:00"
       },
       {
-        "title": "多起涉中国务工人员案件发生，驻土耳其使馆发布来土务工提醒",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-19/10734611.shtml",
-        "publishedAt": "2026-11-19T15:25:10.000+08:00"
+        "title": "（深圳APEC）深圳APEC：一场中国式现代化的“现场说明会”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734636.shtml",
+        "publishedAt": "2026-11-19T15:36:08.000+08:00"
       },
       {
-        "title": "新华图讯丨习近平会见美国总统特朗普",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734624.shtml",
-        "publishedAt": "2026-11-19T15:24:16.000+08:00"
+        "title": "2026世界智能制造大会在南京开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734651.shtml",
+        "publishedAt": "2026-11-19T15:35:16.000+08:00"
       },
       {
-        "title": "何以中国丨在长安，与诗相遇",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734649.shtml",
-        "publishedAt": "2026-11-19T15:23:32.000+08:00"
+        "title": "天津国资国企“十五五”开局四方面发力 服务民生保障城市运行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734650.shtml",
+        "publishedAt": "2026-11-19T15:34:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T15:31:22.032+08:00",
+    "fetchedAt": "2026-11-19T15:41:44.705+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T15:31:22.768+08:00",
+      "fetchedAt": "2026-11-19T15:41:45.463+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T15:31:22.771+08:00",
+      "fetchedAt": "2026-11-19T15:41:45.466+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T15:31:22.781+08:00",
+      "fetchedAt": "2026-11-19T15:41:45.475+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T15:31:22.781+08:00",
+      "fetchedAt": "2026-11-19T15:41:45.475+08:00",
       "error": "未启用",
       "disabled": true
     }
