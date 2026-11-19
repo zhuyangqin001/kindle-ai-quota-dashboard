@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-19T16:12:23.091+08:00",
+  "updatedAt": "2026-11-19T16:22:38.129+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.8,
-    "feelsLikeC": 11.1,
-    "humidity": 39,
-    "windKph": 11.7,
+    "tempC": 14.5,
+    "feelsLikeC": 10.8,
+    "humidity": 40,
+    "windKph": 11.8,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T16:12:23.091+08:00",
+    "observedAt": "2026-11-19T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-19T16:22:38.130+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "月面聚光烧砖、远程送电、开采水冰：中国新技术推动人类从“探月”迈向“驻月”",
+        "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/11-19/news1075459.shtml",
+        "publishedAt": "2026-11-19T16:14:44.000+08:00"
+      },
+      {
+        "title": "浙江安吉：缤纷冬日景美如画",
+        "url": "http://www.chinanews.com.cn/sh/shipin/2026/11-19/news1075461.shtml",
+        "publishedAt": "2026-11-19T16:12:47.000+08:00"
+      },
+      {
+        "title": "暨南大学120周年华诞 校友师生共话“声教讫于四海”",
+        "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/11-19/news1075468.shtml",
+        "publishedAt": "2026-11-19T16:09:13.000+08:00"
+      },
       {
         "title": "第七届长三角文博会开幕 聚焦文化消费新活力",
         "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734678.shtml",
@@ -28,24 +43,9 @@
         "title": "东莞跨境电商出海再添新通道",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734680.shtml",
         "publishedAt": "2026-11-19T16:04:22.000+08:00"
-      },
-      {
-        "title": "中国人民对外友好协会会长杨万明访问尼泊尔",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734681.shtml",
-        "publishedAt": "2026-11-19T16:02:50.000+08:00"
-      },
-      {
-        "title": "北京出台专项措施促特殊医学用途配方食品创新发展",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-19/10734677.shtml",
-        "publishedAt": "2026-11-19T15:59:48.000+08:00"
-      },
-      {
-        "title": "从广州到东南亚：短剧爆红之旅",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734679.shtml",
-        "publishedAt": "2026-11-19T15:56:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T16:12:20.728+08:00",
+    "fetchedAt": "2026-11-19T16:22:35.655+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T16:12:21.381+08:00",
+      "fetchedAt": "2026-11-19T16:22:36.027+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T16:12:21.384+08:00",
+      "fetchedAt": "2026-11-19T16:22:36.029+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T16:12:21.394+08:00",
+      "fetchedAt": "2026-11-19T16:22:36.035+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T16:12:21.395+08:00",
+      "fetchedAt": "2026-11-19T16:22:36.035+08:00",
       "error": "未启用",
       "disabled": true
     }
