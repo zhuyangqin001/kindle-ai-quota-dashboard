@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T11:27:20.783+08:00",
+  "updatedAt": "2026-11-19T14:30:12.618+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.8,
-    "feelsLikeC": 12.3,
-    "humidity": 40,
-    "windKph": 8.5,
-    "windDir": "北风",
+    "tempC": 15.5,
+    "feelsLikeC": 11.7,
+    "humidity": 36,
+    "windKph": 11.8,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T11:27:20.783+08:00",
+    "observedAt": "2026-11-19T14:30:00.000+08:00",
+    "fetchedAt": "2026-11-19T14:30:12.618+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（深圳APEC）深圳之约，美企缘何“用脚投票”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734545.shtml",
-        "publishedAt": "2026-11-19T11:16:38.000+08:00"
+        "title": "【和合共生】习言道｜推动建设和衷共济、开放融通、开拓创新、包容发展的亚太共同体",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734579.shtml",
+        "publishedAt": "2026-11-19T14:23:18.000+08:00"
       },
       {
-        "title": "凝聚粤港澳台侨青年同心力量 江门市举办纪念孙中山先生诞辰160周年专题研讨会",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734541.shtml",
-        "publishedAt": "2026-11-19T11:15:52.000+08:00"
+        "title": "中越将举行第41次北部湾联合巡逻",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734612.shtml",
+        "publishedAt": "2026-11-19T14:22:46.000+08:00"
       },
       {
-        "title": "杨秀梅：一株寒梅绽芳华?履职尽责写担当",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734543.shtml",
-        "publishedAt": "2026-11-19T11:15:24.000+08:00"
+        "title": "做科普是为了“偷懒”？四川华西医生因“有温度的医嘱”走红",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734610.shtml",
+        "publishedAt": "2026-11-19T14:09:40.000+08:00"
       },
       {
-        "title": "国家网络安全通报中心发布JAVA远程代码执行高危漏洞预警",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734531.shtml",
-        "publishedAt": "2026-11-19T11:03:54.000+08:00"
+        "title": "孟京辉：在浪漫与科技间试探戏剧边界",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734596.shtml",
+        "publishedAt": "2026-11-19T14:08:44.000+08:00"
       },
       {
-        "title": "多名中国公民在赞比亚因非法采金被捕，中使馆提醒",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-19/10734486.shtml",
-        "publishedAt": "2026-11-19T11:03:46.000+08:00"
+        "title": "习近平会见美国总统特朗普",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734607.shtml",
+        "publishedAt": "2026-11-19T14:08:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T11:27:18.239+08:00",
+    "fetchedAt": "2026-11-19T14:30:09.596+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T11:27:18.996+08:00",
+      "fetchedAt": "2026-11-19T14:30:10.341+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T16:27:20.000+08:00"
+          "resetAt": "2026-11-19T19:30:12.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T11:27:18.999+08:00",
+      "fetchedAt": "2026-11-19T14:30:10.344+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T11:27:19.007+08:00",
+      "fetchedAt": "2026-11-19T14:30:10.354+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T11:27:19.007+08:00",
+      "fetchedAt": "2026-11-19T14:30:10.354+08:00",
       "error": "未启用",
       "disabled": true
     }
