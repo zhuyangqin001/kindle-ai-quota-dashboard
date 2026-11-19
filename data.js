@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T18:35:21.187+08:00",
+  "updatedAt": "2026-11-19T18:55:44.687+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11,
-    "feelsLikeC": 8.1,
-    "humidity": 55,
-    "windKph": 8.1,
+    "tempC": 10.8,
+    "feelsLikeC": 8,
+    "humidity": 57,
+    "windKph": 7.2,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T18:35:21.187+08:00",
+    "observedAt": "2026-11-19T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-19T18:55:44.687+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国智造新坐标，海信视像入选领航级智能工厂培育名单",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734791.shtml",
-        "publishedAt": "2026-11-19T18:32:54.000+08:00"
+        "title": "武汉火车站综合环境改造加速推进 避免堵在高架赶高铁",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734798.shtml",
+        "publishedAt": "2026-11-19T18:41:18.000+08:00"
       },
       {
-        "title": "聚力担当启新篇 浙江农工党书写参政为民新答卷",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734800.shtml",
-        "publishedAt": "2026-11-19T18:29:52.000+08:00"
+        "title": "【和合共生】习言道｜构建中美建设性战略稳定关系是前无古人的开创性事业",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734801.shtml",
+        "publishedAt": "2026-11-19T18:39:50.000+08:00"
       },
       {
-        "title": "课程上新！",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734769.shtml",
-        "publishedAt": "2026-11-19T18:28:26.000+08:00"
+        "title": "一半在加码，一半在收缩：营销预算的中间地带正在消失",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734796.shtml",
+        "publishedAt": "2026-11-19T18:39:18.000+08:00"
       },
       {
-        "title": "河南平顶山：汝瓷技艺援疆结硕果 以非遗匠心赋能豫疆文化交流",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734767.shtml",
-        "publishedAt": "2026-11-19T18:26:52.000+08:00"
+        "title": "东西问丨一张APEC深圳“全家福”，定格亚太合作发展新故事",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-19/10734711.shtml",
+        "publishedAt": "2026-11-19T18:38:22.000+08:00"
       },
       {
-        "title": "浙江景宁综合高中试点观察：一所山区县中的“第二次选择”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734777.shtml",
-        "publishedAt": "2026-11-19T18:22:33.000+08:00"
+        "title": "韩国2026年累计出口额突破1万亿美元大关",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734799.shtml",
+        "publishedAt": "2026-11-19T18:35:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T18:35:18.787+08:00",
+    "fetchedAt": "2026-11-19T18:55:42.122+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T18:35:19.520+08:00",
+      "fetchedAt": "2026-11-19T18:55:42.861+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T18:35:19.523+08:00",
+      "fetchedAt": "2026-11-19T18:55:42.864+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T18:35:19.532+08:00",
+      "fetchedAt": "2026-11-19T18:55:42.874+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T18:35:19.533+08:00",
+      "fetchedAt": "2026-11-19T18:55:42.874+08:00",
       "error": "未启用",
       "disabled": true
     }
