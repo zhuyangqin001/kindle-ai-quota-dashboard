@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T19:46:29.701+08:00",
+  "updatedAt": "2026-11-19T19:56:41.384+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-19T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-19T19:46:29.701+08:00",
+    "fetchedAt": "2026-11-19T19:56:41.385+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（深圳APEC）专家解读深圳倡议：凝聚工商界共识，为世界注入确定性",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734853.shtml",
-        "publishedAt": "2026-11-19T19:29:13.000+08:00"
+        "title": "中国自研合成生物领域首个酶设计大模型发布",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734841.shtml",
+        "publishedAt": "2026-11-19T19:47:34.000+08:00"
       },
       {
-        "title": "（深圳APEC）彭丽媛同亚太经合组织经济体领导人或代表配偶参观“岭南非遗传承与创新”主题展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734850.shtml",
-        "publishedAt": "2026-11-19T19:29:01.000+08:00"
+        "title": "榕台职工福州探寻百年工业文脉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734842.shtml",
+        "publishedAt": "2026-11-19T19:45:56.000+08:00"
       },
       {
-        "title": "理响中国·讲好“中国式商量”故事｜百姓提案：民间“金点子”结出“金果子”",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-19/10734856.shtml",
-        "publishedAt": "2026-11-19T19:27:19.000+08:00"
+        "title": "国际智能制造联盟主席杨华勇：推动新一代智能制造从概念走向落地",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734760.shtml",
+        "publishedAt": "2026-11-19T19:45:08.000+08:00"
       },
       {
-        "title": "好评中国丨秋假释放文旅活力，让“诗与远方”赋能成长",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734854.shtml",
-        "publishedAt": "2026-11-19T19:25:25.000+08:00"
+        "title": "新疆阿拉山口铁路口岸今年通行中欧（中亚）班列超8000列",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734845.shtml",
+        "publishedAt": "2026-11-19T19:44:58.000+08:00"
       },
       {
-        "title": "“见龙在田”恐龙化石展在香港揭幕 34组国家一级重点保护化石亮相",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734848.shtml",
-        "publishedAt": "2026-11-19T19:25:03.000+08:00"
+        "title": "石泰峰在陕西、四川调研时强调 深入学习贯彻习近平党建思想 推动全面从严治党各项任务落到实处",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734861.shtml",
+        "publishedAt": "2026-11-19T19:43:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T19:46:27.489+08:00",
+    "fetchedAt": "2026-11-19T19:56:38.526+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T19:46:28.170+08:00",
+      "fetchedAt": "2026-11-19T19:56:39.280+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T19:46:28.175+08:00",
+      "fetchedAt": "2026-11-19T19:56:39.283+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T19:46:28.185+08:00",
+      "fetchedAt": "2026-11-19T19:56:39.293+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T19:46:28.185+08:00",
+      "fetchedAt": "2026-11-19T19:56:39.293+08:00",
       "error": "未启用",
       "disabled": true
     }
