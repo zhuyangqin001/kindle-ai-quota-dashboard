@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T22:49:45.665+08:00",
+  "updatedAt": "2026-11-19T22:59:58.485+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 9.2,
-    "feelsLikeC": 7.2,
-    "humidity": 67,
-    "windKph": 2.8,
-    "windDir": "东北风",
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 9.5,
+    "feelsLikeC": 7.6,
+    "humidity": 65,
+    "windKph": 1.8,
+    "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-19T22:45:00.000+08:00",
-    "fetchedAt": "2026-11-19T22:49:45.665+08:00",
+    "fetchedAt": "2026-11-19T22:59:58.485+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "难忘二战记忆——火光之下，不只是新加坡",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734976.shtml",
+        "publishedAt": "2026-11-19T22:56:14.000+08:00"
+      },
+      {
+        "title": "亚太经合组织互联互通蓝图",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734972.shtml",
+        "publishedAt": "2026-11-19T22:51:24.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）外媒镜头里的深圳：机器人群舞、无人机送餐，科幻走进现实",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734970.shtml",
+        "publishedAt": "2026-11-19T22:50:46.000+08:00"
+      },
+      {
+        "title": "学者：中美建构建设性战略稳定关系 不支持“台独”表态具积极意义",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734968.shtml",
+        "publishedAt": "2026-11-19T22:50:08.000+08:00"
+      },
+      {
         "title": "浙江文旅观察：秀山丽水缘何看重“疗休养”？",
         "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734966.shtml",
         "publishedAt": "2026-11-19T22:41:33.000+08:00"
-      },
-      {
-        "title": "跟着戏曲去出海 《戏宇宙（海外季）》开播仪式举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734965.shtml",
-        "publishedAt": "2026-11-19T22:39:39.000+08:00"
-      },
-      {
-        "title": "深圳APEC开启亚太合作新篇章",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734957.shtml",
-        "publishedAt": "2026-11-19T22:38:47.000+08:00"
-      },
-      {
-        "title": "四川推出25项举措提升大小凉山公共法律服务 慢火车成为“流动法治课堂”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734963.shtml",
-        "publishedAt": "2026-11-19T22:37:31.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）2026年亚太经合组织领导人深圳展望发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734961.shtml",
-        "publishedAt": "2026-11-19T22:37:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T22:49:43.058+08:00",
+    "fetchedAt": "2026-11-19T22:59:55.990+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T22:49:43.800+08:00",
+      "fetchedAt": "2026-11-19T22:59:56.744+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T22:49:43.803+08:00",
+      "fetchedAt": "2026-11-19T22:59:56.747+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T22:49:43.812+08:00",
+      "fetchedAt": "2026-11-19T22:59:56.757+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T22:49:43.813+08:00",
+      "fetchedAt": "2026-11-19T22:59:56.758+08:00",
       "error": "未启用",
       "disabled": true
     }
