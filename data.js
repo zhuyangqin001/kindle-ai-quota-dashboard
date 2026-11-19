@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T16:02:07.412+08:00",
+  "updatedAt": "2026-11-19T16:12:23.091+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-19T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T16:02:07.412+08:00",
+    "fetchedAt": "2026-11-19T16:12:23.091+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第七届长三角文博会开幕 聚焦文化消费新活力",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734678.shtml",
+        "publishedAt": "2026-11-19T16:05:08.000+08:00"
+      },
+      {
+        "title": "东莞跨境电商出海再添新通道",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734680.shtml",
+        "publishedAt": "2026-11-19T16:04:22.000+08:00"
+      },
+      {
+        "title": "中国人民对外友好协会会长杨万明访问尼泊尔",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734681.shtml",
+        "publishedAt": "2026-11-19T16:02:50.000+08:00"
+      },
       {
         "title": "北京出台专项措施促特殊医学用途配方食品创新发展",
         "url": "https://www.chinanews.com.cn/jk/2026/11-19/10734677.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "从广州到东南亚：短剧爆红之旅",
         "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734679.shtml",
         "publishedAt": "2026-11-19T15:56:57.000+08:00"
-      },
-      {
-        "title": "甘肃临夏回族自治州成立70周年系列活动举行",
-        "url": "https://www.chinanews.com.cn/mz/2026/11-19/10734674.shtml",
-        "publishedAt": "2026-11-19T15:52:35.000+08:00"
-      },
-      {
-        "title": "A股收评：超4800只个股飘绿，三大指数集体收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734675.shtml",
-        "publishedAt": "2026-11-19T15:52:21.000+08:00"
-      },
-      {
-        "title": "广西与越南边境三省市法院深化合作 破解跨境司法难点",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734673.shtml",
-        "publishedAt": "2026-11-19T15:51:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T16:02:04.843+08:00",
+    "fetchedAt": "2026-11-19T16:12:20.728+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T16:02:05.206+08:00",
+      "fetchedAt": "2026-11-19T16:12:21.381+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T16:02:05.208+08:00",
+      "fetchedAt": "2026-11-19T16:12:21.384+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T16:02:05.213+08:00",
+      "fetchedAt": "2026-11-19T16:12:21.394+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T16:02:05.213+08:00",
+      "fetchedAt": "2026-11-19T16:12:21.395+08:00",
       "error": "未启用",
       "disabled": true
     }
