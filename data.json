@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T14:30:12.618+08:00",
+  "updatedAt": "2026-11-19T14:40:27.218+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-19T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T14:30:12.618+08:00",
+    "fetchedAt": "2026-11-19T14:40:27.218+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "【和合共生】习言道｜推动建设和衷共济、开放融通、开拓创新、包容发展的亚太共同体",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734579.shtml",
-        "publishedAt": "2026-11-19T14:23:18.000+08:00"
+        "title": "（深圳APEC）习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734613.shtml",
+        "publishedAt": "2026-11-19T14:37:43.000+08:00"
       },
       {
-        "title": "中越将举行第41次北部湾联合巡逻",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734612.shtml",
-        "publishedAt": "2026-11-19T14:22:46.000+08:00"
+        "title": "陕西深入推进防震减灾综合治理 构建“空天地井”立体监测网络",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734615.shtml",
+        "publishedAt": "2026-11-19T14:34:47.000+08:00"
       },
       {
-        "title": "做科普是为了“偷懒”？四川华西医生因“有温度的医嘱”走红",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734610.shtml",
-        "publishedAt": "2026-11-19T14:09:40.000+08:00"
+        "title": "第二十二届辽宁省摄影艺术展暨第十六届中国东北三省摄影艺术展辽宁巡展举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734616.shtml",
+        "publishedAt": "2026-11-19T14:33:09.000+08:00"
       },
       {
-        "title": "孟京辉：在浪漫与科技间试探戏剧边界",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734596.shtml",
-        "publishedAt": "2026-11-19T14:08:44.000+08:00"
+        "title": "四川发力新型技术改造 前三季度技改投资增长14.2%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734617.shtml",
+        "publishedAt": "2026-11-19T14:32:19.000+08:00"
       },
       {
-        "title": "习近平会见美国总统特朗普",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734607.shtml",
-        "publishedAt": "2026-11-19T14:08:40.000+08:00"
+        "title": "女子耳内“有虫爬” 竟是家中宠物惹的祸",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-19/10734619.shtml",
+        "publishedAt": "2026-11-19T14:30:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T14:30:09.596+08:00",
+    "fetchedAt": "2026-11-19T14:40:22.502+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T14:30:10.341+08:00",
+      "fetchedAt": "2026-11-19T14:40:23.382+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T19:30:12.000+08:00"
+          "resetAt": "2026-11-19T19:40:26.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T14:30:10.344+08:00",
+      "fetchedAt": "2026-11-19T14:40:23.385+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T14:30:10.354+08:00",
+      "fetchedAt": "2026-11-19T14:40:23.395+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T14:30:10.354+08:00",
+      "fetchedAt": "2026-11-19T14:40:23.395+08:00",
       "error": "未启用",
       "disabled": true
     }
