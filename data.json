@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T06:59:03.905+08:00",
+  "updatedAt": "2026-11-20T07:09:12.997+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 6.7,
-    "feelsLikeC": 5.1,
-    "humidity": 88,
-    "windKph": 2.1,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 6.8,
+    "feelsLikeC": 5.2,
+    "humidity": 87,
+    "windKph": 1.9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T06:59:03.905+08:00",
+    "observedAt": "2026-11-20T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-20T07:09:12.997+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月20日早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-20/10734991.shtml",
+        "publishedAt": "2026-11-20T07:04:27.000+08:00"
+      },
+      {
+        "title": "韩国最高法院将前总理韩德洙涉内乱案发回重审",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734990.shtml",
+        "publishedAt": "2026-11-20T07:02:27.000+08:00"
+      },
       {
         "title": "美媒：特朗普称不会在新年前“仓促”决定对伊行动",
         "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734989.shtml",
@@ -33,19 +43,9 @@
         "title": "普京：克里米亚大桥遭袭后 不再讨论海上停火",
         "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734987.shtml",
         "publishedAt": "2026-11-20T06:05:38.000+08:00"
-      },
-      {
-        "title": "特朗普表示不会在新年前“仓促”决定对伊朗行动",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734986.shtml",
-        "publishedAt": "2026-11-20T06:04:00.000+08:00"
-      },
-      {
-        "title": "习近平：大国和则世界安，大国斗则世界乱",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10734985.shtml",
-        "publishedAt": "2026-11-20T00:13:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T06:59:01.798+08:00",
+    "fetchedAt": "2026-11-20T07:09:11.008+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T06:59:02.557+08:00",
+      "fetchedAt": "2026-11-20T07:09:11.787+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T11:59:03.000+08:00"
+          "resetAt": "2026-11-20T12:09:12.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T06:59:02.561+08:00",
+      "fetchedAt": "2026-11-20T07:09:11.790+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T06:59:02.570+08:00",
+      "fetchedAt": "2026-11-20T07:09:11.800+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T06:59:02.570+08:00",
+      "fetchedAt": "2026-11-20T07:09:11.801+08:00",
       "error": "未启用",
       "disabled": true
     }
