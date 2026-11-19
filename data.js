@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T07:39:42.577+08:00",
+  "updatedAt": "2026-11-20T07:49:51.663+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 7.5,
-    "feelsLikeC": 5.9,
-    "humidity": 81,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 8,
+    "feelsLikeC": 6.4,
+    "humidity": 78,
     "windKph": 1.9,
-    "windDir": "西北风",
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T07:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T07:39:42.577+08:00",
+    "observedAt": "2026-11-20T07:45:00.000+08:00",
+    "fetchedAt": "2026-11-20T07:49:51.663+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "韩国最高法院将前总理韩德洙涉内乱案发回重审",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734993.shtml",
-        "publishedAt": "2026-11-20T07:35:17.000+08:00"
+        "title": "起床后这4件事易引发心梗，冬天尤其别做",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-20/10735004.shtml",
+        "publishedAt": "2026-11-20T07:46:01.000+08:00"
       },
       {
-        "title": "“互联网+AI监管”24小时全自动巡检 餐饮后厨有了智慧眼",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10734998.shtml",
-        "publishedAt": "2026-11-20T07:32:27.000+08:00"
+        "title": "尼泊尔法院批准羁押两名前劳工部长",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734994.shtml",
+        "publishedAt": "2026-11-20T07:40:39.000+08:00"
       },
       {
-        "title": "外媒：一移民船在塞内加尔沿海倾覆 已致数十人失踪",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734992.shtml",
-        "publishedAt": "2026-11-20T07:18:42.000+08:00"
+        "title": "医美逐渐低龄化，“变美”风险不容忽视",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735001.shtml",
+        "publishedAt": "2026-11-20T07:40:15.000+08:00"
       },
       {
-        "title": "11月20日早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-20/10734991.shtml",
-        "publishedAt": "2026-11-20T07:04:27.000+08:00"
+        "title": "国际能源署：中东冲突很可能对能源市场构成持久影响",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734995.shtml",
+        "publishedAt": "2026-11-20T07:39:17.000+08:00"
       },
       {
-        "title": "美媒：特朗普称不会在新年前“仓促”决定对伊行动",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734989.shtml",
-        "publishedAt": "2026-11-20T06:45:16.000+08:00"
+        "title": "美国航空航天局：收到探测器从距离地球一光日发来的信号",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734996.shtml",
+        "publishedAt": "2026-11-20T07:38:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T07:39:40.502+08:00",
+    "fetchedAt": "2026-11-20T07:49:49.711+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T07:39:41.222+08:00",
+      "fetchedAt": "2026-11-20T07:49:50.458+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T12:39:42.000+08:00"
+          "resetAt": "2026-11-20T12:49:51.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T07:39:41.225+08:00",
+      "fetchedAt": "2026-11-20T07:49:50.461+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T07:39:41.234+08:00",
+      "fetchedAt": "2026-11-20T07:49:50.470+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T07:39:41.234+08:00",
+      "fetchedAt": "2026-11-20T07:49:50.471+08:00",
       "error": "未启用",
       "disabled": true
     }
