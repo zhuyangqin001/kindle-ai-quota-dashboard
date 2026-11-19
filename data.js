@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T21:58:34.156+08:00",
+  "updatedAt": "2026-11-19T22:08:47.545+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 9.6,
-    "feelsLikeC": 7.8,
-    "humidity": 66,
-    "windKph": 2.3,
+    "tempC": 9.5,
+    "feelsLikeC": 7.6,
+    "humidity": 67,
+    "windKph": 2.6,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-19T21:58:34.156+08:00",
+    "observedAt": "2026-11-19T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-19T22:08:47.545+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "琼州海峡智能航运示范工程在海口启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734950.shtml",
+        "publishedAt": "2026-11-19T22:01:25.000+08:00"
+      },
+      {
+        "title": "中国排球超级联赛：北京越野男排3比0胜福建福清男排",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211257.shtml",
+        "publishedAt": "2026-11-19T21:58:00.000+08:00"
+      },
+      {
+        "title": "国家广播电视总局举办电视剧《伟大的长征》创作座谈会",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734944.shtml",
+        "publishedAt": "2026-11-19T21:55:31.000+08:00"
+      },
       {
         "title": "韩国前第一夫人金建希首案终审被判有期徒刑4年",
         "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734932.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "拼多多发布Q3财报，赵佳臻：坚持深耕“全产业链”，推动传统产业数智升级",
         "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734947.shtml",
         "publishedAt": "2026-11-19T21:54:31.000+08:00"
-      },
-      {
-        "title": "新华视点｜一地一特色 看乡土大地的丰收与青绿",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734946.shtml",
-        "publishedAt": "2026-11-19T21:50:57.000+08:00"
-      },
-      {
-        "title": "（深圳APEC）事关中国经济 外媒五大关切在深圳找到答案",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734942.shtml",
-        "publishedAt": "2026-11-19T21:50:45.000+08:00"
-      },
-      {
-        "title": "从“国际手账”看深圳！三个现场读懂创新之城“待客之道”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734945.shtml",
-        "publishedAt": "2026-11-19T21:49:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T21:58:30.975+08:00",
+    "fetchedAt": "2026-11-19T22:08:44.947+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T21:58:31.708+08:00",
+      "fetchedAt": "2026-11-19T22:08:45.592+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T21:58:31.711+08:00",
+      "fetchedAt": "2026-11-19T22:08:45.593+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T21:58:31.721+08:00",
+      "fetchedAt": "2026-11-19T22:08:45.599+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T21:58:31.721+08:00",
+      "fetchedAt": "2026-11-19T22:08:45.599+08:00",
       "error": "未启用",
       "disabled": true
     }
