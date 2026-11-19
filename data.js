@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T21:07:53.036+08:00",
+  "updatedAt": "2026-11-19T21:28:09.976+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.9,
-    "feelsLikeC": 8.1,
-    "humidity": 65,
-    "windKph": 1.8,
-    "windDir": "北风",
+    "tempC": 10,
+    "feelsLikeC": 8.2,
+    "humidity": 63,
+    "windKph": 1.5,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T21:07:53.037+08:00",
+    "observedAt": "2026-11-19T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-19T21:28:09.976+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重庆大渡口：力争到2030年将高端摩托车产业打造成200亿级特色产业集群",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734901.shtml",
-        "publishedAt": "2026-11-19T20:59:34.000+08:00"
+        "title": "2026合肥文化旅游（香港）推介洽谈会在港举行 冀共拓文旅市场",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734931.shtml",
+        "publishedAt": "2026-11-19T21:19:35.000+08:00"
       },
       {
-        "title": "七十年回响，听见临夏州不息“声景”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734814.shtml",
-        "publishedAt": "2026-11-19T20:58:52.000+08:00"
+        "title": "“冰超”·2026-2027赛季全国冰壶联赛（伊春站）启幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-19/10734925.shtml",
+        "publishedAt": "2026-11-19T21:18:53.000+08:00"
       },
       {
-        "title": "中国科学院物理所潘庶亨研究员获美国物理学会测量科学最高专项奖",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734903.shtml",
-        "publishedAt": "2026-11-19T20:57:56.000+08:00"
+        "title": "民盟上海市委会涉外法律服务专家团工作站成立",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734924.shtml",
+        "publishedAt": "2026-11-19T21:18:17.000+08:00"
       },
       {
-        "title": "蒙古国总统辞职申请获议会批准",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734898.shtml",
-        "publishedAt": "2026-11-19T20:57:52.000+08:00"
+        "title": "罗马华文学校二十载坚守：以中文课堂搭建中意民心相通之桥",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734928.shtml",
+        "publishedAt": "2026-11-19T21:17:21.000+08:00"
       },
       {
-        "title": "中国官方：2027届全国普通高校毕业生规模预计1299万人",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734900.shtml",
-        "publishedAt": "2026-11-19T20:54:31.000+08:00"
+        "title": "“援”定天山：龙江健儿带阿勒泰“冰上飞驰”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734827.shtml",
+        "publishedAt": "2026-11-19T21:15:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T21:07:49.581+08:00",
+    "fetchedAt": "2026-11-19T21:28:07.054+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T21:07:50.361+08:00",
+      "fetchedAt": "2026-11-19T21:28:07.818+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T21:07:50.364+08:00",
+      "fetchedAt": "2026-11-19T21:28:07.821+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T21:07:50.371+08:00",
+      "fetchedAt": "2026-11-19T21:28:07.831+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T21:07:50.371+08:00",
+      "fetchedAt": "2026-11-19T21:28:07.831+08:00",
       "error": "未启用",
       "disabled": true
     }
