@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-19T10:36:34.607+08:00",
+  "updatedAt": "2026-11-19T10:56:51.995+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 14.1,
-    "feelsLikeC": 11.8,
-    "humidity": 46,
-    "windKph": 6,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 14.3,
+    "feelsLikeC": 12,
+    "humidity": 44,
+    "windKph": 6.9,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T10:36:34.607+08:00",
+    "observedAt": "2026-11-19T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-19T10:56:51.995+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "联合国前副秘书长索尔海姆：中国清洁能源发展让各国走向繁荣与绿色",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734517.shtml",
-        "publishedAt": "2026-11-19T10:26:40.000+08:00"
+        "title": "“来了就是深圳人！”美国网红博主晨跑深圳街头点赞城市魅力",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734529.shtml",
+        "publishedAt": "2026-11-19T10:45:09.000+08:00"
       },
       {
-        "title": "习近平：携手搭建亚太共同体的“四梁八柱”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734519.shtml",
-        "publishedAt": "2026-11-19T10:25:05.000+08:00"
+        "title": "苏黔中华职教社及职业院校东西部协作共建签约仪式在贵阳举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734526.shtml",
+        "publishedAt": "2026-11-19T10:42:04.000+08:00"
       },
       {
-        "title": "习近平谈建设亚太共同体",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734518.shtml",
-        "publishedAt": "2026-11-19T10:24:55.000+08:00"
+        "title": "中国成功发射实践二十四号卫星",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734524.shtml",
+        "publishedAt": "2026-11-19T10:41:32.000+08:00"
       },
       {
-        "title": "第二届空间科学青年科学家国际论坛在塞浦路斯举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734516.shtml",
-        "publishedAt": "2026-11-19T10:22:43.000+08:00"
+        "title": "床位总量下行，养老院还进得去吗",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734527.shtml",
+        "publishedAt": "2026-11-19T10:36:48.000+08:00"
       },
       {
-        "title": "冬装消费需求更趋多元 折射大众真实消费取向与市场新机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734514.shtml",
-        "publishedAt": "2026-11-19T10:14:55.000+08:00"
+        "title": "（深圳APEC）物流跨海、订单“快跑” 亚太互联互通持续升级",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734522.shtml",
+        "publishedAt": "2026-11-19T10:34:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T10:36:32.278+08:00",
+    "fetchedAt": "2026-11-19T10:56:49.224+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T10:36:33.014+08:00",
+      "fetchedAt": "2026-11-19T10:56:49.998+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T15:36:34.000+08:00"
+          "resetAt": "2026-11-19T15:56:51.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T10:36:33.018+08:00",
+      "fetchedAt": "2026-11-19T10:56:50.001+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T10:36:33.027+08:00",
+      "fetchedAt": "2026-11-19T10:56:50.008+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T10:36:33.027+08:00",
+      "fetchedAt": "2026-11-19T10:56:50.009+08:00",
       "error": "未启用",
       "disabled": true
     }
