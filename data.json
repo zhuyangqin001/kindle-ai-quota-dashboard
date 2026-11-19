@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-19T21:28:09.976+08:00",
+  "updatedAt": "2026-11-19T21:58:34.156+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 10,
-    "feelsLikeC": 8.2,
-    "humidity": 63,
-    "windKph": 1.5,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 9.6,
+    "feelsLikeC": 7.8,
+    "humidity": 66,
+    "windKph": 2.3,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T21:28:09.976+08:00",
+    "observedAt": "2026-11-19T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-19T21:58:34.156+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026合肥文化旅游（香港）推介洽谈会在港举行 冀共拓文旅市场",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734931.shtml",
-        "publishedAt": "2026-11-19T21:19:35.000+08:00"
+        "title": "韩国前第一夫人金建希首案终审被判有期徒刑4年",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734932.shtml",
+        "publishedAt": "2026-11-19T21:54:49.000+08:00"
       },
       {
-        "title": "“冰超”·2026-2027赛季全国冰壶联赛（伊春站）启幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-19/10734925.shtml",
-        "publishedAt": "2026-11-19T21:18:53.000+08:00"
+        "title": "拼多多发布Q3财报，赵佳臻：坚持深耕“全产业链”，推动传统产业数智升级",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734947.shtml",
+        "publishedAt": "2026-11-19T21:54:31.000+08:00"
       },
       {
-        "title": "民盟上海市委会涉外法律服务专家团工作站成立",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734924.shtml",
-        "publishedAt": "2026-11-19T21:18:17.000+08:00"
+        "title": "新华视点｜一地一特色 看乡土大地的丰收与青绿",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734946.shtml",
+        "publishedAt": "2026-11-19T21:50:57.000+08:00"
       },
       {
-        "title": "罗马华文学校二十载坚守：以中文课堂搭建中意民心相通之桥",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734928.shtml",
-        "publishedAt": "2026-11-19T21:17:21.000+08:00"
+        "title": "（深圳APEC）事关中国经济 外媒五大关切在深圳找到答案",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734942.shtml",
+        "publishedAt": "2026-11-19T21:50:45.000+08:00"
       },
       {
-        "title": "“援”定天山：龙江健儿带阿勒泰“冰上飞驰”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734827.shtml",
-        "publishedAt": "2026-11-19T21:15:53.000+08:00"
+        "title": "从“国际手账”看深圳！三个现场读懂创新之城“待客之道”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734945.shtml",
+        "publishedAt": "2026-11-19T21:49:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T21:28:07.054+08:00",
+    "fetchedAt": "2026-11-19T21:58:30.975+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T21:28:07.818+08:00",
+      "fetchedAt": "2026-11-19T21:58:31.708+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T21:28:07.821+08:00",
+      "fetchedAt": "2026-11-19T21:58:31.711+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T21:28:07.831+08:00",
+      "fetchedAt": "2026-11-19T21:58:31.721+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T21:28:07.831+08:00",
+      "fetchedAt": "2026-11-19T21:58:31.721+08:00",
       "error": "未启用",
       "disabled": true
     }
