@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T20:37:19.044+08:00",
+  "updatedAt": "2026-11-19T20:57:38.194+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@
     "tempC": 9.9,
     "feelsLikeC": 8.1,
     "humidity": 65,
-    "windKph": 2.4,
+    "windKph": 2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T20:37:19.045+08:00",
+    "observedAt": "2026-11-19T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-19T20:57:38.194+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "云南优良水体比例十年间提升31.8个百分点",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734879.shtml",
-        "publishedAt": "2026-11-19T20:28:28.000+08:00"
+        "title": "中国官方：2027届全国普通高校毕业生规模预计1299万人",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734900.shtml",
+        "publishedAt": "2026-11-19T20:54:31.000+08:00"
       },
       {
-        "title": "西班牙华文学校校长谈华文教育之变：从“选修课”到“必选项”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734810.shtml",
-        "publishedAt": "2026-11-19T20:28:24.000+08:00"
+        "title": "习近平主持中俄美元首会晤",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211240.shtml",
+        "publishedAt": "2026-11-19T20:54:04.000+08:00"
       },
       {
-        "title": "广西优化市场环境 外资企业数量稳健增长",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734873.shtml",
-        "publishedAt": "2026-11-19T20:24:42.000+08:00"
+        "title": "从“看见”到“听见” 浙江脑机接口加速走向病床",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-19/10734808.shtml",
+        "publishedAt": "2026-11-19T20:52:47.000+08:00"
       },
       {
-        "title": "中国中部地区首个“国际卫生机场”落户河南郑州航空口岸",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734875.shtml",
-        "publishedAt": "2026-11-19T20:23:12.000+08:00"
+        "title": "上海区域空间环评改革扩围 源头管控方式更丰富",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734849.shtml",
+        "publishedAt": "2026-11-19T20:48:53.000+08:00"
       },
       {
-        "title": "香港成立国际青年人才交流基地 推动青年发展",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734874.shtml",
-        "publishedAt": "2026-11-19T20:21:54.000+08:00"
+        "title": "中国落子亚太区域合作先手棋",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734889.shtml",
+        "publishedAt": "2026-11-19T20:47:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T20:37:16.760+08:00",
+    "fetchedAt": "2026-11-19T20:57:35.400+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T20:37:17.507+08:00",
+      "fetchedAt": "2026-11-19T20:57:36.174+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 2,
-          "resetAt": "2026-11-20T01:30:16.000+08:00"
+          "resetAt": "2026-11-20T01:30:17.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T20:37:17.510+08:00",
+      "fetchedAt": "2026-11-19T20:57:36.177+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T20:37:17.520+08:00",
+      "fetchedAt": "2026-11-19T20:57:36.188+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T20:37:17.520+08:00",
+      "fetchedAt": "2026-11-19T20:57:36.188+08:00",
       "error": "未启用",
       "disabled": true
     }
