@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T07:29:32.555+08:00",
+  "updatedAt": "2026-11-20T07:39:42.577+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 7.1,
-    "feelsLikeC": 5.5,
-    "humidity": 85,
+    "tempC": 7.5,
+    "feelsLikeC": 5.9,
+    "humidity": 81,
     "windKph": 1.9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T07:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T07:29:32.555+08:00",
+    "observedAt": "2026-11-20T07:30:00.000+08:00",
+    "fetchedAt": "2026-11-20T07:39:42.577+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "韩国最高法院将前总理韩德洙涉内乱案发回重审",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734993.shtml",
+        "publishedAt": "2026-11-20T07:35:17.000+08:00"
+      },
+      {
+        "title": "“互联网+AI监管”24小时全自动巡检 餐饮后厨有了智慧眼",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10734998.shtml",
+        "publishedAt": "2026-11-20T07:32:27.000+08:00"
+      },
       {
         "title": "外媒：一移民船在塞内加尔沿海倾覆 已致数十人失踪",
         "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734992.shtml",
@@ -30,22 +40,12 @@
         "publishedAt": "2026-11-20T07:04:27.000+08:00"
       },
       {
-        "title": "韩国最高法院将前总理韩德洙涉内乱案发回重审",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734990.shtml",
-        "publishedAt": "2026-11-20T07:02:27.000+08:00"
-      },
-      {
         "title": "美媒：特朗普称不会在新年前“仓促”决定对伊行动",
         "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734989.shtml",
         "publishedAt": "2026-11-20T06:45:16.000+08:00"
-      },
-      {
-        "title": "钱凯港运营两周年 为中秘双边贸易带来哪些改变？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10734988.shtml",
-        "publishedAt": "2026-11-20T06:06:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T07:29:30.512+08:00",
+    "fetchedAt": "2026-11-20T07:39:40.502+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T07:29:31.273+08:00",
+      "fetchedAt": "2026-11-20T07:39:41.222+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T12:29:32.000+08:00"
+          "resetAt": "2026-11-20T12:39:42.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T07:29:31.277+08:00",
+      "fetchedAt": "2026-11-20T07:39:41.225+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T07:29:31.286+08:00",
+      "fetchedAt": "2026-11-20T07:39:41.234+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T07:29:31.286+08:00",
+      "fetchedAt": "2026-11-20T07:39:41.234+08:00",
       "error": "未启用",
       "disabled": true
     }
