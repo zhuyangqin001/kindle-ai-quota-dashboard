@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-19T16:22:38.129+08:00",
+  "updatedAt": "2026-11-19T16:33:05.164+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.5,
-    "feelsLikeC": 10.8,
-    "humidity": 40,
-    "windKph": 11.8,
+    "tempC": 14.1,
+    "feelsLikeC": 10.4,
+    "humidity": 41,
+    "windKph": 11.7,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T16:22:38.130+08:00",
+    "observedAt": "2026-11-19T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-19T16:33:05.164+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第六届世界华文教育大会在海南召开",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734703.shtml",
+        "publishedAt": "2026-11-19T16:25:55.000+08:00"
+      },
+      {
+        "title": "习近平会见美国总统特朗普",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734694.shtml",
+        "publishedAt": "2026-11-19T16:22:55.000+08:00"
+      },
+      {
+        "title": "新西兰前总理希普利：中国光伏储能为全球能源转型提供关键支撑",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734697.shtml",
+        "publishedAt": "2026-11-19T16:22:09.000+08:00"
+      },
       {
         "title": "月面聚光烧砖、远程送电、开采水冰：中国新技术推动人类从“探月”迈向“驻月”",
         "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/11-19/news1075459.shtml",
@@ -28,24 +43,9 @@
         "title": "浙江安吉：缤纷冬日景美如画",
         "url": "http://www.chinanews.com.cn/sh/shipin/2026/11-19/news1075461.shtml",
         "publishedAt": "2026-11-19T16:12:47.000+08:00"
-      },
-      {
-        "title": "暨南大学120周年华诞 校友师生共话“声教讫于四海”",
-        "url": "http://www.chinanews.com.cn/sh/shipin/cns/2026/11-19/news1075468.shtml",
-        "publishedAt": "2026-11-19T16:09:13.000+08:00"
-      },
-      {
-        "title": "第七届长三角文博会开幕 聚焦文化消费新活力",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734678.shtml",
-        "publishedAt": "2026-11-19T16:05:08.000+08:00"
-      },
-      {
-        "title": "东莞跨境电商出海再添新通道",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-19/10734680.shtml",
-        "publishedAt": "2026-11-19T16:04:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T16:22:35.655+08:00",
+    "fetchedAt": "2026-11-19T16:33:02.459+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T16:22:36.027+08:00",
+      "fetchedAt": "2026-11-19T16:33:03.195+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T16:22:36.029+08:00",
+      "fetchedAt": "2026-11-19T16:33:03.198+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T16:22:36.035+08:00",
+      "fetchedAt": "2026-11-19T16:33:03.208+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T16:22:36.035+08:00",
+      "fetchedAt": "2026-11-19T16:33:03.208+08:00",
       "error": "未启用",
       "disabled": true
     }
