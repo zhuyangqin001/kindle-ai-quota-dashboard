@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T09:15:13.515+08:00",
+  "updatedAt": "2026-11-19T09:35:30.626+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.7,
-    "feelsLikeC": 10.2,
-    "humidity": 63,
-    "windKph": 1.5,
+    "tempC": 12.6,
+    "feelsLikeC": 10.9,
+    "humidity": 59,
+    "windKph": 2.7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T09:15:13.515+08:00",
+    "observedAt": "2026-11-19T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-19T09:35:30.626+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "49年走到1光日 带着金唱片的旅行者1号能被外星人发现吗",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734478.shtml",
-        "publishedAt": "2026-11-19T09:08:13.000+08:00"
+        "title": "（深圳APEC）海外华商逐浪亚太经贸合作",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-19/10734484.shtml",
+        "publishedAt": "2026-11-19T09:28:54.000+08:00"
       },
       {
-        "title": "调查：超八成受访青年因线下观看竞技体育赛事结识了新朋友",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734476.shtml",
-        "publishedAt": "2026-11-19T09:04:59.000+08:00"
+        "title": "研究表明：常喝咖啡痛风风险可降低",
+        "url": "https://www.chinanews.com.cn/life/2026/11-19/10734493.shtml",
+        "publishedAt": "2026-11-19T09:25:02.000+08:00"
       },
       {
-        "title": "年轻人看体育赛事是在看什么 超半数受访青年从竞体赛事中学会了接纳输赢",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-19/10734473.shtml",
-        "publishedAt": "2026-11-19T08:54:55.000+08:00"
+        "title": "哈尔滨亚布力今冬“点亮”冰雪夜经济",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734490.shtml",
+        "publishedAt": "2026-11-19T09:21:32.000+08:00"
       },
       {
-        "title": "消防隐患要消除 酿成火灾或领刑",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-19/10734471.shtml",
-        "publishedAt": "2026-11-19T08:50:38.000+08:00"
+        "title": "中国首个面向东盟气象AI专项赛事收官",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734489.shtml",
+        "publishedAt": "2026-11-19T09:21:24.000+08:00"
       },
       {
-        "title": "22年历史“幻彩咏香江”收官 “香港冬日小镇·尖沙咀”接棒",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-19/1211168.shtml",
-        "publishedAt": "2026-11-19T08:47:27.000+08:00"
+        "title": "一把斧头加腐蚀性金属，爱尔兰男子潜入机场，“拆报废”一架6000万美元的“大力神”军机",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734481.shtml",
+        "publishedAt": "2026-11-19T09:13:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T09:15:11.126+08:00",
+    "fetchedAt": "2026-11-19T09:35:28.099+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T09:15:11.896+08:00",
+      "fetchedAt": "2026-11-19T09:35:28.850+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T14:15:13.000+08:00"
+          "resetAt": "2026-11-19T14:35:30.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T09:15:11.899+08:00",
+      "fetchedAt": "2026-11-19T09:35:28.853+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T09:15:11.908+08:00",
+      "fetchedAt": "2026-11-19T09:35:28.863+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T09:15:11.909+08:00",
+      "fetchedAt": "2026-11-19T09:35:28.863+08:00",
       "error": "未启用",
       "disabled": true
     }
