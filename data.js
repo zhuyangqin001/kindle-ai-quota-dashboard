@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T14:40:27.218+08:00",
+  "updatedAt": "2026-11-19T15:00:49.490+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.5,
-    "feelsLikeC": 11.7,
-    "humidity": 36,
-    "windKph": 11.8,
+    "tempC": 15.4,
+    "feelsLikeC": 11.8,
+    "humidity": 39,
+    "windKph": 11.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T14:40:27.218+08:00",
+    "observedAt": "2026-11-19T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-19T15:00:49.490+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“水脉变革”让新疆“白色荒滩”变“绿色粮仓”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734626.shtml",
+        "publishedAt": "2026-11-19T14:55:06.000+08:00"
+      },
+      {
+        "title": "第八届中国—东盟法治论坛在重庆举行",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734623.shtml",
+        "publishedAt": "2026-11-19T14:51:50.000+08:00"
+      },
+      {
+        "title": "斯诺克德国大师赛资格赛：丁俊晖晋级正赛32强",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-19/10734622.shtml",
+        "publishedAt": "2026-11-19T14:50:36.000+08:00"
+      },
+      {
+        "title": "成都首发中亚JSQ捷达班列",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734621.shtml",
+        "publishedAt": "2026-11-19T14:48:48.000+08:00"
+      },
+      {
         "title": "（深圳APEC）习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
         "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734613.shtml",
         "publishedAt": "2026-11-19T14:37:43.000+08:00"
-      },
-      {
-        "title": "陕西深入推进防震减灾综合治理 构建“空天地井”立体监测网络",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734615.shtml",
-        "publishedAt": "2026-11-19T14:34:47.000+08:00"
-      },
-      {
-        "title": "第二十二届辽宁省摄影艺术展暨第十六届中国东北三省摄影艺术展辽宁巡展举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734616.shtml",
-        "publishedAt": "2026-11-19T14:33:09.000+08:00"
-      },
-      {
-        "title": "四川发力新型技术改造 前三季度技改投资增长14.2%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734617.shtml",
-        "publishedAt": "2026-11-19T14:32:19.000+08:00"
-      },
-      {
-        "title": "女子耳内“有虫爬” 竟是家中宠物惹的祸",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-19/10734619.shtml",
-        "publishedAt": "2026-11-19T14:30:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T14:40:22.502+08:00",
+    "fetchedAt": "2026-11-19T15:00:46.870+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T14:40:23.382+08:00",
+      "fetchedAt": "2026-11-19T15:00:47.788+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T19:40:26.000+08:00"
+          "resetAt": "2026-11-19T20:00:49.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T14:40:23.385+08:00",
+      "fetchedAt": "2026-11-19T15:00:47.791+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T14:40:23.395+08:00",
+      "fetchedAt": "2026-11-19T15:00:47.801+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T14:40:23.395+08:00",
+      "fetchedAt": "2026-11-19T15:00:47.801+08:00",
       "error": "未启用",
       "disabled": true
     }
