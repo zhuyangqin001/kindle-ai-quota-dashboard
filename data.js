@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T09:35:30.626+08:00",
+  "updatedAt": "2026-11-19T10:05:56.650+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.6,
-    "feelsLikeC": 10.9,
-    "humidity": 59,
-    "windKph": 2.7,
+    "tempC": 13.4,
+    "feelsLikeC": 11.3,
+    "humidity": 52,
+    "windKph": 4.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-19T09:35:30.626+08:00",
+    "observedAt": "2026-11-19T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-19T10:05:56.650+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（深圳APEC）海外华商逐浪亚太经贸合作",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-19/10734484.shtml",
-        "publishedAt": "2026-11-19T09:28:54.000+08:00"
+        "title": "（乡村行·看振兴）广东西田村：旱地西洋菜“串起”富民大产业",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734504.shtml",
+        "publishedAt": "2026-11-19T10:00:16.000+08:00"
       },
       {
-        "title": "研究表明：常喝咖啡痛风风险可降低",
-        "url": "https://www.chinanews.com.cn/life/2026/11-19/10734493.shtml",
-        "publishedAt": "2026-11-19T09:25:02.000+08:00"
+        "title": "沈阳航空航天大学举办“AI+双创”教育成果展 智能体“创伴”发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734503.shtml",
+        "publishedAt": "2026-11-19T09:59:36.000+08:00"
       },
       {
-        "title": "哈尔滨亚布力今冬“点亮”冰雪夜经济",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734490.shtml",
-        "publishedAt": "2026-11-19T09:21:32.000+08:00"
+        "title": "提升版粤剧《一把存忠剑》上演 武戏场面更加恢宏",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-19/10734505.shtml",
+        "publishedAt": "2026-11-19T09:59:26.000+08:00"
       },
       {
-        "title": "中国首个面向东盟气象AI专项赛事收官",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-19/10734489.shtml",
-        "publishedAt": "2026-11-19T09:21:24.000+08:00"
+        "title": "艾格纳：德国首位女总统？",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734508.shtml",
+        "publishedAt": "2026-11-19T09:56:36.000+08:00"
       },
       {
-        "title": "一把斧头加腐蚀性金属，爱尔兰男子潜入机场，“拆报废”一架6000万美元的“大力神”军机",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734481.shtml",
-        "publishedAt": "2026-11-19T09:13:28.000+08:00"
+        "title": "11月19日人民币对美元中间价报6.7128 下调10个基点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734499.shtml",
+        "publishedAt": "2026-11-19T09:53:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T09:35:28.099+08:00",
+    "fetchedAt": "2026-11-19T10:05:53.770+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T09:35:28.850+08:00",
+      "fetchedAt": "2026-11-19T10:05:54.538+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-19T14:35:30.000+08:00"
+          "resetAt": "2026-11-19T15:05:56.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T09:35:28.853+08:00",
+      "fetchedAt": "2026-11-19T10:05:54.541+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T09:35:28.863+08:00",
+      "fetchedAt": "2026-11-19T10:05:54.551+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T09:35:28.863+08:00",
+      "fetchedAt": "2026-11-19T10:05:54.551+08:00",
       "error": "未启用",
       "disabled": true
     }
