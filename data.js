@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T22:08:47.545+08:00",
+  "updatedAt": "2026-11-19T22:19:00.900+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 9.5,
-    "feelsLikeC": 7.6,
+    "tempC": 9.4,
+    "feelsLikeC": 7.5,
     "humidity": 67,
-    "windKph": 2.6,
+    "windKph": 2.9,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-19T22:08:47.545+08:00",
+    "observedAt": "2026-11-19T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-19T22:19:00.901+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（近观中国）“鹏城”之会，习近平寄语亚太合作鹏程万里",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734949.shtml",
+        "publishedAt": "2026-11-19T22:09:14.000+08:00"
+      },
       {
         "title": "琼州海峡智能航运示范工程在海口启动",
         "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734950.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "韩国前第一夫人金建希首案终审被判有期徒刑4年",
         "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734932.shtml",
         "publishedAt": "2026-11-19T21:54:49.000+08:00"
-      },
-      {
-        "title": "拼多多发布Q3财报，赵佳臻：坚持深耕“全产业链”，推动传统产业数智升级",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734947.shtml",
-        "publishedAt": "2026-11-19T21:54:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T22:08:44.947+08:00",
+    "fetchedAt": "2026-11-19T22:18:58.021+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T22:08:45.592+08:00",
+      "fetchedAt": "2026-11-19T22:18:58.784+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T22:08:45.593+08:00",
+      "fetchedAt": "2026-11-19T22:18:58.787+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T22:08:45.599+08:00",
+      "fetchedAt": "2026-11-19T22:18:58.797+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T22:08:45.599+08:00",
+      "fetchedAt": "2026-11-19T22:18:58.797+08:00",
       "error": "未启用",
       "disabled": true
     }
