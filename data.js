@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T17:54:29.121+08:00",
+  "updatedAt": "2026-11-19T18:14:46.858+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12,
-    "feelsLikeC": 8.6,
-    "humidity": 50,
-    "windKph": 10.7,
+    "tempC": 11.6,
+    "feelsLikeC": 8.3,
+    "humidity": 52,
+    "windKph": 10.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-19T17:54:29.121+08:00",
+    "observedAt": "2026-11-19T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-19T18:14:46.859+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "夜蛾如何辨识方向？国际最新研究发现利用地磁和星光两种罗盘导航",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734729.shtml",
-        "publishedAt": "2026-11-19T17:44:39.000+08:00"
+        "title": "外籍专家走读“千年瓷都” 感知历史与现代的共生",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734749.shtml",
+        "publishedAt": "2026-11-19T18:07:18.000+08:00"
       },
       {
-        "title": "浙江丽水：云和梯田美景引客来",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734768.shtml",
-        "publishedAt": "2026-11-19T17:44:25.000+08:00"
+        "title": "新一轮寒潮影响福建 福州马尾至马祖“小三通”航线持续停航",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734783.shtml",
+        "publishedAt": "2026-11-19T18:03:56.000+08:00"
       },
       {
-        "title": "新一批领航级智能工厂培育名单公布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734778.shtml",
-        "publishedAt": "2026-11-19T17:44:09.000+08:00"
+        "title": "福建省入渝推介文旅资源 签约5.9亿元文旅项目深化合作",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734748.shtml",
+        "publishedAt": "2026-11-19T18:01:44.000+08:00"
       },
       {
-        "title": "菲律宾多地高温指数达危险级别 局地达44摄氏度",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734718.shtml",
-        "publishedAt": "2026-11-19T17:44:05.000+08:00"
+        "title": "吉林延边耐寒苗木出海 首进俄罗斯市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734744.shtml",
+        "publishedAt": "2026-11-19T17:57:40.000+08:00"
       },
       {
-        "title": "涉嫌参与海地总统遇刺案 美国牧师或面临终身监禁",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734676.shtml",
-        "publishedAt": "2026-11-19T17:43:09.000+08:00"
+        "title": "玉龙县：石榴花香润校园 籽籽同心育新苗",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734779.shtml",
+        "publishedAt": "2026-11-19T17:56:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T17:54:26.506+08:00",
+    "fetchedAt": "2026-11-19T18:14:44.238+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T17:54:27.252+08:00",
+      "fetchedAt": "2026-11-19T18:14:44.980+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T17:54:27.255+08:00",
+      "fetchedAt": "2026-11-19T18:14:44.983+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T17:54:27.265+08:00",
+      "fetchedAt": "2026-11-19T18:14:44.993+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T17:54:27.265+08:00",
+      "fetchedAt": "2026-11-19T18:14:44.993+08:00",
       "error": "未启用",
       "disabled": true
     }
