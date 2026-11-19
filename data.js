@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T17:23:53.021+08:00",
+  "updatedAt": "2026-11-19T17:54:29.121+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.8,
-    "feelsLikeC": 9.3,
-    "humidity": 46,
-    "windKph": 11.3,
+    "tempC": 12,
+    "feelsLikeC": 8.6,
+    "humidity": 50,
+    "windKph": 10.7,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T17:23:53.021+08:00",
+    "observedAt": "2026-11-19T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-19T17:54:29.121+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "上海五部门联合印发“园八条” 文创园区迎来新一轮政策利好",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734746.shtml",
-        "publishedAt": "2026-11-19T17:15:34.000+08:00"
+        "title": "夜蛾如何辨识方向？国际最新研究发现利用地磁和星光两种罗盘导航",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734729.shtml",
+        "publishedAt": "2026-11-19T17:44:39.000+08:00"
       },
       {
-        "title": "习近平就大国如何正确相处提出4点看法",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734740.shtml",
-        "publishedAt": "2026-11-19T17:15:34.000+08:00"
+        "title": "浙江丽水：云和梯田美景引客来",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-19/10734768.shtml",
+        "publishedAt": "2026-11-19T17:44:25.000+08:00"
       },
       {
-        "title": "印度一学校62名学生疑因附近沥青厂污染出现恶心和呼吸困难症状",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734747.shtml",
-        "publishedAt": "2026-11-19T17:11:33.000+08:00"
+        "title": "新一批领航级智能工厂培育名单公布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734778.shtml",
+        "publishedAt": "2026-11-19T17:44:09.000+08:00"
       },
       {
-        "title": "2027届全国普通高校毕业生规模预计1299万人",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734743.shtml",
-        "publishedAt": "2026-11-19T17:08:47.000+08:00"
+        "title": "菲律宾多地高温指数达危险级别 局地达44摄氏度",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734718.shtml",
+        "publishedAt": "2026-11-19T17:44:05.000+08:00"
       },
       {
-        "title": "中国5G+工业互联网大会开幕 展示新技术新成果",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734735.shtml",
-        "publishedAt": "2026-11-19T17:02:41.000+08:00"
+        "title": "涉嫌参与海地总统遇刺案 美国牧师或面临终身监禁",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734676.shtml",
+        "publishedAt": "2026-11-19T17:43:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T17:23:49.766+08:00",
+    "fetchedAt": "2026-11-19T17:54:26.506+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T17:23:50.396+08:00",
+      "fetchedAt": "2026-11-19T17:54:27.252+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 15,
-          "resetAt": "2026-11-19T20:21:47.000+08:00"
+          "usedPct": 18,
+          "resetAt": "2026-11-19T20:21:46.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T17:23:50.399+08:00",
+      "fetchedAt": "2026-11-19T17:54:27.255+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T17:23:50.409+08:00",
+      "fetchedAt": "2026-11-19T17:54:27.265+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T17:23:50.409+08:00",
+      "fetchedAt": "2026-11-19T17:54:27.265+08:00",
       "error": "未启用",
       "disabled": true
     }
