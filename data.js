@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T04:16:07.985+08:00",
+  "updatedAt": "2026-11-20T04:26:18.379+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-20T04:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T04:16:07.985+08:00",
+    "fetchedAt": "2026-11-20T04:26:18.379+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-19T23:15:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T04:16:06.055+08:00",
+    "fetchedAt": "2026-11-20T04:26:16.255+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T04:16:06.840+08:00",
+      "fetchedAt": "2026-11-20T04:26:16.991+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T09:16:07.000+08:00"
+          "resetAt": "2026-11-20T09:26:18.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T04:16:06.844+08:00",
+      "fetchedAt": "2026-11-20T04:26:16.995+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T04:16:06.853+08:00",
+      "fetchedAt": "2026-11-20T04:26:17.004+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T04:16:06.854+08:00",
+      "fetchedAt": "2026-11-20T04:26:17.004+08:00",
       "error": "未启用",
       "disabled": true
     }
