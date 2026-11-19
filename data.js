@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-19T18:25:02.111+08:00",
+  "updatedAt": "2026-11-19T18:35:21.187+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.3,
+    "tempC": 11,
     "feelsLikeC": 8.1,
-    "humidity": 54,
-    "windKph": 9.3,
+    "humidity": 55,
+    "windKph": 8.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-19T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-19T18:25:02.111+08:00",
+    "observedAt": "2026-11-19T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-19T18:35:21.187+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（深圳APEC）习近平就大国如何正确相处提出4点看法",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734794.shtml",
-        "publishedAt": "2026-11-19T18:15:33.000+08:00"
+        "title": "中国智造新坐标，海信视像入选领航级智能工厂培育名单",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734791.shtml",
+        "publishedAt": "2026-11-19T18:32:54.000+08:00"
       },
       {
-        "title": "“监管要求基金公司上报全部产品AI敞口”不实（2026·11·19）",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734802.shtml",
-        "publishedAt": "2026-11-19T18:14:25.000+08:00"
+        "title": "聚力担当启新篇 浙江农工党书写参政为民新答卷",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734800.shtml",
+        "publishedAt": "2026-11-19T18:29:52.000+08:00"
       },
       {
-        "title": "河南濮阳有序开展第七个“企业家日”系列活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734766.shtml",
-        "publishedAt": "2026-11-19T18:14:21.000+08:00"
+        "title": "课程上新！",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734769.shtml",
+        "publishedAt": "2026-11-19T18:28:26.000+08:00"
       },
       {
-        "title": "（深圳APEC）习近平：大国良性互动不是选择题，而是必答题",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734792.shtml",
-        "publishedAt": "2026-11-19T18:14:15.000+08:00"
+        "title": "河南平顶山：汝瓷技艺援疆结硕果 以非遗匠心赋能豫疆文化交流",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734767.shtml",
+        "publishedAt": "2026-11-19T18:26:52.000+08:00"
       },
       {
-        "title": "香港“宁波帮”人士严玉珍捐赠1500万港币助力家乡教育",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-19/10734797.shtml",
-        "publishedAt": "2026-11-19T18:13:59.000+08:00"
+        "title": "浙江景宁综合高中试点观察：一所山区县中的“第二次选择”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-19/10734777.shtml",
+        "publishedAt": "2026-11-19T18:22:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-19T18:24:59.656+08:00",
+    "fetchedAt": "2026-11-19T18:35:18.787+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-19T18:25:00.412+08:00",
+      "fetchedAt": "2026-11-19T18:35:19.520+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-19T18:25:00.415+08:00",
+      "fetchedAt": "2026-11-19T18:35:19.523+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T18:25:00.425+08:00",
+      "fetchedAt": "2026-11-19T18:35:19.532+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-19T18:25:00.425+08:00",
+      "fetchedAt": "2026-11-19T18:35:19.533+08:00",
       "error": "未启用",
       "disabled": true
     }
