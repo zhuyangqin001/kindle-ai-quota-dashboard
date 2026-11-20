@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T22:27:04.980+08:00",
+  "updatedAt": "2026-11-20T22:37:17.691+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 7.9,
-    "feelsLikeC": 5.9,
+    "tempC": 7.7,
+    "feelsLikeC": 5.6,
     "humidity": 72,
-    "windKph": 2.3,
+    "windKph": 3,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T22:27:04.980+08:00",
+    "observedAt": "2026-11-20T22:30:00.000+08:00",
+    "fetchedAt": "2026-11-20T22:37:17.691+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "宁夏出台干线公路勘察设计指导书 贴合本地地质筑牢公路建设源头关口",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735583.shtml",
+        "publishedAt": "2026-11-20T22:26:07.000+08:00"
+      },
+      {
+        "title": "种下“懒庄稼” 富了“勤快人”——记“中国黄精之乡”十八年产业路",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735582.shtml",
+        "publishedAt": "2026-11-20T22:25:03.000+08:00"
+      },
+      {
+        "title": "赵乐际会见澳大利亚总理阿尔巴尼斯",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211322.shtml",
+        "publishedAt": "2026-11-20T22:22:20.000+08:00"
+      },
       {
         "title": "越共中央总书记、国家主席苏林就任后首访云南",
         "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735579.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "（深圳APEC）“未来在此被设计、测试和建造”——APEC与会领导人点赞深圳",
         "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735538.shtml",
         "publishedAt": "2026-11-20T22:13:40.000+08:00"
-      },
-      {
-        "title": "习近平会见新加坡总理黄循财",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211321.shtml",
-        "publishedAt": "2026-11-20T22:08:27.000+08:00"
-      },
-      {
-        "title": "百对新人喜结良缘 福州市2026年集体婚礼举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735580.shtml",
-        "publishedAt": "2026-11-20T22:06:16.000+08:00"
-      },
-      {
-        "title": "第三届推进中华民族共同体建设学术研讨会在南宁举办",
-        "url": "https://www.chinanews.com.cn/mz/2026/11-20/10735577.shtml",
-        "publishedAt": "2026-11-20T22:04:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T22:27:00.364+08:00",
+    "fetchedAt": "2026-11-20T22:37:14.632+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T22:27:01.023+08:00",
+      "fetchedAt": "2026-11-20T22:37:15.358+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,7 +63,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 15,
+          "usedPct": 19,
           "resetAt": "2026-11-21T01:58:31.000+08:00"
         },
         {
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T22:27:01.027+08:00",
+      "fetchedAt": "2026-11-20T22:37:15.361+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T22:27:01.034+08:00",
+      "fetchedAt": "2026-11-20T22:37:15.371+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T22:27:01.034+08:00",
+      "fetchedAt": "2026-11-20T22:37:15.371+08:00",
       "error": "未启用",
       "disabled": true
     }
