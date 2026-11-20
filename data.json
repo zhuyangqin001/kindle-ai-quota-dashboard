@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T17:31:31.175+08:00",
+  "updatedAt": "2026-11-20T17:41:44.635+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-20T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T17:31:31.175+08:00",
+    "fetchedAt": "2026-11-20T17:41:44.635+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "前三季度数字产业收入超32万亿元 同比增长14.8%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735341.shtml",
-        "publishedAt": "2026-11-20T17:12:54.000+08:00"
+        "title": "贵州新蒲新区：乐器配件生产忙",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735357.shtml",
+        "publishedAt": "2026-11-20T17:37:37.000+08:00"
       },
       {
-        "title": "四川成都：“年轮：四川美术馆2024—2025年收藏作品展”吸引参观者",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735334.shtml",
-        "publishedAt": "2026-11-20T17:11:24.000+08:00"
+        "title": "昆明民进书画院40余幅新作再现红军长征图景",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735362.shtml",
+        "publishedAt": "2026-11-20T17:36:35.000+08:00"
       },
       {
-        "title": "富平赴南昌开展两场文旅推介 推进赣陕文旅协作",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735330.shtml",
-        "publishedAt": "2026-11-20T17:10:50.000+08:00"
+        "title": "辽宁省大连市商务局原局长丛克接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735312.shtml",
+        "publishedAt": "2026-11-20T17:29:19.000+08:00"
       },
       {
-        "title": "山东各地开展供热保障工作 守护民众冬日暖意",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735328.shtml",
-        "publishedAt": "2026-11-20T17:10:40.000+08:00"
+        "title": "河南省许昌市政协原副主席周亮军被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735310.shtml",
+        "publishedAt": "2026-11-20T17:28:39.000+08:00"
       },
       {
-        "title": "安徽平天湖：晨雾绘冬韵 生态入画来",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211297.shtml",
-        "publishedAt": "2026-11-20T17:03:59.000+08:00"
+        "title": "黑龙江广播电视传媒网络集团股份有限公司原董事长赵鸿洋被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735321.shtml",
+        "publishedAt": "2026-11-20T17:27:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T17:31:28.644+08:00",
+    "fetchedAt": "2026-11-20T17:41:40.662+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T17:31:29.309+08:00",
+      "fetchedAt": "2026-11-20T17:41:41.422+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T17:31:29.312+08:00",
+      "fetchedAt": "2026-11-20T17:41:41.425+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T17:31:29.319+08:00",
+      "fetchedAt": "2026-11-20T17:41:41.435+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T17:31:29.320+08:00",
+      "fetchedAt": "2026-11-20T17:41:41.435+08:00",
       "error": "未启用",
       "disabled": true
     }
