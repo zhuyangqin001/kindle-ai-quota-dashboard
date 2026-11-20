@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T08:10:11.213+08:00",
+  "updatedAt": "2026-11-20T08:20:21.730+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 8.5,
-    "feelsLikeC": 6.8,
-    "humidity": 74,
-    "windKph": 2,
+    "tempC": 9.1,
+    "feelsLikeC": 7.5,
+    "humidity": 73,
+    "windKph": 1.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T08:10:11.213+08:00",
+    "observedAt": "2026-11-20T08:15:00.000+08:00",
+    "fetchedAt": "2026-11-20T08:20:21.730+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“线上气氛组，线下社恐人”：大学生如何破局",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735010.shtml",
+        "publishedAt": "2026-11-20T08:12:55.000+08:00"
+      },
+      {
+        "title": "“零添加”“0蔗糖”未必更健康",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-20/10735009.shtml",
+        "publishedAt": "2026-11-20T08:08:41.000+08:00"
+      },
+      {
+        "title": "全国大部天气晴好",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735007.shtml",
+        "publishedAt": "2026-11-20T08:07:43.000+08:00"
+      },
       {
         "title": "抄袭、洗稿事件频发 文学刊物如何守住“原创防线”",
         "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735008.shtml",
@@ -28,24 +43,9 @@
         "title": "研究发现：大脑的“青春期”能持续到32岁左右",
         "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735006.shtml",
         "publishedAt": "2026-11-20T07:51:52.000+08:00"
-      },
-      {
-        "title": "王毅介绍亚太经合组织第三十三次领导人非正式会议及相关活动成果",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10734999.shtml",
-        "publishedAt": "2026-11-20T07:46:21.000+08:00"
-      },
-      {
-        "title": "起床后这4件事易引发心梗，冬天尤其别做",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-20/10735004.shtml",
-        "publishedAt": "2026-11-20T07:46:01.000+08:00"
-      },
-      {
-        "title": "产销、改装、回收，汽车消费全链条发力",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735005.shtml",
-        "publishedAt": "2026-11-20T07:45:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T08:10:09.000+08:00",
+    "fetchedAt": "2026-11-20T08:20:19.522+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T08:10:09.670+08:00",
+      "fetchedAt": "2026-11-20T08:20:20.255+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T13:10:10.000+08:00"
+          "resetAt": "2026-11-20T13:20:21.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T08:10:09.672+08:00",
+      "fetchedAt": "2026-11-20T08:20:20.258+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T08:10:09.678+08:00",
+      "fetchedAt": "2026-11-20T08:20:20.268+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T08:10:09.678+08:00",
+      "fetchedAt": "2026-11-20T08:20:20.268+08:00",
       "error": "未启用",
       "disabled": true
     }
