@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T16:40:31.655+08:00",
+  "updatedAt": "2026-11-20T16:50:44.121+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.8,
-    "feelsLikeC": 10.5,
-    "humidity": 40,
-    "windKph": 8,
+    "tempC": 13.3,
+    "feelsLikeC": 10.3,
+    "humidity": 43,
+    "windKph": 6.9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T16:40:31.655+08:00",
+    "observedAt": "2026-11-20T16:45:00.000+08:00",
+    "fetchedAt": "2026-11-20T16:50:44.121+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中蒙俄国际旅客列车11月25日起每周往返开行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735308.shtml",
+        "publishedAt": "2026-11-20T16:36:44.000+08:00"
+      },
       {
         "title": "【环瞰·APEC中国年】APEC会议现场，企业代表热议“互联互通”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735306.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "湖北省第三届职业技能大赛在武汉举行",
         "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735257.shtml",
         "publishedAt": "2026-11-20T16:26:22.000+08:00"
-      },
-      {
-        "title": "从鹏城再出发，亚太合作展翅高飞",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-20/10735299.shtml",
-        "publishedAt": "2026-11-20T16:26:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T16:40:28.921+08:00",
+    "fetchedAt": "2026-11-20T16:50:39.858+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T16:40:29.569+08:00",
+      "fetchedAt": "2026-11-20T16:50:40.622+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 67,
-          "resetAt": "2026-11-21T15:50:57.000+08:00"
+          "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T16:40:29.572+08:00",
+      "fetchedAt": "2026-11-20T16:50:40.626+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T16:40:29.579+08:00",
+      "fetchedAt": "2026-11-20T16:50:40.635+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T16:40:29.580+08:00",
+      "fetchedAt": "2026-11-20T16:50:40.635+08:00",
       "error": "未启用",
       "disabled": true
     }
