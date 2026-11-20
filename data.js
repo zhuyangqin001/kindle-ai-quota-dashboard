@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T09:21:28.752+08:00",
+  "updatedAt": "2026-11-20T09:31:40.634+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.2,
-    "feelsLikeC": 9.3,
-    "humidity": 60,
+    "tempC": 11.7,
+    "feelsLikeC": 9.8,
+    "humidity": 58,
     "windKph": 2.7,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T09:21:28.753+08:00",
+    "observedAt": "2026-11-20T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-20T09:31:40.635+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "大量日本民众国会前集会抗议高市政府扩军修宪危险动向",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211266.shtml",
-        "publishedAt": "2026-11-20T09:10:47.000+08:00"
+        "title": "“城超”，因地制宜更出彩",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735045.shtml",
+        "publishedAt": "2026-11-20T09:25:55.000+08:00"
       },
       {
-        "title": "国家邮政局公布2026年1-10月邮政行业运行情况",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735033.shtml",
-        "publishedAt": "2026-11-20T09:10:16.000+08:00"
+        "title": "11月LPR报价出炉：1年期为3.0%，5年期以上为3.5%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735037.shtml",
+        "publishedAt": "2026-11-20T09:23:45.000+08:00"
       },
       {
-        "title": "“赛博确诊”ADHD：逃避，还是自救",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735032.shtml",
-        "publishedAt": "2026-11-20T09:08:58.000+08:00"
+        "title": "有中国公民在委内瑞拉遭网络电信诈骗，中使馆发布提醒",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735022.shtml",
+        "publishedAt": "2026-11-20T09:23:33.000+08:00"
       },
       {
-        "title": "福建省前10个月进出口1.7万亿元 10月进出口、出口、进口均创历史同期新高",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735031.shtml",
-        "publishedAt": "2026-11-20T09:07:52.000+08:00"
+        "title": "全国大部降水稀少 未来十天冷空气势力较弱",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735018.shtml",
+        "publishedAt": "2026-11-20T09:23:23.000+08:00"
       },
       {
-        "title": "前10个月广西外贸进出口同比增长10.9%",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735030.shtml",
-        "publishedAt": "2026-11-20T09:05:44.000+08:00"
+        "title": "呵护群众参与监督的心气（人民时评）",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-20/10735039.shtml",
+        "publishedAt": "2026-11-20T09:22:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T09:21:25.962+08:00",
+    "fetchedAt": "2026-11-20T09:31:37.661+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T09:21:26.718+08:00",
+      "fetchedAt": "2026-11-20T09:31:38.394+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T14:21:28.000+08:00"
+          "resetAt": "2026-11-20T14:31:39.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T09:21:26.721+08:00",
+      "fetchedAt": "2026-11-20T09:31:38.397+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T09:21:26.731+08:00",
+      "fetchedAt": "2026-11-20T09:31:38.406+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T09:21:26.731+08:00",
+      "fetchedAt": "2026-11-20T09:31:38.406+08:00",
       "error": "未启用",
       "disabled": true
     }
