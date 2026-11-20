@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T20:24:30.748+08:00",
+  "updatedAt": "2026-11-20T20:34:43.934+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.3,
+    "tempC": 9.2,
     "feelsLikeC": 7.5,
     "humidity": 66,
-    "windKph": 1.1,
+    "windKph": 0.5,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T20:24:30.748+08:00",
+    "observedAt": "2026-11-20T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-20T20:34:43.934+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "一双板鞋里的默契：警校运动场上的民族交融",
-        "url": "https://www.chinanews.com.cn/mz/2026/11-20/10735486.shtml",
-        "publishedAt": "2026-11-20T20:18:46.000+08:00"
+        "title": "东西问·兰花奖｜贾德·塔博特：中国遗产保护理念之变给世界何种启示？",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-20/10735475.shtml",
+        "publishedAt": "2026-11-20T20:24:58.000+08:00"
       },
       {
-        "title": "多彩贵州·第十九届中国原生态国际摄影大展上海巡展在沪启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735484.shtml",
-        "publishedAt": "2026-11-20T20:18:44.000+08:00"
+        "title": "浙江自然博物院“冰与蓝——极地生命探秘”特展开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735504.shtml",
+        "publishedAt": "2026-11-20T20:22:20.000+08:00"
       },
       {
-        "title": "香港拟修订虚拟资产服务法例 促进数字资产市场发展",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735476.shtml",
-        "publishedAt": "2026-11-20T20:18:14.000+08:00"
+        "title": "长三角上市企业ESG披露报告发布 首考合规率达100%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735505.shtml",
+        "publishedAt": "2026-11-20T20:22:18.000+08:00"
       },
       {
-        "title": "湖南籍在韩志愿军烈士张长兴容颜复原画像归家",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735465.shtml",
-        "publishedAt": "2026-11-20T20:18:10.000+08:00"
+        "title": "一把锁撬动128国市场 沈阳跨境电商助企出海跑出加速度",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735507.shtml",
+        "publishedAt": "2026-11-20T20:22:14.000+08:00"
       },
       {
-        "title": "民盟“盟员讲盟史”短视频展演侧记：让物“开口” 让心抵达",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735473.shtml",
-        "publishedAt": "2026-11-20T20:17:24.000+08:00"
+        "title": "集聚英才强链补链 重庆高新区发力新一代电子信息制造业",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735506.shtml",
+        "publishedAt": "2026-11-20T20:21:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T20:24:27.450+08:00",
+    "fetchedAt": "2026-11-20T20:34:40.554+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T20:24:28.212+08:00",
+      "fetchedAt": "2026-11-20T20:34:41.317+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T01:24:30.000+08:00"
+          "resetAt": "2026-11-21T01:34:42.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 67,
-          "resetAt": "2026-11-21T15:50:58.000+08:00"
+          "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T20:24:28.215+08:00",
+      "fetchedAt": "2026-11-20T20:34:41.321+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T20:24:28.225+08:00",
+      "fetchedAt": "2026-11-20T20:34:41.330+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T20:24:28.225+08:00",
+      "fetchedAt": "2026-11-20T20:34:41.330+08:00",
       "error": "未启用",
       "disabled": true
     }
