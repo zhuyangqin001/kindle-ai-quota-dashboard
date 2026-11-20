@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T17:21:20.401+08:00",
+  "updatedAt": "2026-11-20T17:31:31.175+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.3,
-    "feelsLikeC": 9.6,
-    "humidity": 49,
-    "windKph": 6.3,
+    "tempC": 11.9,
+    "feelsLikeC": 9.1,
+    "humidity": 51,
+    "windKph": 6.5,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T17:21:20.401+08:00",
+    "observedAt": "2026-11-20T17:30:00.000+08:00",
+    "fetchedAt": "2026-11-20T17:31:31.175+08:00",
     "error": null
   },
   "news": {
@@ -40,12 +40,12 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-20T17:10:40.000+08:00"
       },
       {
-        "title": "中欧班列（武汉）2026年始发开行突破500列",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-20/10735323.shtml",
-        "publishedAt": "2026-11-20T17:00:43.000+08:00"
+        "title": "安徽平天湖：晨雾绘冬韵 生态入画来",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211297.shtml",
+        "publishedAt": "2026-11-20T17:03:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T17:21:16.317+08:00",
+    "fetchedAt": "2026-11-20T17:31:28.644+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T17:21:17.070+08:00",
+      "fetchedAt": "2026-11-20T17:31:29.309+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T17:21:17.074+08:00",
+      "fetchedAt": "2026-11-20T17:31:29.312+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T17:21:17.083+08:00",
+      "fetchedAt": "2026-11-20T17:31:29.319+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T17:21:17.084+08:00",
+      "fetchedAt": "2026-11-20T17:31:29.320+08:00",
       "error": "未启用",
       "disabled": true
     }
