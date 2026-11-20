@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T10:12:31.169+08:00",
+  "updatedAt": "2026-11-20T10:22:45.727+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.7,
-    "feelsLikeC": 10.6,
-    "humidity": 51,
-    "windKph": 2.8,
+    "tempC": 13.1,
+    "feelsLikeC": 11,
+    "humidity": 48,
+    "windKph": 3.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T10:12:31.169+08:00",
+    "observedAt": "2026-11-20T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-20T10:22:45.727+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从深圳APEC的三个C，读懂亚太发展的“最大公约数”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735068.shtml",
-        "publishedAt": "2026-11-20T10:02:23.000+08:00"
+        "title": "舞步诉说山海情深 中国首部踢踏舞剧《扎西夏卓》亮相成都",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735049.shtml",
+        "publishedAt": "2026-11-20T10:18:20.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）一片斑兰叶带富一个黎族村",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735043.shtml",
-        "publishedAt": "2026-11-20T10:00:01.000+08:00"
+        "title": "（深圳APEC）从“全妆”迎客到AI赋能 深圳APEC亮点纷呈",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735085.shtml",
+        "publishedAt": "2026-11-20T10:17:48.000+08:00"
       },
       {
-        "title": "从小展台到大市场，展会给农业带来了什么？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735065.shtml",
-        "publishedAt": "2026-11-20T09:58:43.000+08:00"
+        "title": "在深圳，读懂亚太工商界人士的“心头事”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735092.shtml",
+        "publishedAt": "2026-11-20T10:17:24.000+08:00"
       },
       {
-        "title": "土耳其媒体人探访稻香村 点赞新疆乡村振兴成果",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735041.shtml",
-        "publishedAt": "2026-11-20T09:57:49.000+08:00"
+        "title": "大凉山慢火车载几代人奔赴彝历新年",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735063.shtml",
+        "publishedAt": "2026-11-20T10:15:40.000+08:00"
       },
       {
-        "title": "（深圳APEC）会见特朗普，习近平三个词指引中美关系“正确航线”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735047.shtml",
-        "publishedAt": "2026-11-20T09:55:40.000+08:00"
+        "title": "工信部启动2026年“5G+工业互联网”融合应用城市试点工作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735086.shtml",
+        "publishedAt": "2026-11-20T10:14:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T10:12:28.023+08:00",
+    "fetchedAt": "2026-11-20T10:22:41.780+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T10:12:28.766+08:00",
+      "fetchedAt": "2026-11-20T10:22:42.575+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T15:12:30.000+08:00"
+          "resetAt": "2026-11-20T15:22:45.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T10:12:28.769+08:00",
+      "fetchedAt": "2026-11-20T10:22:42.578+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T10:12:28.779+08:00",
+      "fetchedAt": "2026-11-20T10:22:42.588+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T10:12:28.779+08:00",
+      "fetchedAt": "2026-11-20T10:22:42.588+08:00",
       "error": "未启用",
       "disabled": true
     }
