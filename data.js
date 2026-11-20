@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T19:53:51.984+08:00",
+  "updatedAt": "2026-11-20T20:04:04.385+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.5,
+    "tempC": 9.4,
     "feelsLikeC": 7.5,
     "humidity": 65,
-    "windKph": 2.7,
+    "windKph": 1.8,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T19:53:51.984+08:00",
+    "observedAt": "2026-11-20T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-20T20:04:04.386+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中缅2026至2027年度榨季甘蔗跨境运输开启",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735448.shtml",
-        "publishedAt": "2026-11-20T19:48:20.000+08:00"
+        "title": "中华人民共和国和澳大利亚联邦关于气候变化与清洁能源转型的联合声明",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735482.shtml",
+        "publishedAt": "2026-11-20T19:59:03.000+08:00"
       },
       {
-        "title": "（机遇香港）APEC青年企业家峰会在港举行 多方点赞香港亚太枢纽价值",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735470.shtml",
-        "publishedAt": "2026-11-20T19:48:06.000+08:00"
+        "title": "“坐”享新机 “中国椅业之乡”浙江安吉加速转型",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735472.shtml",
+        "publishedAt": "2026-11-20T19:56:45.000+08:00"
       },
       {
-        "title": "第七届西部国采展西安启幕 中医药联通海内外市场",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-20/10735461.shtml",
-        "publishedAt": "2026-11-20T19:47:48.000+08:00"
+        "title": "新增基础研究领域资质 上海市境外职业资格证书认可清单4.0版发布",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735459.shtml",
+        "publishedAt": "2026-11-20T19:55:19.000+08:00"
       },
       {
-        "title": "中蒙俄国际旅客列车11月25日起每周往返开行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735445.shtml",
-        "publishedAt": "2026-11-20T19:42:42.000+08:00"
+        "title": "2026广州文交会“科技味”浓 国际展区异彩纷呈",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735458.shtml",
+        "publishedAt": "2026-11-20T19:51:13.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）科技赋能养殖转型 山西和顺激活乡村振兴“畜”动力",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735442.shtml",
-        "publishedAt": "2026-11-20T19:40:56.000+08:00"
+        "title": "宁夏“光明行”医疗队远赴贝宁",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-20/10735462.shtml",
+        "publishedAt": "2026-11-20T19:50:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T19:53:48.572+08:00",
+    "fetchedAt": "2026-11-20T20:04:01.850+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T19:53:49.311+08:00",
+      "fetchedAt": "2026-11-20T20:04:02.558+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T00:53:51.000+08:00"
+          "resetAt": "2026-11-21T01:04:04.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T19:53:49.315+08:00",
+      "fetchedAt": "2026-11-20T20:04:02.561+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T19:53:49.324+08:00",
+      "fetchedAt": "2026-11-20T20:04:02.571+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T19:53:49.324+08:00",
+      "fetchedAt": "2026-11-20T20:04:02.571+08:00",
       "error": "未启用",
       "disabled": true
     }
