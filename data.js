@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T13:47:15.768+08:00",
+  "updatedAt": "2026-11-20T13:57:27.335+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-20T13:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T13:47:15.768+08:00",
+    "fetchedAt": "2026-11-20T13:57:27.335+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从包装到中转 快递全链条向“绿色”转变",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735183.shtml",
+        "publishedAt": "2026-11-20T13:49:37.000+08:00"
+      },
+      {
+        "title": "湖北职业技能大赛开幕 能工巧匠同台切磋技艺",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735175.shtml",
+        "publishedAt": "2026-11-20T13:44:13.000+08:00"
+      },
+      {
+        "title": "斯诺克德国大师赛资格赛收官 中国军团六人率先晋级正赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-20/10735176.shtml",
+        "publishedAt": "2026-11-20T13:43:11.000+08:00"
+      },
       {
         "title": "APEC“全家福”围巾 大有门道",
         "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735180.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "双向联动拓新局 沪新理事会第七次会议在沪签约落地多项合作",
         "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735173.shtml",
         "publishedAt": "2026-11-20T13:32:10.000+08:00"
-      },
-      {
-        "title": "A股午评：三大指数收跌，超4800只个股飘绿",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735178.shtml",
-        "publishedAt": "2026-11-20T13:30:52.000+08:00"
-      },
-      {
-        "title": "国家公园每五年开展一次“生态体检”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735177.shtml",
-        "publishedAt": "2026-11-20T13:29:34.000+08:00"
-      },
-      {
-        "title": "今年以来广州白云机场口岸APEC外籍旅客占入出境六成",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735168.shtml",
-        "publishedAt": "2026-11-20T13:25:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T13:47:12.672+08:00",
+    "fetchedAt": "2026-11-20T13:57:24.536+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T13:47:13.386+08:00",
+      "fetchedAt": "2026-11-20T13:57:25.286+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 67,
-          "resetAt": "2026-11-21T15:50:58.000+08:00"
+          "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T13:47:13.389+08:00",
+      "fetchedAt": "2026-11-20T13:57:25.289+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T13:47:13.414+08:00",
+      "fetchedAt": "2026-11-20T13:57:25.298+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T13:47:13.415+08:00",
+      "fetchedAt": "2026-11-20T13:57:25.298+08:00",
       "error": "未启用",
       "disabled": true
     }
