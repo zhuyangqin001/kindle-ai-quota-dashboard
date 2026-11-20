@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T14:38:19.910+08:00",
+  "updatedAt": "2026-11-20T14:48:39.923+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 15.5,
-    "feelsLikeC": 11.7,
-    "humidity": 30,
+    "feelsLikeC": 11.6,
+    "humidity": 29,
     "windKph": 9.3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T14:38:19.910+08:00",
+    "observedAt": "2026-11-20T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-20T14:48:39.923+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "探访成都花花猫岛：一座1500平方米孤岛上的流浪猫“桃花源”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735209.shtml",
-        "publishedAt": "2026-11-20T14:31:25.000+08:00"
+        "title": "第四届重庆消博会开幕 近50个国家千余品牌汇聚山城",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735204.shtml",
+        "publishedAt": "2026-11-20T14:40:14.000+08:00"
       },
       {
-        "title": "享惠货值破百亿 海口海关“三同三溯”监管红利持续释放",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735206.shtml",
-        "publishedAt": "2026-11-20T14:26:49.000+08:00"
+        "title": "金融街证券董事长祝艳辉被查",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735202.shtml",
+        "publishedAt": "2026-11-20T14:40:06.000+08:00"
       },
       {
-        "title": "新华图讯丨习近平会见马来西亚总理安瓦尔",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735207.shtml",
-        "publishedAt": "2026-11-20T14:24:47.000+08:00"
+        "title": "延榆高铁王家坪隧道顺利贯通",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735220.shtml",
+        "publishedAt": "2026-11-20T14:38:54.000+08:00"
       },
       {
-        "title": "新华图讯丨习近平会见泰国总理阿努廷",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735198.shtml",
-        "publishedAt": "2026-11-20T14:24:35.000+08:00"
+        "title": "甘肃康县：林间麻出山 席上鲜入座",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735219.shtml",
+        "publishedAt": "2026-11-20T14:38:46.000+08:00"
       },
       {
-        "title": "河北隆化赴天津推介农旅品牌 签约拓展康养研学合作",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735212.shtml",
-        "publishedAt": "2026-11-20T14:24:25.000+08:00"
+        "title": "多年“蛰伏”，终迎“星光”——专访S16冠军战队BLG",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-20/10735215.shtml",
+        "publishedAt": "2026-11-20T14:37:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T14:38:13.276+08:00",
+    "fetchedAt": "2026-11-20T14:48:36.822+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T14:38:14.038+08:00",
+      "fetchedAt": "2026-11-20T14:48:37.562+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T14:38:14.041+08:00",
+      "fetchedAt": "2026-11-20T14:48:37.565+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T14:38:14.049+08:00",
+      "fetchedAt": "2026-11-20T14:48:37.574+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T14:38:14.049+08:00",
+      "fetchedAt": "2026-11-20T14:48:37.575+08:00",
       "error": "未启用",
       "disabled": true
     }
