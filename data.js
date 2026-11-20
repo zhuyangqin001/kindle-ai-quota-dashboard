@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T10:43:10.827+08:00",
+  "updatedAt": "2026-11-20T10:53:28.567+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.4,
-    "feelsLikeC": 11.3,
-    "humidity": 44,
-    "windKph": 3.5,
+    "tempC": 13.8,
+    "feelsLikeC": 11.6,
+    "humidity": 40,
+    "windKph": 4.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T10:43:10.827+08:00",
+    "observedAt": "2026-11-20T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-20T10:53:28.567+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "黑龙江铁力：小鹿踏雪林间行 农文旅融合激活乡村新动能",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735087.shtml",
-        "publishedAt": "2026-11-20T10:37:31.000+08:00"
+        "title": "侨联四海·贸通全球——袁州区组织海外江西侨团代表来袁考察交流",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735108.shtml",
+        "publishedAt": "2026-11-20T10:46:49.000+08:00"
       },
       {
-        "title": "同心四海 侨语济南——2026海外华文媒体山东行济南段活动举办",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735073.shtml",
-        "publishedAt": "2026-11-20T10:36:55.000+08:00"
+        "title": "高安市召开统战系统学习党的二十届五中全会精神宣讲会",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735105.shtml",
+        "publishedAt": "2026-11-20T10:46:15.000+08:00"
       },
       {
-        "title": "一颗“拼豆”的出海路",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735106.shtml",
-        "publishedAt": "2026-11-20T10:34:29.000+08:00"
+        "title": "老挝江西商会会长鄢红霞一行到高安考察调研",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735103.shtml",
+        "publishedAt": "2026-11-20T10:45:53.000+08:00"
       },
       {
-        "title": "中泰媒体合作交流活动在曼谷举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735044.shtml",
-        "publishedAt": "2026-11-20T10:32:00.000+08:00"
+        "title": "我国海洋药物和功能制品业发展提速 规模近千亿",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735109.shtml",
+        "publishedAt": "2026-11-20T10:44:27.000+08:00"
       },
       {
-        "title": "挪威创新署官员：中国电动汽车制造商正获得竞争优势",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735042.shtml",
-        "publishedAt": "2026-11-20T10:31:28.000+08:00"
+        "title": "“印章怎么盖在马赛克上？”厉娜晒流水遭质疑，银行客服回应、律师解读",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735095.shtml",
+        "publishedAt": "2026-11-20T10:43:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T10:43:08.255+08:00",
+    "fetchedAt": "2026-11-20T10:53:22.504+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T10:43:09.006+08:00",
+      "fetchedAt": "2026-11-20T10:53:23.229+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T15:43:10.000+08:00"
+          "resetAt": "2026-11-20T15:53:28.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T10:43:09.009+08:00",
+      "fetchedAt": "2026-11-20T10:53:23.232+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T10:43:09.018+08:00",
+      "fetchedAt": "2026-11-20T10:53:23.242+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T10:43:09.018+08:00",
+      "fetchedAt": "2026-11-20T10:53:23.242+08:00",
       "error": "未启用",
       "disabled": true
     }
