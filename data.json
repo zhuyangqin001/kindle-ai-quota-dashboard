@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T11:54:44.446+08:00",
+  "updatedAt": "2026-11-20T13:26:32.699+08:00",
   "weather": {
     "ok": true,
-    "description": "多云",
-    "iconKey": "cloudy",
-    "tempC": 14.7,
-    "feelsLikeC": 12.4,
-    "humidity": 35,
-    "windKph": 5.8,
+    "description": "晴",
+    "iconKey": "clear",
+    "tempC": 15.4,
+    "feelsLikeC": 12.3,
+    "humidity": 32,
+    "windKph": 8.9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T11:54:44.446+08:00",
+    "observedAt": "2026-11-20T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-20T13:26:32.699+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "湖北木雕艺人巧制木蜗牛 传统技艺焕新走红网络",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735129.shtml",
-        "publishedAt": "2026-11-20T11:46:30.000+08:00"
+        "title": "统战牵线农技下沉 江西临川百合产业提质富民",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735163.shtml",
+        "publishedAt": "2026-11-20T13:16:45.000+08:00"
       },
       {
-        "title": "截至10月底，我国电动汽车充电基础设施(枪)总数达到2539.1万个",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735117.shtml",
-        "publishedAt": "2026-11-20T11:43:42.000+08:00"
+        "title": "拖欠抚养费10万元，补齐仍要被追责？法院判了",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-20/10735169.shtml",
+        "publishedAt": "2026-11-20T13:16:17.000+08:00"
       },
       {
-        "title": "沙漠合围之地“飞”出生态画卷：甘肃民勤候鸟翔集",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735130.shtml",
-        "publishedAt": "2026-11-20T11:39:46.000+08:00"
+        "title": "AI赋能华文教育 业界探索技术与人文融合路径",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735157.shtml",
+        "publishedAt": "2026-11-20T13:07:53.000+08:00"
       },
       {
-        "title": "中韩青年江西行，看见了什么？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735128.shtml",
-        "publishedAt": "2026-11-20T11:38:22.000+08:00"
+        "title": "（深圳APEC）与会多国人士眼中的深圳APEC",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735154.shtml",
+        "publishedAt": "2026-11-20T13:07:47.000+08:00"
       },
       {
-        "title": "（深圳APEC）港澳各界热议深圳APEC会议：深度参与亚太合作，助力共同繁荣",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735125.shtml",
-        "publishedAt": "2026-11-20T11:37:12.000+08:00"
+        "title": "（机遇香港）把握APEC机遇 香港借湾区优势拓国际合作新空间",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735159.shtml",
+        "publishedAt": "2026-11-20T13:07:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T11:54:40.511+08:00",
+    "fetchedAt": "2026-11-20T13:26:27.261+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T11:54:40.929+08:00",
+      "fetchedAt": "2026-11-20T13:26:28.000+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T16:54:44.000+08:00"
+          "resetAt": "2026-11-20T18:09:45.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T11:54:40.930+08:00",
+      "fetchedAt": "2026-11-20T13:26:28.003+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T11:54:40.939+08:00",
+      "fetchedAt": "2026-11-20T13:26:28.013+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T11:54:40.940+08:00",
+      "fetchedAt": "2026-11-20T13:26:28.013+08:00",
       "error": "未启用",
       "disabled": true
     }
