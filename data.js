@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T14:48:39.923+08:00",
+  "updatedAt": "2026-11-20T14:58:54.905+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-20T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T14:48:39.923+08:00",
+    "fetchedAt": "2026-11-20T14:58:54.905+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第四届重庆消博会开幕 近50个国家千余品牌汇聚山城",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735204.shtml",
-        "publishedAt": "2026-11-20T14:40:14.000+08:00"
+        "title": "潘毅琴：以国际商事仲裁护航西部陆海新通道建设",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735229.shtml",
+        "publishedAt": "2026-11-20T14:49:38.000+08:00"
       },
       {
-        "title": "金融街证券董事长祝艳辉被查",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735202.shtml",
-        "publishedAt": "2026-11-20T14:40:06.000+08:00"
+        "title": "江苏提出到2030年基本实现交通运输现代化",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735232.shtml",
+        "publishedAt": "2026-11-20T14:49:30.000+08:00"
       },
       {
-        "title": "延榆高铁王家坪隧道顺利贯通",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735220.shtml",
-        "publishedAt": "2026-11-20T14:38:54.000+08:00"
+        "title": "前10月中国快递收入增速“跑赢”业务量",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735226.shtml",
+        "publishedAt": "2026-11-20T14:48:16.000+08:00"
       },
       {
-        "title": "甘肃康县：林间麻出山 席上鲜入座",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735219.shtml",
-        "publishedAt": "2026-11-20T14:38:46.000+08:00"
+        "title": "百万重奖寻创作者！2027宁波银行·天e网络文学大赛全球启幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735227.shtml",
+        "publishedAt": "2026-11-20T14:47:40.000+08:00"
       },
       {
-        "title": "多年“蛰伏”，终迎“星光”——专访S16冠军战队BLG",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-20/10735215.shtml",
-        "publishedAt": "2026-11-20T14:37:44.000+08:00"
+        "title": "中国电动汽车充电枪总数超2500万个",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735224.shtml",
+        "publishedAt": "2026-11-20T14:47:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T14:48:36.822+08:00",
+    "fetchedAt": "2026-11-20T14:58:51.524+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T14:48:37.562+08:00",
+      "fetchedAt": "2026-11-20T14:58:52.277+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T14:48:37.565+08:00",
+      "fetchedAt": "2026-11-20T14:58:52.280+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T14:48:37.574+08:00",
+      "fetchedAt": "2026-11-20T14:58:52.290+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T14:48:37.575+08:00",
+      "fetchedAt": "2026-11-20T14:58:52.291+08:00",
       "error": "未启用",
       "disabled": true
     }
