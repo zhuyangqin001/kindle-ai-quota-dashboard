@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T18:22:24.435+08:00",
+  "updatedAt": "2026-11-20T19:12:59.951+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.7,
-    "feelsLikeC": 8,
-    "humidity": 57,
-    "windKph": 6.8,
+    "tempC": 9.8,
+    "feelsLikeC": 7.3,
+    "humidity": 63,
+    "windKph": 6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T18:22:24.435+08:00",
+    "observedAt": "2026-11-20T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-20T19:12:59.951+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "千年敦煌“飞”入智慧城市",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735386.shtml",
-        "publishedAt": "2026-11-20T18:03:57.000+08:00"
+        "title": "权威报告称，中国深海远洋海洋生物资源探查采集能力持续提升",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735437.shtml",
+        "publishedAt": "2026-11-20T19:03:38.000+08:00"
       },
       {
-        "title": "算力“发烧”如何退？浙江“九三创吧”汇智解答",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735385.shtml",
-        "publishedAt": "2026-11-20T18:03:55.000+08:00"
+        "title": "世界儿童日：专家呼吁关注0-3岁儿童早期发展",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-20/10735434.shtml",
+        "publishedAt": "2026-11-20T19:03:08.000+08:00"
       },
       {
-        "title": "以赛促学 上海职校学生比拼开瓶、斟酒等服务技艺",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-20/10735384.shtml",
-        "publishedAt": "2026-11-20T18:03:51.000+08:00"
+        "title": "（深圳APEC）深圳的一天，亚太的明天",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735417.shtml",
+        "publishedAt": "2026-11-20T19:02:10.000+08:00"
       },
       {
-        "title": "上海花木露营嘉年华启幕：以一片绿地连接一座城",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735383.shtml",
-        "publishedAt": "2026-11-20T18:03:01.000+08:00"
+        "title": "A股银行板块周五逆势飘红 多只银行股股价创历史新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735433.shtml",
+        "publishedAt": "2026-11-20T19:01:40.000+08:00"
       },
       {
-        "title": "浙江杭州：以“四项机制”推动金融惠企服务",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735378.shtml",
-        "publishedAt": "2026-11-20T18:02:53.000+08:00"
+        "title": "江西南康：高标准农田管护跑出田间加速度",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735432.shtml",
+        "publishedAt": "2026-11-20T19:01:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T18:22:21.205+08:00",
+    "fetchedAt": "2026-11-20T19:12:57.142+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T18:22:21.947+08:00",
+      "fetchedAt": "2026-11-20T19:12:57.868+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T23:22:24.000+08:00"
+          "resetAt": "2026-11-21T00:12:59.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T18:22:21.950+08:00",
+      "fetchedAt": "2026-11-20T19:12:57.871+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T18:22:21.960+08:00",
+      "fetchedAt": "2026-11-20T19:12:57.881+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T18:22:21.961+08:00",
+      "fetchedAt": "2026-11-20T19:12:57.881+08:00",
       "error": "未启用",
       "disabled": true
     }
