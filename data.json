@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T15:19:26.120+08:00",
+  "updatedAt": "2026-11-20T15:29:38.143+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-20T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T15:19:26.120+08:00",
+    "fetchedAt": "2026-11-20T15:29:38.143+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "福建福州：古街秋假迎客来",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735213.shtml",
-        "publishedAt": "2026-11-20T15:11:06.000+08:00"
+        "title": "武汉商学院原党委书记刘志辉被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735228.shtml",
+        "publishedAt": "2026-11-20T15:25:48.000+08:00"
       },
       {
-        "title": "2026年空手道世界杯开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735211.shtml",
-        "publishedAt": "2026-11-20T15:10:29.000+08:00"
+        "title": "原中体产业股份有限公司总裁吴振绵接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735248.shtml",
+        "publishedAt": "2026-11-20T15:24:06.000+08:00"
       },
       {
-        "title": "气温回暖风光好 长沙湘江西岸芦苇引市民打卡",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735203.shtml",
-        "publishedAt": "2026-11-20T15:09:55.000+08:00"
+        "title": "中铝集团广西华银铝业有限公司原总经理刘永刚接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735247.shtml",
+        "publishedAt": "2026-11-20T15:23:20.000+08:00"
       },
       {
-        "title": "超百项计量成果入库 填补多项国内技术空白",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735246.shtml",
-        "publishedAt": "2026-11-20T15:09:51.000+08:00"
+        "title": "11月20日“农产品批发价格200指数”比昨天下降0.08个点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735244.shtml",
+        "publishedAt": "2026-11-20T15:22:50.000+08:00"
       },
       {
-        "title": "湖南省永州市委原常委、秘书长唐能武被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735231.shtml",
-        "publishedAt": "2026-11-20T15:06:55.000+08:00"
+        "title": "（深圳APEC）APEC“中国年”达成系列成果 明确亚太经贸合作着力点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735254.shtml",
+        "publishedAt": "2026-11-20T15:22:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T15:19:22.891+08:00",
+    "fetchedAt": "2026-11-20T15:29:35.189+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T15:19:23.616+08:00",
+      "fetchedAt": "2026-11-20T15:29:35.910+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T15:19:23.619+08:00",
+      "fetchedAt": "2026-11-20T15:29:35.913+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T15:19:23.629+08:00",
+      "fetchedAt": "2026-11-20T15:29:35.921+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T15:19:23.629+08:00",
+      "fetchedAt": "2026-11-20T15:29:35.922+08:00",
       "error": "未启用",
       "disabled": true
     }
