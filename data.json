@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T23:08:04.198+08:00",
+  "updatedAt": "2026-11-20T23:18:19.421+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 7.5,
+    "tempC": 7.4,
     "feelsLikeC": 5.2,
     "humidity": 72,
-    "windKph": 3.7,
+    "windKph": 3.5,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T23:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T23:08:04.198+08:00",
+    "observedAt": "2026-11-20T23:15:00.000+08:00",
+    "fetchedAt": "2026-11-20T23:18:19.421+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "联合国助理秘书长：儿基会同中国合作正惠及世界更多儿童",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735596.shtml",
+        "publishedAt": "2026-11-20T23:07:47.000+08:00"
+      },
+      {
+        "title": "浙江杭州：朱炳仁铜艺作品亮相“非遗盛会”吸引民众",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735559.shtml",
+        "publishedAt": "2026-11-20T23:03:07.000+08:00"
+      },
       {
         "title": "首届历史经典产业博览会在浙江杭州开幕",
         "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735554.shtml",
@@ -33,19 +43,9 @@
         "title": "色彩斑斓“绘就”天然画卷 南京燕雀湖迎来最美时节",
         "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735478.shtml",
         "publishedAt": "2026-11-20T23:00:57.000+08:00"
-      },
-      {
-        "title": "从课堂到舞台，“中国民族声乐表演人才培训”交答卷",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735593.shtml",
-        "publishedAt": "2026-11-20T22:51:00.000+08:00"
-      },
-      {
-        "title": "印尼摄影家镜头里的中国：百幅作品亮相雅加达",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211326.shtml",
-        "publishedAt": "2026-11-20T22:40:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T23:08:01.184+08:00",
+    "fetchedAt": "2026-11-20T23:18:13.881+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T23:08:01.912+08:00",
+      "fetchedAt": "2026-11-20T23:18:14.573+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,7 +63,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 29,
+          "usedPct": 31,
           "resetAt": "2026-11-21T01:58:31.000+08:00"
         },
         {
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T23:08:01.914+08:00",
+      "fetchedAt": "2026-11-20T23:18:14.575+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T23:08:01.925+08:00",
+      "fetchedAt": "2026-11-20T23:18:14.582+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T23:08:01.926+08:00",
+      "fetchedAt": "2026-11-20T23:18:14.582+08:00",
       "error": "未启用",
       "disabled": true
     }
