@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T21:46:32.088+08:00",
+  "updatedAt": "2026-11-20T22:27:04.980+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.2,
-    "feelsLikeC": 6.4,
-    "humidity": 71,
-    "windKph": 1.4,
+    "tempC": 7.9,
+    "feelsLikeC": 5.9,
+    "humidity": 72,
+    "windKph": 2.3,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T21:46:32.088+08:00",
+    "observedAt": "2026-11-20T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-20T22:27:04.980+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "重庆统战文化之都、统战历史名城建设成果发布",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735547.shtml",
-        "publishedAt": "2026-11-20T21:38:22.000+08:00"
+        "title": "越共中央总书记、国家主席苏林就任后首访云南",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735579.shtml",
+        "publishedAt": "2026-11-20T22:18:21.000+08:00"
       },
       {
-        "title": "626种创新药械、特殊食品在海南博鳌实现“中国首用”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735546.shtml",
-        "publishedAt": "2026-11-20T21:37:50.000+08:00"
+        "title": "（深圳APEC）“未来在此被设计、测试和建造”——APEC与会领导人点赞深圳",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735538.shtml",
+        "publishedAt": "2026-11-20T22:13:40.000+08:00"
       },
       {
-        "title": "首届历史经典产业博览会在杭州启幕",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735548.shtml",
-        "publishedAt": "2026-11-20T21:37:46.000+08:00"
+        "title": "习近平会见新加坡总理黄循财",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211321.shtml",
+        "publishedAt": "2026-11-20T22:08:27.000+08:00"
       },
       {
-        "title": "知识产权赋能文旅发展 江西擦亮赣鄱文旅品牌",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735545.shtml",
-        "publishedAt": "2026-11-20T21:37:06.000+08:00"
+        "title": "百对新人喜结良缘 福州市2026年集体婚礼举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735580.shtml",
+        "publishedAt": "2026-11-20T22:06:16.000+08:00"
       },
       {
-        "title": "白尾海雕连续多年“打卡”黄河中卫段",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735544.shtml",
-        "publishedAt": "2026-11-20T21:36:34.000+08:00"
+        "title": "第三届推进中华民族共同体建设学术研讨会在南宁举办",
+        "url": "https://www.chinanews.com.cn/mz/2026/11-20/10735577.shtml",
+        "publishedAt": "2026-11-20T22:04:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T21:46:28.943+08:00",
+    "fetchedAt": "2026-11-20T22:27:00.364+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T21:46:29.688+08:00",
+      "fetchedAt": "2026-11-20T22:27:01.023+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 14,
+          "usedPct": 15,
           "resetAt": "2026-11-21T01:58:31.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 69,
+          "usedPct": 70,
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T21:46:29.691+08:00",
+      "fetchedAt": "2026-11-20T22:27:01.027+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T21:46:29.700+08:00",
+      "fetchedAt": "2026-11-20T22:27:01.034+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T21:46:29.700+08:00",
+      "fetchedAt": "2026-11-20T22:27:01.034+08:00",
       "error": "未启用",
       "disabled": true
     }
