@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-21T02:51:38.846+08:00",
+  "updatedAt": "2026-11-21T03:22:16.293+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 6,
-    "feelsLikeC": 3.9,
-    "humidity": 77,
-    "windKph": 2.6,
-    "windDir": "东风",
+    "tempC": 5.3,
+    "feelsLikeC": 2.9,
+    "humidity": 81,
+    "windKph": 4.8,
+    "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T02:45:00.000+08:00",
-    "fetchedAt": "2026-11-21T02:51:38.846+08:00",
+    "observedAt": "2026-11-21T03:15:00.000+08:00",
+    "fetchedAt": "2026-11-21T03:22:16.293+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-20T23:03:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T02:51:32.673+08:00",
+    "fetchedAt": "2026-11-21T03:22:14.014+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T02:51:33.469+08:00",
+      "fetchedAt": "2026-11-21T03:22:14.369+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,7 +63,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
+          "usedPct": 5,
           "resetAt": "2026-11-21T07:03:53.000+08:00"
         },
         {
@@ -72,10 +72,8 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T02:41:22.460+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
-      "stale": true,
-      "lastAttemptAt": "2026-11-21T02:51:33.471+08:00"
+      "fetchedAt": "2026-11-21T03:22:14.371+08:00",
+      "error": null
     },
     "mimo": {
       "ok": false,
@@ -83,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T02:51:33.481+08:00",
+      "fetchedAt": "2026-11-21T03:22:14.376+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T02:51:33.481+08:00",
+      "fetchedAt": "2026-11-21T03:22:14.376+08:00",
       "error": "未启用",
       "disabled": true
     }
