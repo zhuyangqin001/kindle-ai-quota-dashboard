@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-20T08:00:01.577+08:00",
+  "updatedAt": "2026-11-20T08:10:11.213+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 8,
-    "feelsLikeC": 6.4,
-    "humidity": 78,
-    "windKph": 1.9,
+    "tempC": 8.5,
+    "feelsLikeC": 6.8,
+    "humidity": 74,
+    "windKph": 2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T07:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T08:00:01.577+08:00",
+    "observedAt": "2026-11-20T08:00:00.000+08:00",
+    "fetchedAt": "2026-11-20T08:10:11.213+08:00",
     "error": null
   },
   "news": {
@@ -20,7 +20,12 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "研究发现：大脑的“青春期”能持续到 32 岁左右",
+        "title": "抄袭、洗稿事件频发 文学刊物如何守住“原创防线”",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735008.shtml",
+        "publishedAt": "2026-11-20T08:05:14.000+08:00"
+      },
+      {
+        "title": "研究发现：大脑的“青春期”能持续到32岁左右",
         "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735006.shtml",
         "publishedAt": "2026-11-20T07:51:52.000+08:00"
       },
@@ -38,14 +43,9 @@
         "title": "产销、改装、回收，汽车消费全链条发力",
         "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735005.shtml",
         "publishedAt": "2026-11-20T07:45:47.000+08:00"
-      },
-      {
-        "title": "尼泊尔法院批准羁押两名前劳工部长",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734994.shtml",
-        "publishedAt": "2026-11-20T07:40:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T07:59:59.321+08:00",
+    "fetchedAt": "2026-11-20T08:10:09.000+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T08:00:00.032+08:00",
+      "fetchedAt": "2026-11-20T08:10:09.670+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T13:00:01.000+08:00"
+          "resetAt": "2026-11-20T13:10:10.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T08:00:00.035+08:00",
+      "fetchedAt": "2026-11-20T08:10:09.672+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T08:00:00.042+08:00",
+      "fetchedAt": "2026-11-20T08:10:09.678+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T08:00:00.042+08:00",
+      "fetchedAt": "2026-11-20T08:10:09.678+08:00",
       "error": "未启用",
       "disabled": true
     }
