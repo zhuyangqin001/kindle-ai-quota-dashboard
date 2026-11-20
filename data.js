@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T07:49:51.663+08:00",
+  "updatedAt": "2026-11-20T08:00:01.577+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-20T07:45:00.000+08:00",
-    "fetchedAt": "2026-11-20T07:49:51.663+08:00",
+    "fetchedAt": "2026-11-20T08:00:01.577+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "研究发现：大脑的“青春期”能持续到 32 岁左右",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735006.shtml",
+        "publishedAt": "2026-11-20T07:51:52.000+08:00"
+      },
+      {
+        "title": "王毅介绍亚太经合组织第三十三次领导人非正式会议及相关活动成果",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10734999.shtml",
+        "publishedAt": "2026-11-20T07:46:21.000+08:00"
+      },
+      {
         "title": "起床后这4件事易引发心梗，冬天尤其别做",
         "url": "https://www.chinanews.com.cn/jk/2026/11-20/10735004.shtml",
         "publishedAt": "2026-11-20T07:46:01.000+08:00"
       },
       {
+        "title": "产销、改装、回收，汽车消费全链条发力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735005.shtml",
+        "publishedAt": "2026-11-20T07:45:47.000+08:00"
+      },
+      {
         "title": "尼泊尔法院批准羁押两名前劳工部长",
         "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734994.shtml",
         "publishedAt": "2026-11-20T07:40:39.000+08:00"
-      },
-      {
-        "title": "医美逐渐低龄化，“变美”风险不容忽视",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735001.shtml",
-        "publishedAt": "2026-11-20T07:40:15.000+08:00"
-      },
-      {
-        "title": "国际能源署：中东冲突很可能对能源市场构成持久影响",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734995.shtml",
-        "publishedAt": "2026-11-20T07:39:17.000+08:00"
-      },
-      {
-        "title": "美国航空航天局：收到探测器从距离地球一光日发来的信号",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734996.shtml",
-        "publishedAt": "2026-11-20T07:38:17.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T07:49:49.711+08:00",
+    "fetchedAt": "2026-11-20T07:59:59.321+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T07:49:50.458+08:00",
+      "fetchedAt": "2026-11-20T08:00:00.032+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T12:49:51.000+08:00"
+          "resetAt": "2026-11-20T13:00:01.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T07:49:50.461+08:00",
+      "fetchedAt": "2026-11-20T08:00:00.035+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T07:49:50.470+08:00",
+      "fetchedAt": "2026-11-20T08:00:00.042+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T07:49:50.471+08:00",
+      "fetchedAt": "2026-11-20T08:00:00.042+08:00",
       "error": "未启用",
       "disabled": true
     }
