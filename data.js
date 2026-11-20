@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T10:32:58.052+08:00",
+  "updatedAt": "2026-11-20T10:43:10.827+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-20T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T10:32:58.052+08:00",
+    "fetchedAt": "2026-11-20T10:43:10.827+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "双十一保价靠谱吗？补贴能否成为拒退理由",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735098.shtml",
-        "publishedAt": "2026-11-20T10:25:42.000+08:00"
+        "title": "黑龙江铁力：小鹿踏雪林间行 农文旅融合激活乡村新动能",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735087.shtml",
+        "publishedAt": "2026-11-20T10:37:31.000+08:00"
       },
       {
-        "title": "拼音成单词，文化出海再添新符号",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735097.shtml",
-        "publishedAt": "2026-11-20T10:24:24.000+08:00"
+        "title": "同心四海 侨语济南——2026海外华文媒体山东行济南段活动举办",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-20/10735073.shtml",
+        "publishedAt": "2026-11-20T10:36:55.000+08:00"
       },
       {
-        "title": "习近平会见澳大利亚总理阿尔巴尼斯",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735091.shtml",
-        "publishedAt": "2026-11-20T10:21:00.000+08:00"
+        "title": "一颗“拼豆”的出海路",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735106.shtml",
+        "publishedAt": "2026-11-20T10:34:29.000+08:00"
       },
       {
-        "title": "从愿景到行动：APEC深圳会议的价值在于化承诺为成果",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-20/10735093.shtml",
-        "publishedAt": "2026-11-20T10:20:12.000+08:00"
+        "title": "中泰媒体合作交流活动在曼谷举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735044.shtml",
+        "publishedAt": "2026-11-20T10:32:00.000+08:00"
       },
       {
-        "title": "舞步诉说山海情深 中国首部踢踏舞剧《扎西夏卓》亮相成都",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735049.shtml",
-        "publishedAt": "2026-11-20T10:18:20.000+08:00"
+        "title": "挪威创新署官员：中国电动汽车制造商正获得竞争优势",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735042.shtml",
+        "publishedAt": "2026-11-20T10:31:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T10:32:55.160+08:00",
+    "fetchedAt": "2026-11-20T10:43:08.255+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T10:32:55.912+08:00",
+      "fetchedAt": "2026-11-20T10:43:09.006+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T15:32:57.000+08:00"
+          "resetAt": "2026-11-20T15:43:10.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T10:32:55.915+08:00",
+      "fetchedAt": "2026-11-20T10:43:09.009+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T10:32:55.925+08:00",
+      "fetchedAt": "2026-11-20T10:43:09.018+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T10:32:55.925+08:00",
+      "fetchedAt": "2026-11-20T10:43:09.018+08:00",
       "error": "未启用",
       "disabled": true
     }
