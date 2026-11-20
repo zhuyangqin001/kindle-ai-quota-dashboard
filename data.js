@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T20:04:04.385+08:00",
+  "updatedAt": "2026-11-20T20:14:18.565+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-20T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T20:04:04.386+08:00",
+    "fetchedAt": "2026-11-20T20:14:18.565+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "东西问｜岭南当地的三角梅、木棉，融入APEC经济体领导人的穿搭",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-20/10735474.shtml",
+        "publishedAt": "2026-11-20T20:09:12.000+08:00"
+      },
+      {
+        "title": "多伦多华人艺术家启动中国舞与民族器乐融创项目",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735471.shtml",
+        "publishedAt": "2026-11-20T20:06:14.000+08:00"
+      },
+      {
+        "title": "今年第二批旅游市场严重失信主体典型名单公布",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735469.shtml",
+        "publishedAt": "2026-11-20T20:04:53.000+08:00"
+      },
       {
         "title": "中华人民共和国和澳大利亚联邦关于气候变化与清洁能源转型的联合声明",
         "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735482.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "“坐”享新机 “中国椅业之乡”浙江安吉加速转型",
         "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735472.shtml",
         "publishedAt": "2026-11-20T19:56:45.000+08:00"
-      },
-      {
-        "title": "新增基础研究领域资质 上海市境外职业资格证书认可清单4.0版发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735459.shtml",
-        "publishedAt": "2026-11-20T19:55:19.000+08:00"
-      },
-      {
-        "title": "2026广州文交会“科技味”浓 国际展区异彩纷呈",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735458.shtml",
-        "publishedAt": "2026-11-20T19:51:13.000+08:00"
-      },
-      {
-        "title": "宁夏“光明行”医疗队远赴贝宁",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-20/10735462.shtml",
-        "publishedAt": "2026-11-20T19:50:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T20:04:01.850+08:00",
+    "fetchedAt": "2026-11-20T20:14:13.966+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T20:04:02.558+08:00",
+      "fetchedAt": "2026-11-20T20:14:14.694+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T01:04:04.000+08:00"
+          "resetAt": "2026-11-21T01:14:17.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 67,
-          "resetAt": "2026-11-21T15:50:58.000+08:00"
+          "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T20:04:02.561+08:00",
+      "fetchedAt": "2026-11-20T20:14:14.695+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T20:04:02.571+08:00",
+      "fetchedAt": "2026-11-20T20:14:14.700+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T20:04:02.571+08:00",
+      "fetchedAt": "2026-11-20T20:14:14.701+08:00",
       "error": "未启用",
       "disabled": true
     }
