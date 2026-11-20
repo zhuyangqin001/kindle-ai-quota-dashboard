@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T09:11:17.391+08:00",
+  "updatedAt": "2026-11-20T09:21:28.752+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.7,
-    "feelsLikeC": 8.9,
-    "humidity": 63,
+    "tempC": 11.2,
+    "feelsLikeC": 9.3,
+    "humidity": 60,
     "windKph": 2.7,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T09:11:17.391+08:00",
+    "observedAt": "2026-11-20T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-20T09:21:28.753+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "大量日本民众国会前集会抗议高市政府扩军修宪危险动向",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211266.shtml",
+        "publishedAt": "2026-11-20T09:10:47.000+08:00"
+      },
+      {
+        "title": "国家邮政局公布2026年1-10月邮政行业运行情况",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735033.shtml",
+        "publishedAt": "2026-11-20T09:10:16.000+08:00"
+      },
+      {
+        "title": "“赛博确诊”ADHD：逃避，还是自救",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735032.shtml",
+        "publishedAt": "2026-11-20T09:08:58.000+08:00"
+      },
       {
         "title": "福建省前10个月进出口1.7万亿元 10月进出口、出口、进口均创历史同期新高",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735031.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "前10个月广西外贸进出口同比增长10.9%",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-20/10735030.shtml",
         "publishedAt": "2026-11-20T09:05:44.000+08:00"
-      },
-      {
-        "title": "今天起，厨房这个地方，别忘了清洗！",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735029.shtml",
-        "publishedAt": "2026-11-20T09:03:32.000+08:00"
-      },
-      {
-        "title": "昔日宿敌签下军事协议，美防长称委内瑞拉已变“顺从伙伴”，马杜罗狱中荐书",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735023.shtml",
-        "publishedAt": "2026-11-20T08:53:39.000+08:00"
-      },
-      {
-        "title": "“一带一路”上的医疗合作",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-20/10735015.shtml",
-        "publishedAt": "2026-11-20T08:30:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T09:11:14.901+08:00",
+    "fetchedAt": "2026-11-20T09:21:25.962+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T09:11:15.675+08:00",
+      "fetchedAt": "2026-11-20T09:21:26.718+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T14:11:17.000+08:00"
+          "resetAt": "2026-11-20T14:21:28.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T09:11:15.678+08:00",
+      "fetchedAt": "2026-11-20T09:21:26.721+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T09:11:15.688+08:00",
+      "fetchedAt": "2026-11-20T09:21:26.731+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T09:11:15.688+08:00",
+      "fetchedAt": "2026-11-20T09:21:26.731+08:00",
       "error": "未启用",
       "disabled": true
     }
