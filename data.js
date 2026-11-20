@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T17:00:55.942+08:00",
+  "updatedAt": "2026-11-20T17:11:06.963+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-20T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T17:00:55.942+08:00",
+    "fetchedAt": "2026-11-20T17:11:06.963+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "证券监管部门联合公安机关依法处罚编造传播资本市场虚假信息行为 公布4起典型案例",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735326.shtml",
-        "publishedAt": "2026-11-20T16:50:57.000+08:00"
+        "title": "中欧班列（武汉）2026年始发开行突破500列",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-20/10735323.shtml",
+        "publishedAt": "2026-11-20T17:00:43.000+08:00"
       },
       {
-        "title": "中国5部门联合印发海洋产业投融资指导目录",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735309.shtml",
-        "publishedAt": "2026-11-20T16:47:55.000+08:00"
+        "title": "吉林雪场密集开板 多元玩法激活冰雪经济",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-20/10735304.shtml",
+        "publishedAt": "2026-11-20T16:58:03.000+08:00"
       },
       {
-        "title": "封关运作一年将至 海南自贸港发布7项制度集成创新案例",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735313.shtml",
-        "publishedAt": "2026-11-20T16:47:15.000+08:00"
+        "title": "中国LPR连续18个月保持不变",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735325.shtml",
+        "publishedAt": "2026-11-20T16:57:53.000+08:00"
       },
       {
-        "title": "习近平会见马来西亚总理安瓦尔",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-20/1211295.shtml",
-        "publishedAt": "2026-11-20T16:46:52.000+08:00"
+        "title": "2026地球“体检”报告：中国多个可持续发展指标贡献度居全球首位",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735303.shtml",
+        "publishedAt": "2026-11-20T16:57:19.000+08:00"
       },
       {
-        "title": "中蒙俄国际旅客列车11月25日起每周往返开行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735308.shtml",
-        "publishedAt": "2026-11-20T16:36:44.000+08:00"
+        "title": "搭建全球创新与中国市场双向通道 首届虹桥国际科技周在沪开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735301.shtml",
+        "publishedAt": "2026-11-20T16:57:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T17:00:53.243+08:00",
+    "fetchedAt": "2026-11-20T17:11:03.807+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T17:00:54.001+08:00",
+      "fetchedAt": "2026-11-20T17:11:04.543+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T17:00:54.004+08:00",
+      "fetchedAt": "2026-11-20T17:11:04.546+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T17:00:54.010+08:00",
+      "fetchedAt": "2026-11-20T17:11:04.556+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T17:00:54.011+08:00",
+      "fetchedAt": "2026-11-20T17:11:04.557+08:00",
       "error": "未启用",
       "disabled": true
     }
