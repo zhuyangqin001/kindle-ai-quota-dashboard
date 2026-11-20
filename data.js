@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T14:17:50.550+08:00",
+  "updatedAt": "2026-11-20T14:38:19.910+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 15.5,
-    "feelsLikeC": 11.8,
+    "feelsLikeC": 11.7,
     "humidity": 30,
     "windKph": 9.3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T14:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T14:17:50.550+08:00",
+    "observedAt": "2026-11-20T14:30:00.000+08:00",
+    "fetchedAt": "2026-11-20T14:38:19.910+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "APEC参会外企高管：亚太产业协同让互补红利加速释放",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735193.shtml",
-        "publishedAt": "2026-11-20T14:14:55.000+08:00"
+        "title": "探访成都花花猫岛：一座1500平方米孤岛上的流浪猫“桃花源”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735209.shtml",
+        "publishedAt": "2026-11-20T14:31:25.000+08:00"
       },
       {
-        "title": "深圳企业把“共赢”写进亚太产业链",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735195.shtml",
-        "publishedAt": "2026-11-20T14:13:04.000+08:00"
+        "title": "享惠货值破百亿 海口海关“三同三溯”监管红利持续释放",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735206.shtml",
+        "publishedAt": "2026-11-20T14:26:49.000+08:00"
       },
       {
-        "title": "AI类岗位扩容、技能人才需求旺 就业市场出现哪些新趋势？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735196.shtml",
-        "publishedAt": "2026-11-20T14:10:38.000+08:00"
+        "title": "新华图讯丨习近平会见马来西亚总理安瓦尔",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735207.shtml",
+        "publishedAt": "2026-11-20T14:24:47.000+08:00"
       },
       {
-        "title": "广西三江：脐橙飘香引客来",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-20/10735188.shtml",
-        "publishedAt": "2026-11-20T14:05:50.000+08:00"
+        "title": "新华图讯丨习近平会见泰国总理阿努廷",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735198.shtml",
+        "publishedAt": "2026-11-20T14:24:35.000+08:00"
       },
       {
-        "title": "采油守望者：传承“三老四严” 数字赋能守护油田生命线",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735189.shtml",
-        "publishedAt": "2026-11-20T13:58:08.000+08:00"
+        "title": "河北隆化赴天津推介农旅品牌 签约拓展康养研学合作",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735212.shtml",
+        "publishedAt": "2026-11-20T14:24:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T14:17:44.208+08:00",
+    "fetchedAt": "2026-11-20T14:38:13.276+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T14:17:44.971+08:00",
+      "fetchedAt": "2026-11-20T14:38:14.038+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 67,
-          "resetAt": "2026-11-21T15:50:58.000+08:00"
+          "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T14:17:44.975+08:00",
+      "fetchedAt": "2026-11-20T14:38:14.041+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T14:17:44.982+08:00",
+      "fetchedAt": "2026-11-20T14:38:14.049+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T14:17:44.983+08:00",
+      "fetchedAt": "2026-11-20T14:38:14.049+08:00",
       "error": "未启用",
       "disabled": true
     }
