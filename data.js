@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T06:15:09.935+08:00",
+  "updatedAt": "2026-11-21T06:25:20.457+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-21T06:15:00.000+08:00",
-    "fetchedAt": "2026-11-21T06:15:09.936+08:00",
+    "fetchedAt": "2026-11-21T06:25:20.458+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "U17世界杯 中国队首战不敌西班牙队",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735608.shtml",
+        "publishedAt": "2026-11-21T06:17:47.000+08:00"
+      },
       {
         "title": "安理会举行联合国秘书长遴选第九轮意向性投票",
         "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735607.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会",
         "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735603.shtml",
         "publishedAt": "2026-11-20T23:53:18.000+08:00"
-      },
-      {
-        "title": "印尼人与中国的故事：镜头、课本与父辈记忆",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-20/10735602.shtml",
-        "publishedAt": "2026-11-20T23:32:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T06:15:07.987+08:00",
+    "fetchedAt": "2026-11-21T06:25:18.305+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T06:15:08.731+08:00",
+      "fetchedAt": "2026-11-21T06:25:19.061+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T06:15:08.734+08:00",
+      "fetchedAt": "2026-11-21T06:25:19.064+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T06:15:08.744+08:00",
+      "fetchedAt": "2026-11-21T06:25:19.073+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T06:15:08.744+08:00",
+      "fetchedAt": "2026-11-21T06:25:19.073+08:00",
       "error": "未启用",
       "disabled": true
     }
