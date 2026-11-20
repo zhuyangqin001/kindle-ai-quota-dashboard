@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T19:33:26.684+08:00",
+  "updatedAt": "2026-11-20T19:43:40.105+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-20T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T19:33:26.684+08:00",
+    "fetchedAt": "2026-11-20T19:43:40.105+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "财政部在香港成功发行20亿美元主权债券 总认购金额为发行金额36倍",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735454.shtml",
-        "publishedAt": "2026-11-20T19:18:55.000+08:00"
-      },
-      {
-        "title": "2026世界计算大会在长沙开幕 共探智能经济新形态",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735453.shtml",
-        "publishedAt": "2026-11-20T19:18:51.000+08:00"
-      },
-      {
-        "title": "云南布局“十五五”生态文明：争当排头兵 消除国省控劣Ⅴ类断面",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735451.shtml",
-        "publishedAt": "2026-11-20T19:18:49.000+08:00"
-      },
-      {
-        "title": "日本核心CPI连续62个月上涨",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10735435.shtml",
-        "publishedAt": "2026-11-20T19:17:53.000+08:00"
+        "title": "江西首个“万兆光网+数字标注”OPC社区揭牌落地",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735438.shtml",
+        "publishedAt": "2026-11-20T19:38:48.000+08:00"
       },
       {
         "title": "（深圳APEC）深圳的一天，亚太的明天",
-        "url": "https://www.chinanews.com.cn/${mypath}/2007/06-21/1.shtml",
-        "publishedAt": "2026-11-20T19:05:12.000+08:00"
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735417.shtml",
+        "publishedAt": "2026-11-20T19:25:37.000+08:00"
+      },
+      {
+        "title": "累计发行超400万册 《长征》出版20周年纪念分享会在京举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735455.shtml",
+        "publishedAt": "2026-11-20T19:24:53.000+08:00"
+      },
+      {
+        "title": "张国清出席国际丝绸组织成立大会并致辞",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735449.shtml",
+        "publishedAt": "2026-11-20T19:24:45.000+08:00"
+      },
+      {
+        "title": "财政部在香港成功发行20亿美元主权债券 总认购金额为发行金额36倍",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-20/10735454.shtml",
+        "publishedAt": "2026-11-20T19:18:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T19:33:23.031+08:00",
+    "fetchedAt": "2026-11-20T19:43:35.951+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T19:33:23.779+08:00",
+      "fetchedAt": "2026-11-20T19:43:36.704+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T00:33:26.000+08:00"
+          "resetAt": "2026-11-21T00:43:38.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 67,
-          "resetAt": "2026-11-21T15:50:58.000+08:00"
+          "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T19:33:23.783+08:00",
+      "fetchedAt": "2026-11-20T19:43:36.708+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T19:33:23.792+08:00",
+      "fetchedAt": "2026-11-20T19:43:36.717+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T19:33:23.792+08:00",
+      "fetchedAt": "2026-11-20T19:43:36.717+08:00",
       "error": "未启用",
       "disabled": true
     }
