@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T11:03:38.742+08:00",
+  "updatedAt": "2026-11-20T11:13:50.263+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-20T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-20T11:03:38.742+08:00",
+    "fetchedAt": "2026-11-20T11:13:50.263+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "62.8%！中国超六成可持续发展指标接近或实现2030年目标",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735116.shtml",
+        "publishedAt": "2026-11-20T11:06:52.000+08:00"
+      },
+      {
+        "title": "一卡玩转长三角！来文博会解锁展内展外多元新体验",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735115.shtml",
+        "publishedAt": "2026-11-20T11:00:22.000+08:00"
+      },
       {
         "title": "习近平会见新加坡总理黄循财",
         "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735114.shtml",
@@ -33,19 +43,9 @@
         "title": "（投资中国）DHL高管：对中国市场长期增长前景保持信心",
         "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735111.shtml",
         "publishedAt": "2026-11-20T10:51:39.000+08:00"
-      },
-      {
-        "title": "11月20日央行开展3795亿元隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735064.shtml",
-        "publishedAt": "2026-11-20T10:51:39.000+08:00"
-      },
-      {
-        "title": "11月20日人民币对美元中间价报6.7131 下调3个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735059.shtml",
-        "publishedAt": "2026-11-20T10:51:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T11:03:36.722+08:00",
+    "fetchedAt": "2026-11-20T11:13:47.531+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T11:03:37.082+08:00",
+      "fetchedAt": "2026-11-20T11:13:48.257+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T16:03:38.000+08:00"
+          "resetAt": "2026-11-20T16:13:49.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T11:03:37.084+08:00",
+      "fetchedAt": "2026-11-20T11:13:48.261+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T11:03:37.089+08:00",
+      "fetchedAt": "2026-11-20T11:13:48.271+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T11:03:37.089+08:00",
+      "fetchedAt": "2026-11-20T11:13:48.271+08:00",
       "error": "未启用",
       "disabled": true
     }
