@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T13:36:49.108+08:00",
+  "updatedAt": "2026-11-20T13:47:15.768+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 15.5,
-    "feelsLikeC": 12.2,
+    "feelsLikeC": 12.1,
     "humidity": 31,
     "windKph": 9.2,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-20T13:36:49.108+08:00",
+    "observedAt": "2026-11-20T13:45:00.000+08:00",
+    "fetchedAt": "2026-11-20T13:47:15.768+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "APEC“全家福”围巾 大有门道",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735180.shtml",
+        "publishedAt": "2026-11-20T13:38:45.000+08:00"
+      },
+      {
+        "title": "双向联动拓新局 沪新理事会第七次会议在沪签约落地多项合作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735173.shtml",
+        "publishedAt": "2026-11-20T13:32:10.000+08:00"
+      },
+      {
+        "title": "A股午评：三大指数收跌，超4800只个股飘绿",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735178.shtml",
+        "publishedAt": "2026-11-20T13:30:52.000+08:00"
+      },
       {
         "title": "国家公园每五年开展一次“生态体检”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735177.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "今年以来广州白云机场口岸APEC外籍旅客占入出境六成",
         "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735168.shtml",
         "publishedAt": "2026-11-20T13:25:50.000+08:00"
-      },
-      {
-        "title": "新华图讯丨习近平会见新加坡总理黄循财",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735160.shtml",
-        "publishedAt": "2026-11-20T13:25:40.000+08:00"
-      },
-      {
-        "title": "新华图讯丨习近平会见澳大利亚总理阿尔巴尼斯",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735165.shtml",
-        "publishedAt": "2026-11-20T13:25:16.000+08:00"
-      },
-      {
-        "title": "新华图讯丨习近平会见印度尼西亚总统普拉博沃",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735162.shtml",
-        "publishedAt": "2026-11-20T13:25:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T13:36:44.021+08:00",
+    "fetchedAt": "2026-11-20T13:47:12.672+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T13:36:44.771+08:00",
+      "fetchedAt": "2026-11-20T13:47:13.386+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T13:36:44.773+08:00",
+      "fetchedAt": "2026-11-20T13:47:13.389+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T13:36:44.783+08:00",
+      "fetchedAt": "2026-11-20T13:47:13.414+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T13:36:44.783+08:00",
+      "fetchedAt": "2026-11-20T13:47:13.415+08:00",
       "error": "未启用",
       "disabled": true
     }
