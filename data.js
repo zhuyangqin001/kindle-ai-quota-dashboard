@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-20T08:20:21.730+08:00",
+  "updatedAt": "2026-11-20T08:30:32.498+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 9.1,
-    "feelsLikeC": 7.5,
-    "humidity": 73,
-    "windKph": 1.8,
-    "windDir": "北风",
+    "tempC": 9.6,
+    "feelsLikeC": 7.9,
+    "humidity": 70,
+    "windKph": 2.3,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-20T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-20T08:20:21.730+08:00",
+    "observedAt": "2026-11-20T08:30:00.000+08:00",
+    "fetchedAt": "2026-11-20T08:30:32.498+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "AI走进大学课堂：教什么，怎么教",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735011.shtml",
+        "publishedAt": "2026-11-20T08:21:29.000+08:00"
+      },
       {
         "title": "“线上气氛组，线下社恐人”：大学生如何破局",
         "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735010.shtml",
@@ -30,7 +35,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-20T08:08:41.000+08:00"
       },
       {
-        "title": "全国大部天气晴好",
+        "title": "中央气象台：未来两天，全国大部降水稀少",
         "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735007.shtml",
         "publishedAt": "2026-11-20T08:07:43.000+08:00"
       },
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "抄袭、洗稿事件频发 文学刊物如何守住“原创防线”",
         "url": "https://www.chinanews.com.cn/cul/2026/11-20/10735008.shtml",
         "publishedAt": "2026-11-20T08:05:14.000+08:00"
-      },
-      {
-        "title": "研究发现：大脑的“青春期”能持续到32岁左右",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-20/10735006.shtml",
-        "publishedAt": "2026-11-20T07:51:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-20T08:20:19.522+08:00",
+    "fetchedAt": "2026-11-20T08:30:30.095+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-20T08:20:20.255+08:00",
+      "fetchedAt": "2026-11-20T08:30:30.771+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-20T13:20:21.000+08:00"
+          "resetAt": "2026-11-20T13:30:32.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-20T08:20:20.258+08:00",
+      "fetchedAt": "2026-11-20T08:30:30.774+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T08:20:20.268+08:00",
+      "fetchedAt": "2026-11-20T08:30:30.784+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-20T08:20:20.268+08:00",
+      "fetchedAt": "2026-11-20T08:30:30.784+08:00",
       "error": "未启用",
       "disabled": true
     }
