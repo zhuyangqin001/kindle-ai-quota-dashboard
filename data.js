@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T09:07:46.870+08:00",
+  "updatedAt": "2026-11-21T09:17:57.863+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.5,
-    "feelsLikeC": 8.6,
-    "humidity": 60,
-    "windKph": 1.7,
+    "tempC": 11.3,
+    "feelsLikeC": 9.4,
+    "humidity": 56,
+    "windKph": 1.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-21T09:07:46.870+08:00",
+    "observedAt": "2026-11-21T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-21T09:17:57.863+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "从“跑多科”到“一号通”，就医流程改革让患者不再“绕晕”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735623.shtml",
+        "publishedAt": "2026-11-21T09:13:47.000+08:00"
+      },
+      {
+        "title": "金价走低带火线下购金：豫园某柜台一上午卖出60余只金手镯",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735622.shtml",
+        "publishedAt": "2026-11-21T09:12:27.000+08:00"
+      },
+      {
+        "title": "洗一次摇粒绒释放70万根微塑料？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735621.shtml",
+        "publishedAt": "2026-11-21T09:09:36.000+08:00"
+      },
+      {
+        "title": "杀伤力极大！多人中招！警惕这个“伤人利器”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735620.shtml",
+        "publishedAt": "2026-11-21T09:07:06.000+08:00"
+      },
+      {
         "title": "WorkBuddy教育公益版覆盖66万用户，混元系列成主力模型",
         "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735619.shtml",
         "publishedAt": "2026-11-21T08:56:30.000+08:00"
-      },
-      {
-        "title": "中澳总理年度会晤联合成果声明（全文）",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735611.shtml",
-        "publishedAt": "2026-11-21T08:49:53.000+08:00"
-      },
-      {
-        "title": "李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-21/1211329.shtml",
-        "publishedAt": "2026-11-21T08:46:00.000+08:00"
-      },
-      {
-        "title": "突发：秘鲁发生6.7级地震，首都有震感",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735617.shtml",
-        "publishedAt": "2026-11-21T08:40:51.000+08:00"
-      },
-      {
-        "title": "美股大跌 纳指年内涨幅悉数回吐",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735615.shtml",
-        "publishedAt": "2026-11-21T08:23:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T09:07:43.975+08:00",
+    "fetchedAt": "2026-11-21T09:17:54.435+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T09:07:44.707+08:00",
+      "fetchedAt": "2026-11-21T09:17:55.196+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T09:07:44.709+08:00",
+      "fetchedAt": "2026-11-21T09:17:55.199+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T09:07:44.719+08:00",
+      "fetchedAt": "2026-11-21T09:17:55.209+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T09:07:44.719+08:00",
+      "fetchedAt": "2026-11-21T09:17:55.209+08:00",
       "error": "未启用",
       "disabled": true
     }
