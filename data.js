@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T21:48:34.531+08:00",
+  "updatedAt": "2026-11-21T21:58:48.254+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-21T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-21T21:48:34.531+08:00",
+    "fetchedAt": "2026-11-21T21:58:48.255+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第七届世界海洋生物多样性大会在比利时举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735916.shtml",
+        "publishedAt": "2026-11-21T21:52:52.000+08:00"
+      },
+      {
+        "title": "2026年林木业大会在南宁举行 现场签约超400亿元",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735919.shtml",
+        "publishedAt": "2026-11-21T21:51:38.000+08:00"
+      },
       {
         "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-21/1211364.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "半部全唐诗咏长安，今天我们为何还要读诗？",
         "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735915.shtml",
         "publishedAt": "2026-11-21T21:17:10.000+08:00"
-      },
-      {
-        "title": "“拖堂”的气候大会给全世界算了笔账",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735906.shtml",
-        "publishedAt": "2026-11-21T21:15:16.000+08:00"
-      },
-      {
-        "title": "结构向优、动能向新 我国消费市场潜能不断释放",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735914.shtml",
-        "publishedAt": "2026-11-21T21:14:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T21:48:30.323+08:00",
+    "fetchedAt": "2026-11-21T21:58:45.212+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T21:48:30.952+08:00",
+      "fetchedAt": "2026-11-21T21:58:45.819+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T21:48:30.955+08:00",
+      "fetchedAt": "2026-11-21T21:58:45.822+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T21:48:30.962+08:00",
+      "fetchedAt": "2026-11-21T21:58:45.830+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T21:48:30.962+08:00",
+      "fetchedAt": "2026-11-21T21:58:45.830+08:00",
       "error": "未启用",
       "disabled": true
     }
