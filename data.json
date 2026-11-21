@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T05:18:01.206+08:00",
+  "updatedAt": "2026-11-22T05:28:14.820+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-22T05:15:00.000+08:00",
-    "fetchedAt": "2026-11-22T05:18:01.207+08:00",
+    "fetchedAt": "2026-11-22T05:28:14.821+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-21T21:53:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T05:17:57.337+08:00",
+    "fetchedAt": "2026-11-22T05:28:08.556+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T05:17:57.789+08:00",
+      "fetchedAt": "2026-11-22T05:28:09.015+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -73,7 +73,9 @@
         }
       ],
       "fetchedAt": "2026-11-22T05:17:57.792+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-11-22T05:28:09.018+08:00"
     },
     "mimo": {
       "ok": false,
@@ -81,7 +83,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T05:17:57.798+08:00",
+      "fetchedAt": "2026-11-22T05:28:09.024+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +93,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T05:17:57.799+08:00",
+      "fetchedAt": "2026-11-22T05:28:09.025+08:00",
       "error": "未启用",
       "disabled": true
     }
