@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T14:42:18.588+08:00",
+  "updatedAt": "2026-11-21T15:22:53.676+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.9,
-    "feelsLikeC": 13.8,
-    "humidity": 32,
-    "windKph": 6.5,
+    "tempC": 16.4,
+    "feelsLikeC": 13.3,
+    "humidity": 34,
+    "windKph": 7,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T14:42:18.588+08:00",
+    "observedAt": "2026-11-21T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-21T15:22:53.676+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“棕色黄金”如何变废为宝？英国学者：中国在相关领域发挥引领作用",
-        "url": "https://www.chinanews.com.cn/kong/2026/11-21/10735709.shtml",
-        "publishedAt": "2026-11-21T14:37:20.000+08:00"
+        "title": "做好冬季电煤保供运输“加减法” 守护万家冬日暖意",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735736.shtml",
+        "publishedAt": "2026-11-21T15:16:30.000+08:00"
       },
       {
-        "title": "全球甲烷中心首席执行官：近零甲烷标准可使油气业甲烷排放降约八成",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735708.shtml",
-        "publishedAt": "2026-11-21T14:20:07.000+08:00"
+        "title": "透过数据“升”看前三季度我国金融服务能力持续加强",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735735.shtml",
+        "publishedAt": "2026-11-21T15:14:46.000+08:00"
       },
       {
-        "title": "两届香港马王“浪漫勇士”退役",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-21/10735719.shtml",
-        "publishedAt": "2026-11-21T13:58:54.000+08:00"
+        "title": "“深圳展望”，为何成为APEC新的里程碑？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735734.shtml",
+        "publishedAt": "2026-11-21T15:12:20.000+08:00"
       },
       {
-        "title": "冬奥场馆开启新赛季 四项国际雪联顶级赛事落地云顶滑雪公园",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735707.shtml",
-        "publishedAt": "2026-11-21T13:47:33.000+08:00"
+        "title": "河南：汝瓷借侨连四海",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735723.shtml",
+        "publishedAt": "2026-11-21T15:11:44.000+08:00"
       },
       {
-        "title": "纪录片《胶林家书》全国首映 家书串起湘滇支边记忆",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735706.shtml",
-        "publishedAt": "2026-11-21T13:46:05.000+08:00"
+        "title": "中国最高检发布指导性案例 涉性侵害未成年人犯罪抗诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735720.shtml",
+        "publishedAt": "2026-11-21T14:52:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T14:42:15.616+08:00",
+    "fetchedAt": "2026-11-21T15:22:50.316+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T14:42:16.380+08:00",
+      "fetchedAt": "2026-11-21T15:22:51.054+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T19:42:18.000+08:00"
+          "resetAt": "2026-11-21T20:22:53.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T14:42:16.383+08:00",
+      "fetchedAt": "2026-11-21T15:22:51.057+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T14:42:16.393+08:00",
+      "fetchedAt": "2026-11-21T15:22:51.066+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T14:42:16.393+08:00",
+      "fetchedAt": "2026-11-21T15:22:51.067+08:00",
       "error": "未启用",
       "disabled": true
     }
