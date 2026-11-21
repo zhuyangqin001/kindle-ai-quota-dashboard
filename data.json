@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-21T08:57:35.414+08:00",
+  "updatedAt": "2026-11-21T09:07:46.870+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.6,
-    "feelsLikeC": 7.7,
-    "humidity": 64,
-    "windKph": 1.8,
+    "tempC": 10.5,
+    "feelsLikeC": 8.6,
+    "humidity": 60,
+    "windKph": 1.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T08:45:00.000+08:00",
-    "fetchedAt": "2026-11-21T08:57:35.414+08:00",
+    "observedAt": "2026-11-21T09:00:00.000+08:00",
+    "fetchedAt": "2026-11-21T09:07:46.870+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "WorkBuddy教育公益版覆盖66万用户，混元系列成主力模型",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735619.shtml",
+        "publishedAt": "2026-11-21T08:56:30.000+08:00"
+      },
+      {
+        "title": "中澳总理年度会晤联合成果声明（全文）",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735611.shtml",
+        "publishedAt": "2026-11-21T08:49:53.000+08:00"
+      },
       {
         "title": "李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-21/1211329.shtml",
@@ -33,19 +43,9 @@
         "title": "美股大跌 纳指年内涨幅悉数回吐",
         "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735615.shtml",
         "publishedAt": "2026-11-21T08:23:08.000+08:00"
-      },
-      {
-        "title": "特朗普：此次亚洲行未能见金正恩 总有一天会见面",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735616.shtml",
-        "publishedAt": "2026-11-21T08:21:32.000+08:00"
-      },
-      {
-        "title": "亚太媒体合作伙伴计划正式成立",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735610.shtml",
-        "publishedAt": "2026-11-21T08:05:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T08:57:33.017+08:00",
+    "fetchedAt": "2026-11-21T09:07:43.975+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T08:57:33.513+08:00",
+      "fetchedAt": "2026-11-21T09:07:44.707+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,7 +63,7 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
+          "usedPct": 6,
           "resetAt": "2026-11-21T13:57:29.000+08:00"
         },
         {
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T08:57:33.515+08:00",
+      "fetchedAt": "2026-11-21T09:07:44.709+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T08:57:33.525+08:00",
+      "fetchedAt": "2026-11-21T09:07:44.719+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T08:57:33.525+08:00",
+      "fetchedAt": "2026-11-21T09:07:44.719+08:00",
       "error": "未启用",
       "disabled": true
     }
