@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T22:19:19.367+08:00",
+  "updatedAt": "2026-11-21T22:29:35.109+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-21T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-21T22:19:19.367+08:00",
+    "fetchedAt": "2026-11-21T22:29:35.109+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“清水文化海外传播与创新发展研讨会”在厦门开幕",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735925.shtml",
+        "publishedAt": "2026-11-21T22:21:45.000+08:00"
+      },
       {
         "title": "第十八届傅雷翻译出版奖获奖者名单在江苏南京揭晓",
         "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735921.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-21/1211364.shtml",
         "publishedAt": "2026-11-21T21:29:29.000+08:00"
-      },
-      {
-        "title": "长安大学回应14号面试13号出结果",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735917.shtml",
-        "publishedAt": "2026-11-21T21:28:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T22:19:16.324+08:00",
+    "fetchedAt": "2026-11-21T22:29:31.660+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T22:19:17.047+08:00",
+      "fetchedAt": "2026-11-21T22:29:32.370+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T22:19:17.050+08:00",
+      "fetchedAt": "2026-11-21T22:29:32.373+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T22:19:17.061+08:00",
+      "fetchedAt": "2026-11-21T22:29:32.383+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T22:19:17.061+08:00",
+      "fetchedAt": "2026-11-21T22:29:32.384+08:00",
       "error": "未启用",
       "disabled": true
     }
