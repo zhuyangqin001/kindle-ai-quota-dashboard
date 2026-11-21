@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T09:17:57.863+08:00",
+  "updatedAt": "2026-11-21T09:28:07.880+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-21T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-21T09:17:57.863+08:00",
+    "fetchedAt": "2026-11-21T09:28:07.880+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“租购修养”全周期保障正在落实落细",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735632.shtml",
+        "publishedAt": "2026-11-21T09:22:15.000+08:00"
+      },
+      {
+        "title": "动起来，不必坐等“有空”",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-21/10735626.shtml",
+        "publishedAt": "2026-11-21T09:19:29.000+08:00"
+      },
+      {
+        "title": "“助眠神器”，真有用还是“割韭菜”？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735625.shtml",
+        "publishedAt": "2026-11-21T09:16:41.000+08:00"
+      },
+      {
+        "title": "数万名日本民众签名反对日本拥有核潜艇",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-21/1211330.shtml",
+        "publishedAt": "2026-11-21T09:15:44.000+08:00"
+      },
+      {
         "title": "从“跑多科”到“一号通”，就医流程改革让患者不再“绕晕”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735623.shtml",
         "publishedAt": "2026-11-21T09:13:47.000+08:00"
-      },
-      {
-        "title": "金价走低带火线下购金：豫园某柜台一上午卖出60余只金手镯",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735622.shtml",
-        "publishedAt": "2026-11-21T09:12:27.000+08:00"
-      },
-      {
-        "title": "洗一次摇粒绒释放70万根微塑料？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735621.shtml",
-        "publishedAt": "2026-11-21T09:09:36.000+08:00"
-      },
-      {
-        "title": "杀伤力极大！多人中招！警惕这个“伤人利器”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735620.shtml",
-        "publishedAt": "2026-11-21T09:07:06.000+08:00"
-      },
-      {
-        "title": "WorkBuddy教育公益版覆盖66万用户，混元系列成主力模型",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735619.shtml",
-        "publishedAt": "2026-11-21T08:56:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T09:17:54.435+08:00",
+    "fetchedAt": "2026-11-21T09:28:05.274+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T09:17:55.196+08:00",
+      "fetchedAt": "2026-11-21T09:28:06.048+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 75,
-          "resetAt": "2026-11-21T15:50:58.000+08:00"
+          "resetAt": "2026-11-21T15:50:57.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T09:17:55.199+08:00",
+      "fetchedAt": "2026-11-21T09:28:06.051+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T09:17:55.209+08:00",
+      "fetchedAt": "2026-11-21T09:28:06.060+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T09:17:55.209+08:00",
+      "fetchedAt": "2026-11-21T09:28:06.060+08:00",
       "error": "未启用",
       "disabled": true
     }
