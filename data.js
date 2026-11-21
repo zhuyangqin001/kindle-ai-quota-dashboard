@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T22:29:35.109+08:00",
+  "updatedAt": "2026-11-21T22:39:54.569+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8,
-    "feelsLikeC": 5.3,
-    "humidity": 72,
-    "windKph": 8,
-    "windDir": "东北风",
+    "tempC": 7.9,
+    "feelsLikeC": 5.1,
+    "humidity": 73,
+    "windKph": 8.3,
+    "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-21T22:29:35.109+08:00",
+    "observedAt": "2026-11-21T22:30:00.000+08:00",
+    "fetchedAt": "2026-11-21T22:39:54.569+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "侨商牵线促成足坛巨星IP落地上海 南京东路添体育文化打卡新地标",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735931.shtml",
+        "publishedAt": "2026-11-21T22:32:30.000+08:00"
+      },
+      {
+        "title": "广西留学生“斗诗”品味中国诗词之美",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735927.shtml",
+        "publishedAt": "2026-11-21T22:25:26.000+08:00"
+      },
+      {
+        "title": "2026文化抗战学术研讨会在桂林举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735926.shtml",
+        "publishedAt": "2026-11-21T22:25:20.000+08:00"
+      },
       {
         "title": "“清水文化海外传播与创新发展研讨会”在厦门开幕",
         "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735925.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "第十八届傅雷翻译出版奖获奖者名单在江苏南京揭晓",
         "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735921.shtml",
         "publishedAt": "2026-11-21T21:53:36.000+08:00"
-      },
-      {
-        "title": "第七届世界海洋生物多样性大会在比利时举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735916.shtml",
-        "publishedAt": "2026-11-21T21:52:52.000+08:00"
-      },
-      {
-        "title": "2026年林木业大会在南宁举行 现场签约超400亿元",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735919.shtml",
-        "publishedAt": "2026-11-21T21:51:38.000+08:00"
-      },
-      {
-        "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-21/1211364.shtml",
-        "publishedAt": "2026-11-21T21:29:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T22:29:31.660+08:00",
+    "fetchedAt": "2026-11-21T22:39:51.281+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T22:29:32.370+08:00",
+      "fetchedAt": "2026-11-21T22:39:52.031+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T22:29:32.373+08:00",
+      "fetchedAt": "2026-11-21T22:39:52.035+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T22:29:32.383+08:00",
+      "fetchedAt": "2026-11-21T22:39:52.044+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T22:29:32.384+08:00",
+      "fetchedAt": "2026-11-21T22:39:52.045+08:00",
       "error": "未启用",
       "disabled": true
     }
