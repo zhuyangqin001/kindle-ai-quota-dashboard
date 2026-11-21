@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-21T18:35:18.409+08:00",
+  "updatedAt": "2026-11-21T18:45:30.192+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.3,
-    "feelsLikeC": 8.8,
+    "tempC": 11.2,
+    "feelsLikeC": 8.5,
     "humidity": 59,
-    "windKph": 7,
+    "windKph": 7.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T18:35:18.410+08:00",
+    "observedAt": "2026-11-21T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-21T18:45:30.193+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“大美上饶”主题观光列车南昌至婺源新线路首发",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735792.shtml",
-        "publishedAt": "2026-11-21T18:28:29.000+08:00"
+        "title": "2026城市“青活力”调查报告：近八成年轻人选择城市首看薪资",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735817.shtml",
+        "publishedAt": "2026-11-21T18:40:17.000+08:00"
       },
       {
-        "title": "中俄青少年选手齐聚中国北疆 以冰球为媒促交流",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735807.shtml",
-        "publishedAt": "2026-11-21T18:25:23.000+08:00"
+        "title": "重庆国际人才交流大会开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735825.shtml",
+        "publishedAt": "2026-11-21T18:39:55.000+08:00"
       },
       {
-        "title": "智造打造光储充一体化解决方案 助力数字能源产业高质量发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735806.shtml",
-        "publishedAt": "2026-11-21T18:24:18.000+08:00"
+        "title": "云南60余项非遗亮相大理洱海湖畔",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735803.shtml",
+        "publishedAt": "2026-11-21T18:39:53.000+08:00"
       },
       {
-        "title": "中国驻沙特大使馆再次提醒在沙中资机构和中国公民注意安全",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735774.shtml",
-        "publishedAt": "2026-11-21T18:23:30.000+08:00"
+        "title": "澳门影视落地专题推介活动在穗举行",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-21/10735826.shtml",
+        "publishedAt": "2026-11-21T18:39:05.000+08:00"
       },
       {
-        "title": "中国红基会援助贵港市高级中学灾后重建 着重提升校园抗灾能力",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735805.shtml",
-        "publishedAt": "2026-11-21T18:22:06.000+08:00"
+        "title": "李强同新加坡总理黄循财会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735776.shtml",
+        "publishedAt": "2026-11-21T18:39:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T18:35:15.574+08:00",
+    "fetchedAt": "2026-11-21T18:45:27.193+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T18:35:16.341+08:00",
+      "fetchedAt": "2026-11-21T18:45:27.965+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T23:35:18.000+08:00"
+          "resetAt": "2026-11-21T23:45:30.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-28T18:35:18.000+08:00"
+          "resetAt": "2026-11-28T18:45:30.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T18:35:16.344+08:00",
+      "fetchedAt": "2026-11-21T18:45:27.968+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T18:35:16.354+08:00",
+      "fetchedAt": "2026-11-21T18:45:27.978+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T18:35:16.354+08:00",
+      "fetchedAt": "2026-11-21T18:45:27.978+08:00",
       "error": "未启用",
       "disabled": true
     }
