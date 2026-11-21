@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T21:38:17.965+08:00",
+  "updatedAt": "2026-11-21T21:48:34.531+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.5,
-    "feelsLikeC": 5.9,
-    "humidity": 69,
-    "windKph": 7.1,
+    "tempC": 8.3,
+    "feelsLikeC": 5.6,
+    "humidity": 71,
+    "windKph": 7.5,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T21:38:17.965+08:00",
+    "observedAt": "2026-11-21T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-21T21:48:34.531+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-21/1211364.shtml",
+        "publishedAt": "2026-11-21T21:29:29.000+08:00"
+      },
+      {
+        "title": "长安大学回应14号面试13号出结果",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735917.shtml",
+        "publishedAt": "2026-11-21T21:28:19.000+08:00"
+      },
       {
         "title": "半部全唐诗咏长安，今天我们为何还要读诗？",
         "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735915.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "结构向优、动能向新 我国消费市场潜能不断释放",
         "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735914.shtml",
         "publishedAt": "2026-11-21T21:14:40.000+08:00"
-      },
-      {
-        "title": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）在北京举行 李书磊出席开幕式并发表主旨演讲",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735898.shtml",
-        "publishedAt": "2026-11-21T21:11:12.000+08:00"
-      },
-      {
-        "title": "数万家智能工厂背后，AI到底改变了什么？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735913.shtml",
-        "publishedAt": "2026-11-21T21:11:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T21:38:15.741+08:00",
+    "fetchedAt": "2026-11-21T21:48:30.323+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T21:38:16.413+08:00",
+      "fetchedAt": "2026-11-21T21:48:30.952+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 2,
-          "resetAt": "2026-11-22T01:15:45.000+08:00"
+          "resetAt": "2026-11-22T01:15:44.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-28T20:15:45.000+08:00"
+          "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T21:38:16.416+08:00",
+      "fetchedAt": "2026-11-21T21:48:30.955+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T21:38:16.425+08:00",
+      "fetchedAt": "2026-11-21T21:48:30.962+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T21:38:16.426+08:00",
+      "fetchedAt": "2026-11-21T21:48:30.962+08:00",
       "error": "未启用",
       "disabled": true
     }
