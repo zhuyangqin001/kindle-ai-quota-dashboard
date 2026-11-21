@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T20:37:25.214+08:00",
+  "updatedAt": "2026-11-21T21:28:01.770+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.4,
-    "feelsLikeC": 6.7,
-    "humidity": 63,
+    "tempC": 8.7,
+    "feelsLikeC": 6.1,
+    "humidity": 67,
     "windKph": 6.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T20:37:25.214+08:00",
+    "observedAt": "2026-11-21T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-21T21:28:01.770+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "宁夏闽宁镇：小小雏鸡激活乡村振兴动能",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735872.shtml",
-        "publishedAt": "2026-11-21T20:28:29.000+08:00"
+        "title": "半部全唐诗咏长安，今天我们为何还要读诗？",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735915.shtml",
+        "publishedAt": "2026-11-21T21:17:10.000+08:00"
       },
       {
-        "title": "菲律宾霍乱病例两周增加69% 卫生部吁保障饮水和食品安全",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735864.shtml",
-        "publishedAt": "2026-11-21T20:27:11.000+08:00"
+        "title": "“拖堂”的气候大会给全世界算了笔账",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735906.shtml",
+        "publishedAt": "2026-11-21T21:15:16.000+08:00"
       },
       {
-        "title": "北京丰台亮出9处优质体育资源 邀“城市合伙人”共创运动新空间",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735873.shtml",
-        "publishedAt": "2026-11-21T20:26:57.000+08:00"
+        "title": "结构向优、动能向新 我国消费市场潜能不断释放",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735914.shtml",
+        "publishedAt": "2026-11-21T21:14:40.000+08:00"
       },
       {
-        "title": "菲律宾达沃机场发生客机紧急迫降 146人安全撤离",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735857.shtml",
-        "publishedAt": "2026-11-21T20:26:25.000+08:00"
+        "title": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）在北京举行 李书磊出席开幕式并发表主旨演讲",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735898.shtml",
+        "publishedAt": "2026-11-21T21:11:12.000+08:00"
       },
       {
-        "title": "成都白鹭湾湿地公园水杉林景观开启“调色板模式”",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735868.shtml",
-        "publishedAt": "2026-11-21T20:26:13.000+08:00"
+        "title": "数万家智能工厂背后，AI到底改变了什么？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735913.shtml",
+        "publishedAt": "2026-11-21T21:11:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T20:37:22.331+08:00",
+    "fetchedAt": "2026-11-21T21:27:59.505+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T20:37:23.091+08:00",
+      "fetchedAt": "2026-11-21T21:28:00.051+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,7 +63,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 1,
+          "usedPct": 2,
           "resetAt": "2026-11-22T01:15:45.000+08:00"
         },
         {
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T20:37:23.094+08:00",
+      "fetchedAt": "2026-11-21T21:28:00.053+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T20:37:23.103+08:00",
+      "fetchedAt": "2026-11-21T21:28:00.060+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T20:37:23.103+08:00",
+      "fetchedAt": "2026-11-21T21:28:00.060+08:00",
       "error": "未启用",
       "disabled": true
     }
