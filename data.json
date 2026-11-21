@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-21T19:36:35.247+08:00",
+  "updatedAt": "2026-11-21T19:46:48.883+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.5,
-    "feelsLikeC": 7.7,
-    "humidity": 60,
-    "windKph": 7.7,
+    "tempC": 10.3,
+    "feelsLikeC": 7.5,
+    "humidity": 59,
+    "windKph": 7.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T19:36:35.247+08:00",
+    "observedAt": "2026-11-21T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-21T19:46:48.884+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "研讨现代化水网建设 第三届国家水网及南水北调高质量发展论坛举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735834.shtml",
+        "publishedAt": "2026-11-21T19:38:10.000+08:00"
+      },
+      {
+        "title": "青海德令哈发生5.6级地震：当地震感强烈 初步排查无人员伤亡",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735845.shtml",
+        "publishedAt": "2026-11-21T19:36:50.000+08:00"
+      },
       {
         "title": "伊朗宣布击落一架美军MQ-1无人机",
         "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735843.shtml",
@@ -33,19 +43,9 @@
         "title": "（走进中国乡村）安徽青阳农民把“生活日记”画向世界",
         "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735836.shtml",
         "publishedAt": "2026-11-21T19:27:52.000+08:00"
-      },
-      {
-        "title": "多项大科学装置模型在武汉展出",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735835.shtml",
-        "publishedAt": "2026-11-21T19:26:42.000+08:00"
-      },
-      {
-        "title": "青海海西州德令哈市发生5.6级地震 震源深度10千米",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735833.shtml",
-        "publishedAt": "2026-11-21T18:57:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T19:36:30.967+08:00",
+    "fetchedAt": "2026-11-21T19:46:45.787+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T19:36:31.717+08:00",
+      "fetchedAt": "2026-11-21T19:46:46.551+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T00:36:35.000+08:00"
+          "resetAt": "2026-11-22T00:46:48.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-28T19:36:35.000+08:00"
+          "resetAt": "2026-11-28T19:46:48.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T19:36:31.721+08:00",
+      "fetchedAt": "2026-11-21T19:46:46.555+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T19:36:31.730+08:00",
+      "fetchedAt": "2026-11-21T19:46:46.564+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T19:36:31.730+08:00",
+      "fetchedAt": "2026-11-21T19:46:46.565+08:00",
       "error": "未启用",
       "disabled": true
     }
