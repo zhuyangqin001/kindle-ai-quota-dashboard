@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T09:48:29.562+08:00",
+  "updatedAt": "2026-11-21T10:08:50.616+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13,
-    "feelsLikeC": 10.8,
-    "humidity": 48,
-    "windKph": 2.4,
+    "tempC": 13.6,
+    "feelsLikeC": 11.3,
+    "humidity": 44,
+    "windKph": 2.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-21T09:48:29.563+08:00",
+    "observedAt": "2026-11-21T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-21T10:08:50.616+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国科技馆“北辰对话”推出特别节目《雨林的“创”生》",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735631.shtml",
-        "publishedAt": "2026-11-21T09:34:58.000+08:00"
+        "title": "贵州毕节聚焦群众急难愁盼，完善支持保障机制 温暖193万人的外出务工路",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735645.shtml",
+        "publishedAt": "2026-11-21T10:04:19.000+08:00"
       },
       {
-        "title": "“BBNJ协定秘书处落户的形势与展望”国际研讨会在海口举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735633.shtml",
-        "publishedAt": "2026-11-21T09:33:58.000+08:00"
+        "title": "南非7月至9月发生5590起谋杀案 超半数案发公共场所",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735612.shtml",
+        "publishedAt": "2026-11-21T10:02:33.000+08:00"
       },
       {
-        "title": "第五届霞浦海洋诗会启幕：诗城共生、以文兴城",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735628.shtml",
-        "publishedAt": "2026-11-21T09:31:48.000+08:00"
+        "title": "前10个月邮政行业寄递量稳步增长 “小包裹”激活消费“新引擎”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735644.shtml",
+        "publishedAt": "2026-11-21T09:59:47.000+08:00"
       },
       {
-        "title": "国内外专家齐聚广州共商数智技术与运动健康深度融合新路径",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735634.shtml",
-        "publishedAt": "2026-11-21T09:31:36.000+08:00"
+        "title": "抢在前、备在先——能源全线迎战今冬“冲峰大考”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735643.shtml",
+        "publishedAt": "2026-11-21T09:56:21.000+08:00"
       },
       {
-        "title": "“网络文明大讲堂·数字里的文化遗产” 专场活动在河南郑州举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735637.shtml",
-        "publishedAt": "2026-11-21T09:30:25.000+08:00"
+        "title": "新产业催生更多新岗位 @高校毕业生，你准备好了吗？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735642.shtml",
+        "publishedAt": "2026-11-21T09:53:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T09:48:26.867+08:00",
+    "fetchedAt": "2026-11-21T10:08:44.540+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T09:48:27.632+08:00",
+      "fetchedAt": "2026-11-21T10:08:45.312+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -73,7 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-21T09:48:27.636+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-11-21T10:08:45.315+08:00"
     },
     "mimo": {
       "ok": false,
@@ -81,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T09:48:27.646+08:00",
+      "fetchedAt": "2026-11-21T10:08:45.325+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T09:48:27.646+08:00",
+      "fetchedAt": "2026-11-21T10:08:45.325+08:00",
       "error": "未启用",
       "disabled": true
     }
