@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-21T12:00:29.432+08:00",
+  "updatedAt": "2026-11-21T14:42:18.588+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16,
-    "feelsLikeC": 14,
-    "humidity": 34,
-    "windKph": 5.1,
+    "tempC": 16.9,
+    "feelsLikeC": 13.8,
+    "humidity": 32,
+    "windKph": 6.5,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-21T12:00:29.432+08:00",
+    "observedAt": "2026-11-21T14:30:00.000+08:00",
+    "fetchedAt": "2026-11-21T14:42:18.588+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026年青年企业家创新发展大会在北京召开 伊利集团董事长兼总裁潘刚出席会议并作主旨演讲",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735678.shtml",
-        "publishedAt": "2026-11-21T11:51:11.000+08:00"
+        "title": "“棕色黄金”如何变废为宝？英国学者：中国在相关领域发挥引领作用",
+        "url": "https://www.chinanews.com.cn/kong/2026/11-21/10735709.shtml",
+        "publishedAt": "2026-11-21T14:37:20.000+08:00"
       },
       {
-        "title": "产业规模破万亿元！高铁直达、夜场升级，冰雪消费提前升温",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735677.shtml",
-        "publishedAt": "2026-11-21T11:35:12.000+08:00"
+        "title": "全球甲烷中心首席执行官：近零甲烷标准可使油气业甲烷排放降约八成",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735708.shtml",
+        "publishedAt": "2026-11-21T14:20:07.000+08:00"
       },
       {
-        "title": "沙特称拦截3枚胡塞武装导弹 也门媒体称沙特袭击致41死",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735663.shtml",
-        "publishedAt": "2026-11-21T11:33:02.000+08:00"
+        "title": "两届香港马王“浪漫勇士”退役",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-21/10735719.shtml",
+        "publishedAt": "2026-11-21T13:58:54.000+08:00"
       },
       {
-        "title": "五中全会精神在基层丨“放心田”背后是责任心",
-        "url": "https://www.chinanews.com.cn/ll/2026/11-21/10735676.shtml",
-        "publishedAt": "2026-11-21T11:32:54.000+08:00"
+        "title": "冬奥场馆开启新赛季 四项国际雪联顶级赛事落地云顶滑雪公园",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735707.shtml",
+        "publishedAt": "2026-11-21T13:47:33.000+08:00"
       },
       {
-        "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735662.shtml",
-        "publishedAt": "2026-11-21T11:32:08.000+08:00"
+        "title": "纪录片《胶林家书》全国首映 家书串起湘滇支边记忆",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735706.shtml",
+        "publishedAt": "2026-11-21T13:46:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T12:00:24.331+08:00",
+    "fetchedAt": "2026-11-21T14:42:15.616+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T12:00:25.083+08:00",
+      "fetchedAt": "2026-11-21T14:42:16.380+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 6,
-          "resetAt": "2026-11-21T13:57:29.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-21T19:42:18.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T12:00:25.087+08:00",
+      "fetchedAt": "2026-11-21T14:42:16.383+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T12:00:25.096+08:00",
+      "fetchedAt": "2026-11-21T14:42:16.393+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T12:00:25.096+08:00",
+      "fetchedAt": "2026-11-21T14:42:16.393+08:00",
       "error": "未启用",
       "disabled": true
     }
