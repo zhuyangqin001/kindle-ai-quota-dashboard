@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T19:26:18.647+08:00",
+  "updatedAt": "2026-11-21T19:36:35.247+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.8,
-    "feelsLikeC": 8.1,
+    "tempC": 10.5,
+    "feelsLikeC": 7.7,
     "humidity": 60,
-    "windKph": 7.8,
+    "windKph": 7.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T19:15:00.000+08:00",
-    "fetchedAt": "2026-11-21T19:26:18.647+08:00",
+    "observedAt": "2026-11-21T19:30:00.000+08:00",
+    "fetchedAt": "2026-11-21T19:36:35.247+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "伊朗宣布击落一架美军MQ-1无人机",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735843.shtml",
+        "publishedAt": "2026-11-21T19:29:36.000+08:00"
+      },
+      {
+        "title": "中外高校围绕“产学研用”达成19项合作",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735837.shtml",
+        "publishedAt": "2026-11-21T19:29:20.000+08:00"
+      },
+      {
+        "title": "（走进中国乡村）安徽青阳农民把“生活日记”画向世界",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735836.shtml",
+        "publishedAt": "2026-11-21T19:27:52.000+08:00"
+      },
+      {
+        "title": "多项大科学装置模型在武汉展出",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735835.shtml",
+        "publishedAt": "2026-11-21T19:26:42.000+08:00"
+      },
+      {
         "title": "青海海西州德令哈市发生5.6级地震 震源深度10千米",
         "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735833.shtml",
         "publishedAt": "2026-11-21T18:57:36.000+08:00"
-      },
-      {
-        "title": "浙江：上山国家考古遗址公园暨上山博物馆正式开放",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735830.shtml",
-        "publishedAt": "2026-11-21T18:50:00.000+08:00"
-      },
-      {
-        "title": "松原首批氢能试点超亿元奖励资金拨付到企",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735829.shtml",
-        "publishedAt": "2026-11-21T18:49:08.000+08:00"
-      },
-      {
-        "title": "2026文化抗战学术研讨会在桂林召开",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735828.shtml",
-        "publishedAt": "2026-11-21T18:48:36.000+08:00"
-      },
-      {
-        "title": "第五届长江大保护司法论坛在武汉开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735827.shtml",
-        "publishedAt": "2026-11-21T18:47:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T19:26:15.709+08:00",
+    "fetchedAt": "2026-11-21T19:36:30.967+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T19:26:16.417+08:00",
+      "fetchedAt": "2026-11-21T19:36:31.717+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T00:26:18.000+08:00"
+          "resetAt": "2026-11-22T00:36:35.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-28T19:26:18.000+08:00"
+          "resetAt": "2026-11-28T19:36:35.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T19:26:16.419+08:00",
+      "fetchedAt": "2026-11-21T19:36:31.721+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T19:26:16.427+08:00",
+      "fetchedAt": "2026-11-21T19:36:31.730+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T19:26:16.428+08:00",
+      "fetchedAt": "2026-11-21T19:36:31.730+08:00",
       "error": "未启用",
       "disabled": true
     }
