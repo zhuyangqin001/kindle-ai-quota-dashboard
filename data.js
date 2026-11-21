@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T23:41:21.449+08:00",
+  "updatedAt": "2026-11-21T23:51:37.166+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 7.3,
-    "feelsLikeC": 4.4,
-    "humidity": 73,
+    "tempC": 7.2,
+    "feelsLikeC": 4.2,
+    "humidity": 74,
     "windKph": 8.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T23:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T23:41:21.449+08:00",
+    "observedAt": "2026-11-21T23:45:00.000+08:00",
+    "fetchedAt": "2026-11-21T23:51:37.166+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-21T21:53:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T23:41:14.997+08:00",
+    "fetchedAt": "2026-11-21T23:51:32.643+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T23:41:15.727+08:00",
+      "fetchedAt": "2026-11-21T23:51:33.400+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,18 +64,16 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 2,
-          "resetAt": "2026-11-22T01:15:45.000+08:00"
+          "resetAt": "2026-11-22T01:15:44.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-28T20:15:45.000+08:00"
+          "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T23:31:02.586+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
-      "stale": true,
-      "lastAttemptAt": "2026-11-21T23:41:15.730+08:00"
+      "fetchedAt": "2026-11-21T23:51:33.403+08:00",
+      "error": null
     },
     "mimo": {
       "ok": false,
@@ -83,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T23:41:15.740+08:00",
+      "fetchedAt": "2026-11-21T23:51:33.413+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T23:41:15.740+08:00",
+      "fetchedAt": "2026-11-21T23:51:33.413+08:00",
       "error": "未启用",
       "disabled": true
     }
