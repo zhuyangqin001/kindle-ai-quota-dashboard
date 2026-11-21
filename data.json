@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-21T19:46:48.883+08:00",
+  "updatedAt": "2026-11-21T20:37:25.214+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.3,
-    "feelsLikeC": 7.5,
-    "humidity": 59,
-    "windKph": 7.6,
+    "tempC": 9.4,
+    "feelsLikeC": 6.7,
+    "humidity": 63,
+    "windKph": 6.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-21T19:46:48.884+08:00",
+    "observedAt": "2026-11-21T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-21T20:37:25.214+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "研讨现代化水网建设 第三届国家水网及南水北调高质量发展论坛举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735834.shtml",
-        "publishedAt": "2026-11-21T19:38:10.000+08:00"
+        "title": "宁夏闽宁镇：小小雏鸡激活乡村振兴动能",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735872.shtml",
+        "publishedAt": "2026-11-21T20:28:29.000+08:00"
       },
       {
-        "title": "青海德令哈发生5.6级地震：当地震感强烈 初步排查无人员伤亡",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735845.shtml",
-        "publishedAt": "2026-11-21T19:36:50.000+08:00"
+        "title": "菲律宾霍乱病例两周增加69% 卫生部吁保障饮水和食品安全",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735864.shtml",
+        "publishedAt": "2026-11-21T20:27:11.000+08:00"
       },
       {
-        "title": "伊朗宣布击落一架美军MQ-1无人机",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735843.shtml",
-        "publishedAt": "2026-11-21T19:29:36.000+08:00"
+        "title": "北京丰台亮出9处优质体育资源 邀“城市合伙人”共创运动新空间",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735873.shtml",
+        "publishedAt": "2026-11-21T20:26:57.000+08:00"
       },
       {
-        "title": "中外高校围绕“产学研用”达成19项合作",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735837.shtml",
-        "publishedAt": "2026-11-21T19:29:20.000+08:00"
+        "title": "菲律宾达沃机场发生客机紧急迫降 146人安全撤离",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735857.shtml",
+        "publishedAt": "2026-11-21T20:26:25.000+08:00"
       },
       {
-        "title": "（走进中国乡村）安徽青阳农民把“生活日记”画向世界",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735836.shtml",
-        "publishedAt": "2026-11-21T19:27:52.000+08:00"
+        "title": "成都白鹭湾湿地公园水杉林景观开启“调色板模式”",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735868.shtml",
+        "publishedAt": "2026-11-21T20:26:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T19:46:45.787+08:00",
+    "fetchedAt": "2026-11-21T20:37:22.331+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T19:46:46.551+08:00",
+      "fetchedAt": "2026-11-21T20:37:23.091+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-22T00:46:48.000+08:00"
+          "usedPct": 1,
+          "resetAt": "2026-11-22T01:15:45.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-28T19:46:48.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T19:46:46.555+08:00",
+      "fetchedAt": "2026-11-21T20:37:23.094+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T19:46:46.564+08:00",
+      "fetchedAt": "2026-11-21T20:37:23.103+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T19:46:46.565+08:00",
+      "fetchedAt": "2026-11-21T20:37:23.103+08:00",
       "error": "未启用",
       "disabled": true
     }
