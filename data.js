@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T10:29:13.540+08:00",
+  "updatedAt": "2026-11-21T10:39:24.024+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.1,
-    "feelsLikeC": 11.9,
-    "humidity": 42,
-    "windKph": 3.3,
+    "tempC": 14.5,
+    "feelsLikeC": 12.3,
+    "humidity": 40,
+    "windKph": 3.7,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-21T10:29:13.541+08:00",
+    "observedAt": "2026-11-21T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-21T10:39:24.024+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "稳中有进有底气！10月我国经济向新向优发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735656.shtml",
-        "publishedAt": "2026-11-21T10:18:02.000+08:00"
+        "title": "2026全国陶瓷行业职业技能竞赛总决赛在河南平顶山举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735646.shtml",
+        "publishedAt": "2026-11-21T10:32:23.000+08:00"
       },
       {
-        "title": "U17世界杯：中国队首战0:5不敌西班牙队",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735654.shtml",
-        "publishedAt": "2026-11-21T10:15:08.000+08:00"
+        "title": "特朗普称无法接受伊朗想达成的协议 重申伊朗“永远不会拥有核武器”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735660.shtml",
+        "publishedAt": "2026-11-21T10:31:47.000+08:00"
       },
       {
-        "title": "明日小雪，请查收这三道节气食养方",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-21/10735651.shtml",
-        "publishedAt": "2026-11-21T10:08:20.000+08:00"
+        "title": "（走进中国乡村）村民变演员 湖南千年水乡“演”出新生活",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735648.shtml",
+        "publishedAt": "2026-11-21T10:30:49.000+08:00"
       },
       {
-        "title": "“讲中国故事”暨印尼摄影家赴福建采风成果展在雅加达举行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735636.shtml",
-        "publishedAt": "2026-11-21T10:05:33.000+08:00"
+        "title": "外媒记者访云南迪庆：“当地各民族生活很幸福”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735649.shtml",
+        "publishedAt": "2026-11-21T10:29:03.000+08:00"
       },
       {
-        "title": "英国推进移民制度改革 持续关停庇护安置酒店",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735614.shtml",
-        "publishedAt": "2026-11-21T10:05:07.000+08:00"
+        "title": "侨乡小镇的蜕变：因侨而兴",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735653.shtml",
+        "publishedAt": "2026-11-21T10:28:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T10:29:11.157+08:00",
+    "fetchedAt": "2026-11-21T10:39:21.227+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T10:29:11.832+08:00",
+      "fetchedAt": "2026-11-21T10:39:21.982+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 75,
-          "resetAt": "2026-11-21T15:50:57.000+08:00"
+          "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T10:29:11.836+08:00",
+      "fetchedAt": "2026-11-21T10:39:21.985+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T10:29:11.845+08:00",
+      "fetchedAt": "2026-11-21T10:39:21.994+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T10:29:11.845+08:00",
+      "fetchedAt": "2026-11-21T10:39:21.994+08:00",
       "error": "未启用",
       "disabled": true
     }
