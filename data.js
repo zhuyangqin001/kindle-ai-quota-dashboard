@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T18:55:41.299+08:00",
+  "updatedAt": "2026-11-21T19:05:54.195+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.2,
-    "feelsLikeC": 8.5,
-    "humidity": 59,
-    "windKph": 7.6,
+    "tempC": 11,
+    "feelsLikeC": 8.3,
+    "humidity": 60,
+    "windKph": 7.8,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-21T18:55:41.299+08:00",
+    "observedAt": "2026-11-21T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-21T19:05:54.196+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "青海海西州德令哈市发生5.6级地震 震源深度10千米",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735833.shtml",
+        "publishedAt": "2026-11-21T18:57:36.000+08:00"
+      },
       {
         "title": "浙江：上山国家考古遗址公园暨上山博物馆正式开放",
         "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735830.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "第五届长江大保护司法论坛在武汉开幕",
         "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735827.shtml",
         "publishedAt": "2026-11-21T18:47:42.000+08:00"
-      },
-      {
-        "title": "2026年侨海（客家）青年发展大会在海口举行",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735824.shtml",
-        "publishedAt": "2026-11-21T18:47:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T18:55:38.697+08:00",
+    "fetchedAt": "2026-11-21T19:05:50.750+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T18:55:39.091+08:00",
+      "fetchedAt": "2026-11-21T19:05:51.514+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T23:55:40.000+08:00"
+          "resetAt": "2026-11-22T00:05:54.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-28T18:55:40.000+08:00"
+          "resetAt": "2026-11-28T19:05:54.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T18:55:39.093+08:00",
+      "fetchedAt": "2026-11-21T19:05:51.517+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T18:55:39.097+08:00",
+      "fetchedAt": "2026-11-21T19:05:51.526+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T18:55:39.097+08:00",
+      "fetchedAt": "2026-11-21T19:05:51.526+08:00",
       "error": "未启用",
       "disabled": true
     }
