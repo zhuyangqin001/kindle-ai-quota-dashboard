@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-21T18:25:06.247+08:00",
+  "updatedAt": "2026-11-21T18:35:18.409+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.5,
-    "feelsLikeC": 9,
-    "humidity": 58,
-    "windKph": 6.7,
+    "tempC": 11.3,
+    "feelsLikeC": 8.8,
+    "humidity": 59,
+    "windKph": 7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-21T18:25:06.247+08:00",
+    "observedAt": "2026-11-21T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-21T18:35:18.410+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026生物医药创新发展大会暨第三届燕赵医保高质量发展研讨会召开",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735804.shtml",
-        "publishedAt": "2026-11-21T18:20:06.000+08:00"
+        "title": "“大美上饶”主题观光列车南昌至婺源新线路首发",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-21/10735792.shtml",
+        "publishedAt": "2026-11-21T18:28:29.000+08:00"
       },
       {
-        "title": "2026“天才发现计划”短片展开幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735802.shtml",
-        "publishedAt": "2026-11-21T18:18:42.000+08:00"
+        "title": "中俄青少年选手齐聚中国北疆 以冰球为媒促交流",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-21/10735807.shtml",
+        "publishedAt": "2026-11-21T18:25:23.000+08:00"
       },
       {
-        "title": "多国驻华使节走进浙江舟山 探访渔业可持续发展经验",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735801.shtml",
-        "publishedAt": "2026-11-21T18:17:50.000+08:00"
+        "title": "智造打造光储充一体化解决方案 助力数字能源产业高质量发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735806.shtml",
+        "publishedAt": "2026-11-21T18:24:18.000+08:00"
       },
       {
-        "title": "十期文化探访节目《传世书院》溯源中华文脉",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735794.shtml",
-        "publishedAt": "2026-11-21T18:14:42.000+08:00"
+        "title": "中国驻沙特大使馆再次提醒在沙中资机构和中国公民注意安全",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735774.shtml",
+        "publishedAt": "2026-11-21T18:23:30.000+08:00"
       },
       {
-        "title": "共探产业高质量发展新路径 新材料产业人才发展大会在重庆长寿举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735798.shtml",
-        "publishedAt": "2026-11-21T18:12:00.000+08:00"
+        "title": "中国红基会援助贵港市高级中学灾后重建 着重提升校园抗灾能力",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735805.shtml",
+        "publishedAt": "2026-11-21T18:22:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T18:25:03.682+08:00",
+    "fetchedAt": "2026-11-21T18:35:15.574+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T18:25:04.420+08:00",
+      "fetchedAt": "2026-11-21T18:35:16.341+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-21T23:25:06.000+08:00"
+          "resetAt": "2026-11-21T23:35:18.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-28T18:25:06.000+08:00"
+          "resetAt": "2026-11-28T18:35:18.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T18:25:04.424+08:00",
+      "fetchedAt": "2026-11-21T18:35:16.344+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T18:25:04.433+08:00",
+      "fetchedAt": "2026-11-21T18:35:16.354+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T18:25:04.434+08:00",
+      "fetchedAt": "2026-11-21T18:35:16.354+08:00",
       "error": "未启用",
       "disabled": true
     }
