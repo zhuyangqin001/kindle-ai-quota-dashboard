@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-21T10:39:24.024+08:00",
+  "updatedAt": "2026-11-21T10:49:34.019+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.5,
-    "feelsLikeC": 12.3,
-    "humidity": 40,
-    "windKph": 3.7,
+    "tempC": 14.9,
+    "feelsLikeC": 12.7,
+    "humidity": 38,
+    "windKph": 4.1,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-21T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-21T10:39:24.024+08:00",
+    "observedAt": "2026-11-21T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-21T10:49:34.019+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "西双版纳曼烈村：通道向边境延伸 “老庚”之约岁岁如常",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735647.shtml",
+        "publishedAt": "2026-11-21T10:44:31.000+08:00"
+      },
+      {
+        "title": "（深圳APEC）出席APEC会议的多国领导人明确表态：坚定恪守一个中国原则",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735652.shtml",
+        "publishedAt": "2026-11-21T10:35:59.000+08:00"
+      },
       {
         "title": "2026全国陶瓷行业职业技能竞赛总决赛在河南平顶山举行",
         "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735646.shtml",
@@ -33,19 +43,9 @@
         "title": "（走进中国乡村）村民变演员 湖南千年水乡“演”出新生活",
         "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735648.shtml",
         "publishedAt": "2026-11-21T10:30:49.000+08:00"
-      },
-      {
-        "title": "外媒记者访云南迪庆：“当地各民族生活很幸福”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735649.shtml",
-        "publishedAt": "2026-11-21T10:29:03.000+08:00"
-      },
-      {
-        "title": "侨乡小镇的蜕变：因侨而兴",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-21/10735653.shtml",
-        "publishedAt": "2026-11-21T10:28:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-21T10:39:21.227+08:00",
+    "fetchedAt": "2026-11-21T10:49:31.916+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-21T10:39:21.982+08:00",
+      "fetchedAt": "2026-11-21T10:49:32.679+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-21T15:50:58.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-21T10:39:21.985+08:00",
+      "fetchedAt": "2026-11-21T10:49:32.682+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T10:39:21.994+08:00",
+      "fetchedAt": "2026-11-21T10:49:32.691+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-21T10:39:21.994+08:00",
+      "fetchedAt": "2026-11-21T10:49:32.691+08:00",
       "error": "未启用",
       "disabled": true
     }
