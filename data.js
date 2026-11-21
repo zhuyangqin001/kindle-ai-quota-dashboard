@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T06:59:21.743+08:00",
+  "updatedAt": "2026-11-22T07:09:35.316+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 4.9,
-    "feelsLikeC": 2.4,
+    "tempC": 5.1,
+    "feelsLikeC": 2.6,
     "humidity": 73,
-    "windKph": 3.1,
+    "windKph": 2.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-22T06:59:21.743+08:00",
+    "observedAt": "2026-11-22T07:00:00.000+08:00",
+    "fetchedAt": "2026-11-22T07:09:35.316+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-22T06:10:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T06:59:15.499+08:00",
+    "fetchedAt": "2026-11-22T07:09:29.026+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T06:59:15.959+08:00",
+      "fetchedAt": "2026-11-22T07:09:29.529+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-22T05:17:57.792+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-22T06:59:15.961+08:00"
+      "lastAttemptAt": "2026-11-22T07:09:29.532+08:00"
     },
     "mimo": {
       "ok": false,
@@ -83,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T06:59:15.967+08:00",
+      "fetchedAt": "2026-11-22T07:09:29.538+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T06:59:15.967+08:00",
+      "fetchedAt": "2026-11-22T07:09:29.538+08:00",
       "error": "未启用",
       "disabled": true
     }
