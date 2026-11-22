@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T17:17:55.329+08:00",
+  "updatedAt": "2026-11-22T17:28:08.474+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-22T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-22T17:17:55.329+08:00",
+    "fetchedAt": "2026-11-22T17:28:08.474+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "雕刀不辍 青田石雕三代匠人演绎非遗活态传承",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736106.shtml",
+        "publishedAt": "2026-11-22T17:21:56.000+08:00"
+      },
+      {
+        "title": "山西一工地挖出炮弹紧急排爆 警方提示",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736107.shtml",
+        "publishedAt": "2026-11-22T17:18:23.000+08:00"
+      },
       {
         "title": "海峡两岸近400位茶农福建漳州“斗茶”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736104.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "从“文物展示”到“文明对话” 数智赋能中国文博新体验",
         "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736105.shtml",
         "publishedAt": "2026-11-22T17:12:31.000+08:00"
-      },
-      {
-        "title": "山上鸟毛遍地 餐馆售卖“野味” 谁在围猎南迁候鸟？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736102.shtml",
-        "publishedAt": "2026-11-22T16:58:54.000+08:00"
-      },
-      {
-        "title": "中国—东盟推动林业合作持续走深走实",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-22/10736097.shtml",
-        "publishedAt": "2026-11-22T16:49:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T17:17:52.483+08:00",
+    "fetchedAt": "2026-11-22T17:28:03.973+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T17:17:53.234+08:00",
+      "fetchedAt": "2026-11-22T17:28:04.687+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T22:17:54.000+08:00"
+          "resetAt": "2026-11-22T22:28:08.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T17:17:53.238+08:00",
+      "fetchedAt": "2026-11-22T17:28:04.690+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T17:17:53.248+08:00",
+      "fetchedAt": "2026-11-22T17:28:04.700+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T17:17:53.248+08:00",
+      "fetchedAt": "2026-11-22T17:28:04.701+08:00",
       "error": "未启用",
       "disabled": true
     }
