@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T19:51:08.447+08:00",
+  "updatedAt": "2026-11-22T20:01:22.077+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.8,
+    "tempC": 14.9,
     "feelsLikeC": 12.6,
     "humidity": 58,
-    "windKph": 9.2,
+    "windKph": 9.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-22T19:51:08.447+08:00",
+    "observedAt": "2026-11-22T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-22T20:01:22.077+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "香港羽毛球公开赛：中国选手王祉怡女单卫冕 混双“凤凰”组合夺冠",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736164.shtml",
+        "publishedAt": "2026-11-22T19:54:46.000+08:00"
+      },
+      {
+        "title": "高海拔跨域5G远程机器人肾癌根治手术完成 辽藏协同助力高原医疗",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-22/10736162.shtml",
+        "publishedAt": "2026-11-22T19:53:04.000+08:00"
+      },
       {
         "title": "通讯丨虫口夺粮——中国与粮农组织合作防治非洲农作物虫害",
         "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736163.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国最大盐湖持续保障新能源原料绿色供给",
         "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736161.shtml",
         "publishedAt": "2026-11-22T19:41:21.000+08:00"
-      },
-      {
-        "title": "云南昆明小雪节气暖阳相伴 民众滇池畔乐享周末",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736156.shtml",
-        "publishedAt": "2026-11-22T19:24:22.000+08:00"
-      },
-      {
-        "title": "江西赣州：“小雪”迎暖阳 民众公园乐享周末",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736157.shtml",
-        "publishedAt": "2026-11-22T19:23:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T19:51:05.558+08:00",
+    "fetchedAt": "2026-11-22T20:01:19.171+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T19:51:06.323+08:00",
+      "fetchedAt": "2026-11-22T20:01:19.933+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T00:51:07.000+08:00"
+          "resetAt": "2026-11-23T01:01:21.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T19:51:06.326+08:00",
+      "fetchedAt": "2026-11-22T20:01:19.937+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T19:51:06.336+08:00",
+      "fetchedAt": "2026-11-22T20:01:19.946+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T19:51:06.336+08:00",
+      "fetchedAt": "2026-11-22T20:01:19.946+08:00",
       "error": "未启用",
       "disabled": true
     }
