@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T08:31:06.982+08:00",
+  "updatedAt": "2026-11-22T08:41:16.917+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-22T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T08:31:06.982+08:00",
+    "fetchedAt": "2026-11-22T08:41:16.917+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "网络交友被骗压岁钱 警惕针对青少年的“小额多次式诈骗”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735944.shtml",
+        "publishedAt": "2026-11-22T08:39:25.000+08:00"
+      },
+      {
+        "title": "学生课间玩耍不慎摔伤 谁来担责",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735943.shtml",
+        "publishedAt": "2026-11-22T08:36:23.000+08:00"
+      },
+      {
+        "title": "节气物候图鉴：小雪雪渐落 全国初雪进程地图看哪里将披银装",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735942.shtml",
+        "publishedAt": "2026-11-22T08:33:39.000+08:00"
+      },
       {
         "title": "小雪节气如何养生？核心是“藏”",
         "url": "https://www.chinanews.com.cn/jk/2026/11-22/10735940.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "11月22日早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-22/10735939.shtml",
         "publishedAt": "2026-11-22T07:50:27.000+08:00"
-      },
-      {
-        "title": "英国国防大臣访基辅重申长期援乌承诺",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735938.shtml",
-        "publishedAt": "2026-11-22T06:35:31.000+08:00"
-      },
-      {
-        "title": "英国凯特王妃通过纪录片深度讲述抗癌经历",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735937.shtml",
-        "publishedAt": "2026-11-22T06:34:59.000+08:00"
-      },
-      {
-        "title": "墨西哥抓获大毒枭“矮子伊西德罗”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735936.shtml",
-        "publishedAt": "2026-11-22T06:14:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T08:31:04.163+08:00",
+    "fetchedAt": "2026-11-22T08:41:14.606+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T08:31:04.619+08:00",
+      "fetchedAt": "2026-11-22T08:41:15.064+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T13:31:06.000+08:00"
+          "resetAt": "2026-11-22T13:41:16.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T08:31:04.622+08:00",
+      "fetchedAt": "2026-11-22T08:41:15.067+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T08:31:04.628+08:00",
+      "fetchedAt": "2026-11-22T08:41:15.072+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T08:31:04.628+08:00",
+      "fetchedAt": "2026-11-22T08:41:15.072+08:00",
       "error": "未启用",
       "disabled": true
     }
