@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T21:02:43.736+08:00",
+  "updatedAt": "2026-11-22T21:13:00.242+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-22T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-22T21:02:43.736+08:00",
+    "fetchedAt": "2026-11-22T21:13:00.242+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "昆明口岸今年以来中泰往来旅客突破百万人次",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-22/10736199.shtml",
+        "publishedAt": "2026-11-22T20:58:23.000+08:00"
+      },
       {
         "title": "毕马威发布能源转型新书 助企业明确自身角色",
         "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736198.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026中国大学生路跑联赛全国总决赛在成都举行 西南大学夺得团体冠军",
         "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736180.shtml",
         "publishedAt": "2026-11-22T20:48:33.000+08:00"
-      },
-      {
-        "title": "光影绘山河 生态护拉萨",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736178.shtml",
-        "publishedAt": "2026-11-22T20:47:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T21:02:41.320+08:00",
+    "fetchedAt": "2026-11-22T21:12:57.422+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T21:02:41.790+08:00",
+      "fetchedAt": "2026-11-22T21:12:58.173+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T02:02:43.000+08:00"
+          "resetAt": "2026-11-23T02:12:59.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T21:02:41.791+08:00",
+      "fetchedAt": "2026-11-22T21:12:58.176+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T21:02:41.796+08:00",
+      "fetchedAt": "2026-11-22T21:12:58.186+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T21:02:41.796+08:00",
+      "fetchedAt": "2026-11-22T21:12:58.187+08:00",
       "error": "未启用",
       "disabled": true
     }
