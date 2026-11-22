@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T15:56:05.007+08:00",
+  "updatedAt": "2026-11-22T16:06:17.526+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.3,
-    "feelsLikeC": 16.5,
-    "humidity": 37,
-    "windKph": 9.2,
+    "tempC": 18.9,
+    "feelsLikeC": 16.4,
+    "humidity": 39,
+    "windKph": 8.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-22T15:56:05.007+08:00",
+    "observedAt": "2026-11-22T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-22T16:06:17.526+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "宁夏闽宁镇：游客周末打卡闽宁戏剧村落",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736074.shtml",
+        "publishedAt": "2026-11-22T15:58:57.000+08:00"
+      },
+      {
+        "title": "新华时评丨大力发展银发经济，更好满足“活力”需求",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736081.shtml",
+        "publishedAt": "2026-11-22T15:55:29.000+08:00"
+      },
       {
         "title": "扬州红雕漆对瓶亮相深圳APEC会议 “锦绣万年”传和合",
         "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736076.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "瑞士联邦副主席兼外长卡西斯将访华",
         "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736077.shtml",
         "publishedAt": "2026-11-22T15:49:15.000+08:00"
-      },
-      {
-        "title": "同样是跑步，有人养心肺有人伤关节，差别就在这里",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-22/10736080.shtml",
-        "publishedAt": "2026-11-22T15:49:00.000+08:00"
-      },
-      {
-        "title": "2026年广西林木展吸引国际头部企业及境外采购商",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736079.shtml",
-        "publishedAt": "2026-11-22T15:48:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T15:56:02.071+08:00",
+    "fetchedAt": "2026-11-22T16:06:13.877+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T15:56:02.498+08:00",
+      "fetchedAt": "2026-11-22T16:06:14.599+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T20:56:04.000+08:00"
+          "resetAt": "2026-11-22T21:06:16.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T15:56:02.500+08:00",
+      "fetchedAt": "2026-11-22T16:06:14.602+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T15:56:02.506+08:00",
+      "fetchedAt": "2026-11-22T16:06:14.612+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T15:56:02.506+08:00",
+      "fetchedAt": "2026-11-22T16:06:14.612+08:00",
       "error": "未启用",
       "disabled": true
     }
