@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T07:50:26.827+08:00",
+  "updatedAt": "2026-11-22T08:00:36.222+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 6.8,
-    "feelsLikeC": 4,
-    "humidity": 66,
-    "windKph": 5,
+    "tempC": 7.4,
+    "feelsLikeC": 4.6,
+    "humidity": 64,
+    "windKph": 5.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T07:45:00.000+08:00",
-    "fetchedAt": "2026-11-22T07:50:26.827+08:00",
+    "observedAt": "2026-11-22T08:00:00.000+08:00",
+    "fetchedAt": "2026-11-22T08:00:36.222+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月22日早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-22/10735939.shtml",
+        "publishedAt": "2026-11-22T07:50:27.000+08:00"
+      },
       {
         "title": "英国国防大臣访基辅重申长期援乌承诺",
         "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735938.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "今日开启商业首航！“爱达·花城号”最新乘船攻略来了",
         "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735935.shtml",
         "publishedAt": "2026-11-22T06:12:59.000+08:00"
-      },
-      {
-        "title": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735934.shtml",
-        "publishedAt": "2026-11-22T06:10:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T07:50:24.209+08:00",
+    "fetchedAt": "2026-11-22T08:00:34.028+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T07:50:24.667+08:00",
+      "fetchedAt": "2026-11-22T08:00:34.481+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T12:50:26.000+08:00"
+          "resetAt": "2026-11-22T13:00:36.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T07:50:24.670+08:00",
+      "fetchedAt": "2026-11-22T08:00:34.483+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T07:50:24.676+08:00",
+      "fetchedAt": "2026-11-22T08:00:34.490+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T07:50:24.676+08:00",
+      "fetchedAt": "2026-11-22T08:00:34.490+08:00",
       "error": "未启用",
       "disabled": true
     }
