@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T20:42:16.131+08:00",
+  "updatedAt": "2026-11-22T20:52:30.520+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.7,
-    "feelsLikeC": 12.2,
+    "tempC": 14.6,
+    "feelsLikeC": 12.1,
     "humidity": 58,
-    "windKph": 10.8,
+    "windKph": 10.6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T20:42:16.131+08:00",
+    "observedAt": "2026-11-22T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-22T20:52:30.520+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "云南连续四年举办边境幸福村体育嘉年华 以赛事赋能兴边富民",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736181.shtml",
-        "publishedAt": "2026-11-22T20:23:57.000+08:00"
+        "title": "光影绘山河 生态护拉萨",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736178.shtml",
+        "publishedAt": "2026-11-22T20:47:27.000+08:00"
       },
       {
-        "title": "尹弘当选中共江西省委书记",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736179.shtml",
-        "publishedAt": "2026-11-22T20:22:43.000+08:00"
+        "title": "“香港精神号”艺术涂装客机模型将亮相香港西九海滨",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10736194.shtml",
+        "publishedAt": "2026-11-22T20:47:15.000+08:00"
       },
       {
-        "title": "阿富汗警方称打死3名武装分子",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736173.shtml",
-        "publishedAt": "2026-11-22T20:22:35.000+08:00"
+        "title": "内蒙古医科大学党委原书记赵云山被开除党籍和公职",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736192.shtml",
+        "publishedAt": "2026-11-22T20:46:17.000+08:00"
       },
       {
-        "title": "邢少臣师生作品展呈现当代大写意绘画的传承脉络",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736177.shtml",
-        "publishedAt": "2026-11-22T20:18:49.000+08:00"
+        "title": "（粤港澳大湾区）三港联动 粤港澳大湾区邮轮旅游升温",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10736193.shtml",
+        "publishedAt": "2026-11-22T20:45:25.000+08:00"
       },
       {
-        "title": "近500名粤港澳骑行爱好者“骑”聚珠海",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10736176.shtml",
-        "publishedAt": "2026-11-22T20:18:17.000+08:00"
+        "title": "短道速滑世巡赛首尔站收官 中国队获接力一金一铜",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736189.shtml",
+        "publishedAt": "2026-11-22T20:40:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T20:42:11.910+08:00",
+    "fetchedAt": "2026-11-22T20:52:26.967+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T20:42:12.673+08:00",
+      "fetchedAt": "2026-11-22T20:52:27.709+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T01:42:15.000+08:00"
+          "resetAt": "2026-11-23T01:52:30.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T20:42:12.676+08:00",
+      "fetchedAt": "2026-11-22T20:52:27.712+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T20:42:12.686+08:00",
+      "fetchedAt": "2026-11-22T20:52:27.722+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T20:42:12.686+08:00",
+      "fetchedAt": "2026-11-22T20:52:27.722+08:00",
       "error": "未启用",
       "disabled": true
     }
