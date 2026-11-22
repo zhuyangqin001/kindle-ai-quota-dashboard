@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-23T07:22:47.453+08:00",
+  "updatedAt": "2026-11-23T07:32:57.962+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 12,
-    "feelsLikeC": 11.3,
+    "feelsLikeC": 11.5,
     "humidity": 91,
-    "windKph": 5.7,
-    "windDir": "东风",
+    "windKph": 5,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T07:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T07:22:47.453+08:00",
+    "observedAt": "2026-11-23T07:30:00.000+08:00",
+    "fetchedAt": "2026-11-23T07:32:57.962+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "今起可打印准考证！2027国考考生注意了→",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736229.shtml",
+        "publishedAt": "2026-11-23T07:27:50.000+08:00"
+      },
+      {
+        "title": "当年轻人说“边界感”，他们在守护什么",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736228.shtml",
+        "publishedAt": "2026-11-23T07:24:36.000+08:00"
+      },
+      {
+        "title": "日本熊本县发生4.1级地震 多地有震感",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736227.shtml",
+        "publishedAt": "2026-11-23T07:24:20.000+08:00"
+      },
       {
         "title": "古特雷斯发表声明 对COP31未就政治决定达成一致表示失望",
         "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736224.shtml",
@@ -28,24 +43,9 @@
         "title": "11月23日新闻夜读",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-23/10736223.shtml",
         "publishedAt": "2026-11-23T06:55:54.000+08:00"
-      },
-      {
-        "title": "美国达美航空系统故障致大量航班延误 航空公司致歉",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736222.shtml",
-        "publishedAt": "2026-11-23T06:47:58.000+08:00"
-      },
-      {
-        "title": "内塔尼亚胡被曝正考虑单独对伊朗动武",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736221.shtml",
-        "publishedAt": "2026-11-23T06:39:07.000+08:00"
-      },
-      {
-        "title": "是什么让多国紧急关停大批政企网络？国家安全部提示",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736220.shtml",
-        "publishedAt": "2026-11-23T06:37:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T07:22:45.224+08:00",
+    "fetchedAt": "2026-11-23T07:32:56.020+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T07:22:45.950+08:00",
+      "fetchedAt": "2026-11-23T07:32:56.805+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T12:22:47.000+08:00"
+          "resetAt": "2026-11-23T12:32:57.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T07:22:45.953+08:00",
+      "fetchedAt": "2026-11-23T07:32:56.808+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T07:22:45.962+08:00",
+      "fetchedAt": "2026-11-23T07:32:56.818+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T07:22:45.962+08:00",
+      "fetchedAt": "2026-11-23T07:32:56.819+08:00",
       "error": "未启用",
       "disabled": true
     }
