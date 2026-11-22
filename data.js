@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T19:40:55.622+08:00",
+  "updatedAt": "2026-11-22T19:51:08.447+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.7,
-    "feelsLikeC": 12.5,
-    "humidity": 59,
+    "tempC": 14.8,
+    "feelsLikeC": 12.6,
+    "humidity": 58,
     "windKph": 9.2,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T19:40:55.622+08:00",
+    "observedAt": "2026-11-22T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-22T19:51:08.447+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "通讯丨虫口夺粮——中国与粮农组织合作防治非洲农作物虫害",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736163.shtml",
+        "publishedAt": "2026-11-22T19:43:25.000+08:00"
+      },
+      {
+        "title": "湿地仰望满天星 上海崇明生态岛倡导暗夜守护",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736160.shtml",
+        "publishedAt": "2026-11-22T19:41:37.000+08:00"
+      },
+      {
+        "title": "中国最大盐湖持续保障新能源原料绿色供给",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736161.shtml",
+        "publishedAt": "2026-11-22T19:41:21.000+08:00"
+      },
       {
         "title": "云南昆明小雪节气暖阳相伴 民众滇池畔乐享周末",
         "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736156.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "江西赣州：“小雪”迎暖阳 民众公园乐享周末",
         "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736157.shtml",
         "publishedAt": "2026-11-22T19:23:40.000+08:00"
-      },
-      {
-        "title": "河南开封：小雪时节冬桃红 特色林果助振兴",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736153.shtml",
-        "publishedAt": "2026-11-22T19:21:46.000+08:00"
-      },
-      {
-        "title": "多国兰花奖嘉宾太原对话 探讨文明交流互鉴路径",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736155.shtml",
-        "publishedAt": "2026-11-22T19:20:38.000+08:00"
-      },
-      {
-        "title": "高原银幕接力：青海德令哈父子的草原光影之约",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736150.shtml",
-        "publishedAt": "2026-11-22T19:16:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T19:40:51.103+08:00",
+    "fetchedAt": "2026-11-22T19:51:05.558+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T19:40:51.872+08:00",
+      "fetchedAt": "2026-11-22T19:51:06.323+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T00:40:53.000+08:00"
+          "resetAt": "2026-11-23T00:51:07.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T19:40:51.876+08:00",
+      "fetchedAt": "2026-11-22T19:51:06.326+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T19:40:51.885+08:00",
+      "fetchedAt": "2026-11-22T19:51:06.336+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T19:40:51.885+08:00",
+      "fetchedAt": "2026-11-22T19:51:06.336+08:00",
       "error": "未启用",
       "disabled": true
     }
