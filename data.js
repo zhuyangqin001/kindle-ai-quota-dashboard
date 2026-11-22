@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T07:12:37.032+08:00",
+  "updatedAt": "2026-11-23T07:22:47.453+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 11.9,
-    "feelsLikeC": 11.1,
+    "tempC": 12,
+    "feelsLikeC": 11.3,
     "humidity": 91,
-    "windKph": 6.3,
+    "windKph": 5.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T07:12:37.032+08:00",
+    "observedAt": "2026-11-23T07:15:00.000+08:00",
+    "fetchedAt": "2026-11-23T07:22:47.453+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "古特雷斯发表声明 对COP31未就政治决定达成一致表示失望",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736224.shtml",
+        "publishedAt": "2026-11-23T07:10:29.000+08:00"
+      },
       {
         "title": "11月23日新闻夜读",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-23/10736223.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "是什么让多国紧急关停大批政企网络？国家安全部提示",
         "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736220.shtml",
         "publishedAt": "2026-11-23T06:37:41.000+08:00"
-      },
-      {
-        "title": "“零碳暖流”、AI控温 核能供暖是一种什么样的体验",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736219.shtml",
-        "publishedAt": "2026-11-23T06:25:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T07:12:35.148+08:00",
+    "fetchedAt": "2026-11-23T07:22:45.224+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T07:12:35.901+08:00",
+      "fetchedAt": "2026-11-23T07:22:45.950+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T12:12:36.000+08:00"
+          "resetAt": "2026-11-23T12:22:47.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T07:12:35.904+08:00",
+      "fetchedAt": "2026-11-23T07:22:45.953+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T07:12:35.914+08:00",
+      "fetchedAt": "2026-11-23T07:22:45.962+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T07:12:35.915+08:00",
+      "fetchedAt": "2026-11-23T07:22:45.962+08:00",
       "error": "未启用",
       "disabled": true
     }
