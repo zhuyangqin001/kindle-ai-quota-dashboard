@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T16:57:31.647+08:00",
+  "updatedAt": "2026-11-22T17:07:43.892+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.9,
-    "feelsLikeC": 15.2,
-    "humidity": 50,
-    "windKph": 5.2,
+    "tempC": 16.2,
+    "feelsLikeC": 14.7,
+    "humidity": 53,
+    "windKph": 4.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-22T16:57:31.647+08:00",
+    "observedAt": "2026-11-22T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-22T17:07:43.892+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "山上鸟毛遍地 餐馆售卖“野味” 谁在围猎南迁候鸟？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736102.shtml",
+        "publishedAt": "2026-11-22T16:58:54.000+08:00"
+      },
       {
         "title": "中国—东盟推动林业合作持续走深走实",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-22/10736097.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "2026南迦巴瓦文化艺术交流月正式启幕",
         "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736087.shtml",
         "publishedAt": "2026-11-22T16:43:35.000+08:00"
-      },
-      {
-        "title": "（乡村行·看振兴）“中国芦柑之乡”福建永春果香越山海",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736089.shtml",
-        "publishedAt": "2026-11-22T16:43:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T16:57:28.738+08:00",
+    "fetchedAt": "2026-11-22T17:07:40.826+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T16:57:29.458+08:00",
+      "fetchedAt": "2026-11-22T17:07:41.490+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T21:57:31.000+08:00"
+          "resetAt": "2026-11-22T22:07:43.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T16:57:29.461+08:00",
+      "fetchedAt": "2026-11-22T17:07:41.494+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T16:57:29.472+08:00",
+      "fetchedAt": "2026-11-22T17:07:41.504+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T16:57:29.472+08:00",
+      "fetchedAt": "2026-11-22T17:07:41.504+08:00",
       "error": "未启用",
       "disabled": true
     }
