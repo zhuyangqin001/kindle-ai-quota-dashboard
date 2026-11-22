@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T18:59:54.714+08:00",
+  "updatedAt": "2026-11-22T19:10:11.173+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.3,
-    "feelsLikeC": 12.2,
+    "tempC": 14.4,
+    "feelsLikeC": 12.3,
     "humidity": 60,
-    "windKph": 8.1,
+    "windKph": 8.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-22T18:59:54.714+08:00",
+    "observedAt": "2026-11-22T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-22T19:10:11.174+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "发放1163亿元 国开行已完成今年国家助学贷款发放工作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736146.shtml",
+        "publishedAt": "2026-11-22T18:58:39.000+08:00"
+      },
+      {
+        "title": "亚洲精品咖啡生豆评价标准在滇发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736142.shtml",
+        "publishedAt": "2026-11-22T18:55:35.000+08:00"
+      },
       {
         "title": "小雪节气至 广东专家提醒：警惕气温骤降 增加心血管负担",
         "url": "https://www.chinanews.com.cn/jk/2026/11-22/10736141.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "沪深交易所、中国结算推出一揽子降费措施",
         "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736145.shtml",
         "publishedAt": "2026-11-22T18:43:50.000+08:00"
-      },
-      {
-        "title": "沪深北交易所降低融资保证金比例下限至80%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736144.shtml",
-        "publishedAt": "2026-11-22T18:42:30.000+08:00"
-      },
-      {
-        "title": "创业板拟引入做市商制度",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736143.shtml",
-        "publishedAt": "2026-11-22T18:41:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T18:59:51.350+08:00",
+    "fetchedAt": "2026-11-22T19:10:07.276+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T18:59:52.107+08:00",
+      "fetchedAt": "2026-11-22T19:10:08.035+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T23:59:54.000+08:00"
+          "resetAt": "2026-11-23T00:10:11.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T18:59:52.110+08:00",
+      "fetchedAt": "2026-11-22T19:10:08.039+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T18:59:52.120+08:00",
+      "fetchedAt": "2026-11-22T19:10:08.049+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T18:59:52.120+08:00",
+      "fetchedAt": "2026-11-22T19:10:08.049+08:00",
       "error": "未启用",
       "disabled": true
     }
