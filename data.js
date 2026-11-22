@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T16:16:34.239+08:00",
+  "updatedAt": "2026-11-22T16:26:47.993+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-22T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-22T16:16:34.239+08:00",
+    "fetchedAt": "2026-11-22T16:26:47.993+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《国家考古遗址公园（二）》特种邮票发行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736084.shtml",
+        "publishedAt": "2026-11-22T16:21:42.000+08:00"
+      },
+      {
+        "title": "柬埔寨时隔两年多再现猴痘确诊病例",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736067.shtml",
+        "publishedAt": "2026-11-22T16:13:58.000+08:00"
+      },
       {
         "title": "特朗普连发30多张照片盛赞APEC会议，照片配文“GOAT”（有史以来最伟大的）",
         "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736082.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "新华时评丨大力发展银发经济，更好满足“活力”需求",
         "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736081.shtml",
         "publishedAt": "2026-11-22T15:55:29.000+08:00"
-      },
-      {
-        "title": "扬州红雕漆对瓶亮相深圳APEC会议 “锦绣万年”传和合",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736076.shtml",
-        "publishedAt": "2026-11-22T15:50:19.000+08:00"
-      },
-      {
-        "title": "把脉问诊“圈粉”东盟嘉宾 重庆深化与东盟卫生健康合作",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-22/10736078.shtml",
-        "publishedAt": "2026-11-22T15:49:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T16:16:31.055+08:00",
+    "fetchedAt": "2026-11-22T16:26:44.109+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T16:16:31.819+08:00",
+      "fetchedAt": "2026-11-22T16:26:44.863+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T21:16:33.000+08:00"
+          "resetAt": "2026-11-22T21:26:47.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T16:16:31.822+08:00",
+      "fetchedAt": "2026-11-22T16:26:44.866+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T16:16:31.832+08:00",
+      "fetchedAt": "2026-11-22T16:26:44.877+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T16:16:31.832+08:00",
+      "fetchedAt": "2026-11-22T16:26:44.877+08:00",
       "error": "未启用",
       "disabled": true
     }
