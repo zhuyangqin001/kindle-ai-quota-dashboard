@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T22:55:16.725+08:00",
+  "updatedAt": "2026-11-22T23:05:32.390+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.2,
-    "feelsLikeC": 11.7,
-    "humidity": 74,
-    "windKph": 7.6,
+    "tempC": 13.1,
+    "feelsLikeC": 11.6,
+    "humidity": 75,
+    "windKph": 7.8,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T22:45:00.000+08:00",
-    "fetchedAt": "2026-11-22T22:55:16.725+08:00",
+    "observedAt": "2026-11-22T23:00:00.000+08:00",
+    "fetchedAt": "2026-11-22T23:05:32.390+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "联合国气候变化安塔利亚大会闭幕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736214.shtml",
+        "publishedAt": "2026-11-22T22:55:52.000+08:00"
+      },
       {
         "title": "青海德令哈5.6级地震经三轮排查无人员伤亡",
         "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736213.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（文化新纪行）山东梁山打造分布式流动演出 水浒文脉蕴新活力",
         "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736206.shtml",
         "publishedAt": "2026-11-22T22:04:31.000+08:00"
-      },
-      {
-        "title": "错峰秋假，让淡季旅游“热”起来",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736205.shtml",
-        "publishedAt": "2026-11-22T21:59:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T22:55:13.528+08:00",
+    "fetchedAt": "2026-11-22T23:05:29.425+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T22:55:14.246+08:00",
+      "fetchedAt": "2026-11-22T23:05:30.199+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T22:55:14.249+08:00",
+      "fetchedAt": "2026-11-22T23:05:30.202+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T22:55:14.258+08:00",
+      "fetchedAt": "2026-11-22T23:05:30.212+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T22:55:14.258+08:00",
+      "fetchedAt": "2026-11-22T23:05:30.212+08:00",
       "error": "未启用",
       "disabled": true
     }
