@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T23:15:49.753+08:00",
+  "updatedAt": "2026-11-22T23:26:01.885+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-22T23:15:00.000+08:00",
-    "fetchedAt": "2026-11-22T23:15:49.754+08:00",
+    "fetchedAt": "2026-11-22T23:26:01.885+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "创14个月新低 国际金价走势与地缘政治局势变化有何关联？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736215.shtml",
+        "publishedAt": "2026-11-22T23:13:49.000+08:00"
+      },
       {
         "title": "联合国气候变化安塔利亚大会闭幕",
         "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736214.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "日本文部科学大臣因政治筹款丑闻面临辞职压力",
         "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736208.shtml",
         "publishedAt": "2026-11-22T22:05:25.000+08:00"
-      },
-      {
-        "title": "（文化新纪行）山东梁山打造分布式流动演出 水浒文脉蕴新活力",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736206.shtml",
-        "publishedAt": "2026-11-22T22:04:31.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T23:15:47.042+08:00",
+    "fetchedAt": "2026-11-22T23:25:59.255+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T23:15:47.784+08:00",
+      "fetchedAt": "2026-11-22T23:25:59.890+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 6,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T23:15:47.787+08:00",
+      "fetchedAt": "2026-11-22T23:25:59.892+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T23:15:47.797+08:00",
+      "fetchedAt": "2026-11-22T23:25:59.898+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T23:15:47.797+08:00",
+      "fetchedAt": "2026-11-22T23:25:59.899+08:00",
       "error": "未启用",
       "disabled": true
     }
