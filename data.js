@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T08:41:16.917+08:00",
+  "updatedAt": "2026-11-22T08:51:30.937+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.8,
-    "feelsLikeC": 6.2,
-    "humidity": 60,
-    "windKph": 4.9,
+    "tempC": 9.6,
+    "feelsLikeC": 7.1,
+    "humidity": 58,
+    "windKph": 4.1,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T08:41:16.917+08:00",
+    "observedAt": "2026-11-22T08:45:00.000+08:00",
+    "fetchedAt": "2026-11-22T08:51:30.938+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "特朗普：将寻求与伊朗达成一项“永久性”协议",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735946.shtml",
+        "publishedAt": "2026-11-22T08:49:20.000+08:00"
+      },
+      {
+        "title": "花几十万元就能为孩子换外籍身份入学？捷径背后埋隐患",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-22/10735945.shtml",
+        "publishedAt": "2026-11-22T08:49:12.000+08:00"
+      },
       {
         "title": "网络交友被骗压岁钱 警惕针对青少年的“小额多次式诈骗”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735944.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "节气物候图鉴：小雪雪渐落 全国初雪进程地图看哪里将披银装",
         "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735942.shtml",
         "publishedAt": "2026-11-22T08:33:39.000+08:00"
-      },
-      {
-        "title": "小雪节气如何养生？核心是“藏”",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-22/10735940.shtml",
-        "publishedAt": "2026-11-22T08:18:34.000+08:00"
-      },
-      {
-        "title": "11月22日早报",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-22/10735939.shtml",
-        "publishedAt": "2026-11-22T07:50:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T08:41:14.606+08:00",
+    "fetchedAt": "2026-11-22T08:51:24.695+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T08:41:15.064+08:00",
+      "fetchedAt": "2026-11-22T08:51:25.150+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -73,7 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-22T08:41:15.067+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-11-22T08:51:25.153+08:00"
     },
     "mimo": {
       "ok": false,
@@ -81,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T08:41:15.072+08:00",
+      "fetchedAt": "2026-11-22T08:51:25.159+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T08:41:15.072+08:00",
+      "fetchedAt": "2026-11-22T08:51:25.159+08:00",
       "error": "未启用",
       "disabled": true
     }
