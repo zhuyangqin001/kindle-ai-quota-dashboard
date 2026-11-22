@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T18:29:13.810+08:00",
+  "updatedAt": "2026-11-22T18:39:26.623+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 14.1,
     "feelsLikeC": 12.1,
     "humidity": 60,
-    "windKph": 6.7,
+    "windKph": 7.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-22T18:29:13.810+08:00",
+    "observedAt": "2026-11-22T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-22T18:39:26.623+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第三届宋慈司法精神学术研讨会在南平开幕 活化传统法治文脉助力政法现代化",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736125.shtml",
-        "publishedAt": "2026-11-22T18:14:20.000+08:00"
+        "title": "中国第二艘国产大型邮轮广州首航 边检启用扫码通关",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736127.shtml",
+        "publishedAt": "2026-11-22T18:33:15.000+08:00"
       },
       {
-        "title": "ESG是中小企业的“奢侈品”吗？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736123.shtml",
-        "publishedAt": "2026-11-22T18:14:14.000+08:00"
+        "title": "“奥运冠军之城”七台河：打造“体育+文旅+产业”融合样板",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736129.shtml",
+        "publishedAt": "2026-11-22T18:33:07.000+08:00"
       },
       {
-        "title": "奥运冠军李雪芮领衔主编原创教材《羽毛球》在渝发布",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736117.shtml",
-        "publishedAt": "2026-11-22T18:13:38.000+08:00"
+        "title": "北京东城举办“集贤人才”大会 发布东城青年人才创新创业生态地图",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736135.shtml",
+        "publishedAt": "2026-11-22T18:32:27.000+08:00"
       },
       {
-        "title": "全是“针”功夫 姚惠芬苏绣艺术展在同济大学展出",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736116.shtml",
-        "publishedAt": "2026-11-22T18:12:54.000+08:00"
+        "title": "新一股冷空气将致中国局地降温超10℃",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736126.shtml",
+        "publishedAt": "2026-11-22T18:32:09.000+08:00"
       },
       {
-        "title": "“观照无形：感知、身体与观测”活动于清华大学艺术博物馆举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736115.shtml",
-        "publishedAt": "2026-11-22T18:12:46.000+08:00"
+        "title": "特稿丨坦赞铁路，50年后再出发",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736136.shtml",
+        "publishedAt": "2026-11-22T18:27:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T18:29:11.907+08:00",
+    "fetchedAt": "2026-11-22T18:39:22.360+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T18:29:12.625+08:00",
+      "fetchedAt": "2026-11-22T18:39:23.127+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T23:29:13.000+08:00"
+          "resetAt": "2026-11-22T23:39:25.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T18:29:12.628+08:00",
+      "fetchedAt": "2026-11-22T18:39:23.131+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T18:29:12.638+08:00",
+      "fetchedAt": "2026-11-22T18:39:23.140+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T18:29:12.639+08:00",
+      "fetchedAt": "2026-11-22T18:39:23.140+08:00",
       "error": "未启用",
       "disabled": true
     }
