@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T16:06:17.526+08:00",
+  "updatedAt": "2026-11-22T16:16:34.239+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.9,
-    "feelsLikeC": 16.4,
-    "humidity": 39,
-    "windKph": 8.7,
+    "tempC": 18.4,
+    "feelsLikeC": 16.1,
+    "humidity": 42,
+    "windKph": 7.8,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-22T16:06:17.526+08:00",
+    "observedAt": "2026-11-22T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-22T16:16:34.239+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "特朗普连发30多张照片盛赞APEC会议，照片配文“GOAT”（有史以来最伟大的）",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736082.shtml",
+        "publishedAt": "2026-11-22T16:11:18.000+08:00"
+      },
       {
         "title": "宁夏闽宁镇：游客周末打卡闽宁戏剧村落",
         "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736074.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "把脉问诊“圈粉”东盟嘉宾 重庆深化与东盟卫生健康合作",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-22/10736078.shtml",
         "publishedAt": "2026-11-22T15:49:43.000+08:00"
-      },
-      {
-        "title": "瑞士联邦副主席兼外长卡西斯将访华",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736077.shtml",
-        "publishedAt": "2026-11-22T15:49:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T16:06:13.877+08:00",
+    "fetchedAt": "2026-11-22T16:16:31.055+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T16:06:14.599+08:00",
+      "fetchedAt": "2026-11-22T16:16:31.819+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T21:06:16.000+08:00"
+          "resetAt": "2026-11-22T21:16:33.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T16:06:14.602+08:00",
+      "fetchedAt": "2026-11-22T16:16:31.822+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T16:06:14.612+08:00",
+      "fetchedAt": "2026-11-22T16:16:31.832+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T16:06:14.612+08:00",
+      "fetchedAt": "2026-11-22T16:16:31.832+08:00",
       "error": "未启用",
       "disabled": true
     }
