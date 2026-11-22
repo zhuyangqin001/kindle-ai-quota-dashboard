@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T15:35:40.819+08:00",
+  "updatedAt": "2026-11-22T15:45:52.766+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.5,
-    "feelsLikeC": 16.6,
-    "humidity": 35,
-    "windKph": 9.4,
+    "tempC": 19.3,
+    "feelsLikeC": 16.5,
+    "humidity": 37,
+    "windKph": 9.2,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-22T15:35:40.819+08:00",
+    "observedAt": "2026-11-22T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-22T15:45:52.766+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "舌尖上的小雪！冬藏美食地图带你寻找儿时家乡味",
-        "url": "https://www.chinanews.com.cn/life/2026/11-22/10736065.shtml",
-        "publishedAt": "2026-11-22T15:29:07.000+08:00"
+        "title": "马来西亚华团携南侨机工后人重走滇缅公路：“我的根在中国”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-22/10736073.shtml",
+        "publishedAt": "2026-11-22T15:41:48.000+08:00"
       },
       {
-        "title": "“中国服务”迈上新台阶——中国经济三季报亮点解析",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736066.shtml",
-        "publishedAt": "2026-11-22T15:28:51.000+08:00"
+        "title": "（走进中国乡村）湖南安化茶企抱团出海 “黑茶之乡”加速拓展全球市场",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736071.shtml",
+        "publishedAt": "2026-11-22T15:41:40.000+08:00"
       },
       {
-        "title": "15个创业项目登台“找市场” 东南大学举行OPC学生路演专场",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736058.shtml",
-        "publishedAt": "2026-11-22T15:09:50.000+08:00"
+        "title": "4000元、96集、一个人 AI短剧《重生螳螂》的爆款样本",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736070.shtml",
+        "publishedAt": "2026-11-22T15:40:12.000+08:00"
       },
       {
-        "title": "“冬日雪暖阳·好戏在沈阳”——沈阳苏家屯农民画主题大集启幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736059.shtml",
-        "publishedAt": "2026-11-22T15:08:56.000+08:00"
+        "title": "黑龙江漠河迎来寒地试车黄金季",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736068.shtml",
+        "publishedAt": "2026-11-22T15:40:04.000+08:00"
       },
       {
-        "title": "陈晓卿新作前往24地寻色 讲述刻在基因里的中国色",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736060.shtml",
-        "publishedAt": "2026-11-22T15:08:28.000+08:00"
+        "title": "中国超大规模“试验场” 助全球技术迭代 创新优势赋能亚太共同发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736072.shtml",
+        "publishedAt": "2026-11-22T15:36:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T15:35:37.994+08:00",
+    "fetchedAt": "2026-11-22T15:45:49.844+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T15:35:38.457+08:00",
+      "fetchedAt": "2026-11-22T15:45:50.306+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T20:35:40.000+08:00"
+          "resetAt": "2026-11-22T20:45:52.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T15:35:38.460+08:00",
+      "fetchedAt": "2026-11-22T15:45:50.309+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T15:35:38.466+08:00",
+      "fetchedAt": "2026-11-22T15:45:50.315+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T15:35:38.466+08:00",
+      "fetchedAt": "2026-11-22T15:45:50.315+08:00",
       "error": "未启用",
       "disabled": true
     }
