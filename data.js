@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T20:52:30.520+08:00",
+  "updatedAt": "2026-11-22T21:02:43.736+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.6,
+    "tempC": 14.5,
     "feelsLikeC": 12.1,
-    "humidity": 58,
-    "windKph": 10.6,
+    "humidity": 59,
+    "windKph": 10.3,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-22T20:52:30.520+08:00",
+    "observedAt": "2026-11-22T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-22T21:02:43.736+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "毕马威发布能源转型新书 助企业明确自身角色",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736198.shtml",
+        "publishedAt": "2026-11-22T20:57:55.000+08:00"
+      },
+      {
+        "title": "西藏扎囊拓宽农牧民淡季增收路 提供770个就业岗位",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736197.shtml",
+        "publishedAt": "2026-11-22T20:50:21.000+08:00"
+      },
+      {
+        "title": "全国大学生文旅与会展竞赛吸引多国学子参赛",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736196.shtml",
+        "publishedAt": "2026-11-22T20:50:03.000+08:00"
+      },
+      {
+        "title": "2026中国大学生路跑联赛全国总决赛在成都举行 西南大学夺得团体冠军",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736180.shtml",
+        "publishedAt": "2026-11-22T20:48:33.000+08:00"
+      },
+      {
         "title": "光影绘山河 生态护拉萨",
         "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736178.shtml",
         "publishedAt": "2026-11-22T20:47:27.000+08:00"
-      },
-      {
-        "title": "“香港精神号”艺术涂装客机模型将亮相香港西九海滨",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10736194.shtml",
-        "publishedAt": "2026-11-22T20:47:15.000+08:00"
-      },
-      {
-        "title": "内蒙古医科大学党委原书记赵云山被开除党籍和公职",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736192.shtml",
-        "publishedAt": "2026-11-22T20:46:17.000+08:00"
-      },
-      {
-        "title": "（粤港澳大湾区）三港联动 粤港澳大湾区邮轮旅游升温",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10736193.shtml",
-        "publishedAt": "2026-11-22T20:45:25.000+08:00"
-      },
-      {
-        "title": "短道速滑世巡赛首尔站收官 中国队获接力一金一铜",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736189.shtml",
-        "publishedAt": "2026-11-22T20:40:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T20:52:26.967+08:00",
+    "fetchedAt": "2026-11-22T21:02:41.320+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T20:52:27.709+08:00",
+      "fetchedAt": "2026-11-22T21:02:41.790+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T01:52:30.000+08:00"
+          "resetAt": "2026-11-23T02:02:43.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T20:52:27.712+08:00",
+      "fetchedAt": "2026-11-22T21:02:41.791+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T20:52:27.722+08:00",
+      "fetchedAt": "2026-11-22T21:02:41.796+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T20:52:27.722+08:00",
+      "fetchedAt": "2026-11-22T21:02:41.796+08:00",
       "error": "未启用",
       "disabled": true
     }
