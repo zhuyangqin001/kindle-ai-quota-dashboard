@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T20:11:35.050+08:00",
+  "updatedAt": "2026-11-22T20:21:50.687+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.9,
-    "feelsLikeC": 12.6,
+    "tempC": 14.7,
+    "feelsLikeC": 12.2,
     "humidity": 58,
-    "windKph": 9.4,
+    "windKph": 10.8,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-22T20:11:35.050+08:00",
+    "observedAt": "2026-11-22T20:15:00.000+08:00",
+    "fetchedAt": "2026-11-22T20:21:50.688+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "院士专家北京共论脑机接口未来图景",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736174.shtml",
+        "publishedAt": "2026-11-22T20:16:35.000+08:00"
+      },
+      {
+        "title": "以刀为笔续文脉 贺昆师生百余件“绝版木刻”昆明展出",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736172.shtml",
+        "publishedAt": "2026-11-22T20:16:07.000+08:00"
+      },
+      {
+        "title": "韩国教育部长官因应对高考作弊引发混乱提出辞职",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736139.shtml",
+        "publishedAt": "2026-11-22T20:15:01.000+08:00"
+      },
+      {
+        "title": "上交所：已有20家做市商为273只科创板股票提供做市服务",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736171.shtml",
+        "publishedAt": "2026-11-22T20:14:13.000+08:00"
+      },
+      {
         "title": "“小雪”至腌菜正当时 盐与时间酿出中国东北老味道",
         "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736170.shtml",
         "publishedAt": "2026-11-22T20:06:20.000+08:00"
-      },
-      {
-        "title": "美食文旅节目《寻味山海》走进辽宁锦州品山海相拥的滋味",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736168.shtml",
-        "publishedAt": "2026-11-22T20:04:10.000+08:00"
-      },
-      {
-        "title": "上交所：预计本年度沪市整体降费金额超过24亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736167.shtml",
-        "publishedAt": "2026-11-22T20:02:30.000+08:00"
-      },
-      {
-        "title": "海外学生走进汕头潮州 读侨批学英歌舞感知潮汕文化魅力",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736165.shtml",
-        "publishedAt": "2026-11-22T20:01:10.000+08:00"
-      },
-      {
-        "title": "张雪亲自下场 在珠海体验张雪机车820RR",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736169.shtml",
-        "publishedAt": "2026-11-22T20:00:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T20:11:31.731+08:00",
+    "fetchedAt": "2026-11-22T20:21:45.208+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T20:11:32.487+08:00",
+      "fetchedAt": "2026-11-22T20:21:45.968+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T01:11:34.000+08:00"
+          "resetAt": "2026-11-23T01:21:48.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T20:11:32.490+08:00",
+      "fetchedAt": "2026-11-22T20:21:45.971+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T20:11:32.500+08:00",
+      "fetchedAt": "2026-11-22T20:21:45.981+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T20:11:32.500+08:00",
+      "fetchedAt": "2026-11-22T20:21:45.982+08:00",
       "error": "未启用",
       "disabled": true
     }
