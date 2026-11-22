@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T23:56:49.616+08:00",
+  "updatedAt": "2026-11-23T00:07:02.777+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 13,
-    "feelsLikeC": 11.7,
+    "feelsLikeC": 11.8,
     "humidity": 75,
-    "windKph": 6.5,
+    "windKph": 5.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-22T23:45:00.000+08:00",
-    "fetchedAt": "2026-11-22T23:56:49.616+08:00",
+    "observedAt": "2026-11-23T00:00:00.000+08:00",
+    "fetchedAt": "2026-11-23T00:07:02.777+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "李家超致贺香港特区选委会当选委员 冀秉持“爱国者治港”原则履职尽责",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736218.shtml",
+        "publishedAt": "2026-11-22T23:58:55.000+08:00"
+      },
+      {
+        "title": "香港特区选委会界别分组一般选举结果揭晓 全部选委顺利产生",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736217.shtml",
+        "publishedAt": "2026-11-22T23:57:11.000+08:00"
+      },
       {
         "title": "2026中国壁球公开赛落幕 埃及和马来西亚选手分获男、女单打冠军",
         "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736216.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "联合国气候变化安塔利亚大会闭幕",
         "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736214.shtml",
         "publishedAt": "2026-11-22T22:55:52.000+08:00"
-      },
-      {
-        "title": "青海德令哈5.6级地震经三轮排查无人员伤亡",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736213.shtml",
-        "publishedAt": "2026-11-22T22:37:37.000+08:00"
-      },
-      {
-        "title": "速度滑冰世界杯日本带广站：中国队2金3银2铜收官",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736207.shtml",
-        "publishedAt": "2026-11-22T22:05:29.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T23:56:45.567+08:00",
+    "fetchedAt": "2026-11-23T00:06:59.591+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T23:56:46.317+08:00",
+      "fetchedAt": "2026-11-23T00:07:00.448+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 6,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T23:56:46.320+08:00",
+      "fetchedAt": "2026-11-23T00:07:00.452+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T23:56:46.330+08:00",
+      "fetchedAt": "2026-11-23T00:07:00.462+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T23:56:46.330+08:00",
+      "fetchedAt": "2026-11-23T00:07:00.462+08:00",
       "error": "未启用",
       "disabled": true
     }
