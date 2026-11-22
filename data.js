@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-22T15:45:52.766+08:00",
+  "updatedAt": "2026-11-22T15:56:05.007+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-22T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-22T15:45:52.766+08:00",
+    "fetchedAt": "2026-11-22T15:56:05.007+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "马来西亚华团携南侨机工后人重走滇缅公路：“我的根在中国”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-22/10736073.shtml",
-        "publishedAt": "2026-11-22T15:41:48.000+08:00"
+        "title": "扬州红雕漆对瓶亮相深圳APEC会议 “锦绣万年”传和合",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736076.shtml",
+        "publishedAt": "2026-11-22T15:50:19.000+08:00"
       },
       {
-        "title": "（走进中国乡村）湖南安化茶企抱团出海 “黑茶之乡”加速拓展全球市场",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736071.shtml",
-        "publishedAt": "2026-11-22T15:41:40.000+08:00"
+        "title": "把脉问诊“圈粉”东盟嘉宾 重庆深化与东盟卫生健康合作",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-22/10736078.shtml",
+        "publishedAt": "2026-11-22T15:49:43.000+08:00"
       },
       {
-        "title": "4000元、96集、一个人 AI短剧《重生螳螂》的爆款样本",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736070.shtml",
-        "publishedAt": "2026-11-22T15:40:12.000+08:00"
+        "title": "瑞士联邦副主席兼外长卡西斯将访华",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736077.shtml",
+        "publishedAt": "2026-11-22T15:49:15.000+08:00"
       },
       {
-        "title": "黑龙江漠河迎来寒地试车黄金季",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736068.shtml",
-        "publishedAt": "2026-11-22T15:40:04.000+08:00"
+        "title": "同样是跑步，有人养心肺有人伤关节，差别就在这里",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-22/10736080.shtml",
+        "publishedAt": "2026-11-22T15:49:00.000+08:00"
       },
       {
-        "title": "中国超大规模“试验场” 助全球技术迭代 创新优势赋能亚太共同发展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736072.shtml",
-        "publishedAt": "2026-11-22T15:36:52.000+08:00"
+        "title": "2026年广西林木展吸引国际头部企业及境外采购商",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736079.shtml",
+        "publishedAt": "2026-11-22T15:48:52.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-22T15:45:49.844+08:00",
+    "fetchedAt": "2026-11-22T15:56:02.071+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-22T15:45:50.306+08:00",
+      "fetchedAt": "2026-11-22T15:56:02.498+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-22T20:45:52.000+08:00"
+          "resetAt": "2026-11-22T20:56:04.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-22T15:45:50.309+08:00",
+      "fetchedAt": "2026-11-22T15:56:02.500+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T15:45:50.315+08:00",
+      "fetchedAt": "2026-11-22T15:56:02.506+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-22T15:45:50.315+08:00",
+      "fetchedAt": "2026-11-22T15:56:02.506+08:00",
       "error": "未启用",
       "disabled": true
     }
