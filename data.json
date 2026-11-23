@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-23T09:45:00.507+08:00",
+  "updatedAt": "2026-11-23T09:55:13.609+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 12.5,
-    "feelsLikeC": 12,
-    "humidity": 93,
-    "windKph": 6.4,
+    "tempC": 12.7,
+    "feelsLikeC": 12.2,
+    "humidity": 94,
+    "windKph": 6.3,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T09:45:00.507+08:00",
+    "observedAt": "2026-11-23T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-23T09:55:13.609+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "让“边角地”成为“幸福地”（人民时评）",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-23/10736275.shtml",
+        "publishedAt": "2026-11-23T09:49:42.000+08:00"
+      },
+      {
+        "title": "美伊谈判僵持冲突外溢 内塔尼亚胡被曝欲单独对伊动武",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736273.shtml",
+        "publishedAt": "2026-11-23T09:47:06.000+08:00"
+      },
+      {
+        "title": "第八届新时代“枫桥经验”论坛在杭州举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736269.shtml",
+        "publishedAt": "2026-11-23T09:46:44.000+08:00"
+      },
+      {
+        "title": "韩国各地手机一天内三次警报大作，三天后韩国教育部长辞职",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736272.shtml",
+        "publishedAt": "2026-11-23T09:43:57.000+08:00"
+      },
+      {
         "title": "半年胖20斤，这个台湾姑娘在宜春经历了什么？",
         "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736261.shtml",
         "publishedAt": "2026-11-23T09:40:13.000+08:00"
-      },
-      {
-        "title": "2026年香港特区选举委员会界别分组一般选举结果揭晓",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736271.shtml",
-        "publishedAt": "2026-11-23T09:40:09.000+08:00"
-      },
-      {
-        "title": "A股周一开盘：超5000只个股飘绿，三大指数集体低开",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736270.shtml",
-        "publishedAt": "2026-11-23T09:38:21.000+08:00"
-      },
-      {
-        "title": "论道AI时代 华东律师业探索法律服务新路径",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736265.shtml",
-        "publishedAt": "2026-11-23T09:37:59.000+08:00"
-      },
-      {
-        "title": "歼-15成功着舰14周年 历史性时刻珍贵画面回顾→",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736268.shtml",
-        "publishedAt": "2026-11-23T09:36:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T09:44:58.161+08:00",
+    "fetchedAt": "2026-11-23T09:55:11.478+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T09:44:58.913+08:00",
+      "fetchedAt": "2026-11-23T09:55:12.223+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T14:45:00.000+08:00"
+          "resetAt": "2026-11-23T14:55:13.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T09:44:58.917+08:00",
+      "fetchedAt": "2026-11-23T09:55:12.226+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T09:44:58.926+08:00",
+      "fetchedAt": "2026-11-23T09:55:12.236+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T09:44:58.927+08:00",
+      "fetchedAt": "2026-11-23T09:55:12.236+08:00",
       "error": "未启用",
       "disabled": true
     }
