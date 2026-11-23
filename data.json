@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-23T14:50:13.390+08:00",
+  "updatedAt": "2026-11-23T15:00:25.518+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 14,
-    "feelsLikeC": 14.1,
-    "humidity": 93,
+    "tempC": 14.1,
+    "feelsLikeC": 14.3,
+    "humidity": 94,
     "windKph": 5.1,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-23T14:50:13.390+08:00",
+    "observedAt": "2026-11-23T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-23T15:00:25.518+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "5000架无人机点亮巫山夜空 红叶、峡江、高铁等元素吸睛",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736395.shtml",
-        "publishedAt": "2026-11-23T14:44:02.000+08:00"
+        "title": "宇树科技，涨停",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736429.shtml",
+        "publishedAt": "2026-11-23T14:54:22.000+08:00"
       },
       {
-        "title": "7天2万元，景区“神仙工作”买的是服务还是“热搜”？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736422.shtml",
-        "publishedAt": "2026-11-23T14:43:36.000+08:00"
+        "title": "以色列组阁谈判未取得突破 总理人选仍存分歧",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736389.shtml",
+        "publishedAt": "2026-11-23T14:54:12.000+08:00"
       },
       {
-        "title": "信息窗口乱跳转、无法关闭 工信部通报23款APP及SDK",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736373.shtml",
-        "publishedAt": "2026-11-23T14:40:37.000+08:00"
+        "title": "斯诺克英锦赛资格赛：中国军团次日8胜5负 傅家俊首战出局",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736424.shtml",
+        "publishedAt": "2026-11-23T14:50:42.000+08:00"
       },
       {
-        "title": "辽宁省财政精准赋能 筑牢公共卫生应急屏障",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736418.shtml",
-        "publishedAt": "2026-11-23T14:37:07.000+08:00"
+        "title": "2026年“王船之旅”文化传承交流活动在厦门举行",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736423.shtml",
+        "publishedAt": "2026-11-23T14:48:20.000+08:00"
       },
       {
-        "title": "留村土窑洞里的红军东征记忆",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736413.shtml",
-        "publishedAt": "2026-11-23T14:36:41.000+08:00"
+        "title": "专家号加价至900元，优先入院开价1.2万元 陪诊师灰色业务链调查",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736425.shtml",
+        "publishedAt": "2026-11-23T14:47:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T14:50:10.953+08:00",
+    "fetchedAt": "2026-11-23T15:00:23.393+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T14:50:11.668+08:00",
+      "fetchedAt": "2026-11-23T15:00:24.065+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T19:50:13.000+08:00"
+          "resetAt": "2026-11-23T20:00:25.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T14:50:11.672+08:00",
+      "fetchedAt": "2026-11-23T15:00:24.067+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T14:50:11.681+08:00",
+      "fetchedAt": "2026-11-23T15:00:24.072+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T14:50:11.681+08:00",
+      "fetchedAt": "2026-11-23T15:00:24.072+08:00",
       "error": "未启用",
       "disabled": true
     }
