@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T15:10:38.555+08:00",
+  "updatedAt": "2026-11-23T15:20:50.881+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 14.1,
     "feelsLikeC": 14.4,
     "humidity": 94,
-    "windKph": 4.3,
+    "windKph": 4.6,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T15:10:38.556+08:00",
+    "observedAt": "2026-11-23T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-23T15:20:50.881+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "荷兰外交大臣贝伦德森将访华",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736441.shtml",
+        "publishedAt": "2026-11-23T15:13:19.000+08:00"
+      },
+      {
+        "title": "好评中国丨“稳”“旺”“热”里，藏着一场消费结构的深层换挡",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-23/10736440.shtml",
+        "publishedAt": "2026-11-23T15:12:27.000+08:00"
+      },
+      {
+        "title": "当OPC遇上AI短剧 爆款背后一位创作者的历史表达",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736437.shtml",
+        "publishedAt": "2026-11-23T15:11:59.000+08:00"
+      },
+      {
+        "title": "科技部原重大专项司司长刘敏接受审查调查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736436.shtml",
+        "publishedAt": "2026-11-23T15:08:05.000+08:00"
+      },
+      {
         "title": "2026中国业余高尔夫球队际公开赛年度总决赛落幕",
         "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736428.shtml",
         "publishedAt": "2026-11-23T15:03:11.000+08:00"
-      },
-      {
-        "title": "多地召开省级侨务工作会议 为侨服务向“新”行",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736431.shtml",
-        "publishedAt": "2026-11-23T15:01:25.000+08:00"
-      },
-      {
-        "title": "近期货车肇事导致的交通事故多发 公安部交管局发布提示",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736426.shtml",
-        "publishedAt": "2026-11-23T14:59:30.000+08:00"
-      },
-      {
-        "title": "大连市沙河口区委召开民营经济代表人士座谈会",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736427.shtml",
-        "publishedAt": "2026-11-23T14:59:00.000+08:00"
-      },
-      {
-        "title": "借力体育赛事 广东廉江开展民族团结进步主题宣传活动",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736432.shtml",
-        "publishedAt": "2026-11-23T14:58:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T15:10:36.105+08:00",
+    "fetchedAt": "2026-11-23T15:20:48.295+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T15:10:36.869+08:00",
+      "fetchedAt": "2026-11-23T15:20:49.044+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T20:10:38.000+08:00"
+          "resetAt": "2026-11-23T20:20:50.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T15:10:36.872+08:00",
+      "fetchedAt": "2026-11-23T15:20:49.047+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T15:10:36.882+08:00",
+      "fetchedAt": "2026-11-23T15:20:49.057+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T15:10:36.882+08:00",
+      "fetchedAt": "2026-11-23T15:20:49.058+08:00",
       "error": "未启用",
       "disabled": true
     }
