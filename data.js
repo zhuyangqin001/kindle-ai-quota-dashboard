@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T16:22:08.862+08:00",
+  "updatedAt": "2026-11-23T16:32:21.953+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 14,
     "feelsLikeC": 14.2,
     "humidity": 96,
-    "windKph": 5.8,
+    "windKph": 5.6,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T16:22:08.862+08:00",
+    "observedAt": "2026-11-23T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-23T16:32:21.953+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "死磕、陪跑、溢出，一关一关过！把实验室势能变成生产线产能",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736506.shtml",
-        "publishedAt": "2026-11-23T16:15:10.000+08:00"
+        "title": "中方谈COP31未能就政治决定达成共识：失望但不应丧失信心",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736491.shtml",
+        "publishedAt": "2026-11-23T16:29:47.000+08:00"
       },
       {
-        "title": "全国秋冬种进入尾声 冬季田管有序展开",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736502.shtml",
-        "publishedAt": "2026-11-23T16:13:28.000+08:00"
+        "title": "12道古法工序 河北唐山“95后”以中医古方赓续北方香脉",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736516.shtml",
+        "publishedAt": "2026-11-23T16:28:55.000+08:00"
       },
       {
-        "title": "“援”定天山：安徽大别山区瓜蒌在戈壁结“金瓜”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736466.shtml",
-        "publishedAt": "2026-11-23T16:13:06.000+08:00"
+        "title": "山海同席共享家宴 青闽携手“链”动好物",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736469.shtml",
+        "publishedAt": "2026-11-23T16:27:15.000+08:00"
       },
       {
-        "title": "第73届澳门格兰披治大赛车在澳门举行",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-23/1211466.shtml",
-        "publishedAt": "2026-11-23T16:12:02.000+08:00"
+        "title": "“援”定天山：戈壁滩养出青蟹 浙江助新疆餐桌更鲜",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736468.shtml",
+        "publishedAt": "2026-11-23T16:26:27.000+08:00"
       },
       {
-        "title": "稳股市“组合拳”出台 融资保证金比例下限降至80%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736500.shtml",
-        "publishedAt": "2026-11-23T16:11:28.000+08:00"
+        "title": "丁薛祥会见新加坡副总理颜金勇并共同主持中新双边合作机制会议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736517.shtml",
+        "publishedAt": "2026-11-23T16:25:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T16:22:06.726+08:00",
+    "fetchedAt": "2026-11-23T16:32:17.922+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T16:22:07.122+08:00",
+      "fetchedAt": "2026-11-23T16:32:18.616+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T21:22:08.000+08:00"
+          "resetAt": "2026-11-23T21:32:21.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 6,
-          "resetAt": "2026-11-28T20:15:45.000+08:00"
+          "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T16:22:07.125+08:00",
+      "fetchedAt": "2026-11-23T16:32:18.618+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T16:22:07.130+08:00",
+      "fetchedAt": "2026-11-23T16:32:18.629+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T16:22:07.131+08:00",
+      "fetchedAt": "2026-11-23T16:32:18.629+08:00",
       "error": "未启用",
       "disabled": true
     }
