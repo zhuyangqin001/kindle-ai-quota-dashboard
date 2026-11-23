@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T15:41:15.135+08:00",
+  "updatedAt": "2026-11-23T15:51:31.474+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
-    "tempC": 14.1,
-    "feelsLikeC": 14.4,
-    "humidity": 95,
-    "windKph": 5,
+    "tempC": 14,
+    "feelsLikeC": 14.3,
+    "humidity": 96,
+    "windKph": 5.6,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T15:41:15.135+08:00",
+    "observedAt": "2026-11-23T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-23T15:51:31.474+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "寻访椰城红色印记：琼崖星火照亮自贸港新程",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736474.shtml",
+        "publishedAt": "2026-11-23T15:37:28.000+08:00"
+      },
       {
         "title": "荷兰外交大臣贝伦德森将访华 中方介绍此访期待",
         "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736467.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本出版",
         "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736453.shtml",
         "publishedAt": "2026-11-23T15:29:48.000+08:00"
-      },
-      {
-        "title": "云深处有大咖，瑞幸“中国咖啡云南季”溯源一杯云南好风味",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736451.shtml",
-        "publishedAt": "2026-11-23T15:28:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T15:41:12.814+08:00",
+    "fetchedAt": "2026-11-23T15:51:28.814+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T15:41:13.462+08:00",
+      "fetchedAt": "2026-11-23T15:51:29.573+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T20:41:14.000+08:00"
+          "resetAt": "2026-11-23T20:51:30.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T15:41:13.464+08:00",
+      "fetchedAt": "2026-11-23T15:51:29.577+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T15:41:13.468+08:00",
+      "fetchedAt": "2026-11-23T15:51:29.587+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T15:41:13.469+08:00",
+      "fetchedAt": "2026-11-23T15:51:29.587+08:00",
       "error": "未启用",
       "disabled": true
     }
