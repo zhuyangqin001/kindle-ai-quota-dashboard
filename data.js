@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T11:26:34.930+08:00",
+  "updatedAt": "2026-11-23T11:36:48.982+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 14.3,
-    "feelsLikeC": 14,
+    "feelsLikeC": 14.1,
     "humidity": 85,
-    "windKph": 5.1,
+    "windKph": 4.5,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T11:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T11:26:34.930+08:00",
+    "observedAt": "2026-11-23T11:30:00.000+08:00",
+    "fetchedAt": "2026-11-23T11:36:48.982+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国海军多型舰机将亮相第十六届中国航展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736351.shtml",
+        "publishedAt": "2026-11-23T11:28:37.000+08:00"
+      },
       {
         "title": "加快“补课”，谁是中部大省“第二枢纽”？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736345.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "吉林省工商联全力推动民营企业治理现代化",
         "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736335.shtml",
         "publishedAt": "2026-11-23T11:01:08.000+08:00"
-      },
-      {
-        "title": "小手套做成大产业 滑雪装备如何释放冰雪经济乘数效应",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736340.shtml",
-        "publishedAt": "2026-11-23T10:59:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T11:26:32.662+08:00",
+    "fetchedAt": "2026-11-23T11:36:46.745+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T11:26:33.373+08:00",
+      "fetchedAt": "2026-11-23T11:36:47.408+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T16:26:34.000+08:00"
+          "resetAt": "2026-11-23T16:36:48.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T11:26:33.376+08:00",
+      "fetchedAt": "2026-11-23T11:36:47.412+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T11:26:33.386+08:00",
+      "fetchedAt": "2026-11-23T11:36:47.421+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T11:26:33.386+08:00",
+      "fetchedAt": "2026-11-23T11:36:47.422+08:00",
       "error": "未启用",
       "disabled": true
     }
