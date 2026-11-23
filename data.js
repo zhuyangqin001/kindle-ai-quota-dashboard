@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T15:00:25.518+08:00",
+  "updatedAt": "2026-11-23T15:10:38.555+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
     "tempC": 14.1,
-    "feelsLikeC": 14.3,
+    "feelsLikeC": 14.4,
     "humidity": 94,
-    "windKph": 5.1,
+    "windKph": 4.3,
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-23T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T15:00:25.518+08:00",
+    "fetchedAt": "2026-11-23T15:10:38.556+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "宇树科技，涨停",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736429.shtml",
-        "publishedAt": "2026-11-23T14:54:22.000+08:00"
+        "title": "2026中国业余高尔夫球队际公开赛年度总决赛落幕",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736428.shtml",
+        "publishedAt": "2026-11-23T15:03:11.000+08:00"
       },
       {
-        "title": "以色列组阁谈判未取得突破 总理人选仍存分歧",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736389.shtml",
-        "publishedAt": "2026-11-23T14:54:12.000+08:00"
+        "title": "多地召开省级侨务工作会议 为侨服务向“新”行",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736431.shtml",
+        "publishedAt": "2026-11-23T15:01:25.000+08:00"
       },
       {
-        "title": "斯诺克英锦赛资格赛：中国军团次日8胜5负 傅家俊首战出局",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736424.shtml",
-        "publishedAt": "2026-11-23T14:50:42.000+08:00"
+        "title": "近期货车肇事导致的交通事故多发 公安部交管局发布提示",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736426.shtml",
+        "publishedAt": "2026-11-23T14:59:30.000+08:00"
       },
       {
-        "title": "2026年“王船之旅”文化传承交流活动在厦门举行",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736423.shtml",
-        "publishedAt": "2026-11-23T14:48:20.000+08:00"
+        "title": "大连市沙河口区委召开民营经济代表人士座谈会",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736427.shtml",
+        "publishedAt": "2026-11-23T14:59:00.000+08:00"
       },
       {
-        "title": "专家号加价至900元，优先入院开价1.2万元 陪诊师灰色业务链调查",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736425.shtml",
-        "publishedAt": "2026-11-23T14:47:08.000+08:00"
+        "title": "借力体育赛事 广东廉江开展民族团结进步主题宣传活动",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736432.shtml",
+        "publishedAt": "2026-11-23T14:58:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T15:00:23.393+08:00",
+    "fetchedAt": "2026-11-23T15:10:36.105+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T15:00:24.065+08:00",
+      "fetchedAt": "2026-11-23T15:10:36.869+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T20:00:25.000+08:00"
+          "resetAt": "2026-11-23T20:10:38.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T15:00:24.067+08:00",
+      "fetchedAt": "2026-11-23T15:10:36.872+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T15:00:24.072+08:00",
+      "fetchedAt": "2026-11-23T15:10:36.882+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T15:00:24.072+08:00",
+      "fetchedAt": "2026-11-23T15:10:36.882+08:00",
       "error": "未启用",
       "disabled": true
     }
