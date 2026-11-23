@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T19:55:54.531+08:00",
+  "updatedAt": "2026-11-23T20:06:15.027+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 13.6,
     "feelsLikeC": 13.6,
     "humidity": 98,
-    "windKph": 7.1,
-    "windDir": "北风",
+    "windKph": 7.5,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-23T19:55:54.531+08:00",
+    "observedAt": "2026-11-23T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-23T20:06:15.027+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026中国—东盟周举行高端对话会 聚焦AI合作新空间",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-23/10736603.shtml",
-        "publishedAt": "2026-11-23T19:46:30.000+08:00"
+        "title": "《婴幼儿辅助食品生产许可审查细则（2026版）》发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736623.shtml",
+        "publishedAt": "2026-11-23T20:03:13.000+08:00"
       },
       {
-        "title": "赖清德、沈伯洋披日本服饰站台“造势”遭岛内舆论痛批",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736599.shtml",
-        "publishedAt": "2026-11-23T19:45:50.000+08:00"
+        "title": "专家：“一老一小”服务重在供需适配",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736615.shtml",
+        "publishedAt": "2026-11-23T20:01:47.000+08:00"
       },
       {
-        "title": "文化观察：什么是中国具象表现绘画？",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736602.shtml",
-        "publishedAt": "2026-11-23T19:36:03.000+08:00"
+        "title": "滇黔川渝四院团同台 梨园新秀昆明“打擂”",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736614.shtml",
+        "publishedAt": "2026-11-23T20:00:11.000+08:00"
       },
       {
-        "title": "北京丰台集中发布9处优质公园资源 邀各类市场主体激发绿色发展活力",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736600.shtml",
-        "publishedAt": "2026-11-23T19:30:39.000+08:00"
+        "title": "2026/2027赛季全国花样滑冰青年锦标赛在山东青岛举行",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736607.shtml",
+        "publishedAt": "2026-11-23T19:58:28.000+08:00"
       },
       {
-        "title": "中国官方：至2030年培训非遗传承人不少于1万人次",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736597.shtml",
-        "publishedAt": "2026-11-23T19:29:39.000+08:00"
+        "title": "民生调查局 | 起底MCN“洗号”：买号、换头、接广，粉丝信任成变现“耗材”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736611.shtml",
+        "publishedAt": "2026-11-23T19:49:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T19:55:49.828+08:00",
+    "fetchedAt": "2026-11-23T20:06:08.580+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T19:55:50.585+08:00",
+      "fetchedAt": "2026-11-23T20:06:09.294+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 7,
-          "resetAt": "2026-11-28T20:15:45.000+08:00"
+          "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T19:55:50.588+08:00",
+      "fetchedAt": "2026-11-23T20:06:09.296+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T19:55:50.598+08:00",
+      "fetchedAt": "2026-11-23T20:06:09.303+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T19:55:50.598+08:00",
+      "fetchedAt": "2026-11-23T20:06:09.303+08:00",
       "error": "未启用",
       "disabled": true
     }
