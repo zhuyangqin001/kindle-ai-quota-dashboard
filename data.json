@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-23T19:05:15.491+08:00",
+  "updatedAt": "2026-11-23T19:55:54.531+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 13.6,
-    "feelsLikeC": 13.8,
-    "humidity": 97,
-    "windKph": 6,
+    "feelsLikeC": 13.6,
+    "humidity": 98,
+    "windKph": 7.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T19:05:15.491+08:00",
+    "observedAt": "2026-11-23T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-23T19:55:54.531+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“京津冀最美湿地”衡水湖迎候鸟迁徙高峰 “鸟浪”翻涌成冬日画卷",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736581.shtml",
-        "publishedAt": "2026-11-23T18:48:23.000+08:00"
+        "title": "2026中国—东盟周举行高端对话会 聚焦AI合作新空间",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-23/10736603.shtml",
+        "publishedAt": "2026-11-23T19:46:30.000+08:00"
       },
       {
-        "title": "大风蓝色预警：内蒙古山西等9省区局部地区阵风可达10级",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736591.shtml",
-        "publishedAt": "2026-11-23T18:46:43.000+08:00"
+        "title": "赖清德、沈伯洋披日本服饰站台“造势”遭岛内舆论痛批",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736599.shtml",
+        "publishedAt": "2026-11-23T19:45:50.000+08:00"
       },
       {
-        "title": "上海地铁新票价方案落地 12月1日起执行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736582.shtml",
-        "publishedAt": "2026-11-23T18:45:57.000+08:00"
+        "title": "文化观察：什么是中国具象表现绘画？",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736602.shtml",
+        "publishedAt": "2026-11-23T19:36:03.000+08:00"
       },
       {
-        "title": "河北衡水湖迎候鸟迁徙高峰 3万余只候鸟云集",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736584.shtml",
-        "publishedAt": "2026-11-23T18:43:50.000+08:00"
+        "title": "北京丰台集中发布9处优质公园资源 邀各类市场主体激发绿色发展活力",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736600.shtml",
+        "publishedAt": "2026-11-23T19:30:39.000+08:00"
       },
       {
-        "title": "松花江干流哈尔滨段等6处江段封冻 黑龙江多条江河进入封冻期",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736588.shtml",
-        "publishedAt": "2026-11-23T18:43:40.000+08:00"
+        "title": "中国官方：至2030年培训非遗传承人不少于1万人次",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736597.shtml",
+        "publishedAt": "2026-11-23T19:29:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T19:05:11.378+08:00",
+    "fetchedAt": "2026-11-23T19:55:49.828+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T19:05:12.120+08:00",
+      "fetchedAt": "2026-11-23T19:55:50.585+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-24T00:05:15.000+08:00"
+          "usedPct": 5,
+          "resetAt": "2026-11-24T00:08:59.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 6,
+          "usedPct": 7,
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T19:05:12.140+08:00",
+      "fetchedAt": "2026-11-23T19:55:50.588+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T19:05:12.146+08:00",
+      "fetchedAt": "2026-11-23T19:55:50.598+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T19:05:12.146+08:00",
+      "fetchedAt": "2026-11-23T19:55:50.598+08:00",
       "error": "未启用",
       "disabled": true
     }
