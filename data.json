@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T16:32:21.953+08:00",
+  "updatedAt": "2026-11-23T16:42:34.222+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-23T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T16:32:21.953+08:00",
+    "fetchedAt": "2026-11-23T16:42:34.223+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中方谈COP31未能就政治决定达成共识：失望但不应丧失信心",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736491.shtml",
-        "publishedAt": "2026-11-23T16:29:47.000+08:00"
+        "title": "特朗普回应美股大跌：100%是因为民主党",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736492.shtml",
+        "publishedAt": "2026-11-23T16:39:50.000+08:00"
       },
       {
-        "title": "12道古法工序 河北唐山“95后”以中医古方赓续北方香脉",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736516.shtml",
-        "publishedAt": "2026-11-23T16:28:55.000+08:00"
+        "title": "深圳出品首部AIGC网络故事片《奇妙连接》上线",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736480.shtml",
+        "publishedAt": "2026-11-23T16:39:08.000+08:00"
       },
       {
-        "title": "山海同席共享家宴 青闽携手“链”动好物",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736469.shtml",
-        "publishedAt": "2026-11-23T16:27:15.000+08:00"
+        "title": "江西南昌举办纪念孙中山先生诞辰160周年国际书画展",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736475.shtml",
+        "publishedAt": "2026-11-23T16:38:04.000+08:00"
       },
       {
-        "title": "“援”定天山：戈壁滩养出青蟹 浙江助新疆餐桌更鲜",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736468.shtml",
-        "publishedAt": "2026-11-23T16:26:27.000+08:00"
+        "title": "（经济观察）中国官方打出政策组合拳 资本市场内在稳定性有望提升",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736522.shtml",
+        "publishedAt": "2026-11-23T16:36:10.000+08:00"
       },
       {
-        "title": "丁薛祥会见新加坡副总理颜金勇并共同主持中新双边合作机制会议",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736517.shtml",
-        "publishedAt": "2026-11-23T16:25:23.000+08:00"
+        "title": "青海首次开展小时级绿电交易",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736473.shtml",
+        "publishedAt": "2026-11-23T16:35:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T16:32:17.922+08:00",
+    "fetchedAt": "2026-11-23T16:42:31.857+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T16:32:18.616+08:00",
+      "fetchedAt": "2026-11-23T16:42:32.614+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T21:32:21.000+08:00"
+          "resetAt": "2026-11-23T21:42:33.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T16:32:18.618+08:00",
+      "fetchedAt": "2026-11-23T16:42:32.617+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T16:32:18.629+08:00",
+      "fetchedAt": "2026-11-23T16:42:32.627+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T16:32:18.629+08:00",
+      "fetchedAt": "2026-11-23T16:42:32.627+08:00",
       "error": "未启用",
       "disabled": true
     }
