@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T11:57:09.631+08:00",
+  "updatedAt": "2026-11-23T12:07:20.188+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 14.2,
     "feelsLikeC": 14.2,
-    "humidity": 86,
-    "windKph": 4.2,
+    "humidity": 87,
+    "windKph": 3.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-23T11:57:09.631+08:00",
+    "observedAt": "2026-11-23T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-23T12:07:20.188+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "地球系统智能科研平台“ZHU·GE”推出",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736360.shtml",
+        "publishedAt": "2026-11-23T11:57:35.000+08:00"
+      },
+      {
+        "title": "丁薛祥会见新加坡总理黄循财",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736278.shtml",
+        "publishedAt": "2026-11-23T11:55:20.000+08:00"
+      },
+      {
+        "title": "多所高校推出“一分钱早餐” 这样的激励方式收效如何？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736359.shtml",
+        "publishedAt": "2026-11-23T11:52:44.000+08:00"
+      },
+      {
+        "title": "江西赣南红土记：金融活水润出产业新芽",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736355.shtml",
+        "publishedAt": "2026-11-23T11:52:18.000+08:00"
+      },
+      {
         "title": "以赛为媒，钱江源头跑出文体旅融合新动能",
         "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736343.shtml",
         "publishedAt": "2026-11-23T11:51:32.000+08:00"
-      },
-      {
-        "title": "金正恩接受十国新任大使递交国书",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736358.shtml",
-        "publishedAt": "2026-11-23T11:50:24.000+08:00"
-      },
-      {
-        "title": "强生携手社会各界挑战吉尼斯世界纪录 与血液肿瘤患者“一起向治愈”",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-23/10736353.shtml",
-        "publishedAt": "2026-11-23T11:50:04.000+08:00"
-      },
-      {
-        "title": "中方回应“COP31未能就政治决定达成共识”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736350.shtml",
-        "publishedAt": "2026-11-23T11:48:40.000+08:00"
-      },
-      {
-        "title": "2026（第二届）“人工智能+”产业生态大会将于12月1日至3日在北京举办",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736348.shtml",
-        "publishedAt": "2026-11-23T11:46:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T11:57:07.467+08:00",
+    "fetchedAt": "2026-11-23T12:07:17.760+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T11:57:08.206+08:00",
+      "fetchedAt": "2026-11-23T12:07:18.493+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T16:57:09.000+08:00"
+          "resetAt": "2026-11-23T17:07:19.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 6,
-          "resetAt": "2026-11-28T20:15:45.000+08:00"
+          "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T11:57:08.210+08:00",
+      "fetchedAt": "2026-11-23T12:07:18.496+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T11:57:08.220+08:00",
+      "fetchedAt": "2026-11-23T12:07:18.506+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T11:57:08.220+08:00",
+      "fetchedAt": "2026-11-23T12:07:18.506+08:00",
       "error": "未启用",
       "disabled": true
     }
