@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T15:51:31.474+08:00",
+  "updatedAt": "2026-11-23T16:01:43.630+08:00",
   "weather": {
     "ok": true,
     "description": "阵雨",
     "iconKey": "rain",
     "tempC": 14,
-    "feelsLikeC": 14.3,
+    "feelsLikeC": 14.2,
     "humidity": 96,
-    "windKph": 5.6,
+    "windKph": 5.9,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-23T15:51:31.474+08:00",
+    "observedAt": "2026-11-23T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-23T16:01:43.630+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "寻访椰城红色印记：琼崖星火照亮自贸港新程",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736474.shtml",
-        "publishedAt": "2026-11-23T15:37:28.000+08:00"
+        "title": "全球媒体聚焦｜美学者：中国“电气化技术革命”撬动全球减排拐点",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-23/10736484.shtml",
+        "publishedAt": "2026-11-23T15:52:09.000+08:00"
       },
       {
-        "title": "荷兰外交大臣贝伦德森将访华 中方介绍此访期待",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736467.shtml",
-        "publishedAt": "2026-11-23T15:37:00.000+08:00"
+        "title": "来深圳，看五十年的中国",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736481.shtml",
+        "publishedAt": "2026-11-23T15:49:53.000+08:00"
       },
       {
-        "title": "中俄美元首会晤是否讨论乌克兰危机？ 外交部回应",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736465.shtml",
-        "publishedAt": "2026-11-23T15:34:54.000+08:00"
+        "title": "中方：一贯主张国际刑事法院应该秉持客观公正立场",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736479.shtml",
+        "publishedAt": "2026-11-23T15:47:15.000+08:00"
       },
       {
-        "title": "外交部：中方始终认为对话谈判是解决乌克兰危机唯一可行出路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736457.shtml",
-        "publishedAt": "2026-11-23T15:30:02.000+08:00"
+        "title": "海南澄迈：足不出岛闯全球 自贸港政策激活游戏产业新活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736478.shtml",
+        "publishedAt": "2026-11-23T15:45:43.000+08:00"
       },
       {
-        "title": "习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本出版",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736453.shtml",
-        "publishedAt": "2026-11-23T15:29:48.000+08:00"
+        "title": "社会保险基金监督条例公开征求意见",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736477.shtml",
+        "publishedAt": "2026-11-23T15:45:07.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T15:51:28.814+08:00",
+    "fetchedAt": "2026-11-23T16:01:41.413+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T15:51:29.573+08:00",
+      "fetchedAt": "2026-11-23T16:01:42.079+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T20:51:30.000+08:00"
+          "resetAt": "2026-11-23T21:01:43.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T15:51:29.577+08:00",
+      "fetchedAt": "2026-11-23T16:01:42.082+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T15:51:29.587+08:00",
+      "fetchedAt": "2026-11-23T16:01:42.092+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T15:51:29.587+08:00",
+      "fetchedAt": "2026-11-23T16:01:42.093+08:00",
       "error": "未启用",
       "disabled": true
     }
