@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T10:25:38.650+08:00",
+  "updatedAt": "2026-11-23T10:35:51.866+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.2,
-    "feelsLikeC": 12.8,
-    "humidity": 92,
-    "windKph": 6.2,
+    "tempC": 13.6,
+    "feelsLikeC": 13.2,
+    "humidity": 89,
+    "windKph": 6,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T10:25:38.650+08:00",
+    "observedAt": "2026-11-23T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-23T10:35:51.866+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "内蒙古“法治乌兰牧骑”，让草原深处开出法治之花",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736307.shtml",
+        "publishedAt": "2026-11-23T10:30:16.000+08:00"
+      },
+      {
+        "title": "“雪假”撬动冰雪经济 点燃冬季消费引擎",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736324.shtml",
+        "publishedAt": "2026-11-23T10:30:04.000+08:00"
+      },
+      {
+        "title": "从深圳出发，他们去了哪里",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736323.shtml",
+        "publishedAt": "2026-11-23T10:27:04.000+08:00"
+      },
+      {
+        "title": "加强能源保供 全力保障群众温暖过冬",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736319.shtml",
+        "publishedAt": "2026-11-23T10:23:41.000+08:00"
+      },
+      {
         "title": "8000亿元“金融活水”投向了哪些项目",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736317.shtml",
         "publishedAt": "2026-11-23T10:21:09.000+08:00"
-      },
-      {
-        "title": "“骑”遇大藤峡 千余名选手广西桂平开启骑行之旅",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736299.shtml",
-        "publishedAt": "2026-11-23T10:20:19.000+08:00"
-      },
-      {
-        "title": "最高人民法院、中国侨联联合发布侨益司法保护典型案例",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736304.shtml",
-        "publishedAt": "2026-11-23T10:17:41.000+08:00"
-      },
-      {
-        "title": "稳市场！三项新政来了",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736308.shtml",
-        "publishedAt": "2026-11-23T10:15:39.000+08:00"
-      },
-      {
-        "title": "21世纪金融年会启幕 爱康集团发布《2026 版银行及保险高净值客户健康绿皮书》",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736276.shtml",
-        "publishedAt": "2026-11-23T10:11:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T10:25:36.224+08:00",
+    "fetchedAt": "2026-11-23T10:35:49.410+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T10:25:36.989+08:00",
+      "fetchedAt": "2026-11-23T10:35:50.173+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T15:25:38.000+08:00"
+          "resetAt": "2026-11-23T15:35:51.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T10:25:36.993+08:00",
+      "fetchedAt": "2026-11-23T10:35:50.176+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T10:25:37.001+08:00",
+      "fetchedAt": "2026-11-23T10:35:50.186+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T10:25:37.001+08:00",
+      "fetchedAt": "2026-11-23T10:35:50.186+08:00",
       "error": "未启用",
       "disabled": true
     }
