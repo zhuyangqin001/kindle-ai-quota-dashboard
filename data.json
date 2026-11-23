@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T09:04:13.053+08:00",
+  "updatedAt": "2026-11-23T09:14:25.298+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-23T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T09:04:13.054+08:00",
+    "fetchedAt": "2026-11-23T09:14:25.298+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中央政府驻港联络办发言人：优中选优展现新气象，选贤任能开创新局面",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736249.shtml",
+        "publishedAt": "2026-11-23T09:10:00.000+08:00"
+      },
+      {
+        "title": "冷空气东移南下 大风降温影响中东部地区",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736248.shtml",
+        "publishedAt": "2026-11-23T09:06:49.000+08:00"
+      },
       {
         "title": "南方降水短暂发展增强气温下降 北方大部天气晴朗气温偏高",
         "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736247.shtml",
@@ -33,19 +43,9 @@
         "title": "两个箭头火了，网友在点赞什么",
         "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736245.shtml",
         "publishedAt": "2026-11-23T08:35:50.000+08:00"
-      },
-      {
-        "title": "把机器人“教”进真实世界",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736244.shtml",
-        "publishedAt": "2026-11-23T08:30:37.000+08:00"
-      },
-      {
-        "title": "AI时代，探索的快乐不变",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736242.shtml",
-        "publishedAt": "2026-11-23T08:25:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T09:04:10.693+08:00",
+    "fetchedAt": "2026-11-23T09:14:23.000+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T09:04:11.457+08:00",
+      "fetchedAt": "2026-11-23T09:14:23.744+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T14:04:12.000+08:00"
+          "resetAt": "2026-11-23T14:14:25.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T09:04:11.460+08:00",
+      "fetchedAt": "2026-11-23T09:14:23.747+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T09:04:11.470+08:00",
+      "fetchedAt": "2026-11-23T09:14:23.756+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T09:04:11.471+08:00",
+      "fetchedAt": "2026-11-23T09:14:23.756+08:00",
       "error": "未启用",
       "disabled": true
     }
