@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T16:52:53.025+08:00",
+  "updatedAt": "2026-11-23T17:23:18.688+08:00",
   "weather": {
     "ok": true,
-    "description": "阵雨",
+    "description": "雨",
     "iconKey": "rain",
-    "tempC": 14,
+    "tempC": 13.9,
     "feelsLikeC": 14.2,
     "humidity": 96,
-    "windKph": 5.5,
+    "windKph": 4.8,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-23T16:52:53.025+08:00",
+    "observedAt": "2026-11-23T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-23T17:23:18.688+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "山东省自然资源厅原一级巡视员李树民被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736512.shtml",
-        "publishedAt": "2026-11-23T16:45:04.000+08:00"
+        "title": "北京计划到2030年城市更新年度投资达3000亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736523.shtml",
+        "publishedAt": "2026-11-23T17:10:33.000+08:00"
       },
       {
-        "title": "黑龙江省大兴安岭地区原副厅级干部郭晓锋被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736510.shtml",
-        "publishedAt": "2026-11-23T16:44:12.000+08:00"
+        "title": "“齐齐哈尔滨·冰雪双城记”文旅推介会在哈尔滨举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736521.shtml",
+        "publishedAt": "2026-11-23T17:09:07.000+08:00"
       },
       {
-        "title": "《教材管理条例（征求意见稿）》面向社会公开征求意见",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-23/10736490.shtml",
-        "publishedAt": "2026-11-23T16:42:54.000+08:00"
+        "title": "广西贵港打造“运动之城” 体旅产融合激活山水动能",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736520.shtml",
+        "publishedAt": "2026-11-23T17:08:01.000+08:00"
       },
       {
-        "title": "湖南江永富硒娃娃菜丰收 瑶乡鲜菜直供香港市场",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736498.shtml",
-        "publishedAt": "2026-11-23T16:42:40.000+08:00"
+        "title": "海南省公安厅原党委委员、副厅长董长青被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736531.shtml",
+        "publishedAt": "2026-11-23T17:07:57.000+08:00"
       },
       {
-        "title": "辽宁冰雪季文旅推介走进长沙 发布十大冰雪精品线路",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736494.shtml",
-        "publishedAt": "2026-11-23T16:40:50.000+08:00"
+        "title": "印度贾坎德邦拟建煤矿项目遭居民抗议 12名警察受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736532.shtml",
+        "publishedAt": "2026-11-23T17:07:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T16:52:50.458+08:00",
+    "fetchedAt": "2026-11-23T17:23:16.235+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T16:52:51.245+08:00",
+      "fetchedAt": "2026-11-23T17:23:16.991+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T21:52:52.000+08:00"
+          "resetAt": "2026-11-23T22:23:18.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T16:52:51.249+08:00",
+      "fetchedAt": "2026-11-23T17:23:16.994+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T16:52:51.259+08:00",
+      "fetchedAt": "2026-11-23T17:23:17.004+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T16:52:51.259+08:00",
+      "fetchedAt": "2026-11-23T17:23:17.005+08:00",
       "error": "未启用",
       "disabled": true
     }
