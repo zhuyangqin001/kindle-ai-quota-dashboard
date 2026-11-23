@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T20:06:15.027+08:00",
+  "updatedAt": "2026-11-23T20:16:33.875+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
     "tempC": 13.6,
-    "feelsLikeC": 13.6,
+    "feelsLikeC": 13.5,
     "humidity": 98,
-    "windKph": 7.5,
-    "windDir": "西北风",
+    "windKph": 7.7,
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T20:06:15.027+08:00",
+    "observedAt": "2026-11-23T20:15:00.000+08:00",
+    "fetchedAt": "2026-11-23T20:16:33.875+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "《婴幼儿辅助食品生产许可审查细则（2026版）》发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736623.shtml",
-        "publishedAt": "2026-11-23T20:03:13.000+08:00"
+        "title": "今年前三季度市场监管总局完成经营者集中反垄断审查440件",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736630.shtml",
+        "publishedAt": "2026-11-23T20:07:37.000+08:00"
       },
       {
-        "title": "专家：“一老一小”服务重在供需适配",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736615.shtml",
-        "publishedAt": "2026-11-23T20:01:47.000+08:00"
+        "title": "宁夏出台“十五五”教育发展规划 力争2030年普高录取率达86%",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736619.shtml",
+        "publishedAt": "2026-11-23T20:05:59.000+08:00"
       },
       {
-        "title": "滇黔川渝四院团同台 梨园新秀昆明“打擂”",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736614.shtml",
-        "publishedAt": "2026-11-23T20:00:11.000+08:00"
+        "title": "共探AI与人文融合路径 2026数字文化产业学术年会在沪举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736617.shtml",
+        "publishedAt": "2026-11-23T20:05:57.000+08:00"
       },
       {
-        "title": "2026/2027赛季全国花样滑冰青年锦标赛在山东青岛举行",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736607.shtml",
-        "publishedAt": "2026-11-23T19:58:28.000+08:00"
+        "title": "新技术加速技能结构分化 专家建言职业教育教材建设创新",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736616.shtml",
+        "publishedAt": "2026-11-23T20:05:29.000+08:00"
       },
       {
-        "title": "民生调查局 | 起底MCN“洗号”：买号、换头、接广，粉丝信任成变现“耗材”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736611.shtml",
-        "publishedAt": "2026-11-23T19:49:00.000+08:00"
+        "title": "宁夏实施三项行动推进健康学校建设 全方位守护学生身心健康",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736618.shtml",
+        "publishedAt": "2026-11-23T20:04:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T20:06:08.580+08:00",
+    "fetchedAt": "2026-11-23T20:16:29.222+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T20:06:09.294+08:00",
+      "fetchedAt": "2026-11-23T20:16:29.985+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 7,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T20:06:09.296+08:00",
+      "fetchedAt": "2026-11-23T20:16:29.988+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T20:06:09.303+08:00",
+      "fetchedAt": "2026-11-23T20:16:29.998+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T20:06:09.303+08:00",
+      "fetchedAt": "2026-11-23T20:16:29.998+08:00",
       "error": "未启用",
       "disabled": true
     }
