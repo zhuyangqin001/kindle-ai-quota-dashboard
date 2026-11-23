@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-23T20:37:00.261+08:00",
+  "updatedAt": "2026-11-23T20:47:14.054+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 13.3,
-    "feelsLikeC": 13,
+    "tempC": 13.2,
+    "feelsLikeC": 12.9,
     "humidity": 97,
-    "windKph": 8.3,
+    "windKph": 8.5,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T20:37:00.261+08:00",
+    "observedAt": "2026-11-23T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-23T20:47:14.054+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第十七次中欧财金对话在北京举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736629.shtml",
-        "publishedAt": "2026-11-23T20:28:14.000+08:00"
+        "title": "中国浙籍侨胞扎根海外的薯条侨团",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736647.shtml",
+        "publishedAt": "2026-11-23T20:37:57.000+08:00"
       },
       {
-        "title": "《自然中国·青海篇》揭秘“中华水塔”之上万物何以生生不息",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736635.shtml",
-        "publishedAt": "2026-11-23T20:26:36.000+08:00"
+        "title": "重庆高新区深耕新能源汽摩产业 力争到2030年规模达600亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736645.shtml",
+        "publishedAt": "2026-11-23T20:37:15.000+08:00"
       },
       {
-        "title": "宁夏出台就业优先战略“十五五”规划 聚力推进高质量充分就业",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736633.shtml",
-        "publishedAt": "2026-11-23T20:24:38.000+08:00"
+        "title": "百亿级科创企业汇聚香港 探讨具身智能产业全球化路径",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736644.shtml",
+        "publishedAt": "2026-11-23T20:37:11.000+08:00"
       },
       {
-        "title": "李家超会见世界技能大赛中国香港代表团：为国家长远发展提供人才支撑",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736634.shtml",
-        "publishedAt": "2026-11-23T20:23:32.000+08:00"
+        "title": "“00后”堆绣传承人德吉：让一门老手艺成为更多人的新出路",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736649.shtml",
+        "publishedAt": "2026-11-23T20:37:05.000+08:00"
       },
       {
-        "title": "“生命的旋律——韩美林艺术展”在国家大剧院启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736632.shtml",
-        "publishedAt": "2026-11-23T20:22:30.000+08:00"
+        "title": "福建法院织密涉侨司法保护网",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736646.shtml",
+        "publishedAt": "2026-11-23T20:35:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T20:36:57.868+08:00",
+    "fetchedAt": "2026-11-23T20:47:11.648+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T20:36:58.562+08:00",
+      "fetchedAt": "2026-11-23T20:47:12.097+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@
         {
           "name": "周",
           "usedPct": 7,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T20:36:58.564+08:00",
+      "fetchedAt": "2026-11-23T20:47:12.098+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T20:36:58.570+08:00",
+      "fetchedAt": "2026-11-23T20:47:12.103+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T20:36:58.570+08:00",
+      "fetchedAt": "2026-11-23T20:47:12.103+08:00",
       "error": "未启用",
       "disabled": true
     }
