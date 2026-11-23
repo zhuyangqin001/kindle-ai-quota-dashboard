@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-23T20:16:33.875+08:00",
+  "updatedAt": "2026-11-23T20:26:47.479+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 13.6,
-    "feelsLikeC": 13.5,
+    "tempC": 13.4,
+    "feelsLikeC": 13.2,
     "humidity": 98,
-    "windKph": 7.7,
+    "windKph": 7.3,
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-23T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T20:16:33.875+08:00",
+    "fetchedAt": "2026-11-23T20:26:47.479+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "今年前三季度市场监管总局完成经营者集中反垄断审查440件",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736630.shtml",
-        "publishedAt": "2026-11-23T20:07:37.000+08:00"
+        "title": "李家超会见世界技能大赛中国香港代表团：为国家长远发展提供人才支撑",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736634.shtml",
+        "publishedAt": "2026-11-23T20:23:32.000+08:00"
       },
       {
-        "title": "宁夏出台“十五五”教育发展规划 力争2030年普高录取率达86%",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736619.shtml",
-        "publishedAt": "2026-11-23T20:05:59.000+08:00"
+        "title": "“生命的旋律——韩美林艺术展”在国家大剧院启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736632.shtml",
+        "publishedAt": "2026-11-23T20:22:30.000+08:00"
       },
       {
-        "title": "共探AI与人文融合路径 2026数字文化产业学术年会在沪举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736617.shtml",
-        "publishedAt": "2026-11-23T20:05:57.000+08:00"
+        "title": "在延边山水间遇见纯粹少年温情 朝鲜族题材影片《金哲》上映",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736605.shtml",
+        "publishedAt": "2026-11-23T20:21:48.000+08:00"
       },
       {
-        "title": "新技术加速技能结构分化 专家建言职业教育教材建设创新",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736616.shtml",
-        "publishedAt": "2026-11-23T20:05:29.000+08:00"
+        "title": "从喜马拉雅山脚到南海之滨：尼泊尔青年在海南看见“机会与友谊”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736627.shtml",
+        "publishedAt": "2026-11-23T20:21:44.000+08:00"
       },
       {
-        "title": "宁夏实施三项行动推进健康学校建设 全方位守护学生身心健康",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736618.shtml",
-        "publishedAt": "2026-11-23T20:04:43.000+08:00"
+        "title": "广东湛江今年前十月供港澳活猪同比增逾六倍",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736628.shtml",
+        "publishedAt": "2026-11-23T20:21:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T20:16:29.222+08:00",
+    "fetchedAt": "2026-11-23T20:26:44.551+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T20:16:29.985+08:00",
+      "fetchedAt": "2026-11-23T20:26:45.309+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@
         {
           "name": "周",
           "usedPct": 7,
-          "resetAt": "2026-11-28T20:15:45.000+08:00"
+          "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T20:16:29.988+08:00",
+      "fetchedAt": "2026-11-23T20:26:45.312+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T20:16:29.998+08:00",
+      "fetchedAt": "2026-11-23T20:26:45.322+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T20:16:29.998+08:00",
+      "fetchedAt": "2026-11-23T20:26:45.322+08:00",
       "error": "未启用",
       "disabled": true
     }
