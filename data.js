@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T11:36:48.982+08:00",
+  "updatedAt": "2026-11-23T11:46:59.142+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 14.3,
-    "feelsLikeC": 14.1,
-    "humidity": 85,
-    "windKph": 4.5,
+    "tempC": 14.2,
+    "feelsLikeC": 14.2,
+    "humidity": 86,
+    "windKph": 4.2,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T11:36:48.982+08:00",
+    "observedAt": "2026-11-23T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-23T11:46:59.142+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国海军多型舰机将亮相第十六届中国航展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736351.shtml",
-        "publishedAt": "2026-11-23T11:28:37.000+08:00"
+        "title": "新疆多地陆续公布2026年雪（秋）假时间",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736356.shtml",
+        "publishedAt": "2026-11-23T11:41:52.000+08:00"
       },
       {
-        "title": "加快“补课”，谁是中部大省“第二枢纽”？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736345.shtml",
-        "publishedAt": "2026-11-23T11:18:20.000+08:00"
+        "title": "中国代表团出席联合国气候变化安塔利亚大会",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736349.shtml",
+        "publishedAt": "2026-11-23T11:37:17.000+08:00"
       },
       {
-        "title": "断航近半个世纪，湖南这条“黄金水道”为何重启？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736344.shtml",
-        "publishedAt": "2026-11-23T11:12:06.000+08:00"
+        "title": "国家卫健委：动物双歧杆菌乳亚种CP-9等22种物质纳入“三新食品”",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-23/10736339.shtml",
+        "publishedAt": "2026-11-23T11:35:31.000+08:00"
       },
       {
-        "title": "解码先进制造：一枚CT部件如何打破国外垄断？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736341.shtml",
-        "publishedAt": "2026-11-23T11:02:10.000+08:00"
+        "title": "2026 HADO世冠杯上海收官 中国队包揽多项赛事冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736352.shtml",
+        "publishedAt": "2026-11-23T11:34:51.000+08:00"
       },
       {
-        "title": "吉林省工商联全力推动民营企业治理现代化",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736335.shtml",
-        "publishedAt": "2026-11-23T11:01:08.000+08:00"
+        "title": "何以中国 | 在西安，连路灯都会背唐诗",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736280.shtml",
+        "publishedAt": "2026-11-23T11:32:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T11:36:46.745+08:00",
+    "fetchedAt": "2026-11-23T11:46:57.229+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T11:36:47.408+08:00",
+      "fetchedAt": "2026-11-23T11:46:58.002+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T16:36:48.000+08:00"
+          "resetAt": "2026-11-23T16:46:58.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T11:36:47.412+08:00",
+      "fetchedAt": "2026-11-23T11:46:58.005+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T11:36:47.421+08:00",
+      "fetchedAt": "2026-11-23T11:46:58.014+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T11:36:47.422+08:00",
+      "fetchedAt": "2026-11-23T11:46:58.014+08:00",
       "error": "未启用",
       "disabled": true
     }
