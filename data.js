@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T13:18:49.650+08:00",
+  "updatedAt": "2026-11-23T13:29:03.582+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-23T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T13:18:49.650+08:00",
+    "fetchedAt": "2026-11-23T13:29:03.582+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“百害而无一利” 日本各界要求政府坚守“无核三原则”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736377.shtml",
+        "publishedAt": "2026-11-23T13:23:05.000+08:00"
+      },
+      {
+        "title": "中新健康｜3.2亿人养老，以后会“精准投喂”",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-23/10736375.shtml",
+        "publishedAt": "2026-11-23T13:20:49.000+08:00"
+      },
+      {
+        "title": "129万元一支的抗癌药进医保，怎么做到的？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736376.shtml",
+        "publishedAt": "2026-11-23T13:15:27.000+08:00"
+      },
       {
         "title": "金价十连跌 抢金潮再现",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736374.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "从“拉人来”到“接消费” 入境游迈向增量期",
         "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736372.shtml",
         "publishedAt": "2026-11-23T13:10:16.000+08:00"
-      },
-      {
-        "title": "“爱达·花城号”正式商业首航 票价到底贵不贵？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736368.shtml",
-        "publishedAt": "2026-11-23T12:39:09.000+08:00"
-      },
-      {
-        "title": "中国最高法、中国侨联发布侨益司法保护典型案例",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736367.shtml",
-        "publishedAt": "2026-11-23T12:38:05.000+08:00"
-      },
-      {
-        "title": "涉百年历史侨房归属、侨企合法权益保护等，最高法、中国侨联联合发布典型案例",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736365.shtml",
-        "publishedAt": "2026-11-23T12:37:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T13:18:47.022+08:00",
+    "fetchedAt": "2026-11-23T13:29:01.291+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T13:18:47.782+08:00",
+      "fetchedAt": "2026-11-23T13:29:01.893+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T18:18:48.000+08:00"
+          "resetAt": "2026-11-23T18:29:03.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T13:18:47.785+08:00",
+      "fetchedAt": "2026-11-23T13:29:01.896+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T13:18:47.796+08:00",
+      "fetchedAt": "2026-11-23T13:29:01.905+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T13:18:47.796+08:00",
+      "fetchedAt": "2026-11-23T13:29:01.906+08:00",
       "error": "未启用",
       "disabled": true
     }
