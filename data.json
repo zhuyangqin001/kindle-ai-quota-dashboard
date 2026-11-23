@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-23T18:24:41.993+08:00",
+  "updatedAt": "2026-11-23T19:05:15.491+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 13.7,
-    "feelsLikeC": 14,
+    "tempC": 13.6,
+    "feelsLikeC": 13.8,
     "humidity": 97,
-    "windKph": 4.6,
+    "windKph": 6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T18:24:41.993+08:00",
+    "observedAt": "2026-11-23T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-23T19:05:15.491+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "奋志越山海 群英起乌蒙——民革中央、中华职教社人才领域组团式帮扶毕节纪实",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736572.shtml",
-        "publishedAt": "2026-11-23T18:09:23.000+08:00"
+        "title": "“京津冀最美湿地”衡水湖迎候鸟迁徙高峰 “鸟浪”翻涌成冬日画卷",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-23/10736581.shtml",
+        "publishedAt": "2026-11-23T18:48:23.000+08:00"
       },
       {
-        "title": "北京市生态环境保护营商竞争力综合指数连续四年蝉联全国第一",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736570.shtml",
-        "publishedAt": "2026-11-23T18:06:50.000+08:00"
+        "title": "大风蓝色预警：内蒙古山西等9省区局部地区阵风可达10级",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736591.shtml",
+        "publishedAt": "2026-11-23T18:46:43.000+08:00"
       },
       {
-        "title": "160幅华侨华人艺术家书画作品亮相江西纪念孙中山",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-23/10736569.shtml",
-        "publishedAt": "2026-11-23T18:05:42.000+08:00"
+        "title": "上海地铁新票价方案落地 12月1日起执行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736582.shtml",
+        "publishedAt": "2026-11-23T18:45:57.000+08:00"
       },
       {
-        "title": "扛牢帮扶责任 同心共育英才——民革中央统筹推动人才领域组团式帮扶毕节工作",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736571.shtml",
-        "publishedAt": "2026-11-23T18:04:54.000+08:00"
+        "title": "河北衡水湖迎候鸟迁徙高峰 3万余只候鸟云集",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736584.shtml",
+        "publishedAt": "2026-11-23T18:43:50.000+08:00"
       },
       {
-        "title": "中国足协发布《红图计划》 统一青少年足球培养理念",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736568.shtml",
-        "publishedAt": "2026-11-23T18:01:46.000+08:00"
+        "title": "松花江干流哈尔滨段等6处江段封冻 黑龙江多条江河进入封冻期",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736588.shtml",
+        "publishedAt": "2026-11-23T18:43:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T18:24:39.399+08:00",
+    "fetchedAt": "2026-11-23T19:05:11.378+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T18:24:40.145+08:00",
+      "fetchedAt": "2026-11-23T19:05:12.120+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T23:24:41.000+08:00"
+          "resetAt": "2026-11-24T00:05:15.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T18:24:40.148+08:00",
+      "fetchedAt": "2026-11-23T19:05:12.140+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T18:24:40.158+08:00",
+      "fetchedAt": "2026-11-23T19:05:12.146+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T18:24:40.158+08:00",
+      "fetchedAt": "2026-11-23T19:05:12.146+08:00",
       "error": "未启用",
       "disabled": true
     }
