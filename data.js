@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T09:14:25.298+08:00",
+  "updatedAt": "2026-11-23T09:24:36.180+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 12.3,
-    "feelsLikeC": 11.6,
+    "tempC": 12.4,
+    "feelsLikeC": 11.8,
     "humidity": 92,
-    "windKph": 6.3,
-    "windDir": "东北风",
+    "windKph": 6.5,
+    "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-23T09:14:25.298+08:00",
+    "observedAt": "2026-11-23T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-23T09:24:36.180+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中央政府驻港联络办发言人：优中选优展现新气象，选贤任能开创新局面",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736249.shtml",
-        "publishedAt": "2026-11-23T09:10:00.000+08:00"
+        "title": "包容性：被低估的城市竞争力",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736255.shtml",
+        "publishedAt": "2026-11-23T09:15:56.000+08:00"
       },
       {
-        "title": "冷空气东移南下 大风降温影响中东部地区",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736248.shtml",
-        "publishedAt": "2026-11-23T09:06:49.000+08:00"
+        "title": "中国农业发展银行董事会办公室原主任张俊强被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736252.shtml",
+        "publishedAt": "2026-11-23T09:15:26.000+08:00"
       },
       {
-        "title": "南方降水短暂发展增强气温下降 北方大部天气晴朗气温偏高",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736247.shtml",
-        "publishedAt": "2026-11-23T09:00:17.000+08:00"
+        "title": "上高县开展无党派人士“双走访”活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736254.shtml",
+        "publishedAt": "2026-11-23T09:14:38.000+08:00"
       },
       {
-        "title": "山西芮城：天鹅翩跹 游弋圣天湖",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-23/1211414.shtml",
-        "publishedAt": "2026-11-23T08:53:25.000+08:00"
+        "title": "新疆维吾尔自治区乌鲁木齐市人大常委会原党组副书记、主任阿不都热依木·阿不力孜被查",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736250.shtml",
+        "publishedAt": "2026-11-23T09:14:34.000+08:00"
       },
       {
-        "title": "两个箭头火了，网友在点赞什么",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736245.shtml",
-        "publishedAt": "2026-11-23T08:35:50.000+08:00"
+        "title": "万载县召开美国加州江西商会交流座谈会",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736251.shtml",
+        "publishedAt": "2026-11-23T09:14:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T09:14:23.000+08:00",
+    "fetchedAt": "2026-11-23T09:24:33.849+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T09:14:23.744+08:00",
+      "fetchedAt": "2026-11-23T09:24:34.585+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T14:14:25.000+08:00"
+          "resetAt": "2026-11-23T14:24:35.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T09:14:23.747+08:00",
+      "fetchedAt": "2026-11-23T09:24:34.588+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T09:14:23.756+08:00",
+      "fetchedAt": "2026-11-23T09:24:34.599+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T09:14:23.756+08:00",
+      "fetchedAt": "2026-11-23T09:24:34.599+08:00",
       "error": "未启用",
       "disabled": true
     }
