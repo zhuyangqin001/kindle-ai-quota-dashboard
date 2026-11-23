@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T20:26:47.479+08:00",
+  "updatedAt": "2026-11-23T20:37:00.261+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
     "iconKey": "rain",
-    "tempC": 13.4,
-    "feelsLikeC": 13.2,
-    "humidity": 98,
-    "windKph": 7.3,
+    "tempC": 13.3,
+    "feelsLikeC": 13,
+    "humidity": 97,
+    "windKph": 8.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-23T20:26:47.479+08:00",
+    "observedAt": "2026-11-23T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-23T20:37:00.261+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第十七次中欧财金对话在北京举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736629.shtml",
+        "publishedAt": "2026-11-23T20:28:14.000+08:00"
+      },
+      {
+        "title": "《自然中国·青海篇》揭秘“中华水塔”之上万物何以生生不息",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736635.shtml",
+        "publishedAt": "2026-11-23T20:26:36.000+08:00"
+      },
+      {
+        "title": "宁夏出台就业优先战略“十五五”规划 聚力推进高质量充分就业",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736633.shtml",
+        "publishedAt": "2026-11-23T20:24:38.000+08:00"
+      },
       {
         "title": "李家超会见世界技能大赛中国香港代表团：为国家长远发展提供人才支撑",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736634.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "“生命的旋律——韩美林艺术展”在国家大剧院启幕",
         "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736632.shtml",
         "publishedAt": "2026-11-23T20:22:30.000+08:00"
-      },
-      {
-        "title": "在延边山水间遇见纯粹少年温情 朝鲜族题材影片《金哲》上映",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736605.shtml",
-        "publishedAt": "2026-11-23T20:21:48.000+08:00"
-      },
-      {
-        "title": "从喜马拉雅山脚到南海之滨：尼泊尔青年在海南看见“机会与友谊”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736627.shtml",
-        "publishedAt": "2026-11-23T20:21:44.000+08:00"
-      },
-      {
-        "title": "广东湛江今年前十月供港澳活猪同比增逾六倍",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736628.shtml",
-        "publishedAt": "2026-11-23T20:21:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T20:26:44.551+08:00",
+    "fetchedAt": "2026-11-23T20:36:57.868+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T20:26:45.309+08:00",
+      "fetchedAt": "2026-11-23T20:36:58.562+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,7 +63,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 6,
           "resetAt": "2026-11-24T00:08:59.000+08:00"
         },
         {
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T20:26:45.312+08:00",
+      "fetchedAt": "2026-11-23T20:36:58.564+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T20:26:45.322+08:00",
+      "fetchedAt": "2026-11-23T20:36:58.570+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T20:26:45.322+08:00",
+      "fetchedAt": "2026-11-23T20:36:58.570+08:00",
       "error": "未启用",
       "disabled": true
     }
