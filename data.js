@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-23T17:43:47.068+08:00",
+  "updatedAt": "2026-11-23T17:53:58.517+08:00",
   "weather": {
     "ok": true,
     "description": "雨",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 13.8,
     "feelsLikeC": 14.2,
     "humidity": 96,
-    "windKph": 4.2,
+    "windKph": 3.9,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-23T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-23T17:43:47.068+08:00",
+    "observedAt": "2026-11-23T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-23T17:53:58.517+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "动画电影《凤凰与我》新片推介：构建东方奇幻世界",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-23/10736547.shtml",
+        "publishedAt": "2026-11-23T17:45:19.000+08:00"
+      },
+      {
+        "title": "平台内严肃拒绝 私下里积极接单 AI仿冒名人带货缘何屡禁不止？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736564.shtml",
+        "publishedAt": "2026-11-23T17:43:01.000+08:00"
+      },
       {
         "title": "大连市沙河口区举办“科创大连·智汇低空”交流座谈会",
         "url": "https://www.chinanews.com.cn/txy/2026/11-23/10736558.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "三连超级月亮要来了！全国赏月指数地图出炉 看哪里将上演皓月当空",
         "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736559.shtml",
         "publishedAt": "2026-11-23T17:38:29.000+08:00"
-      },
-      {
-        "title": "千余项审批不出园 沈阳“七彩政务”跑出惠企加速度",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736543.shtml",
-        "publishedAt": "2026-11-23T17:35:51.000+08:00"
-      },
-      {
-        "title": "呼和浩特冬季文旅推介走进广深拓展大湾区市场",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-23/10736545.shtml",
-        "publishedAt": "2026-11-23T17:33:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-23T17:43:44.675+08:00",
+    "fetchedAt": "2026-11-23T17:53:56.101+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-23T17:43:45.434+08:00",
+      "fetchedAt": "2026-11-23T17:53:56.836+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-23T22:43:46.000+08:00"
+          "resetAt": "2026-11-23T22:53:58.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-23T17:43:45.437+08:00",
+      "fetchedAt": "2026-11-23T17:53:56.839+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T17:43:45.444+08:00",
+      "fetchedAt": "2026-11-23T17:53:56.849+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-23T17:43:45.445+08:00",
+      "fetchedAt": "2026-11-23T17:53:56.850+08:00",
       "error": "未启用",
       "disabled": true
     }
