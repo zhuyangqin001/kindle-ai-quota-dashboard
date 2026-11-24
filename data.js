@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T12:17:33.533+08:00",
+  "updatedAt": "2026-11-24T12:27:45.989+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-24T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-24T12:17:33.533+08:00",
+    "fetchedAt": "2026-11-24T12:27:45.990+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "武毅谈中外航天员联合飞行：文化有差异，但探索飞天的梦想一致",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736879.shtml",
+        "publishedAt": "2026-11-24T12:21:38.000+08:00"
+      },
       {
         "title": "巴基斯坦航天员齐尚·阿里秀中文：欲穷千里目，更上一层楼",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736876.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "多连发外链：神二十四载人飞行任务新闻发布会",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-24/10736873.shtml",
         "publishedAt": "2026-11-24T11:38:20.000+08:00"
-      },
-      {
-        "title": "U17世界杯：中国队2:2战平摩洛哥",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-24/10736849.shtml",
-        "publishedAt": "2026-11-24T11:29:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T12:17:31.061+08:00",
+    "fetchedAt": "2026-11-24T12:27:43.090+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T12:17:31.550+08:00",
+      "fetchedAt": "2026-11-24T12:27:43.613+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
+          "usedPct": 6,
           "resetAt": "2026-11-24T17:14:38.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 7,
+          "usedPct": 8,
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T12:17:31.552+08:00",
+      "fetchedAt": "2026-11-24T12:27:43.615+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T12:17:31.557+08:00",
+      "fetchedAt": "2026-11-24T12:27:43.622+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T12:17:31.558+08:00",
+      "fetchedAt": "2026-11-24T12:27:43.622+08:00",
       "error": "未启用",
       "disabled": true
     }
