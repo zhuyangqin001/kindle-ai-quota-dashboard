@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-24T17:44:46.317+08:00",
+  "updatedAt": "2026-11-24T17:55:01.041+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.4,
-    "feelsLikeC": 11.9,
-    "humidity": 66,
+    "tempC": 13.2,
+    "feelsLikeC": 11.7,
+    "humidity": 67,
     "windKph": 5.2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-24T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T17:44:46.317+08:00",
+    "observedAt": "2026-11-24T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-24T17:55:01.041+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国商务部回应欧盟宣布对混动汽车采取临时保障措施",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737075.shtml",
-        "publishedAt": "2026-11-24T17:36:37.000+08:00"
+        "title": "黑龙江推出多项改革举措 持续优化营商环境吸引投资",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737089.shtml",
+        "publishedAt": "2026-11-24T17:51:24.000+08:00"
       },
       {
-        "title": "2026国际商协会大会开幕 推动产供链对接与国际经贸合作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737078.shtml",
-        "publishedAt": "2026-11-24T17:35:57.000+08:00"
+        "title": "聚焦自主创“芯”和智能制造 2026国家工业软件大会举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737088.shtml",
+        "publishedAt": "2026-11-24T17:51:22.000+08:00"
       },
       {
-        "title": "从打破垄断到“产品+服务”出海 中国巨胎亮相“宝马展”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737076.shtml",
-        "publishedAt": "2026-11-24T17:35:53.000+08:00"
+        "title": "中越边境国门通道天麻高速正式通车",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-24/10737085.shtml",
+        "publishedAt": "2026-11-24T17:48:00.000+08:00"
       },
       {
-        "title": "英雄诗守千年根脉 木偶戏纳远方来韵",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10737077.shtml",
-        "publishedAt": "2026-11-24T17:35:41.000+08:00"
+        "title": "百余件长沙马王堆汉墓出土文物在山东青州集结展出",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10737084.shtml",
+        "publishedAt": "2026-11-24T17:46:56.000+08:00"
       },
       {
-        "title": "中国篮协职业联赛升降级办法迎重要进展",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-24/10737073.shtml",
-        "publishedAt": "2026-11-24T17:29:53.000+08:00"
+        "title": "渝昆高铁宜宾至昆明南段进入静态验收阶段",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737083.shtml",
+        "publishedAt": "2026-11-24T17:45:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T17:44:42.611+08:00",
+    "fetchedAt": "2026-11-24T17:54:57.800+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T17:44:43.388+08:00",
+      "fetchedAt": "2026-11-24T17:54:58.562+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-24T22:44:45.000+08:00"
+          "resetAt": "2026-11-24T22:55:00.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T17:44:43.391+08:00",
+      "fetchedAt": "2026-11-24T17:54:58.566+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T17:44:43.401+08:00",
+      "fetchedAt": "2026-11-24T17:54:58.575+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T17:44:43.401+08:00",
+      "fetchedAt": "2026-11-24T17:54:58.576+08:00",
       "error": "未启用",
       "disabled": true
     }
