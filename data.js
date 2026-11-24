@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T15:52:21.216+08:00",
+  "updatedAt": "2026-11-24T16:02:33.428+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.3,
+    "tempC": 15.2,
     "feelsLikeC": 12.4,
-    "humidity": 53,
-    "windKph": 12.8,
+    "humidity": 54,
+    "windKph": 12.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-24T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-24T15:52:21.216+08:00",
+    "observedAt": "2026-11-24T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-24T16:02:33.428+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "北京胡同里穿着彩色毛衣的大树吸引市民打卡",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-24/1211536.shtml",
-        "publishedAt": "2026-11-24T15:42:32.000+08:00"
+        "title": "夯实“一老一小”服务，筑牢民生之基",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736994.shtml",
+        "publishedAt": "2026-11-24T15:55:02.000+08:00"
       },
       {
-        "title": "缩小视听障碍群体信息鸿沟 声频视频无障碍出版国家标准发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736977.shtml",
-        "publishedAt": "2026-11-24T15:42:11.000+08:00"
+        "title": "法治之光点亮清朗之城 网络法治护航高质量发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736993.shtml",
+        "publishedAt": "2026-11-24T15:53:06.000+08:00"
       },
       {
-        "title": "青春小店 装下生活与梦想（经济聚焦）",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736981.shtml",
-        "publishedAt": "2026-11-24T15:41:51.000+08:00"
+        "title": "一根纱线牵起山海 十国青年在常州“织”说中国故事",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736952.shtml",
+        "publishedAt": "2026-11-24T15:51:32.000+08:00"
       },
       {
-        "title": "神二十四乘组地面训练照片公布",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-24/1211521.shtml",
-        "publishedAt": "2026-11-24T15:40:58.000+08:00"
+        "title": "河北景县：小胶管撑起百亿级产业集群",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-24/10736985.shtml",
+        "publishedAt": "2026-11-24T15:50:19.000+08:00"
       },
       {
-        "title": "超长驻留+中外联合飞行 神舟二十四号任务看点拉满",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736978.shtml",
-        "publishedAt": "2026-11-24T15:39:17.000+08:00"
+        "title": "红星照耀中国｜100年前的年轻人，做出这样的选择",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736991.shtml",
+        "publishedAt": "2026-11-24T15:48:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T15:52:18.271+08:00",
+    "fetchedAt": "2026-11-24T16:02:30.512+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T15:52:19.009+08:00",
+      "fetchedAt": "2026-11-24T16:02:30.906+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T15:52:19.013+08:00",
+      "fetchedAt": "2026-11-24T16:02:30.908+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T15:52:19.023+08:00",
+      "fetchedAt": "2026-11-24T16:02:30.913+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T15:52:19.023+08:00",
+      "fetchedAt": "2026-11-24T16:02:30.913+08:00",
       "error": "未启用",
       "disabled": true
     }
