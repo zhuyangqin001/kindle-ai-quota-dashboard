@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-24T14:40:49.782+08:00",
+  "updatedAt": "2026-11-24T14:51:03.293+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.9,
-    "feelsLikeC": 13,
-    "humidity": 37,
-    "windKph": 14.4,
+    "tempC": 16.8,
+    "feelsLikeC": 12.9,
+    "humidity": 39,
+    "windKph": 14.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-24T14:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T14:40:49.783+08:00",
+    "observedAt": "2026-11-24T14:45:00.000+08:00",
+    "fetchedAt": "2026-11-24T14:51:03.293+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "华为宣布鸿蒙操作系统终端设备数突破1亿台",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736931.shtml",
+        "publishedAt": "2026-11-24T14:38:06.000+08:00"
+      },
+      {
+        "title": "仅凭照片就能“读”出你的精确位置？律师提醒：侵权定位可能获刑",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736935.shtml",
+        "publishedAt": "2026-11-24T14:37:31.000+08:00"
+      },
+      {
+        "title": "12306又升级！候补兑现自动推送！",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736934.shtml",
+        "publishedAt": "2026-11-24T14:37:03.000+08:00"
+      },
+      {
+        "title": "（乡村行·看振兴）从宫廷用具到日常器皿 太行窑火“烧”出新生意",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736929.shtml",
+        "publishedAt": "2026-11-24T14:36:41.000+08:00"
+      },
+      {
         "title": "AI创作绝不允许盗脸、偷声、魔改",
         "url": "https://www.chinanews.com.cn/cul/2026/11-24/10736930.shtml",
         "publishedAt": "2026-11-24T14:32:55.000+08:00"
-      },
-      {
-        "title": "“新三样”回收利用，废旧件产生新价值",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736926.shtml",
-        "publishedAt": "2026-11-24T14:30:45.000+08:00"
-      },
-      {
-        "title": "新兴产业与历史经典同台 国际工业设计博览会首落湖南",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736932.shtml",
-        "publishedAt": "2026-11-24T14:30:21.000+08:00"
-      },
-      {
-        "title": "湖南江华各族民众盛装巡游共庆瑶族盘王节",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-24/10736905.shtml",
-        "publishedAt": "2026-11-24T14:29:47.000+08:00"
-      },
-      {
-        "title": "神舟二十四号载人飞船瞄准11月25日8时18分发射",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736922.shtml",
-        "publishedAt": "2026-11-24T14:29:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T14:40:45.523+08:00",
+    "fetchedAt": "2026-11-24T14:51:00.281+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T14:40:46.198+08:00",
+      "fetchedAt": "2026-11-24T14:51:01.056+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T14:40:46.200+08:00",
+      "fetchedAt": "2026-11-24T14:51:01.060+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T14:40:46.210+08:00",
+      "fetchedAt": "2026-11-24T14:51:01.070+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T14:40:46.211+08:00",
+      "fetchedAt": "2026-11-24T14:51:01.071+08:00",
       "error": "未启用",
       "disabled": true
     }
