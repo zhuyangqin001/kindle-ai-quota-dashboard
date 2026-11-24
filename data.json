@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T16:02:33.428+08:00",
+  "updatedAt": "2026-11-24T16:12:44.938+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-24T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T16:02:33.428+08:00",
+    "fetchedAt": "2026-11-24T16:12:44.938+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "巴基斯坦媒体：中国航天国际合作为发展中国家打开太空之门",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736999.shtml",
+        "publishedAt": "2026-11-24T16:05:32.000+08:00"
+      },
+      {
+        "title": "“冰雪+”活力奔涌，烹出“特”字当先的冰雪热经济",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736996.shtml",
+        "publishedAt": "2026-11-24T16:01:02.000+08:00"
+      },
+      {
+        "title": "神二十四乘组集体亮相 三名航天员简历公布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736946.shtml",
+        "publishedAt": "2026-11-24T16:00:06.000+08:00"
+      },
+      {
+        "title": "湖北武汉：晴川阁银杏金黄引游客",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-24/10736987.shtml",
+        "publishedAt": "2026-11-24T15:56:42.000+08:00"
+      },
+      {
         "title": "夯实“一老一小”服务，筑牢民生之基",
         "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736994.shtml",
         "publishedAt": "2026-11-24T15:55:02.000+08:00"
-      },
-      {
-        "title": "法治之光点亮清朗之城 网络法治护航高质量发展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736993.shtml",
-        "publishedAt": "2026-11-24T15:53:06.000+08:00"
-      },
-      {
-        "title": "一根纱线牵起山海 十国青年在常州“织”说中国故事",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736952.shtml",
-        "publishedAt": "2026-11-24T15:51:32.000+08:00"
-      },
-      {
-        "title": "河北景县：小胶管撑起百亿级产业集群",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-24/10736985.shtml",
-        "publishedAt": "2026-11-24T15:50:19.000+08:00"
-      },
-      {
-        "title": "红星照耀中国｜100年前的年轻人，做出这样的选择",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736991.shtml",
-        "publishedAt": "2026-11-24T15:48:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T16:02:30.512+08:00",
+    "fetchedAt": "2026-11-24T16:12:41.586+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T16:02:30.906+08:00",
+      "fetchedAt": "2026-11-24T16:12:42.345+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T16:02:30.908+08:00",
+      "fetchedAt": "2026-11-24T16:12:42.348+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T16:02:30.913+08:00",
+      "fetchedAt": "2026-11-24T16:12:42.359+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T16:02:30.913+08:00",
+      "fetchedAt": "2026-11-24T16:12:42.359+08:00",
       "error": "未启用",
       "disabled": true
     }
