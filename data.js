@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T14:51:03.293+08:00",
+  "updatedAt": "2026-11-24T15:01:17.367+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 16.8,
+    "tempC": 16.7,
     "feelsLikeC": 12.9,
-    "humidity": 39,
-    "windKph": 14.8,
+    "humidity": 41,
+    "windKph": 14.9,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-24T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-24T14:51:03.293+08:00",
+    "observedAt": "2026-11-24T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-24T15:01:17.367+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "华为宣布鸿蒙操作系统终端设备数突破1亿台",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736931.shtml",
-        "publishedAt": "2026-11-24T14:38:06.000+08:00"
+        "title": "民进吉林省委会5项参政议政成果获民进中央表彰",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-24/10736939.shtml",
+        "publishedAt": "2026-11-24T14:53:30.000+08:00"
       },
       {
-        "title": "仅凭照片就能“读”出你的精确位置？律师提醒：侵权定位可能获刑",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736935.shtml",
-        "publishedAt": "2026-11-24T14:37:31.000+08:00"
+        "title": "菲律宾维萨亚斯电网再拉响红色警报 电力供应持续趋紧",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736897.shtml",
+        "publishedAt": "2026-11-24T14:52:24.000+08:00"
       },
       {
-        "title": "12306又升级！候补兑现自动推送！",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736934.shtml",
-        "publishedAt": "2026-11-24T14:37:03.000+08:00"
+        "title": "美国马里兰州青少年匹克球交流团将开启第三次访华之旅",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736887.shtml",
+        "publishedAt": "2026-11-24T14:52:20.000+08:00"
       },
       {
-        "title": "（乡村行·看振兴）从宫廷用具到日常器皿 太行窑火“烧”出新生意",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736929.shtml",
-        "publishedAt": "2026-11-24T14:36:41.000+08:00"
+        "title": "中国航天员朱杨柱将执行一年期在轨驻留试验任务",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736908.shtml",
+        "publishedAt": "2026-11-24T14:51:00.000+08:00"
       },
       {
-        "title": "AI创作绝不允许盗脸、偷声、魔改",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10736930.shtml",
-        "publishedAt": "2026-11-24T14:32:55.000+08:00"
+        "title": "中新健康｜海绵洗碗磨损1克释放650万个微塑料？论文作者回应、院士发声",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-24/10736936.shtml",
+        "publishedAt": "2026-11-24T14:45:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T14:51:00.281+08:00",
+    "fetchedAt": "2026-11-24T15:01:14.475+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T14:51:01.056+08:00",
+      "fetchedAt": "2026-11-24T15:01:14.940+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T14:51:01.060+08:00",
+      "fetchedAt": "2026-11-24T15:01:14.943+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T14:51:01.070+08:00",
+      "fetchedAt": "2026-11-24T15:01:14.948+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T14:51:01.071+08:00",
+      "fetchedAt": "2026-11-24T15:01:14.948+08:00",
       "error": "未启用",
       "disabled": true
     }
