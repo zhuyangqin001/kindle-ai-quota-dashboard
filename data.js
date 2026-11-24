@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T16:12:44.938+08:00",
+  "updatedAt": "2026-11-24T16:22:57.757+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15.2,
+    "tempC": 15,
     "feelsLikeC": 12.4,
-    "humidity": 54,
-    "windKph": 12.1,
+    "humidity": 55,
+    "windKph": 10.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-24T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T16:12:44.938+08:00",
+    "observedAt": "2026-11-24T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-24T16:22:57.757+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "一场深圳APEC盛会，刺破台湾岛内信息茧房",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737004.shtml",
+        "publishedAt": "2026-11-24T16:12:11.000+08:00"
+      },
+      {
+        "title": "从实训课堂到产业一线——全球首家鲁班工坊十年育人记",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737002.shtml",
+        "publishedAt": "2026-11-24T16:10:01.000+08:00"
+      },
+      {
+        "title": "马来西亚前部长：APEC深圳会议指明方向，“新一代互联互通”成亚太破局关键",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737001.shtml",
+        "publishedAt": "2026-11-24T16:07:14.000+08:00"
+      },
       {
         "title": "巴基斯坦媒体：中国航天国际合作为发展中国家打开太空之门",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736999.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "“冰雪+”活力奔涌，烹出“特”字当先的冰雪热经济",
         "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736996.shtml",
         "publishedAt": "2026-11-24T16:01:02.000+08:00"
-      },
-      {
-        "title": "神二十四乘组集体亮相 三名航天员简历公布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736946.shtml",
-        "publishedAt": "2026-11-24T16:00:06.000+08:00"
-      },
-      {
-        "title": "湖北武汉：晴川阁银杏金黄引游客",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-24/10736987.shtml",
-        "publishedAt": "2026-11-24T15:56:42.000+08:00"
-      },
-      {
-        "title": "夯实“一老一小”服务，筑牢民生之基",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736994.shtml",
-        "publishedAt": "2026-11-24T15:55:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T16:12:41.586+08:00",
+    "fetchedAt": "2026-11-24T16:22:54.788+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T16:12:42.345+08:00",
+      "fetchedAt": "2026-11-24T16:22:55.508+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T16:12:42.348+08:00",
+      "fetchedAt": "2026-11-24T16:22:55.511+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T16:12:42.359+08:00",
+      "fetchedAt": "2026-11-24T16:22:55.520+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T16:12:42.359+08:00",
+      "fetchedAt": "2026-11-24T16:22:55.520+08:00",
       "error": "未启用",
       "disabled": true
     }
