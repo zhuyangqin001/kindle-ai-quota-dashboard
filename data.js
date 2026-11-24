@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T14:10:04.007+08:00",
+  "updatedAt": "2026-11-24T14:20:20.236+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17,
+    "tempC": 16.9,
     "feelsLikeC": 13,
-    "humidity": 34,
-    "windKph": 13.7,
+    "humidity": 35,
+    "windKph": 14,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-24T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T14:10:04.007+08:00",
+    "observedAt": "2026-11-24T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-24T14:20:20.236+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "全国“优化消费环境月”启动来 北京推出50余项特色活动",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736904.shtml",
-        "publishedAt": "2026-11-24T14:03:24.000+08:00"
+        "title": "“猫鸟之争”的背后：一座城市如何安放流浪猫？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736921.shtml",
+        "publishedAt": "2026-11-24T14:14:12.000+08:00"
       },
       {
-        "title": "社保基金监管迎新规 守好每一分“养老钱”“保命钱”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736913.shtml",
-        "publishedAt": "2026-11-24T14:03:02.000+08:00"
+        "title": "2027年元旦春节期间全国工会送温暖活动启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736909.shtml",
+        "publishedAt": "2026-11-24T14:13:24.000+08:00"
       },
       {
-        "title": "第二十三次中国岩石力学与工程学术年会在成都举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736903.shtml",
-        "publishedAt": "2026-11-24T14:00:29.000+08:00"
+        "title": "民企联东：做中小企业“成长合伙人”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736914.shtml",
+        "publishedAt": "2026-11-24T14:11:42.000+08:00"
       },
       {
-        "title": "福州机场边检站今年已保障120艘次铁矿石船舶入出境",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736906.shtml",
-        "publishedAt": "2026-11-24T13:58:03.000+08:00"
+        "title": "香港演艺界人士助力赣南脐橙俏销大湾区",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-24/10736917.shtml",
+        "publishedAt": "2026-11-24T14:11:06.000+08:00"
       },
       {
-        "title": "从“通道过境”到“落地生根” 新疆兵团口岸经济向纵深发力",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-24/10736901.shtml",
-        "publishedAt": "2026-11-24T13:50:15.000+08:00"
+        "title": "（机遇香港）港企“超级中国干线”服务拓展 赋能越南货源远航",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-24/10736911.shtml",
+        "publishedAt": "2026-11-24T14:11:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T14:10:00.587+08:00",
+    "fetchedAt": "2026-11-24T14:20:16.137+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T14:10:01.373+08:00",
+      "fetchedAt": "2026-11-24T14:20:16.919+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T14:10:01.376+08:00",
+      "fetchedAt": "2026-11-24T14:20:16.922+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T14:10:01.387+08:00",
+      "fetchedAt": "2026-11-24T14:20:16.933+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T14:10:01.387+08:00",
+      "fetchedAt": "2026-11-24T14:20:16.933+08:00",
       "error": "未启用",
       "disabled": true
     }
