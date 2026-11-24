@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T20:57:43.360+08:00",
+  "updatedAt": "2026-11-24T21:07:56.801+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.1,
-    "feelsLikeC": 7.8,
-    "humidity": 68,
-    "windKph": 6.8,
+    "tempC": 9.9,
+    "feelsLikeC": 7.6,
+    "humidity": 69,
+    "windKph": 6.6,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-24T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-24T20:57:43.360+08:00",
+    "observedAt": "2026-11-24T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-24T21:07:56.802+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "逛完博物馆、听完木卡姆，土耳其媒体人走访新疆多地，亲口戳穿西方谎言丨真相",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737220.shtml",
+        "publishedAt": "2026-11-24T20:58:36.000+08:00"
+      },
       {
         "title": "从儿时日记本到“天宫”：一位巴基斯坦航天员的逐梦之旅",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737219.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "从杏花村到陆港大门：山西汾阳“十五五”不止“一瓶酒”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737215.shtml",
         "publishedAt": "2026-11-24T20:48:43.000+08:00"
-      },
-      {
-        "title": "哈尔滨市道外区：打造“冰雪+艺术”“ 冰雪+运动”两大文旅消费场景",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737213.shtml",
-        "publishedAt": "2026-11-24T20:46:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T20:57:40.715+08:00",
+    "fetchedAt": "2026-11-24T21:07:54.919+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T20:57:41.036+08:00",
+      "fetchedAt": "2026-11-24T21:07:55.250+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 15,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T20:57:41.038+08:00",
+      "fetchedAt": "2026-11-24T21:07:55.252+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T20:57:41.042+08:00",
+      "fetchedAt": "2026-11-24T21:07:55.259+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T20:57:41.042+08:00",
+      "fetchedAt": "2026-11-24T21:07:55.259+08:00",
       "error": "未启用",
       "disabled": true
     }
