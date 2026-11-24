@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T15:31:56.291+08:00",
+  "updatedAt": "2026-11-24T15:42:09.069+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-24T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T15:31:56.291+08:00",
+    "fetchedAt": "2026-11-24T15:42:09.069+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“援”定天山：授人以渔 闽企投资助“全链升级”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736949.shtml",
+        "publishedAt": "2026-11-24T15:33:07.000+08:00"
+      },
+      {
+        "title": "中方：始终秉持相互尊重、平等相待的原则发展同所罗门群岛的关系",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736975.shtml",
+        "publishedAt": "2026-11-24T15:30:54.000+08:00"
+      },
+      {
+        "title": "羽绒降价，羽绒服为何越卖越贵？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736973.shtml",
+        "publishedAt": "2026-11-24T15:25:20.000+08:00"
+      },
       {
         "title": "外交部：瑞士联邦主席、联邦副主席先后访华 体现两国高度政治互信",
         "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736972.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "中欧班列“东通道”绥芬河铁路口岸累计通行量突破5000列",
         "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736948.shtml",
         "publishedAt": "2026-11-24T15:23:38.000+08:00"
-      },
-      {
-        "title": "巴基斯坦航天员将到访中国“天宫” 中方对此航天盛事充满期待",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736970.shtml",
-        "publishedAt": "2026-11-24T15:22:02.000+08:00"
-      },
-      {
-        "title": "中巴航天员将携手进入中国空间站 外交部：充满期待",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736969.shtml",
-        "publishedAt": "2026-11-24T15:21:58.000+08:00"
-      },
-      {
-        "title": "“援”定天山：江西牵挂的“第101个县”在新疆",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736947.shtml",
-        "publishedAt": "2026-11-24T15:20:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T15:31:52.174+08:00",
+    "fetchedAt": "2026-11-24T15:42:05.594+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T15:31:52.939+08:00",
+      "fetchedAt": "2026-11-24T15:42:06.390+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T15:31:52.942+08:00",
+      "fetchedAt": "2026-11-24T15:42:06.394+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T15:31:52.952+08:00",
+      "fetchedAt": "2026-11-24T15:42:06.404+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T15:31:52.952+08:00",
+      "fetchedAt": "2026-11-24T15:42:06.404+08:00",
       "error": "未启用",
       "disabled": true
     }
