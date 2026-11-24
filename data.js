@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T15:21:43.385+08:00",
+  "updatedAt": "2026-11-24T15:31:56.291+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 15.3,
     "feelsLikeC": 12.3,
     "humidity": 53,
-    "windKph": 13.5,
+    "windKph": 13.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-24T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-24T15:21:43.385+08:00",
+    "observedAt": "2026-11-24T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-24T15:31:56.291+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "A股收评：超3400只个股飘绿，沪指高开低走收涨",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736962.shtml",
-        "publishedAt": "2026-11-24T15:13:49.000+08:00"
+        "title": "外交部：瑞士联邦主席、联邦副主席先后访华 体现两国高度政治互信",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736972.shtml",
+        "publishedAt": "2026-11-24T15:25:10.000+08:00"
       },
       {
-        "title": "绿道，“缝合”城市生活",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736958.shtml",
-        "publishedAt": "2026-11-24T15:10:25.000+08:00"
+        "title": "中欧班列“东通道”绥芬河铁路口岸累计通行量突破5000列",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736948.shtml",
+        "publishedAt": "2026-11-24T15:23:38.000+08:00"
       },
       {
-        "title": "“上线即被盗、更新即泄露” 影视版权保护难题如何解？",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-24/10736954.shtml",
-        "publishedAt": "2026-11-24T15:09:35.000+08:00"
+        "title": "巴基斯坦航天员将到访中国“天宫” 中方对此航天盛事充满期待",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736970.shtml",
+        "publishedAt": "2026-11-24T15:22:02.000+08:00"
       },
       {
-        "title": "国家疾控局：流感已进入流行季 及时接种流感疫苗",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736955.shtml",
-        "publishedAt": "2026-11-24T15:07:39.000+08:00"
+        "title": "中巴航天员将携手进入中国空间站 外交部：充满期待",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736969.shtml",
+        "publishedAt": "2026-11-24T15:21:58.000+08:00"
       },
       {
-        "title": "“一个管家、四大保障、两大托付”，中国平安发布国内首个“生命尊严保障服务”综合解决方案",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736942.shtml",
-        "publishedAt": "2026-11-24T15:03:25.000+08:00"
+        "title": "“援”定天山：江西牵挂的“第101个县”在新疆",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736947.shtml",
+        "publishedAt": "2026-11-24T15:20:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T15:21:39.408+08:00",
+    "fetchedAt": "2026-11-24T15:31:52.174+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T15:21:40.192+08:00",
+      "fetchedAt": "2026-11-24T15:31:52.939+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T15:21:40.195+08:00",
+      "fetchedAt": "2026-11-24T15:31:52.942+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T15:21:40.204+08:00",
+      "fetchedAt": "2026-11-24T15:31:52.952+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T15:21:40.205+08:00",
+      "fetchedAt": "2026-11-24T15:31:52.952+08:00",
       "error": "未启用",
       "disabled": true
     }
