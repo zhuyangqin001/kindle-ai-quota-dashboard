@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T21:18:07.309+08:00",
+  "updatedAt": "2026-11-24T21:28:19.926+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-24T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-24T21:18:07.309+08:00",
+    "fetchedAt": "2026-11-24T21:28:19.926+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "珠肇高铁江机段5标无砟轨道施工转入铺轨阶段",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737223.shtml",
+        "publishedAt": "2026-11-24T21:18:27.000+08:00"
+      },
+      {
+        "title": "“月明如水浸楼台”落进中学课堂：川剧名家讲唱词里的诗意",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737217.shtml",
+        "publishedAt": "2026-11-24T21:15:37.000+08:00"
+      },
+      {
+        "title": "香港推出个人创业培育计划 降低AI创业门槛",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737216.shtml",
+        "publishedAt": "2026-11-24T21:12:07.000+08:00"
+      },
       {
         "title": "田秉毅任国家羽毛球队主教练",
         "url": "https://www.chinanews.com.cn/ty/2026/11-24/10737225.shtml",
@@ -28,24 +43,9 @@
         "title": "逛完博物馆、听完木卡姆，土耳其媒体人走访新疆多地，亲口戳穿西方谎言丨真相",
         "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737220.shtml",
         "publishedAt": "2026-11-24T20:58:36.000+08:00"
-      },
-      {
-        "title": "从儿时日记本到“天宫”：一位巴基斯坦航天员的逐梦之旅",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737219.shtml",
-        "publishedAt": "2026-11-24T20:53:24.000+08:00"
-      },
-      {
-        "title": "即将三度到访“天宫” 航天员汤洪波的初心与远方",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737218.shtml",
-        "publishedAt": "2026-11-24T20:53:14.000+08:00"
-      },
-      {
-        "title": "汇智聚力暖心惠民 浙江民建助“同心共富”工程落地生根",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737214.shtml",
-        "publishedAt": "2026-11-24T20:52:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T21:18:04.958+08:00",
+    "fetchedAt": "2026-11-24T21:28:17.355+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T21:18:05.547+08:00",
+      "fetchedAt": "2026-11-24T21:28:18.102+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 49,
-          "resetAt": "2026-11-25T00:57:11.000+08:00"
+          "usedPct": 62,
+          "resetAt": "2026-11-25T00:57:12.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 17,
+          "usedPct": 19,
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T21:18:05.549+08:00",
+      "fetchedAt": "2026-11-24T21:28:18.105+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T21:18:05.557+08:00",
+      "fetchedAt": "2026-11-24T21:28:18.115+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T21:18:05.557+08:00",
+      "fetchedAt": "2026-11-24T21:28:18.115+08:00",
       "error": "未启用",
       "disabled": true
     }
