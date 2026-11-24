@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T21:28:19.926+08:00",
+  "updatedAt": "2026-11-24T21:38:33.160+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.7,
-    "feelsLikeC": 7.4,
-    "humidity": 71,
-    "windKph": 6.3,
+    "tempC": 9.4,
+    "feelsLikeC": 7.2,
+    "humidity": 72,
+    "windKph": 6.2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-24T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-24T21:28:19.926+08:00",
+    "observedAt": "2026-11-24T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-24T21:38:33.160+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "11月24日新闻夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-24/10737238.shtml",
+        "publishedAt": "2026-11-24T21:27:48.000+08:00"
+      },
+      {
+        "title": "一杯奶茶一束光！唐山这家特殊小店，藏着8名残障青年的甜蜜事业",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737237.shtml",
+        "publishedAt": "2026-11-24T21:27:30.000+08:00"
+      },
       {
         "title": "珠肇高铁江机段5标无砟轨道施工转入铺轨阶段",
         "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737223.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "香港推出个人创业培育计划 降低AI创业门槛",
         "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737216.shtml",
         "publishedAt": "2026-11-24T21:12:07.000+08:00"
-      },
-      {
-        "title": "田秉毅任国家羽毛球队主教练",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-24/10737225.shtml",
-        "publishedAt": "2026-11-24T21:08:01.000+08:00"
-      },
-      {
-        "title": "逛完博物馆、听完木卡姆，土耳其媒体人走访新疆多地，亲口戳穿西方谎言丨真相",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737220.shtml",
-        "publishedAt": "2026-11-24T20:58:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T21:28:17.355+08:00",
+    "fetchedAt": "2026-11-24T21:38:29.626+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T21:28:18.102+08:00",
+      "fetchedAt": "2026-11-24T21:38:30.184+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 62,
-          "resetAt": "2026-11-25T00:57:12.000+08:00"
+          "resetAt": "2026-11-25T00:57:11.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T21:28:18.105+08:00",
+      "fetchedAt": "2026-11-24T21:38:30.186+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T21:28:18.115+08:00",
+      "fetchedAt": "2026-11-24T21:38:30.192+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T21:28:18.115+08:00",
+      "fetchedAt": "2026-11-24T21:38:30.193+08:00",
       "error": "未启用",
       "disabled": true
     }
