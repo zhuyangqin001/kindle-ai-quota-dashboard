@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T17:03:51.400+08:00",
+  "updatedAt": "2026-11-24T17:14:07.138+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-24T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-24T17:03:51.400+08:00",
+    "fetchedAt": "2026-11-24T17:14:07.138+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737068.shtml",
+        "publishedAt": "2026-11-24T17:05:44.000+08:00"
+      },
+      {
+        "title": "非法收受财物1.13亿余元 吴胜华一审被判无期徒刑",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737058.shtml",
+        "publishedAt": "2026-11-24T17:01:21.000+08:00"
+      },
       {
         "title": "广西一猪舍起火致5死事故调查报告公布：丢烟头点燃纸箱引发火灾",
         "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737057.shtml",
@@ -33,19 +43,9 @@
         "title": "商务部：继续调整实施商务部公告2024年第46号的决定",
         "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737053.shtml",
         "publishedAt": "2026-11-24T16:53:35.000+08:00"
-      },
-      {
-        "title": "江西安福：统战聚力 让深山好笋“链”出致富路",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737039.shtml",
-        "publishedAt": "2026-11-24T16:51:33.000+08:00"
-      },
-      {
-        "title": "在琼台商话封关一年：政策实效看得见、摸得着",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737005.shtml",
-        "publishedAt": "2026-11-24T16:49:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T17:03:48.548+08:00",
+    "fetchedAt": "2026-11-24T17:14:03.934+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T17:03:49.328+08:00",
+      "fetchedAt": "2026-11-24T17:14:04.687+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T17:03:49.332+08:00",
+      "fetchedAt": "2026-11-24T17:14:04.690+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T17:03:49.342+08:00",
+      "fetchedAt": "2026-11-24T17:14:04.698+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T17:03:49.342+08:00",
+      "fetchedAt": "2026-11-24T17:14:04.699+08:00",
       "error": "未启用",
       "disabled": true
     }
