@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T16:33:10.581+08:00",
+  "updatedAt": "2026-11-24T16:43:22.900+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-24T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-24T16:33:10.581+08:00",
+    "fetchedAt": "2026-11-24T16:43:22.900+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "多家医院推出护士陪诊 与社会化陪诊分工互补",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-24/10736971.shtml",
-        "publishedAt": "2026-11-24T16:25:17.000+08:00"
+        "title": "美国一邮轮暴发集体胃肠病 近150人出现呕吐腹泻症状",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737042.shtml",
+        "publishedAt": "2026-11-24T16:36:04.000+08:00"
       },
       {
-        "title": "陪诊首个国家标准实施：让陪诊有据可依、有责可追",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-24/10736968.shtml",
-        "publishedAt": "2026-11-24T16:25:05.000+08:00"
+        "title": "江西首个工业制造具身智能软件工厂上线",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737013.shtml",
+        "publishedAt": "2026-11-24T16:35:56.000+08:00"
       },
       {
-        "title": "老挝正式退出联合国最不发达国家行列",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737029.shtml",
-        "publishedAt": "2026-11-24T16:23:17.000+08:00"
+        "title": "糟蹋鲜果换流量，透支了助农直播的底色",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737041.shtml",
+        "publishedAt": "2026-11-24T16:35:26.000+08:00"
       },
       {
-        "title": "并非所有心梗都会胸痛 这些症状要警惕",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-24/10737027.shtml",
-        "publishedAt": "2026-11-24T16:21:43.000+08:00"
+        "title": "智能工厂典型场景标准化研究报告发布 供先进经验复制推广参考",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737009.shtml",
+        "publishedAt": "2026-11-24T16:35:16.000+08:00"
       },
       {
-        "title": "“倚美谋独”遭重击 台湾前途在于国家统一",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737018.shtml",
-        "publishedAt": "2026-11-24T16:15:49.000+08:00"
+        "title": "中欧班列“东通道”绥芬河铁路口岸累计通行突破5000列",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10736953.shtml",
+        "publishedAt": "2026-11-24T16:34:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T16:33:07.502+08:00",
+    "fetchedAt": "2026-11-24T16:43:20.440+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T16:33:08.333+08:00",
+      "fetchedAt": "2026-11-24T16:43:21.105+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T16:33:08.336+08:00",
+      "fetchedAt": "2026-11-24T16:43:21.109+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T16:33:08.348+08:00",
+      "fetchedAt": "2026-11-24T16:43:21.119+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T16:33:08.349+08:00",
+      "fetchedAt": "2026-11-24T16:43:21.119+08:00",
       "error": "未启用",
       "disabled": true
     }
