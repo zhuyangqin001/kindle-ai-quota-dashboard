@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-24T20:27:06.331+08:00",
+  "updatedAt": "2026-11-24T20:37:19.282+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.1,
-    "feelsLikeC": 8.5,
-    "humidity": 53,
-    "windKph": 12.8,
+    "tempC": 11.6,
+    "feelsLikeC": 8.2,
+    "humidity": 55,
+    "windKph": 12.3,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-24T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-24T20:27:06.331+08:00",
+    "observedAt": "2026-11-24T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-24T20:37:19.282+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "湖南省首单跨市州“区港联动”业务落地常德保税物流中心",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737185.shtml",
+        "publishedAt": "2026-11-24T20:28:26.000+08:00"
+      },
+      {
+        "title": "冷空气携狂风暴雨影响广东",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737184.shtml",
+        "publishedAt": "2026-11-24T20:28:18.000+08:00"
+      },
+      {
+        "title": "特朗普：黄仁勋已向妻子道歉，“她是一位非常优秀的女性”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10737183.shtml",
+        "publishedAt": "2026-11-24T20:26:38.000+08:00"
+      },
       {
         "title": "中柬“金龙—2026”联合演习筹备工作稳步推进",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-24/1211548.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "一枚航天冰箱贴延伸电影《登月》的文化长尾",
         "url": "https://www.chinanews.com.cn/cul/2026/11-24/10737172.shtml",
         "publishedAt": "2026-11-24T20:07:33.000+08:00"
-      },
-      {
-        "title": "腾冲科学家论坛推动澜湄科技人文交流合作向机制共建升级",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737173.shtml",
-        "publishedAt": "2026-11-24T20:06:35.000+08:00"
-      },
-      {
-        "title": "山区养老有“巧方” 湖南溆浦织密分散供养特困老人“守护网”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737174.shtml",
-        "publishedAt": "2026-11-24T20:06:09.000+08:00"
-      },
-      {
-        "title": "因地制宜推广三明医改经验 四川以改革探索增进群众就医满意度、便利度",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737169.shtml",
-        "publishedAt": "2026-11-24T20:05:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-24T20:27:03.344+08:00",
+    "fetchedAt": "2026-11-24T20:37:15.896+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-24T20:27:03.940+08:00",
+      "fetchedAt": "2026-11-24T20:37:16.229+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 15,
-          "resetAt": "2026-11-25T00:57:11.000+08:00"
+          "usedPct": 41,
+          "resetAt": "2026-11-25T00:57:12.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 11,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "usedPct": 15,
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-24T20:27:03.945+08:00",
+      "fetchedAt": "2026-11-24T20:37:16.230+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T20:27:03.984+08:00",
+      "fetchedAt": "2026-11-24T20:37:16.235+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-24T20:27:03.985+08:00",
+      "fetchedAt": "2026-11-24T20:37:16.235+08:00",
       "error": "未启用",
       "disabled": true
     }
