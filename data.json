@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-25T15:26:57.168+08:00",
+  "updatedAt": "2026-11-25T15:47:17.652+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.2,
-    "feelsLikeC": 11.7,
-    "humidity": 43,
-    "windKph": 4.5,
+    "tempC": 14,
+    "feelsLikeC": 11.6,
+    "humidity": 44,
+    "windKph": 4.4,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T15:26:57.169+08:00",
+    "observedAt": "2026-11-25T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-25T15:47:17.652+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国家发改委：三峡水运新通道工程已完成投资超110亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737542.shtml",
-        "publishedAt": "2026-11-25T15:12:10.000+08:00"
+        "title": "自盖公章签合同索薪被驳 法官：关键看用工事实",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737571.shtml",
+        "publishedAt": "2026-11-25T15:42:58.000+08:00"
       },
       {
-        "title": "A股收评：超4900只个股飘绿，三大指数集体收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737546.shtml",
-        "publishedAt": "2026-11-25T15:10:22.000+08:00"
+        "title": "中方呼吁各方警惕有人正在将《海洋生物多样性协定》秘书处申办工作政治化、对抗化",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737572.shtml",
+        "publishedAt": "2026-11-25T15:41:14.000+08:00"
       },
       {
-        "title": "明星艺人航班信息是怎么流出的？典型案件起底来了",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737540.shtml",
-        "publishedAt": "2026-11-25T15:07:26.000+08:00"
+        "title": "报道称美国计划对包括中国在内的有关国家加征关税 中方回应",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737570.shtml",
+        "publishedAt": "2026-11-25T15:39:51.000+08:00"
       },
       {
-        "title": "11月25日“农产品批发价格200指数”比昨天上升0.15个点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737534.shtml",
-        "publishedAt": "2026-11-25T15:07:20.000+08:00"
+        "title": "淬炼建言“真功夫” 画出最大“同心圆” ——济南起步区为提升民主党派参政议政能力“靶向赋能”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-25/10737563.shtml",
+        "publishedAt": "2026-11-25T15:37:33.000+08:00"
       },
       {
-        "title": "三山四先生——闽都四家书画展（第三回）福州启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737511.shtml",
-        "publishedAt": "2026-11-25T15:04:24.000+08:00"
+        "title": "辽宁省医疗健康数据标注先行先试会召开 多项成果、合作集中亮相",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737561.shtml",
+        "publishedAt": "2026-11-25T15:37:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T15:26:53.696+08:00",
+    "fetchedAt": "2026-11-25T15:47:13.739+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T15:26:54.464+08:00",
+      "fetchedAt": "2026-11-25T15:47:14.498+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T20:26:57.000+08:00"
+          "resetAt": "2026-11-25T20:47:16.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T15:26:54.467+08:00",
+      "fetchedAt": "2026-11-25T15:47:14.500+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T15:26:54.477+08:00",
+      "fetchedAt": "2026-11-25T15:47:14.506+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T15:26:54.477+08:00",
+      "fetchedAt": "2026-11-25T15:47:14.507+08:00",
       "error": "未启用",
       "disabled": true
     }
