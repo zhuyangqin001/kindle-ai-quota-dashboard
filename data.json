@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-25T16:28:11.477+08:00",
+  "updatedAt": "2026-11-25T16:38:24.288+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.6,
-    "feelsLikeC": 11.4,
-    "humidity": 48,
-    "windKph": 3.7,
-    "windDir": "东北风",
+    "tempC": 13.3,
+    "feelsLikeC": 11.3,
+    "humidity": 52,
+    "windKph": 3.2,
+    "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T16:28:11.477+08:00",
+    "observedAt": "2026-11-25T16:30:00.000+08:00",
+    "fetchedAt": "2026-11-25T16:38:24.288+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "东西问·兰花奖丨传奇教练艾丽森·安南：看见中国，不止于赛场",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737587.shtml",
-        "publishedAt": "2026-11-25T16:26:28.000+08:00"
+        "title": "从景观到服务 北京市属公园“精雕细琢”优化游园体验",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737595.shtml",
+        "publishedAt": "2026-11-25T16:33:22.000+08:00"
       },
       {
-        "title": "我国将牵头制定全球首个油气生产物联网国际标准",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737584.shtml",
-        "publishedAt": "2026-11-25T16:25:26.000+08:00"
+        "title": "广东美丽河湖见闻：三江汇清流 韩江白鹭飞",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737594.shtml",
+        "publishedAt": "2026-11-25T16:32:38.000+08:00"
       },
       {
-        "title": "河南省焦作市政协原党组成员、副主席吕沛被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737581.shtml",
-        "publishedAt": "2026-11-25T16:23:16.000+08:00"
+        "title": "沙退水进鸟归来：青土湖守住民勤绿洲“北大门”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737593.shtml",
+        "publishedAt": "2026-11-25T16:32:28.000+08:00"
       },
       {
-        "title": "一直夸一直夸，完全停不下来！返美后，特朗普连续多天夸赞中国之行",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737589.shtml",
-        "publishedAt": "2026-11-25T16:19:12.000+08:00"
+        "title": "网络人士的新赛道 乡村振兴的新力量——“益品村播 农创红瓦”实践创新基地激活新阶层建设力",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-25/10737590.shtml",
+        "publishedAt": "2026-11-25T16:28:52.000+08:00"
       },
       {
-        "title": "数字经济时代新型腐败行为的刑法规制与应对",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737588.shtml",
-        "publishedAt": "2026-11-25T16:19:08.000+08:00"
+        "title": "检察机关依法分别对唐福泉、孔德明、黄思明、崔勇提起公诉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737583.shtml",
+        "publishedAt": "2026-11-25T16:28:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T16:28:07.892+08:00",
+    "fetchedAt": "2026-11-25T16:38:20.631+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T16:28:08.620+08:00",
+      "fetchedAt": "2026-11-25T16:38:21.417+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T21:28:10.000+08:00"
+          "resetAt": "2026-11-25T21:38:23.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 24,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T16:28:08.624+08:00",
+      "fetchedAt": "2026-11-25T16:38:21.419+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T16:28:08.634+08:00",
+      "fetchedAt": "2026-11-25T16:38:21.429+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T16:28:08.634+08:00",
+      "fetchedAt": "2026-11-25T16:38:21.429+08:00",
       "error": "未启用",
       "disabled": true
     }
