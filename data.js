@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T15:06:28.089+08:00",
+  "updatedAt": "2026-11-25T15:16:43.256+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 14.9,
-    "feelsLikeC": 12.1,
-    "humidity": 39,
-    "windKph": 5.5,
+    "tempC": 14.2,
+    "feelsLikeC": 11.7,
+    "humidity": 43,
+    "windKph": 4.5,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T15:06:28.089+08:00",
+    "observedAt": "2026-11-25T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-25T15:16:43.256+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从酒泉到西安：母校师生见证武毅奔赴星海",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737537.shtml",
-        "publishedAt": "2026-11-25T14:59:09.000+08:00"
+        "title": "A股收评：超4900只个股飘绿，三大指数集体收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737546.shtml",
+        "publishedAt": "2026-11-25T15:10:22.000+08:00"
       },
       {
-        "title": "硬科技企业成长赋能专项行动阶段性成果在穗发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737538.shtml",
-        "publishedAt": "2026-11-25T14:58:47.000+08:00"
+        "title": "明星艺人航班信息是怎么流出的？典型案件起底来了",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737540.shtml",
+        "publishedAt": "2026-11-25T15:07:26.000+08:00"
       },
       {
-        "title": "尺素寄侨心 在侨乡青田探访“阿嬷的情书”",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-25/10737536.shtml",
-        "publishedAt": "2026-11-25T14:58:07.000+08:00"
+        "title": "11月25日“农产品批发价格200指数”比昨天上升0.15个点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737534.shtml",
+        "publishedAt": "2026-11-25T15:07:20.000+08:00"
       },
       {
-        "title": "神舟二十四号航天员乘组顺利进驻“天宫” 中外航天员实现首次“太空握手”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737539.shtml",
-        "publishedAt": "2026-11-25T14:57:17.000+08:00"
+        "title": "三山四先生——闽都四家书画展（第三回）福州启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737511.shtml",
+        "publishedAt": "2026-11-25T15:04:24.000+08:00"
       },
       {
-        "title": "习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737527.shtml",
-        "publishedAt": "2026-11-25T14:50:47.000+08:00"
+        "title": "看江苏睢宁“企业之家”助力县域营商生态之变",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737529.shtml",
+        "publishedAt": "2026-11-25T15:03:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T15:06:25.156+08:00",
+    "fetchedAt": "2026-11-25T15:16:39.498+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T15:06:25.933+08:00",
+      "fetchedAt": "2026-11-25T15:16:40.248+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T20:06:27.000+08:00"
+          "resetAt": "2026-11-25T20:16:42.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T15:06:25.936+08:00",
+      "fetchedAt": "2026-11-25T15:16:40.252+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T15:06:25.946+08:00",
+      "fetchedAt": "2026-11-25T15:16:40.260+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T15:06:25.946+08:00",
+      "fetchedAt": "2026-11-25T15:16:40.261+08:00",
       "error": "未启用",
       "disabled": true
     }
