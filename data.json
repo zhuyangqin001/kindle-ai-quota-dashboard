@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T21:34:31.620+08:00",
+  "updatedAt": "2026-11-25T21:44:44.107+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-25T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T21:34:31.620+08:00",
+    "fetchedAt": "2026-11-25T21:44:44.107+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东发布综合运输服务发展“十五五”规划",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737805.shtml",
-        "publishedAt": "2026-11-25T21:30:14.000+08:00"
+        "title": "乡村小学联动社会爱心团队 微光成炬共答育人题",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737808.shtml",
+        "publishedAt": "2026-11-25T21:38:55.000+08:00"
       },
       {
-        "title": "美军开始在日本冲绳常态部署新型战斗机",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737815.shtml",
-        "publishedAt": "2026-11-25T21:28:02.000+08:00"
+        "title": "“峡谷远，医者暖” 山海同心补齐边疆地区医疗短板",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737806.shtml",
+        "publishedAt": "2026-11-25T21:36:33.000+08:00"
       },
       {
-        "title": "澳门保安司司长谈2027年施政重点：以高水平安全护航高质量发展",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737803.shtml",
-        "publishedAt": "2026-11-25T21:28:00.000+08:00"
+        "title": "粤港澳大湾区法律部门联席会议在澳门举行 共商法律合作新路径",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737813.shtml",
+        "publishedAt": "2026-11-25T21:35:07.000+08:00"
       },
       {
-        "title": "专家：感知能力是机器人进入人类生活关键一步",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737801.shtml",
-        "publishedAt": "2026-11-25T21:27:18.000+08:00"
+        "title": "小鹏人形机器人IRON预计2027年1月进入硬件量产阶段",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737811.shtml",
+        "publishedAt": "2026-11-25T21:32:35.000+08:00"
       },
       {
-        "title": "陈文清赴德国出席第六次中德高级别安全对话",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737812.shtml",
-        "publishedAt": "2026-11-25T21:26:38.000+08:00"
+        "title": "港理大举办福建文化周活动 冀深化闽港人文交流",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737804.shtml",
+        "publishedAt": "2026-11-25T21:30:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T21:34:29.171+08:00",
+    "fetchedAt": "2026-11-25T21:44:41.119+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T21:34:29.887+08:00",
+      "fetchedAt": "2026-11-25T21:44:41.883+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T21:34:29.890+08:00",
+      "fetchedAt": "2026-11-25T21:44:41.886+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T21:34:29.900+08:00",
+      "fetchedAt": "2026-11-25T21:44:41.896+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T21:34:29.901+08:00",
+      "fetchedAt": "2026-11-25T21:44:41.896+08:00",
       "error": "未启用",
       "disabled": true
     }
