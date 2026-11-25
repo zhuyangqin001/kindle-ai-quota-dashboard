@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T21:14:01.924+08:00",
+  "updatedAt": "2026-11-25T21:24:17.566+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 11.5,
     "feelsLikeC": 9.7,
-    "humidity": 64,
-    "windKph": 3.3,
+    "humidity": 65,
+    "windKph": 3.5,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T21:14:01.925+08:00",
+    "observedAt": "2026-11-25T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-25T21:24:17.567+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "浙江多地最低气温创下半年新低 阴冷收尾将升温至“20℃+”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737790.shtml",
-        "publishedAt": "2026-11-25T21:04:47.000+08:00"
+        "title": "向“深”向“新” 两项全国创新大赛总决赛在杭启幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737794.shtml",
+        "publishedAt": "2026-11-25T21:16:40.000+08:00"
       },
       {
-        "title": "浙江杭州：古韵落廊桥 国乐赋新美",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737784.shtml",
-        "publishedAt": "2026-11-25T20:53:38.000+08:00"
+        "title": "20余名缅甸华裔昆明扬帆 “侨”见彩云南",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737793.shtml",
+        "publishedAt": "2026-11-25T21:14:12.000+08:00"
       },
       {
-        "title": "不惧千度烈焰 消防侦察狗在苏州完成实战演练",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737783.shtml",
-        "publishedAt": "2026-11-25T20:52:22.000+08:00"
+        "title": "中国足球“保守得最好的秘密”，藏在一个17岁高中生身上",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-25/10737800.shtml",
+        "publishedAt": "2026-11-25T21:13:14.000+08:00"
       },
       {
-        "title": "美媒：特朗普政府考虑将伊朗高层列为打击目标",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737789.shtml",
-        "publishedAt": "2026-11-25T20:52:20.000+08:00"
+        "title": "粤发布公路发展“十五五”规划：大湾区跨江跨海跨湾通道更完善",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737792.shtml",
+        "publishedAt": "2026-11-25T21:12:25.000+08:00"
       },
       {
-        "title": "广东中山：孙中山故居纪念馆游人如织",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737782.shtml",
-        "publishedAt": "2026-11-25T20:51:16.000+08:00"
+        "title": "重庆市人大社会委原副主任委员张兴益被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737802.shtml",
+        "publishedAt": "2026-11-25T21:12:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T21:13:58.349+08:00",
+    "fetchedAt": "2026-11-25T21:24:13.445+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T21:13:58.760+08:00",
+      "fetchedAt": "2026-11-25T21:24:14.221+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T21:13:58.762+08:00",
+      "fetchedAt": "2026-11-25T21:24:14.224+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T21:13:58.768+08:00",
+      "fetchedAt": "2026-11-25T21:24:14.234+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T21:13:58.768+08:00",
+      "fetchedAt": "2026-11-25T21:24:14.235+08:00",
       "error": "未启用",
       "disabled": true
     }
