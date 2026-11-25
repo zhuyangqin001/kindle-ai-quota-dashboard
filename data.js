@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T12:02:31.411+08:00",
+  "updatedAt": "2026-11-25T12:12:48.197+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-25T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T12:02:31.411+08:00",
+    "fetchedAt": "2026-11-25T12:12:48.197+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "神舟二十四号载人飞船成功对接于空间站天和核心舱前向端口",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737454.shtml",
+        "publishedAt": "2026-11-25T12:02:22.000+08:00"
+      },
+      {
+        "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737451.shtml",
+        "publishedAt": "2026-11-25T11:59:23.000+08:00"
+      },
       {
         "title": "会“拐弯”的指路牌，越多越好",
         "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737440.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "“走进卫健看发展”党外人士调研活动举行",
         "url": "https://www.chinanews.com.cn/txy/2026/11-25/10737447.shtml",
         "publishedAt": "2026-11-25T11:43:43.000+08:00"
-      },
-      {
-        "title": "河南郑州：西周青铜重器噩侯卣特展吸引中外游客",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737436.shtml",
-        "publishedAt": "2026-11-25T11:42:09.000+08:00"
-      },
-      {
-        "title": "坐火车注意 普速列车今起启用Z、N、V字头新车次",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737448.shtml",
-        "publishedAt": "2026-11-25T11:41:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T12:02:28.950+08:00",
+    "fetchedAt": "2026-11-25T12:12:44.908+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T12:02:29.682+08:00",
+      "fetchedAt": "2026-11-25T12:12:45.627+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T12:02:29.685+08:00",
+      "fetchedAt": "2026-11-25T12:12:45.630+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T12:02:29.695+08:00",
+      "fetchedAt": "2026-11-25T12:12:45.641+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T12:02:29.695+08:00",
+      "fetchedAt": "2026-11-25T12:12:45.641+08:00",
       "error": "未启用",
       "disabled": true
     }
