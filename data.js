@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T17:39:43.491+08:00",
+  "updatedAt": "2026-11-25T17:49:56.510+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 12.4,
     "feelsLikeC": 10.8,
     "humidity": 61,
-    "windKph": 2.4,
+    "windKph": 2,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T17:39:43.491+08:00",
+    "observedAt": "2026-11-25T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-25T17:49:56.511+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "交银金融科技有限公司原副总裁王浩被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737651.shtml",
-        "publishedAt": "2026-11-25T17:32:20.000+08:00"
+        "title": "国台办：日方应在台湾问题上尽快纠正错误言行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737652.shtml",
+        "publishedAt": "2026-11-25T17:47:56.000+08:00"
       },
       {
-        "title": "广州累计主导参与研制国际、国家、行业标准1.6万项",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737636.shtml",
-        "publishedAt": "2026-11-25T17:25:27.000+08:00"
+        "title": "马来西亚南侨机工后人访云南：“外公到底走了一条什么样的路？”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-25/10737639.shtml",
+        "publishedAt": "2026-11-25T17:46:22.000+08:00"
       },
       {
-        "title": "金建希“卖官鬻爵”案12月3日终审宣判",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737650.shtml",
-        "publishedAt": "2026-11-25T17:19:01.000+08:00"
+        "title": "“我的家乡开播了”发布：优质主播任家乡文化推荐官",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737664.shtml",
+        "publishedAt": "2026-11-25T17:45:34.000+08:00"
       },
       {
-        "title": "立行立改类问题整改率98.1% 2025年度山东审计整改报告出炉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737635.shtml",
-        "publishedAt": "2026-11-25T17:16:43.000+08:00"
+        "title": "冬日“小阳春”即将上线，月底会暖到多离谱？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737663.shtml",
+        "publishedAt": "2026-11-25T17:43:22.000+08:00"
       },
       {
-        "title": "宁夏贺兰山东麓葡萄酒产业园区党工委原书记黄思明被提起公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737634.shtml",
-        "publishedAt": "2026-11-25T17:14:23.000+08:00"
+        "title": "苏州举办专题活动纪念李政道诞辰100周年",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737637.shtml",
+        "publishedAt": "2026-11-25T17:34:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T17:39:39.891+08:00",
+    "fetchedAt": "2026-11-25T17:49:54.084+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T17:39:40.976+08:00",
+      "fetchedAt": "2026-11-25T17:49:54.863+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T22:39:42.000+08:00"
+          "resetAt": "2026-11-25T22:49:56.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T17:39:40.979+08:00",
+      "fetchedAt": "2026-11-25T17:49:54.867+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T17:39:40.990+08:00",
+      "fetchedAt": "2026-11-25T17:49:54.876+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T17:39:40.990+08:00",
+      "fetchedAt": "2026-11-25T17:49:54.877+08:00",
       "error": "未启用",
       "disabled": true
     }
