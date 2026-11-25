@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T20:43:28.683+08:00",
+  "updatedAt": "2026-11-25T21:03:48.128+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 11.5,
-    "feelsLikeC": 9.9,
-    "humidity": 63,
-    "windKph": 2.1,
+    "feelsLikeC": 9.7,
+    "humidity": 64,
+    "windKph": 3.3,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T20:43:28.683+08:00",
+    "observedAt": "2026-11-25T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-25T21:03:48.128+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广西发现新物种大明山冬青",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737775.shtml",
-        "publishedAt": "2026-11-25T20:32:25.000+08:00"
+        "title": "浙江杭州：古韵落廊桥 国乐赋新美",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737784.shtml",
+        "publishedAt": "2026-11-25T20:53:38.000+08:00"
       },
       {
-        "title": "外媒：特朗普长子小唐纳德·特朗普遭调查",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737781.shtml",
-        "publishedAt": "2026-11-25T20:32:01.000+08:00"
+        "title": "不惧千度烈焰 消防侦察狗在苏州完成实战演练",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737783.shtml",
+        "publishedAt": "2026-11-25T20:52:22.000+08:00"
       },
       {
-        "title": "王青峰任陕西省副省长",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737778.shtml",
-        "publishedAt": "2026-11-25T20:32:01.000+08:00"
+        "title": "美媒：特朗普政府考虑将伊朗高层列为打击目标",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737789.shtml",
+        "publishedAt": "2026-11-25T20:52:20.000+08:00"
       },
       {
-        "title": "杭州发布颠覆性技术及OPC创新应用场景清单",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737774.shtml",
-        "publishedAt": "2026-11-25T20:31:07.000+08:00"
+        "title": "广东中山：孙中山故居纪念馆游人如织",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737782.shtml",
+        "publishedAt": "2026-11-25T20:51:16.000+08:00"
       },
       {
-        "title": "钱俶墓志千年后首回杭 “太平年·天下同宁”大展二期开展",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737773.shtml",
-        "publishedAt": "2026-11-25T20:29:35.000+08:00"
+        "title": "走进“赣南最高围屋”——江西龙南燕翼围",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737766.shtml",
+        "publishedAt": "2026-11-25T20:49:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T20:43:25.179+08:00",
+    "fetchedAt": "2026-11-25T21:03:45.547+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T20:43:25.859+08:00",
+      "fetchedAt": "2026-11-25T21:03:46.275+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 25,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T20:43:25.861+08:00",
+      "fetchedAt": "2026-11-25T21:03:46.279+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T20:43:25.870+08:00",
+      "fetchedAt": "2026-11-25T21:03:46.288+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T20:43:25.870+08:00",
+      "fetchedAt": "2026-11-25T21:03:46.288+08:00",
       "error": "未启用",
       "disabled": true
     }
