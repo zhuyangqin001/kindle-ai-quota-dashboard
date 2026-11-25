@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-25T14:05:10.694+08:00",
+  "updatedAt": "2026-11-25T14:15:24.986+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 15.2,
-    "feelsLikeC": 12.5,
+    "feelsLikeC": 12.4,
     "humidity": 38,
-    "windKph": 5.3,
+    "windKph": 5.6,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T14:05:10.695+08:00",
+    "observedAt": "2026-11-25T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-25T14:15:24.986+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "河南博物院珍贵文物吸引中外游客",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737503.shtml",
+        "publishedAt": "2026-11-25T14:08:46.000+08:00"
+      },
+      {
+        "title": "从“一张弯板”到“全链智造” 广西容县激活林业产业发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737499.shtml",
+        "publishedAt": "2026-11-25T14:06:52.000+08:00"
+      },
+      {
+        "title": "大学开设“过日子课”火出圈 评论指其丰富劳动教育内涵",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-25/10737501.shtml",
+        "publishedAt": "2026-11-25T14:04:58.000+08:00"
+      },
       {
         "title": "特朗普：愿意赦免黄仁勋，但是没有必要",
         "url": "https://www.chinanews.com.cn/kong/2026/11-25/10737498.shtml",
@@ -28,24 +43,9 @@
         "title": "沙特主导联军袭击也门荷台达港 胡塞武装威胁沙特红海沿岸港口",
         "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737475.shtml",
         "publishedAt": "2026-11-25T13:56:34.000+08:00"
-      },
-      {
-        "title": "中国驻伊朗大使馆提醒在伊中国公民防范治安事件",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-25/10737497.shtml",
-        "publishedAt": "2026-11-25T13:53:10.000+08:00"
-      },
-      {
-        "title": "劳动者权益保障写入检察公益诉讼法，意味着什么？",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737495.shtml",
-        "publishedAt": "2026-11-25T13:50:29.000+08:00"
-      },
-      {
-        "title": "深耕中国丨唱空声再吵，挡不住外资“用脚投票”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737485.shtml",
-        "publishedAt": "2026-11-25T13:49:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T14:05:07.957+08:00",
+    "fetchedAt": "2026-11-25T14:15:22.136+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T14:05:08.738+08:00",
+      "fetchedAt": "2026-11-25T14:15:22.916+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T19:05:10.000+08:00"
+          "resetAt": "2026-11-25T19:15:24.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T14:05:08.741+08:00",
+      "fetchedAt": "2026-11-25T14:15:22.919+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T14:05:08.751+08:00",
+      "fetchedAt": "2026-11-25T14:15:22.929+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T14:05:08.751+08:00",
+      "fetchedAt": "2026-11-25T14:15:22.930+08:00",
       "error": "未启用",
       "disabled": true
     }
