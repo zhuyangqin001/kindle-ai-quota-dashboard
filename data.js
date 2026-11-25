@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T18:00:10.889+08:00",
+  "updatedAt": "2026-11-25T18:10:24.060+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-25T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T18:00:10.889+08:00",
+    "fetchedAt": "2026-11-25T18:10:24.060+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "宜丰县召开统战系统学习贯彻党的二十届五中全会精神座谈会",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-25/10737642.shtml",
+        "publishedAt": "2026-11-25T18:02:25.000+08:00"
+      },
       {
         "title": "安徽池州通报4岁男童走失：已无生命体征",
         "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737675.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（乡村行·看振兴）山西襄垣：母牛繁育“犇”出乡村振兴新路径",
         "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737656.shtml",
         "publishedAt": "2026-11-25T17:50:37.000+08:00"
-      },
-      {
-        "title": "前十月锂电池出口大增137% 常州对非洲贸易增三成",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737655.shtml",
-        "publishedAt": "2026-11-25T17:50:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T18:00:06.965+08:00",
+    "fetchedAt": "2026-11-25T18:10:20.353+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T18:00:07.750+08:00",
+      "fetchedAt": "2026-11-25T18:10:21.115+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T23:00:09.000+08:00"
+          "resetAt": "2026-11-25T23:10:23.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T18:00:07.754+08:00",
+      "fetchedAt": "2026-11-25T18:10:21.119+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T18:00:07.764+08:00",
+      "fetchedAt": "2026-11-25T18:10:21.129+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T18:00:07.764+08:00",
+      "fetchedAt": "2026-11-25T18:10:21.129+08:00",
       "error": "未启用",
       "disabled": true
     }
