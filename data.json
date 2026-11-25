@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-25T16:38:24.288+08:00",
+  "updatedAt": "2026-11-25T16:48:36.734+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.3,
-    "feelsLikeC": 11.3,
-    "humidity": 52,
-    "windKph": 3.2,
+    "tempC": 12.9,
+    "feelsLikeC": 11.1,
+    "humidity": 56,
+    "windKph": 3.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T16:38:24.288+08:00",
+    "observedAt": "2026-11-25T16:45:00.000+08:00",
+    "fetchedAt": "2026-11-25T16:48:36.734+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "数字时代，真实历史信息删除请求的司法审查路径",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737592.shtml",
+        "publishedAt": "2026-11-25T16:37:35.000+08:00"
+      },
+      {
+        "title": "银川第三热源项目启动建设 打造绿色清洁供热新支撑",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737600.shtml",
+        "publishedAt": "2026-11-25T16:34:38.000+08:00"
+      },
+      {
+        "title": "广西构建梯次试点体系 因地制宜深化农村综合改革",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737598.shtml",
+        "publishedAt": "2026-11-25T16:33:32.000+08:00"
+      },
       {
         "title": "从景观到服务 北京市属公园“精雕细琢”优化游园体验",
         "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737595.shtml",
@@ -28,24 +43,9 @@
         "title": "广东美丽河湖见闻：三江汇清流 韩江白鹭飞",
         "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737594.shtml",
         "publishedAt": "2026-11-25T16:32:38.000+08:00"
-      },
-      {
-        "title": "沙退水进鸟归来：青土湖守住民勤绿洲“北大门”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737593.shtml",
-        "publishedAt": "2026-11-25T16:32:28.000+08:00"
-      },
-      {
-        "title": "网络人士的新赛道 乡村振兴的新力量——“益品村播 农创红瓦”实践创新基地激活新阶层建设力",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-25/10737590.shtml",
-        "publishedAt": "2026-11-25T16:28:52.000+08:00"
-      },
-      {
-        "title": "检察机关依法分别对唐福泉、孔德明、黄思明、崔勇提起公诉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737583.shtml",
-        "publishedAt": "2026-11-25T16:28:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T16:38:20.631+08:00",
+    "fetchedAt": "2026-11-25T16:48:34.012+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T16:38:21.417+08:00",
+      "fetchedAt": "2026-11-25T16:48:34.818+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T21:38:23.000+08:00"
+          "resetAt": "2026-11-25T21:48:36.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T16:38:21.419+08:00",
+      "fetchedAt": "2026-11-25T16:48:34.822+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T16:38:21.429+08:00",
+      "fetchedAt": "2026-11-25T16:48:34.832+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T16:38:21.429+08:00",
+      "fetchedAt": "2026-11-25T16:48:34.832+08:00",
       "error": "未启用",
       "disabled": true
     }
