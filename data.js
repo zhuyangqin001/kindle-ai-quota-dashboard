@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T13:03:53.433+08:00",
+  "updatedAt": "2026-11-25T13:14:07.082+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-25T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T13:03:53.433+08:00",
+    "fetchedAt": "2026-11-25T13:14:07.082+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中美贸易理事会项下农业工作组首次会议在京举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737474.shtml",
+        "publishedAt": "2026-11-25T13:08:57.000+08:00"
+      },
+      {
+        "title": "伪装成科技公司搞舆情敲诈？这个恶势力团伙覆灭了",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737472.shtml",
+        "publishedAt": "2026-11-25T13:04:35.000+08:00"
+      },
+      {
+        "title": "开窗通风仍中毒，两人深夜送医！近期千万警惕",
+        "url": "https://www.chinanews.com.cn/life/2026/11-25/10737471.shtml",
+        "publishedAt": "2026-11-25T13:00:01.000+08:00"
+      },
       {
         "title": "台媒关注张凌赫田曦薇网络直播 国台办回应",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737469.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "花10万“免试拿硕士学位”？法官判定：合同无效",
         "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737465.shtml",
         "publishedAt": "2026-11-25T12:30:17.000+08:00"
-      },
-      {
-        "title": "朝中社：朝鲜驱逐瑞士外交办事处代表 限其48小时内离境",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737460.shtml",
-        "publishedAt": "2026-11-25T12:13:18.000+08:00"
-      },
-      {
-        "title": "国台办回应特朗普表示美国不支持“台独”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737459.shtml",
-        "publishedAt": "2026-11-25T12:12:12.000+08:00"
-      },
-      {
-        "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737456.shtml",
-        "publishedAt": "2026-11-25T12:04:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T13:03:50.312+08:00",
+    "fetchedAt": "2026-11-25T13:14:03.865+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T13:03:51.088+08:00",
+      "fetchedAt": "2026-11-25T13:14:04.631+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 21,
-          "resetAt": "2026-11-25T13:05:10.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-25T18:14:06.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T13:03:51.091+08:00",
+      "fetchedAt": "2026-11-25T13:14:04.635+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T13:03:51.101+08:00",
+      "fetchedAt": "2026-11-25T13:14:04.645+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T13:03:51.101+08:00",
+      "fetchedAt": "2026-11-25T13:14:04.646+08:00",
       "error": "未启用",
       "disabled": true
     }
