@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-25T21:54:59.167+08:00",
+  "updatedAt": "2026-11-25T22:05:11.328+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 11.5,
+    "tempC": 11.4,
     "feelsLikeC": 9.6,
-    "humidity": 65,
-    "windKph": 4.1,
+    "humidity": 66,
+    "windKph": 4.2,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-25T21:54:59.167+08:00",
+    "observedAt": "2026-11-25T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-25T22:05:11.328+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "王毅同荷兰外交大臣贝伦德森会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737829.shtml",
-        "publishedAt": "2026-11-25T21:49:56.000+08:00"
+        "title": "浙江镇海：百年老渡口变身市民文艺新舞台",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737836.shtml",
+        "publishedAt": "2026-11-25T22:00:00.000+08:00"
       },
       {
-        "title": "中荷外长共识声明",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737833.shtml",
-        "publishedAt": "2026-11-25T21:49:21.000+08:00"
+        "title": "英国能源限价2027年将大幅上调",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737822.shtml",
+        "publishedAt": "2026-11-25T21:55:38.000+08:00"
       },
       {
-        "title": "广州互联网法院发布涉网平台协助执行指引及典型案例",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737826.shtml",
-        "publishedAt": "2026-11-25T21:47:47.000+08:00"
+        "title": "厦门推进服务业扩能提质 深化两岸融合发展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737832.shtml",
+        "publishedAt": "2026-11-25T21:53:44.000+08:00"
       },
       {
-        "title": "黑龙江迎大范围降雪 局地暴雪伴雨夹雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737825.shtml",
-        "publishedAt": "2026-11-25T21:46:41.000+08:00"
+        "title": "一碗凉茶喻广府家事：电影《二十四味》在广州推介",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737831.shtml",
+        "publishedAt": "2026-11-25T21:53:12.000+08:00"
       },
       {
-        "title": "涉130万使用者个人信息！售票网站遭黑客入侵，香港有关部门已报警",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737828.shtml",
-        "publishedAt": "2026-11-25T21:45:49.000+08:00"
+        "title": "香港对航运有关活动及实物大宗商品交易提供税务宽减",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737830.shtml",
+        "publishedAt": "2026-11-25T21:52:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T21:54:55.551+08:00",
+    "fetchedAt": "2026-11-25T22:05:08.179+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T21:54:56.310+08:00",
+      "fetchedAt": "2026-11-25T22:05:08.898+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T21:54:56.313+08:00",
+      "fetchedAt": "2026-11-25T22:05:08.901+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T21:54:56.323+08:00",
+      "fetchedAt": "2026-11-25T22:05:08.911+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T21:54:56.323+08:00",
+      "fetchedAt": "2026-11-25T22:05:08.912+08:00",
       "error": "未启用",
       "disabled": true
     }
