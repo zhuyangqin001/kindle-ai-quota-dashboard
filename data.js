@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T21:03:48.128+08:00",
+  "updatedAt": "2026-11-25T21:14:01.924+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-25T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T21:03:48.128+08:00",
+    "fetchedAt": "2026-11-25T21:14:01.925+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "浙江多地最低气温创下半年新低 阴冷收尾将升温至“20℃+”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737790.shtml",
+        "publishedAt": "2026-11-25T21:04:47.000+08:00"
+      },
       {
         "title": "浙江杭州：古韵落廊桥 国乐赋新美",
         "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737784.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "广东中山：孙中山故居纪念馆游人如织",
         "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737782.shtml",
         "publishedAt": "2026-11-25T20:51:16.000+08:00"
-      },
-      {
-        "title": "走进“赣南最高围屋”——江西龙南燕翼围",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737766.shtml",
-        "publishedAt": "2026-11-25T20:49:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T21:03:45.547+08:00",
+    "fetchedAt": "2026-11-25T21:13:58.349+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T21:03:46.275+08:00",
+      "fetchedAt": "2026-11-25T21:13:58.760+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 25,
-          "resetAt": "2026-11-28T20:15:45.000+08:00"
+          "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T21:03:46.279+08:00",
+      "fetchedAt": "2026-11-25T21:13:58.762+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T21:03:46.288+08:00",
+      "fetchedAt": "2026-11-25T21:13:58.768+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T21:03:46.288+08:00",
+      "fetchedAt": "2026-11-25T21:13:58.768+08:00",
       "error": "未启用",
       "disabled": true
     }
