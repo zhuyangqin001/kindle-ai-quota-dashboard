@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-25T08:20:11.014+08:00",
+  "updatedAt": "2026-11-25T12:02:31.411+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 9,
-    "feelsLikeC": 6,
-    "humidity": 63,
-    "windKph": 8.3,
-    "windDir": "东风",
+    "tempC": 14.7,
+    "feelsLikeC": 12.1,
+    "humidity": 43,
+    "windKph": 5.4,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T08:20:11.014+08:00",
+    "observedAt": "2026-11-25T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-25T12:02:31.411+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "网警查处两起不履行网络安全、数据安全保护义务案",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737294.shtml",
-        "publishedAt": "2026-11-25T08:05:05.000+08:00"
+        "title": "会“拐弯”的指路牌，越多越好",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737440.shtml",
+        "publishedAt": "2026-11-25T11:53:01.000+08:00"
       },
       {
-        "title": "买盲盒先办会员，此风不可长",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737292.shtml",
-        "publishedAt": "2026-11-25T07:56:52.000+08:00"
+        "title": "专家称，医药行业开始陆续进入复苏提振新周期",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-25/10737450.shtml",
+        "publishedAt": "2026-11-25T11:48:39.000+08:00"
       },
       {
-        "title": "“大脑”请回话",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737291.shtml",
-        "publishedAt": "2026-11-25T07:47:16.000+08:00"
+        "title": "“走进卫健看发展”党外人士调研活动举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-25/10737447.shtml",
+        "publishedAt": "2026-11-25T11:43:43.000+08:00"
       },
       {
-        "title": "顶尖AI学院，用“古法教学”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737290.shtml",
-        "publishedAt": "2026-11-25T07:43:18.000+08:00"
+        "title": "河南郑州：西周青铜重器噩侯卣特展吸引中外游客",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737436.shtml",
+        "publishedAt": "2026-11-25T11:42:09.000+08:00"
       },
       {
-        "title": "投资金条为何受热捧",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737289.shtml",
-        "publishedAt": "2026-11-25T07:37:03.000+08:00"
+        "title": "坐火车注意 普速列车今起启用Z、N、V字头新车次",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737448.shtml",
+        "publishedAt": "2026-11-25T11:41:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T08:20:07.674+08:00",
+    "fetchedAt": "2026-11-25T12:02:28.950+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T08:20:08.445+08:00",
+      "fetchedAt": "2026-11-25T12:02:29.682+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 5,
+          "usedPct": 19,
           "resetAt": "2026-11-25T13:05:10.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 21,
-          "resetAt": "2026-11-28T20:15:45.000+08:00"
+          "usedPct": 24,
+          "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T08:20:08.449+08:00",
+      "fetchedAt": "2026-11-25T12:02:29.685+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T08:20:08.459+08:00",
+      "fetchedAt": "2026-11-25T12:02:29.695+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T08:20:08.459+08:00",
+      "fetchedAt": "2026-11-25T12:02:29.695+08:00",
       "error": "未启用",
       "disabled": true
     }
