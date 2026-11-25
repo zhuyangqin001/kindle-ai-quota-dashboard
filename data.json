@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-25T16:07:46.814+08:00",
+  "updatedAt": "2026-11-25T16:17:59.092+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 13.9,
-    "feelsLikeC": 11.5,
-    "humidity": 45,
-    "windKph": 4.1,
+    "tempC": 13.6,
+    "feelsLikeC": 11.4,
+    "humidity": 48,
+    "windKph": 3.7,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-25T16:07:46.814+08:00",
+    "observedAt": "2026-11-25T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-25T16:17:59.092+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "从“接处警提速”到“码上监督” 山西公安“十五五”执法规范化再升级",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737577.shtml",
+        "publishedAt": "2026-11-25T16:11:03.000+08:00"
+      },
+      {
+        "title": "从制造到参与定义技术 湖南娄底“材料谷”吸引外资持续增资扩产",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737578.shtml",
+        "publishedAt": "2026-11-25T16:10:53.000+08:00"
+      },
+      {
+        "title": "段继阳任辽宁省人民政府秘书长",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737579.shtml",
+        "publishedAt": "2026-11-25T16:10:05.000+08:00"
+      },
+      {
+        "title": "伪造身份多线布设婚恋骗局 男子因犯诈骗罪获刑",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737580.shtml",
+        "publishedAt": "2026-11-25T16:02:39.000+08:00"
+      },
+      {
         "title": "中方谈中巴航天员共赴“天宫”：中国载人航天工程国际合作新的里程碑",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737564.shtml",
         "publishedAt": "2026-11-25T16:00:41.000+08:00"
-      },
-      {
-        "title": "佛具店老板以“消灾解难”为名销售佛像诈骗近13万元",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737574.shtml",
-        "publishedAt": "2026-11-25T15:54:42.000+08:00"
-      },
-      {
-        "title": "中方：各国在发展同太平洋岛国关系时，有关合作不应针对第三方",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737575.shtml",
-        "publishedAt": "2026-11-25T15:52:42.000+08:00"
-      },
-      {
-        "title": "江西青原：统战赋能 小菌菇撑起乡村振兴“致富伞”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737567.shtml",
-        "publishedAt": "2026-11-25T15:50:30.000+08:00"
-      },
-      {
-        "title": "著名数学家彼得·萨纳克获得首届潘承洞奖",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737568.shtml",
-        "publishedAt": "2026-11-25T15:49:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T16:07:42.856+08:00",
+    "fetchedAt": "2026-11-25T16:17:56.376+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T16:07:43.646+08:00",
+      "fetchedAt": "2026-11-25T16:17:57.162+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T21:07:46.000+08:00"
+          "resetAt": "2026-11-25T21:17:58.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T16:07:43.650+08:00",
+      "fetchedAt": "2026-11-25T16:17:57.165+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T16:07:43.661+08:00",
+      "fetchedAt": "2026-11-25T16:17:57.176+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T16:07:43.661+08:00",
+      "fetchedAt": "2026-11-25T16:17:57.176+08:00",
       "error": "未启用",
       "disabled": true
     }
