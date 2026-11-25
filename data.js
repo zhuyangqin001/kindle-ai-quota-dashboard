@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T17:29:29.946+08:00",
+  "updatedAt": "2026-11-25T17:39:43.491+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.5,
-    "feelsLikeC": 10.9,
-    "humidity": 60,
-    "windKph": 2.8,
+    "tempC": 12.4,
+    "feelsLikeC": 10.8,
+    "humidity": 61,
+    "windKph": 2.4,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T17:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T17:29:29.946+08:00",
+    "observedAt": "2026-11-25T17:30:00.000+08:00",
+    "fetchedAt": "2026-11-25T17:39:43.491+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "交银金融科技有限公司原副总裁王浩被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737651.shtml",
+        "publishedAt": "2026-11-25T17:32:20.000+08:00"
+      },
       {
         "title": "广州累计主导参与研制国际、国家、行业标准1.6万项",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737636.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "宁夏贺兰山东麓葡萄酒产业园区党工委原书记黄思明被提起公诉",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737634.shtml",
         "publishedAt": "2026-11-25T17:14:23.000+08:00"
-      },
-      {
-        "title": "尼泊尔泥石流受灾区开始发放住房租赁补贴",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737628.shtml",
-        "publishedAt": "2026-11-25T17:09:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T17:29:26.088+08:00",
+    "fetchedAt": "2026-11-25T17:39:39.891+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T17:29:26.570+08:00",
+      "fetchedAt": "2026-11-25T17:39:40.976+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T22:29:29.000+08:00"
+          "resetAt": "2026-11-25T22:39:42.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 24,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T17:29:26.573+08:00",
+      "fetchedAt": "2026-11-25T17:39:40.979+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T17:29:26.581+08:00",
+      "fetchedAt": "2026-11-25T17:39:40.990+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T17:29:26.581+08:00",
+      "fetchedAt": "2026-11-25T17:39:40.990+08:00",
       "error": "未启用",
       "disabled": true
     }
