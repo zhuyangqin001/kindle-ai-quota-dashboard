@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T16:48:36.734+08:00",
+  "updatedAt": "2026-11-25T16:58:50.067+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-25T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-25T16:48:36.734+08:00",
+    "fetchedAt": "2026-11-25T16:58:50.067+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "数字时代，真实历史信息删除请求的司法审查路径",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737592.shtml",
-        "publishedAt": "2026-11-25T16:37:35.000+08:00"
+        "title": "咳嗽频发不只是因为受凉 这几种情况必须及时就医",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-25/10737627.shtml",
+        "publishedAt": "2026-11-25T16:55:50.000+08:00"
       },
       {
-        "title": "银川第三热源项目启动建设 打造绿色清洁供热新支撑",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737600.shtml",
-        "publishedAt": "2026-11-25T16:34:38.000+08:00"
+        "title": "信贷诈骗犯罪的区分逻辑与裁判校准",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737624.shtml",
+        "publishedAt": "2026-11-25T16:51:45.000+08:00"
       },
       {
-        "title": "广西构建梯次试点体系 因地制宜深化农村综合改革",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737598.shtml",
-        "publishedAt": "2026-11-25T16:33:32.000+08:00"
+        "title": "“新名”“新车”新期待，一路驰骋向未来",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737622.shtml",
+        "publishedAt": "2026-11-25T16:50:37.000+08:00"
       },
       {
-        "title": "从景观到服务 北京市属公园“精雕细琢”优化游园体验",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737595.shtml",
-        "publishedAt": "2026-11-25T16:33:22.000+08:00"
+        "title": "“十五五”时期我国将持续深化“一带一路”经贸合作",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-25/10737621.shtml",
+        "publishedAt": "2026-11-25T16:50:23.000+08:00"
       },
       {
-        "title": "广东美丽河湖见闻：三江汇清流 韩江白鹭飞",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737594.shtml",
-        "publishedAt": "2026-11-25T16:32:38.000+08:00"
+        "title": "朝鲜驱逐瑞士外交办事处代表",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737612.shtml",
+        "publishedAt": "2026-11-25T16:49:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T16:48:34.012+08:00",
+    "fetchedAt": "2026-11-25T16:58:47.124+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T16:48:34.818+08:00",
+      "fetchedAt": "2026-11-25T16:58:47.891+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T21:48:36.000+08:00"
+          "resetAt": "2026-11-25T21:58:49.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T16:48:34.822+08:00",
+      "fetchedAt": "2026-11-25T16:58:47.895+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T16:48:34.832+08:00",
+      "fetchedAt": "2026-11-25T16:58:47.904+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T16:48:34.832+08:00",
+      "fetchedAt": "2026-11-25T16:58:47.905+08:00",
       "error": "未启用",
       "disabled": true
     }
