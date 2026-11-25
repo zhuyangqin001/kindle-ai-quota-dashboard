@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T19:42:17.024+08:00",
+  "updatedAt": "2026-11-25T19:52:30.550+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 12.1,
     "feelsLikeC": 10.7,
     "humidity": 61,
-    "windKph": 0.9,
+    "windKph": 0.4,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-25T19:42:17.024+08:00",
+    "observedAt": "2026-11-25T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-25T19:52:30.550+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "丁薛祥会见荷兰外交大臣贝伦德森",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737748.shtml",
+        "publishedAt": "2026-11-25T19:43:39.000+08:00"
+      },
       {
         "title": "2026年宁夏已储备养老服务等各类项目150余个",
         "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737721.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "上海浦东发布数智赋能十大样本 加快前沿技术落地制造一线",
         "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737712.shtml",
         "publishedAt": "2026-11-25T19:19:43.000+08:00"
-      },
-      {
-        "title": "68岁秦岭“小慢车”焕新 一站一停总关情",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737715.shtml",
-        "publishedAt": "2026-11-25T19:19:37.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T19:42:13.581+08:00",
+    "fetchedAt": "2026-11-25T19:52:26.623+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T19:42:14.340+08:00",
+      "fetchedAt": "2026-11-25T19:52:27.414+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T00:42:16.000+08:00"
+          "resetAt": "2026-11-26T00:52:30.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 24,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T19:42:14.343+08:00",
+      "fetchedAt": "2026-11-25T19:52:27.417+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T19:42:14.353+08:00",
+      "fetchedAt": "2026-11-25T19:52:27.424+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T19:42:14.354+08:00",
+      "fetchedAt": "2026-11-25T19:52:27.424+08:00",
       "error": "未启用",
       "disabled": true
     }
