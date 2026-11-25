@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T14:56:14.757+08:00",
+  "updatedAt": "2026-11-25T15:06:28.089+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 15,
-    "feelsLikeC": 12.2,
-    "humidity": 38,
-    "windKph": 5.9,
+    "tempC": 14.9,
+    "feelsLikeC": 12.1,
+    "humidity": 39,
+    "windKph": 5.5,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-25T14:56:14.758+08:00",
+    "observedAt": "2026-11-25T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-25T15:06:28.089+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "从酒泉到西安：母校师生见证武毅奔赴星海",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737537.shtml",
+        "publishedAt": "2026-11-25T14:59:09.000+08:00"
+      },
+      {
+        "title": "硬科技企业成长赋能专项行动阶段性成果在穗发布",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737538.shtml",
+        "publishedAt": "2026-11-25T14:58:47.000+08:00"
+      },
+      {
+        "title": "尺素寄侨心 在侨乡青田探访“阿嬷的情书”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-25/10737536.shtml",
+        "publishedAt": "2026-11-25T14:58:07.000+08:00"
+      },
+      {
+        "title": "神舟二十四号航天员乘组顺利进驻“天宫” 中外航天员实现首次“太空握手”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737539.shtml",
+        "publishedAt": "2026-11-25T14:57:17.000+08:00"
+      },
+      {
         "title": "习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737527.shtml",
         "publishedAt": "2026-11-25T14:50:47.000+08:00"
-      },
-      {
-        "title": "见证历史！中外航天员在中国空间站合影",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737532.shtml",
-        "publishedAt": "2026-11-25T14:49:23.000+08:00"
-      },
-      {
-        "title": "美国一小型飞机坠海 机上6人下落不明",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737528.shtml",
-        "publishedAt": "2026-11-25T14:46:51.000+08:00"
-      },
-      {
-        "title": "阿尔山邀中外滑雪爱好者赴中国北疆追“雪”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737525.shtml",
-        "publishedAt": "2026-11-25T14:42:04.000+08:00"
-      },
-      {
-        "title": "中外航天员实现首次“太空握手” 神二十四乘组顺利进驻“天宫”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737524.shtml",
-        "publishedAt": "2026-11-25T14:38:26.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T14:56:10.939+08:00",
+    "fetchedAt": "2026-11-25T15:06:25.156+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T14:56:11.704+08:00",
+      "fetchedAt": "2026-11-25T15:06:25.933+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T19:56:13.000+08:00"
+          "resetAt": "2026-11-25T20:06:27.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T14:56:11.707+08:00",
+      "fetchedAt": "2026-11-25T15:06:25.936+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T14:56:11.717+08:00",
+      "fetchedAt": "2026-11-25T15:06:25.946+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T14:56:11.718+08:00",
+      "fetchedAt": "2026-11-25T15:06:25.946+08:00",
       "error": "未启用",
       "disabled": true
     }
