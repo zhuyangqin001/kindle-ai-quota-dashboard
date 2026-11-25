@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T18:20:38.590+08:00",
+  "updatedAt": "2026-11-25T18:30:50.423+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 12.3,
-    "feelsLikeC": 10.8,
+    "tempC": 12.2,
+    "feelsLikeC": 10.7,
     "humidity": 61,
     "windKph": 1.7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T18:20:38.590+08:00",
+    "observedAt": "2026-11-25T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-25T18:30:50.423+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "冷空气持续影响 广东最低气温降至10.3℃",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737690.shtml",
+        "publishedAt": "2026-11-25T18:18:56.000+08:00"
+      },
       {
         "title": "“援”定天山：河南援疆力量助“柳羊羊”出天山 成致富“带头羊”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737689.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "（乡村行·看振兴）广西柳江“一棚双收”：葡萄架下彩椒香 立体套种助增收",
         "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737671.shtml",
         "publishedAt": "2026-11-25T18:15:26.000+08:00"
-      },
-      {
-        "title": "一株小灵芝铺就山海共富路",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737660.shtml",
-        "publishedAt": "2026-11-25T18:14:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T18:20:35.818+08:00",
+    "fetchedAt": "2026-11-25T18:30:47.555+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T18:20:36.558+08:00",
+      "fetchedAt": "2026-11-25T18:30:48.172+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T23:20:38.000+08:00"
+          "resetAt": "2026-11-25T23:30:50.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T18:20:36.562+08:00",
+      "fetchedAt": "2026-11-25T18:30:48.175+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T18:20:36.572+08:00",
+      "fetchedAt": "2026-11-25T18:30:48.184+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T18:20:36.572+08:00",
+      "fetchedAt": "2026-11-25T18:30:48.184+08:00",
       "error": "未启用",
       "disabled": true
     }
