@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T22:15:26.069+08:00",
+  "updatedAt": "2026-11-25T22:25:43.248+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-25T22:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T22:15:26.069+08:00",
+    "fetchedAt": "2026-11-25T22:25:43.248+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中外旅行商携手开发内蒙古冰雪旅游市场",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737841.shtml",
+        "publishedAt": "2026-11-25T22:14:37.000+08:00"
+      },
+      {
+        "title": "海内外客商齐聚哈尔滨共拓入境文旅合作通道",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737840.shtml",
+        "publishedAt": "2026-11-25T22:13:53.000+08:00"
+      },
       {
         "title": "孙中山先生赠予的山茶花里，藏着百年家国情",
         "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737839.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "浙西山地间，油茶产业“长出新枝”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737838.shtml",
         "publishedAt": "2026-11-25T22:02:24.000+08:00"
-      },
-      {
-        "title": "醒木一拍二十载 杭州运河畔书场以IP共创续文脉",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737837.shtml",
-        "publishedAt": "2026-11-25T22:01:24.000+08:00"
-      },
-      {
-        "title": "浙江镇海：百年老渡口变身市民文艺新舞台",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737836.shtml",
-        "publishedAt": "2026-11-25T22:00:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T22:15:22.701+08:00",
+    "fetchedAt": "2026-11-25T22:25:37.098+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T22:15:23.469+08:00",
+      "fetchedAt": "2026-11-25T22:25:37.836+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -73,7 +73,9 @@ window.DASH_DATA = {
         }
       ],
       "fetchedAt": "2026-11-25T22:15:23.472+08:00",
-      "error": null
+      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
+      "stale": true,
+      "lastAttemptAt": "2026-11-25T22:25:37.840+08:00"
     },
     "mimo": {
       "ok": false,
@@ -81,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T22:15:23.481+08:00",
+      "fetchedAt": "2026-11-25T22:25:37.850+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T22:15:23.482+08:00",
+      "fetchedAt": "2026-11-25T22:25:37.850+08:00",
       "error": "未启用",
       "disabled": true
     }
