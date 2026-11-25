@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T23:16:29.611+08:00",
+  "updatedAt": "2026-11-26T00:07:14.028+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 11,
-    "feelsLikeC": 9.8,
-    "humidity": 74,
-    "windKph": 2.3,
+    "feelsLikeC": 9.7,
+    "humidity": 75,
+    "windKph": 3.1,
     "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-25T23:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T23:16:29.611+08:00",
+    "observedAt": "2026-11-26T00:00:00.000+08:00",
+    "fetchedAt": "2026-11-26T00:07:14.028+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中外旅行商携手开发内蒙古冰雪旅游市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737841.shtml",
-        "publishedAt": "2026-11-25T22:14:37.000+08:00"
+        "title": "德国下调三季度经济增速至0.1%",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737848.shtml",
+        "publishedAt": "2026-11-25T23:27:15.000+08:00"
       },
       {
-        "title": "海内外客商齐聚哈尔滨共拓入境文旅合作通道",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737840.shtml",
-        "publishedAt": "2026-11-25T22:13:53.000+08:00"
+        "title": "见证历史！神舟二十四号载人飞行任务全记录",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737851.shtml",
+        "publishedAt": "2026-11-25T23:26:27.000+08:00"
       },
       {
-        "title": "孙中山先生赠予的山茶花里，藏着百年家国情",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737839.shtml",
-        "publishedAt": "2026-11-25T22:05:26.000+08:00"
+        "title": "图说百科｜流感防治8问8答",
+        "url": "https://www.chinanews.com.cn/life/2026/11-25/10737850.shtml",
+        "publishedAt": "2026-11-25T23:24:29.000+08:00"
       },
       {
-        "title": "中方呼吁申办《海洋生物多样性协定》秘书处相关国家友好合作、合理竞争",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737835.shtml",
-        "publishedAt": "2026-11-25T22:03:32.000+08:00"
+        "title": "各地全力推进冬修水利",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737849.shtml",
+        "publishedAt": "2026-11-25T23:22:02.000+08:00"
       },
       {
-        "title": "浙西山地间，油茶产业“长出新枝”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737838.shtml",
-        "publishedAt": "2026-11-25T22:02:24.000+08:00"
+        "title": "李家超：冀香港中总助力内地企业拼船出海",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737847.shtml",
+        "publishedAt": "2026-11-25T23:13:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T23:16:24.593+08:00",
+    "fetchedAt": "2026-11-26T00:07:10.691+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T23:16:25.351+08:00",
+      "fetchedAt": "2026-11-26T00:07:11.500+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T23:16:25.354+08:00",
+      "fetchedAt": "2026-11-26T00:07:11.504+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T23:16:25.364+08:00",
+      "fetchedAt": "2026-11-26T00:07:11.514+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T23:16:25.364+08:00",
+      "fetchedAt": "2026-11-26T00:07:11.514+08:00",
       "error": "未启用",
       "disabled": true
     }
