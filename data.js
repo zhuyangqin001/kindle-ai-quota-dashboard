@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-25T16:17:59.092+08:00",
+  "updatedAt": "2026-11-25T16:28:11.477+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-25T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-25T16:17:59.092+08:00",
+    "fetchedAt": "2026-11-25T16:28:11.477+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从“接处警提速”到“码上监督” 山西公安“十五五”执法规范化再升级",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737577.shtml",
-        "publishedAt": "2026-11-25T16:11:03.000+08:00"
+        "title": "东西问·兰花奖丨传奇教练艾丽森·安南：看见中国，不止于赛场",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737587.shtml",
+        "publishedAt": "2026-11-25T16:26:28.000+08:00"
       },
       {
-        "title": "从制造到参与定义技术 湖南娄底“材料谷”吸引外资持续增资扩产",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737578.shtml",
-        "publishedAt": "2026-11-25T16:10:53.000+08:00"
+        "title": "我国将牵头制定全球首个油气生产物联网国际标准",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737584.shtml",
+        "publishedAt": "2026-11-25T16:25:26.000+08:00"
       },
       {
-        "title": "段继阳任辽宁省人民政府秘书长",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737579.shtml",
-        "publishedAt": "2026-11-25T16:10:05.000+08:00"
+        "title": "河南省焦作市政协原党组成员、副主席吕沛被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737581.shtml",
+        "publishedAt": "2026-11-25T16:23:16.000+08:00"
       },
       {
-        "title": "伪造身份多线布设婚恋骗局 男子因犯诈骗罪获刑",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737580.shtml",
-        "publishedAt": "2026-11-25T16:02:39.000+08:00"
+        "title": "一直夸一直夸，完全停不下来！返美后，特朗普连续多天夸赞中国之行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737589.shtml",
+        "publishedAt": "2026-11-25T16:19:12.000+08:00"
       },
       {
-        "title": "中方谈中巴航天员共赴“天宫”：中国载人航天工程国际合作新的里程碑",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737564.shtml",
-        "publishedAt": "2026-11-25T16:00:41.000+08:00"
+        "title": "数字经济时代新型腐败行为的刑法规制与应对",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-25/10737588.shtml",
+        "publishedAt": "2026-11-25T16:19:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-25T16:17:56.376+08:00",
+    "fetchedAt": "2026-11-25T16:28:07.892+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-25T16:17:57.162+08:00",
+      "fetchedAt": "2026-11-25T16:28:08.620+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-25T21:17:58.000+08:00"
+          "resetAt": "2026-11-25T21:28:10.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-25T16:17:57.165+08:00",
+      "fetchedAt": "2026-11-25T16:28:08.624+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T16:17:57.176+08:00",
+      "fetchedAt": "2026-11-25T16:28:08.634+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-25T16:17:57.176+08:00",
+      "fetchedAt": "2026-11-25T16:28:08.634+08:00",
       "error": "未启用",
       "disabled": true
     }
