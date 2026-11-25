@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T06:53:22.849+08:00",
+  "updatedAt": "2026-11-26T07:33:51.924+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 9.8,
-    "feelsLikeC": 8.4,
-    "humidity": 96,
-    "windKph": 7.8,
+    "tempC": 9.9,
+    "feelsLikeC": 8.6,
+    "humidity": 93,
+    "windKph": 6.8,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T06:53:22.850+08:00",
+    "observedAt": "2026-11-26T07:30:00.000+08:00",
+    "fetchedAt": "2026-11-26T07:33:51.924+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "乌官员称乌俄大规模换俘将分阶段实施",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737859.shtml",
-        "publishedAt": "2026-11-26T06:46:43.000+08:00"
+        "title": "真相来了丨冲锋衣“有氟”≠不好！别被“无氟”营销带偏",
+        "url": "https://www.chinanews.com.cn/life/2026/11-26/10737864.shtml",
+        "publishedAt": "2026-11-26T07:27:13.000+08:00"
       },
       {
-        "title": "境外间谍利用网恋、招聘刺探重要情报 国家安全部披露案件细节",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737858.shtml",
-        "publishedAt": "2026-11-26T06:28:12.000+08:00"
+        "title": "11月26日新闻早报",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-26/10737863.shtml",
+        "publishedAt": "2026-11-26T07:06:46.000+08:00"
       },
       {
-        "title": "中国岭南首次发现丹尼索瓦人和10.1万年前未知古人类",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737857.shtml",
-        "publishedAt": "2026-11-26T00:10:50.000+08:00"
+        "title": "“中国购”火了，有哪些“供货地”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737862.shtml",
+        "publishedAt": "2026-11-26T07:05:48.000+08:00"
       },
       {
-        "title": "德国下调三季度经济增速至0.1%",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737848.shtml",
-        "publishedAt": "2026-11-25T23:27:15.000+08:00"
+        "title": "以军证实：打死一名哈马斯内部安全机构负责人",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737861.shtml",
+        "publishedAt": "2026-11-26T06:59:52.000+08:00"
       },
       {
-        "title": "见证历史！神舟二十四号载人飞行任务全记录",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737851.shtml",
-        "publishedAt": "2026-11-25T23:26:27.000+08:00"
+        "title": "从囤商品到囤服务 小小购物车装着消费大趋势",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737860.shtml",
+        "publishedAt": "2026-11-26T06:55:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T06:53:20.331+08:00",
+    "fetchedAt": "2026-11-26T07:33:49.642+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T06:53:21.132+08:00",
+      "fetchedAt": "2026-11-26T07:33:50.380+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-26T11:53:22.000+08:00"
+          "resetAt": "2026-11-26T12:33:51.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T06:53:21.135+08:00",
+      "fetchedAt": "2026-11-26T07:33:50.382+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T06:53:21.146+08:00",
+      "fetchedAt": "2026-11-26T07:33:50.389+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T06:53:21.146+08:00",
+      "fetchedAt": "2026-11-26T07:33:50.389+08:00",
       "error": "未启用",
       "disabled": true
     }
