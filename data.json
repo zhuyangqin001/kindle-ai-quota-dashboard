@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T05:54:11.974+08:00",
+  "updatedAt": "2026-11-27T06:04:24.590+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@
     "tempC": 7.8,
     "feelsLikeC": 6.8,
     "humidity": 94,
-    "windKph": 0.9,
+    "windKph": 0.7,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T05:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T05:54:11.974+08:00",
+    "observedAt": "2026-11-27T06:00:00.000+08:00",
+    "fetchedAt": "2026-11-27T06:04:24.591+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-26T22:43:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T05:54:09.245+08:00",
+    "fetchedAt": "2026-11-27T06:04:21.614+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T05:54:10.078+08:00",
+      "fetchedAt": "2026-11-27T06:04:22.418+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T10:54:11.000+08:00"
+          "resetAt": "2026-11-27T11:04:24.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T05:54:10.081+08:00",
+      "fetchedAt": "2026-11-27T06:04:22.421+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T05:54:10.093+08:00",
+      "fetchedAt": "2026-11-27T06:04:22.431+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T05:54:10.094+08:00",
+      "fetchedAt": "2026-11-27T06:04:22.431+08:00",
       "error": "未启用",
       "disabled": true
     }
