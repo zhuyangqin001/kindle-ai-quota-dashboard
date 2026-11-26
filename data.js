@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T13:34:42.603+08:00",
+  "updatedAt": "2026-11-26T13:45:04.648+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T13:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T13:34:42.603+08:00",
+    "fetchedAt": "2026-11-26T13:45:04.648+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外机故意冲闯我领海线，歼-16飞行员实力驱离！",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738019.shtml",
-        "publishedAt": "2026-11-26T13:28:19.000+08:00"
+        "title": "黑龙江哈尔滨：数字手段管好“里子面子”为城市治理提速",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738024.shtml",
+        "publishedAt": "2026-11-26T13:39:19.000+08:00"
       },
       {
-        "title": "肖像侵权不认“似像非像”，AI融脸须守法律红线",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738017.shtml",
-        "publishedAt": "2026-11-26T13:25:41.000+08:00"
+        "title": "有饮料可以不标生产日期？市场监管总局回应",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738021.shtml",
+        "publishedAt": "2026-11-26T13:38:09.000+08:00"
       },
       {
-        "title": "日本各界反对政府撬动“无核三原则”：和平主义将沦为空谈",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737993.shtml",
-        "publishedAt": "2026-11-26T13:23:25.000+08:00"
+        "title": "给教材划清商业边界 为成长把好内容关",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-26/10738023.shtml",
+        "publishedAt": "2026-11-26T13:37:17.000+08:00"
       },
       {
-        "title": "海南环岛高铁推出“随心行”定期票：25座车站不限次数乘车",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738015.shtml",
-        "publishedAt": "2026-11-26T13:21:45.000+08:00"
+        "title": "中葡西国际科创大赛线下路演阶段收官 助力海外科创项目开拓中国市场",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-26/10738022.shtml",
+        "publishedAt": "2026-11-26T13:35:23.000+08:00"
       },
       {
-        "title": "以疫苗处方为抓手提升流感疫苗接种精准度",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10738014.shtml",
-        "publishedAt": "2026-11-26T13:21:39.000+08:00"
+        "title": "“中国羽绒之乡”广东吴川羽绒羽毛首次出口巴尔干半岛",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738016.shtml",
+        "publishedAt": "2026-11-26T13:33:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T13:34:36.960+08:00",
+    "fetchedAt": "2026-11-26T13:44:59.044+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T13:34:37.345+08:00",
+      "fetchedAt": "2026-11-26T13:44:59.421+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-26T12:43:43.726+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-26T13:34:37.347+08:00"
+      "lastAttemptAt": "2026-11-26T13:44:59.423+08:00"
     },
     "mimo": {
       "ok": false,
@@ -83,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T13:34:37.354+08:00",
+      "fetchedAt": "2026-11-26T13:44:59.428+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T13:34:37.354+08:00",
+      "fetchedAt": "2026-11-26T13:44:59.429+08:00",
       "error": "未启用",
       "disabled": true
     }
