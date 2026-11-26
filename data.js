@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T10:06:31.696+08:00",
+  "updatedAt": "2026-11-26T10:16:44.606+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.5,
-    "feelsLikeC": 14.2,
-    "humidity": 69,
-    "windKph": 0,
-    "windDir": "西风",
+    "tempC": 14.9,
+    "feelsLikeC": 14.4,
+    "humidity": 68,
+    "windKph": 1.3,
+    "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T10:06:31.696+08:00",
+    "observedAt": "2026-11-26T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-26T10:16:44.606+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "学生课间说方言被认定违纪？四川宜宾通报：责令校方立即废止不当规定",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-26/10737942.shtml",
-        "publishedAt": "2026-11-26T10:00:30.000+08:00"
+        "title": "商务部等8部门关于印发《服务贸易发展“十五五”规划》的通知",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737955.shtml",
+        "publishedAt": "2026-11-26T10:06:26.000+08:00"
       },
       {
-        "title": "“寻迹红色侨脉·凝聚滨城侨心”市侨界代表人士赴汕头开展教育实践活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10737943.shtml",
-        "publishedAt": "2026-11-26T09:59:38.000+08:00"
+        "title": "埃及吉萨省车祸引发火灾 烧毁27辆车致31人死亡",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-26/1211694.shtml",
+        "publishedAt": "2026-11-26T10:04:14.000+08:00"
       },
       {
-        "title": "大连市沙河口区委统战部、甘井子区委统战部联合举办留学人员AI实用技术交流会",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10737945.shtml",
-        "publishedAt": "2026-11-26T09:58:58.000+08:00"
+        "title": "刑事诉讼法第四次修改：把“管住权力、保障权利”落到实处",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-26/10737949.shtml",
+        "publishedAt": "2026-11-26T10:03:36.000+08:00"
       },
       {
-        "title": "应季农产品丰收 各地拓销路忙增收",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737948.shtml",
-        "publishedAt": "2026-11-26T09:58:42.000+08:00"
+        "title": "供给提质、就近可及 托起“一老一小”稳稳的幸福",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737951.shtml",
+        "publishedAt": "2026-11-26T10:03:32.000+08:00"
       },
       {
-        "title": "西成铁路XCTJ1标郎木寺站特大桥合龙",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737946.shtml",
-        "publishedAt": "2026-11-26T09:57:51.000+08:00"
+        "title": "依法严惩各类兴奋剂犯罪 “两高”联合发布司法解释",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737950.shtml",
+        "publishedAt": "2026-11-26T10:03:10.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T10:06:28.645+08:00",
+    "fetchedAt": "2026-11-26T10:16:41.597+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T10:06:29.452+08:00",
+      "fetchedAt": "2026-11-26T10:16:42.403+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T10:06:29.455+08:00",
+      "fetchedAt": "2026-11-26T10:16:42.407+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T10:06:29.466+08:00",
+      "fetchedAt": "2026-11-26T10:16:42.418+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T10:06:29.467+08:00",
+      "fetchedAt": "2026-11-26T10:16:42.419+08:00",
       "error": "未启用",
       "disabled": true
     }
