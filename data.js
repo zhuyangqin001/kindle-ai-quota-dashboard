@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T11:52:42.307+08:00",
+  "updatedAt": "2026-11-26T12:02:55.500+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.2,
-    "feelsLikeC": 16.1,
-    "humidity": 55,
-    "windKph": 7.2,
+    "tempC": 17.5,
+    "feelsLikeC": 16.2,
+    "humidity": 53,
+    "windKph": 7.6,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T11:52:42.307+08:00",
+    "observedAt": "2026-11-26T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-26T12:02:55.500+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东中小学卫生与健康教育授课比赛在汕头举行",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-26/10737999.shtml",
-        "publishedAt": "2026-11-26T11:48:05.000+08:00"
+        "title": "中国提出到2030年建成覆盖完善、性能领先的新一代通信网",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738003.shtml",
+        "publishedAt": "2026-11-26T11:52:00.000+08:00"
       },
       {
-        "title": "中国LNG船年度交付量纪录刷新",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737996.shtml",
-        "publishedAt": "2026-11-26T11:47:09.000+08:00"
+        "title": "个人养老金四周年交出怎样的成绩单？还有哪些难题需破解？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738004.shtml",
+        "publishedAt": "2026-11-26T11:50:44.000+08:00"
       },
       {
-        "title": "2026浙商研究报告：浙商发展动力向“新”结构向“优”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737994.shtml",
-        "publishedAt": "2026-11-26T11:45:59.000+08:00"
+        "title": "重庆长寿：荒废闲置地变民生宜居地",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738001.shtml",
+        "publishedAt": "2026-11-26T11:50:40.000+08:00"
       },
       {
-        "title": "三峡国际机场口岸出入境客流创历史新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737992.shtml",
-        "publishedAt": "2026-11-26T11:44:59.000+08:00"
+        "title": "全国青少年足球训练工作会议在北京召开",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738000.shtml",
+        "publishedAt": "2026-11-26T11:49:28.000+08:00"
       },
       {
-        "title": "商务部就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737998.shtml",
-        "publishedAt": "2026-11-26T11:40:59.000+08:00"
+        "title": "从雪域高原来到山城 西藏芒康青少年组团来渝 “走亲”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738002.shtml",
+        "publishedAt": "2026-11-26T11:48:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T11:52:39.266+08:00",
+    "fetchedAt": "2026-11-26T12:02:52.684+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T11:52:40.030+08:00",
+      "fetchedAt": "2026-11-26T12:02:53.148+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T11:52:40.034+08:00",
+      "fetchedAt": "2026-11-26T12:02:53.151+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T11:52:40.043+08:00",
+      "fetchedAt": "2026-11-26T12:02:53.158+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T11:52:40.044+08:00",
+      "fetchedAt": "2026-11-26T12:02:53.159+08:00",
       "error": "未启用",
       "disabled": true
     }
