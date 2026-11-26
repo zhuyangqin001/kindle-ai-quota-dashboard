@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T23:26:31.130+08:00",
+  "updatedAt": "2026-11-26T23:36:44.993+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 9.7,
-    "feelsLikeC": 8.9,
+    "tempC": 9.6,
+    "feelsLikeC": 8.7,
     "humidity": 90,
-    "windKph": 2.2,
+    "windKph": 2.5,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T23:15:00.000+08:00",
-    "fetchedAt": "2026-11-26T23:26:31.130+08:00",
+    "observedAt": "2026-11-26T23:30:00.000+08:00",
+    "fetchedAt": "2026-11-26T23:36:44.993+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "世预赛惜败沙特男篮后，中国男篮容错率越来越小",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738471.shtml",
+        "publishedAt": "2026-11-26T23:30:05.000+08:00"
+      },
       {
         "title": "两名意大利公民在伊朗无人机袭击科威特事件中身亡",
         "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738469.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "李强会见亚洲开发银行行长神田真人",
         "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-26/1211746.shtml",
         "publishedAt": "2026-11-26T22:15:24.000+08:00"
-      },
-      {
-        "title": "报告指今年中国3D打印产业规模料达约860亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738463.shtml",
-        "publishedAt": "2026-11-26T22:04:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T23:26:28.105+08:00",
+    "fetchedAt": "2026-11-26T23:36:41.262+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T23:26:28.861+08:00",
+      "fetchedAt": "2026-11-26T23:36:42.043+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 24,
-          "resetAt": "2026-11-27T00:57:47.000+08:00"
+          "resetAt": "2026-11-27T00:57:48.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 32,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T23:26:28.865+08:00",
+      "fetchedAt": "2026-11-26T23:36:42.046+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T23:26:28.874+08:00",
+      "fetchedAt": "2026-11-26T23:36:42.056+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T23:26:28.875+08:00",
+      "fetchedAt": "2026-11-26T23:36:42.056+08:00",
       "error": "未启用",
       "disabled": true
     }
