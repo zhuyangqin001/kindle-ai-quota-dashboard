@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T21:34:07.800+08:00",
+  "updatedAt": "2026-11-26T21:44:20.662+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T21:34:07.800+08:00",
+    "fetchedAt": "2026-11-26T21:44:20.663+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026深圳马拉松吸引57个国家和地区的跑者报名",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738421.shtml",
-        "publishedAt": "2026-11-26T21:24:35.000+08:00"
+        "title": "京津冀首个卫星AIT共享中心落地雄安",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738422.shtml",
+        "publishedAt": "2026-11-26T21:34:33.000+08:00"
       },
       {
-        "title": "从班级舞台到市级剧场 北京学生艺术节收官",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738415.shtml",
-        "publishedAt": "2026-11-26T21:21:03.000+08:00"
+        "title": "中俄两军举行战略磋商",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738424.shtml",
+        "publishedAt": "2026-11-26T21:29:27.000+08:00"
       },
       {
-        "title": "广西南宁：巧克力博物馆引游人",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738400.shtml",
-        "publishedAt": "2026-11-26T21:19:58.000+08:00"
+        "title": "2026-2027中国羽毛球俱乐部超级联赛在杭州开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738405.shtml",
+        "publishedAt": "2026-11-26T21:29:27.000+08:00"
       },
       {
-        "title": "“援”定天山：从一串葡萄到600个“甜果”的湘疆协作故事",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738380.shtml",
-        "publishedAt": "2026-11-26T21:19:54.000+08:00"
+        "title": "中外代表新疆共话“绿色城市”发展之道",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738436.shtml",
+        "publishedAt": "2026-11-26T21:29:05.000+08:00"
       },
       {
-        "title": "第十四届“东升杯”国际创业大赛全球总决赛在京举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738414.shtml",
-        "publishedAt": "2026-11-26T21:18:38.000+08:00"
+        "title": "20余名缅甸华裔昆明“侨”见传统技艺 感知南侨机工事迹",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-26/10738442.shtml",
+        "publishedAt": "2026-11-26T21:28:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T21:34:05.175+08:00",
+    "fetchedAt": "2026-11-26T21:44:17.526+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T21:34:05.960+08:00",
+      "fetchedAt": "2026-11-26T21:44:18.303+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T21:34:05.964+08:00",
+      "fetchedAt": "2026-11-26T21:44:18.306+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T21:34:05.974+08:00",
+      "fetchedAt": "2026-11-26T21:44:18.316+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T21:34:05.974+08:00",
+      "fetchedAt": "2026-11-26T21:44:18.316+08:00",
       "error": "未启用",
       "disabled": true
     }
