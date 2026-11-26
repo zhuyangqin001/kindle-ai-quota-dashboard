@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T18:50:56.338+08:00",
+  "updatedAt": "2026-11-26T19:01:08.528+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.5,
-    "feelsLikeC": 13.1,
-    "humidity": 72,
-    "windKph": 0.5,
-    "windDir": "西北风",
+    "tempC": 13.3,
+    "feelsLikeC": 12.8,
+    "humidity": 73,
+    "windKph": 0.6,
+    "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T18:50:56.338+08:00",
+    "observedAt": "2026-11-26T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-26T19:01:08.528+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "“可口可乐不再标生产日期”引热议，你怎么看？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738293.shtml",
+        "publishedAt": "2026-11-26T18:51:52.000+08:00"
+      },
+      {
+        "title": "“AI原生”重塑竞争新优势 湖南工程机械拓展全球市场新空间",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738281.shtml",
+        "publishedAt": "2026-11-26T18:51:38.000+08:00"
+      },
+      {
+        "title": "辽宁各港口多措并举保障“北煤南运”黄金通道",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738280.shtml",
+        "publishedAt": "2026-11-26T18:49:54.000+08:00"
+      },
+      {
+        "title": "商务部：坚决反对美国对中国等经济体加征301关税",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738278.shtml",
+        "publishedAt": "2026-11-26T18:48:44.000+08:00"
+      },
+      {
         "title": "广西以“产业兴边”绘就富民新路径",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738269.shtml",
         "publishedAt": "2026-11-26T18:48:22.000+08:00"
-      },
-      {
-        "title": "内蒙古呼和浩特盛乐机场通航 满足全球最大机型起降需求",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738275.shtml",
-        "publishedAt": "2026-11-26T18:46:26.000+08:00"
-      },
-      {
-        "title": "民政部：推进全国殡葬服务热线12353建设",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738296.shtml",
-        "publishedAt": "2026-11-26T18:42:16.000+08:00"
-      },
-      {
-        "title": "以小城烟火铸治愈良方 电视剧《小城良方》研讨会举行",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738268.shtml",
-        "publishedAt": "2026-11-26T18:37:56.000+08:00"
-      },
-      {
-        "title": "东风着陆场准备就绪 迎接神舟二十三号飞船“回家”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738292.shtml",
-        "publishedAt": "2026-11-26T18:36:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T18:50:53.732+08:00",
+    "fetchedAt": "2026-11-26T19:01:06.001+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T18:50:54.516+08:00",
+      "fetchedAt": "2026-11-26T19:01:06.803+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T18:50:54.519+08:00",
+      "fetchedAt": "2026-11-26T19:01:06.807+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T18:50:54.528+08:00",
+      "fetchedAt": "2026-11-26T19:01:06.817+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T18:50:54.528+08:00",
+      "fetchedAt": "2026-11-26T19:01:06.817+08:00",
       "error": "未启用",
       "disabled": true
     }
