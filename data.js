@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T21:44:20.662+08:00",
+  "updatedAt": "2026-11-26T21:54:34.931+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.1,
-    "feelsLikeC": 10.3,
+    "tempC": 10.9,
+    "feelsLikeC": 10.1,
     "humidity": 85,
-    "windKph": 3.2,
+    "windKph": 3.1,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T21:44:20.663+08:00",
+    "observedAt": "2026-11-26T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-26T21:54:34.931+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "20家海外华文媒体代表走进滇西 循百年侨脉“侨”见幸福新云南",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-26/10738446.shtml",
+        "publishedAt": "2026-11-26T21:49:30.000+08:00"
+      },
+      {
+        "title": "台积电拟扩大在美投资 舆论忧先进制程加速外移",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738444.shtml",
+        "publishedAt": "2026-11-26T21:46:06.000+08:00"
+      },
+      {
+        "title": "用电量背后的产业升级逻辑（经济时评）",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738445.shtml",
+        "publishedAt": "2026-11-26T21:40:06.000+08:00"
+      },
+      {
+        "title": "3人自驾前往可可西里失联 青海警方通报：人已找到，身体状况良好",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738443.shtml",
+        "publishedAt": "2026-11-26T21:36:41.000+08:00"
+      },
+      {
         "title": "京津冀首个卫星AIT共享中心落地雄安",
         "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738422.shtml",
         "publishedAt": "2026-11-26T21:34:33.000+08:00"
-      },
-      {
-        "title": "中俄两军举行战略磋商",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738424.shtml",
-        "publishedAt": "2026-11-26T21:29:27.000+08:00"
-      },
-      {
-        "title": "2026-2027中国羽毛球俱乐部超级联赛在杭州开赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738405.shtml",
-        "publishedAt": "2026-11-26T21:29:27.000+08:00"
-      },
-      {
-        "title": "中外代表新疆共话“绿色城市”发展之道",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738436.shtml",
-        "publishedAt": "2026-11-26T21:29:05.000+08:00"
-      },
-      {
-        "title": "20余名缅甸华裔昆明“侨”见传统技艺 感知南侨机工事迹",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-26/10738442.shtml",
-        "publishedAt": "2026-11-26T21:28:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T21:44:17.526+08:00",
+    "fetchedAt": "2026-11-26T21:54:32.037+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T21:44:18.303+08:00",
+      "fetchedAt": "2026-11-26T21:54:32.928+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 23,
+          "usedPct": 24,
           "resetAt": "2026-11-27T00:57:47.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 31,
+          "usedPct": 32,
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T21:44:18.306+08:00",
+      "fetchedAt": "2026-11-26T21:54:32.931+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T21:44:18.316+08:00",
+      "fetchedAt": "2026-11-26T21:54:32.942+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T21:44:18.316+08:00",
+      "fetchedAt": "2026-11-26T21:54:32.942+08:00",
       "error": "未启用",
       "disabled": true
     }
