@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T15:06:49.990+08:00",
+  "updatedAt": "2026-11-26T15:17:00.305+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -10,8 +10,8 @@ window.DASH_DATA = {
     "windKph": 7.4,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T15:06:49.990+08:00",
+    "observedAt": "2026-11-26T15:15:00.000+08:00",
+    "fetchedAt": "2026-11-26T15:17:00.305+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "日本民众：政府应铭记历史教训 高市正将日本推向危险路口",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738069.shtml",
-        "publishedAt": "2026-11-26T14:53:40.000+08:00"
+        "title": "商务部：坚决反对美对中国等经济体加征301关税",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738091.shtml",
+        "publishedAt": "2026-11-26T15:10:56.000+08:00"
       },
       {
-        "title": "“喀什—第比利斯—达曼”货运航线开通",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738044.shtml",
-        "publishedAt": "2026-11-26T14:53:05.000+08:00"
+        "title": "晋北黄土山梁上的养猪母子：守家业、帮亲人、奔好日子",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738081.shtml",
+        "publishedAt": "2026-11-26T15:10:30.000+08:00"
       },
       {
-        "title": "斯诺克英锦赛资格赛：中国军团张安达、范争一率先晋级正赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738056.shtml",
-        "publishedAt": "2026-11-26T14:52:13.000+08:00"
+        "title": "18家重点平台企业已完成算法协商 覆盖新就业形态劳动者逾2500万人",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738085.shtml",
+        "publishedAt": "2026-11-26T15:09:20.000+08:00"
       },
       {
-        "title": "四川通过两部地方性法规 守护古蜀文明与千年蜀道",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738076.shtml",
-        "publishedAt": "2026-11-26T14:50:59.000+08:00"
+        "title": "今年以来烟台港对欧洲发运风电设备98套 发运量创新高",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738084.shtml",
+        "publishedAt": "2026-11-26T15:09:10.000+08:00"
       },
       {
-        "title": "边海联动，崇左口岸“生金”",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738078.shtml",
-        "publishedAt": "2026-11-26T14:50:47.000+08:00"
+        "title": "援外途中偶遇患病华侨，医疗队万米高空上演暖心救援，华侨在飞机上写下感谢信",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-26/10738090.shtml",
+        "publishedAt": "2026-11-26T15:08:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T15:06:47.792+08:00",
+    "fetchedAt": "2026-11-26T15:16:57.810+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T15:06:48.188+08:00",
+      "fetchedAt": "2026-11-26T15:16:58.331+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T15:06:48.190+08:00",
+      "fetchedAt": "2026-11-26T15:16:58.333+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T15:06:48.196+08:00",
+      "fetchedAt": "2026-11-26T15:16:58.340+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T15:06:48.196+08:00",
+      "fetchedAt": "2026-11-26T15:16:58.340+08:00",
       "error": "未启用",
       "disabled": true
     }
