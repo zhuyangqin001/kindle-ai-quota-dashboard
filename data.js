@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T17:49:44.624+08:00",
+  "updatedAt": "2026-11-26T17:59:55.900+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T17:49:44.624+08:00",
+    "fetchedAt": "2026-11-26T17:59:55.900+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "外媒：泰国曼谷一炼油厂发生爆炸 造成至少7人受伤",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738244.shtml",
+        "publishedAt": "2026-11-26T17:49:51.000+08:00"
+      },
       {
         "title": "中国国防部：有关域外国家应停止插手介入南海问题",
         "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738236.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "“十五五”时期宁夏新能源装机将突破1亿千瓦",
         "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738228.shtml",
         "publishedAt": "2026-11-26T17:40:13.000+08:00"
-      },
-      {
-        "title": "聚焦民生福祉与生态文明 中国人民大学发布两项研究成果",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738231.shtml",
-        "publishedAt": "2026-11-26T17:39:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T17:49:42.472+08:00",
+    "fetchedAt": "2026-11-26T17:59:53.317+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T17:49:42.874+08:00",
+      "fetchedAt": "2026-11-26T17:59:54.123+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T17:49:42.877+08:00",
+      "fetchedAt": "2026-11-26T17:59:54.127+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T17:49:42.882+08:00",
+      "fetchedAt": "2026-11-26T17:59:54.138+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T17:49:42.883+08:00",
+      "fetchedAt": "2026-11-26T17:59:54.138+08:00",
       "error": "未启用",
       "disabled": true
     }
