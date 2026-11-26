@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T06:45:06.717+08:00",
+  "updatedAt": "2026-11-27T06:55:18.595+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T06:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T06:45:06.717+08:00",
+    "fetchedAt": "2026-11-27T06:55:18.596+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "为科威特军方维护雷达天线 两名意大利人遇袭身亡",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738475.shtml",
+        "publishedAt": "2026-11-27T06:53:30.000+08:00"
+      },
       {
         "title": "特朗普：在与普京会谈中敦促其尽快与乌克兰达成协议",
         "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738474.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "世预赛惜败沙特男篮后，中国男篮容错率越来越小",
         "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738471.shtml",
         "publishedAt": "2026-11-26T23:30:05.000+08:00"
-      },
-      {
-        "title": "两名意大利公民在伊朗无人机袭击科威特事件中身亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738469.shtml",
-        "publishedAt": "2026-11-26T22:49:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T06:45:04.449+08:00",
+    "fetchedAt": "2026-11-27T06:55:15.749+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T06:45:04.890+08:00",
+      "fetchedAt": "2026-11-27T06:55:16.541+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T11:45:06.000+08:00"
+          "resetAt": "2026-11-27T11:55:18.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T06:45:04.892+08:00",
+      "fetchedAt": "2026-11-27T06:55:16.544+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T06:45:04.897+08:00",
+      "fetchedAt": "2026-11-27T06:55:16.554+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T06:45:04.898+08:00",
+      "fetchedAt": "2026-11-27T06:55:16.554+08:00",
       "error": "未启用",
       "disabled": true
     }
