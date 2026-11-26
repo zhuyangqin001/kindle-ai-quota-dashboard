@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-26T09:56:19.763+08:00",
+  "updatedAt": "2026-11-26T10:06:31.696+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14,
-    "feelsLikeC": 13.5,
-    "humidity": 72,
-    "windKph": 1.2,
-    "windDir": "东北风",
+    "tempC": 14.5,
+    "feelsLikeC": 14.2,
+    "humidity": 69,
+    "windKph": 0,
+    "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T09:56:19.764+08:00",
+    "observedAt": "2026-11-26T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-26T10:06:31.696+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2027中缅瑞丽—木姐跨国半程马拉松报名启动 将恢复境外赛道",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10737927.shtml",
-        "publishedAt": "2026-11-26T09:50:05.000+08:00"
+        "title": "学生课间说方言被认定违纪？四川宜宾通报：责令校方立即废止不当规定",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-26/10737942.shtml",
+        "publishedAt": "2026-11-26T10:00:30.000+08:00"
       },
       {
-        "title": "陕西立法保护千年蜀道 支持蜀道文化国际交流与文明互鉴",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737926.shtml",
-        "publishedAt": "2026-11-26T09:48:37.000+08:00"
+        "title": "“寻迹红色侨脉·凝聚滨城侨心”市侨界代表人士赴汕头开展教育实践活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10737943.shtml",
+        "publishedAt": "2026-11-26T09:59:38.000+08:00"
       },
       {
-        "title": "外交部亚洲事务特使邓锡军同缅甸民族团结与实现和平协商委员会秘书敏乃会谈",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737936.shtml",
-        "publishedAt": "2026-11-26T09:47:05.000+08:00"
+        "title": "大连市沙河口区委统战部、甘井子区委统战部联合举办留学人员AI实用技术交流会",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10737945.shtml",
+        "publishedAt": "2026-11-26T09:58:58.000+08:00"
       },
       {
-        "title": "比亚迪折叠智舱及DMS发布，方程豹钛9正式上市",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737912.shtml",
-        "publishedAt": "2026-11-26T09:44:53.000+08:00"
+        "title": "应季农产品丰收 各地拓销路忙增收",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737948.shtml",
+        "publishedAt": "2026-11-26T09:58:42.000+08:00"
       },
       {
-        "title": "A股反弹 三大股指高开",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737931.shtml",
-        "publishedAt": "2026-11-26T09:44:27.000+08:00"
+        "title": "西成铁路XCTJ1标郎木寺站特大桥合龙",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737946.shtml",
+        "publishedAt": "2026-11-26T09:57:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T09:56:16.691+08:00",
+    "fetchedAt": "2026-11-26T10:06:28.645+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T09:56:17.490+08:00",
+      "fetchedAt": "2026-11-26T10:06:29.452+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T09:56:17.493+08:00",
+      "fetchedAt": "2026-11-26T10:06:29.455+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T09:56:17.504+08:00",
+      "fetchedAt": "2026-11-26T10:06:29.466+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T09:56:17.504+08:00",
+      "fetchedAt": "2026-11-26T10:06:29.467+08:00",
       "error": "未启用",
       "disabled": true
     }
