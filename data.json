@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T22:04:47.276+08:00",
+  "updatedAt": "2026-11-26T22:15:02.342+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "东南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T22:04:47.276+08:00",
+    "fetchedAt": "2026-11-26T22:15:02.342+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "报告指今年中国3D打印产业规模料达约860亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738463.shtml",
+        "publishedAt": "2026-11-26T22:04:19.000+08:00"
+      },
+      {
+        "title": "北京获批医用手术机器人注册证数量居全国首位",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738462.shtml",
+        "publishedAt": "2026-11-26T22:02:09.000+08:00"
+      },
+      {
+        "title": "多人违规携无人机进京被查处 北京警方发布重要提示",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738464.shtml",
+        "publishedAt": "2026-11-26T22:02:01.000+08:00"
+      },
       {
         "title": "黑龙江三部地方性法规明年起陆续施行",
         "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738461.shtml",
@@ -28,24 +43,9 @@
         "title": "黑龙江省工商联十二届八次常委会议召开",
         "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738459.shtml",
         "publishedAt": "2026-11-26T21:59:51.000+08:00"
-      },
-      {
-        "title": "逾6万工程师参与金刚钻技能大赛 海外选手首次同台竞技",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738456.shtml",
-        "publishedAt": "2026-11-26T21:59:01.000+08:00"
-      },
-      {
-        "title": "全国200余名运动员齐聚广州逐浪竞速",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738457.shtml",
-        "publishedAt": "2026-11-26T21:58:57.000+08:00"
-      },
-      {
-        "title": "纪念孙中山诞辰160周年陇台交流活动在兰州举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738455.shtml",
-        "publishedAt": "2026-11-26T21:58:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T22:04:44.398+08:00",
+    "fetchedAt": "2026-11-26T22:14:57.382+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T22:04:45.165+08:00",
+      "fetchedAt": "2026-11-26T22:14:58.107+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@
         {
           "name": "5小时",
           "usedPct": 24,
-          "resetAt": "2026-11-27T00:57:48.000+08:00"
+          "resetAt": "2026-11-27T00:57:47.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 32,
-          "resetAt": "2026-11-28T20:15:45.000+08:00"
+          "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T22:04:45.169+08:00",
+      "fetchedAt": "2026-11-26T22:14:58.110+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T22:04:45.179+08:00",
+      "fetchedAt": "2026-11-26T22:14:58.120+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T22:04:45.179+08:00",
+      "fetchedAt": "2026-11-26T22:14:58.120+08:00",
       "error": "未启用",
       "disabled": true
     }
