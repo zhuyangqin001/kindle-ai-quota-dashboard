@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-26T15:27:11.857+08:00",
+  "updatedAt": "2026-11-26T15:37:21.742+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.4,
+    "tempC": 18.3,
     "feelsLikeC": 16.7,
     "humidity": 50,
-    "windKph": 7.4,
+    "windKph": 7.3,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-26T15:27:11.858+08:00",
+    "observedAt": "2026-11-26T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-26T15:37:21.742+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外交部：双方应维护中美经贸关系稳定发展态势",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738102.shtml",
-        "publishedAt": "2026-11-26T15:20:49.000+08:00"
+        "title": "文化“两创”赋能 山东济宁儒韵文脉向新而行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738103.shtml",
+        "publishedAt": "2026-11-26T15:30:42.000+08:00"
       },
       {
-        "title": "中方就日本船只非法侵闯钓鱼岛领海向日方提出严正交涉",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738101.shtml",
-        "publishedAt": "2026-11-26T15:19:43.000+08:00"
+        "title": "治理仿冒“撞脸药”，让买药更放心用药更安心",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10738065.shtml",
+        "publishedAt": "2026-11-26T15:29:03.000+08:00"
       },
       {
-        "title": "做活开放“棋眼” 广西加快成为面向东盟开放合作超级枢纽",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738096.shtml",
-        "publishedAt": "2026-11-26T15:18:27.000+08:00"
+        "title": "A股收评：超3600只个股飘绿，沪指、创业板指收涨，深指收跌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738107.shtml",
+        "publishedAt": "2026-11-26T15:28:07.000+08:00"
       },
       {
-        "title": "外交部：日方应还中国人民以净土",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738100.shtml",
-        "publishedAt": "2026-11-26T15:17:55.000+08:00"
+        "title": "中方：当前日遗化武销毁进程严重滞后根本原因在于日方固守错误史观",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738106.shtml",
+        "publishedAt": "2026-11-26T15:28:01.000+08:00"
       },
       {
-        "title": "换脸视频 高仿真语音 批量外呼 AI造假何以“眼见为虚”？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738098.shtml",
-        "publishedAt": "2026-11-26T15:16:27.000+08:00"
+        "title": "外交部：中方反对以“产能过剩”为借口进行政治操弄",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738105.shtml",
+        "publishedAt": "2026-11-26T15:25:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T15:27:08.403+08:00",
+    "fetchedAt": "2026-11-26T15:37:19.280+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T15:27:08.818+08:00",
+      "fetchedAt": "2026-11-26T15:37:19.740+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T15:27:08.822+08:00",
+      "fetchedAt": "2026-11-26T15:37:19.742+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T15:27:08.829+08:00",
+      "fetchedAt": "2026-11-26T15:37:19.747+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T15:27:08.829+08:00",
+      "fetchedAt": "2026-11-26T15:37:19.748+08:00",
       "error": "未启用",
       "disabled": true
     }
