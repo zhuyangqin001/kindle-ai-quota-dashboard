@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T15:57:42.513+08:00",
+  "updatedAt": "2026-11-26T16:07:52.638+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18,
-    "feelsLikeC": 16.4,
-    "humidity": 52,
-    "windKph": 7,
+    "tempC": 17.7,
+    "feelsLikeC": 16.3,
+    "humidity": 54,
+    "windKph": 6.6,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T15:57:42.513+08:00",
+    "observedAt": "2026-11-26T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-26T16:07:52.638+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "感冒药成了青少年“猎奇药”？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738127.shtml",
-        "publishedAt": "2026-11-26T15:50:49.000+08:00"
+        "title": "印尼一处矿井发生事故 13人遇难13人被困",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738134.shtml",
+        "publishedAt": "2026-11-26T16:01:09.000+08:00"
       },
       {
-        "title": "广西民族团结进步促进法示范宣讲活动深入开展",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10738125.shtml",
-        "publishedAt": "2026-11-26T15:49:53.000+08:00"
+        "title": "歼-20A、运-20B将首次亮相中国航展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738133.shtml",
+        "publishedAt": "2026-11-26T15:58:23.000+08:00"
       },
       {
-        "title": "国防部督促日方全面加快日遗化武处置进程",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738124.shtml",
-        "publishedAt": "2026-11-26T15:49:35.000+08:00"
+        "title": "海内外学者热议跨文化视域下美术与设计传承创新",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738126.shtml",
+        "publishedAt": "2026-11-26T15:56:03.000+08:00"
       },
       {
-        "title": "鹭宁携手架“侨”梁 山海聚力促振兴",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-26/10738123.shtml",
-        "publishedAt": "2026-11-26T15:46:08.000+08:00"
+        "title": "国防部回应菲澳防务合作协议：将继续采取必要措施 有力应对侵权挑衅行径",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738131.shtml",
+        "publishedAt": "2026-11-26T15:55:27.000+08:00"
       },
       {
-        "title": "科创赋能产业升级 长沙经开区精准招商积蓄制造动能",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738121.shtml",
-        "publishedAt": "2026-11-26T15:45:30.000+08:00"
+        "title": "国防部回应台湾地区计划采购无人艇",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738130.shtml",
+        "publishedAt": "2026-11-26T15:53:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T15:57:40.079+08:00",
+    "fetchedAt": "2026-11-26T16:07:50.602+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T15:57:40.474+08:00",
+      "fetchedAt": "2026-11-26T16:07:50.999+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T15:57:40.476+08:00",
+      "fetchedAt": "2026-11-26T16:07:51.001+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T15:57:40.482+08:00",
+      "fetchedAt": "2026-11-26T16:07:51.007+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T15:57:40.482+08:00",
+      "fetchedAt": "2026-11-26T16:07:51.007+08:00",
       "error": "未启用",
       "disabled": true
     }
