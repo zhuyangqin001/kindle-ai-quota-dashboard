@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-26T19:11:20.688+08:00",
+  "updatedAt": "2026-11-26T19:21:33.733+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.3,
-    "feelsLikeC": 12.8,
-    "humidity": 73,
-    "windKph": 0.6,
-    "windDir": "东风",
+    "tempC": 13,
+    "feelsLikeC": 12.4,
+    "humidity": 75,
+    "windKph": 1.9,
+    "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T19:11:20.688+08:00",
+    "observedAt": "2026-11-26T19:15:00.000+08:00",
+    "fetchedAt": "2026-11-26T19:21:33.733+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "河南登封：探访“天地之中”历史建筑群",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738307.shtml",
-        "publishedAt": "2026-11-26T19:07:29.000+08:00"
+        "title": "成都新规获批：不得向未成年人提供虚拟亲密关系服务",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738314.shtml",
+        "publishedAt": "2026-11-26T19:16:14.000+08:00"
       },
       {
-        "title": "2026年全国青年女子手球冠军杯赛在青海西宁开赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738305.shtml",
-        "publishedAt": "2026-11-26T19:05:33.000+08:00"
+        "title": "“雪飞天”第五次迎来滑雪大跳台世界杯 130余名选手参赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738313.shtml",
+        "publishedAt": "2026-11-26T19:13:52.000+08:00"
       },
       {
-        "title": "广东茂名举办首届“茂善同行·微光筑愿”爱心义卖活动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738304.shtml",
-        "publishedAt": "2026-11-26T19:05:03.000+08:00"
+        "title": "规范二氧化碳培养箱、压力波治疗仪计量 两项国家计量技术规范将实施",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738317.shtml",
+        "publishedAt": "2026-11-26T19:13:04.000+08:00"
       },
       {
-        "title": "广西三江侗乡：木耳丰收添富路",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738284.shtml",
-        "publishedAt": "2026-11-26T19:04:01.000+08:00"
+        "title": "中上协：截至10月底境内股票市场共有上市公司5583家",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738316.shtml",
+        "publishedAt": "2026-11-26T19:10:25.000+08:00"
       },
       {
-        "title": "广东近千家企业角逐双创大赛 展南粤蓬勃科技活力",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738303.shtml",
-        "publishedAt": "2026-11-26T19:03:03.000+08:00"
+        "title": "湖南以“村播”为桥牵起农文旅振兴新纽带",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738308.shtml",
+        "publishedAt": "2026-11-26T19:09:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T19:11:18.031+08:00",
+    "fetchedAt": "2026-11-26T19:21:31.293+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T19:11:18.838+08:00",
+      "fetchedAt": "2026-11-26T19:21:31.999+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T19:11:18.843+08:00",
+      "fetchedAt": "2026-11-26T19:21:32.001+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T19:11:18.854+08:00",
+      "fetchedAt": "2026-11-26T19:21:32.009+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T19:11:18.855+08:00",
+      "fetchedAt": "2026-11-26T19:21:32.009+08:00",
       "error": "未启用",
       "disabled": true
     }
