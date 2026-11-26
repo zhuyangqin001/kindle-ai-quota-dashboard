@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T00:48:10.509+08:00",
+  "updatedAt": "2026-11-27T00:58:22.354+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T00:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T00:48:10.509+08:00",
+    "fetchedAt": "2026-11-27T00:58:22.354+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-26T22:43:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T00:48:08.085+08:00",
+    "fetchedAt": "2026-11-27T00:58:19.821+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T00:48:08.865+08:00",
+      "fetchedAt": "2026-11-27T00:58:20.626+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 24,
-          "resetAt": "2026-11-27T00:57:47.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-27T05:58:22.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T00:48:08.869+08:00",
+      "fetchedAt": "2026-11-27T00:58:20.630+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T00:48:08.879+08:00",
+      "fetchedAt": "2026-11-27T00:58:20.640+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T00:48:08.879+08:00",
+      "fetchedAt": "2026-11-27T00:58:20.640+08:00",
       "error": "未启用",
       "disabled": true
     }
