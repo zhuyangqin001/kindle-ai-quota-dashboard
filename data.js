@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T17:59:55.900+08:00",
+  "updatedAt": "2026-11-26T18:10:08.025+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.5,
-    "feelsLikeC": 13.7,
-    "humidity": 69,
-    "windKph": 3.2,
+    "tempC": 14.2,
+    "feelsLikeC": 13.4,
+    "humidity": 70,
+    "windKph": 3.1,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T17:59:55.900+08:00",
+    "observedAt": "2026-11-26T18:00:00.000+08:00",
+    "fetchedAt": "2026-11-26T18:10:08.025+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "外媒：泰国曼谷一炼油厂发生爆炸 造成至少7人受伤",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738244.shtml",
-        "publishedAt": "2026-11-26T17:49:51.000+08:00"
+        "title": "中央宣传部原副部长，原国家新闻出版广电总局党组书记、局长蔡赴朝严重违纪违法被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738261.shtml",
+        "publishedAt": "2026-11-26T18:01:58.000+08:00"
       },
       {
-        "title": "中国国防部：有关域外国家应停止插手介入南海问题",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738236.shtml",
-        "publishedAt": "2026-11-26T17:44:15.000+08:00"
+        "title": "“2026非洲语言文化研究国际研讨会”在埃塞俄比亚举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738245.shtml",
+        "publishedAt": "2026-11-26T18:01:00.000+08:00"
       },
       {
-        "title": "《东坡文库》再推10种图书 为海南东坡文化研究再添新成果",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738229.shtml",
-        "publishedAt": "2026-11-26T17:41:15.000+08:00"
+        "title": "清宫御用珍品亮相长春 解锁清代宫廷生活图景",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738251.shtml",
+        "publishedAt": "2026-11-26T18:00:28.000+08:00"
       },
       {
-        "title": "中国国防部：督促日方早日彻底清除日遗化武毒害",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738235.shtml",
-        "publishedAt": "2026-11-26T17:40:17.000+08:00"
+        "title": "巴基斯坦在俾路支省开展反恐行动 击毙12名恐怖分子",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738209.shtml",
+        "publishedAt": "2026-11-26T17:59:38.000+08:00"
       },
       {
-        "title": "“十五五”时期宁夏新能源装机将突破1亿千瓦",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738228.shtml",
-        "publishedAt": "2026-11-26T17:40:13.000+08:00"
+        "title": "宁夏出台规划推动现代服务业发展",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738249.shtml",
+        "publishedAt": "2026-11-26T17:59:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T17:59:53.317+08:00",
+    "fetchedAt": "2026-11-26T18:10:05.373+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T17:59:54.123+08:00",
+      "fetchedAt": "2026-11-26T18:10:06.180+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T17:59:54.127+08:00",
+      "fetchedAt": "2026-11-26T18:10:06.184+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T17:59:54.138+08:00",
+      "fetchedAt": "2026-11-26T18:10:06.194+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T17:59:54.138+08:00",
+      "fetchedAt": "2026-11-26T18:10:06.194+08:00",
       "error": "未启用",
       "disabled": true
     }
