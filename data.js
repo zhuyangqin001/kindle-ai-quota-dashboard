@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T17:39:34.280+08:00",
+  "updatedAt": "2026-11-26T17:49:44.624+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.8,
-    "feelsLikeC": 14.1,
+    "tempC": 14.5,
+    "feelsLikeC": 13.7,
     "humidity": 69,
     "windKph": 3.2,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T17:39:34.281+08:00",
+    "observedAt": "2026-11-26T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-26T17:49:44.624+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "第六届沈阳智能网联汽车大会开幕：聪明的车、智慧的路，正开进百姓日常",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738223.shtml",
-        "publishedAt": "2026-11-26T17:29:16.000+08:00"
+        "title": "中国国防部：有关域外国家应停止插手介入南海问题",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738236.shtml",
+        "publishedAt": "2026-11-26T17:44:15.000+08:00"
       },
       {
-        "title": "萧旭岑批赖清德“台独”主张，重申中国国民党坚定走两岸和平路线",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738221.shtml",
-        "publishedAt": "2026-11-26T17:27:34.000+08:00"
+        "title": "《东坡文库》再推10种图书 为海南东坡文化研究再添新成果",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738229.shtml",
+        "publishedAt": "2026-11-26T17:41:15.000+08:00"
       },
       {
-        "title": "国际科技创新中心指数2026：北京排名升至全球第二",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738219.shtml",
-        "publishedAt": "2026-11-26T17:27:00.000+08:00"
+        "title": "中国国防部：督促日方早日彻底清除日遗化武毒害",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738235.shtml",
+        "publishedAt": "2026-11-26T17:40:17.000+08:00"
       },
       {
-        "title": "傅东育谈选演员：看重信念感与表现力",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738215.shtml",
-        "publishedAt": "2026-11-26T17:26:10.000+08:00"
+        "title": "“十五五”时期宁夏新能源装机将突破1亿千瓦",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738228.shtml",
+        "publishedAt": "2026-11-26T17:40:13.000+08:00"
       },
       {
-        "title": "《两京十五日》中的“明”字，写对了吗？",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738213.shtml",
-        "publishedAt": "2026-11-26T17:24:40.000+08:00"
+        "title": "聚焦民生福祉与生态文明 中国人民大学发布两项研究成果",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738231.shtml",
+        "publishedAt": "2026-11-26T17:39:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T17:39:32.036+08:00",
+    "fetchedAt": "2026-11-26T17:49:42.472+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T17:39:32.438+08:00",
+      "fetchedAt": "2026-11-26T17:49:42.874+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T17:39:32.441+08:00",
+      "fetchedAt": "2026-11-26T17:49:42.877+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T17:39:32.446+08:00",
+      "fetchedAt": "2026-11-26T17:49:42.882+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T17:39:32.446+08:00",
+      "fetchedAt": "2026-11-26T17:49:42.883+08:00",
       "error": "未启用",
       "disabled": true
     }
