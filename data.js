@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T14:46:29.039+08:00",
+  "updatedAt": "2026-11-26T14:56:39.449+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T14:46:29.039+08:00",
+    "fetchedAt": "2026-11-26T14:56:39.450+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（财经天下）美国通胀超预期 加息“箭在弦上”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738062.shtml",
-        "publishedAt": "2026-11-26T14:39:43.000+08:00"
+        "title": "扶摇计划困境儿童原创艺术展展出 新增多家儿童福利机构作品",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738074.shtml",
+        "publishedAt": "2026-11-26T14:50:23.000+08:00"
       },
       {
-        "title": "福建漳州核电4号机组内穹顶吊装就位",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738060.shtml",
-        "publishedAt": "2026-11-26T14:35:55.000+08:00"
+        "title": "广西崇左边海联动 借平陆运河重塑向海产业新格局",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738073.shtml",
+        "publishedAt": "2026-11-26T14:49:01.000+08:00"
       },
       {
-        "title": "四川1至10月货物进出口9207.4亿元 中欧班列（成渝）累计开行超3万列",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738058.shtml",
-        "publishedAt": "2026-11-26T14:35:25.000+08:00"
+        "title": "上海统战一周要闻（2026.11.16-11.22）",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10738070.shtml",
+        "publishedAt": "2026-11-26T14:48:11.000+08:00"
       },
       {
-        "title": "中国-东盟自贸区3.0版推动区域经贸合作提质升级",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738059.shtml",
-        "publishedAt": "2026-11-26T14:34:34.000+08:00"
+        "title": "东西问·兰花奖丨白罗米：中国典籍中的“仁爱”“中和”，能解当今世界之结",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738064.shtml",
+        "publishedAt": "2026-11-26T14:46:23.000+08:00"
       },
       {
-        "title": "全球首个藏文搜索引擎上线十年 日均访问量130万次",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738055.shtml",
-        "publishedAt": "2026-11-26T14:34:16.000+08:00"
+        "title": "爱泼斯坦的死亡谜团",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738072.shtml",
+        "publishedAt": "2026-11-26T14:44:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T14:46:26.628+08:00",
+    "fetchedAt": "2026-11-26T14:56:37.384+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T14:46:27.023+08:00",
+      "fetchedAt": "2026-11-26T14:56:37.782+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T14:46:27.025+08:00",
+      "fetchedAt": "2026-11-26T14:56:37.784+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T14:46:27.030+08:00",
+      "fetchedAt": "2026-11-26T14:56:37.792+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T14:46:27.030+08:00",
+      "fetchedAt": "2026-11-26T14:56:37.792+08:00",
       "error": "未启用",
       "disabled": true
     }
