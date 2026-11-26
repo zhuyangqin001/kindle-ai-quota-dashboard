@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T11:32:14.825+08:00",
+  "updatedAt": "2026-11-26T11:42:28.120+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T11:32:14.825+08:00",
+    "fetchedAt": "2026-11-26T11:42:28.120+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "阿富汗警方称击毙6名武装分子",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737988.shtml",
+        "publishedAt": "2026-11-26T11:30:34.000+08:00"
+      },
+      {
+        "title": "北京市“无事不扰”清单扩围，夯实城市发展软实力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737986.shtml",
+        "publishedAt": "2026-11-26T11:29:28.000+08:00"
+      },
       {
         "title": "贵州长征文化旅游（集团）有限公司董事、副总经理赖基勇被查",
         "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737985.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "广西120名高中华裔留学生获中国华教基金会助学金",
         "url": "https://www.chinanews.com.cn/hr/2026/11-26/10737983.shtml",
         "publishedAt": "2026-11-26T11:14:36.000+08:00"
-      },
-      {
-        "title": "1-10月全国电力市场交易电量同比增长18.3%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737981.shtml",
-        "publishedAt": "2026-11-26T11:14:30.000+08:00"
-      },
-      {
-        "title": "阿根廷“中国时间”项目启动 中阿、渝阿开展广电视听交流合作",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10737982.shtml",
-        "publishedAt": "2026-11-26T11:13:24.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T11:32:12.417+08:00",
+    "fetchedAt": "2026-11-26T11:42:24.229+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T11:32:12.872+08:00",
+      "fetchedAt": "2026-11-26T11:42:25.005+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,15 +64,15 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 2,
-          "resetAt": "2026-11-26T13:00:05.000+08:00"
+          "resetAt": "2026-11-26T13:00:06.000+08:00"
         },
         {
           "name": "周",
           "usedPct": 25,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T11:32:12.874+08:00",
+      "fetchedAt": "2026-11-26T11:42:25.008+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T11:32:12.880+08:00",
+      "fetchedAt": "2026-11-26T11:42:25.018+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T11:32:12.881+08:00",
+      "fetchedAt": "2026-11-26T11:42:25.019+08:00",
       "error": "未启用",
       "disabled": true
     }
