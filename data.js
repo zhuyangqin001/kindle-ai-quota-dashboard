@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T21:23:55.541+08:00",
+  "updatedAt": "2026-11-26T21:34:07.800+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.3,
-    "feelsLikeC": 10.5,
-    "humidity": 84,
-    "windKph": 3.4,
-    "windDir": "南风",
+    "tempC": 11.1,
+    "feelsLikeC": 10.3,
+    "humidity": 85,
+    "windKph": 3.2,
+    "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T21:15:00.000+08:00",
-    "fetchedAt": "2026-11-26T21:23:55.541+08:00",
+    "observedAt": "2026-11-26T21:30:00.000+08:00",
+    "fetchedAt": "2026-11-26T21:34:07.800+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从城步乡村到国际舞台 湖南苗族姑娘分享联农带农实践",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738411.shtml",
-        "publishedAt": "2026-11-26T21:13:14.000+08:00"
+        "title": "2026深圳马拉松吸引57个国家和地区的跑者报名",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738421.shtml",
+        "publishedAt": "2026-11-26T21:24:35.000+08:00"
       },
       {
-        "title": "青海冬春文旅惠民 115家A级景区免首道门票",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738407.shtml",
-        "publishedAt": "2026-11-26T21:12:26.000+08:00"
+        "title": "从班级舞台到市级剧场 北京学生艺术节收官",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738415.shtml",
+        "publishedAt": "2026-11-26T21:21:03.000+08:00"
       },
       {
-        "title": "副热带高压强度1979年来同期最强 浙江近期最高气温冲击25℃",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738412.shtml",
-        "publishedAt": "2026-11-26T21:11:50.000+08:00"
+        "title": "广西南宁：巧克力博物馆引游人",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738400.shtml",
+        "publishedAt": "2026-11-26T21:19:58.000+08:00"
       },
       {
-        "title": "上海将促进专利产业化与国际化落地",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738404.shtml",
-        "publishedAt": "2026-11-26T21:08:44.000+08:00"
+        "title": "“援”定天山：从一串葡萄到600个“甜果”的湘疆协作故事",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738380.shtml",
+        "publishedAt": "2026-11-26T21:19:54.000+08:00"
       },
       {
-        "title": "粤港澳大湾区首批用水器具水效标准亮相鹏城",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738408.shtml",
-        "publishedAt": "2026-11-26T21:07:26.000+08:00"
+        "title": "第十四届“东升杯”国际创业大赛全球总决赛在京举行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738414.shtml",
+        "publishedAt": "2026-11-26T21:18:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T21:23:52.810+08:00",
+    "fetchedAt": "2026-11-26T21:34:05.175+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T21:23:53.595+08:00",
+      "fetchedAt": "2026-11-26T21:34:05.960+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T21:23:53.598+08:00",
+      "fetchedAt": "2026-11-26T21:34:05.964+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T21:23:53.607+08:00",
+      "fetchedAt": "2026-11-26T21:34:05.974+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T21:23:53.608+08:00",
+      "fetchedAt": "2026-11-26T21:34:05.974+08:00",
       "error": "未启用",
       "disabled": true
     }
