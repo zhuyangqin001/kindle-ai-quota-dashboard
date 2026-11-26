@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T12:02:55.500+08:00",
+  "updatedAt": "2026-11-26T12:13:07.465+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T12:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T12:02:55.500+08:00",
+    "fetchedAt": "2026-11-26T12:13:07.465+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国牵头制定！这一国际标准成30余个欧洲国家重要技术参考",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738006.shtml",
+        "publishedAt": "2026-11-26T11:59:00.000+08:00"
+      },
       {
         "title": "中国提出到2030年建成覆盖完善、性能领先的新一代通信网",
         "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738003.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "全国青少年足球训练工作会议在北京召开",
         "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738000.shtml",
         "publishedAt": "2026-11-26T11:49:28.000+08:00"
-      },
-      {
-        "title": "从雪域高原来到山城 西藏芒康青少年组团来渝 “走亲”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738002.shtml",
-        "publishedAt": "2026-11-26T11:48:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T12:02:52.684+08:00",
+    "fetchedAt": "2026-11-26T12:13:04.755+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T12:02:53.148+08:00",
+      "fetchedAt": "2026-11-26T12:13:05.187+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T12:02:53.151+08:00",
+      "fetchedAt": "2026-11-26T12:13:05.189+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T12:02:53.158+08:00",
+      "fetchedAt": "2026-11-26T12:13:05.195+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T12:02:53.159+08:00",
+      "fetchedAt": "2026-11-26T12:13:05.195+08:00",
       "error": "未启用",
       "disabled": true
     }
