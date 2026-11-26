@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T20:22:43.155+08:00",
+  "updatedAt": "2026-11-26T20:32:54.705+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12,
+    "tempC": 11.8,
     "feelsLikeC": 10.8,
-    "humidity": 81,
-    "windKph": 5.6,
+    "humidity": 84,
+    "windKph": 5,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T20:15:00.000+08:00",
-    "fetchedAt": "2026-11-26T20:22:43.155+08:00",
+    "observedAt": "2026-11-26T20:30:00.000+08:00",
+    "fetchedAt": "2026-11-26T20:32:54.705+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026世界市长对话·乌鲁木齐活动开幕",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738365.shtml",
-        "publishedAt": "2026-11-26T20:18:59.000+08:00"
+        "title": "广东惠州加快古城保护更新 总投资约40亿元",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738372.shtml",
+        "publishedAt": "2026-11-26T20:25:34.000+08:00"
       },
       {
-        "title": "三条高铁明日开通 车票今起发售",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738384.shtml",
-        "publishedAt": "2026-11-26T20:17:59.000+08:00"
+        "title": "蔗香悠悠三百年 江西余江一根甘蔗熬出畲乡共富甜",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738373.shtml",
+        "publishedAt": "2026-11-26T20:25:28.000+08:00"
       },
       {
-        "title": "市场监管总局开展网络交易平台信用共治活动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738383.shtml",
-        "publishedAt": "2026-11-26T20:16:37.000+08:00"
+        "title": "中国税务部门提升纳税人缴费人合规遵从度",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738366.shtml",
+        "publishedAt": "2026-11-26T20:23:27.000+08:00"
       },
       {
-        "title": "中俄两军举行战略磋商",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738381.shtml",
-        "publishedAt": "2026-11-26T20:14:37.000+08:00"
+        "title": "北京对重点群体给予社保补贴 个人缴费享25%补贴",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738385.shtml",
+        "publishedAt": "2026-11-26T20:20:47.000+08:00"
       },
       {
-        "title": "青海西宁国际传播中心揭牌成立",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738368.shtml",
-        "publishedAt": "2026-11-26T20:14:15.000+08:00"
+        "title": "中国空军33型60余件装备将参加第十六届中国航展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738364.shtml",
+        "publishedAt": "2026-11-26T20:19:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T20:22:40.965+08:00",
+    "fetchedAt": "2026-11-26T20:32:51.262+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T20:22:41.526+08:00",
+      "fetchedAt": "2026-11-26T20:32:51.704+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 7,
+          "usedPct": 19,
           "resetAt": "2026-11-27T00:57:47.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 29,
+          "usedPct": 31,
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T20:22:41.527+08:00",
+      "fetchedAt": "2026-11-26T20:32:51.705+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T20:22:41.535+08:00",
+      "fetchedAt": "2026-11-26T20:32:51.709+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T20:22:41.535+08:00",
+      "fetchedAt": "2026-11-26T20:32:51.709+08:00",
       "error": "未启用",
       "disabled": true
     }
