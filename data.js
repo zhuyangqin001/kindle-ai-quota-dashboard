@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T19:01:08.528+08:00",
+  "updatedAt": "2026-11-26T19:11:20.688+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T19:01:08.528+08:00",
+    "fetchedAt": "2026-11-26T19:11:20.688+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“可口可乐不再标生产日期”引热议，你怎么看？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738293.shtml",
-        "publishedAt": "2026-11-26T18:51:52.000+08:00"
+        "title": "河南登封：探访“天地之中”历史建筑群",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738307.shtml",
+        "publishedAt": "2026-11-26T19:07:29.000+08:00"
       },
       {
-        "title": "“AI原生”重塑竞争新优势 湖南工程机械拓展全球市场新空间",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738281.shtml",
-        "publishedAt": "2026-11-26T18:51:38.000+08:00"
+        "title": "2026年全国青年女子手球冠军杯赛在青海西宁开赛",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738305.shtml",
+        "publishedAt": "2026-11-26T19:05:33.000+08:00"
       },
       {
-        "title": "辽宁各港口多措并举保障“北煤南运”黄金通道",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738280.shtml",
-        "publishedAt": "2026-11-26T18:49:54.000+08:00"
+        "title": "广东茂名举办首届“茂善同行·微光筑愿”爱心义卖活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738304.shtml",
+        "publishedAt": "2026-11-26T19:05:03.000+08:00"
       },
       {
-        "title": "商务部：坚决反对美国对中国等经济体加征301关税",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738278.shtml",
-        "publishedAt": "2026-11-26T18:48:44.000+08:00"
+        "title": "广西三江侗乡：木耳丰收添富路",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738284.shtml",
+        "publishedAt": "2026-11-26T19:04:01.000+08:00"
       },
       {
-        "title": "广西以“产业兴边”绘就富民新路径",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738269.shtml",
-        "publishedAt": "2026-11-26T18:48:22.000+08:00"
+        "title": "广东近千家企业角逐双创大赛 展南粤蓬勃科技活力",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738303.shtml",
+        "publishedAt": "2026-11-26T19:03:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T19:01:06.001+08:00",
+    "fetchedAt": "2026-11-26T19:11:18.031+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T19:01:06.803+08:00",
+      "fetchedAt": "2026-11-26T19:11:18.838+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T19:01:06.807+08:00",
+      "fetchedAt": "2026-11-26T19:11:18.843+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T19:01:06.817+08:00",
+      "fetchedAt": "2026-11-26T19:11:18.854+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T19:01:06.817+08:00",
+      "fetchedAt": "2026-11-26T19:11:18.855+08:00",
       "error": "未启用",
       "disabled": true
     }
