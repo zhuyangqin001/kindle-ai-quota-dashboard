@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T20:43:05.807+08:00",
+  "updatedAt": "2026-11-26T20:53:18.549+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.8,
+    "tempC": 11.7,
     "feelsLikeC": 10.8,
     "humidity": 84,
-    "windKph": 5,
+    "windKph": 4.2,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T20:43:05.808+08:00",
+    "observedAt": "2026-11-26T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-26T20:53:18.549+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广东惠州加快古城保护更新 总投资约40亿元",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738372.shtml",
-        "publishedAt": "2026-11-26T20:25:34.000+08:00"
+        "title": "我“潍”和平发声系列活动在潍坊举行 征集集中营故事线索",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738371.shtml",
+        "publishedAt": "2026-11-26T20:46:37.000+08:00"
       },
       {
-        "title": "蔗香悠悠三百年 江西余江一根甘蔗熬出畲乡共富甜",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738373.shtml",
-        "publishedAt": "2026-11-26T20:25:28.000+08:00"
+        "title": "“援”定天山：黄冈中学办到新疆 升学率连涨",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738376.shtml",
+        "publishedAt": "2026-11-26T20:46:29.000+08:00"
       },
       {
-        "title": "中国税务部门提升纳税人缴费人合规遵从度",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738366.shtml",
-        "publishedAt": "2026-11-26T20:23:27.000+08:00"
+        "title": "与青年师生共话长征精神 《伟大的长征》主创走进中国人民大学",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738378.shtml",
+        "publishedAt": "2026-11-26T20:45:19.000+08:00"
       },
       {
-        "title": "北京对重点群体给予社保补贴 个人缴费享25%补贴",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738385.shtml",
-        "publishedAt": "2026-11-26T20:20:47.000+08:00"
+        "title": "西藏墨脱县将开展2026年“冬游墨脱·奔赴暖阳”系列文旅活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738375.shtml",
+        "publishedAt": "2026-11-26T20:45:11.000+08:00"
       },
       {
-        "title": "中国空军33型60余件装备将参加第十六届中国航展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738364.shtml",
-        "publishedAt": "2026-11-26T20:19:53.000+08:00"
+        "title": "英国净移民人数降至近三十年低位",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738379.shtml",
+        "publishedAt": "2026-11-26T20:42:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T20:43:03.414+08:00",
+    "fetchedAt": "2026-11-26T20:53:15.599+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T20:43:04.160+08:00",
+      "fetchedAt": "2026-11-26T20:53:16.553+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T20:43:04.163+08:00",
+      "fetchedAt": "2026-11-26T20:53:16.557+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T20:43:04.171+08:00",
+      "fetchedAt": "2026-11-26T20:53:16.568+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T20:43:04.171+08:00",
+      "fetchedAt": "2026-11-26T20:53:16.568+08:00",
       "error": "未启用",
       "disabled": true
     }
