@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T08:34:50.929+08:00",
+  "updatedAt": "2026-11-26T08:45:07.598+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T08:34:50.929+08:00",
+    "fetchedAt": "2026-11-26T08:45:07.598+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "近200名儿童因其死亡！肯尼亚邪教头目又添新罪，200年刑期恐将叠加，主犯竟面带微笑",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737891.shtml",
+        "publishedAt": "2026-11-26T08:36:27.000+08:00"
+      },
       {
         "title": "小心这几个信号 可能是胰腺出了问题",
         "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737885.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "美国第三季度经济增长率上修至4.3% 好于市场预期",
         "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737875.shtml",
         "publishedAt": "2026-11-26T08:21:00.000+08:00"
-      },
-      {
-        "title": "南非法院撤销总统拉马福萨“农场门”弹劾调查报告",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737874.shtml",
-        "publishedAt": "2026-11-26T08:20:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T08:34:48.051+08:00",
+    "fetchedAt": "2026-11-26T08:45:04.869+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T08:34:48.865+08:00",
+      "fetchedAt": "2026-11-26T08:45:05.611+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T08:34:48.869+08:00",
+      "fetchedAt": "2026-11-26T08:45:05.614+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T08:34:48.880+08:00",
+      "fetchedAt": "2026-11-26T08:45:05.624+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T08:34:48.880+08:00",
+      "fetchedAt": "2026-11-26T08:45:05.624+08:00",
       "error": "未启用",
       "disabled": true
     }
