@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T13:55:26.068+08:00",
+  "updatedAt": "2026-11-26T14:15:52.313+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.3,
-    "feelsLikeC": 16.5,
+    "tempC": 18.4,
+    "feelsLikeC": 16.6,
     "humidity": 50,
-    "windKph": 7.8,
+    "windKph": 7.6,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T13:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T13:55:26.068+08:00",
+    "observedAt": "2026-11-26T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-26T14:15:52.313+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "幼童头部血流不止 的哥交警合力打通生命通道",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738028.shtml",
-        "publishedAt": "2026-11-26T13:43:42.000+08:00"
+        "title": "鲁苏原油精品航线协同监管显效 长江扬州段原油吞吐量同比增长31.66%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738033.shtml",
+        "publishedAt": "2026-11-26T13:56:22.000+08:00"
       },
       {
-        "title": "黑龙江哈尔滨：数字手段管好“里子面子”为城市治理提速",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738024.shtml",
-        "publishedAt": "2026-11-26T13:39:19.000+08:00"
+        "title": "2026装备制造业发展大会将于12月3日至6日在苏州举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738031.shtml",
+        "publishedAt": "2026-11-26T13:55:54.000+08:00"
       },
       {
-        "title": "有饮料可以不标生产日期？市场监管总局回应",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738021.shtml",
-        "publishedAt": "2026-11-26T13:38:09.000+08:00"
+        "title": "首趟中蒙俄国际旅客列车25日开行 百余名旅客搭乘出境",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738035.shtml",
+        "publishedAt": "2026-11-26T13:55:40.000+08:00"
       },
       {
-        "title": "给教材划清商业边界 为成长把好内容关",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-26/10738023.shtml",
-        "publishedAt": "2026-11-26T13:37:17.000+08:00"
+        "title": "联动四地青春力量 渝粤港澳青年志愿服务交流会在重庆举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738030.shtml",
+        "publishedAt": "2026-11-26T13:55:40.000+08:00"
       },
       {
-        "title": "中葡西国际科创大赛线下路演阶段收官 助力海外科创项目开拓中国市场",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-26/10738022.shtml",
-        "publishedAt": "2026-11-26T13:35:23.000+08:00"
+        "title": "福建省杂技团建团七十周年主题精品展演在福州演出",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738032.shtml",
+        "publishedAt": "2026-11-26T13:54:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T13:55:20.489+08:00",
+    "fetchedAt": "2026-11-26T14:15:46.211+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T13:55:20.873+08:00",
+      "fetchedAt": "2026-11-26T14:15:46.965+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-26T12:43:43.726+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-26T13:55:20.875+08:00"
+      "lastAttemptAt": "2026-11-26T14:15:46.968+08:00"
     },
     "mimo": {
       "ok": false,
@@ -83,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T13:55:20.880+08:00",
+      "fetchedAt": "2026-11-26T14:15:46.978+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T13:55:20.880+08:00",
+      "fetchedAt": "2026-11-26T14:15:46.979+08:00",
       "error": "未启用",
       "disabled": true
     }
