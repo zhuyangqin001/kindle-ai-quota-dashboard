@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-26T08:55:24.763+08:00",
+  "updatedAt": "2026-11-26T09:35:54.988+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.9,
-    "feelsLikeC": 10.8,
-    "humidity": 79,
-    "windKph": 4.2,
-    "windDir": "东风",
+    "tempC": 13.5,
+    "feelsLikeC": 12.8,
+    "humidity": 74,
+    "windKph": 2.2,
+    "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T08:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T08:55:24.763+08:00",
+    "observedAt": "2026-11-26T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-26T09:35:54.988+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中新健康｜“父亲抽烟17岁女儿患肺癌”冲上热搜，医生提醒",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737888.shtml",
-        "publishedAt": "2026-11-26T08:46:52.000+08:00"
+        "title": "美国艾奥瓦州引爆近5吨含铅爆炸物 引发健康风险担忧",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737886.shtml",
+        "publishedAt": "2026-11-26T09:30:38.000+08:00"
       },
       {
-        "title": "近200名儿童因其死亡！肯尼亚邪教头目又添新罪，200年刑期恐将叠加，主犯竟面带微笑",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737891.shtml",
-        "publishedAt": "2026-11-26T08:36:27.000+08:00"
+        "title": "中国驻里约热内卢总领馆提醒领区中国公民注意涉水安全",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-26/10737896.shtml",
+        "publishedAt": "2026-11-26T09:30:26.000+08:00"
       },
       {
-        "title": "小心这几个信号 可能是胰腺出了问题",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737885.shtml",
-        "publishedAt": "2026-11-26T08:24:08.000+08:00"
+        "title": "A股开盘：超4400只个股飘红，三大指数集体高开",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737915.shtml",
+        "publishedAt": "2026-11-26T09:29:30.000+08:00"
       },
       {
-        "title": "美国陆军引爆近5吨含铅爆炸物 白色烟柱直冲天空",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737878.shtml",
-        "publishedAt": "2026-11-26T08:22:42.000+08:00"
+        "title": "云岭动态第四十九期",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10737904.shtml",
+        "publishedAt": "2026-11-26T09:28:26.000+08:00"
       },
       {
-        "title": "英国首相府网红拍摄事件引发政坛争议",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737877.shtml",
-        "publishedAt": "2026-11-26T08:21:48.000+08:00"
+        "title": "冷空气又将影响北方气温起伏 新疆北部雨雪频繁",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737894.shtml",
+        "publishedAt": "2026-11-26T09:28:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T08:55:22.087+08:00",
+    "fetchedAt": "2026-11-26T09:35:52.164+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T08:55:22.896+08:00",
+      "fetchedAt": "2026-11-26T09:35:52.892+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T08:55:22.901+08:00",
+      "fetchedAt": "2026-11-26T09:35:52.896+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T08:55:22.910+08:00",
+      "fetchedAt": "2026-11-26T09:35:52.907+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T08:55:22.910+08:00",
+      "fetchedAt": "2026-11-26T09:35:52.908+08:00",
       "error": "未启用",
       "disabled": true
     }
