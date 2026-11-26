@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T15:37:21.742+08:00",
+  "updatedAt": "2026-11-26T15:47:31.790+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.3,
-    "feelsLikeC": 16.7,
-    "humidity": 50,
-    "windKph": 7.3,
+    "tempC": 18.2,
+    "feelsLikeC": 16.5,
+    "humidity": 51,
+    "windKph": 7.1,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T15:37:21.742+08:00",
+    "observedAt": "2026-11-26T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-26T15:47:31.790+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "文化“两创”赋能 山东济宁儒韵文脉向新而行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738103.shtml",
-        "publishedAt": "2026-11-26T15:30:42.000+08:00"
+        "title": "空军33型主战装备参加中国航展",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738115.shtml",
+        "publishedAt": "2026-11-26T15:37:42.000+08:00"
       },
       {
-        "title": "治理仿冒“撞脸药”，让买药更放心用药更安心",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10738065.shtml",
-        "publishedAt": "2026-11-26T15:29:03.000+08:00"
+        "title": "河谷荒滩长出“果蔬工厂”——北京援藏10年接力探索高原设施农业",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10738114.shtml",
+        "publishedAt": "2026-11-26T15:36:08.000+08:00"
       },
       {
-        "title": "A股收评：超3600只个股飘绿，沪指、创业板指收涨，深指收跌",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738107.shtml",
-        "publishedAt": "2026-11-26T15:28:07.000+08:00"
+        "title": "中方：日本船只非法侵闯钓鱼岛领海严重侵犯中国主权",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738113.shtml",
+        "publishedAt": "2026-11-26T15:35:04.000+08:00"
       },
       {
-        "title": "中方：当前日遗化武销毁进程严重滞后根本原因在于日方固守错误史观",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738106.shtml",
-        "publishedAt": "2026-11-26T15:28:01.000+08:00"
+        "title": "雪假来啦！全国雪假亲子游地图出炉 十大冰雪趣玩胜地带你解锁冬趣",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738112.shtml",
+        "publishedAt": "2026-11-26T15:33:58.000+08:00"
       },
       {
-        "title": "外交部：中方反对以“产能过剩”为借口进行政治操弄",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738105.shtml",
-        "publishedAt": "2026-11-26T15:25:27.000+08:00"
+        "title": "中国国防部将在国防大学举办国际问题研讨班",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738109.shtml",
+        "publishedAt": "2026-11-26T15:33:42.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T15:37:19.280+08:00",
+    "fetchedAt": "2026-11-26T15:47:29.076+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T15:37:19.740+08:00",
+      "fetchedAt": "2026-11-26T15:47:29.509+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T15:37:19.742+08:00",
+      "fetchedAt": "2026-11-26T15:47:29.512+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T15:37:19.747+08:00",
+      "fetchedAt": "2026-11-26T15:47:29.517+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T15:37:19.748+08:00",
+      "fetchedAt": "2026-11-26T15:47:29.517+08:00",
       "error": "未启用",
       "disabled": true
     }
