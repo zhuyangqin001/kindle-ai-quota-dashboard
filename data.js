@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T12:33:33.501+08:00",
+  "updatedAt": "2026-11-26T12:43:47.389+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T12:33:33.501+08:00",
+    "fetchedAt": "2026-11-26T12:43:47.389+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "起火20分钟无人报警 山西太原金屋大厦火灾细节披露",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738009.shtml",
+        "publishedAt": "2026-11-26T12:32:34.000+08:00"
+      },
+      {
+        "title": "科技赋能雪上体验 中国冬奥小城“上新”玩法",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738008.shtml",
+        "publishedAt": "2026-11-26T12:32:24.000+08:00"
+      },
       {
         "title": "中国牵头制定！这一国际标准成30余个欧洲国家重要技术参考",
         "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738006.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "个人养老金四周年交出怎样的成绩单？还有哪些难题需破解？",
         "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738004.shtml",
         "publishedAt": "2026-11-26T11:50:44.000+08:00"
-      },
-      {
-        "title": "重庆长寿：荒废闲置地变民生宜居地",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738001.shtml",
-        "publishedAt": "2026-11-26T11:50:40.000+08:00"
-      },
-      {
-        "title": "全国青少年足球训练工作会议在北京召开",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738000.shtml",
-        "publishedAt": "2026-11-26T11:49:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T12:33:31.049+08:00",
+    "fetchedAt": "2026-11-26T12:43:43.315+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T12:33:31.501+08:00",
+      "fetchedAt": "2026-11-26T12:43:43.724+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T12:33:31.504+08:00",
+      "fetchedAt": "2026-11-26T12:43:43.726+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T12:33:31.509+08:00",
+      "fetchedAt": "2026-11-26T12:43:43.731+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T12:33:31.509+08:00",
+      "fetchedAt": "2026-11-26T12:43:43.731+08:00",
       "error": "未启用",
       "disabled": true
     }
