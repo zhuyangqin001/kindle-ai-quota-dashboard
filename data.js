@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T10:26:57.951+08:00",
+  "updatedAt": "2026-11-26T10:37:11.651+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.9,
-    "feelsLikeC": 14.4,
-    "humidity": 68,
-    "windKph": 1.3,
+    "tempC": 15.4,
+    "feelsLikeC": 14.7,
+    "humidity": 66,
+    "windKph": 2.6,
     "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-26T10:26:57.951+08:00",
+    "observedAt": "2026-11-26T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-26T10:37:11.651+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "自然资源部、国家林业和草原局通报2026年第三季度6个违法违规典型问题",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737960.shtml",
+        "publishedAt": "2026-11-26T10:31:01.000+08:00"
+      },
+      {
+        "title": "航天员武毅：从黄土高原出发，一路向星辰奔赴",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737965.shtml",
+        "publishedAt": "2026-11-26T10:30:23.000+08:00"
+      },
       {
         "title": "国家卫生健康委办公厅关于进一步优化健康体检服务的通知",
         "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737963.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "巴基斯坦航天员穆罕默德·齐尚·阿里：他的飞天梦 连着中巴友谊",
         "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737959.shtml",
         "publishedAt": "2026-11-26T10:17:11.000+08:00"
-      },
-      {
-        "title": "陈克龙任江西省人民政府副省长",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737957.shtml",
-        "publishedAt": "2026-11-26T10:09:18.000+08:00"
-      },
-      {
-        "title": "贵州省纪委监委派驻省住房城乡建设厅纪检监察组原副厅长级专职纪检监察员郑梦英被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737953.shtml",
-        "publishedAt": "2026-11-26T10:08:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T10:26:54.317+08:00",
+    "fetchedAt": "2026-11-26T10:37:08.453+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T10:26:55.147+08:00",
+      "fetchedAt": "2026-11-26T10:37:09.207+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T10:26:55.150+08:00",
+      "fetchedAt": "2026-11-26T10:37:09.210+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T10:26:55.160+08:00",
+      "fetchedAt": "2026-11-26T10:37:09.219+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T10:26:55.161+08:00",
+      "fetchedAt": "2026-11-26T10:37:09.220+08:00",
       "error": "未启用",
       "disabled": true
     }
