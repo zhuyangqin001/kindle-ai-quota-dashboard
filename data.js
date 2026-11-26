@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T19:41:56.845+08:00",
+  "updatedAt": "2026-11-26T19:52:08.877+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.7,
-    "feelsLikeC": 11.9,
-    "humidity": 77,
-    "windKph": 3.4,
+    "tempC": 12.4,
+    "feelsLikeC": 11.4,
+    "humidity": 79,
+    "windKph": 4.9,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T19:41:56.845+08:00",
+    "observedAt": "2026-11-26T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-26T19:52:08.877+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "市场监管总局回应食品保质期标注问题",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738331.shtml",
-        "publishedAt": "2026-11-26T19:35:07.000+08:00"
+        "title": "小农户参与探索气候适应型农业 两年建17个示范点",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738332.shtml",
+        "publishedAt": "2026-11-26T19:49:00.000+08:00"
       },
       {
-        "title": "何以中国｜九百多岁的西安碑林，为什么常看常新？",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738320.shtml",
-        "publishedAt": "2026-11-26T19:33:13.000+08:00"
+        "title": "无锡太湖鼋头渚观鸟季开启 邀客共赴红嘴鸥“冬日之约”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738334.shtml",
+        "publishedAt": "2026-11-26T19:48:46.000+08:00"
       },
       {
-        "title": "何以中国｜荣获国际大奖！《赳赳大秦》如何让世界读懂秦风？",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738319.shtml",
-        "publishedAt": "2026-11-26T19:32:49.000+08:00"
+        "title": "第二届全球技术创新大赛收官 浙江开启赛后“陪跑”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738330.shtml",
+        "publishedAt": "2026-11-26T19:47:51.000+08:00"
       },
       {
-        "title": "技术已经足够成熟精密，火箭发射为啥还要人工倒计时？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738326.shtml",
-        "publishedAt": "2026-11-26T19:31:35.000+08:00"
+        "title": "新疆喀什：科学管护冬小麦 精准施策助丰收",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738328.shtml",
+        "publishedAt": "2026-11-26T19:47:01.000+08:00"
       },
       {
-        "title": "公交司机突发疾病，连撞3车后身亡！律师解读：工伤怎么认定？赔偿谁来承担？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738318.shtml",
-        "publishedAt": "2026-11-26T19:30:35.000+08:00"
+        "title": "粤港澳大湾区服贸会首设检验检测与国际认证专区",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-26/10738327.shtml",
+        "publishedAt": "2026-11-26T19:46:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T19:41:54.627+08:00",
+    "fetchedAt": "2026-11-26T19:52:06.045+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T19:41:55.268+08:00",
+      "fetchedAt": "2026-11-26T19:52:06.850+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T00:41:56.000+08:00"
+          "resetAt": "2026-11-27T00:52:08.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T19:41:55.270+08:00",
+      "fetchedAt": "2026-11-26T19:52:06.854+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T19:41:55.276+08:00",
+      "fetchedAt": "2026-11-26T19:52:06.863+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T19:41:55.276+08:00",
+      "fetchedAt": "2026-11-26T19:52:06.864+08:00",
       "error": "未启用",
       "disabled": true
     }
