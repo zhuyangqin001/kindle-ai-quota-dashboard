@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T15:17:00.305+08:00",
+  "updatedAt": "2026-11-26T15:27:11.857+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-26T15:17:00.305+08:00",
+    "fetchedAt": "2026-11-26T15:27:11.858+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "商务部：坚决反对美对中国等经济体加征301关税",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738091.shtml",
-        "publishedAt": "2026-11-26T15:10:56.000+08:00"
+        "title": "外交部：双方应维护中美经贸关系稳定发展态势",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738102.shtml",
+        "publishedAt": "2026-11-26T15:20:49.000+08:00"
       },
       {
-        "title": "晋北黄土山梁上的养猪母子：守家业、帮亲人、奔好日子",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738081.shtml",
-        "publishedAt": "2026-11-26T15:10:30.000+08:00"
+        "title": "中方就日本船只非法侵闯钓鱼岛领海向日方提出严正交涉",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738101.shtml",
+        "publishedAt": "2026-11-26T15:19:43.000+08:00"
       },
       {
-        "title": "18家重点平台企业已完成算法协商 覆盖新就业形态劳动者逾2500万人",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738085.shtml",
-        "publishedAt": "2026-11-26T15:09:20.000+08:00"
+        "title": "做活开放“棋眼” 广西加快成为面向东盟开放合作超级枢纽",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738096.shtml",
+        "publishedAt": "2026-11-26T15:18:27.000+08:00"
       },
       {
-        "title": "今年以来烟台港对欧洲发运风电设备98套 发运量创新高",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738084.shtml",
-        "publishedAt": "2026-11-26T15:09:10.000+08:00"
+        "title": "外交部：日方应还中国人民以净土",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738100.shtml",
+        "publishedAt": "2026-11-26T15:17:55.000+08:00"
       },
       {
-        "title": "援外途中偶遇患病华侨，医疗队万米高空上演暖心救援，华侨在飞机上写下感谢信",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-26/10738090.shtml",
-        "publishedAt": "2026-11-26T15:08:38.000+08:00"
+        "title": "换脸视频 高仿真语音 批量外呼 AI造假何以“眼见为虚”？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738098.shtml",
+        "publishedAt": "2026-11-26T15:16:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T15:16:57.810+08:00",
+    "fetchedAt": "2026-11-26T15:27:08.403+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T15:16:58.331+08:00",
+      "fetchedAt": "2026-11-26T15:27:08.818+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T15:16:58.333+08:00",
+      "fetchedAt": "2026-11-26T15:27:08.822+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T15:16:58.340+08:00",
+      "fetchedAt": "2026-11-26T15:27:08.829+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T15:16:58.340+08:00",
+      "fetchedAt": "2026-11-26T15:27:08.829+08:00",
       "error": "未启用",
       "disabled": true
     }
