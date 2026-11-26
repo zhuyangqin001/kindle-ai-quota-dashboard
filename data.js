@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T16:38:26.900+08:00",
+  "updatedAt": "2026-11-26T16:48:37.484+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.7,
-    "feelsLikeC": 15.7,
-    "humidity": 60,
-    "windKph": 4.7,
+    "tempC": 16.1,
+    "feelsLikeC": 15.3,
+    "humidity": 64,
+    "windKph": 3.8,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T16:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T16:38:26.901+08:00",
+    "observedAt": "2026-11-26T16:45:00.000+08:00",
+    "fetchedAt": "2026-11-26T16:48:37.484+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国国防部：日本是亚太和平安宁的现实破坏者",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738173.shtml",
-        "publishedAt": "2026-11-26T16:31:39.000+08:00"
+        "title": "解绑账号被要求手持身份证拍照 法院：缺乏法律依据",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-26/10738192.shtml",
+        "publishedAt": "2026-11-26T16:46:38.000+08:00"
       },
       {
-        "title": "国防部：有关域外国家应停止插手介入南海问题",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738171.shtml",
-        "publishedAt": "2026-11-26T16:30:11.000+08:00"
+        "title": "长春大学欧美同学会赴欧美同学会东北海创中心参观交流",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10738186.shtml",
+        "publishedAt": "2026-11-26T16:46:30.000+08:00"
       },
       {
-        "title": "国防部：若日遗化武都不愿清理，日方怎能彻底清算军国主义遗毒？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738172.shtml",
-        "publishedAt": "2026-11-26T16:29:53.000+08:00"
+        "title": "民警的一次出警，在孩子心中种下法治的种子",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738178.shtml",
+        "publishedAt": "2026-11-26T16:46:30.000+08:00"
       },
       {
-        "title": "中国军队卫生代表团参加第46届世界军事医学大会",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738163.shtml",
-        "publishedAt": "2026-11-26T16:28:57.000+08:00"
+        "title": "第十六届深港澳当代水墨画作品交流展开幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738191.shtml",
+        "publishedAt": "2026-11-26T16:45:46.000+08:00"
       },
       {
-        "title": "南狮腾跃广东省第八届民族传统体育运动会",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-26/10738164.shtml",
-        "publishedAt": "2026-11-26T16:28:53.000+08:00"
+        "title": "辽阳市民营经济人士气排球友谊赛举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10738187.shtml",
+        "publishedAt": "2026-11-26T16:45:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T16:38:24.195+08:00",
+    "fetchedAt": "2026-11-26T16:48:35.209+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T16:38:24.740+08:00",
+      "fetchedAt": "2026-11-26T16:48:35.714+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T16:38:24.742+08:00",
+      "fetchedAt": "2026-11-26T16:48:35.717+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T16:38:24.747+08:00",
+      "fetchedAt": "2026-11-26T16:48:35.724+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T16:38:24.747+08:00",
+      "fetchedAt": "2026-11-26T16:48:35.724+08:00",
       "error": "未启用",
       "disabled": true
     }
