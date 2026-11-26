@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T08:45:07.598+08:00",
+  "updatedAt": "2026-11-26T08:55:24.763+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.3,
-    "feelsLikeC": 10.1,
-    "humidity": 82,
-    "windKph": 5,
+    "tempC": 11.9,
+    "feelsLikeC": 10.8,
+    "humidity": 79,
+    "windKph": 4.2,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T08:45:07.598+08:00",
+    "observedAt": "2026-11-26T08:45:00.000+08:00",
+    "fetchedAt": "2026-11-26T08:55:24.763+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中新健康｜“父亲抽烟17岁女儿患肺癌”冲上热搜，医生提醒",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737888.shtml",
+        "publishedAt": "2026-11-26T08:46:52.000+08:00"
+      },
       {
         "title": "近200名儿童因其死亡！肯尼亚邪教头目又添新罪，200年刑期恐将叠加，主犯竟面带微笑",
         "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737891.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "英国首相府网红拍摄事件引发政坛争议",
         "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737877.shtml",
         "publishedAt": "2026-11-26T08:21:48.000+08:00"
-      },
-      {
-        "title": "美国第三季度经济增长率上修至4.3% 好于市场预期",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737875.shtml",
-        "publishedAt": "2026-11-26T08:21:00.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T08:45:04.869+08:00",
+    "fetchedAt": "2026-11-26T08:55:22.087+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T08:45:05.611+08:00",
+      "fetchedAt": "2026-11-26T08:55:22.896+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T08:45:05.614+08:00",
+      "fetchedAt": "2026-11-26T08:55:22.901+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T08:45:05.624+08:00",
+      "fetchedAt": "2026-11-26T08:55:22.910+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T08:45:05.624+08:00",
+      "fetchedAt": "2026-11-26T08:55:22.910+08:00",
       "error": "未启用",
       "disabled": true
     }
