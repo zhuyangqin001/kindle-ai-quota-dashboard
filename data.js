@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T20:32:54.705+08:00",
+  "updatedAt": "2026-11-26T20:43:05.807+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T20:32:54.705+08:00",
+    "fetchedAt": "2026-11-26T20:43:05.808+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-26T20:19:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T20:32:51.262+08:00",
+    "fetchedAt": "2026-11-26T20:43:03.414+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T20:32:51.704+08:00",
+      "fetchedAt": "2026-11-26T20:43:04.160+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T20:32:51.705+08:00",
+      "fetchedAt": "2026-11-26T20:43:04.163+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T20:32:51.709+08:00",
+      "fetchedAt": "2026-11-26T20:43:04.171+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T20:32:51.709+08:00",
+      "fetchedAt": "2026-11-26T20:43:04.171+08:00",
       "error": "未启用",
       "disabled": true
     }
