@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-26T14:26:05.891+08:00",
+  "updatedAt": "2026-11-26T14:36:17.584+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 18.4,
-    "feelsLikeC": 16.6,
+    "feelsLikeC": 16.7,
     "humidity": 50,
-    "windKph": 7.6,
+    "windKph": 7.5,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T14:15:00.000+08:00",
-    "fetchedAt": "2026-11-26T14:26:05.891+08:00",
+    "observedAt": "2026-11-26T14:30:00.000+08:00",
+    "fetchedAt": "2026-11-26T14:36:17.584+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "外媒聚焦神舟二十四号发射：见证中国航天历史性时刻，中巴携手逐梦太空",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738054.shtml",
+        "publishedAt": "2026-11-26T14:29:36.000+08:00"
+      },
+      {
+        "title": "警惕诱导消费和过度医疗",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10738052.shtml",
+        "publishedAt": "2026-11-26T14:28:56.000+08:00"
+      },
+      {
+        "title": "前10个月福建省对RCEP其他成员国进出口破5000亿元",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738053.shtml",
+        "publishedAt": "2026-11-26T14:27:52.000+08:00"
+      },
+      {
+        "title": "云南红河州前三季度进出口额同比增长7.5％",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738050.shtml",
+        "publishedAt": "2026-11-26T14:25:18.000+08:00"
+      },
+      {
         "title": "水果成为云南西双版纳关累港口岸第一大进口品类",
         "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738048.shtml",
         "publishedAt": "2026-11-26T14:22:26.000+08:00"
-      },
-      {
-        "title": "青藏铁路通车20年 白玛的故乡与远方",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738047.shtml",
-        "publishedAt": "2026-11-26T14:19:06.000+08:00"
-      },
-      {
-        "title": "（长征胜利90周年）鏖战独树镇：长征路上的突围与新生",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738046.shtml",
-        "publishedAt": "2026-11-26T14:18:42.000+08:00"
-      },
-      {
-        "title": "黑龙江发布大雪预报 局地有暴雪伴风吹雪",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738041.shtml",
-        "publishedAt": "2026-11-26T14:17:54.000+08:00"
-      },
-      {
-        "title": "一面留言板，见证杜甫故里的“古今对话”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738045.shtml",
-        "publishedAt": "2026-11-26T14:17:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T14:26:02.625+08:00",
+    "fetchedAt": "2026-11-26T14:36:14.858+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T14:26:03.299+08:00",
+      "fetchedAt": "2026-11-26T14:36:15.585+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 6,
+          "usedPct": 18,
           "resetAt": "2026-11-26T19:25:25.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 26,
+          "usedPct": 28,
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T14:26:03.302+08:00",
+      "fetchedAt": "2026-11-26T14:36:15.588+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T14:26:03.314+08:00",
+      "fetchedAt": "2026-11-26T14:36:15.596+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T14:26:03.315+08:00",
+      "fetchedAt": "2026-11-26T14:36:15.596+08:00",
       "error": "未启用",
       "disabled": true
     }
