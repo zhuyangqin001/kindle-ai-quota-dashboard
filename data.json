@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-26T19:52:08.877+08:00",
+  "updatedAt": "2026-11-26T20:02:20.697+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.4,
-    "feelsLikeC": 11.4,
-    "humidity": 79,
-    "windKph": 4.9,
+    "tempC": 12.2,
+    "feelsLikeC": 11,
+    "humidity": 80,
+    "windKph": 5.7,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T19:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T19:52:08.877+08:00",
+    "observedAt": "2026-11-26T20:00:00.000+08:00",
+    "fetchedAt": "2026-11-26T20:02:20.698+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "前10月河源签发输APEC其他经济体原产地证书金额近10亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738336.shtml",
+        "publishedAt": "2026-11-26T19:52:48.000+08:00"
+      },
+      {
+        "title": "中国成功发射遥感四十九号01组卫星",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738335.shtml",
+        "publishedAt": "2026-11-26T19:52:42.000+08:00"
+      },
+      {
+        "title": "《北京市微短剧产业发展报告》发布",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738333.shtml",
+        "publishedAt": "2026-11-26T19:51:08.000+08:00"
+      },
       {
         "title": "小农户参与探索气候适应型农业 两年建17个示范点",
         "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738332.shtml",
@@ -28,24 +43,9 @@
         "title": "无锡太湖鼋头渚观鸟季开启 邀客共赴红嘴鸥“冬日之约”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738334.shtml",
         "publishedAt": "2026-11-26T19:48:46.000+08:00"
-      },
-      {
-        "title": "第二届全球技术创新大赛收官 浙江开启赛后“陪跑”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738330.shtml",
-        "publishedAt": "2026-11-26T19:47:51.000+08:00"
-      },
-      {
-        "title": "新疆喀什：科学管护冬小麦 精准施策助丰收",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738328.shtml",
-        "publishedAt": "2026-11-26T19:47:01.000+08:00"
-      },
-      {
-        "title": "粤港澳大湾区服贸会首设检验检测与国际认证专区",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-26/10738327.shtml",
-        "publishedAt": "2026-11-26T19:46:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T19:52:06.045+08:00",
+    "fetchedAt": "2026-11-26T20:02:18.202+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T19:52:06.850+08:00",
+      "fetchedAt": "2026-11-26T20:02:18.983+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-27T00:52:08.000+08:00"
+          "usedPct": 3,
+          "resetAt": "2026-11-27T00:57:47.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T19:52:06.854+08:00",
+      "fetchedAt": "2026-11-26T20:02:18.986+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T19:52:06.863+08:00",
+      "fetchedAt": "2026-11-26T20:02:18.991+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T19:52:06.864+08:00",
+      "fetchedAt": "2026-11-26T20:02:18.991+08:00",
       "error": "未启用",
       "disabled": true
     }
