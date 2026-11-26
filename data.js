@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T16:07:52.638+08:00",
+  "updatedAt": "2026-11-26T16:18:03.515+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.7,
-    "feelsLikeC": 16.3,
-    "humidity": 54,
-    "windKph": 6.6,
+    "tempC": 17.3,
+    "feelsLikeC": 16,
+    "humidity": 56,
+    "windKph": 5.7,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T16:07:52.638+08:00",
+    "observedAt": "2026-11-26T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-26T16:18:03.515+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "印尼一处矿井发生事故 13人遇难13人被困",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738134.shtml",
-        "publishedAt": "2026-11-26T16:01:09.000+08:00"
+        "title": "劳动关系模糊、工作地点灵活，主播的工伤如何认定？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738157.shtml",
+        "publishedAt": "2026-11-26T16:16:38.000+08:00"
       },
       {
-        "title": "歼-20A、运-20B将首次亮相中国航展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738133.shtml",
-        "publishedAt": "2026-11-26T15:58:23.000+08:00"
+        "title": "中经评论：呵护“一老一小”，托起万家幸福",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-26/10738152.shtml",
+        "publishedAt": "2026-11-26T16:14:20.000+08:00"
       },
       {
-        "title": "海内外学者热议跨文化视域下美术与设计传承创新",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738126.shtml",
-        "publishedAt": "2026-11-26T15:56:03.000+08:00"
+        "title": "热“雪”沸腾聚人气 “冰雪+”玩法上“新”引爆冰雪消费热潮",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738151.shtml",
+        "publishedAt": "2026-11-26T16:12:26.000+08:00"
       },
       {
-        "title": "国防部回应菲澳防务合作协议：将继续采取必要措施 有力应对侵权挑衅行径",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738131.shtml",
-        "publishedAt": "2026-11-26T15:55:27.000+08:00"
+        "title": "没签合同“工伤”还须赔吗",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-26/10738132.shtml",
+        "publishedAt": "2026-11-26T16:11:34.000+08:00"
       },
       {
-        "title": "国防部回应台湾地区计划采购无人艇",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738130.shtml",
-        "publishedAt": "2026-11-26T15:53:27.000+08:00"
+        "title": "AI参与人才招聘，边界在哪里？",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-26/10738129.shtml",
+        "publishedAt": "2026-11-26T16:11:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T16:07:50.602+08:00",
+    "fetchedAt": "2026-11-26T16:18:00.236+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T16:07:50.999+08:00",
+      "fetchedAt": "2026-11-26T16:18:00.759+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T16:07:51.001+08:00",
+      "fetchedAt": "2026-11-26T16:18:00.761+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T16:07:51.007+08:00",
+      "fetchedAt": "2026-11-26T16:18:00.767+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T16:07:51.007+08:00",
+      "fetchedAt": "2026-11-26T16:18:00.767+08:00",
       "error": "未启用",
       "disabled": true
     }
