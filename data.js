@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T07:05:31.552+08:00",
+  "updatedAt": "2026-11-27T07:15:44.187+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 7.7,
-    "feelsLikeC": 6.9,
-    "humidity": 95,
-    "windKph": 0.2,
+    "tempC": 8.1,
+    "feelsLikeC": 7.3,
+    "humidity": 94,
+    "windKph": 0.4,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T07:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T07:05:31.552+08:00",
+    "observedAt": "2026-11-27T07:15:00.000+08:00",
+    "fetchedAt": "2026-11-27T07:15:44.187+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "未来五年，我国服务贸易将迎来哪些新机遇？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738480.shtml",
+        "publishedAt": "2026-11-27T07:06:51.000+08:00"
+      },
       {
         "title": "11月27日新闻早报",
         "url": "https://www.chinanews.com.cn/iframe/2026/11-27/10738479.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "巴西副总统：美国对巴西加征新关税完全不合理",
         "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738476.shtml",
         "publishedAt": "2026-11-27T06:57:06.000+08:00"
-      },
-      {
-        "title": "为科威特军方维护雷达天线 两名意大利人遇袭身亡",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738475.shtml",
-        "publishedAt": "2026-11-27T06:53:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T07:05:28.643+08:00",
+    "fetchedAt": "2026-11-27T07:15:41.393+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T07:05:29.433+08:00",
+      "fetchedAt": "2026-11-27T07:15:42.178+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T12:05:31.000+08:00"
+          "resetAt": "2026-11-27T12:15:44.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T07:05:29.437+08:00",
+      "fetchedAt": "2026-11-27T07:15:42.182+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T07:05:29.446+08:00",
+      "fetchedAt": "2026-11-27T07:15:42.192+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T07:05:29.446+08:00",
+      "fetchedAt": "2026-11-27T07:15:42.193+08:00",
       "error": "未启用",
       "disabled": true
     }
