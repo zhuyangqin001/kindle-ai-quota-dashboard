@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T13:24:22.360+08:00",
+  "updatedAt": "2026-11-26T13:34:42.603+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.1,
-    "feelsLikeC": 16.5,
+    "tempC": 18.2,
+    "feelsLikeC": 16.6,
     "humidity": 50,
-    "windKph": 8.3,
+    "windKph": 8,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-26T13:24:22.360+08:00",
+    "observedAt": "2026-11-26T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-26T13:34:42.603+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "老舍笔名百年，丹柿小院“红”到冬天",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738012.shtml",
-        "publishedAt": "2026-11-26T13:04:50.000+08:00"
+        "title": "外机故意冲闯我领海线，歼-16飞行员实力驱离！",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738019.shtml",
+        "publishedAt": "2026-11-26T13:28:19.000+08:00"
       },
       {
-        "title": "德宏：在503.8公里边境线上构筑民族团结进步的幸福家园",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10738010.shtml",
-        "publishedAt": "2026-11-26T12:55:29.000+08:00"
+        "title": "肖像侵权不认“似像非像”，AI融脸须守法律红线",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738017.shtml",
+        "publishedAt": "2026-11-26T13:25:41.000+08:00"
       },
       {
-        "title": "起火20分钟无人报警 山西太原金屋大厦火灾细节披露",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738009.shtml",
-        "publishedAt": "2026-11-26T12:32:34.000+08:00"
+        "title": "日本各界反对政府撬动“无核三原则”：和平主义将沦为空谈",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737993.shtml",
+        "publishedAt": "2026-11-26T13:23:25.000+08:00"
       },
       {
-        "title": "科技赋能雪上体验 中国冬奥小城“上新”玩法",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738008.shtml",
-        "publishedAt": "2026-11-26T12:32:24.000+08:00"
+        "title": "海南环岛高铁推出“随心行”定期票：25座车站不限次数乘车",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738015.shtml",
+        "publishedAt": "2026-11-26T13:21:45.000+08:00"
       },
       {
-        "title": "中国牵头制定！这一国际标准成30余个欧洲国家重要技术参考",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738006.shtml",
-        "publishedAt": "2026-11-26T11:59:00.000+08:00"
+        "title": "以疫苗处方为抓手提升流感疫苗接种精准度",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-26/10738014.shtml",
+        "publishedAt": "2026-11-26T13:21:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T13:24:16.243+08:00",
+    "fetchedAt": "2026-11-26T13:34:36.960+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T13:24:17.022+08:00",
+      "fetchedAt": "2026-11-26T13:34:37.345+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -75,7 +75,7 @@ window.DASH_DATA = {
       "fetchedAt": "2026-11-26T12:43:43.726+08:00",
       "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
       "stale": true,
-      "lastAttemptAt": "2026-11-26T13:24:17.025+08:00"
+      "lastAttemptAt": "2026-11-26T13:34:37.347+08:00"
     },
     "mimo": {
       "ok": false,
@@ -83,7 +83,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T13:24:17.035+08:00",
+      "fetchedAt": "2026-11-26T13:34:37.354+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +93,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T13:24:17.035+08:00",
+      "fetchedAt": "2026-11-26T13:34:37.354+08:00",
       "error": "未启用",
       "disabled": true
     }
