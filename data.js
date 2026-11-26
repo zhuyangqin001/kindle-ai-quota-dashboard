@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T08:04:16.096+08:00",
+  "updatedAt": "2026-11-26T08:14:27.656+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T08:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T08:04:16.096+08:00",
+    "fetchedAt": "2026-11-26T08:14:27.656+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "新一轮冷空气将影响北方地区",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737880.shtml",
+        "publishedAt": "2026-11-26T08:01:45.000+08:00"
+      },
       {
         "title": "让世界读懂一座城，从告别“神翻译”开始",
         "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737873.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "上线即被盗？影视版权保护要“争分夺秒”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737870.shtml",
         "publishedAt": "2026-11-26T07:43:38.000+08:00"
-      },
-      {
-        "title": "AI越强，人的创造越显珍贵",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737868.shtml",
-        "publishedAt": "2026-11-26T07:38:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T08:04:12.958+08:00",
+    "fetchedAt": "2026-11-26T08:14:24.784+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T08:04:13.768+08:00",
+      "fetchedAt": "2026-11-26T08:14:25.565+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T08:04:13.772+08:00",
+      "fetchedAt": "2026-11-26T08:14:25.568+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T08:04:13.783+08:00",
+      "fetchedAt": "2026-11-26T08:14:25.579+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T08:04:13.783+08:00",
+      "fetchedAt": "2026-11-26T08:14:25.579+08:00",
       "error": "未启用",
       "disabled": true
     }
