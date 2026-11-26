@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T20:12:32.048+08:00",
+  "updatedAt": "2026-11-26T20:22:43.155+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.2,
-    "feelsLikeC": 11,
-    "humidity": 80,
-    "windKph": 5.7,
+    "tempC": 12,
+    "feelsLikeC": 10.8,
+    "humidity": 81,
+    "windKph": 5.6,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T20:12:32.048+08:00",
+    "observedAt": "2026-11-26T20:15:00.000+08:00",
+    "fetchedAt": "2026-11-26T20:22:43.155+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "河南“十五五”打造更高水平“中原粮仓”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738345.shtml",
-        "publishedAt": "2026-11-26T20:01:16.000+08:00"
+        "title": "2026世界市长对话·乌鲁木齐活动开幕",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738365.shtml",
+        "publishedAt": "2026-11-26T20:18:59.000+08:00"
       },
       {
-        "title": "哈萨克斯坦阿拉木图一民宅起火致5人遇难",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738312.shtml",
-        "publishedAt": "2026-11-26T20:00:44.000+08:00"
+        "title": "三条高铁明日开通 车票今起发售",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738384.shtml",
+        "publishedAt": "2026-11-26T20:17:59.000+08:00"
       },
       {
-        "title": "广州跨境电商进出口规模十年增长近14倍",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738342.shtml",
-        "publishedAt": "2026-11-26T20:00:36.000+08:00"
+        "title": "市场监管总局开展网络交易平台信用共治活动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738383.shtml",
+        "publishedAt": "2026-11-26T20:16:37.000+08:00"
       },
       {
-        "title": "神二十四乘组已进入工作状态！“天宫”最新画面公布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738363.shtml",
-        "publishedAt": "2026-11-26T19:59:10.000+08:00"
+        "title": "中俄两军举行战略磋商",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738381.shtml",
+        "publishedAt": "2026-11-26T20:14:37.000+08:00"
       },
       {
-        "title": "香港10月商品整体出口货值同比上升65.6%",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-26/10738338.shtml",
-        "publishedAt": "2026-11-26T19:57:56.000+08:00"
+        "title": "青海西宁国际传播中心揭牌成立",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738368.shtml",
+        "publishedAt": "2026-11-26T20:14:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T20:12:29.425+08:00",
+    "fetchedAt": "2026-11-26T20:22:40.965+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T20:12:30.215+08:00",
+      "fetchedAt": "2026-11-26T20:22:41.526+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
+          "usedPct": 7,
           "resetAt": "2026-11-27T00:57:47.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 28,
+          "usedPct": 29,
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T20:12:30.219+08:00",
+      "fetchedAt": "2026-11-26T20:22:41.527+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T20:12:30.229+08:00",
+      "fetchedAt": "2026-11-26T20:22:41.535+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T20:12:30.229+08:00",
+      "fetchedAt": "2026-11-26T20:22:41.535+08:00",
       "error": "未启用",
       "disabled": true
     }
