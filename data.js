@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T14:15:52.313+08:00",
+  "updatedAt": "2026-11-26T14:26:05.891+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T14:15:00.000+08:00",
-    "fetchedAt": "2026-11-26T14:15:52.313+08:00",
+    "fetchedAt": "2026-11-26T14:26:05.891+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "鲁苏原油精品航线协同监管显效 长江扬州段原油吞吐量同比增长31.66%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738033.shtml",
-        "publishedAt": "2026-11-26T13:56:22.000+08:00"
+        "title": "水果成为云南西双版纳关累港口岸第一大进口品类",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738048.shtml",
+        "publishedAt": "2026-11-26T14:22:26.000+08:00"
       },
       {
-        "title": "2026装备制造业发展大会将于12月3日至6日在苏州举办",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738031.shtml",
-        "publishedAt": "2026-11-26T13:55:54.000+08:00"
+        "title": "青藏铁路通车20年 白玛的故乡与远方",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738047.shtml",
+        "publishedAt": "2026-11-26T14:19:06.000+08:00"
       },
       {
-        "title": "首趟中蒙俄国际旅客列车25日开行 百余名旅客搭乘出境",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738035.shtml",
-        "publishedAt": "2026-11-26T13:55:40.000+08:00"
+        "title": "（长征胜利90周年）鏖战独树镇：长征路上的突围与新生",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738046.shtml",
+        "publishedAt": "2026-11-26T14:18:42.000+08:00"
       },
       {
-        "title": "联动四地青春力量 渝粤港澳青年志愿服务交流会在重庆举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738030.shtml",
-        "publishedAt": "2026-11-26T13:55:40.000+08:00"
+        "title": "黑龙江发布大雪预报 局地有暴雪伴风吹雪",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738041.shtml",
+        "publishedAt": "2026-11-26T14:17:54.000+08:00"
       },
       {
-        "title": "福建省杂技团建团七十周年主题精品展演在福州演出",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738032.shtml",
-        "publishedAt": "2026-11-26T13:54:58.000+08:00"
+        "title": "一面留言板，见证杜甫故里的“古今对话”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738045.shtml",
+        "publishedAt": "2026-11-26T14:17:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T14:15:46.211+08:00",
+    "fetchedAt": "2026-11-26T14:26:02.625+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T14:15:46.965+08:00",
+      "fetchedAt": "2026-11-26T14:26:03.299+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,19 +63,17 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
-          "resetAt": "2026-11-26T13:00:05.000+08:00"
+          "usedPct": 6,
+          "resetAt": "2026-11-26T19:25:25.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 25,
+          "usedPct": 26,
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T12:43:43.726+08:00",
-      "error": "failed to fetch codex rate limits: error sending request for url (https://chatgpt.com/backend-api/wham/usage)",
-      "stale": true,
-      "lastAttemptAt": "2026-11-26T14:15:46.968+08:00"
+      "fetchedAt": "2026-11-26T14:26:03.302+08:00",
+      "error": null
     },
     "mimo": {
       "ok": false,
@@ -83,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T14:15:46.978+08:00",
+      "fetchedAt": "2026-11-26T14:26:03.314+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -93,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T14:15:46.979+08:00",
+      "fetchedAt": "2026-11-26T14:26:03.315+08:00",
       "error": "未启用",
       "disabled": true
     }
