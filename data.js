@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T22:15:02.342+08:00",
+  "updatedAt": "2026-11-26T22:25:14.780+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.7,
-    "feelsLikeC": 9.9,
-    "humidity": 86,
-    "windKph": 3,
+    "tempC": 10.5,
+    "feelsLikeC": 9.7,
+    "humidity": 87,
+    "windKph": 2.7,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T22:15:02.342+08:00",
+    "observedAt": "2026-11-26T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-26T22:25:14.780+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "李强会见亚洲开发银行行长神田真人",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-26/1211746.shtml",
+        "publishedAt": "2026-11-26T22:15:24.000+08:00"
+      },
       {
         "title": "报告指今年中国3D打印产业规模料达约860亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738463.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "黑龙江三部地方性法规明年起陆续施行",
         "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738461.shtml",
         "publishedAt": "2026-11-26T21:59:57.000+08:00"
-      },
-      {
-        "title": "黑龙江省工商联十二届八次常委会议召开",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738459.shtml",
-        "publishedAt": "2026-11-26T21:59:51.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T22:14:57.382+08:00",
+    "fetchedAt": "2026-11-26T22:25:12.080+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T22:14:58.107+08:00",
+      "fetchedAt": "2026-11-26T22:25:12.860+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T22:14:58.110+08:00",
+      "fetchedAt": "2026-11-26T22:25:12.863+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T22:14:58.120+08:00",
+      "fetchedAt": "2026-11-26T22:25:12.873+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T22:14:58.120+08:00",
+      "fetchedAt": "2026-11-26T22:25:12.873+08:00",
       "error": "未启用",
       "disabled": true
     }
