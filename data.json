@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-26T15:47:31.790+08:00",
+  "updatedAt": "2026-11-26T15:57:42.513+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.2,
-    "feelsLikeC": 16.5,
-    "humidity": 51,
-    "windKph": 7.1,
+    "tempC": 18,
+    "feelsLikeC": 16.4,
+    "humidity": 52,
+    "windKph": 7,
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-26T15:47:31.790+08:00",
+    "fetchedAt": "2026-11-26T15:57:42.513+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "空军33型主战装备参加中国航展",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738115.shtml",
-        "publishedAt": "2026-11-26T15:37:42.000+08:00"
+        "title": "感冒药成了青少年“猎奇药”？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738127.shtml",
+        "publishedAt": "2026-11-26T15:50:49.000+08:00"
       },
       {
-        "title": "河谷荒滩长出“果蔬工厂”——北京援藏10年接力探索高原设施农业",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10738114.shtml",
-        "publishedAt": "2026-11-26T15:36:08.000+08:00"
+        "title": "广西民族团结进步促进法示范宣讲活动深入开展",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-26/10738125.shtml",
+        "publishedAt": "2026-11-26T15:49:53.000+08:00"
       },
       {
-        "title": "中方：日本船只非法侵闯钓鱼岛领海严重侵犯中国主权",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738113.shtml",
-        "publishedAt": "2026-11-26T15:35:04.000+08:00"
+        "title": "国防部督促日方全面加快日遗化武处置进程",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738124.shtml",
+        "publishedAt": "2026-11-26T15:49:35.000+08:00"
       },
       {
-        "title": "雪假来啦！全国雪假亲子游地图出炉 十大冰雪趣玩胜地带你解锁冬趣",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738112.shtml",
-        "publishedAt": "2026-11-26T15:33:58.000+08:00"
+        "title": "鹭宁携手架“侨”梁 山海聚力促振兴",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-26/10738123.shtml",
+        "publishedAt": "2026-11-26T15:46:08.000+08:00"
       },
       {
-        "title": "中国国防部将在国防大学举办国际问题研讨班",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738109.shtml",
-        "publishedAt": "2026-11-26T15:33:42.000+08:00"
+        "title": "科创赋能产业升级 长沙经开区精准招商积蓄制造动能",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738121.shtml",
+        "publishedAt": "2026-11-26T15:45:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T15:47:29.076+08:00",
+    "fetchedAt": "2026-11-26T15:57:40.079+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T15:47:29.509+08:00",
+      "fetchedAt": "2026-11-26T15:57:40.474+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T15:47:29.512+08:00",
+      "fetchedAt": "2026-11-26T15:57:40.476+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T15:47:29.517+08:00",
+      "fetchedAt": "2026-11-26T15:57:40.482+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T15:47:29.517+08:00",
+      "fetchedAt": "2026-11-26T15:57:40.482+08:00",
       "error": "未启用",
       "disabled": true
     }
