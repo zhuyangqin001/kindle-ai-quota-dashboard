@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T17:08:58.345+08:00",
+  "updatedAt": "2026-11-26T17:19:13.967+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.6,
-    "feelsLikeC": 14.9,
-    "humidity": 67,
-    "windKph": 3.1,
+    "tempC": 15.2,
+    "feelsLikeC": 14.6,
+    "humidity": 68,
+    "windKph": 3,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-26T17:08:58.345+08:00",
+    "observedAt": "2026-11-26T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-26T17:19:13.967+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "获刑十三年 韩松受贿案一审宣判",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738208.shtml",
-        "publishedAt": "2026-11-26T17:01:22.000+08:00"
+        "title": "气温反复横跳！全国花式穿衣地图 看你适合粽子式还是洋葱式穿搭法",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738218.shtml",
+        "publishedAt": "2026-11-26T17:14:45.000+08:00"
       },
       {
-        "title": "商务部：中国和墨西哥将成立工作组 围绕降低关税问题开展对话",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738197.shtml",
-        "publishedAt": "2026-11-26T17:00:46.000+08:00"
+        "title": "碳标签“变身”大湾区制造走向国际市场的“绿色通行证”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738206.shtml",
+        "publishedAt": "2026-11-26T17:14:31.000+08:00"
       },
       {
-        "title": "平台识破暗语当“前哨”，野生动物黑灰产治理需织密共治网",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738201.shtml",
-        "publishedAt": "2026-11-26T16:59:14.000+08:00"
+        "title": "湖南新田试种魔芋迎丰收 小小“土疙瘩”变“金疙瘩”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738207.shtml",
+        "publishedAt": "2026-11-26T17:13:43.000+08:00"
       },
       {
-        "title": "孕期员工被移出工作群、注销门禁账号 法院：系变相违法辞退",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-26/10738196.shtml",
-        "publishedAt": "2026-11-26T16:59:14.000+08:00"
+        "title": "江西南昌特色“村晚”精彩上演 打造乡土文化盛宴",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-26/10738203.shtml",
+        "publishedAt": "2026-11-26T17:11:49.000+08:00"
       },
       {
-        "title": "商务部：望美中推动对等降税安排尽快落地实施",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738193.shtml",
-        "publishedAt": "2026-11-26T16:51:06.000+08:00"
+        "title": "内塔尼亚胡：以军打死哈马斯经济和教育部门负责人",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738212.shtml",
+        "publishedAt": "2026-11-26T17:10:33.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T17:08:55.916+08:00",
+    "fetchedAt": "2026-11-26T17:19:11.360+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T17:08:56.249+08:00",
+      "fetchedAt": "2026-11-26T17:19:11.771+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T17:08:56.250+08:00",
+      "fetchedAt": "2026-11-26T17:19:11.774+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T17:08:56.257+08:00",
+      "fetchedAt": "2026-11-26T17:19:11.779+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T17:08:56.257+08:00",
+      "fetchedAt": "2026-11-26T17:19:11.779+08:00",
       "error": "未启用",
       "disabled": true
     }
