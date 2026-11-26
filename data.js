@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T10:16:44.606+08:00",
+  "updatedAt": "2026-11-26T10:26:57.951+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-26T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-26T10:16:44.606+08:00",
+    "fetchedAt": "2026-11-26T10:26:57.951+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "商务部等8部门关于印发《服务贸易发展“十五五”规划》的通知",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737955.shtml",
-        "publishedAt": "2026-11-26T10:06:26.000+08:00"
+        "title": "国家卫生健康委办公厅关于进一步优化健康体检服务的通知",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737963.shtml",
+        "publishedAt": "2026-11-26T10:18:17.000+08:00"
       },
       {
-        "title": "埃及吉萨省车祸引发火灾 烧毁27辆车致31人死亡",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-26/1211694.shtml",
-        "publishedAt": "2026-11-26T10:04:14.000+08:00"
+        "title": "“两高”发布《关于办理妨害兴奋剂管理等刑事案件适用法律若干问题的解释》",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737958.shtml",
+        "publishedAt": "2026-11-26T10:18:01.000+08:00"
       },
       {
-        "title": "刑事诉讼法第四次修改：把“管住权力、保障权利”落到实处",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-26/10737949.shtml",
-        "publishedAt": "2026-11-26T10:03:36.000+08:00"
+        "title": "巴基斯坦航天员穆罕默德·齐尚·阿里：他的飞天梦 连着中巴友谊",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737959.shtml",
+        "publishedAt": "2026-11-26T10:17:11.000+08:00"
       },
       {
-        "title": "供给提质、就近可及 托起“一老一小”稳稳的幸福",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737951.shtml",
-        "publishedAt": "2026-11-26T10:03:32.000+08:00"
+        "title": "陈克龙任江西省人民政府副省长",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737957.shtml",
+        "publishedAt": "2026-11-26T10:09:18.000+08:00"
       },
       {
-        "title": "依法严惩各类兴奋剂犯罪 “两高”联合发布司法解释",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737950.shtml",
-        "publishedAt": "2026-11-26T10:03:10.000+08:00"
+        "title": "贵州省纪委监委派驻省住房城乡建设厅纪检监察组原副厅长级专职纪检监察员郑梦英被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737953.shtml",
+        "publishedAt": "2026-11-26T10:08:12.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T10:16:41.597+08:00",
+    "fetchedAt": "2026-11-26T10:26:54.317+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T10:16:42.403+08:00",
+      "fetchedAt": "2026-11-26T10:26:55.147+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T10:16:42.407+08:00",
+      "fetchedAt": "2026-11-26T10:26:55.150+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T10:16:42.418+08:00",
+      "fetchedAt": "2026-11-26T10:26:55.160+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T10:16:42.419+08:00",
+      "fetchedAt": "2026-11-26T10:26:55.161+08:00",
       "error": "未启用",
       "disabled": true
     }
