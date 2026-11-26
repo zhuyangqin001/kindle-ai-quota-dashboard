@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-26T10:37:11.651+08:00",
+  "updatedAt": "2026-11-26T10:47:23.960+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.4,
-    "feelsLikeC": 14.7,
-    "humidity": 66,
-    "windKph": 2.6,
+    "tempC": 15.8,
+    "feelsLikeC": 15.1,
+    "humidity": 64,
+    "windKph": 3.9,
     "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-26T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-26T10:37:11.651+08:00",
+    "observedAt": "2026-11-26T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-26T10:47:23.960+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "自然资源部、国家林业和草原局通报2026年第三季度6个违法违规典型问题",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737960.shtml",
-        "publishedAt": "2026-11-26T10:31:01.000+08:00"
+        "title": "指令长汤洪波：三度飞天，越飞越谨慎",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737971.shtml",
+        "publishedAt": "2026-11-26T10:39:28.000+08:00"
       },
       {
-        "title": "航天员武毅：从黄土高原出发，一路向星辰奔赴",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737965.shtml",
-        "publishedAt": "2026-11-26T10:30:23.000+08:00"
+        "title": "撕掉和平标签！日本要撬动 “无核三原则”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737974.shtml",
+        "publishedAt": "2026-11-26T10:38:46.000+08:00"
       },
       {
-        "title": "国家卫生健康委办公厅关于进一步优化健康体检服务的通知",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737963.shtml",
-        "publishedAt": "2026-11-26T10:18:17.000+08:00"
+        "title": "日本民众举行集会 反对政府修改“无核三原则”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737973.shtml",
+        "publishedAt": "2026-11-26T10:37:06.000+08:00"
       },
       {
-        "title": "“两高”发布《关于办理妨害兴奋剂管理等刑事案件适用法律若干问题的解释》",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737958.shtml",
-        "publishedAt": "2026-11-26T10:18:01.000+08:00"
+        "title": "国际人士：应敦促日本正视侵略历史 履行国际义务",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737972.shtml",
+        "publishedAt": "2026-11-26T10:36:10.000+08:00"
       },
       {
-        "title": "巴基斯坦航天员穆罕默德·齐尚·阿里：他的飞天梦 连着中巴友谊",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737959.shtml",
-        "publishedAt": "2026-11-26T10:17:11.000+08:00"
+        "title": "中消协发布25款儿童书包比较试验结果 这份选购指南请收好",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737967.shtml",
+        "publishedAt": "2026-11-26T10:35:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-26T10:37:08.453+08:00",
+    "fetchedAt": "2026-11-26T10:47:21.239+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-26T10:37:09.207+08:00",
+      "fetchedAt": "2026-11-26T10:47:21.889+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-26T10:37:09.210+08:00",
+      "fetchedAt": "2026-11-26T10:47:21.892+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T10:37:09.219+08:00",
+      "fetchedAt": "2026-11-26T10:47:21.902+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-26T10:37:09.220+08:00",
+      "fetchedAt": "2026-11-26T10:47:21.902+08:00",
       "error": "未启用",
       "disabled": true
     }
