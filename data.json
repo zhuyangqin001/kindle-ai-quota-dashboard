@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T09:48:51.309+08:00",
+  "updatedAt": "2026-11-27T09:59:03.248+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T09:48:51.309+08:00",
+    "fetchedAt": "2026-11-27T09:59:03.248+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "野外迷路如何找“北”？户外出行前这3点务必牢记",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738538.shtml",
-        "publishedAt": "2026-11-27T09:39:01.000+08:00"
+        "title": "黑龙江呼玛县：北疆边境暖夕阳 盘活集体资产办好农村养老",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738555.shtml",
+        "publishedAt": "2026-11-27T09:56:04.000+08:00"
       },
       {
-        "title": "李在明批准五名部长级官员人选人事听证提案",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738528.shtml",
-        "publishedAt": "2026-11-27T09:36:17.000+08:00"
+        "title": "从一颗传感器到整条产业链 高交会解码AI落地深圳答案",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738551.shtml",
+        "publishedAt": "2026-11-27T09:56:00.000+08:00"
       },
       {
-        "title": "2026年1—10月份全国规模以上工业企业利润增长16.0%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738531.shtml",
-        "publishedAt": "2026-11-27T09:32:41.000+08:00"
+        "title": "“光影相约：洛迦诺80年——瑞中电影对话”开幕活动在京举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738553.shtml",
+        "publishedAt": "2026-11-27T09:55:34.000+08:00"
       },
       {
-        "title": "A股开盘：超3300只个股飘红，三大指数集体高开",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738530.shtml",
-        "publishedAt": "2026-11-27T09:31:44.000+08:00"
+        "title": "暖心放归！3只东方白鹳翱翔河北唐山沿海湿地",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738554.shtml",
+        "publishedAt": "2026-11-27T09:55:30.000+08:00"
       },
       {
-        "title": "11月27日央行开展7940亿元隔夜逆回购操作",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738525.shtml",
-        "publishedAt": "2026-11-27T09:31:20.000+08:00"
+        "title": "大连市中山区举办2026年统一战线专题培训班",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738547.shtml",
+        "publishedAt": "2026-11-27T09:54:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T09:48:48.759+08:00",
+    "fetchedAt": "2026-11-27T09:59:00.741+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T09:48:49.565+08:00",
+      "fetchedAt": "2026-11-27T09:59:01.542+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T09:48:49.568+08:00",
+      "fetchedAt": "2026-11-27T09:59:01.547+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T09:48:49.579+08:00",
+      "fetchedAt": "2026-11-27T09:59:01.556+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T09:48:49.579+08:00",
+      "fetchedAt": "2026-11-27T09:59:01.557+08:00",
       "error": "未启用",
       "disabled": true
     }
