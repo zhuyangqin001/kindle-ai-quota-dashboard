@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T10:50:05.466+08:00",
+  "updatedAt": "2026-11-27T11:00:17.831+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 17.2,
-    "feelsLikeC": 17.1,
-    "humidity": 64,
-    "windKph": 2.9,
+    "tempC": 17.6,
+    "feelsLikeC": 17.4,
+    "humidity": 61,
+    "windKph": 3.2,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T10:50:05.467+08:00",
+    "observedAt": "2026-11-27T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-27T11:00:17.831+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "多方统筹协同联动，严打野生动植物非法交易",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738604.shtml",
+        "publishedAt": "2026-11-27T10:44:44.000+08:00"
+      },
+      {
+        "title": "评论：织密反兴奋剂法网，守护体育纯净天空",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-27/10738596.shtml",
+        "publishedAt": "2026-11-27T10:44:18.000+08:00"
+      },
       {
         "title": "信息无障碍国家标准修订发布",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738594.shtml",
@@ -33,19 +43,9 @@
         "title": "我国加速推进“人工智能+制造”专项行动",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738600.shtml",
         "publishedAt": "2026-11-27T10:37:22.000+08:00"
-      },
-      {
-        "title": "从世界经济版图看中国经济之韧",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738598.shtml",
-        "publishedAt": "2026-11-27T10:36:24.000+08:00"
-      },
-      {
-        "title": "日本加码远程打击能力 军工体系加速“平战转换”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738595.shtml",
-        "publishedAt": "2026-11-27T10:34:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T10:50:02.792+08:00",
+    "fetchedAt": "2026-11-27T11:00:15.365+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T10:50:03.601+08:00",
+      "fetchedAt": "2026-11-27T11:00:15.826+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T10:50:03.604+08:00",
+      "fetchedAt": "2026-11-27T11:00:15.828+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T10:50:03.614+08:00",
+      "fetchedAt": "2026-11-27T11:00:15.834+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T10:50:03.615+08:00",
+      "fetchedAt": "2026-11-27T11:00:15.834+08:00",
       "error": "未启用",
       "disabled": true
     }
