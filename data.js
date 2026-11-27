@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T15:35:52.190+08:00",
+  "updatedAt": "2026-11-27T15:46:04.479+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.5,
-    "feelsLikeC": 17.8,
-    "humidity": 48,
-    "windKph": 8.5,
+    "tempC": 19.3,
+    "feelsLikeC": 17.4,
+    "humidity": 49,
+    "windKph": 9.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T15:35:52.190+08:00",
+    "observedAt": "2026-11-27T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T15:46:04.479+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国天文学家领衔“集体称重”136个近邻星系 系统测量暗物质分布",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738727.shtml",
-        "publishedAt": "2026-11-27T15:30:00.000+08:00"
+        "title": "农业银行持续加大股票回购增持贷款投放力度",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738740.shtml",
+        "publishedAt": "2026-11-27T15:40:12.000+08:00"
       },
       {
-        "title": "中国驻韩国大使馆举行中韩媒体座谈会",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738709.shtml",
-        "publishedAt": "2026-11-27T15:29:08.000+08:00"
+        "title": "关注历史经典产业丨景德镇：千年窑火“烧”出千亿级陶瓷产业",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738753.shtml",
+        "publishedAt": "2026-11-27T15:39:48.000+08:00"
       },
       {
-        "title": "菲律宾10月贸易逆差创历史新高",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738680.shtml",
-        "publishedAt": "2026-11-27T15:27:36.000+08:00"
+        "title": "走笔云南省党代会：谁持彩练当空舞？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738739.shtml",
+        "publishedAt": "2026-11-27T15:39:08.000+08:00"
       },
       {
-        "title": "GDP上修，特朗普“上火”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738738.shtml",
-        "publishedAt": "2026-11-27T15:18:37.000+08:00"
+        "title": "“我们为同胞进入中国空间站而自豪”——巴基斯坦各界热议中巴航天员携手赴“天宫”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738748.shtml",
+        "publishedAt": "2026-11-27T15:37:54.000+08:00"
       },
       {
-        "title": "A股大爆发 全市场超5300只个股上涨",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738736.shtml",
-        "publishedAt": "2026-11-27T15:15:45.000+08:00"
+        "title": "中国为深化亚太合作提供了丰富选择（APEC中国年：开放 创新 合作）——访墨西哥国立自治大学中墨研究中心",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738744.shtml",
+        "publishedAt": "2026-11-27T15:32:58.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T15:35:48.861+08:00",
+    "fetchedAt": "2026-11-27T15:46:01.810+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T15:35:49.673+08:00",
+      "fetchedAt": "2026-11-27T15:46:02.608+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T15:35:49.677+08:00",
+      "fetchedAt": "2026-11-27T15:46:02.612+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T15:35:49.687+08:00",
+      "fetchedAt": "2026-11-27T15:46:02.622+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T15:35:49.687+08:00",
+      "fetchedAt": "2026-11-27T15:46:02.622+08:00",
       "error": "未启用",
       "disabled": true
     }
