@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T12:32:12.530+08:00",
+  "updatedAt": "2026-11-27T12:42:24.491+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T12:32:12.530+08:00",
+    "fetchedAt": "2026-11-27T12:42:24.491+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "李强主持召开国务院常务会议",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738652.shtml",
+        "publishedAt": "2026-11-27T12:31:00.000+08:00"
+      },
       {
         "title": "全国95所高校队伍在重庆比拼AI应用能力",
         "url": "https://www.chinanews.com.cn/edu/2026/11-27/10738640.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "世界首台380吨级高速动平衡试验系统完成交付",
         "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738639.shtml",
         "publishedAt": "2026-11-27T12:24:56.000+08:00"
-      },
-      {
-        "title": "COP31观察员、挪威国际核查公司负责人：别忘记中国在环保领域做了很多，期待学习更多｜新闻会客厅",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738609.shtml",
-        "publishedAt": "2026-11-27T12:23:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T12:32:09.878+08:00",
+    "fetchedAt": "2026-11-27T12:42:21.961+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T12:32:10.673+08:00",
+      "fetchedAt": "2026-11-27T12:42:22.691+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T12:32:10.676+08:00",
+      "fetchedAt": "2026-11-27T12:42:22.695+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T12:32:10.683+08:00",
+      "fetchedAt": "2026-11-27T12:42:22.705+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T12:32:10.683+08:00",
+      "fetchedAt": "2026-11-27T12:42:22.705+08:00",
       "error": "未启用",
       "disabled": true
     }
