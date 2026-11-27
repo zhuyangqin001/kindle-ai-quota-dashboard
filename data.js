@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T11:00:17.831+08:00",
+  "updatedAt": "2026-11-27T11:10:29.965+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T11:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T11:00:17.831+08:00",
+    "fetchedAt": "2026-11-27T11:10:29.965+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "多方统筹协同联动，严打野生动植物非法交易",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738604.shtml",
-        "publishedAt": "2026-11-27T10:44:44.000+08:00"
+        "title": "“纸质短剧”入侵校园 重生、逆袭剧情如何印上纸面？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738616.shtml",
+        "publishedAt": "2026-11-27T11:04:37.000+08:00"
       },
       {
-        "title": "评论：织密反兴奋剂法网，守护体育纯净天空",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-27/10738596.shtml",
-        "publishedAt": "2026-11-27T10:44:18.000+08:00"
+        "title": "U17国足回应世界杯出线，万项因罚失点球致歉",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738614.shtml",
+        "publishedAt": "2026-11-27T11:00:01.000+08:00"
       },
       {
-        "title": "信息无障碍国家标准修订发布",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738594.shtml",
-        "publishedAt": "2026-11-27T10:40:30.000+08:00"
+        "title": "从囤商品到囤服务 购物车之变折射高质量发展脉动",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738610.shtml",
+        "publishedAt": "2026-11-27T10:59:21.000+08:00"
       },
       {
-        "title": "国家数据局就《关于完善数据规则 赋能人工智能创新发展的若干意见》公开征求意见",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738591.shtml",
-        "publishedAt": "2026-11-27T10:38:12.000+08:00"
+        "title": "AI“入侵”KTV，卡拉不再OK?",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738615.shtml",
+        "publishedAt": "2026-11-27T10:59:17.000+08:00"
       },
       {
-        "title": "我国加速推进“人工智能+制造”专项行动",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738600.shtml",
-        "publishedAt": "2026-11-27T10:37:22.000+08:00"
+        "title": "伊朗否认袭击科威特致两意大利人死亡 提议三国联合调查",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738565.shtml",
+        "publishedAt": "2026-11-27T10:58:19.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T11:00:15.365+08:00",
+    "fetchedAt": "2026-11-27T11:10:27.235+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T11:00:15.826+08:00",
+      "fetchedAt": "2026-11-27T11:10:27.989+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T11:00:15.828+08:00",
+      "fetchedAt": "2026-11-27T11:10:27.993+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T11:00:15.834+08:00",
+      "fetchedAt": "2026-11-27T11:10:28.002+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T11:00:15.834+08:00",
+      "fetchedAt": "2026-11-27T11:10:28.003+08:00",
       "error": "未启用",
       "disabled": true
     }
