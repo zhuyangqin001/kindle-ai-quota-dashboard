@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T18:19:15.740+08:00",
+  "updatedAt": "2026-11-27T18:29:28.328+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T18:19:15.740+08:00",
+    "fetchedAt": "2026-11-27T18:29:28.328+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《全民数字素养与技能调查报告（2026年）》发布",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738908.shtml",
+        "publishedAt": "2026-11-27T18:21:01.000+08:00"
+      },
+      {
+        "title": "中国建设银行青岛市分行原行长郝子建被开除党籍",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738911.shtml",
+        "publishedAt": "2026-11-27T18:19:29.000+08:00"
+      },
       {
         "title": "配备雷达、能打导弹、可回传战况，三款外贸战车亮相珠海",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738907.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "A股周五放量大涨 创业板指涨逾11％",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738905.shtml",
         "publishedAt": "2026-11-27T18:13:39.000+08:00"
-      },
-      {
-        "title": "上海“架桥”推动生物医药创新 呼吁更多耐心资本",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738904.shtml",
-        "publishedAt": "2026-11-27T18:11:33.000+08:00"
-      },
-      {
-        "title": "哈尔滨工程大学深海机器人研究院成立",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738903.shtml",
-        "publishedAt": "2026-11-27T18:10:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T18:19:12.550+08:00",
+    "fetchedAt": "2026-11-27T18:29:25.130+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T18:19:13.368+08:00",
+      "fetchedAt": "2026-11-27T18:29:25.958+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T18:19:13.371+08:00",
+      "fetchedAt": "2026-11-27T18:29:25.961+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T18:19:13.382+08:00",
+      "fetchedAt": "2026-11-27T18:29:25.971+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T18:19:13.383+08:00",
+      "fetchedAt": "2026-11-27T18:29:25.971+08:00",
       "error": "未启用",
       "disabled": true
     }
