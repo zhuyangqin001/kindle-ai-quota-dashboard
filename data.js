@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T13:53:51.370+08:00",
+  "updatedAt": "2026-11-27T14:04:03.765+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.3,
-    "feelsLikeC": 18.1,
+    "tempC": 19.4,
+    "feelsLikeC": 18.2,
     "humidity": 50,
-    "windKph": 5.4,
+    "windKph": 5.5,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T13:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T13:53:51.370+08:00",
+    "observedAt": "2026-11-27T14:00:00.000+08:00",
+    "fetchedAt": "2026-11-27T14:04:03.765+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "10月中国规上工业企业利润同比增速加快至20.1%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738676.shtml",
+        "publishedAt": "2026-11-27T13:58:51.000+08:00"
+      },
+      {
+        "title": "斯诺克英锦赛资格赛收官：丁俊晖逆转晋级 中国9人跻身正赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738679.shtml",
+        "publishedAt": "2026-11-27T13:57:47.000+08:00"
+      },
+      {
+        "title": "驾照过期算不算无证驾驶？新司法解释分情形划定边界",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-27/10738678.shtml",
+        "publishedAt": "2026-11-27T13:55:03.000+08:00"
+      },
+      {
+        "title": "西班牙：伊维萨岛附近海域一艘燃油船沉没 致1死6伤",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211797.shtml",
+        "publishedAt": "2026-11-27T13:50:18.000+08:00"
+      },
+      {
         "title": "生态环境部：移动源污染减排阶段性成效明显 实现“三个下降”",
         "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738675.shtml",
         "publishedAt": "2026-11-27T13:45:54.000+08:00"
-      },
-      {
-        "title": "五部门联合打击生态环境监测机构弄虚作假",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738673.shtml",
-        "publishedAt": "2026-11-27T13:37:36.000+08:00"
-      },
-      {
-        "title": "粤菜：岭南味道端上国宴",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738674.shtml",
-        "publishedAt": "2026-11-27T13:36:04.000+08:00"
-      },
-      {
-        "title": "《生态质量评价标准（试行）》将于今年12月1日起实施",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738672.shtml",
-        "publishedAt": "2026-11-27T13:32:44.000+08:00"
-      },
-      {
-        "title": "生态环境部公布第五批美丽河湖优秀案例名单",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738669.shtml",
-        "publishedAt": "2026-11-27T13:28:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T13:53:48.681+08:00",
+    "fetchedAt": "2026-11-27T14:04:01.011+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T13:53:49.491+08:00",
+      "fetchedAt": "2026-11-27T14:04:01.826+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T13:53:49.495+08:00",
+      "fetchedAt": "2026-11-27T14:04:01.829+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T13:53:49.506+08:00",
+      "fetchedAt": "2026-11-27T14:04:01.840+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T13:53:49.506+08:00",
+      "fetchedAt": "2026-11-27T14:04:01.840+08:00",
       "error": "未启用",
       "disabled": true
     }
