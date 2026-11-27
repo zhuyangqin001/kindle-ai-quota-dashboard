@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T18:39:41.406+08:00",
+  "updatedAt": "2026-11-27T18:49:54.328+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.9,
-    "feelsLikeC": 12.6,
-    "humidity": 72,
-    "windKph": 6.6,
+    "tempC": 13.6,
+    "feelsLikeC": 12.4,
+    "humidity": 74,
+    "windKph": 6.3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T18:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T18:39:41.406+08:00",
+    "observedAt": "2026-11-27T18:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T18:49:54.328+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "大风蓝色预警：甘肃内蒙古等6省区部分地区阵风可达7至8级",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738917.shtml",
-        "publishedAt": "2026-11-27T18:28:05.000+08:00"
+        "title": "鲁澳基层结对共建 携手共探基层治理新路",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738916.shtml",
+        "publishedAt": "2026-11-27T18:42:14.000+08:00"
       },
       {
-        "title": "大范围回暖将席卷南北方 大城市升温日历看哪里会暖到破纪录",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738914.shtml",
-        "publishedAt": "2026-11-27T18:23:17.000+08:00"
+        "title": "回应行业之变 “她”力量如何引领企业发展？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738915.shtml",
+        "publishedAt": "2026-11-27T18:41:28.000+08:00"
       },
       {
-        "title": "《全民数字素养与技能调查报告（2026年）》发布",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738908.shtml",
-        "publishedAt": "2026-11-27T18:21:01.000+08:00"
+        "title": "一生迷恋花鼓戏 湖南桃江老人暮年仍在守戏脉",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738913.shtml",
+        "publishedAt": "2026-11-27T18:40:24.000+08:00"
       },
       {
-        "title": "中国建设银行青岛市分行原行长郝子建被开除党籍",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738911.shtml",
-        "publishedAt": "2026-11-27T18:19:29.000+08:00"
+        "title": "西藏阿里军分区“格桑花”综合服务队为基层送服务纪实",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738912.shtml",
+        "publishedAt": "2026-11-27T18:38:46.000+08:00"
       },
       {
-        "title": "配备雷达、能打导弹、可回传战况，三款外贸战车亮相珠海",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738907.shtml",
-        "publishedAt": "2026-11-27T18:16:49.000+08:00"
+        "title": "湖南桂东惠农政策到田边 冬闲田变“增收田”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738909.shtml",
+        "publishedAt": "2026-11-27T18:37:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T18:39:37.988+08:00",
+    "fetchedAt": "2026-11-27T18:49:51.114+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T18:39:38.796+08:00",
+      "fetchedAt": "2026-11-27T18:49:51.921+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T23:39:40.000+08:00"
+          "resetAt": "2026-11-27T23:49:54.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T18:39:38.800+08:00",
+      "fetchedAt": "2026-11-27T18:49:51.925+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T18:39:38.810+08:00",
+      "fetchedAt": "2026-11-27T18:49:51.935+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T18:39:38.810+08:00",
+      "fetchedAt": "2026-11-27T18:49:51.935+08:00",
       "error": "未启用",
       "disabled": true
     }
