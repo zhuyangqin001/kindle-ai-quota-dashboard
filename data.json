@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T15:25:39.361+08:00",
+  "updatedAt": "2026-11-27T15:35:52.190+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.6,
-    "feelsLikeC": 18,
-    "humidity": 47,
-    "windKph": 7.5,
+    "tempC": 19.5,
+    "feelsLikeC": 17.8,
+    "humidity": 48,
+    "windKph": 8.5,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T15:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T15:25:39.361+08:00",
+    "observedAt": "2026-11-27T15:30:00.000+08:00",
+    "fetchedAt": "2026-11-27T15:35:52.190+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "中国天文学家领衔“集体称重”136个近邻星系 系统测量暗物质分布",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738727.shtml",
+        "publishedAt": "2026-11-27T15:30:00.000+08:00"
+      },
+      {
+        "title": "中国驻韩国大使馆举行中韩媒体座谈会",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738709.shtml",
+        "publishedAt": "2026-11-27T15:29:08.000+08:00"
+      },
+      {
+        "title": "菲律宾10月贸易逆差创历史新高",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738680.shtml",
+        "publishedAt": "2026-11-27T15:27:36.000+08:00"
+      },
+      {
+        "title": "GDP上修，特朗普“上火”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738738.shtml",
+        "publishedAt": "2026-11-27T15:18:37.000+08:00"
+      },
+      {
         "title": "A股大爆发 全市场超5300只个股上涨",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738736.shtml",
         "publishedAt": "2026-11-27T15:15:45.000+08:00"
-      },
-      {
-        "title": "情暖民心聚合力 中华民族一家亲——辽宁调兵山市委统战部多措并举扎实推进铸牢中华民族共同体意识",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738732.shtml",
-        "publishedAt": "2026-11-27T15:14:51.000+08:00"
-      },
-      {
-        "title": "探访西部首单产业园区公募REITs：于方寸焕新间，看见运营韧性",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738717.shtml",
-        "publishedAt": "2026-11-27T15:14:39.000+08:00"
-      },
-      {
-        "title": "6地取经、7次座谈、10场对接、22次入企——辽宁抚顺市工商联粤苏沪之行收获满满",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738726.shtml",
-        "publishedAt": "2026-11-27T15:13:51.000+08:00"
-      },
-      {
-        "title": "中储粮集团新疆分公司副总经理王建接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738731.shtml",
-        "publishedAt": "2026-11-27T15:12:11.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T15:25:36.656+08:00",
+    "fetchedAt": "2026-11-27T15:35:48.861+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T15:25:37.467+08:00",
+      "fetchedAt": "2026-11-27T15:35:49.673+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T15:25:37.471+08:00",
+      "fetchedAt": "2026-11-27T15:35:49.677+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T15:25:37.481+08:00",
+      "fetchedAt": "2026-11-27T15:35:49.687+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T15:25:37.481+08:00",
+      "fetchedAt": "2026-11-27T15:35:49.687+08:00",
       "error": "未启用",
       "disabled": true
     }
