@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T19:40:57.688+08:00",
+  "updatedAt": "2026-11-27T19:51:09.911+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.9,
-    "feelsLikeC": 11.9,
-    "humidity": 77,
-    "windKph": 4.8,
+    "tempC": 12.7,
+    "feelsLikeC": 11.7,
+    "humidity": 78,
+    "windKph": 4.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T19:40:57.689+08:00",
+    "observedAt": "2026-11-27T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T19:51:09.911+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国海警依法驱离日非法进入我钓鱼岛领海船只",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738966.shtml",
-        "publishedAt": "2026-11-27T19:27:05.000+08:00"
+        "title": "中越海警2026年第二次北部湾联合巡逻圆满结束",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738961.shtml",
+        "publishedAt": "2026-11-27T19:47:54.000+08:00"
       },
       {
-        "title": "中国证监会传达学习贯彻国务院常务会议精神",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738964.shtml",
-        "publishedAt": "2026-11-27T19:23:22.000+08:00"
+        "title": "证监会严肃查处两起编造传播证券市场误导性信息案件",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738960.shtml",
+        "publishedAt": "2026-11-27T19:46:32.000+08:00"
       },
       {
-        "title": "2026中国时尚产业盛典大连之夜启幕 以时尚力量激活文旅动能",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738944.shtml",
-        "publishedAt": "2026-11-27T19:22:22.000+08:00"
+        "title": "U17国足时隔21年再进淘汰赛：惊喜之余，更需清醒",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738976.shtml",
+        "publishedAt": "2026-11-27T19:45:52.000+08:00"
       },
       {
-        "title": "山东省政协十三届四次会议创新开展重点提案督办带动同类提案联动办理工作",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738943.shtml",
-        "publishedAt": "2026-11-27T19:20:38.000+08:00"
+        "title": "香港救护车首次参与大湾区跨境直通救护车北向转运演练",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738959.shtml",
+        "publishedAt": "2026-11-27T19:45:06.000+08:00"
       },
       {
-        "title": "“全国青少年身心健康试点区”揭牌 专家建言提供精准“指南针”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738940.shtml",
-        "publishedAt": "2026-11-27T19:19:48.000+08:00"
+        "title": "2026年互联网营销师职业技能竞赛在四川巴中举办",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738955.shtml",
+        "publishedAt": "2026-11-27T19:43:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T19:40:54.929+08:00",
+    "fetchedAt": "2026-11-27T19:51:07.319+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T19:40:55.716+08:00",
+      "fetchedAt": "2026-11-27T19:51:08.120+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T00:40:57.000+08:00"
+          "resetAt": "2026-11-28T00:51:09.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T19:40:55.720+08:00",
+      "fetchedAt": "2026-11-27T19:51:08.124+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T19:40:55.730+08:00",
+      "fetchedAt": "2026-11-27T19:51:08.134+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T19:40:55.731+08:00",
+      "fetchedAt": "2026-11-27T19:51:08.135+08:00",
       "error": "未启用",
       "disabled": true
     }
