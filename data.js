@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T21:43:22.995+08:00",
+  "updatedAt": "2026-11-27T21:53:34.069+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.5,
-    "feelsLikeC": 10.7,
-    "humidity": 80,
-    "windKph": 2,
+    "tempC": 11.2,
+    "feelsLikeC": 10.3,
+    "humidity": 81,
+    "windKph": 2.3,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T21:43:22.995+08:00",
+    "observedAt": "2026-11-27T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T21:53:34.070+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "东西问·兰花奖丨福斯托·准奇利亚：认识和尊重文化多样性，应融入人工智能核心训练",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-27/10739060.shtml",
-        "publishedAt": "2026-11-27T21:34:12.000+08:00"
+        "title": "“九州攸同——周秦汉唐文物特展”在广西南宁启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739042.shtml",
+        "publishedAt": "2026-11-27T21:44:02.000+08:00"
       },
       {
-        "title": "大湾区服贸会首设国际医疗展区 海内外人士到粤就医有指南",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739032.shtml",
-        "publishedAt": "2026-11-27T21:33:58.000+08:00"
+        "title": "中国有望建成全球首个核聚变能源工程供热示范堆先导堆型",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739040.shtml",
+        "publishedAt": "2026-11-27T21:41:06.000+08:00"
       },
       {
-        "title": "哈萨克斯坦70名大学生运动员将赴长春参加大冬会",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10739031.shtml",
-        "publishedAt": "2026-11-27T21:33:03.000+08:00"
+        "title": "2026—2027赛季国际滑联短道速滑世巡赛上海站开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10739038.shtml",
+        "publishedAt": "2026-11-27T21:40:18.000+08:00"
       },
       {
-        "title": "中方学者：亚太作为合作高地的基本面没有变",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739030.shtml",
-        "publishedAt": "2026-11-27T21:31:31.000+08:00"
+        "title": "中国成功发射遥感五十号04星",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211859.shtml",
+        "publishedAt": "2026-11-27T21:38:40.000+08:00"
       },
       {
-        "title": "11月27日新闻夜读",
-        "url": "https://www.chinanews.com.cn/iframe/2026/11-27/10739062.shtml",
-        "publishedAt": "2026-11-27T21:29:25.000+08:00"
+        "title": "中山：做好“侨”文章 让项目蓝图在生产线上“跑起来”",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-27/10739035.shtml",
+        "publishedAt": "2026-11-27T21:38:22.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T21:43:20.254+08:00",
+    "fetchedAt": "2026-11-27T21:53:31.605+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T21:43:20.923+08:00",
+      "fetchedAt": "2026-11-27T21:53:32.173+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 36,
+          "usedPct": 45,
           "resetAt": "2026-11-28T00:59:37.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 39,
+          "usedPct": 40,
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T21:43:20.926+08:00",
+      "fetchedAt": "2026-11-27T21:53:32.175+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T21:43:20.955+08:00",
+      "fetchedAt": "2026-11-27T21:53:32.183+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T21:43:20.955+08:00",
+      "fetchedAt": "2026-11-27T21:53:32.183+08:00",
       "error": "未启用",
       "disabled": true
     }
