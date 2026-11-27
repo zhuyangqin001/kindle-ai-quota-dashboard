@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T18:29:28.328+08:00",
+  "updatedAt": "2026-11-27T18:39:41.406+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.3,
-    "feelsLikeC": 13,
-    "humidity": 70,
-    "windKph": 6.8,
+    "tempC": 13.9,
+    "feelsLikeC": 12.6,
+    "humidity": 72,
+    "windKph": 6.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T18:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T18:29:28.328+08:00",
+    "observedAt": "2026-11-27T18:30:00.000+08:00",
+    "fetchedAt": "2026-11-27T18:39:41.406+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "大风蓝色预警：甘肃内蒙古等6省区部分地区阵风可达7至8级",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738917.shtml",
+        "publishedAt": "2026-11-27T18:28:05.000+08:00"
+      },
+      {
+        "title": "大范围回暖将席卷南北方 大城市升温日历看哪里会暖到破纪录",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738914.shtml",
+        "publishedAt": "2026-11-27T18:23:17.000+08:00"
+      },
       {
         "title": "《全民数字素养与技能调查报告（2026年）》发布",
         "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738908.shtml",
@@ -33,19 +43,9 @@
         "title": "配备雷达、能打导弹、可回传战况，三款外贸战车亮相珠海",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738907.shtml",
         "publishedAt": "2026-11-27T18:16:49.000+08:00"
-      },
-      {
-        "title": "中国工商界呼吁美方撤回拟议加税措施",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738906.shtml",
-        "publishedAt": "2026-11-27T18:14:35.000+08:00"
-      },
-      {
-        "title": "A股周五放量大涨 创业板指涨逾11％",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738905.shtml",
-        "publishedAt": "2026-11-27T18:13:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T18:29:25.130+08:00",
+    "fetchedAt": "2026-11-27T18:39:37.988+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T18:29:25.958+08:00",
+      "fetchedAt": "2026-11-27T18:39:38.796+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 8,
-          "resetAt": "2026-11-27T18:37:06.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-27T23:39:40.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T18:29:25.961+08:00",
+      "fetchedAt": "2026-11-27T18:39:38.800+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T18:29:25.971+08:00",
+      "fetchedAt": "2026-11-27T18:39:38.810+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T18:29:25.971+08:00",
+      "fetchedAt": "2026-11-27T18:39:38.810+08:00",
       "error": "未启用",
       "disabled": true
     }
