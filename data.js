@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T14:55:01.450+08:00",
+  "updatedAt": "2026-11-27T15:05:13.773+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.6,
-    "feelsLikeC": 18.4,
-    "humidity": 49,
-    "windKph": 5.5,
+    "tempC": 19.7,
+    "feelsLikeC": 18.2,
+    "humidity": 47,
+    "windKph": 6.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T14:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T14:55:01.450+08:00",
+    "observedAt": "2026-11-27T15:00:00.000+08:00",
+    "fetchedAt": "2026-11-27T15:05:13.773+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "从手工取样到智能智造 仿真花“开”出亿级大市场",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738701.shtml",
-        "publishedAt": "2026-11-27T14:49:08.000+08:00"
+        "title": "提振消费 需纠正“不敢花”的简化叙事",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738725.shtml",
+        "publishedAt": "2026-11-27T14:59:34.000+08:00"
       },
       {
-        "title": "11月27日“农产品批发价格200指数”比昨天上升0.18个点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738693.shtml",
-        "publishedAt": "2026-11-27T14:48:22.000+08:00"
+        "title": "雪场上线夜滑模式 冬日冰雪运动开启全天候精彩",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738721.shtml",
+        "publishedAt": "2026-11-27T14:57:32.000+08:00"
       },
       {
-        "title": "金价大涨，伦敦现货黄金最高触及3666.71美元/盎司",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738694.shtml",
-        "publishedAt": "2026-11-27T14:43:53.000+08:00"
+        "title": "如何理解国常会对资本市场的最新定调？专家解读来了",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738720.shtml",
+        "publishedAt": "2026-11-27T14:55:50.000+08:00"
       },
       {
-        "title": "不法分子如何批量盗取学历信息？黑灰产链条曝光",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738691.shtml",
-        "publishedAt": "2026-11-27T14:35:19.000+08:00"
+        "title": "前10个月全国规模以上工业企业利润增长16.0%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738716.shtml",
+        "publishedAt": "2026-11-27T14:54:20.000+08:00"
       },
       {
-        "title": "小仙炖以品类创新拉动产业链升级｜一碗鲜炖燕窝背后，中国消费创新的亚太溢出效应",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738690.shtml",
-        "publishedAt": "2026-11-27T14:30:27.000+08:00"
+        "title": "列车车次上新，编码这样认",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738714.shtml",
+        "publishedAt": "2026-11-27T14:54:02.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T14:54:56.250+08:00",
+    "fetchedAt": "2026-11-27T15:05:11.240+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T14:54:57.017+08:00",
+      "fetchedAt": "2026-11-27T15:05:11.823+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T14:54:57.021+08:00",
+      "fetchedAt": "2026-11-27T15:05:11.826+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T14:54:57.031+08:00",
+      "fetchedAt": "2026-11-27T15:05:11.837+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T14:54:57.031+08:00",
+      "fetchedAt": "2026-11-27T15:05:11.838+08:00",
       "error": "未启用",
       "disabled": true
     }
