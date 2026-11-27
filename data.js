@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T10:19:28.533+08:00",
+  "updatedAt": "2026-11-27T10:29:40.822+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T10:19:28.533+08:00",
+    "fetchedAt": "2026-11-27T10:29:40.822+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "首次亮相、重磅集结！中国航展硬核装备提前揭秘",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738587.shtml",
+        "publishedAt": "2026-11-27T10:21:31.000+08:00"
+      },
       {
         "title": "三亚推进从传统旅游城市向世界级度假创业城市转型",
         "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738571.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "黑龙江大庆：以数据为新引擎 打造资源型城市数字化转型样板",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738574.shtml",
         "publishedAt": "2026-11-27T10:07:48.000+08:00"
-      },
-      {
-        "title": "工信部：前10个月电信业务收入累计完成1.43万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738570.shtml",
-        "publishedAt": "2026-11-27T10:06:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T10:19:25.228+08:00",
+    "fetchedAt": "2026-11-27T10:29:38.138+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T10:19:26.034+08:00",
+      "fetchedAt": "2026-11-27T10:29:38.944+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 32,
-          "resetAt": "2026-11-28T20:15:45.000+08:00"
+          "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T10:19:26.038+08:00",
+      "fetchedAt": "2026-11-27T10:29:38.948+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T10:19:26.049+08:00",
+      "fetchedAt": "2026-11-27T10:29:38.958+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T10:19:26.049+08:00",
+      "fetchedAt": "2026-11-27T10:29:38.958+08:00",
       "error": "未启用",
       "disabled": true
     }
