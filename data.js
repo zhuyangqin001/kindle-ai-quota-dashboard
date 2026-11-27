@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T20:52:22.395+08:00",
+  "updatedAt": "2026-11-27T21:02:34.909+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.2,
-    "feelsLikeC": 11.5,
-    "humidity": 77,
+    "tempC": 12,
+    "feelsLikeC": 11.3,
+    "humidity": 78,
     "windKph": 1.3,
-    "windDir": "西南风",
+    "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T20:52:22.395+08:00",
+    "observedAt": "2026-11-27T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-27T21:02:34.910+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "陈文清访问奥地利",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739029.shtml",
+        "publishedAt": "2026-11-27T20:51:31.000+08:00"
+      },
+      {
+        "title": "话剧《暗恋桃花源》经典版江西南昌上演 以戏叙梦尽写人间悲欢",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739014.shtml",
+        "publishedAt": "2026-11-27T20:51:03.000+08:00"
+      },
+      {
+        "title": "过去五年，内蒙古多领域发展成就居全国首位",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739013.shtml",
+        "publishedAt": "2026-11-27T20:49:53.000+08:00"
+      },
+      {
+        "title": "广西苍梧：菌菇飘香迎丰收 循环产业助振兴",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-27/10739015.shtml",
+        "publishedAt": "2026-11-27T20:49:45.000+08:00"
+      },
+      {
         "title": "儿童书包的拉链头增塑剂超标68倍，品牌旗舰店客服回应",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739012.shtml",
         "publishedAt": "2026-11-27T20:49:13.000+08:00"
-      },
-      {
-        "title": "四川成都：银杏尽染金黄 暖阳引市民赏景",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-27/10739009.shtml",
-        "publishedAt": "2026-11-27T20:48:41.000+08:00"
-      },
-      {
-        "title": "入住青年酒店被拒，只因超40岁？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739011.shtml",
-        "publishedAt": "2026-11-27T20:48:33.000+08:00"
-      },
-      {
-        "title": "把礼遇给企业 把实效给产业——益阳市“企业服务年”推动政企同心赋能产业强市观察",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739028.shtml",
-        "publishedAt": "2026-11-27T20:47:59.000+08:00"
-      },
-      {
-        "title": "澳门高校举办纪念长征胜利90周年展览",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10739010.shtml",
-        "publishedAt": "2026-11-27T20:47:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T20:52:19.821+08:00",
+    "fetchedAt": "2026-11-27T21:02:32.066+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T20:52:20.621+08:00",
+      "fetchedAt": "2026-11-27T21:02:32.879+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T20:52:20.625+08:00",
+      "fetchedAt": "2026-11-27T21:02:32.883+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T20:52:20.635+08:00",
+      "fetchedAt": "2026-11-27T21:02:32.893+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T20:52:20.636+08:00",
+      "fetchedAt": "2026-11-27T21:02:32.893+08:00",
       "error": "未启用",
       "disabled": true
     }
