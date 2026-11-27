@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T13:13:02.154+08:00",
+  "updatedAt": "2026-11-27T13:23:14.616+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.7,
-    "feelsLikeC": 17.6,
+    "tempC": 18.9,
+    "feelsLikeC": 17.7,
     "humidity": 51,
-    "windKph": 4.7,
+    "windKph": 5,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T13:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T13:13:02.154+08:00",
+    "observedAt": "2026-11-27T13:15:00.000+08:00",
+    "fetchedAt": "2026-11-27T13:23:14.616+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "伊朗外长回应两名意大利人在科威特身亡：疑点重重",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738661.shtml",
+        "publishedAt": "2026-11-27T13:13:28.000+08:00"
+      },
+      {
+        "title": "云岭动态第五十期",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738663.shtml",
+        "publishedAt": "2026-11-27T13:10:44.000+08:00"
+      },
+      {
+        "title": "39岁男警员在警署一洗手间内死亡，香港警方通报：将安排验尸",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738664.shtml",
+        "publishedAt": "2026-11-27T13:10:08.000+08:00"
+      },
       {
         "title": "感冒、流感还是肺炎？出现这些症状千万别拖",
         "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738660.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "配备星链终端、搭载高爆炸药，乌无人艇在非洲突袭俄战舰",
         "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738656.shtml",
         "publishedAt": "2026-11-27T13:01:20.000+08:00"
-      },
-      {
-        "title": "一碗饭背后的牵挂，何以成为治愈良药？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738643.shtml",
-        "publishedAt": "2026-11-27T13:00:48.000+08:00"
-      },
-      {
-        "title": "参观万吨大驱、与准航母合影，这份航展特殊攻略请收好",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738655.shtml",
-        "publishedAt": "2026-11-27T13:00:20.000+08:00"
-      },
-      {
-        "title": "把体育“一阵火”变消费“长久热”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738659.shtml",
-        "publishedAt": "2026-11-27T12:59:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T13:12:59.515+08:00",
+    "fetchedAt": "2026-11-27T13:23:11.826+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T13:13:00.179+08:00",
+      "fetchedAt": "2026-11-27T13:23:12.631+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T18:13:01.000+08:00"
+          "resetAt": "2026-11-27T18:23:14.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T13:13:00.183+08:00",
+      "fetchedAt": "2026-11-27T13:23:12.635+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T13:13:00.193+08:00",
+      "fetchedAt": "2026-11-27T13:23:12.646+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T13:13:00.194+08:00",
+      "fetchedAt": "2026-11-27T13:23:12.647+08:00",
       "error": "未启用",
       "disabled": true
     }
