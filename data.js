@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T16:06:29.315+08:00",
+  "updatedAt": "2026-11-27T16:16:42.110+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19,
-    "feelsLikeC": 17.1,
-    "humidity": 50,
-    "windKph": 9.9,
+    "tempC": 18.5,
+    "feelsLikeC": 16.6,
+    "humidity": 52,
+    "windKph": 9.8,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T16:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T16:06:29.315+08:00",
+    "observedAt": "2026-11-27T16:15:00.000+08:00",
+    "fetchedAt": "2026-11-27T16:16:42.110+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "广州足球公园球场索承网格钢屋盖创新技术成功实施",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738765.shtml",
-        "publishedAt": "2026-11-27T16:05:32.000+08:00"
+        "title": "近1500名传统武术选手齐聚仪征 全国传统武术公开赛总决赛开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738784.shtml",
+        "publishedAt": "2026-11-27T16:09:54.000+08:00"
       },
       {
-        "title": "郑卢“空中丝路”论坛首次增邀东盟等地区政商代表",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738776.shtml",
-        "publishedAt": "2026-11-27T16:03:36.000+08:00"
+        "title": "2026“机遇中国 多彩世界”国际交流周“遵义对话”在贵州遵义举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738782.shtml",
+        "publishedAt": "2026-11-27T16:08:52.000+08:00"
       },
       {
-        "title": "西藏本地货运红十字支援服务队成立 助力物资运输应急保障",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738766.shtml",
-        "publishedAt": "2026-11-27T15:59:01.000+08:00"
+        "title": "重庆多措并举完善激励干部担当作为机制",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738780.shtml",
+        "publishedAt": "2026-11-27T16:08:04.000+08:00"
       },
       {
-        "title": "赫章县同心青少年成长中心落成启用仪式举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738777.shtml",
-        "publishedAt": "2026-11-27T15:58:57.000+08:00"
+        "title": "封关新阶段 三亚新蓝图：开放争先、科创策源、文旅向新",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738760.shtml",
+        "publishedAt": "2026-11-27T16:07:42.000+08:00"
       },
       {
-        "title": "浙江宁波“空中120”扩容 立体医疗救援能力再升级",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738767.shtml",
-        "publishedAt": "2026-11-27T15:58:51.000+08:00"
+        "title": "合计判赔4.92亿！牛奶包装盒为何牵出巨额赔偿？",
+        "url": "https://www.chinanews.com.cn/fz/2026/11-27/10738783.shtml",
+        "publishedAt": "2026-11-27T16:07:36.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T16:06:26.527+08:00",
+    "fetchedAt": "2026-11-27T16:16:38.911+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T16:06:27.343+08:00",
+      "fetchedAt": "2026-11-27T16:16:39.707+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T16:06:27.347+08:00",
+      "fetchedAt": "2026-11-27T16:16:39.710+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T16:06:27.356+08:00",
+      "fetchedAt": "2026-11-27T16:16:39.718+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T16:06:27.357+08:00",
+      "fetchedAt": "2026-11-27T16:16:39.718+08:00",
       "error": "未启用",
       "disabled": true
     }
