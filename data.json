@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T09:59:03.248+08:00",
+  "updatedAt": "2026-11-27T10:09:15.562+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.9,
-    "feelsLikeC": 14.8,
-    "humidity": 73,
-    "windKph": 0.8,
+    "tempC": 15.6,
+    "feelsLikeC": 15.5,
+    "humidity": 70,
+    "windKph": 1.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T09:59:03.248+08:00",
+    "observedAt": "2026-11-27T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-27T10:09:15.562+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "大连市庄河市开展暖阳助学活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738557.shtml",
+        "publishedAt": "2026-11-27T09:58:28.000+08:00"
+      },
+      {
+        "title": "大连市长海县开展新阶层文艺下乡暨助力乡村文化振兴主题活动",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738561.shtml",
+        "publishedAt": "2026-11-27T09:57:20.000+08:00"
+      },
+      {
+        "title": "沪港交融共创未来 香港青年员工看上海交流活动举行",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738549.shtml",
+        "publishedAt": "2026-11-27T09:57:12.000+08:00"
+      },
+      {
+        "title": "大连市召开党外代表人士实践锻炼基地工作会议",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738560.shtml",
+        "publishedAt": "2026-11-27T09:56:50.000+08:00"
+      },
+      {
         "title": "黑龙江呼玛县：北疆边境暖夕阳 盘活集体资产办好农村养老",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738555.shtml",
         "publishedAt": "2026-11-27T09:56:04.000+08:00"
-      },
-      {
-        "title": "从一颗传感器到整条产业链 高交会解码AI落地深圳答案",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738551.shtml",
-        "publishedAt": "2026-11-27T09:56:00.000+08:00"
-      },
-      {
-        "title": "“光影相约：洛迦诺80年——瑞中电影对话”开幕活动在京举行",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738553.shtml",
-        "publishedAt": "2026-11-27T09:55:34.000+08:00"
-      },
-      {
-        "title": "暖心放归！3只东方白鹳翱翔河北唐山沿海湿地",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738554.shtml",
-        "publishedAt": "2026-11-27T09:55:30.000+08:00"
-      },
-      {
-        "title": "大连市中山区举办2026年统一战线专题培训班",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738547.shtml",
-        "publishedAt": "2026-11-27T09:54:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T09:59:00.741+08:00",
+    "fetchedAt": "2026-11-27T10:09:12.732+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T09:59:01.542+08:00",
+      "fetchedAt": "2026-11-27T10:09:13.545+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T09:59:01.547+08:00",
+      "fetchedAt": "2026-11-27T10:09:13.549+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T09:59:01.556+08:00",
+      "fetchedAt": "2026-11-27T10:09:13.559+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T09:59:01.557+08:00",
+      "fetchedAt": "2026-11-27T10:09:13.559+08:00",
       "error": "未启用",
       "disabled": true
     }
