@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T21:53:34.069+08:00",
+  "updatedAt": "2026-11-27T22:03:46.457+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.2,
-    "feelsLikeC": 10.3,
-    "humidity": 81,
-    "windKph": 2.3,
+    "tempC": 11,
+    "feelsLikeC": 10.1,
+    "humidity": 82,
+    "windKph": 2.7,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T21:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T21:53:34.070+08:00",
+    "observedAt": "2026-11-27T22:00:00.000+08:00",
+    "fetchedAt": "2026-11-27T22:03:46.457+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“九州攸同——周秦汉唐文物特展”在广西南宁启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739042.shtml",
-        "publishedAt": "2026-11-27T21:44:02.000+08:00"
+        "title": "专家：深圳APEC会议对亚太共同体建设影响深远",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739076.shtml",
+        "publishedAt": "2026-11-27T21:54:55.000+08:00"
       },
       {
-        "title": "中国有望建成全球首个核聚变能源工程供热示范堆先导堆型",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739040.shtml",
-        "publishedAt": "2026-11-27T21:41:06.000+08:00"
+        "title": "共探营养健康新路径 2026营养科学与健康促进前沿论坛在长沙举办",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739081.shtml",
+        "publishedAt": "2026-11-27T21:54:27.000+08:00"
       },
       {
-        "title": "2026—2027赛季国际滑联短道速滑世巡赛上海站开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10739038.shtml",
-        "publishedAt": "2026-11-27T21:40:18.000+08:00"
+        "title": "港股上行 恒生科技指数领跑大市",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739070.shtml",
+        "publishedAt": "2026-11-27T21:54:13.000+08:00"
       },
       {
-        "title": "中国成功发射遥感五十号04星",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211859.shtml",
-        "publishedAt": "2026-11-27T21:38:40.000+08:00"
+        "title": "获评“京琅琊”名家人才，导演刘家成：未来十年将深耕北京故事",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739067.shtml",
+        "publishedAt": "2026-11-27T21:54:03.000+08:00"
       },
       {
-        "title": "中山：做好“侨”文章 让项目蓝图在生产线上“跑起来”",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-27/10739035.shtml",
-        "publishedAt": "2026-11-27T21:38:22.000+08:00"
+        "title": "中国国家税务总局公布新修订的《税务行政复议规则》",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739071.shtml",
+        "publishedAt": "2026-11-27T21:53:57.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T21:53:31.605+08:00",
+    "fetchedAt": "2026-11-27T22:03:43.583+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T21:53:32.173+08:00",
+      "fetchedAt": "2026-11-27T22:03:44.396+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T21:53:32.175+08:00",
+      "fetchedAt": "2026-11-27T22:03:44.399+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T21:53:32.183+08:00",
+      "fetchedAt": "2026-11-27T22:03:44.410+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T21:53:32.183+08:00",
+      "fetchedAt": "2026-11-27T22:03:44.411+08:00",
       "error": "未启用",
       "disabled": true
     }
