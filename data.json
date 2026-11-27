@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T17:07:45.114+08:00",
+  "updatedAt": "2026-11-27T17:17:59.037+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.6,
-    "feelsLikeC": 15.1,
-    "humidity": 61,
-    "windKph": 8.7,
+    "tempC": 16.1,
+    "feelsLikeC": 14.6,
+    "humidity": 63,
+    "windKph": 8.3,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T17:07:45.114+08:00",
+    "observedAt": "2026-11-27T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-27T17:17:59.037+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "今年1至10月 江西实施临时救助9.9万人次1.59亿元",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738832.shtml",
-        "publishedAt": "2026-11-27T17:00:37.000+08:00"
+        "title": "（经济观察）国务院常务会议“把脉”资本市场 释放三大关键信号",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738857.shtml",
+        "publishedAt": "2026-11-27T17:08:35.000+08:00"
       },
       {
-        "title": "江西公安机关集中销毁各类非法枪支7562支",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738838.shtml",
-        "publishedAt": "2026-11-27T17:00:27.000+08:00"
+        "title": "残疾人、老年人代表当“验收员” 江西立法推进无障碍环境建设",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738854.shtml",
+        "publishedAt": "2026-11-27T17:07:43.000+08:00"
       },
       {
-        "title": "市场监管总局新规征意见：给买榜捆绑刷量造假算法黑箱划红线",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738839.shtml",
-        "publishedAt": "2026-11-27T17:00:15.000+08:00"
+        "title": "黄埔海关启用“一单两报” 粤港跨境贸易便利化再上新台阶",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738850.shtml",
+        "publishedAt": "2026-11-27T17:06:57.000+08:00"
       },
       {
-        "title": "港科大35周年成果共享节在港开幕 “天韵相机”模型亮相",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738835.shtml",
-        "publishedAt": "2026-11-27T17:00:05.000+08:00"
+        "title": "第二十四届广州国际汽车展览会开展",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-27/10738852.shtml",
+        "publishedAt": "2026-11-27T17:05:43.000+08:00"
       },
       {
-        "title": "“援”定天山：“深圳爱心”温暖百余万边疆群众",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738830.shtml",
-        "publishedAt": "2026-11-27T17:00:01.000+08:00"
+        "title": "重庆亮实招、硬招推进作风建设常态化、长效化",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738851.shtml",
+        "publishedAt": "2026-11-27T17:05:15.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T17:07:42.473+08:00",
+    "fetchedAt": "2026-11-27T17:17:56.292+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T17:07:43.155+08:00",
+      "fetchedAt": "2026-11-27T17:17:57.097+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T17:07:43.159+08:00",
+      "fetchedAt": "2026-11-27T17:17:57.101+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T17:07:43.170+08:00",
+      "fetchedAt": "2026-11-27T17:17:57.111+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T17:07:43.170+08:00",
+      "fetchedAt": "2026-11-27T17:17:57.111+08:00",
       "error": "未启用",
       "disabled": true
     }
