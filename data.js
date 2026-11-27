@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T19:30:44.115+08:00",
+  "updatedAt": "2026-11-27T19:40:57.688+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T19:30:44.116+08:00",
+    "fetchedAt": "2026-11-27T19:40:57.689+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国海警依法驱离日非法进入我钓鱼岛领海船只",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738966.shtml",
+        "publishedAt": "2026-11-27T19:27:05.000+08:00"
+      },
+      {
+        "title": "中国证监会传达学习贯彻国务院常务会议精神",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738964.shtml",
+        "publishedAt": "2026-11-27T19:23:22.000+08:00"
+      },
       {
         "title": "2026中国时尚产业盛典大连之夜启幕 以时尚力量激活文旅动能",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738944.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "“全国青少年身心健康试点区”揭牌 专家建言提供精准“指南针”",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738940.shtml",
         "publishedAt": "2026-11-27T19:19:48.000+08:00"
-      },
-      {
-        "title": "伊朗海军司令称夺回两艘被美军劫持的油轮",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738962.shtml",
-        "publishedAt": "2026-11-27T19:18:58.000+08:00"
-      },
-      {
-        "title": "河南漯河：探访贾湖遗址博物馆",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-27/10738945.shtml",
-        "publishedAt": "2026-11-27T19:15:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T19:30:41.365+08:00",
+    "fetchedAt": "2026-11-27T19:40:54.929+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T19:30:42.081+08:00",
+      "fetchedAt": "2026-11-27T19:40:55.716+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T00:30:43.000+08:00"
+          "resetAt": "2026-11-28T00:40:57.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T19:30:42.085+08:00",
+      "fetchedAt": "2026-11-27T19:40:55.720+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T19:30:42.096+08:00",
+      "fetchedAt": "2026-11-27T19:40:55.730+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T19:30:42.096+08:00",
+      "fetchedAt": "2026-11-27T19:40:55.731+08:00",
       "error": "未启用",
       "disabled": true
     }
