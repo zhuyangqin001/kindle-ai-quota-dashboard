@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-28T03:40:46.051+08:00",
+  "updatedAt": "2026-11-28T03:50:58.785+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.7,
-    "feelsLikeC": 7.2,
+    "tempC": 8.6,
+    "feelsLikeC": 7.1,
     "humidity": 87,
     "windKph": 3.8,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T03:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T03:40:46.051+08:00",
+    "observedAt": "2026-11-28T03:45:00.000+08:00",
+    "fetchedAt": "2026-11-28T03:50:58.785+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-27T22:30:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T03:40:43.276+08:00",
+    "fetchedAt": "2026-11-28T03:50:56.018+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T03:40:44.062+08:00",
+      "fetchedAt": "2026-11-28T03:50:56.822+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T08:40:45.000+08:00"
+          "resetAt": "2026-11-28T08:50:58.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T03:40:44.065+08:00",
+      "fetchedAt": "2026-11-28T03:50:56.826+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T03:40:44.076+08:00",
+      "fetchedAt": "2026-11-28T03:50:56.836+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T03:40:44.076+08:00",
+      "fetchedAt": "2026-11-28T03:50:56.836+08:00",
       "error": "未启用",
       "disabled": true
     }
