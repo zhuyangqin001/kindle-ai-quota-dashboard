@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T17:38:25.646+08:00",
+  "updatedAt": "2026-11-27T17:48:37.808+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.6,
-    "feelsLikeC": 14.1,
-    "humidity": 65,
-    "windKph": 8,
+    "tempC": 15.1,
+    "feelsLikeC": 13.7,
+    "humidity": 67,
+    "windKph": 7.5,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T17:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T17:38:25.646+08:00",
+    "observedAt": "2026-11-27T17:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T17:48:37.808+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "浙江大学金融研究院上市公司研究中心原主任包纯田接受审查调查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738875.shtml",
-        "publishedAt": "2026-11-27T17:31:52.000+08:00"
+        "title": "“窗帘”暖民心，“短剧”聚新力——山西统战干部培训班走进实践点看“小阵地”如何“大作为”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738890.shtml",
+        "publishedAt": "2026-11-27T17:45:21.000+08:00"
       },
       {
-        "title": "甘肃省建设投资(控股)集团原副总经理李文恩被“双开”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738872.shtml",
-        "publishedAt": "2026-11-27T17:30:44.000+08:00"
+        "title": "泸州：深耕基层统战 铸牢同心根基",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738885.shtml",
+        "publishedAt": "2026-11-27T17:44:29.000+08:00"
       },
       {
-        "title": "第二届“华美行”美术专业成果展落幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738863.shtml",
-        "publishedAt": "2026-11-27T17:30:34.000+08:00"
+        "title": "“粤创未来”FUN享会在南沙举行 港澳青年组团“取经”",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738887.shtml",
+        "publishedAt": "2026-11-27T17:44:09.000+08:00"
       },
       {
-        "title": "第七届悉尼茶博会开幕 中国茶受青睐",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738860.shtml",
-        "publishedAt": "2026-11-27T17:29:56.000+08:00"
+        "title": "2026火炬论坛在安徽芜湖开幕",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738891.shtml",
+        "publishedAt": "2026-11-27T17:43:33.000+08:00"
       },
       {
-        "title": "中国证监会同意瓦楞原纸期货和期权注册",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738884.shtml",
-        "publishedAt": "2026-11-27T17:29:02.000+08:00"
+        "title": "2026年奥林匹克博物馆联盟全会在北京举行",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738888.shtml",
+        "publishedAt": "2026-11-27T17:42:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T17:38:22.918+08:00",
+    "fetchedAt": "2026-11-27T17:48:35.220+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T17:38:23.720+08:00",
+      "fetchedAt": "2026-11-27T17:48:36.028+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T17:38:23.724+08:00",
+      "fetchedAt": "2026-11-27T17:48:36.032+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T17:38:23.734+08:00",
+      "fetchedAt": "2026-11-27T17:48:36.042+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T17:38:23.734+08:00",
+      "fetchedAt": "2026-11-27T17:48:36.043+08:00",
       "error": "未启用",
       "disabled": true
     }
