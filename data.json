@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T21:02:34.909+08:00",
+  "updatedAt": "2026-11-27T21:12:47.470+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T21:02:34.910+08:00",
+    "fetchedAt": "2026-11-27T21:12:47.470+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "陈文清访问奥地利",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739029.shtml",
-        "publishedAt": "2026-11-27T20:51:31.000+08:00"
+        "title": "徐兰高铁郑徐段将常态化按时速350公里高标运行",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739019.shtml",
+        "publishedAt": "2026-11-27T21:08:12.000+08:00"
       },
       {
-        "title": "话剧《暗恋桃花源》经典版江西南昌上演 以戏叙梦尽写人间悲欢",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739014.shtml",
-        "publishedAt": "2026-11-27T20:51:03.000+08:00"
+        "title": "冷空气对广东影响进入尾声 全省气温将有回升",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739018.shtml",
+        "publishedAt": "2026-11-27T21:06:30.000+08:00"
       },
       {
-        "title": "过去五年，内蒙古多领域发展成就居全国首位",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739013.shtml",
-        "publishedAt": "2026-11-27T20:49:53.000+08:00"
+        "title": "超强厄尔尼诺来袭 如何应对今年秋冬季大气污染严峻复杂形势？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739043.shtml",
+        "publishedAt": "2026-11-27T21:06:08.000+08:00"
       },
       {
-        "title": "广西苍梧：菌菇飘香迎丰收 循环产业助振兴",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-27/10739015.shtml",
-        "publishedAt": "2026-11-27T20:49:45.000+08:00"
+        "title": "2027澳网亚太区外卡赛双打冠军产生 中国球员会师女单决赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10739017.shtml",
+        "publishedAt": "2026-11-27T21:04:26.000+08:00"
       },
       {
-        "title": "儿童书包的拉链头增塑剂超标68倍，品牌旗舰店客服回应",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739012.shtml",
-        "publishedAt": "2026-11-27T20:49:13.000+08:00"
+        "title": "2025年以来广东法院受理各类市场主体案件484.4万件",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739016.shtml",
+        "publishedAt": "2026-11-27T21:03:32.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T21:02:32.066+08:00",
+    "fetchedAt": "2026-11-27T21:12:44.768+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T21:02:32.879+08:00",
+      "fetchedAt": "2026-11-27T21:12:45.573+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T21:02:32.883+08:00",
+      "fetchedAt": "2026-11-27T21:12:45.577+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T21:02:32.893+08:00",
+      "fetchedAt": "2026-11-27T21:12:45.586+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T21:02:32.893+08:00",
+      "fetchedAt": "2026-11-27T21:12:45.587+08:00",
       "error": "未启用",
       "disabled": true
     }
