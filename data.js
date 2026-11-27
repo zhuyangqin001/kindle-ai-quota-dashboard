@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T16:47:19.417+08:00",
+  "updatedAt": "2026-11-27T16:57:32.473+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T16:47:19.417+08:00",
+    "fetchedAt": "2026-11-27T16:57:32.473+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "聚焦未来视听 2026北京国际视听大会启幕",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738804.shtml",
-        "publishedAt": "2026-11-27T16:41:24.000+08:00"
+        "title": "鼓吹“产能过剩论”，解不开全球经济失衡症结",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738836.shtml",
+        "publishedAt": "2026-11-27T16:49:44.000+08:00"
       },
       {
-        "title": "青岛机场今年的国际及地区旅客量已超2025年全年总量",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738802.shtml",
-        "publishedAt": "2026-11-27T16:40:54.000+08:00"
+        "title": "“援”定天山：广交会对接喀交会 双向出海",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738827.shtml",
+        "publishedAt": "2026-11-27T16:48:56.000+08:00"
       },
       {
-        "title": "从冰雪“燎原”触摸全国“热经济”强劲脉动",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738820.shtml",
-        "publishedAt": "2026-11-27T16:40:40.000+08:00"
+        "title": "民进2026年社会服务主题年工作总结会议在京召开",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738826.shtml",
+        "publishedAt": "2026-11-27T16:48:44.000+08:00"
       },
       {
-        "title": "8.9万亿千瓦时，照亮中国经济的“新底色”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738818.shtml",
-        "publishedAt": "2026-11-27T16:37:33.000+08:00"
+        "title": "日方拖延推责 遗弃化学武器处置工作进展缓慢",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738831.shtml",
+        "publishedAt": "2026-11-27T16:48:18.000+08:00"
       },
       {
-        "title": "国家特殊教育课程教学资源中心建设启动 助力特殊教育高质量发展",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-27/10738803.shtml",
-        "publishedAt": "2026-11-27T16:37:01.000+08:00"
+        "title": "店员被要求全程口播、无客也需喊话？茶颜悦色回应",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738825.shtml",
+        "publishedAt": "2026-11-27T16:47:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T16:47:16.473+08:00",
+    "fetchedAt": "2026-11-27T16:57:29.911+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T16:47:17.289+08:00",
+      "fetchedAt": "2026-11-27T16:57:30.575+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T16:47:17.293+08:00",
+      "fetchedAt": "2026-11-27T16:57:30.578+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T16:47:17.303+08:00",
+      "fetchedAt": "2026-11-27T16:57:30.587+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T16:47:17.303+08:00",
+      "fetchedAt": "2026-11-27T16:57:30.588+08:00",
       "error": "未启用",
       "disabled": true
     }
