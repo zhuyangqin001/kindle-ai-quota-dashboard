@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T20:42:10.337+08:00",
+  "updatedAt": "2026-11-27T20:52:22.395+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.3,
-    "feelsLikeC": 11.6,
+    "tempC": 12.2,
+    "feelsLikeC": 11.5,
     "humidity": 77,
-    "windKph": 1.7,
-    "windDir": "西风",
+    "windKph": 1.3,
+    "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T20:42:10.337+08:00",
+    "observedAt": "2026-11-27T20:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T20:52:22.395+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "齐白石《四季山水图屏》亮相重庆中国三峡博物馆藏条屏书画展",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-27/10738958.shtml",
-        "publishedAt": "2026-11-27T20:32:08.000+08:00"
+        "title": "儿童书包的拉链头增塑剂超标68倍，品牌旗舰店客服回应",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739012.shtml",
+        "publishedAt": "2026-11-27T20:49:13.000+08:00"
       },
       {
-        "title": "菲律宾副总统莎拉称绝不会因弹劾审判辞职",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738991.shtml",
-        "publishedAt": "2026-11-27T20:26:06.000+08:00"
+        "title": "四川成都：银杏尽染金黄 暖阳引市民赏景",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-27/10739009.shtml",
+        "publishedAt": "2026-11-27T20:48:41.000+08:00"
       },
       {
-        "title": "加拿大近30万民众联名请愿要求驱逐美国大使",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738967.shtml",
-        "publishedAt": "2026-11-27T20:24:18.000+08:00"
+        "title": "入住青年酒店被拒，只因超40岁？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739011.shtml",
+        "publishedAt": "2026-11-27T20:48:33.000+08:00"
       },
       {
-        "title": "偷渡出境搞“裸聊”敲诈 恶势力集团首要分子获刑20年",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738985.shtml",
-        "publishedAt": "2026-11-27T20:14:13.000+08:00"
+        "title": "把礼遇给企业 把实效给产业——益阳市“企业服务年”推动政企同心赋能产业强市观察",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739028.shtml",
+        "publishedAt": "2026-11-27T20:47:59.000+08:00"
       },
       {
-        "title": "日媒：涉嫌非法侵入住宅，一名驻日美军人员被捕",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738996.shtml",
-        "publishedAt": "2026-11-27T20:13:39.000+08:00"
+        "title": "澳门高校举办纪念长征胜利90周年展览",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10739010.shtml",
+        "publishedAt": "2026-11-27T20:47:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T20:42:07.471+08:00",
+    "fetchedAt": "2026-11-27T20:52:19.821+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T20:42:08.262+08:00",
+      "fetchedAt": "2026-11-27T20:52:20.621+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T20:42:08.266+08:00",
+      "fetchedAt": "2026-11-27T20:52:20.625+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T20:42:08.277+08:00",
+      "fetchedAt": "2026-11-27T20:52:20.635+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T20:42:08.277+08:00",
+      "fetchedAt": "2026-11-27T20:52:20.636+08:00",
       "error": "未启用",
       "disabled": true
     }
