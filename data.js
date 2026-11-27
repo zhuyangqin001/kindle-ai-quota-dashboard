@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T08:37:24.581+08:00",
+  "updatedAt": "2026-11-27T08:47:36.527+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.1,
-    "feelsLikeC": 10.6,
-    "humidity": 87,
+    "tempC": 11.8,
+    "feelsLikeC": 11.4,
+    "humidity": 84,
     "windKph": 0.9,
-    "windDir": "东风",
+    "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T08:37:24.581+08:00",
+    "observedAt": "2026-11-27T08:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T08:47:36.527+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "餐厨废油何以冲上云霄？每天“吃”掉千吨“地沟油”，产出清洁绿色航空燃料",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738502.shtml",
+        "publishedAt": "2026-11-27T08:40:04.000+08:00"
+      },
       {
         "title": "青年调查：交朋友，受访者最看重三观契合志同道合",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738501.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "避开三大误区，饭后走对才养身",
         "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738498.shtml",
         "publishedAt": "2026-11-27T08:23:39.000+08:00"
-      },
-      {
-        "title": "冷空气将继续影响中东部地区",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738496.shtml",
-        "publishedAt": "2026-11-27T08:19:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T08:37:21.460+08:00",
+    "fetchedAt": "2026-11-27T08:47:34.038+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T08:37:22.251+08:00",
+      "fetchedAt": "2026-11-27T08:47:34.843+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T08:37:22.255+08:00",
+      "fetchedAt": "2026-11-27T08:47:34.847+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T08:37:22.265+08:00",
+      "fetchedAt": "2026-11-27T08:47:34.857+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T08:37:22.265+08:00",
+      "fetchedAt": "2026-11-27T08:47:34.857+08:00",
       "error": "未启用",
       "disabled": true
     }
