@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T09:28:26.371+08:00",
+  "updatedAt": "2026-11-27T09:38:39.327+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.4,
-    "feelsLikeC": 13.2,
-    "humidity": 78,
-    "windKph": 0.7,
-    "windDir": "南风",
+    "tempC": 14.2,
+    "feelsLikeC": 14.1,
+    "humidity": 75,
+    "windKph": 0.2,
+    "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T09:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T09:28:26.371+08:00",
+    "observedAt": "2026-11-27T09:30:00.000+08:00",
+    "fetchedAt": "2026-11-27T09:38:39.327+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "深圳“全妆”迎APEC背后 大量景观花木可回收复用",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738524.shtml",
+        "publishedAt": "2026-11-27T09:28:54.000+08:00"
+      },
       {
         "title": "智能语音操作烦琐 人工客服“躲猫猫” 热线问题该如何解决？",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738526.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "11月27日人民币对美元中间价报6.7075 上调21个基点",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738519.shtml",
         "publishedAt": "2026-11-27T09:23:22.000+08:00"
-      },
-      {
-        "title": "冷空气影响持续 内蒙古华北等地风力较大",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738512.shtml",
-        "publishedAt": "2026-11-27T09:14:28.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T09:28:23.298+08:00",
+    "fetchedAt": "2026-11-27T09:38:35.682+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T09:28:24.073+08:00",
+      "fetchedAt": "2026-11-27T09:38:36.450+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T09:28:24.077+08:00",
+      "fetchedAt": "2026-11-27T09:38:36.453+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T09:28:24.087+08:00",
+      "fetchedAt": "2026-11-27T09:38:36.463+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T09:28:24.088+08:00",
+      "fetchedAt": "2026-11-27T09:38:36.464+08:00",
       "error": "未启用",
       "disabled": true
     }
