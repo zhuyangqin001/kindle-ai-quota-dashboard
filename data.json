@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T21:33:11.287+08:00",
+  "updatedAt": "2026-11-27T21:43:22.995+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T21:33:11.288+08:00",
+    "fetchedAt": "2026-11-27T21:43:22.995+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "纪念刘江诞辰百年 五百余件展品再现一代印人风采",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739052.shtml",
-        "publishedAt": "2026-11-27T21:23:03.000+08:00"
+        "title": "东西问·兰花奖丨福斯托·准奇利亚：认识和尊重文化多样性，应融入人工智能核心训练",
+        "url": "https://www.chinanews.com.cn/dxw/2026/11-27/10739060.shtml",
+        "publishedAt": "2026-11-27T21:34:12.000+08:00"
       },
       {
-        "title": "瞄准新一代智能制造 浙江推动算力普惠“数”尽其用",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739053.shtml",
-        "publishedAt": "2026-11-27T21:22:09.000+08:00"
+        "title": "大湾区服贸会首设国际医疗展区 海内外人士到粤就医有指南",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739032.shtml",
+        "publishedAt": "2026-11-27T21:33:58.000+08:00"
       },
       {
-        "title": "第七届海峡两岸（福州）职工创新创业创造大赛主题日活动在福州举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739041.shtml",
-        "publishedAt": "2026-11-27T21:21:21.000+08:00"
+        "title": "哈萨克斯坦70名大学生运动员将赴长春参加大冬会",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10739031.shtml",
+        "publishedAt": "2026-11-27T21:33:03.000+08:00"
       },
       {
-        "title": "2026粤港澳大湾区海洋运动会在惠州开幕",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10739025.shtml",
-        "publishedAt": "2026-11-27T21:20:33.000+08:00"
+        "title": "中方学者：亚太作为合作高地的基本面没有变",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739030.shtml",
+        "publishedAt": "2026-11-27T21:31:31.000+08:00"
       },
       {
-        "title": "两省三校师生以舞台为课堂 共促中华民族大团结",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739024.shtml",
-        "publishedAt": "2026-11-27T21:18:55.000+08:00"
+        "title": "11月27日新闻夜读",
+        "url": "https://www.chinanews.com.cn/iframe/2026/11-27/10739062.shtml",
+        "publishedAt": "2026-11-27T21:29:25.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T21:33:08.618+08:00",
+    "fetchedAt": "2026-11-27T21:43:20.254+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T21:33:09.219+08:00",
+      "fetchedAt": "2026-11-27T21:43:20.923+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 20,
+          "usedPct": 36,
           "resetAt": "2026-11-28T00:59:37.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 36,
+          "usedPct": 39,
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T21:33:09.224+08:00",
+      "fetchedAt": "2026-11-27T21:43:20.926+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T21:33:09.241+08:00",
+      "fetchedAt": "2026-11-27T21:43:20.955+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T21:33:09.241+08:00",
+      "fetchedAt": "2026-11-27T21:43:20.955+08:00",
       "error": "未启用",
       "disabled": true
     }
