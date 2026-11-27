@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T11:41:09.360+08:00",
+  "updatedAt": "2026-11-27T11:51:21.933+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.2,
+    "tempC": 18.4,
     "feelsLikeC": 17.6,
-    "humidity": 57,
-    "windKph": 3.5,
+    "humidity": 55,
+    "windKph": 3.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T11:41:09.360+08:00",
+    "observedAt": "2026-11-27T11:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T11:51:21.933+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "A股午评：大科技“奇迹日”，超4600只个股上涨",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738642.shtml",
+        "publishedAt": "2026-11-27T11:42:50.000+08:00"
+      },
+      {
+        "title": "泰国曼谷一炼油厂发生爆炸 现场浓烟滚滚造成至少7人受伤",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211781.shtml",
+        "publishedAt": "2026-11-27T11:42:18.000+08:00"
+      },
       {
         "title": "AI二创 正在重写IP规则",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738628.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "宿舍“条件差”引关注 三只松鼠致歉整改",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738626.shtml",
         "publishedAt": "2026-11-27T11:28:43.000+08:00"
-      },
-      {
-        "title": "海外媒体记者和网络博主感知重庆秋韵",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-27/10738624.shtml",
-        "publishedAt": "2026-11-27T11:28:11.000+08:00"
-      },
-      {
-        "title": "美国大幅上修GDP至4.3%，特朗普“炮轰”商务部",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738625.shtml",
-        "publishedAt": "2026-11-27T11:25:55.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T11:41:06.274+08:00",
+    "fetchedAt": "2026-11-27T11:51:19.302+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T11:41:07.076+08:00",
+      "fetchedAt": "2026-11-27T11:51:20.059+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T11:41:07.080+08:00",
+      "fetchedAt": "2026-11-27T11:51:20.063+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T11:41:07.089+08:00",
+      "fetchedAt": "2026-11-27T11:51:20.072+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T11:41:07.090+08:00",
+      "fetchedAt": "2026-11-27T11:51:20.072+08:00",
       "error": "未启用",
       "disabled": true
     }
