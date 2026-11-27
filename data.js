@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T21:12:47.470+08:00",
+  "updatedAt": "2026-11-27T21:22:59.728+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12,
-    "feelsLikeC": 11.3,
-    "humidity": 78,
-    "windKph": 1.3,
+    "tempC": 11.8,
+    "feelsLikeC": 11,
+    "humidity": 79,
+    "windKph": 1.6,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T21:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T21:12:47.470+08:00",
+    "observedAt": "2026-11-27T21:15:00.000+08:00",
+    "fetchedAt": "2026-11-27T21:22:59.728+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "徐兰高铁郑徐段将常态化按时速350公里高标运行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739019.shtml",
-        "publishedAt": "2026-11-27T21:08:12.000+08:00"
+        "title": "两省三校师生以舞台为课堂 共促中华民族大团结",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739024.shtml",
+        "publishedAt": "2026-11-27T21:18:55.000+08:00"
       },
       {
-        "title": "冷空气对广东影响进入尾声 全省气温将有回升",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739018.shtml",
-        "publishedAt": "2026-11-27T21:06:30.000+08:00"
+        "title": "“五千年文明看山西”文化巡展走进广州",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739023.shtml",
+        "publishedAt": "2026-11-27T21:18:05.000+08:00"
       },
       {
-        "title": "超强厄尔尼诺来袭 如何应对今年秋冬季大气污染严峻复杂形势？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739043.shtml",
-        "publishedAt": "2026-11-27T21:06:08.000+08:00"
+        "title": "品卤艺匠心、绘翰墨丹青 外国友人在重庆巴南感受山城烟火",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739022.shtml",
+        "publishedAt": "2026-11-27T21:17:25.000+08:00"
       },
       {
-        "title": "2027澳网亚太区外卡赛双打冠军产生 中国球员会师女单决赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10739017.shtml",
-        "publishedAt": "2026-11-27T21:04:26.000+08:00"
+        "title": "2026秦势高质量发展大会在西安举行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739055.shtml",
+        "publishedAt": "2026-11-27T21:16:43.000+08:00"
       },
       {
-        "title": "2025年以来广东法院受理各类市场主体案件484.4万件",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739016.shtml",
-        "publishedAt": "2026-11-27T21:03:32.000+08:00"
+        "title": "“土特产推荐官”集结浙江临海 满园蜜桔“上云”跑出山",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739056.shtml",
+        "publishedAt": "2026-11-27T21:16:03.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T21:12:44.768+08:00",
+    "fetchedAt": "2026-11-27T21:22:57.128+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T21:12:45.573+08:00",
+      "fetchedAt": "2026-11-27T21:22:57.855+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,7 +63,7 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 2,
+          "usedPct": 3,
           "resetAt": "2026-11-28T00:59:37.000+08:00"
         },
         {
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T21:12:45.577+08:00",
+      "fetchedAt": "2026-11-27T21:22:57.858+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T21:12:45.586+08:00",
+      "fetchedAt": "2026-11-27T21:22:57.869+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T21:12:45.587+08:00",
+      "fetchedAt": "2026-11-27T21:22:57.870+08:00",
       "error": "未启用",
       "disabled": true
     }
