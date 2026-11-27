@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T10:09:15.562+08:00",
+  "updatedAt": "2026-11-27T10:19:28.533+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.6,
-    "feelsLikeC": 15.5,
-    "humidity": 70,
-    "windKph": 1.4,
+    "tempC": 16.2,
+    "feelsLikeC": 16,
+    "humidity": 68,
+    "windKph": 1.9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T10:09:15.562+08:00",
+    "observedAt": "2026-11-27T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-27T10:19:28.533+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "大连市庄河市开展暖阳助学活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738557.shtml",
-        "publishedAt": "2026-11-27T09:58:28.000+08:00"
+        "title": "三亚推进从传统旅游城市向世界级度假创业城市转型",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738571.shtml",
+        "publishedAt": "2026-11-27T10:09:33.000+08:00"
       },
       {
-        "title": "大连市长海县开展新阶层文艺下乡暨助力乡村文化振兴主题活动",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738561.shtml",
-        "publishedAt": "2026-11-27T09:57:20.000+08:00"
+        "title": "云南，加油干！奋力建设新时代“七彩云南”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738575.shtml",
+        "publishedAt": "2026-11-27T10:09:19.000+08:00"
       },
       {
-        "title": "沪港交融共创未来 香港青年员工看上海交流活动举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738549.shtml",
-        "publishedAt": "2026-11-27T09:57:12.000+08:00"
+        "title": "给校园App瘦身，要把选择权还给师生",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-27/10738558.shtml",
+        "publishedAt": "2026-11-27T10:07:58.000+08:00"
       },
       {
-        "title": "大连市召开党外代表人士实践锻炼基地工作会议",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738560.shtml",
-        "publishedAt": "2026-11-27T09:56:50.000+08:00"
+        "title": "黑龙江大庆：以数据为新引擎 打造资源型城市数字化转型样板",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738574.shtml",
+        "publishedAt": "2026-11-27T10:07:48.000+08:00"
       },
       {
-        "title": "黑龙江呼玛县：北疆边境暖夕阳 盘活集体资产办好农村养老",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738555.shtml",
-        "publishedAt": "2026-11-27T09:56:04.000+08:00"
+        "title": "工信部：前10个月电信业务收入累计完成1.43万亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738570.shtml",
+        "publishedAt": "2026-11-27T10:06:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T10:09:12.732+08:00",
+    "fetchedAt": "2026-11-27T10:19:25.228+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T10:09:13.545+08:00",
+      "fetchedAt": "2026-11-27T10:19:26.034+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 32,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "resetAt": "2026-11-28T20:15:45.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T10:09:13.549+08:00",
+      "fetchedAt": "2026-11-27T10:19:26.038+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T10:09:13.559+08:00",
+      "fetchedAt": "2026-11-27T10:19:26.049+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T10:09:13.559+08:00",
+      "fetchedAt": "2026-11-27T10:19:26.049+08:00",
       "error": "未启用",
       "disabled": true
     }
