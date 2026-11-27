@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T22:44:30.703+08:00",
+  "updatedAt": "2026-11-27T22:54:44.511+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.7,
-    "feelsLikeC": 9.7,
-    "humidity": 84,
-    "windKph": 3.2,
+    "tempC": 10.5,
+    "feelsLikeC": 9.5,
+    "humidity": 85,
+    "windKph": 3.6,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T22:44:30.703+08:00",
+    "observedAt": "2026-11-27T22:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T22:54:44.511+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "信长星当选中共江苏省委书记",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739090.shtml",
+        "publishedAt": "2026-11-27T22:48:46.000+08:00"
+      },
       {
         "title": "中国成功发射遥感五十号04星",
         "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739085.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "从在轨测试到开放服务 北京太空算力“朋友圈”扩容",
         "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739083.shtml",
         "publishedAt": "2026-11-27T21:57:53.000+08:00"
-      },
-      {
-        "title": "聚焦“人工智能+能源” 2026兴隆湖能源电力创新发展大会在蓉举行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739072.shtml",
-        "publishedAt": "2026-11-27T21:57:23.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T22:44:27.983+08:00",
+    "fetchedAt": "2026-11-27T22:54:41.620+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T22:44:28.749+08:00",
+      "fetchedAt": "2026-11-27T22:54:42.364+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T22:44:28.751+08:00",
+      "fetchedAt": "2026-11-27T22:54:42.367+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T22:44:28.760+08:00",
+      "fetchedAt": "2026-11-27T22:54:42.377+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T22:44:28.760+08:00",
+      "fetchedAt": "2026-11-27T22:54:42.377+08:00",
       "error": "未启用",
       "disabled": true
     }
