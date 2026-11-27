@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T08:27:11.937+08:00",
+  "updatedAt": "2026-11-27T08:37:24.581+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 10.4,
-    "feelsLikeC": 9.8,
+    "tempC": 11.1,
+    "feelsLikeC": 10.6,
     "humidity": 87,
-    "windKph": 0.7,
+    "windKph": 0.9,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T08:27:11.937+08:00",
+    "observedAt": "2026-11-27T08:30:00.000+08:00",
+    "fetchedAt": "2026-11-27T08:37:24.581+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "青年调查：交朋友，受访者最看重三观契合志同道合",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738501.shtml",
+        "publishedAt": "2026-11-27T08:30:39.000+08:00"
+      },
+      {
+        "title": "身体出现这些变化 警惕肺功能受损",
+        "url": "https://www.chinanews.com.cn/life/2026/11-27/10738500.shtml",
+        "publishedAt": "2026-11-27T08:29:09.000+08:00"
+      },
+      {
+        "title": "西班牙央行前行长德科斯预计将出任下一任欧洲央行行长",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738499.shtml",
+        "publishedAt": "2026-11-27T08:27:21.000+08:00"
+      },
+      {
+        "title": "避开三大误区，饭后走对才养身",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738498.shtml",
+        "publishedAt": "2026-11-27T08:23:39.000+08:00"
+      },
+      {
         "title": "冷空气将继续影响中东部地区",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738496.shtml",
         "publishedAt": "2026-11-27T08:19:23.000+08:00"
-      },
-      {
-        "title": "从非洲南部到南美高原，中国能源方案跨越山海走向世界",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738497.shtml",
-        "publishedAt": "2026-11-27T08:19:05.000+08:00"
-      },
-      {
-        "title": "特朗普批准美国佛州重大灾害声明",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738495.shtml",
-        "publishedAt": "2026-11-27T08:11:50.000+08:00"
-      },
-      {
-        "title": "微信聊天截图能当证据吗",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-27/10738494.shtml",
-        "publishedAt": "2026-11-27T08:03:34.000+08:00"
-      },
-      {
-        "title": "首个农耕文明领域大模型“天稷”发布",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738492.shtml",
-        "publishedAt": "2026-11-27T07:58:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T08:27:09.319+08:00",
+    "fetchedAt": "2026-11-27T08:37:21.460+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T08:27:10.124+08:00",
+      "fetchedAt": "2026-11-27T08:37:22.251+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T08:27:10.128+08:00",
+      "fetchedAt": "2026-11-27T08:37:22.255+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T08:27:10.138+08:00",
+      "fetchedAt": "2026-11-27T08:37:22.265+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T08:27:10.138+08:00",
+      "fetchedAt": "2026-11-27T08:37:22.265+08:00",
       "error": "未启用",
       "disabled": true
     }
