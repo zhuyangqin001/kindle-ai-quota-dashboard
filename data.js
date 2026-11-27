@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T16:16:42.110+08:00",
+  "updatedAt": "2026-11-27T16:26:54.450+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T16:16:42.110+08:00",
+    "fetchedAt": "2026-11-27T16:26:54.450+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "近1500名传统武术选手齐聚仪征 全国传统武术公开赛总决赛开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738784.shtml",
-        "publishedAt": "2026-11-27T16:09:54.000+08:00"
+        "title": "河南省市场监督管理局原副局长李澍田被“双开”",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738795.shtml",
+        "publishedAt": "2026-11-27T16:25:57.000+08:00"
       },
       {
-        "title": "2026“机遇中国 多彩世界”国际交流周“遵义对话”在贵州遵义举行",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738782.shtml",
-        "publishedAt": "2026-11-27T16:08:52.000+08:00"
+        "title": "第141届广交会印尼推介会在雅加达举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738781.shtml",
+        "publishedAt": "2026-11-27T16:25:57.000+08:00"
       },
       {
-        "title": "重庆多措并举完善激励干部担当作为机制",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738780.shtml",
-        "publishedAt": "2026-11-27T16:08:04.000+08:00"
+        "title": "50余国在粤留学生同台展演 歌舞武术情景剧轮番登场",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738796.shtml",
+        "publishedAt": "2026-11-27T16:24:59.000+08:00"
       },
       {
-        "title": "封关新阶段 三亚新蓝图：开放争先、科创策源、文旅向新",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738760.shtml",
-        "publishedAt": "2026-11-27T16:07:42.000+08:00"
+        "title": "史上最强厄尔尼诺峰值期已至！今冬和来年春夏气候风险提前看→",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738797.shtml",
+        "publishedAt": "2026-11-27T16:22:59.000+08:00"
       },
       {
-        "title": "合计判赔4.92亿！牛奶包装盒为何牵出巨额赔偿？",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-27/10738783.shtml",
-        "publishedAt": "2026-11-27T16:07:36.000+08:00"
+        "title": "发展自动驾驶技术，治理须跟上",
+        "url": "https://www.chinanews.com.cn/ll/2026/11-27/10738794.shtml",
+        "publishedAt": "2026-11-27T16:22:45.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T16:16:38.911+08:00",
+    "fetchedAt": "2026-11-27T16:26:51.649+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T16:16:39.707+08:00",
+      "fetchedAt": "2026-11-27T16:26:52.461+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T16:16:39.710+08:00",
+      "fetchedAt": "2026-11-27T16:26:52.465+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T16:16:39.718+08:00",
+      "fetchedAt": "2026-11-27T16:26:52.475+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T16:16:39.718+08:00",
+      "fetchedAt": "2026-11-27T16:26:52.476+08:00",
       "error": "未启用",
       "disabled": true
     }
