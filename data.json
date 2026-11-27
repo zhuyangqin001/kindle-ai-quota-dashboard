@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T18:09:02.734+08:00",
+  "updatedAt": "2026-11-27T18:19:15.740+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.7,
-    "feelsLikeC": 13.3,
-    "humidity": 68,
-    "windKph": 7.1,
+    "tempC": 14.3,
+    "feelsLikeC": 13,
+    "humidity": 70,
+    "windKph": 6.8,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T18:09:02.735+08:00",
+    "observedAt": "2026-11-27T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-27T18:19:15.740+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "中国官方集中约谈15家电动自行车企业",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738896.shtml",
-        "publishedAt": "2026-11-27T18:01:04.000+08:00"
+        "title": "配备雷达、能打导弹、可回传战况，三款外贸战车亮相珠海",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738907.shtml",
+        "publishedAt": "2026-11-27T18:16:49.000+08:00"
       },
       {
-        "title": "10月中国发行新增地方政府债券3484亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738893.shtml",
-        "publishedAt": "2026-11-27T18:00:24.000+08:00"
+        "title": "中国工商界呼吁美方撤回拟议加税措施",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738906.shtml",
+        "publishedAt": "2026-11-27T18:14:35.000+08:00"
       },
       {
-        "title": "面包饼干别乱喂！专家提醒：盲目投喂候鸟有害无益",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738900.shtml",
-        "publishedAt": "2026-11-27T17:59:04.000+08:00"
+        "title": "A股周五放量大涨 创业板指涨逾11％",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738905.shtml",
+        "publishedAt": "2026-11-27T18:13:39.000+08:00"
       },
       {
-        "title": "“窗帘”暖民心，“短剧”聚新力——山西统战干部培训班走进实践点看“小阵地”如何“大作为”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738890.shtml",
-        "publishedAt": "2026-11-27T17:45:21.000+08:00"
+        "title": "上海“架桥”推动生物医药创新 呼吁更多耐心资本",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738904.shtml",
+        "publishedAt": "2026-11-27T18:11:33.000+08:00"
       },
       {
-        "title": "泸州：深耕基层统战 铸牢同心根基",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738885.shtml",
-        "publishedAt": "2026-11-27T17:44:29.000+08:00"
+        "title": "哈尔滨工程大学深海机器人研究院成立",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738903.shtml",
+        "publishedAt": "2026-11-27T18:10:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T18:08:59.995+08:00",
+    "fetchedAt": "2026-11-27T18:19:12.550+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T18:09:00.809+08:00",
+      "fetchedAt": "2026-11-27T18:19:13.368+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T18:09:00.813+08:00",
+      "fetchedAt": "2026-11-27T18:19:13.371+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T18:09:00.823+08:00",
+      "fetchedAt": "2026-11-27T18:19:13.382+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T18:09:00.823+08:00",
+      "fetchedAt": "2026-11-27T18:19:13.383+08:00",
       "error": "未启用",
       "disabled": true
     }
