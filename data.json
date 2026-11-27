@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T15:46:04.479+08:00",
+  "updatedAt": "2026-11-27T15:56:16.458+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T15:46:04.479+08:00",
+    "fetchedAt": "2026-11-27T15:56:16.459+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "农业银行持续加大股票回购增持贷款投放力度",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738740.shtml",
-        "publishedAt": "2026-11-27T15:40:12.000+08:00"
+        "title": "黑龙江前10个月货物贸易进出口总值2830.1亿元 同比增长9.7%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738754.shtml",
+        "publishedAt": "2026-11-27T15:48:51.000+08:00"
       },
       {
-        "title": "关注历史经典产业丨景德镇：千年窑火“烧”出千亿级陶瓷产业",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738753.shtml",
-        "publishedAt": "2026-11-27T15:39:48.000+08:00"
+        "title": "进一步放大党建统领整体效能 重庆从三方面作出部署",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738758.shtml",
+        "publishedAt": "2026-11-27T15:48:19.000+08:00"
       },
       {
-        "title": "走笔云南省党代会：谁持彩练当空舞？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738739.shtml",
-        "publishedAt": "2026-11-27T15:39:08.000+08:00"
+        "title": "高交会观察：中国机器人出海记",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738751.shtml",
+        "publishedAt": "2026-11-27T15:47:31.000+08:00"
       },
       {
-        "title": "“我们为同胞进入中国空间站而自豪”——巴基斯坦各界热议中巴航天员携手赴“天宫”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738748.shtml",
-        "publishedAt": "2026-11-27T15:37:54.000+08:00"
+        "title": "2026粤港澳大湾区文投会累计意向签约金额约86亿元",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738755.shtml",
+        "publishedAt": "2026-11-27T15:46:25.000+08:00"
       },
       {
-        "title": "中国为深化亚太合作提供了丰富选择（APEC中国年：开放 创新 合作）——访墨西哥国立自治大学中墨研究中心",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738744.shtml",
-        "publishedAt": "2026-11-27T15:32:58.000+08:00"
+        "title": "2026海口马拉松12月开跑 2万跑友驰骋滨海赛道",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738752.shtml",
+        "publishedAt": "2026-11-27T15:46:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T15:46:01.810+08:00",
+    "fetchedAt": "2026-11-27T15:56:13.919+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T15:46:02.608+08:00",
+      "fetchedAt": "2026-11-27T15:56:14.686+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T15:46:02.612+08:00",
+      "fetchedAt": "2026-11-27T15:56:14.690+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T15:46:02.622+08:00",
+      "fetchedAt": "2026-11-27T15:56:14.700+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T15:46:02.622+08:00",
+      "fetchedAt": "2026-11-27T15:56:14.700+08:00",
       "error": "未启用",
       "disabled": true
     }
