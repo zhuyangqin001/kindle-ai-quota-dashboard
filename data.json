@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-28T04:11:24.232+08:00",
+  "updatedAt": "2026-11-28T04:21:36.560+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 8.7,
-    "feelsLikeC": 7.5,
+    "tempC": 8.6,
+    "feelsLikeC": 7.4,
     "humidity": 88,
-    "windKph": 2.5,
+    "windKph": 2.4,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T04:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T04:11:24.232+08:00",
+    "observedAt": "2026-11-28T04:15:00.000+08:00",
+    "fetchedAt": "2026-11-28T04:21:36.560+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@
         "publishedAt": "2026-11-27T22:30:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T04:11:21.457+08:00",
+    "fetchedAt": "2026-11-28T04:21:33.907+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T04:11:22.259+08:00",
+      "fetchedAt": "2026-11-28T04:21:34.673+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T09:11:24.000+08:00"
+          "resetAt": "2026-11-28T09:21:36.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T04:11:22.262+08:00",
+      "fetchedAt": "2026-11-28T04:21:34.677+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T04:11:22.272+08:00",
+      "fetchedAt": "2026-11-28T04:21:34.687+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T04:11:22.272+08:00",
+      "fetchedAt": "2026-11-28T04:21:34.687+08:00",
       "error": "未启用",
       "disabled": true
     }
