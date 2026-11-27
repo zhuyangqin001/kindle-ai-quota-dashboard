@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T08:57:49.191+08:00",
+  "updatedAt": "2026-11-27T09:08:01.568+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.8,
-    "feelsLikeC": 11.4,
-    "humidity": 84,
-    "windKph": 0.9,
-    "windDir": "东南风",
+    "tempC": 12.6,
+    "feelsLikeC": 12.3,
+    "humidity": 81,
+    "windKph": 1,
+    "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T08:45:00.000+08:00",
-    "fetchedAt": "2026-11-27T08:57:49.192+08:00",
+    "observedAt": "2026-11-27T09:00:00.000+08:00",
+    "fetchedAt": "2026-11-27T09:08:01.568+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "识别脑卒中，慢了可不行",
+        "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738509.shtml",
+        "publishedAt": "2026-11-27T09:03:57.000+08:00"
+      },
+      {
+        "title": "2名意籍工程师遇袭身亡，中东冲突波及到了普通欧洲民众",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738507.shtml",
+        "publishedAt": "2026-11-27T08:59:39.000+08:00"
+      },
+      {
+        "title": "北方短暂降温后快速反弹 中东部罕见暖意陆续上线",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738506.shtml",
+        "publishedAt": "2026-11-27T08:56:31.000+08:00"
+      },
       {
         "title": "三线齐发 长三角高铁营业里程突破8500公里",
         "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738505.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "校园体育如何“圈粉”年轻人",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738504.shtml",
         "publishedAt": "2026-11-27T08:44:54.000+08:00"
-      },
-      {
-        "title": "朋友走散 56.2%受访者认为生活轨迹分化是主因",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738503.shtml",
-        "publishedAt": "2026-11-27T08:41:12.000+08:00"
-      },
-      {
-        "title": "餐厨废油何以冲上云霄？每天“吃”掉千吨“地沟油”，产出清洁绿色航空燃料",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738502.shtml",
-        "publishedAt": "2026-11-27T08:40:04.000+08:00"
-      },
-      {
-        "title": "青年调查：交朋友，受访者最看重三观契合志同道合",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738501.shtml",
-        "publishedAt": "2026-11-27T08:30:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T08:57:46.252+08:00",
+    "fetchedAt": "2026-11-27T09:07:58.834+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T08:57:47.069+08:00",
+      "fetchedAt": "2026-11-27T09:07:59.628+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T08:57:47.073+08:00",
+      "fetchedAt": "2026-11-27T09:07:59.631+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T08:57:47.083+08:00",
+      "fetchedAt": "2026-11-27T09:07:59.637+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T08:57:47.083+08:00",
+      "fetchedAt": "2026-11-27T09:07:59.638+08:00",
       "error": "未启用",
       "disabled": true
     }
