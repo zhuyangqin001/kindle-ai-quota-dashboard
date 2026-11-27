@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T05:53:28.300+08:00",
+  "updatedAt": "2026-11-28T06:03:40.377+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 8.4,
-    "feelsLikeC": 7.4,
-    "humidity": 87,
+    "feelsLikeC": 7.3,
+    "humidity": 88,
     "windKph": 0.8,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T05:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T05:53:28.301+08:00",
+    "observedAt": "2026-11-28T06:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T06:03:40.377+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-27T22:30:39.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T05:53:25.808+08:00",
+    "fetchedAt": "2026-11-28T06:03:37.812+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T05:53:26.521+08:00",
+      "fetchedAt": "2026-11-28T06:03:38.518+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T10:53:28.000+08:00"
+          "resetAt": "2026-11-28T11:03:40.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T05:53:26.525+08:00",
+      "fetchedAt": "2026-11-28T06:03:38.522+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T05:53:26.535+08:00",
+      "fetchedAt": "2026-11-28T06:03:38.532+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T05:53:26.535+08:00",
+      "fetchedAt": "2026-11-28T06:03:38.532+08:00",
       "error": "未启用",
       "disabled": true
     }
