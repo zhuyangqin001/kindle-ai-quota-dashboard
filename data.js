@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T12:22:00.172+08:00",
+  "updatedAt": "2026-11-27T12:32:12.530+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
     "tempC": 18.6,
-    "feelsLikeC": 17.7,
+    "feelsLikeC": 17.6,
     "humidity": 52,
-    "windKph": 3.7,
+    "windKph": 4.1,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T12:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T12:22:00.173+08:00",
+    "observedAt": "2026-11-27T12:30:00.000+08:00",
+    "fetchedAt": "2026-11-27T12:32:12.530+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "国务院任免国家工作人员",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738648.shtml",
-        "publishedAt": "2026-11-27T12:16:25.000+08:00"
+        "title": "全国95所高校队伍在重庆比拼AI应用能力",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-27/10738640.shtml",
+        "publishedAt": "2026-11-27T12:28:04.000+08:00"
       },
       {
-        "title": "西渝高铁康渝段陕西境内“四电”工程建设拉开帷幕",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738637.shtml",
-        "publishedAt": "2026-11-27T12:15:11.000+08:00"
+        "title": "安徽三条高铁齐开 5个县告别不通高铁历史",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738650.shtml",
+        "publishedAt": "2026-11-27T12:27:18.000+08:00"
       },
       {
-        "title": "广东广宁：百万亩竹海如何长成百亿产业",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738638.shtml",
-        "publishedAt": "2026-11-27T12:15:05.000+08:00"
+        "title": "专访前联合国官员：中国能源转型经验可为发展中国家提供借鉴，南南合作潜力巨大｜新闻会客厅",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738608.shtml",
+        "publishedAt": "2026-11-27T12:27:10.000+08:00"
       },
       {
-        "title": "“滑雪场里的火车站”迎冰雪列车 京津冀游客夕发朝至亚布力",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738636.shtml",
-        "publishedAt": "2026-11-27T12:03:45.000+08:00"
+        "title": "世界首台380吨级高速动平衡试验系统完成交付",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738639.shtml",
+        "publishedAt": "2026-11-27T12:24:56.000+08:00"
       },
       {
-        "title": "中国交响乐团建团70周年港澳巡演在北京启动",
-        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211785.shtml",
-        "publishedAt": "2026-11-27T12:01:56.000+08:00"
+        "title": "COP31观察员、挪威国际核查公司负责人：别忘记中国在环保领域做了很多，期待学习更多｜新闻会客厅",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738609.shtml",
+        "publishedAt": "2026-11-27T12:23:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T12:21:57.364+08:00",
+    "fetchedAt": "2026-11-27T12:32:09.878+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T12:21:58.174+08:00",
+      "fetchedAt": "2026-11-27T12:32:10.673+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T12:21:58.178+08:00",
+      "fetchedAt": "2026-11-27T12:32:10.676+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T12:21:58.189+08:00",
+      "fetchedAt": "2026-11-27T12:32:10.683+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T12:21:58.189+08:00",
+      "fetchedAt": "2026-11-27T12:32:10.683+08:00",
       "error": "未启用",
       "disabled": true
     }
