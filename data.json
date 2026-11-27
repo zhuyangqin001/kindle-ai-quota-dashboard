@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:34:17.124+08:00",
+  "updatedAt": "2026-11-27T22:44:30.703+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "南风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T22:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T22:34:17.125+08:00",
+    "fetchedAt": "2026-11-27T22:44:30.703+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "中国成功发射遥感五十号04星",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739085.shtml",
+        "publishedAt": "2026-11-27T22:33:17.000+08:00"
+      },
+      {
+        "title": "两岸职工福州同场竞技 项目辅导及成果转化AI大模型上线",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739084.shtml",
+        "publishedAt": "2026-11-27T22:32:13.000+08:00"
+      },
+      {
+        "title": "咕嘟咕嘟！河北人的味觉DNA里，一定刻着一锅大锅菜！",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10739086.shtml",
+        "publishedAt": "2026-11-27T22:30:39.000+08:00"
+      },
       {
         "title": "从在轨测试到开放服务 北京太空算力“朋友圈”扩容",
         "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739083.shtml",
@@ -28,24 +43,9 @@
         "title": "聚焦“人工智能+能源” 2026兴隆湖能源电力创新发展大会在蓉举行",
         "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739072.shtml",
         "publishedAt": "2026-11-27T21:57:23.000+08:00"
-      },
-      {
-        "title": "中国驻马来西亚使馆举办“读懂中国之治——中国共产党二十届五中全会精神专题座谈会”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739073.shtml",
-        "publishedAt": "2026-11-27T21:56:47.000+08:00"
-      },
-      {
-        "title": "E法同行 向上向海｜在上海，遇见网络法治的N种打开方式",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10739069.shtml",
-        "publishedAt": "2026-11-27T21:56:39.000+08:00"
-      },
-      {
-        "title": "新能源装机容量十年翻两番 “一带一路”绿色能源合作跑出加速度",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739074.shtml",
-        "publishedAt": "2026-11-27T21:55:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T22:34:14.195+08:00",
+    "fetchedAt": "2026-11-27T22:44:27.983+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T22:34:15.074+08:00",
+      "fetchedAt": "2026-11-27T22:44:28.749+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T22:34:15.078+08:00",
+      "fetchedAt": "2026-11-27T22:44:28.751+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T22:34:15.088+08:00",
+      "fetchedAt": "2026-11-27T22:44:28.760+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T22:34:15.089+08:00",
+      "fetchedAt": "2026-11-27T22:44:28.760+08:00",
       "error": "未启用",
       "disabled": true
     }
