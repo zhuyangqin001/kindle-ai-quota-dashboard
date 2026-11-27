@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T19:00:05.614+08:00",
+  "updatedAt": "2026-11-27T19:10:18.017+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T19:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T19:00:05.615+08:00",
+    "fetchedAt": "2026-11-27T19:10:18.017+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "央行：将着手研究第三方平台等相关配套安排 保障大额存单转让有序开展",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738948.shtml",
-        "publishedAt": "2026-11-27T18:55:59.000+08:00"
+        "title": "全国首批挪威棕色奶酪抵沪通关",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738939.shtml",
+        "publishedAt": "2026-11-27T19:06:03.000+08:00"
       },
       {
-        "title": "广西壮族自治区政府原主席蓝天立一审被判死缓",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738930.shtml",
-        "publishedAt": "2026-11-27T18:55:43.000+08:00"
+        "title": "今日中国儒学国际会客厅在孔子研究院揭牌",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738937.shtml",
+        "publishedAt": "2026-11-27T19:04:53.000+08:00"
       },
       {
-        "title": "咖喱鹰嘴豆、黄油鸡，“天宫”餐桌“上新”国际味道",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738928.shtml",
-        "publishedAt": "2026-11-27T18:54:37.000+08:00"
+        "title": "中国人民银行发布《人民币存贷款利率管理规定》",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738954.shtml",
+        "publishedAt": "2026-11-27T19:04:33.000+08:00"
       },
       {
-        "title": "俄艺术家赴朝访问演出 金正恩到场观看并祝贺演出成功",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738947.shtml",
-        "publishedAt": "2026-11-27T18:54:17.000+08:00"
+        "title": "国铁郑州局开行“冬游广西”专列 打造“一列双线”出行模式",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738936.shtml",
+        "publishedAt": "2026-11-27T19:03:41.000+08:00"
       },
       {
-        "title": "央行发布人民币存贷款利率管理新规：不再对罚息利率区间进行具体规定",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738946.shtml",
-        "publishedAt": "2026-11-27T18:53:59.000+08:00"
+        "title": "《数字旷野：中国动画先锋创意作品联展》在京启幕",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738935.shtml",
+        "publishedAt": "2026-11-27T19:02:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T19:00:02.975+08:00",
+    "fetchedAt": "2026-11-27T19:10:15.408+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T19:00:03.618+08:00",
+      "fetchedAt": "2026-11-27T19:10:16.231+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T00:00:05.000+08:00"
+          "resetAt": "2026-11-28T00:10:17.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T19:00:03.622+08:00",
+      "fetchedAt": "2026-11-27T19:10:16.234+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T19:00:03.632+08:00",
+      "fetchedAt": "2026-11-27T19:10:16.244+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T19:00:03.633+08:00",
+      "fetchedAt": "2026-11-27T19:10:16.244+08:00",
       "error": "未启用",
       "disabled": true
     }
