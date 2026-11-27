@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T13:23:14.616+08:00",
+  "updatedAt": "2026-11-27T13:33:26.842+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.9,
-    "feelsLikeC": 17.7,
+    "tempC": 19.1,
+    "feelsLikeC": 17.9,
     "humidity": 51,
-    "windKph": 5,
+    "windKph": 5.2,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T13:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T13:23:14.616+08:00",
+    "observedAt": "2026-11-27T13:30:00.000+08:00",
+    "fetchedAt": "2026-11-27T13:33:26.842+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "伊朗外长回应两名意大利人在科威特身亡：疑点重重",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738661.shtml",
-        "publishedAt": "2026-11-27T13:13:28.000+08:00"
+        "title": "美国西海岸遭遇天文大潮 巨浪冲击面临洪涝风险",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211790.shtml",
+        "publishedAt": "2026-11-27T13:24:01.000+08:00"
       },
       {
-        "title": "云岭动态第五十期",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738663.shtml",
-        "publishedAt": "2026-11-27T13:10:44.000+08:00"
+        "title": "女子网购240只垃圾袋到手仅135只 律师：退差价只是补救，不能替代“增加赔偿”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738671.shtml",
+        "publishedAt": "2026-11-27T13:23:59.000+08:00"
       },
       {
-        "title": "39岁男警员在警署一洗手间内死亡，香港警方通报：将安排验尸",
-        "url": "https://www.chinanews.com.cn/dwq/2026/11-27/10738664.shtml",
-        "publishedAt": "2026-11-27T13:10:08.000+08:00"
+        "title": "年轻人选城市，什么最重要",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738668.shtml",
+        "publishedAt": "2026-11-27T13:21:31.000+08:00"
       },
       {
-        "title": "感冒、流感还是肺炎？出现这些症状千万别拖",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738660.shtml",
-        "publishedAt": "2026-11-27T13:02:00.000+08:00"
+        "title": "中国驻日本大使馆再次提醒中国公民注意防范地震等自然灾害",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-27/10738667.shtml",
+        "publishedAt": "2026-11-27T13:19:23.000+08:00"
       },
       {
-        "title": "配备星链终端、搭载高爆炸药，乌无人艇在非洲突袭俄战舰",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738656.shtml",
-        "publishedAt": "2026-11-27T13:01:20.000+08:00"
+        "title": "两岸民众“串门”热：“小三通”攻略走红，旺盛需求呼唤松绑运力",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738666.shtml",
+        "publishedAt": "2026-11-27T13:16:01.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T13:23:11.826+08:00",
+    "fetchedAt": "2026-11-27T13:33:24.161+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T13:23:12.631+08:00",
+      "fetchedAt": "2026-11-27T13:33:24.958+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-27T18:23:14.000+08:00"
+          "resetAt": "2026-11-27T18:33:26.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T13:23:12.635+08:00",
+      "fetchedAt": "2026-11-27T13:33:24.961+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T13:23:12.646+08:00",
+      "fetchedAt": "2026-11-27T13:33:24.972+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T13:23:12.647+08:00",
+      "fetchedAt": "2026-11-27T13:33:24.972+08:00",
       "error": "未启用",
       "disabled": true
     }
