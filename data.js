@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T14:04:03.765+08:00",
+  "updatedAt": "2026-11-27T14:24:22.211+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.4,
-    "feelsLikeC": 18.2,
-    "humidity": 50,
+    "tempC": 19.5,
+    "feelsLikeC": 18.3,
+    "humidity": 49,
     "windKph": 5.5,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T14:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T14:04:03.765+08:00",
+    "observedAt": "2026-11-27T14:15:00.000+08:00",
+    "fetchedAt": "2026-11-27T14:24:22.211+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "10月中国规上工业企业利润同比增速加快至20.1%",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738676.shtml",
-        "publishedAt": "2026-11-27T13:58:51.000+08:00"
+        "title": "广西防城港双墩渔港丰收 金鲳鱼抢鲜上市",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-27/10738681.shtml",
+        "publishedAt": "2026-11-27T14:16:10.000+08:00"
       },
       {
-        "title": "斯诺克英锦赛资格赛收官：丁俊晖逆转晋级 中国9人跻身正赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738679.shtml",
-        "publishedAt": "2026-11-27T13:57:47.000+08:00"
+        "title": "最高法公开宣判利乐垄断后继民事诉讼两案 合计判赔4.92亿元",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738686.shtml",
+        "publishedAt": "2026-11-27T14:14:22.000+08:00"
       },
       {
-        "title": "驾照过期算不算无证驾驶？新司法解释分情形划定边界",
-        "url": "https://www.chinanews.com.cn/fz/2026/11-27/10738678.shtml",
-        "publishedAt": "2026-11-27T13:55:03.000+08:00"
+        "title": "江苏泗洪：洪泽湖湿地迎来越冬天鹅",
+        "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211802.shtml",
+        "publishedAt": "2026-11-27T14:12:34.000+08:00"
       },
       {
-        "title": "西班牙：伊维萨岛附近海域一艘燃油船沉没 致1死6伤",
-        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211797.shtml",
-        "publishedAt": "2026-11-27T13:50:18.000+08:00"
+        "title": "辽宁鞍山市举办“文化赋能‘十五五’ 铸牢中华民族共同体意识”主题作品展",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738684.shtml",
+        "publishedAt": "2026-11-27T14:01:49.000+08:00"
       },
       {
-        "title": "生态环境部：移动源污染减排阶段性成效明显 实现“三个下降”",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738675.shtml",
-        "publishedAt": "2026-11-27T13:45:54.000+08:00"
+        "title": "A股三大股指午后大幅拉升 创业板指强势拉升大涨10%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738683.shtml",
+        "publishedAt": "2026-11-27T14:00:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T14:04:01.011+08:00",
+    "fetchedAt": "2026-11-27T14:24:19.596+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T14:04:01.826+08:00",
+      "fetchedAt": "2026-11-27T14:24:20.300+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T14:04:01.829+08:00",
+      "fetchedAt": "2026-11-27T14:24:20.304+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T14:04:01.840+08:00",
+      "fetchedAt": "2026-11-27T14:24:20.315+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T14:04:01.840+08:00",
+      "fetchedAt": "2026-11-27T14:24:20.315+08:00",
       "error": "未启用",
       "disabled": true
     }
