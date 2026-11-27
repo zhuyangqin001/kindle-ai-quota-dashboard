@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T20:01:21.050+08:00",
+  "updatedAt": "2026-11-27T20:11:33.015+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T20:01:21.050+08:00",
+    "fetchedAt": "2026-11-27T20:11:33.015+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "荆楚山珍美味“香飘”大湾区 推动鄂粤餐饮深度合作",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738975.shtml",
-        "publishedAt": "2026-11-27T19:58:10.000+08:00"
+        "title": "2026广州国际音响唱片展启幕 大批“发烧友”前来逛展",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738989.shtml",
+        "publishedAt": "2026-11-27T20:02:23.000+08:00"
       },
       {
-        "title": "重庆启幕条屏书画展 齐白石山水画巨制《四季山水图屏》亮相",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738973.shtml",
-        "publishedAt": "2026-11-27T19:56:56.000+08:00"
+        "title": "中国海警依法驱离日非法进入中国钓鱼岛领海船只",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738992.shtml",
+        "publishedAt": "2026-11-27T20:01:36.000+08:00"
       },
       {
-        "title": "瓦楞原纸期货及期权将于12月18日上市",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738972.shtml",
-        "publishedAt": "2026-11-27T19:56:14.000+08:00"
+        "title": "上交所调整上证50、上证180等多个指数样本",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738978.shtml",
+        "publishedAt": "2026-11-27T20:00:18.000+08:00"
       },
       {
-        "title": "2026成渝体育产业联盟活动启幕 推动两地体旅协同高质量发展",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738971.shtml",
-        "publishedAt": "2026-11-27T19:55:22.000+08:00"
+        "title": "国内自主国际会计网络总部在广州揭牌",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738990.shtml",
+        "publishedAt": "2026-11-27T20:00:02.000+08:00"
       },
       {
-        "title": "东西问丨张铁山：从“语族”“民族”看清泛突厥主义的错误叙事",
-        "url": "https://www.chinanews.com.cn/dxw/2026/11-27/10738965.shtml",
-        "publishedAt": "2026-11-27T19:54:36.000+08:00"
+        "title": "到大自然去！广东一批国家级“户外课堂”面向公众开放",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738977.shtml",
+        "publishedAt": "2026-11-27T19:59:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T20:01:18.466+08:00",
+    "fetchedAt": "2026-11-27T20:11:30.292+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T20:01:18.863+08:00",
+      "fetchedAt": "2026-11-27T20:11:31.083+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T20:01:18.865+08:00",
+      "fetchedAt": "2026-11-27T20:11:31.086+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T20:01:18.870+08:00",
+      "fetchedAt": "2026-11-27T20:11:31.095+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T20:01:18.871+08:00",
+      "fetchedAt": "2026-11-27T20:11:31.096+08:00",
       "error": "未启用",
       "disabled": true
     }
