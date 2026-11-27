@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T11:30:56.060+08:00",
+  "updatedAt": "2026-11-27T11:41:09.360+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T11:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T11:30:56.060+08:00",
+    "fetchedAt": "2026-11-27T11:41:09.360+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "AI二创 正在重写IP规则",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738628.shtml",
+        "publishedAt": "2026-11-27T11:31:25.000+08:00"
+      },
+      {
+        "title": "从跋涉山路到守护“天路”：西藏嘎玛旺扎的铁路人生",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738627.shtml",
+        "publishedAt": "2026-11-27T11:29:53.000+08:00"
+      },
+      {
+        "title": "宿舍“条件差”引关注 三只松鼠致歉整改",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738626.shtml",
+        "publishedAt": "2026-11-27T11:28:43.000+08:00"
+      },
+      {
+        "title": "海外媒体记者和网络博主感知重庆秋韵",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-27/10738624.shtml",
+        "publishedAt": "2026-11-27T11:28:11.000+08:00"
+      },
+      {
         "title": "美国大幅上修GDP至4.3%，特朗普“炮轰”商务部",
         "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738625.shtml",
         "publishedAt": "2026-11-27T11:25:55.000+08:00"
-      },
-      {
-        "title": "综艺“换人” 为何踏入观众情感雷区",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738623.shtml",
-        "publishedAt": "2026-11-27T11:23:21.000+08:00"
-      },
-      {
-        "title": "生态环境部：规范地方生态环境标准 补齐短板推动区域协同治污",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738622.shtml",
-        "publishedAt": "2026-11-27T11:22:00.000+08:00"
-      },
-      {
-        "title": "两项自行车国家标准将实施",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738620.shtml",
-        "publishedAt": "2026-11-27T11:20:50.000+08:00"
-      },
-      {
-        "title": "中国驻南非使领馆再次提醒中国公民近期暂勿前往斯威士兰",
-        "url": "https://www.chinanews.com.cn/hr/2026/11-27/10738618.shtml",
-        "publishedAt": "2026-11-27T11:19:44.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T11:30:53.367+08:00",
+    "fetchedAt": "2026-11-27T11:41:06.274+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T11:30:54.167+08:00",
+      "fetchedAt": "2026-11-27T11:41:07.076+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T11:30:54.170+08:00",
+      "fetchedAt": "2026-11-27T11:41:07.080+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T11:30:54.180+08:00",
+      "fetchedAt": "2026-11-27T11:41:07.089+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T11:30:54.181+08:00",
+      "fetchedAt": "2026-11-27T11:41:07.090+08:00",
       "error": "未启用",
       "disabled": true
     }
