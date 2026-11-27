@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T08:16:59.882+08:00",
+  "updatedAt": "2026-11-27T08:27:11.937+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-27T08:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T08:16:59.882+08:00",
+    "fetchedAt": "2026-11-27T08:27:11.937+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "冷空气将继续影响中东部地区",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738496.shtml",
+        "publishedAt": "2026-11-27T08:19:23.000+08:00"
+      },
+      {
+        "title": "从非洲南部到南美高原，中国能源方案跨越山海走向世界",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738497.shtml",
+        "publishedAt": "2026-11-27T08:19:05.000+08:00"
+      },
+      {
+        "title": "特朗普批准美国佛州重大灾害声明",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738495.shtml",
+        "publishedAt": "2026-11-27T08:11:50.000+08:00"
+      },
       {
         "title": "微信聊天截图能当证据吗",
         "url": "https://www.chinanews.com.cn/fz/2026/11-27/10738494.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "首个农耕文明领域大模型“天稷”发布",
         "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738492.shtml",
         "publishedAt": "2026-11-27T07:58:27.000+08:00"
-      },
-      {
-        "title": "2027丁未（羊）年贵金属纪念币今日发行",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738491.shtml",
-        "publishedAt": "2026-11-27T07:58:03.000+08:00"
-      },
-      {
-        "title": "别把“豆包”当医生",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738490.shtml",
-        "publishedAt": "2026-11-27T07:54:31.000+08:00"
-      },
-      {
-        "title": "U17男足世界杯中国队8-0大胜斐济队 成功晋级32强淘汰赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-27/10738489.shtml",
-        "publishedAt": "2026-11-27T07:51:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T08:16:56.721+08:00",
+    "fetchedAt": "2026-11-27T08:27:09.319+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T08:16:57.530+08:00",
+      "fetchedAt": "2026-11-27T08:27:10.124+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T08:16:57.534+08:00",
+      "fetchedAt": "2026-11-27T08:27:10.128+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T08:16:57.544+08:00",
+      "fetchedAt": "2026-11-27T08:27:10.138+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T08:16:57.545+08:00",
+      "fetchedAt": "2026-11-27T08:27:10.138+08:00",
       "error": "未启用",
       "disabled": true
     }
