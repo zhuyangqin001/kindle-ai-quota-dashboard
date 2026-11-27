@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T12:42:24.491+08:00",
+  "updatedAt": "2026-11-27T12:52:36.555+08:00",
   "weather": {
     "ok": true,
     "description": "多云",
     "iconKey": "cloudy",
-    "tempC": 18.6,
+    "tempC": 18.7,
     "feelsLikeC": 17.6,
     "humidity": 52,
-    "windKph": 4.1,
+    "windKph": 4.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T12:42:24.491+08:00",
+    "observedAt": "2026-11-27T12:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T12:52:36.555+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "《网络视听领域版权保护行业自律公约》发布",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738649.shtml",
+        "publishedAt": "2026-11-27T12:47:23.000+08:00"
+      },
       {
         "title": "李强主持召开国务院常务会议",
         "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738652.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "专访前联合国官员：中国能源转型经验可为发展中国家提供借鉴，南南合作潜力巨大｜新闻会客厅",
         "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738608.shtml",
         "publishedAt": "2026-11-27T12:27:10.000+08:00"
-      },
-      {
-        "title": "世界首台380吨级高速动平衡试验系统完成交付",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738639.shtml",
-        "publishedAt": "2026-11-27T12:24:56.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T12:42:21.961+08:00",
+    "fetchedAt": "2026-11-27T12:52:33.925+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T12:42:22.691+08:00",
+      "fetchedAt": "2026-11-27T12:52:34.728+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T12:42:22.695+08:00",
+      "fetchedAt": "2026-11-27T12:52:34.731+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T12:42:22.705+08:00",
+      "fetchedAt": "2026-11-27T12:52:34.742+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T12:42:22.705+08:00",
+      "fetchedAt": "2026-11-27T12:52:34.742+08:00",
       "error": "未启用",
       "disabled": true
     }
