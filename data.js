@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-27T09:38:39.327+08:00",
+  "updatedAt": "2026-11-27T09:48:51.309+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.2,
-    "feelsLikeC": 14.1,
-    "humidity": 75,
-    "windKph": 0.2,
-    "windDir": "西风",
+    "tempC": 14.9,
+    "feelsLikeC": 14.8,
+    "humidity": 73,
+    "windKph": 0.8,
+    "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-27T09:38:39.327+08:00",
+    "observedAt": "2026-11-27T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-27T09:48:51.309+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "深圳“全妆”迎APEC背后 大量景观花木可回收复用",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738524.shtml",
-        "publishedAt": "2026-11-27T09:28:54.000+08:00"
+        "title": "野外迷路如何找“北”？户外出行前这3点务必牢记",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738538.shtml",
+        "publishedAt": "2026-11-27T09:39:01.000+08:00"
       },
       {
-        "title": "智能语音操作烦琐 人工客服“躲猫猫” 热线问题该如何解决？",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738526.shtml",
-        "publishedAt": "2026-11-27T09:24:56.000+08:00"
+        "title": "李在明批准五名部长级官员人选人事听证提案",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738528.shtml",
+        "publishedAt": "2026-11-27T09:36:17.000+08:00"
       },
       {
-        "title": "在楼道里给杂物设置“VIP座位”？小心火灾找上门！",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738521.shtml",
-        "publishedAt": "2026-11-27T09:24:22.000+08:00"
+        "title": "2026年1—10月份全国规模以上工业企业利润增长16.0%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738531.shtml",
+        "publishedAt": "2026-11-27T09:32:41.000+08:00"
       },
       {
-        "title": "今天起，电视不得播放开机广告",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738523.shtml",
-        "publishedAt": "2026-11-27T09:24:16.000+08:00"
+        "title": "A股开盘：超3300只个股飘红，三大指数集体高开",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738530.shtml",
+        "publishedAt": "2026-11-27T09:31:44.000+08:00"
       },
       {
-        "title": "11月27日人民币对美元中间价报6.7075 上调21个基点",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738519.shtml",
-        "publishedAt": "2026-11-27T09:23:22.000+08:00"
+        "title": "11月27日央行开展7940亿元隔夜逆回购操作",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738525.shtml",
+        "publishedAt": "2026-11-27T09:31:20.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T09:38:35.682+08:00",
+    "fetchedAt": "2026-11-27T09:48:48.759+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T09:38:36.450+08:00",
+      "fetchedAt": "2026-11-27T09:48:49.565+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T09:38:36.453+08:00",
+      "fetchedAt": "2026-11-27T09:48:49.568+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T09:38:36.463+08:00",
+      "fetchedAt": "2026-11-27T09:48:49.579+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T09:38:36.464+08:00",
+      "fetchedAt": "2026-11-27T09:48:49.579+08:00",
       "error": "未启用",
       "disabled": true
     }
