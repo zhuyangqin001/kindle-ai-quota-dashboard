@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T10:29:40.822+08:00",
+  "updatedAt": "2026-11-27T10:39:53.301+08:00",
   "weather": {
     "ok": true,
-    "description": "晴",
-    "iconKey": "clear",
-    "tempC": 16.2,
-    "feelsLikeC": 16,
-    "humidity": 68,
-    "windKph": 1.9,
+    "description": "多云",
+    "iconKey": "cloudy",
+    "tempC": 16.8,
+    "feelsLikeC": 16.6,
+    "humidity": 66,
+    "windKph": 2.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-27T10:29:40.822+08:00",
+    "observedAt": "2026-11-27T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-27T10:39:53.301+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "首次亮相、重磅集结！中国航展硬核装备提前揭秘",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738587.shtml",
-        "publishedAt": "2026-11-27T10:21:31.000+08:00"
+        "title": "我国加速推进“人工智能+制造”专项行动",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738600.shtml",
+        "publishedAt": "2026-11-27T10:37:22.000+08:00"
       },
       {
-        "title": "三亚推进从传统旅游城市向世界级度假创业城市转型",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738571.shtml",
-        "publishedAt": "2026-11-27T10:09:33.000+08:00"
+        "title": "从世界经济版图看中国经济之韧",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738598.shtml",
+        "publishedAt": "2026-11-27T10:36:24.000+08:00"
       },
       {
-        "title": "云南，加油干！奋力建设新时代“七彩云南”",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-27/10738575.shtml",
-        "publishedAt": "2026-11-27T10:09:19.000+08:00"
+        "title": "日本加码远程打击能力 军工体系加速“平战转换”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738595.shtml",
+        "publishedAt": "2026-11-27T10:34:36.000+08:00"
       },
       {
-        "title": "给校园App瘦身，要把选择权还给师生",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-27/10738558.shtml",
-        "publishedAt": "2026-11-27T10:07:58.000+08:00"
+        "title": "国产大模型集体进军AI4S：大模型从“会聊天”转向“做科研”？",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738593.shtml",
+        "publishedAt": "2026-11-27T10:33:18.000+08:00"
       },
       {
-        "title": "黑龙江大庆：以数据为新引擎 打造资源型城市数字化转型样板",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738574.shtml",
-        "publishedAt": "2026-11-27T10:07:48.000+08:00"
+        "title": "日本拟引进新型反舰导弹恶化地区安全环境 终将反噬自身",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738592.shtml",
+        "publishedAt": "2026-11-27T10:32:38.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T10:29:38.138+08:00",
+    "fetchedAt": "2026-11-27T10:39:50.502+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T10:29:38.944+08:00",
+      "fetchedAt": "2026-11-27T10:39:51.307+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T10:29:38.948+08:00",
+      "fetchedAt": "2026-11-27T10:39:51.311+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T10:29:38.958+08:00",
+      "fetchedAt": "2026-11-27T10:39:51.321+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T10:29:38.958+08:00",
+      "fetchedAt": "2026-11-27T10:39:51.321+08:00",
       "error": "未启用",
       "disabled": true
     }
