@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-27T09:08:01.568+08:00",
+  "updatedAt": "2026-11-27T09:18:13.941+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.6,
-    "feelsLikeC": 12.3,
-    "humidity": 81,
-    "windKph": 1,
+    "tempC": 13.4,
+    "feelsLikeC": 13.2,
+    "humidity": 78,
+    "windKph": 0.7,
     "windDir": "南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-27T09:00:00.000+08:00",
-    "fetchedAt": "2026-11-27T09:08:01.568+08:00",
+    "observedAt": "2026-11-27T09:15:00.000+08:00",
+    "fetchedAt": "2026-11-27T09:18:13.941+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "冷空气影响持续 内蒙古华北等地风力较大",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738512.shtml",
+        "publishedAt": "2026-11-27T09:14:28.000+08:00"
+      },
+      {
+        "title": "新加坡城市风光吸引游客",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-27/1211747.shtml",
+        "publishedAt": "2026-11-27T09:12:59.000+08:00"
+      },
+      {
+        "title": "超6000亿元就位 回购增持再贷款如何构建资本市场“缓冲垫”？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738514.shtml",
+        "publishedAt": "2026-11-27T09:11:45.000+08:00"
+      },
       {
         "title": "识别脑卒中，慢了可不行",
         "url": "https://www.chinanews.com.cn/jk/2026/11-27/10738509.shtml",
@@ -28,24 +43,9 @@
         "title": "2名意籍工程师遇袭身亡，中东冲突波及到了普通欧洲民众",
         "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738507.shtml",
         "publishedAt": "2026-11-27T08:59:39.000+08:00"
-      },
-      {
-        "title": "北方短暂降温后快速反弹 中东部罕见暖意陆续上线",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738506.shtml",
-        "publishedAt": "2026-11-27T08:56:31.000+08:00"
-      },
-      {
-        "title": "三线齐发 长三角高铁营业里程突破8500公里",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738505.shtml",
-        "publishedAt": "2026-11-27T08:50:30.000+08:00"
-      },
-      {
-        "title": "校园体育如何“圈粉”年轻人",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-27/10738504.shtml",
-        "publishedAt": "2026-11-27T08:44:54.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-27T09:07:58.834+08:00",
+    "fetchedAt": "2026-11-27T09:18:11.145+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-27T09:07:59.628+08:00",
+      "fetchedAt": "2026-11-27T09:18:11.961+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-27T09:07:59.631+08:00",
+      "fetchedAt": "2026-11-27T09:18:11.965+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T09:07:59.637+08:00",
+      "fetchedAt": "2026-11-27T09:18:11.976+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-27T09:07:59.638+08:00",
+      "fetchedAt": "2026-11-27T09:18:11.976+08:00",
       "error": "未启用",
       "disabled": true
     }
