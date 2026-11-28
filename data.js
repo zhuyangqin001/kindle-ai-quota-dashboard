@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T20:00:32.722+08:00",
+  "updatedAt": "2026-11-28T20:10:44.401+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-28T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T20:00:32.722+08:00",
+    "fetchedAt": "2026-11-28T20:10:44.401+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "22国留学生齐对弈中国北疆",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739366.shtml",
+        "publishedAt": "2026-11-28T20:00:07.000+08:00"
+      },
+      {
+        "title": "西藏将推动设立青藏高原应对气候变化研究中心",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739364.shtml",
+        "publishedAt": "2026-11-28T19:58:21.000+08:00"
+      },
+      {
+        "title": "“中国科技第一展”落幕：人工智能扎根产业 全球客商觅合作新机",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739365.shtml",
+        "publishedAt": "2026-11-28T19:58:15.000+08:00"
+      },
+      {
+        "title": "阿富汗一中学附近爆炸致10死110伤 疑涉及人为疏忽",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739368.shtml",
+        "publishedAt": "2026-11-28T19:57:21.000+08:00"
+      },
+      {
         "title": "2026年成都国际乒联混合团体世界杯抽签结果出炉",
         "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739357.shtml",
         "publishedAt": "2026-11-28T19:44:48.000+08:00"
-      },
-      {
-        "title": "黑龙江伊春日月峡滑雪场迎开板首滑",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739353.shtml",
-        "publishedAt": "2026-11-28T19:43:26.000+08:00"
-      },
-      {
-        "title": "海南三亚：中外摩托艇选手海上竞速争锋",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739350.shtml",
-        "publishedAt": "2026-11-28T19:40:48.000+08:00"
-      },
-      {
-        "title": "第十六届中国航展首架俄罗斯展团包机顺利抵达珠海",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739356.shtml",
-        "publishedAt": "2026-11-28T19:29:41.000+08:00"
-      },
-      {
-        "title": "2026中关村量子大会举办 发布多项重大成果与应用场景",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739354.shtml",
-        "publishedAt": "2026-11-28T19:28:41.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T20:00:30.172+08:00",
+    "fetchedAt": "2026-11-28T20:10:41.832+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T20:00:30.779+08:00",
+      "fetchedAt": "2026-11-28T20:10:42.594+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 0,
-          "resetAt": "2026-11-29T01:00:32.000+08:00"
+          "usedPct": 3,
+          "resetAt": "2026-11-29T01:00:57.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T20:00:30.781+08:00",
+      "fetchedAt": "2026-11-28T20:10:42.598+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T20:00:30.785+08:00",
+      "fetchedAt": "2026-11-28T20:10:42.607+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T20:00:30.785+08:00",
+      "fetchedAt": "2026-11-28T20:10:42.608+08:00",
       "error": "未启用",
       "disabled": true
     }
