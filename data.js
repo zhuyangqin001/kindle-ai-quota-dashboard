@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T21:32:18.773+08:00",
+  "updatedAt": "2026-11-28T21:42:31.354+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-28T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T21:32:18.773+08:00",
+    "fetchedAt": "2026-11-28T21:42:31.354+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "南岳衡山初冬景如画 色彩斑斓引客来",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739427.shtml",
-        "publishedAt": "2026-11-28T21:27:22.000+08:00"
+        "title": "中企承建圭亚那新麦肯锡-维斯马大桥通车",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739425.shtml",
+        "publishedAt": "2026-11-28T21:35:34.000+08:00"
       },
       {
-        "title": "双奥文化进校园活动走进北京科技大学",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739437.shtml",
-        "publishedAt": "2026-11-28T21:27:08.000+08:00"
+        "title": "内蒙古边关民警用坚守筑牢祖国北疆钢铁长城",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739444.shtml",
+        "publishedAt": "2026-11-28T21:35:14.000+08:00"
       },
       {
-        "title": "黑龙江齐齐哈尔：老工业基地转型 “数字鹤城”启新程",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739435.shtml",
-        "publishedAt": "2026-11-28T21:25:03.000+08:00"
+        "title": "大湾区粤韵唱新声 让非遗“活”在当下",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-28/10739443.shtml",
+        "publishedAt": "2026-11-28T21:30:36.000+08:00"
       },
       {
-        "title": "西藏自治区第十一次党代会在拉萨开幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739441.shtml",
-        "publishedAt": "2026-11-28T21:24:37.000+08:00"
+        "title": "2026年中国—东盟城市网球赛在广西南宁开赛",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-28/10739442.shtml",
+        "publishedAt": "2026-11-28T21:30:30.000+08:00"
       },
       {
-        "title": "中央文献翻译与研究研讨会专家谈：以“译”为桥，融通中外",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739436.shtml",
-        "publishedAt": "2026-11-28T21:23:49.000+08:00"
+        "title": "高交会观察：AI技术成果迭代升级 加速场景落地",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739440.shtml",
+        "publishedAt": "2026-11-28T21:28:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T21:32:16.106+08:00",
+    "fetchedAt": "2026-11-28T21:42:28.531+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T21:32:16.912+08:00",
+      "fetchedAt": "2026-11-28T21:42:29.312+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-12-05T21:32:18.000+08:00"
+          "resetAt": "2026-12-05T21:42:31.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T21:32:16.916+08:00",
+      "fetchedAt": "2026-11-28T21:42:29.316+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T21:32:16.926+08:00",
+      "fetchedAt": "2026-11-28T21:42:29.326+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T21:32:16.927+08:00",
+      "fetchedAt": "2026-11-28T21:42:29.326+08:00",
       "error": "未启用",
       "disabled": true
     }
