@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T17:07:07.677+08:00",
+  "updatedAt": "2026-11-28T17:17:19.985+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.5,
-    "feelsLikeC": 16.6,
-    "humidity": 64,
-    "windKph": 6.7,
+    "tempC": 17,
+    "feelsLikeC": 16.1,
+    "humidity": 66,
+    "windKph": 7.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T17:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T17:07:07.677+08:00",
+    "observedAt": "2026-11-28T17:15:00.000+08:00",
+    "fetchedAt": "2026-11-28T17:17:19.985+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "通车二十年——它是一条生态天路",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739303.shtml",
-        "publishedAt": "2026-11-28T17:02:35.000+08:00"
+        "title": "第四届中泰治国理政经验互学互鉴高端对话会在曼谷举行",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739234.shtml",
+        "publishedAt": "2026-11-28T17:12:56.000+08:00"
       },
       {
-        "title": "日本长崎核爆资料馆启动把南京大屠杀改称“南京事件”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739301.shtml",
-        "publishedAt": "2026-11-28T16:57:43.000+08:00"
+        "title": "前10月中国社会物流总额312.4万亿元 同比增长4.8%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739294.shtml",
+        "publishedAt": "2026-11-28T17:10:14.000+08:00"
       },
       {
-        "title": "与产业深度融合 江西省第二届高层次人才创新创业大赛举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739285.shtml",
-        "publishedAt": "2026-11-28T16:57:23.000+08:00"
+        "title": "俄罗斯电影艺术交流周在福州启幕 三项合作签约",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739292.shtml",
+        "publishedAt": "2026-11-28T17:08:40.000+08:00"
       },
       {
-        "title": "邂逅中国 爱上中国｜指尖捏万象，肯尼亚留学生近距离触摸古老非遗“新脉搏",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739300.shtml",
-        "publishedAt": "2026-11-28T16:56:39.000+08:00"
+        "title": "全球“高手”共争锋 2026上海中心高塔竞速挑战赛开赛",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739290.shtml",
+        "publishedAt": "2026-11-28T17:08:04.000+08:00"
       },
       {
-        "title": "探索语言科学交叉创新 上海交大携手香港理工大学成立语言科学联合研究院",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-28/10739280.shtml",
-        "publishedAt": "2026-11-28T16:50:49.000+08:00"
+        "title": "“绿围脖”更厚 沙产业生金——环塔克拉玛干沙漠绿色阻沙防护带锁边合龙两周年观察",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739306.shtml",
+        "publishedAt": "2026-11-28T17:06:30.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T17:07:04.858+08:00",
+    "fetchedAt": "2026-11-28T17:17:17.155+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T17:07:05.667+08:00",
+      "fetchedAt": "2026-11-28T17:17:17.973+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T17:07:05.670+08:00",
+      "fetchedAt": "2026-11-28T17:17:17.977+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T17:07:05.682+08:00",
+      "fetchedAt": "2026-11-28T17:17:17.988+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T17:07:05.682+08:00",
+      "fetchedAt": "2026-11-28T17:17:17.988+08:00",
       "error": "未启用",
       "disabled": true
     }
