@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T09:38:02.414+08:00",
+  "updatedAt": "2026-11-28T09:48:14.719+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.6,
-    "feelsLikeC": 15.1,
-    "humidity": 66,
-    "windKph": 2.6,
+    "tempC": 16.3,
+    "feelsLikeC": 15.7,
+    "humidity": 65,
+    "windKph": 3,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T09:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T09:38:02.414+08:00",
+    "observedAt": "2026-11-28T09:45:00.000+08:00",
+    "fetchedAt": "2026-11-28T09:48:14.719+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "这场“双向奔赴”，又添新意",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-28/10739119.shtml",
-        "publishedAt": "2026-11-28T09:30:53.000+08:00"
+        "title": "俄方警告日本：应记住二战历史教训，而非篡改历史",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739124.shtml",
+        "publishedAt": "2026-11-28T09:41:27.000+08:00"
       },
       {
-        "title": "“案藏联韵——楹联档案文化展”在杭开展",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739115.shtml",
-        "publishedAt": "2026-11-28T09:30:45.000+08:00"
+        "title": "云南保山永子“浴火重生”滴制千年弈脉",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739112.shtml",
+        "publishedAt": "2026-11-28T09:38:57.000+08:00"
       },
       {
-        "title": "潮起钱塘汇英才 杭州欧美同学会海归双创大赛决赛举行",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-28/10739113.shtml",
-        "publishedAt": "2026-11-28T09:30:21.000+08:00"
+        "title": "携手共建现代化人民城市",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739123.shtml",
+        "publishedAt": "2026-11-28T09:38:39.000+08:00"
       },
       {
-        "title": "《习近平的文化情缘》在斯里兰卡主流媒体播出",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739111.shtml",
-        "publishedAt": "2026-11-28T09:12:04.000+08:00"
+        "title": "“不可忘却的记忆”国家公祭日主题思政教育活动在南京举行",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-28/10739117.shtml",
+        "publishedAt": "2026-11-28T09:35:47.000+08:00"
       },
       {
-        "title": "冷空气继续影响东部海区 新疆将有大范围降雪天气",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739102.shtml",
-        "publishedAt": "2026-11-28T08:55:21.000+08:00"
+        "title": "外媒关注中国空间站首次迎来外国航天员：中国航天国际合作迈出新步伐",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739121.shtml",
+        "publishedAt": "2026-11-28T09:34:13.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T09:37:59.973+08:00",
+    "fetchedAt": "2026-11-28T09:48:11.974+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T09:38:00.653+08:00",
+      "fetchedAt": "2026-11-28T09:48:12.685+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T09:38:00.655+08:00",
+      "fetchedAt": "2026-11-28T09:48:12.688+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T09:38:00.664+08:00",
+      "fetchedAt": "2026-11-28T09:48:12.696+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T09:38:00.664+08:00",
+      "fetchedAt": "2026-11-28T09:48:12.697+08:00",
       "error": "未启用",
       "disabled": true
     }
