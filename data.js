@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T20:31:08.809+08:00",
+  "updatedAt": "2026-11-28T20:41:20.979+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
     "tempC": 12.7,
-    "feelsLikeC": 11.7,
-    "humidity": 82,
-    "windKph": 5.8,
+    "feelsLikeC": 11.8,
+    "humidity": 81,
+    "windKph": 4.7,
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-28T20:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T20:31:08.809+08:00",
+    "fetchedAt": "2026-11-28T20:41:20.979+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026贺岁档拉开大幕 “跟着电影游中国”海外放映启航",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739381.shtml",
-        "publishedAt": "2026-11-28T20:26:26.000+08:00"
+        "title": "中国—东盟共促体质健康 让居民在家门口科学运动",
+        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-28/10739385.shtml",
+        "publishedAt": "2026-11-28T20:36:23.000+08:00"
       },
       {
-        "title": "从“包袱”到抢手资源 退役风机“拆”出新生",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739379.shtml",
-        "publishedAt": "2026-11-28T20:23:28.000+08:00"
+        "title": "三个维度透视前10个月规上工业利润走势",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739389.shtml",
+        "publishedAt": "2026-11-28T20:34:29.000+08:00"
       },
       {
-        "title": "短道速滑世界巡回赛上海站：中国选手张子夏夺得男子500米决赛铜牌",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739374.shtml",
-        "publishedAt": "2026-11-28T20:18:46.000+08:00"
+        "title": "第29届日中卡拉OK大赛在东京落幕",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-28/10739387.shtml",
+        "publishedAt": "2026-11-28T20:34:25.000+08:00"
       },
       {
-        "title": "台湾建筑师团队驻村“陪护”福建古村新生",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739371.shtml",
-        "publishedAt": "2026-11-28T20:13:42.000+08:00"
+        "title": "宁夏同心农特产品“走出去”系列活动收官 累计意向签约2.7亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739384.shtml",
+        "publishedAt": "2026-11-28T20:33:27.000+08:00"
       },
       {
-        "title": "海内外专家学者北京论舞蹈促文明互鉴",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739369.shtml",
-        "publishedAt": "2026-11-28T20:12:23.000+08:00"
+        "title": "数学“算法大脑”加速赋能智慧交通 第五届数学促进经济社会发展论坛在渝举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739382.shtml",
+        "publishedAt": "2026-11-28T20:30:47.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T20:31:06.205+08:00",
+    "fetchedAt": "2026-11-28T20:41:18.433+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T20:31:06.917+08:00",
+      "fetchedAt": "2026-11-28T20:41:19.213+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-12-05T20:31:08.000+08:00"
+          "resetAt": "2026-12-05T20:41:20.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T20:31:06.921+08:00",
+      "fetchedAt": "2026-11-28T20:41:19.216+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T20:31:06.931+08:00",
+      "fetchedAt": "2026-11-28T20:41:19.225+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T20:31:06.931+08:00",
+      "fetchedAt": "2026-11-28T20:41:19.225+08:00",
       "error": "未启用",
       "disabled": true
     }
