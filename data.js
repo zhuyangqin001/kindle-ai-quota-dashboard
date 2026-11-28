@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T21:42:31.354+08:00",
+  "updatedAt": "2026-11-28T21:52:44.673+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -7,11 +7,11 @@ window.DASH_DATA = {
     "tempC": 11.9,
     "feelsLikeC": 11.3,
     "humidity": 83,
-    "windKph": 2.6,
+    "windKph": 2.3,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T21:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T21:42:31.354+08:00",
+    "observedAt": "2026-11-28T21:45:00.000+08:00",
+    "fetchedAt": "2026-11-28T21:52:44.673+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "俄罗斯堪察加半岛发生6.8级地震 震源深度200公里",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739446.shtml",
+        "publishedAt": "2026-11-28T21:46:27.000+08:00"
+      },
+      {
+        "title": "深圳首趟集拼跨境电商海铁联运班列开行",
+        "url": "https://www.chinanews.com.cn/ydyl/2026/11-28/10739445.shtml",
+        "publishedAt": "2026-11-28T21:40:08.000+08:00"
+      },
       {
         "title": "中企承建圭亚那新麦肯锡-维斯马大桥通车",
         "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739425.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "大湾区粤韵唱新声 让非遗“活”在当下",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-28/10739443.shtml",
         "publishedAt": "2026-11-28T21:30:36.000+08:00"
-      },
-      {
-        "title": "2026年中国—东盟城市网球赛在广西南宁开赛",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-28/10739442.shtml",
-        "publishedAt": "2026-11-28T21:30:30.000+08:00"
-      },
-      {
-        "title": "高交会观察：AI技术成果迭代升级 加速场景落地",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739440.shtml",
-        "publishedAt": "2026-11-28T21:28:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T21:42:28.531+08:00",
+    "fetchedAt": "2026-11-28T21:52:41.968+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T21:42:29.312+08:00",
+      "fetchedAt": "2026-11-28T21:52:42.762+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-12-05T21:42:31.000+08:00"
+          "resetAt": "2026-12-05T21:52:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T21:42:29.316+08:00",
+      "fetchedAt": "2026-11-28T21:52:42.766+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T21:42:29.326+08:00",
+      "fetchedAt": "2026-11-28T21:52:42.777+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T21:42:29.326+08:00",
+      "fetchedAt": "2026-11-28T21:52:42.778+08:00",
       "error": "未启用",
       "disabled": true
     }
