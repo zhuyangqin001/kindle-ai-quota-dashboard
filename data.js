@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T08:36:51.121+08:00",
+  "updatedAt": "2026-11-28T08:47:03.034+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.3,
-    "feelsLikeC": 11.6,
-    "humidity": 78,
-    "windKph": 2.2,
-    "windDir": "南风",
+    "tempC": 13.3,
+    "feelsLikeC": 12.7,
+    "humidity": 74,
+    "windKph": 1.4,
+    "windDir": "西南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T08:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T08:36:51.121+08:00",
+    "observedAt": "2026-11-28T08:45:00.000+08:00",
+    "fetchedAt": "2026-11-28T08:47:03.035+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "当机器人“遇上”无人机 2026香港AI科普周开幕",
+        "url": "http://www.chinanews.com.cn/tp/hd2011/2026/11-28/1211863.shtml",
+        "publishedAt": "2026-11-28T08:32:30.000+08:00"
+      },
       {
         "title": "每人每月补助5000元 澳门居民珠海养老服务落地",
         "url": "https://www.chinanews.com.cn/dwq/2026/11-28/10739100.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "科威特召见伊朗大使 抗议伊“持续袭击”",
         "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739097.shtml",
         "publishedAt": "2026-11-28T06:46:38.000+08:00"
-      },
-      {
-        "title": "美官员称美国空军云计算平台遭黑客入侵",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739096.shtml",
-        "publishedAt": "2026-11-28T06:44:34.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T08:36:47.911+08:00",
+    "fetchedAt": "2026-11-28T08:47:00.590+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T08:36:48.591+08:00",
+      "fetchedAt": "2026-11-28T08:47:01.278+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T08:36:48.593+08:00",
+      "fetchedAt": "2026-11-28T08:47:01.282+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T08:36:48.602+08:00",
+      "fetchedAt": "2026-11-28T08:47:01.293+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T08:36:48.602+08:00",
+      "fetchedAt": "2026-11-28T08:47:01.293+08:00",
       "error": "未启用",
       "disabled": true
     }
