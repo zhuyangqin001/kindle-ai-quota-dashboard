@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T22:02:57.522+08:00",
+  "updatedAt": "2026-11-28T22:13:09.951+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "东风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-28T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T22:02:57.522+08:00",
+    "fetchedAt": "2026-11-28T22:13:09.951+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "从“临居”到“邻居”：“旅居云南”有了新内涵",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739450.shtml",
+        "publishedAt": "2026-11-28T22:05:56.000+08:00"
+      },
+      {
+        "title": "如何“树”立美丽云南新形象",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739449.shtml",
+        "publishedAt": "2026-11-28T22:05:46.000+08:00"
+      },
+      {
+        "title": "美国媒体人：中国电动汽车何以领跑全球？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739448.shtml",
+        "publishedAt": "2026-11-28T22:01:09.000+08:00"
+      },
       {
         "title": "日本长崎篡改“南京大屠杀”展陈表述引发不满",
         "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739447.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "俄罗斯堪察加半岛发生6.8级地震 震源深度200公里",
         "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739446.shtml",
         "publishedAt": "2026-11-28T21:46:27.000+08:00"
-      },
-      {
-        "title": "深圳首趟集拼跨境电商海铁联运班列开行",
-        "url": "https://www.chinanews.com.cn/ydyl/2026/11-28/10739445.shtml",
-        "publishedAt": "2026-11-28T21:40:08.000+08:00"
-      },
-      {
-        "title": "中企承建圭亚那新麦肯锡-维斯马大桥通车",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739425.shtml",
-        "publishedAt": "2026-11-28T21:35:34.000+08:00"
-      },
-      {
-        "title": "内蒙古边关民警用坚守筑牢祖国北疆钢铁长城",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739444.shtml",
-        "publishedAt": "2026-11-28T21:35:14.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T22:02:54.423+08:00",
+    "fetchedAt": "2026-11-28T22:13:07.154+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T22:02:55.207+08:00",
+      "fetchedAt": "2026-11-28T22:13:07.962+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-12-05T22:02:56.000+08:00"
+          "resetAt": "2026-12-05T22:13:09.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T22:02:55.210+08:00",
+      "fetchedAt": "2026-11-28T22:13:07.966+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T22:02:55.221+08:00",
+      "fetchedAt": "2026-11-28T22:13:07.976+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T22:02:55.222+08:00",
+      "fetchedAt": "2026-11-28T22:13:07.976+08:00",
       "error": "未启用",
       "disabled": true
     }
