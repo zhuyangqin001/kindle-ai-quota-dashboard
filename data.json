@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T10:18:51.085+08:00",
+  "updatedAt": "2026-11-28T10:29:03.633+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-28T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-28T10:18:51.085+08:00",
+    "fetchedAt": "2026-11-28T10:29:03.633+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“三北”工程攻坚战将推行分区差异化治理",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739144.shtml",
+        "publishedAt": "2026-11-28T10:20:30.000+08:00"
+      },
+      {
+        "title": "国产大邮轮落子广州 大船经济何以成势",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739137.shtml",
+        "publishedAt": "2026-11-28T10:18:31.000+08:00"
+      },
+      {
+        "title": "我国工程机械行业持续稳中向好",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739141.shtml",
+        "publishedAt": "2026-11-28T10:17:39.000+08:00"
+      },
       {
         "title": "冻伤不是“冻疼了才会伤” 寒潮来袭如何预防？",
         "url": "https://www.chinanews.com.cn/life/2026/11-28/10739136.shtml",
@@ -28,24 +43,9 @@
         "title": "高铁“上新”带动冬季文旅市场持续升温",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739135.shtml",
         "publishedAt": "2026-11-28T10:09:49.000+08:00"
-      },
-      {
-        "title": "神二十四成功发射、能源技术攻关突破 本周我国多领域捷报频传",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739134.shtml",
-        "publishedAt": "2026-11-28T10:05:33.000+08:00"
-      },
-      {
-        "title": "为何要打穿天山建隧道？独库公路“姊妹线”有什么独特之处？｜中国不一样",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-28/10739127.shtml",
-        "publishedAt": "2026-11-28T10:05:33.000+08:00"
-      },
-      {
-        "title": "全国一盘棋里的巨大潜能",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739133.shtml",
-        "publishedAt": "2026-11-28T10:00:16.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T10:18:48.581+08:00",
+    "fetchedAt": "2026-11-28T10:29:00.562+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T10:18:49.263+08:00",
+      "fetchedAt": "2026-11-28T10:29:01.244+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T10:18:49.264+08:00",
+      "fetchedAt": "2026-11-28T10:29:01.247+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T10:18:49.273+08:00",
+      "fetchedAt": "2026-11-28T10:29:01.258+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T10:18:49.273+08:00",
+      "fetchedAt": "2026-11-28T10:29:01.258+08:00",
       "error": "未启用",
       "disabled": true
     }
