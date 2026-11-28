@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T16:16:01.914+08:00",
+  "updatedAt": "2026-11-28T16:26:14.782+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-28T16:15:00.000+08:00",
-    "fetchedAt": "2026-11-28T16:16:01.914+08:00",
+    "fetchedAt": "2026-11-28T16:26:14.782+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（走进中国乡村）河北景县打造“橡塑产业大脑” 数字化赋能产业集群升级",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739263.shtml",
+        "publishedAt": "2026-11-28T16:17:21.000+08:00"
+      },
+      {
+        "title": "广电总局通报网络视听节目不良传播行为治理典型案例",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739257.shtml",
+        "publishedAt": "2026-11-28T16:16:23.000+08:00"
+      },
+      {
+        "title": "专家学者汕头共议海外华侨华人中华文化传承与传播",
+        "url": "https://www.chinanews.com.cn/hr/2026/11-28/10739261.shtml",
+        "publishedAt": "2026-11-28T16:15:27.000+08:00"
+      },
       {
         "title": "第十届中央文献翻译与研究研讨会在天津外国语大学开幕",
         "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739249.shtml",
@@ -28,24 +43,9 @@
         "title": "浙川东西部协作主题研讨会在杭州举行 谋划“十五五”新蓝图",
         "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739246.shtml",
         "publishedAt": "2026-11-28T15:56:28.000+08:00"
-      },
-      {
-        "title": "聚焦精品古装剧出海 《嫁金钗》研讨会举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739248.shtml",
-        "publishedAt": "2026-11-28T15:51:38.000+08:00"
-      },
-      {
-        "title": "浙江桐乡：毛衫小镇竞速“出海元年”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739247.shtml",
-        "publishedAt": "2026-11-28T15:51:30.000+08:00"
-      },
-      {
-        "title": "一只等了90年的碗丨“史诗长征” · 广东篇",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739253.shtml",
-        "publishedAt": "2026-11-28T15:49:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T16:15:59.194+08:00",
+    "fetchedAt": "2026-11-28T16:26:11.542+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T16:15:59.950+08:00",
+      "fetchedAt": "2026-11-28T16:26:12.354+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T16:15:59.954+08:00",
+      "fetchedAt": "2026-11-28T16:26:12.357+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T16:15:59.963+08:00",
+      "fetchedAt": "2026-11-28T16:26:12.368+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T16:15:59.964+08:00",
+      "fetchedAt": "2026-11-28T16:26:12.368+08:00",
       "error": "未启用",
       "disabled": true
     }
