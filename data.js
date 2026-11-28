@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T14:23:46.433+08:00",
+  "updatedAt": "2026-11-28T14:33:58.797+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 21.3,
+    "tempC": 21.2,
     "feelsLikeC": 19.7,
-    "humidity": 48,
-    "windKph": 9.9,
+    "humidity": 47,
+    "windKph": 9.4,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T14:15:00.000+08:00",
-    "fetchedAt": "2026-11-28T14:23:46.433+08:00",
+    "observedAt": "2026-11-28T14:30:00.000+08:00",
+    "fetchedAt": "2026-11-28T14:33:58.797+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "国内首次！青海发现南方猛犸象完整头骨化石",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739213.shtml",
+        "publishedAt": "2026-11-28T14:29:11.000+08:00"
+      },
       {
         "title": "冬季5种应季花果，吃法对了能治病、更养人！",
         "url": "https://www.chinanews.com.cn/life/2026/11-28/10739212.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "兰州大学：“交费包过”“不用上课”等为虚假宣传 保留追责权利",
         "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739208.shtml",
         "publishedAt": "2026-11-28T13:13:07.000+08:00"
-      },
-      {
-        "title": "习言道｜乡村振兴“好样子”！石椅羌寨生活越过越红火",
-        "url": "http://www.chinanews.com.cn/gn/shipin/2026/11-28/news1076214.shtml",
-        "publishedAt": "2026-11-28T13:03:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T14:23:43.433+08:00",
+    "fetchedAt": "2026-11-28T14:33:55.794+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T14:23:44.190+08:00",
+      "fetchedAt": "2026-11-28T14:33:56.478+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T14:23:44.193+08:00",
+      "fetchedAt": "2026-11-28T14:33:56.482+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T14:23:44.199+08:00",
+      "fetchedAt": "2026-11-28T14:33:56.490+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T14:23:44.199+08:00",
+      "fetchedAt": "2026-11-28T14:33:56.490+08:00",
       "error": "未启用",
       "disabled": true
     }
