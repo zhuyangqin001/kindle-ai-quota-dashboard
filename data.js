@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T22:53:58.347+08:00",
+  "updatedAt": "2026-11-28T23:04:12.081+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.7,
-    "feelsLikeC": 11.2,
+    "tempC": 11.6,
+    "feelsLikeC": 11.1,
     "humidity": 82,
     "windKph": 0.9,
     "windDir": "东南风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T22:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T22:53:58.347+08:00",
+    "observedAt": "2026-11-28T23:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T23:04:12.081+08:00",
     "error": null
   },
   "news": {
@@ -45,7 +45,7 @@ window.DASH_DATA = {
         "publishedAt": "2026-11-28T22:17:08.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T22:53:55.732+08:00",
+    "fetchedAt": "2026-11-28T23:04:09.347+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T22:53:56.467+08:00",
+      "fetchedAt": "2026-11-28T23:04:10.146+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-12-05T22:53:58.000+08:00"
+          "resetAt": "2026-12-05T23:04:11.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T22:53:56.469+08:00",
+      "fetchedAt": "2026-11-28T23:04:10.150+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T22:53:56.478+08:00",
+      "fetchedAt": "2026-11-28T23:04:10.160+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T22:53:56.480+08:00",
+      "fetchedAt": "2026-11-28T23:04:10.161+08:00",
       "error": "未启用",
       "disabled": true
     }
