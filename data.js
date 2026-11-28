@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T10:08:39.116+08:00",
+  "updatedAt": "2026-11-28T10:18:51.085+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.9,
-    "feelsLikeC": 16.3,
-    "humidity": 63,
-    "windKph": 3.5,
+    "tempC": 17.5,
+    "feelsLikeC": 16.9,
+    "humidity": 60,
+    "windKph": 4,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T10:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T10:08:39.117+08:00",
+    "observedAt": "2026-11-28T10:15:00.000+08:00",
+    "fetchedAt": "2026-11-28T10:18:51.085+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "冻伤不是“冻疼了才会伤” 寒潮来袭如何预防？",
+        "url": "https://www.chinanews.com.cn/life/2026/11-28/10739136.shtml",
+        "publishedAt": "2026-11-28T10:11:07.000+08:00"
+      },
+      {
+        "title": "高铁“上新”带动冬季文旅市场持续升温",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739135.shtml",
+        "publishedAt": "2026-11-28T10:09:49.000+08:00"
+      },
       {
         "title": "神二十四成功发射、能源技术攻关突破 本周我国多领域捷报频传",
         "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739134.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "全国一盘棋里的巨大潜能",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739133.shtml",
         "publishedAt": "2026-11-28T10:00:16.000+08:00"
-      },
-      {
-        "title": "墨西哥抗议美国在墨开通举报热线",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739125.shtml",
-        "publishedAt": "2026-11-28T09:59:00.000+08:00"
-      },
-      {
-        "title": "欧盟向巴勒斯坦提供2740万欧元医疗援助",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739109.shtml",
-        "publishedAt": "2026-11-28T09:58:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T10:08:36.506+08:00",
+    "fetchedAt": "2026-11-28T10:18:48.581+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T10:08:37.154+08:00",
+      "fetchedAt": "2026-11-28T10:18:49.263+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T10:08:37.157+08:00",
+      "fetchedAt": "2026-11-28T10:18:49.264+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T10:08:37.165+08:00",
+      "fetchedAt": "2026-11-28T10:18:49.273+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T10:08:37.165+08:00",
+      "fetchedAt": "2026-11-28T10:18:49.273+08:00",
       "error": "未启用",
       "disabled": true
     }
