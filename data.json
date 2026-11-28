@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-28T09:58:26.953+08:00",
+  "updatedAt": "2026-11-28T10:08:39.116+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 16.3,
-    "feelsLikeC": 15.7,
-    "humidity": 65,
-    "windKph": 3,
+    "tempC": 16.9,
+    "feelsLikeC": 16.3,
+    "humidity": 63,
+    "windKph": 3.5,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T09:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T09:58:26.953+08:00",
+    "observedAt": "2026-11-28T10:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T10:08:39.117+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "【国际3分钟】警惕“切香肠”伎俩 日本核试探敲响地区安全警钟",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739130.shtml",
-        "publishedAt": "2026-11-28T09:49:00.000+08:00"
+        "title": "神二十四成功发射、能源技术攻关突破 本周我国多领域捷报频传",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739134.shtml",
+        "publishedAt": "2026-11-28T10:05:33.000+08:00"
       },
       {
-        "title": "海南自贸港封关后药企如何获益？海关揭晓三大“密码”",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739118.shtml",
-        "publishedAt": "2026-11-28T09:47:50.000+08:00"
+        "title": "为何要打穿天山建隧道？独库公路“姊妹线”有什么独特之处？｜中国不一样",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-28/10739127.shtml",
+        "publishedAt": "2026-11-28T10:05:33.000+08:00"
       },
       {
-        "title": "《习近平的文化情缘》在斯里兰卡主流媒体播出",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739120.shtml",
-        "publishedAt": "2026-11-28T09:47:30.000+08:00"
+        "title": "全国一盘棋里的巨大潜能",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739133.shtml",
+        "publishedAt": "2026-11-28T10:00:16.000+08:00"
       },
       {
-        "title": "日本文部科学省系统遭非法访问 或致超16万条信息泄露",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739128.shtml",
-        "publishedAt": "2026-11-28T09:47:16.000+08:00"
+        "title": "墨西哥抗议美国在墨开通举报热线",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739125.shtml",
+        "publishedAt": "2026-11-28T09:59:00.000+08:00"
       },
       {
-        "title": "俄方警告日本：应记住二战历史教训，而非篡改历史",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739124.shtml",
-        "publishedAt": "2026-11-28T09:41:27.000+08:00"
+        "title": "欧盟向巴勒斯坦提供2740万欧元医疗援助",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739109.shtml",
+        "publishedAt": "2026-11-28T09:58:50.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T09:58:24.267+08:00",
+    "fetchedAt": "2026-11-28T10:08:36.506+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T09:58:24.958+08:00",
+      "fetchedAt": "2026-11-28T10:08:37.154+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T09:58:24.960+08:00",
+      "fetchedAt": "2026-11-28T10:08:37.157+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T09:58:24.969+08:00",
+      "fetchedAt": "2026-11-28T10:08:37.165+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T09:58:24.969+08:00",
+      "fetchedAt": "2026-11-28T10:08:37.165+08:00",
       "error": "未启用",
       "disabled": true
     }
