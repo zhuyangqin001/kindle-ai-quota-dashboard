@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-28T15:35:12.403+08:00",
+  "updatedAt": "2026-11-28T15:45:24.133+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.7,
-    "feelsLikeC": 19.2,
-    "humidity": 48,
-    "windKph": 9,
+    "tempC": 20.5,
+    "feelsLikeC": 19.1,
+    "humidity": 49,
+    "windKph": 8.9,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T15:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T15:35:12.403+08:00",
+    "observedAt": "2026-11-28T15:45:00.000+08:00",
+    "fetchedAt": "2026-11-28T15:45:24.133+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "向上攀登挑战高峰 2026上海中心高塔竞速挑战赛鸣枪开赛",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739231.shtml",
-        "publishedAt": "2026-11-28T15:29:16.000+08:00"
+        "title": "海丝国际文化旅游节非遗体验与展演活动在福州启幕",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739242.shtml",
+        "publishedAt": "2026-11-28T15:41:01.000+08:00"
       },
       {
-        "title": "穿行“林都”伊春林海雪原 千名徒步爱好者踏雪赴冬",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739230.shtml",
-        "publishedAt": "2026-11-28T15:28:18.000+08:00"
+        "title": "八旬向东渠建设者当讲解员：讲好“江南红旗渠”故事",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-28/10739237.shtml",
+        "publishedAt": "2026-11-28T15:40:59.000+08:00"
       },
       {
-        "title": "【赓续长征精神 奋进复兴征程】走好新的长征路 加快建设美丽新宁夏",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739221.shtml",
-        "publishedAt": "2026-11-28T15:09:55.000+08:00"
+        "title": "2026中国文化产业发展大会在北京举行 提出“文化上行期”概念",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739236.shtml",
+        "publishedAt": "2026-11-28T15:40:25.000+08:00"
       },
       {
-        "title": "城尾乡头，搬不走的好产业",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739220.shtml",
-        "publishedAt": "2026-11-28T15:04:41.000+08:00"
+        "title": "天津首条GOA4级全自动无人驾驶地铁8号线开通运营",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739241.shtml",
+        "publishedAt": "2026-11-28T15:40:03.000+08:00"
       },
       {
-        "title": "京津沪渝创新人才培养年会在天津举行",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-28/10739214.shtml",
-        "publishedAt": "2026-11-28T14:59:05.000+08:00"
+        "title": "一条大河｜安澜 相处的智慧和耐心",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739244.shtml",
+        "publishedAt": "2026-11-28T15:39:43.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T15:35:09.909+08:00",
+    "fetchedAt": "2026-11-28T15:45:21.708+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T15:35:10.589+08:00",
+      "fetchedAt": "2026-11-28T15:45:22.395+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T15:35:10.592+08:00",
+      "fetchedAt": "2026-11-28T15:45:22.397+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T15:35:10.600+08:00",
+      "fetchedAt": "2026-11-28T15:45:22.406+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T15:35:10.600+08:00",
+      "fetchedAt": "2026-11-28T15:45:22.406+08:00",
       "error": "未启用",
       "disabled": true
     }
