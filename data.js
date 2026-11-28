@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T10:39:15.672+08:00",
+  "updatedAt": "2026-11-28T10:49:27.951+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.1,
-    "feelsLikeC": 17.4,
-    "humidity": 59,
-    "windKph": 4.7,
+    "tempC": 18.5,
+    "feelsLikeC": 17.9,
+    "humidity": 57,
+    "windKph": 5.3,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T10:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T10:39:15.672+08:00",
+    "observedAt": "2026-11-28T10:45:00.000+08:00",
+    "fetchedAt": "2026-11-28T10:49:27.952+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "稳中有进、持续向优 今年前10个月物流业总收入12.3万亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739153.shtml",
+        "publishedAt": "2026-11-28T10:42:59.000+08:00"
+      },
+      {
+        "title": "亚太数智赋能创新发展合作平台启动建设",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739151.shtml",
+        "publishedAt": "2026-11-28T10:39:39.000+08:00"
+      },
+      {
+        "title": "晶采观察丨需求升级、供给创新 三重变化勾勒消费市场新图景",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739152.shtml",
+        "publishedAt": "2026-11-28T10:36:38.000+08:00"
+      },
       {
         "title": "新规落地！把电视“第一屏”还给直播",
         "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739148.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "曾在“爱优腾”中排第一的爱奇艺，被1美元绊住了",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739138.shtml",
         "publishedAt": "2026-11-28T10:30:06.000+08:00"
-      },
-      {
-        "title": "中新网评：三只松鼠不应拿“临时”当挡箭牌",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739140.shtml",
-        "publishedAt": "2026-11-28T10:29:00.000+08:00"
-      },
-      {
-        "title": "中新网评：直播间摆茅台卖杂牌，谁在装睡？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739139.shtml",
-        "publishedAt": "2026-11-28T10:25:14.000+08:00"
-      },
-      {
-        "title": "从琼崖烽火到开放自贸港丨三个关键词勾勒新海南",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739145.shtml",
-        "publishedAt": "2026-11-28T10:24:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T10:39:13.063+08:00",
+    "fetchedAt": "2026-11-28T10:49:25.293+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T10:39:13.797+08:00",
+      "fetchedAt": "2026-11-28T10:49:25.855+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T10:39:13.801+08:00",
+      "fetchedAt": "2026-11-28T10:49:25.857+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T10:39:13.810+08:00",
+      "fetchedAt": "2026-11-28T10:49:25.862+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T10:39:13.811+08:00",
+      "fetchedAt": "2026-11-28T10:49:25.862+08:00",
       "error": "未启用",
       "disabled": true
     }
