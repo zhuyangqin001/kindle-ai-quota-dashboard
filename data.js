@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T12:31:32.369+08:00",
+  "updatedAt": "2026-11-28T12:41:43.964+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-28T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T12:31:32.369+08:00",
+    "fetchedAt": "2026-11-28T12:41:43.964+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,11 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（走进中国乡村）从“黑石号”到新消费 湖南铜官窑千年窑火焕新生",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739176.shtml",
+        "publishedAt": "2026-11-28T12:35:59.000+08:00"
+      },
       {
         "title": "推动温室气体回收再利用 “河南方案”登上国际舞台",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739174.shtml",
@@ -38,14 +43,9 @@ window.DASH_DATA = {
         "title": "吉林“滑雪医生”备战大冬会训练忙",
         "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739171.shtml",
         "publishedAt": "2026-11-28T12:05:51.000+08:00"
-      },
-      {
-        "title": "10分钟邂逅1400年：中外青年小商桥 “搭桥” 记",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739169.shtml",
-        "publishedAt": "2026-11-28T12:05:05.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T12:31:29.691+08:00",
+    "fetchedAt": "2026-11-28T12:41:41.319+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T12:31:30.470+08:00",
+      "fetchedAt": "2026-11-28T12:41:42.110+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T12:31:30.473+08:00",
+      "fetchedAt": "2026-11-28T12:41:42.113+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T12:31:30.483+08:00",
+      "fetchedAt": "2026-11-28T12:41:42.123+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T12:31:30.483+08:00",
+      "fetchedAt": "2026-11-28T12:41:42.123+08:00",
       "error": "未启用",
       "disabled": true
     }
