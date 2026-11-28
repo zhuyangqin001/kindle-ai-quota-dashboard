@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-28T12:41:43.964+08:00",
+  "updatedAt": "2026-11-28T12:51:55.978+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.7,
-    "feelsLikeC": 20.2,
-    "humidity": 53,
-    "windKph": 8.1,
+    "tempC": 20.9,
+    "feelsLikeC": 20.3,
+    "humidity": 52,
+    "windKph": 8.6,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T12:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T12:41:43.964+08:00",
+    "observedAt": "2026-11-28T12:45:00.000+08:00",
+    "fetchedAt": "2026-11-28T12:51:55.978+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "（走进中国乡村）从“黑石号”到新消费 湖南铜官窑千年窑火焕新生",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739176.shtml",
-        "publishedAt": "2026-11-28T12:35:59.000+08:00"
+        "title": "2026亚太高尔夫联合会常青业余锦标赛澳门圆满收杆",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739198.shtml",
+        "publishedAt": "2026-11-28T12:47:46.000+08:00"
       },
       {
-        "title": "推动温室气体回收再利用 “河南方案”登上国际舞台",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739174.shtml",
-        "publishedAt": "2026-11-28T12:11:00.000+08:00"
+        "title": "20余名缅甸华裔青年博主在云南“香遇普洱”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739189.shtml",
+        "publishedAt": "2026-11-28T12:47:32.000+08:00"
       },
       {
-        "title": "黄金配置为何仍要看“周期”？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739170.shtml",
-        "publishedAt": "2026-11-28T12:10:23.000+08:00"
+        "title": "广西浦北陈皮产业溯源平台启用",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739192.shtml",
+        "publishedAt": "2026-11-28T12:46:53.000+08:00"
       },
       {
-        "title": "2026“创业之星”Next Star总决赛收官 国际项目占比超四成",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739172.shtml",
-        "publishedAt": "2026-11-28T12:08:11.000+08:00"
+        "title": "厦门湖里多维度发力推动消费市场提质扩容",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739191.shtml",
+        "publishedAt": "2026-11-28T12:46:19.000+08:00"
       },
       {
-        "title": "吉林“滑雪医生”备战大冬会训练忙",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739171.shtml",
-        "publishedAt": "2026-11-28T12:05:51.000+08:00"
+        "title": "四川部署全面从严治党26项任务 将探索建立群众诉求“一站式”办理平台",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739190.shtml",
+        "publishedAt": "2026-11-28T12:45:35.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T12:41:41.319+08:00",
+    "fetchedAt": "2026-11-28T12:51:53.255+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T12:41:42.110+08:00",
+      "fetchedAt": "2026-11-28T12:51:54.056+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T12:41:42.113+08:00",
+      "fetchedAt": "2026-11-28T12:51:54.060+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T12:41:42.123+08:00",
+      "fetchedAt": "2026-11-28T12:51:54.069+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T12:41:42.123+08:00",
+      "fetchedAt": "2026-11-28T12:51:54.070+08:00",
       "error": "未启用",
       "disabled": true
     }
