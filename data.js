@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T15:45:24.133+08:00",
+  "updatedAt": "2026-11-28T15:55:36.437+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-28T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T15:45:24.133+08:00",
+    "fetchedAt": "2026-11-28T15:55:36.437+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "海丝国际文化旅游节非遗体验与展演活动在福州启幕",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739242.shtml",
-        "publishedAt": "2026-11-28T15:41:01.000+08:00"
+        "title": "浙江桐乡：毛衫小镇竞速“出海元年”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739247.shtml",
+        "publishedAt": "2026-11-28T15:51:30.000+08:00"
       },
       {
-        "title": "八旬向东渠建设者当讲解员：讲好“江南红旗渠”故事",
-        "url": "https://www.chinanews.com.cn/txy/2026/11-28/10739237.shtml",
-        "publishedAt": "2026-11-28T15:40:59.000+08:00"
+        "title": "一只等了90年的碗丨“史诗长征” · 广东篇",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739253.shtml",
+        "publishedAt": "2026-11-28T15:49:05.000+08:00"
       },
       {
-        "title": "2026中国文化产业发展大会在北京举行 提出“文化上行期”概念",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739236.shtml",
-        "publishedAt": "2026-11-28T15:40:25.000+08:00"
+        "title": "2026福州国际友城文化周启动",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739240.shtml",
+        "publishedAt": "2026-11-28T15:45:05.000+08:00"
       },
       {
-        "title": "天津首条GOA4级全自动无人驾驶地铁8号线开通运营",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739241.shtml",
-        "publishedAt": "2026-11-28T15:40:03.000+08:00"
+        "title": "小城“智”变：浙江县域如何长出“AI森林”？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739245.shtml",
+        "publishedAt": "2026-11-28T15:44:53.000+08:00"
       },
       {
-        "title": "一条大河｜安澜 相处的智慧和耐心",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739244.shtml",
-        "publishedAt": "2026-11-28T15:39:43.000+08:00"
+        "title": "高交会观察：人工智能扎根实体产业一线",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739243.shtml",
+        "publishedAt": "2026-11-28T15:41:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T15:45:21.708+08:00",
+    "fetchedAt": "2026-11-28T15:55:33.985+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T15:45:22.395+08:00",
+      "fetchedAt": "2026-11-28T15:55:34.598+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T15:45:22.397+08:00",
+      "fetchedAt": "2026-11-28T15:55:34.599+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T15:45:22.406+08:00",
+      "fetchedAt": "2026-11-28T15:55:34.603+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T15:45:22.406+08:00",
+      "fetchedAt": "2026-11-28T15:55:34.604+08:00",
       "error": "未启用",
       "disabled": true
     }
