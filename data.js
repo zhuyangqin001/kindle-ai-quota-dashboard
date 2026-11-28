@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T22:13:09.951+08:00",
+  "updatedAt": "2026-11-28T22:23:22.170+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 11.8,
+    "tempC": 11.7,
     "feelsLikeC": 11.2,
     "humidity": 83,
-    "windKph": 1.9,
+    "windKph": 1.5,
     "windDir": "东风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T22:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T22:13:09.951+08:00",
+    "observedAt": "2026-11-28T22:15:00.000+08:00",
+    "fetchedAt": "2026-11-28T22:23:22.170+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "香港举行2026年度勋衔颁授典礼 3人获颁大紫荆勋章",
+        "url": "https://www.chinanews.com.cn/dwq/2026/11-28/10739451.shtml",
+        "publishedAt": "2026-11-28T22:17:40.000+08:00"
+      },
+      {
+        "title": "国际乒联成都混团世界杯签表出炉",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739452.shtml",
+        "publishedAt": "2026-11-28T22:17:36.000+08:00"
+      },
+      {
+        "title": "2027澳网亚太区外卡赛收官 施晗斩获女单正赛外卡",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739453.shtml",
+        "publishedAt": "2026-11-28T22:17:14.000+08:00"
+      },
+      {
+        "title": "福州海丝文旅合作再拓新圈",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739454.shtml",
+        "publishedAt": "2026-11-28T22:17:08.000+08:00"
+      },
+      {
         "title": "从“临居”到“邻居”：“旅居云南”有了新内涵",
         "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739450.shtml",
         "publishedAt": "2026-11-28T22:05:56.000+08:00"
-      },
-      {
-        "title": "如何“树”立美丽云南新形象",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739449.shtml",
-        "publishedAt": "2026-11-28T22:05:46.000+08:00"
-      },
-      {
-        "title": "美国媒体人：中国电动汽车何以领跑全球？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739448.shtml",
-        "publishedAt": "2026-11-28T22:01:09.000+08:00"
-      },
-      {
-        "title": "日本长崎篡改“南京大屠杀”展陈表述引发不满",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739447.shtml",
-        "publishedAt": "2026-11-28T21:57:05.000+08:00"
-      },
-      {
-        "title": "俄罗斯堪察加半岛发生6.8级地震 震源深度200公里",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739446.shtml",
-        "publishedAt": "2026-11-28T21:46:27.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T22:13:07.154+08:00",
+    "fetchedAt": "2026-11-28T22:23:19.455+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T22:13:07.962+08:00",
+      "fetchedAt": "2026-11-28T22:23:20.238+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-12-05T22:13:09.000+08:00"
+          "resetAt": "2026-12-05T22:23:21.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T22:13:07.966+08:00",
+      "fetchedAt": "2026-11-28T22:23:20.240+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T22:13:07.976+08:00",
+      "fetchedAt": "2026-11-28T22:23:20.250+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T22:13:07.976+08:00",
+      "fetchedAt": "2026-11-28T22:23:20.250+08:00",
       "error": "未启用",
       "disabled": true
     }
