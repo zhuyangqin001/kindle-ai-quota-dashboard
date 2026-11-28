@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-28T10:29:03.633+08:00",
+  "updatedAt": "2026-11-28T10:39:15.672+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 17.5,
-    "feelsLikeC": 16.9,
-    "humidity": 60,
-    "windKph": 4,
+    "tempC": 18.1,
+    "feelsLikeC": 17.4,
+    "humidity": 59,
+    "windKph": 4.7,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T10:15:00.000+08:00",
-    "fetchedAt": "2026-11-28T10:29:03.633+08:00",
+    "observedAt": "2026-11-28T10:30:00.000+08:00",
+    "fetchedAt": "2026-11-28T10:39:15.672+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "“三北”工程攻坚战将推行分区差异化治理",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739144.shtml",
-        "publishedAt": "2026-11-28T10:20:30.000+08:00"
+        "title": "新规落地！把电视“第一屏”还给直播",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739148.shtml",
+        "publishedAt": "2026-11-28T10:36:02.000+08:00"
       },
       {
-        "title": "国产大邮轮落子广州 大船经济何以成势",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739137.shtml",
-        "publishedAt": "2026-11-28T10:18:31.000+08:00"
+        "title": "曾在“爱优腾”中排第一的爱奇艺，被1美元绊住了",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739138.shtml",
+        "publishedAt": "2026-11-28T10:30:06.000+08:00"
       },
       {
-        "title": "我国工程机械行业持续稳中向好",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739141.shtml",
-        "publishedAt": "2026-11-28T10:17:39.000+08:00"
+        "title": "中新网评：三只松鼠不应拿“临时”当挡箭牌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739140.shtml",
+        "publishedAt": "2026-11-28T10:29:00.000+08:00"
       },
       {
-        "title": "冻伤不是“冻疼了才会伤” 寒潮来袭如何预防？",
-        "url": "https://www.chinanews.com.cn/life/2026/11-28/10739136.shtml",
-        "publishedAt": "2026-11-28T10:11:07.000+08:00"
+        "title": "中新网评：直播间摆茅台卖杂牌，谁在装睡？",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739139.shtml",
+        "publishedAt": "2026-11-28T10:25:14.000+08:00"
       },
       {
-        "title": "高铁“上新”带动冬季文旅市场持续升温",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739135.shtml",
-        "publishedAt": "2026-11-28T10:09:49.000+08:00"
+        "title": "从琼崖烽火到开放自贸港丨三个关键词勾勒新海南",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739145.shtml",
+        "publishedAt": "2026-11-28T10:24:46.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T10:29:00.562+08:00",
+    "fetchedAt": "2026-11-28T10:39:13.063+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T10:29:01.244+08:00",
+      "fetchedAt": "2026-11-28T10:39:13.797+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T10:29:01.247+08:00",
+      "fetchedAt": "2026-11-28T10:39:13.801+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T10:29:01.258+08:00",
+      "fetchedAt": "2026-11-28T10:39:13.810+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T10:29:01.258+08:00",
+      "fetchedAt": "2026-11-28T10:39:13.811+08:00",
       "error": "未启用",
       "disabled": true
     }
