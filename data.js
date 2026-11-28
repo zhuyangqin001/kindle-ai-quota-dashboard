@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T15:04:35.425+08:00",
+  "updatedAt": "2026-11-28T15:14:47.908+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-28T15:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T15:04:35.425+08:00",
+    "fetchedAt": "2026-11-28T15:14:47.908+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "城尾乡头，搬不走的好产业",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739220.shtml",
+        "publishedAt": "2026-11-28T15:04:41.000+08:00"
+      },
+      {
+        "title": "京津沪渝创新人才培养年会在天津举行",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-28/10739214.shtml",
+        "publishedAt": "2026-11-28T14:59:05.000+08:00"
+      },
       {
         "title": "冬菜上市“蔬”写乡村新“途”景 科技支撑成为蔬菜产业提质增效“新引擎”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739219.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "2026中柬友好关系研讨会在柬埔寨金边举行",
         "url": "https://www.chinanews.com.cn/hr/2026/11-28/10739217.shtml",
         "publishedAt": "2026-11-28T14:53:50.000+08:00"
-      },
-      {
-        "title": "天宫初体验：48小时，齐尚·阿里经历了什么？",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739216.shtml",
-        "publishedAt": "2026-11-28T14:47:52.000+08:00"
-      },
-      {
-        "title": "主流媒体湾区行暨第四届新闻短视频业务研讨会举办",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739215.shtml",
-        "publishedAt": "2026-11-28T14:46:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T15:04:32.767+08:00",
+    "fetchedAt": "2026-11-28T15:14:44.953+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T15:04:33.553+08:00",
+      "fetchedAt": "2026-11-28T15:14:45.724+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T15:04:33.556+08:00",
+      "fetchedAt": "2026-11-28T15:14:45.726+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T15:04:33.565+08:00",
+      "fetchedAt": "2026-11-28T15:14:45.736+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T15:04:33.565+08:00",
+      "fetchedAt": "2026-11-28T15:14:45.736+08:00",
       "error": "未启用",
       "disabled": true
     }
