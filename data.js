@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T11:50:41.485+08:00",
+  "updatedAt": "2026-11-28T12:00:53.752+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 19.9,
-    "feelsLikeC": 19.5,
+    "tempC": 20.2,
+    "feelsLikeC": 19.8,
     "humidity": 54,
-    "windKph": 7.2,
+    "windKph": 7.5,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T11:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T11:50:41.486+08:00",
+    "observedAt": "2026-11-28T12:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T12:00:53.752+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "理响津门 城暖万家｜一辆汽车背后的天津答卷",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739168.shtml",
+        "publishedAt": "2026-11-28T11:54:15.000+08:00"
+      },
+      {
+        "title": "商家出餐晚了 配送超时由谁担责？算法协商回应骑手关切→",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739167.shtml",
+        "publishedAt": "2026-11-28T11:52:00.000+08:00"
+      },
+      {
+        "title": "天津地铁8号线 开通运营",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739165.shtml",
+        "publishedAt": "2026-11-28T11:49:00.000+08:00"
+      },
       {
         "title": "全国殡葬服务热线“12353”在重庆率先启用",
         "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739159.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "指数报告指出，长三角41城休闲化整体向好 优质供给成关键",
         "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739164.shtml",
         "publishedAt": "2026-11-28T11:45:50.000+08:00"
-      },
-      {
-        "title": "聚焦场馆协作与资源共享等方向 现代科技馆体系联合行动交流研讨",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739161.shtml",
-        "publishedAt": "2026-11-28T11:44:48.000+08:00"
-      },
-      {
-        "title": "中国水协科技委2026年度年会暨技术交流会在深圳举行",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739163.shtml",
-        "publishedAt": "2026-11-28T11:44:24.000+08:00"
-      },
-      {
-        "title": "江苏优质网络主播培育成果展演在扬州举行 发布网络直播行业自律倡议书",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739162.shtml",
-        "publishedAt": "2026-11-28T11:44:18.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T11:50:38.718+08:00",
+    "fetchedAt": "2026-11-28T12:00:51.099+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T11:50:39.521+08:00",
+      "fetchedAt": "2026-11-28T12:00:51.893+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T11:50:39.524+08:00",
+      "fetchedAt": "2026-11-28T12:00:51.896+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T11:50:39.534+08:00",
+      "fetchedAt": "2026-11-28T12:00:51.906+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T11:50:39.535+08:00",
+      "fetchedAt": "2026-11-28T12:00:51.907+08:00",
       "error": "未启用",
       "disabled": true
     }
