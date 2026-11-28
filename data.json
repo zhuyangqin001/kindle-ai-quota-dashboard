@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-28T15:55:36.437+08:00",
+  "updatedAt": "2026-11-28T16:05:49.855+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.5,
-    "feelsLikeC": 19.1,
-    "humidity": 49,
-    "windKph": 8.9,
+    "tempC": 20.2,
+    "feelsLikeC": 18.7,
+    "humidity": 50,
+    "windKph": 8.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T15:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T15:55:36.437+08:00",
+    "observedAt": "2026-11-28T16:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T16:05:49.855+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "第十届中央文献翻译与研究研讨会在天津外国语大学开幕",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739249.shtml",
+        "publishedAt": "2026-11-28T15:59:04.000+08:00"
+      },
+      {
+        "title": "浙川东西部协作主题研讨会在杭州举行 谋划“十五五”新蓝图",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739246.shtml",
+        "publishedAt": "2026-11-28T15:56:28.000+08:00"
+      },
+      {
+        "title": "聚焦精品古装剧出海 《嫁金钗》研讨会举办",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739248.shtml",
+        "publishedAt": "2026-11-28T15:51:38.000+08:00"
+      },
       {
         "title": "浙江桐乡：毛衫小镇竞速“出海元年”",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739247.shtml",
@@ -28,24 +43,9 @@
         "title": "一只等了90年的碗丨“史诗长征” · 广东篇",
         "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739253.shtml",
         "publishedAt": "2026-11-28T15:49:05.000+08:00"
-      },
-      {
-        "title": "2026福州国际友城文化周启动",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739240.shtml",
-        "publishedAt": "2026-11-28T15:45:05.000+08:00"
-      },
-      {
-        "title": "小城“智”变：浙江县域如何长出“AI森林”？",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739245.shtml",
-        "publishedAt": "2026-11-28T15:44:53.000+08:00"
-      },
-      {
-        "title": "高交会观察：人工智能扎根实体产业一线",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739243.shtml",
-        "publishedAt": "2026-11-28T15:41:21.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T15:55:33.985+08:00",
+    "fetchedAt": "2026-11-28T16:05:46.903+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T15:55:34.598+08:00",
+      "fetchedAt": "2026-11-28T16:05:47.530+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T15:55:34.599+08:00",
+      "fetchedAt": "2026-11-28T16:05:47.533+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T15:55:34.603+08:00",
+      "fetchedAt": "2026-11-28T16:05:47.541+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T15:55:34.604+08:00",
+      "fetchedAt": "2026-11-28T16:05:47.542+08:00",
       "error": "未启用",
       "disabled": true
     }
