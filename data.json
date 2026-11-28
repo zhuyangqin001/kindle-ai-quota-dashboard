@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-28T20:10:44.401+08:00",
+  "updatedAt": "2026-11-28T20:20:56.609+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 13.3,
-    "feelsLikeC": 12.3,
-    "humidity": 79,
-    "windKph": 6.5,
+    "tempC": 13,
+    "feelsLikeC": 12,
+    "humidity": 80,
+    "windKph": 6.1,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T20:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T20:10:44.401+08:00",
+    "observedAt": "2026-11-28T20:15:00.000+08:00",
+    "fetchedAt": "2026-11-28T20:20:56.610+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "用光影讲述丝路故事 四千件五大洲青少年作品福州大比拼",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739367.shtml",
+        "publishedAt": "2026-11-28T20:08:37.000+08:00"
+      },
+      {
+        "title": "企业利润“晴雨表”，一幅动能转换“透视图”（经济时评）",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739370.shtml",
+        "publishedAt": "2026-11-28T20:08:33.000+08:00"
+      },
       {
         "title": "22国留学生齐对弈中国北疆",
         "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739366.shtml",
@@ -33,19 +43,9 @@
         "title": "“中国科技第一展”落幕：人工智能扎根产业 全球客商觅合作新机",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739365.shtml",
         "publishedAt": "2026-11-28T19:58:15.000+08:00"
-      },
-      {
-        "title": "阿富汗一中学附近爆炸致10死110伤 疑涉及人为疏忽",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739368.shtml",
-        "publishedAt": "2026-11-28T19:57:21.000+08:00"
-      },
-      {
-        "title": "2026年成都国际乒联混合团体世界杯抽签结果出炉",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739357.shtml",
-        "publishedAt": "2026-11-28T19:44:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T20:10:41.832+08:00",
+    "fetchedAt": "2026-11-28T20:20:53.993+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T20:10:42.594+08:00",
+      "fetchedAt": "2026-11-28T20:20:54.795+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -68,11 +68,11 @@
         },
         {
           "name": "周",
-          "usedPct": 54,
-          "resetAt": "2026-11-28T20:15:44.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-12-05T20:20:56.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T20:10:42.598+08:00",
+      "fetchedAt": "2026-11-28T20:20:54.798+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T20:10:42.607+08:00",
+      "fetchedAt": "2026-11-28T20:20:54.808+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T20:10:42.608+08:00",
+      "fetchedAt": "2026-11-28T20:20:54.808+08:00",
       "error": "未启用",
       "disabled": true
     }
