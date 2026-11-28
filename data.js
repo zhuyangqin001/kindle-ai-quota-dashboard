@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T16:56:55.359+08:00",
+  "updatedAt": "2026-11-28T17:07:07.677+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.3,
-    "feelsLikeC": 17.3,
-    "humidity": 59,
-    "windKph": 6.6,
+    "tempC": 17.5,
+    "feelsLikeC": 16.6,
+    "humidity": 64,
+    "windKph": 6.7,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T16:56:55.359+08:00",
+    "observedAt": "2026-11-28T17:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T17:07:07.677+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "通车二十年——它是一条生态天路",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739303.shtml",
+        "publishedAt": "2026-11-28T17:02:35.000+08:00"
+      },
+      {
+        "title": "日本长崎核爆资料馆启动把南京大屠杀改称“南京事件”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739301.shtml",
+        "publishedAt": "2026-11-28T16:57:43.000+08:00"
+      },
+      {
+        "title": "与产业深度融合 江西省第二届高层次人才创新创业大赛举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739285.shtml",
+        "publishedAt": "2026-11-28T16:57:23.000+08:00"
+      },
+      {
+        "title": "邂逅中国 爱上中国｜指尖捏万象，肯尼亚留学生近距离触摸古老非遗“新脉搏",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739300.shtml",
+        "publishedAt": "2026-11-28T16:56:39.000+08:00"
+      },
+      {
         "title": "探索语言科学交叉创新 上海交大携手香港理工大学成立语言科学联合研究院",
         "url": "https://www.chinanews.com.cn/edu/2026/11-28/10739280.shtml",
         "publishedAt": "2026-11-28T16:50:49.000+08:00"
-      },
-      {
-        "title": "函博Vlog｜遇见喀什古城：来到这里就是一家人",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739298.shtml",
-        "publishedAt": "2026-11-28T16:50:35.000+08:00"
-      },
-      {
-        "title": "神舟二十三号和神舟二十四号航天员完成在轨交接",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739295.shtml",
-        "publishedAt": "2026-11-28T16:48:57.000+08:00"
-      },
-      {
-        "title": "承心承意邀约西安 承德冬季文旅招商推介亮相古城",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739279.shtml",
-        "publishedAt": "2026-11-28T16:48:21.000+08:00"
-      },
-      {
-        "title": "广州户外运动节嘉年华项目多样 激发民众户外运动热情",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739281.shtml",
-        "publishedAt": "2026-11-28T16:45:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T16:56:52.589+08:00",
+    "fetchedAt": "2026-11-28T17:07:04.858+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T16:56:53.402+08:00",
+      "fetchedAt": "2026-11-28T17:07:05.667+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T16:56:53.406+08:00",
+      "fetchedAt": "2026-11-28T17:07:05.670+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T16:56:53.417+08:00",
+      "fetchedAt": "2026-11-28T17:07:05.682+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T16:56:53.417+08:00",
+      "fetchedAt": "2026-11-28T17:07:05.682+08:00",
       "error": "未启用",
       "disabled": true
     }
