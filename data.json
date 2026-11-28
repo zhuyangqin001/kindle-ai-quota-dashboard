@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-28T20:51:33.088+08:00",
+  "updatedAt": "2026-11-28T21:01:43.817+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 12.4,
-    "feelsLikeC": 11.6,
+    "tempC": 12.2,
+    "feelsLikeC": 11.5,
     "humidity": 82,
-    "windKph": 4.2,
+    "windKph": 3.6,
     "windDir": "东北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T20:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T20:51:33.088+08:00",
+    "observedAt": "2026-11-28T21:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T21:01:43.817+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "红气球挑战赛在京举行 400余名大学生和志愿者“快乐学急救”",
-        "url": "https://www.chinanews.com.cn/jk/2026/11-28/10739391.shtml",
-        "publishedAt": "2026-11-28T20:40:59.000+08:00"
+        "title": "走进浙江社院：为山区海岛县点亮“共富直播间”",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-28/10739406.shtml",
+        "publishedAt": "2026-11-28T20:57:06.000+08:00"
       },
       {
-        "title": "一天走过八千年：海外留学生在河南漯河开启“文化闯关”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739390.shtml",
-        "publishedAt": "2026-11-28T20:40:53.000+08:00"
+        "title": "何以“文商旅”？",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739411.shtml",
+        "publishedAt": "2026-11-28T20:55:40.000+08:00"
       },
       {
-        "title": "近500名全国骑行爱好者“骑”聚广州增城",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739388.shtml",
-        "publishedAt": "2026-11-28T20:38:21.000+08:00"
+        "title": "2026南迦巴瓦文化艺术交流月“幸福舞台·活力林芝”村 T·乡村服饰风情秀专场举行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739405.shtml",
+        "publishedAt": "2026-11-28T20:53:36.000+08:00"
       },
       {
-        "title": "咖啡香里藏善意 重庆一社区招募“微光合伙人”探索公益新模式",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739386.shtml",
-        "publishedAt": "2026-11-28T20:38:15.000+08:00"
+        "title": "2026世界湾区帆船赛在深圳鸣笛启航",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739375.shtml",
+        "publishedAt": "2026-11-28T20:52:42.000+08:00"
       },
       {
-        "title": "中国—东盟共促体质健康 让居民在家门口科学运动",
-        "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-28/10739385.shtml",
-        "publishedAt": "2026-11-28T20:36:23.000+08:00"
+        "title": "文明探源新进展！专家解码“何以岭南”｜文化中国行",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739410.shtml",
+        "publishedAt": "2026-11-28T20:52:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T20:51:30.596+08:00",
+    "fetchedAt": "2026-11-28T21:01:41.529+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T20:51:31.283+08:00",
+      "fetchedAt": "2026-11-28T21:01:41.958+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@
         {
           "name": "周",
           "usedPct": 0,
-          "resetAt": "2026-12-05T20:51:32.000+08:00"
+          "resetAt": "2026-12-05T21:01:43.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T20:51:31.287+08:00",
+      "fetchedAt": "2026-11-28T21:01:41.961+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T20:51:31.297+08:00",
+      "fetchedAt": "2026-11-28T21:01:41.966+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T20:51:31.297+08:00",
+      "fetchedAt": "2026-11-28T21:01:41.967+08:00",
       "error": "未启用",
       "disabled": true
     }
