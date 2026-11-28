@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T18:08:19.168+08:00",
+  "updatedAt": "2026-11-28T18:18:32.945+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 15.7,
-    "feelsLikeC": 14.5,
-    "humidity": 70,
+    "tempC": 15.4,
+    "feelsLikeC": 14.1,
+    "humidity": 71,
     "windKph": 9,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T18:00:00.000+08:00",
-    "fetchedAt": "2026-11-28T18:08:19.168+08:00",
+    "observedAt": "2026-11-28T18:15:00.000+08:00",
+    "fetchedAt": "2026-11-28T18:18:32.945+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "（文化新纪行）新疆千年桑皮纸“潮”起来",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739318.shtml",
+        "publishedAt": "2026-11-28T18:11:43.000+08:00"
+      },
+      {
+        "title": "网络文化综艺《非遗之城·守护季》研讨会举行",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739317.shtml",
+        "publishedAt": "2026-11-28T18:05:07.000+08:00"
+      },
       {
         "title": "杭州制造借势AI渐绘新图景",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739312.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "中国艺术研究院第四届学术提名发布 涵盖戏曲、音乐、美术、红学和舞蹈",
         "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739313.shtml",
         "publishedAt": "2026-11-28T17:59:22.000+08:00"
-      },
-      {
-        "title": "中国AES100发动机完成国产可持续航空燃料首次飞行试验",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739310.shtml",
-        "publishedAt": "2026-11-28T17:56:06.000+08:00"
-      },
-      {
-        "title": "跨越山海谋共赢 琼陕搭建协同发展新桥梁",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739311.shtml",
-        "publishedAt": "2026-11-28T17:55:40.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T18:08:16.600+08:00",
+    "fetchedAt": "2026-11-28T18:18:30.202+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T18:08:17.288+08:00",
+      "fetchedAt": "2026-11-28T18:18:31.014+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T18:08:17.291+08:00",
+      "fetchedAt": "2026-11-28T18:18:31.018+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T18:08:17.297+08:00",
+      "fetchedAt": "2026-11-28T18:18:31.028+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T18:08:17.298+08:00",
+      "fetchedAt": "2026-11-28T18:18:31.028+08:00",
       "error": "未启用",
       "disabled": true
     }
