@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T10:59:39.801+08:00",
+  "updatedAt": "2026-11-28T11:09:52.988+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 18.5,
-    "feelsLikeC": 17.9,
-    "humidity": 57,
-    "windKph": 5.3,
+    "tempC": 19,
+    "feelsLikeC": 18.4,
+    "humidity": 56,
+    "windKph": 5.8,
     "windDir": "西风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T10:59:39.801+08:00",
+    "observedAt": "2026-11-28T11:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T11:09:52.988+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "菲律宾气象局：超强厄尔尼诺影响滞后 2027年初或达高峰",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739149.shtml",
+        "publishedAt": "2026-11-28T11:04:28.000+08:00"
+      },
+      {
+        "title": "废旧X光片能炼银？千万别试！不仅危险，还可能违法",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739158.shtml",
+        "publishedAt": "2026-11-28T10:53:29.000+08:00"
+      },
       {
         "title": "社科大刘晓春：未成年用网精细化治理应分阶段实施，强化用户提示和引导",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739142.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "舞剧《天工开物》在海南省歌舞剧院上演",
         "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739150.shtml",
         "publishedAt": "2026-11-28T10:50:21.000+08:00"
-      },
-      {
-        "title": "日本发生野猪伤人事件致7伤 “野猪撞破玻璃闯入店内”",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739154.shtml",
-        "publishedAt": "2026-11-28T10:50:11.000+08:00"
-      },
-      {
-        "title": "稳中有进、持续向优 今年前10个月物流业总收入12.3万亿元",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739153.shtml",
-        "publishedAt": "2026-11-28T10:42:59.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T10:59:37.127+08:00",
+    "fetchedAt": "2026-11-28T11:09:48.841+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T10:59:37.821+08:00",
+      "fetchedAt": "2026-11-28T11:09:49.503+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 29,
+          "usedPct": 58,
           "resetAt": "2026-11-28T12:59:17.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 45,
+          "usedPct": 49,
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T10:59:37.825+08:00",
+      "fetchedAt": "2026-11-28T11:09:49.506+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T10:59:37.834+08:00",
+      "fetchedAt": "2026-11-28T11:09:49.514+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T10:59:37.835+08:00",
+      "fetchedAt": "2026-11-28T11:09:49.514+08:00",
       "error": "未启用",
       "disabled": true
     }
