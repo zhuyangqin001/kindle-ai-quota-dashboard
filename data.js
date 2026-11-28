@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T10:49:27.951+08:00",
+  "updatedAt": "2026-11-28T10:59:39.801+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "西风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-28T10:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T10:49:27.952+08:00",
+    "fetchedAt": "2026-11-28T10:59:39.801+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "社科大刘晓春：未成年用网精细化治理应分阶段实施，强化用户提示和引导",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739142.shtml",
+        "publishedAt": "2026-11-28T10:51:23.000+08:00"
+      },
+      {
+        "title": "歼-35A飞抵珠海 将首次真机进馆展出",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739155.shtml",
+        "publishedAt": "2026-11-28T10:51:13.000+08:00"
+      },
+      {
+        "title": "舞剧《天工开物》在海南省歌舞剧院上演",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739150.shtml",
+        "publishedAt": "2026-11-28T10:50:21.000+08:00"
+      },
+      {
+        "title": "日本发生野猪伤人事件致7伤 “野猪撞破玻璃闯入店内”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739154.shtml",
+        "publishedAt": "2026-11-28T10:50:11.000+08:00"
+      },
+      {
         "title": "稳中有进、持续向优 今年前10个月物流业总收入12.3万亿元",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739153.shtml",
         "publishedAt": "2026-11-28T10:42:59.000+08:00"
-      },
-      {
-        "title": "亚太数智赋能创新发展合作平台启动建设",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739151.shtml",
-        "publishedAt": "2026-11-28T10:39:39.000+08:00"
-      },
-      {
-        "title": "晶采观察丨需求升级、供给创新 三重变化勾勒消费市场新图景",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739152.shtml",
-        "publishedAt": "2026-11-28T10:36:38.000+08:00"
-      },
-      {
-        "title": "新规落地！把电视“第一屏”还给直播",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739148.shtml",
-        "publishedAt": "2026-11-28T10:36:02.000+08:00"
-      },
-      {
-        "title": "曾在“爱优腾”中排第一的爱奇艺，被1美元绊住了",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739138.shtml",
-        "publishedAt": "2026-11-28T10:30:06.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T10:49:25.293+08:00",
+    "fetchedAt": "2026-11-28T10:59:37.127+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T10:49:25.855+08:00",
+      "fetchedAt": "2026-11-28T10:59:37.821+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,16 +63,16 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 3,
+          "usedPct": 29,
           "resetAt": "2026-11-28T12:59:17.000+08:00"
         },
         {
           "name": "周",
-          "usedPct": 41,
+          "usedPct": 45,
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T10:49:25.857+08:00",
+      "fetchedAt": "2026-11-28T10:59:37.825+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T10:49:25.862+08:00",
+      "fetchedAt": "2026-11-28T10:59:37.834+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T10:49:25.862+08:00",
+      "fetchedAt": "2026-11-28T10:59:37.835+08:00",
       "error": "未启用",
       "disabled": true
     }
