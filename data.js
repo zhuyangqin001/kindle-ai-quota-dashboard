@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T19:40:10.434+08:00",
+  "updatedAt": "2026-11-28T19:50:21.359+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14,
-    "feelsLikeC": 12.8,
-    "humidity": 76,
-    "windKph": 7.2,
+    "tempC": 13.6,
+    "feelsLikeC": 12.5,
+    "humidity": 78,
+    "windKph": 6.8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T19:30:00.000+08:00",
-    "fetchedAt": "2026-11-28T19:40:10.434+08:00",
+    "observedAt": "2026-11-28T19:45:00.000+08:00",
+    "fetchedAt": "2026-11-28T19:50:21.360+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,21 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "2026年成都国际乒联混合团体世界杯抽签结果出炉",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739357.shtml",
+        "publishedAt": "2026-11-28T19:44:48.000+08:00"
+      },
+      {
+        "title": "黑龙江伊春日月峡滑雪场迎开板首滑",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739353.shtml",
+        "publishedAt": "2026-11-28T19:43:26.000+08:00"
+      },
+      {
+        "title": "海南三亚：中外摩托艇选手海上竞速争锋",
+        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739350.shtml",
+        "publishedAt": "2026-11-28T19:40:48.000+08:00"
+      },
       {
         "title": "第十六届中国航展首架俄罗斯展团包机顺利抵达珠海",
         "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739356.shtml",
@@ -28,24 +43,9 @@ window.DASH_DATA = {
         "title": "2026中关村量子大会举办 发布多项重大成果与应用场景",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739354.shtml",
         "publishedAt": "2026-11-28T19:28:41.000+08:00"
-      },
-      {
-        "title": "安徽太和板面“煮”出200亿元产业",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739355.shtml",
-        "publishedAt": "2026-11-28T19:28:35.000+08:00"
-      },
-      {
-        "title": "养老院住进年轻人：服务时长换租金 老少相伴两相暖",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739358.shtml",
-        "publishedAt": "2026-11-28T19:28:21.000+08:00"
-      },
-      {
-        "title": "下周有的地方还能到30℃？全国多地气温将迎来大回暖",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739359.shtml",
-        "publishedAt": "2026-11-28T19:27:09.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T19:40:08.003+08:00",
+    "fetchedAt": "2026-11-28T19:50:18.930+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T19:40:08.568+08:00",
+      "fetchedAt": "2026-11-28T19:50:19.501+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-29T00:40:10.000+08:00"
+          "resetAt": "2026-11-29T00:50:21.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T19:40:08.571+08:00",
+      "fetchedAt": "2026-11-28T19:50:19.504+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T19:40:08.579+08:00",
+      "fetchedAt": "2026-11-28T19:50:19.514+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T19:40:08.579+08:00",
+      "fetchedAt": "2026-11-28T19:50:19.514+08:00",
       "error": "未启用",
       "disabled": true
     }
