@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T16:46:43.121+08:00",
+  "updatedAt": "2026-11-28T16:56:55.359+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-28T16:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T16:46:43.122+08:00",
+    "fetchedAt": "2026-11-28T16:56:55.359+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
+        "title": "探索语言科学交叉创新 上海交大携手香港理工大学成立语言科学联合研究院",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-28/10739280.shtml",
+        "publishedAt": "2026-11-28T16:50:49.000+08:00"
+      },
+      {
+        "title": "函博Vlog｜遇见喀什古城：来到这里就是一家人",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739298.shtml",
+        "publishedAt": "2026-11-28T16:50:35.000+08:00"
+      },
+      {
         "title": "神舟二十三号和神舟二十四号航天员完成在轨交接",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739286.shtml",
-        "publishedAt": "2026-11-28T16:40:40.000+08:00"
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739295.shtml",
+        "publishedAt": "2026-11-28T16:48:57.000+08:00"
       },
       {
-        "title": "神舟二十三号和神舟二十四号航天员在轨交接仪式开始",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739284.shtml",
-        "publishedAt": "2026-11-28T16:34:48.000+08:00"
+        "title": "承心承意邀约西安 承德冬季文旅招商推介亮相古城",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739279.shtml",
+        "publishedAt": "2026-11-28T16:48:21.000+08:00"
       },
       {
-        "title": "2026世界市长对话·乌鲁木齐丨以城为窗，让世界读懂中国新疆",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739282.shtml",
-        "publishedAt": "2026-11-28T16:33:42.000+08:00"
-      },
-      {
-        "title": "巴基斯坦官员称中国的独有特质是乐于分享发展成果，更多国家期待共写太空未来",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739278.shtml",
-        "publishedAt": "2026-11-28T16:29:06.000+08:00"
-      },
-      {
-        "title": "透过三张外商 “创业清单” 看中外合作新机遇",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739277.shtml",
-        "publishedAt": "2026-11-28T16:26:25.000+08:00"
+        "title": "广州户外运动节嘉年华项目多样 激发民众户外运动热情",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739281.shtml",
+        "publishedAt": "2026-11-28T16:45:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T16:46:40.211+08:00",
+    "fetchedAt": "2026-11-28T16:56:52.589+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T16:46:41.031+08:00",
+      "fetchedAt": "2026-11-28T16:56:53.402+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -69,10 +69,10 @@ window.DASH_DATA = {
         {
           "name": "周",
           "usedPct": 54,
-          "resetAt": "2026-11-28T20:15:45.000+08:00"
+          "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T16:46:41.035+08:00",
+      "fetchedAt": "2026-11-28T16:56:53.406+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T16:46:41.046+08:00",
+      "fetchedAt": "2026-11-28T16:56:53.417+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T16:46:41.046+08:00",
+      "fetchedAt": "2026-11-28T16:56:53.417+08:00",
       "error": "未启用",
       "disabled": true
     }
