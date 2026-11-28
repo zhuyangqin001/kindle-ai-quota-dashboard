@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T18:59:24.871+08:00",
+  "updatedAt": "2026-11-28T19:09:36.864+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 14.9,
-    "feelsLikeC": 13.6,
-    "humidity": 72,
-    "windKph": 8.3,
+    "tempC": 14.6,
+    "feelsLikeC": 13.4,
+    "humidity": 73,
+    "windKph": 8,
     "windDir": "北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T18:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T18:59:24.871+08:00",
+    "observedAt": "2026-11-28T19:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T19:09:36.864+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "河北泊头：梨果农产品飘香海外",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739316.shtml",
-        "publishedAt": "2026-11-28T18:46:01.000+08:00"
+        "title": "第四届嵊州村越落幕 吸引1800余名海内外越剧爱好者参与",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739340.shtml",
+        "publishedAt": "2026-11-28T18:58:28.000+08:00"
       },
       {
-        "title": "万人共品安徽太和板面",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739309.shtml",
-        "publishedAt": "2026-11-28T18:45:03.000+08:00"
+        "title": "广西汽车城办汽车摄影展 见证制造变“智造”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739338.shtml",
+        "publishedAt": "2026-11-28T18:57:44.000+08:00"
       },
       {
-        "title": "新疆和田核桃远销海外 特色林果产业助农增收",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739332.shtml",
-        "publishedAt": "2026-11-28T18:44:33.000+08:00"
+        "title": "原创音乐剧《北庭·望长安》西安上演",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739341.shtml",
+        "publishedAt": "2026-11-28T18:56:39.000+08:00"
       },
       {
-        "title": "多款飞机飞抵第十六届中国国际航空航天博览会",
-        "url": "https://www.chinanews.com.cn/tp/2026/11-28/10739328.shtml",
-        "publishedAt": "2026-11-28T18:42:41.000+08:00"
+        "title": "辽宁非遗首次走进东北大学 精准对接艺术教学实践",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-28/10739339.shtml",
+        "publishedAt": "2026-11-28T18:54:21.000+08:00"
       },
       {
-        "title": "新疆普氏野马再添野外放归“新家”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739330.shtml",
-        "publishedAt": "2026-11-28T18:39:59.000+08:00"
+        "title": "历时近8个月 广东哲学社会科学县域发展调研“交卷”",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739342.shtml",
+        "publishedAt": "2026-11-28T18:53:53.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T18:59:21.985+08:00",
+    "fetchedAt": "2026-11-28T19:09:34.225+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T18:59:22.455+08:00",
+      "fetchedAt": "2026-11-28T19:09:34.721+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -64,7 +64,7 @@ window.DASH_DATA = {
         {
           "name": "5小时",
           "usedPct": 0,
-          "resetAt": "2026-11-28T23:59:24.000+08:00"
+          "resetAt": "2026-11-29T00:09:36.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T18:59:22.458+08:00",
+      "fetchedAt": "2026-11-28T19:09:34.723+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T18:59:22.466+08:00",
+      "fetchedAt": "2026-11-28T19:09:34.730+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T18:59:22.466+08:00",
+      "fetchedAt": "2026-11-28T19:09:34.730+08:00",
       "error": "未启用",
       "disabled": true
     }
