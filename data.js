@@ -1,5 +1,5 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T17:47:55.270+08:00",
+  "updatedAt": "2026-11-28T17:58:07.450+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
@@ -11,7 +11,7 @@ window.DASH_DATA = {
     "windDir": "北风",
     "place": "江西鹰潭",
     "observedAt": "2026-11-28T17:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T17:47:55.271+08:00",
+    "fetchedAt": "2026-11-28T17:58:07.451+08:00",
     "error": null
   },
   "news": {
@@ -19,6 +19,16 @@ window.DASH_DATA = {
     "source": "中国新闻网",
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
+      {
+        "title": "“迷魂药”申报成其他食品 海关查获国家管制药品超百粒",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739308.shtml",
+        "publishedAt": "2026-11-28T17:43:00.000+08:00"
+      },
+      {
+        "title": "3名航天员将携“神秘礼物”返回地球",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739307.shtml",
+        "publishedAt": "2026-11-28T17:40:09.000+08:00"
+      },
       {
         "title": "东西问·兰花奖丨勒克莱齐奥：中国这片土地，我只揭开了小小一角",
         "url": "https://www.chinanews.com.cn/dxw/2026/11-28/10739305.shtml",
@@ -33,19 +43,9 @@ window.DASH_DATA = {
         "title": "前10月中国社会物流总额312.4万亿元 同比增长4.8%",
         "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739294.shtml",
         "publishedAt": "2026-11-28T17:10:14.000+08:00"
-      },
-      {
-        "title": "俄罗斯电影艺术交流周在福州启幕 三项合作签约",
-        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739292.shtml",
-        "publishedAt": "2026-11-28T17:08:40.000+08:00"
-      },
-      {
-        "title": "全球“高手”共争锋 2026上海中心高塔竞速挑战赛开赛",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739290.shtml",
-        "publishedAt": "2026-11-28T17:08:04.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T17:47:52.583+08:00",
+    "fetchedAt": "2026-11-28T17:58:04.683+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T17:47:53.370+08:00",
+      "fetchedAt": "2026-11-28T17:58:05.491+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T17:47:53.373+08:00",
+      "fetchedAt": "2026-11-28T17:58:05.495+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T17:47:53.383+08:00",
+      "fetchedAt": "2026-11-28T17:58:05.505+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T17:47:53.383+08:00",
+      "fetchedAt": "2026-11-28T17:58:05.505+08:00",
       "error": "未启用",
       "disabled": true
     }
