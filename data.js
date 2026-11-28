@@ -1,17 +1,17 @@
 window.DASH_DATA = {
-  "updatedAt": "2026-11-28T12:51:55.978+08:00",
+  "updatedAt": "2026-11-28T13:02:07.891+08:00",
   "weather": {
     "ok": true,
     "description": "晴",
     "iconKey": "clear",
-    "tempC": 20.9,
+    "tempC": 21,
     "feelsLikeC": 20.3,
-    "humidity": 52,
-    "windKph": 8.6,
+    "humidity": 51,
+    "windKph": 9,
     "windDir": "西北风",
     "place": "江西鹰潭",
-    "observedAt": "2026-11-28T12:45:00.000+08:00",
-    "fetchedAt": "2026-11-28T12:51:55.978+08:00",
+    "observedAt": "2026-11-28T13:00:00.000+08:00",
+    "fetchedAt": "2026-11-28T13:02:07.891+08:00",
     "error": null
   },
   "news": {
@@ -20,32 +20,32 @@ window.DASH_DATA = {
     "sourceUrl": "https://www.chinanews.com.cn/rss/scroll-news.xml",
     "items": [
       {
-        "title": "2026亚太高尔夫联合会常青业余锦标赛澳门圆满收杆",
-        "url": "https://www.chinanews.com.cn/ty/2026/11-28/10739198.shtml",
-        "publishedAt": "2026-11-28T12:47:46.000+08:00"
+        "title": "英国试图打开“脱欧”后的贸易枷锁",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739200.shtml",
+        "publishedAt": "2026-11-28T12:52:56.000+08:00"
       },
       {
-        "title": "20余名缅甸华裔青年博主在云南“香遇普洱”",
-        "url": "https://www.chinanews.com.cn/sh/2026/11-28/10739189.shtml",
-        "publishedAt": "2026-11-28T12:47:32.000+08:00"
+        "title": "从光伏板到塑料瓶：海外采购商在苏州寻找循环经济新方案",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739186.shtml",
+        "publishedAt": "2026-11-28T12:52:50.000+08:00"
       },
       {
-        "title": "广西浦北陈皮产业溯源平台启用",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739192.shtml",
-        "publishedAt": "2026-11-28T12:46:53.000+08:00"
+        "title": "赤壁青砖茶亮相武汉茶博会 千年茶香畅销“一带一路”",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739204.shtml",
+        "publishedAt": "2026-11-28T12:52:48.000+08:00"
       },
       {
-        "title": "厦门湖里多维度发力推动消费市场提质扩容",
-        "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739191.shtml",
-        "publishedAt": "2026-11-28T12:46:19.000+08:00"
+        "title": "中外专家学者相聚孔子故里 共话AI时代如何安顿人心",
+        "url": "https://www.chinanews.com.cn/txy/2026/11-28/10739185.shtml",
+        "publishedAt": "2026-11-28T12:51:56.000+08:00"
       },
       {
-        "title": "四川部署全面从严治党26项任务 将探索建立群众诉求“一站式”办理平台",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739190.shtml",
-        "publishedAt": "2026-11-28T12:45:35.000+08:00"
+        "title": "《两京十五日》热播 逃命的15天与天下苍生",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739203.shtml",
+        "publishedAt": "2026-11-28T12:51:48.000+08:00"
       }
     ],
-    "fetchedAt": "2026-11-28T12:51:53.255+08:00",
+    "fetchedAt": "2026-11-28T13:02:05.279+08:00",
     "error": null
   },
   "sources": {
@@ -53,7 +53,7 @@ window.DASH_DATA = {
       "ok": false,
       "label": "GitHub Copilot",
       "windows": [],
-      "fetchedAt": "2026-11-28T12:51:54.056+08:00",
+      "fetchedAt": "2026-11-28T13:02:06.086+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -63,8 +63,8 @@ window.DASH_DATA = {
       "windows": [
         {
           "name": "5小时",
-          "usedPct": 71,
-          "resetAt": "2026-11-28T12:59:17.000+08:00"
+          "usedPct": 0,
+          "resetAt": "2026-11-28T18:02:07.000+08:00"
         },
         {
           "name": "周",
@@ -72,7 +72,7 @@ window.DASH_DATA = {
           "resetAt": "2026-11-28T20:15:44.000+08:00"
         }
       ],
-      "fetchedAt": "2026-11-28T12:51:54.060+08:00",
+      "fetchedAt": "2026-11-28T13:02:06.090+08:00",
       "error": null
     },
     "mimo": {
@@ -81,7 +81,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T12:51:54.069+08:00",
+      "fetchedAt": "2026-11-28T13:02:06.100+08:00",
       "error": "未启用",
       "disabled": true
     },
@@ -91,7 +91,7 @@ window.DASH_DATA = {
       "balance": null,
       "currency": "CNY",
       "detail": null,
-      "fetchedAt": "2026-11-28T12:51:54.070+08:00",
+      "fetchedAt": "2026-11-28T13:02:06.100+08:00",
       "error": "未启用",
       "disabled": true
     }
